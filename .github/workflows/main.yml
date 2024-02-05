@@ -1,0 +1,43 @@
+name: Update meta
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+  schedule:
+    - cron : '0 16 * * *'
+
+jobs:
+  pull:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Set remote repo
+      run: git remote add ckan https://github.com/KSP-CKAN/CKAN-meta.git
+    - name: Pull repo
+      run: git pull ckan main
+
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Set up Python 3.10
+      uses: actions/setup-python@v3
+      with:
+        python-version: "3.10"
+    - name: Run script
+      run: python ghproxy_replacer.py
+
+  release:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: release-drafter/release-drafter@v5
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
