@@ -25,5 +25,8 @@ jobs:
     - name: Run script
       run: python ghproxy_replacer.py
     - uses: release-drafter/release-drafter@v5
+      with:
+        config-name: release-drafter.yml
+        disable-autolabeler: true
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
