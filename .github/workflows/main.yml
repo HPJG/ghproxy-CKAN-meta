@@ -9,14 +9,6 @@ on:
     - cron : '0 16 * * *'
 
 jobs:
-  pull:
-
-    runs-on: ubuntu-latest
-
-    steps:
-    - uses: actions/checkout@v3
-    - name: Pull repo
-      run: git pull origin main
 
   build:
 
@@ -24,18 +16,14 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
+    - name: Pull repo
+      run: git pull origin main
     - name: Set up Python 3.10
       uses: actions/setup-python@v3
       with:
         python-version: "3.10"
     - name: Run script
       run: python ghproxy_replacer.py
-
-  release:
-
-    runs-on: ubuntu-latest
-
-    steps:
     - uses: release-drafter/release-drafter@v5
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
