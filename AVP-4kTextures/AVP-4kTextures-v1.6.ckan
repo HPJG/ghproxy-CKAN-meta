@@ -8,7 +8,7 @@
     "license": "LGPL-3.0",
     "release_status": "stable",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/themaster402/AstronomersVisualPack"
+        "repository": "https://hk.gh-proxy.com/https://github.com/themaster402/AstronomersVisualPack"
     },
     "version": "v1.6",
     "ksp_version_min": "1.2",
@@ -31,7 +31,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/themaster402/AstronomersVisualPack/releases/download/v1.6/AVP_4kTextures.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/themaster402/AstronomersVisualPack/releases/download/v1.6/AVP_4kTextures.zip",
     "download_size": 70579316,
     "download_hash": {
         "sha1": "00D16FF0E42FCEF1589CE2B4E8CB6FF0684B7C46",

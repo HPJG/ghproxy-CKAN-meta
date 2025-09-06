@@ -1,0 +1,50 @@
+{
+    "spec_version": 1,
+    "identifier": "CivilianPopulation",
+    "name": "Civilian Population",
+    "abstract": "Turn your Kerbal society into a Type 1 Civilization by adding civilian exploration! Your agency as research goes on gains the ability to have civilians take part on your exploration, ultimately letting you recruit new crew members from the population (the motivation for taking civilians with you).",
+    "author": "rabidninjawombat",
+    "license": "CC-BY-NC-SA",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/124162-1-0-2-Civilian-Population-1-5-1-%28update-6-4-15%29",
+        "repository": "https://hk.gh-proxy.com/https://github.com/rabidninjawombat/CivilianPopulation",
+        "kerbalstuff": "https://kerbalstuff.com/mod/620/Civilian%20Population",
+        "x_screenshot": "https://kerbalstuff.com/content/MichaelHester07_7729/90_Civilian_Population/90_Civilian_Population-1425249184.134472.png"
+    },
+    "version": "1:1.7.4.1",
+    "ksp_version": "1.0.4",
+    "depends": [
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "SCANsat"
+        },
+        {
+            "name": "HangarExtender"
+        },
+        {
+            "name": "ExtraPlanetaryLaunchpads"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/NetherdyneAerospace",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/CivilianPopulation-1-1.7.4.1/1DEABD56-CivilianPopulation-1-1.7.4.1.zip",
+    "download_size": 23514209,
+    "download_hash": {
+        "sha1": "1DEABD56458E77641CE77D6E5BEAD097BC26E0AC",
+        "sha256": "ED21CFFEA3FAA5EA2A084820F975F8785720658B5B8D83DF43B03D376E09E6B8"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

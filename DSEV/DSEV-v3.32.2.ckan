@@ -9,8 +9,8 @@
     "license": "restricted",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/122162-*",
-        "repository": "https://ghproxy.net/https://github.com/Angel-125/DSEV",
-        "bugtracker": "https://ghproxy.net/https://github.com/Angel-125/DSEV/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/Angel-125/DSEV",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Angel-125/DSEV/issues",
         "remote-avc": "https://raw.githubusercontent.com/Angel-125/DSEV/master/GameData/WildBlueIndustries/DSEV/DSEV.version"
     },
     "tags": [
@@ -82,7 +82,7 @@
             "install_to": "Ships"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Angel-125/DSEV/releases/download/v3.32.2/DSEV.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Angel-125/DSEV/releases/download/v3.32.2/DSEV.zip",
     "download_size": 132828088,
     "download_hash": {
         "sha1": "2735595910F248E9B94CB0F72021D9ABE165C45B",

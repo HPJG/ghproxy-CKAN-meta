@@ -9,9 +9,9 @@
     ],
     "license": "CC-BY-NC-SA-3.0",
     "resources": {
-        "homepage": "https://ghproxy.net/https://github.com/KSP-RO/TacLifeSupport/wiki",
-        "repository": "https://ghproxy.net/https://github.com/KSP-RO/TacLifeSupport",
-        "bugtracker": "https://ghproxy.net/https://github.com/KSP-RO/TacLifeSupport/issues"
+        "homepage": "https://hk.gh-proxy.com/https://github.com/KSP-RO/TacLifeSupport/wiki",
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/TacLifeSupport",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-RO/TacLifeSupport/issues"
     },
     "version": "v0.12.1",
     "ksp_version": "1.1.2",
@@ -38,7 +38,7 @@
             "filter_regexp": "PluginData/TacLifeSupport/LifeSupport\\.cfg$"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSP-RO/TacLifeSupport/releases/download/v0.12.1/TacLifeSupport-0.12.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/TacLifeSupport/releases/download/v0.12.1/TacLifeSupport-0.12.1.zip",
     "download_size": 4918553,
     "download_hash": {
         "sha1": "8C5E7E53E7963486F45CAB74AF5C769D08E11E62",

@@ -9,8 +9,8 @@
     "license": "MIT",
     "resources": {
         "spacedock": "https://spacedock.info/mod/2800/Interstellar%20Redistributable%20",
-        "repository": "https://ghproxy.net/https://github.com/sswelm/KSP-Interstellar-Extended",
-        "bugtracker": "https://ghproxy.net/https://github.com/sswelm/KSP-Interstellar-Extended/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/sswelm/KSP-Interstellar-Extended",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/sswelm/KSP-Interstellar-Extended/issues"
     },
     "tags": [
         "plugin",

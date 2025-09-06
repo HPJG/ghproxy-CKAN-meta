@@ -14,7 +14,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/196289-*",
-        "repository": "https://ghproxy.net/https://github.com/R-T-B/EnvironmentalVisualEnhancements"
+        "repository": "https://hk.gh-proxy.com/https://github.com/R-T-B/EnvironmentalVisualEnhancements"
     },
     "tags": [
         "plugin",
@@ -36,7 +36,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/R-T-B/EnvironmentalVisualEnhancements/releases/download/1.10.1-2/EnvironmentalVisualEnhancements-1.10.1-2.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/R-T-B/EnvironmentalVisualEnhancements/releases/download/1.10.1-2/EnvironmentalVisualEnhancements-1.10.1-2.zip",
     "download_size": 573229,
     "download_hash": {
         "sha1": "AD87FAA26C83FF033F4A637021B614AD8EBD7128",

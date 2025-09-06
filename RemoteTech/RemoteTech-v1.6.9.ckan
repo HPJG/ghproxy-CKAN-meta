@@ -8,8 +8,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/83305",
-        "repository": "https://ghproxy.net/https://github.com/RemoteTechnologiesGroup/RemoteTech",
-        "bugtracker": "https://ghproxy.net/https://github.com/RemoteTechnologiesGroup/RemoteTech/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/RemoteTechnologiesGroup/RemoteTech",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/RemoteTechnologiesGroup/RemoteTech/issues",
         "manual": "http://remotetechnologiesgroup.github.io/RemoteTech/",
         "kerbalstuff": "https://kerbalstuff.com/mod/134/RemoteTech",
         "x_screenshot": "https://kerbalstuff.com/content/Starstrider42_807/RemoteTech/RemoteTech.png"
@@ -29,7 +29,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/RemoteTechnologiesGroup/RemoteTech/releases/download/v1.6.9/RemoteTech-1.6.9.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/RemoteTechnologiesGroup/RemoteTech/releases/download/v1.6.9/RemoteTech-1.6.9.zip",
     "download_size": 3485104,
     "download_hash": {
         "sha1": "9DB9FBEA5BEAB04DA4F1FB133E9D0F21B5F772CE",

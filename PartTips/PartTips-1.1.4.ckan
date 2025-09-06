@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/226001-1125-part-tips-open-tooltips-on-existing-parts/",
         "spacedock": "https://spacedock.info/mod/3719/Part%20Tips",
-        "repository": "https://ghproxy.net/https://github.com/Halbann/PartTips",
-        "bugtracker": "https://ghproxy.net/https://github.com/Halbann/PartTips/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/Halbann/PartTips",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Halbann/PartTips/issues",
         "remote-avc": "https://raw.githubusercontent.com/Halbann/PartTips/main/GameData/PartTips/PartTips.version",
         "x_screenshot": "https://spacedock.info/content/Halban_103632/Part_Tips/Part_Tips-1727122303.png"
     },
@@ -22,7 +22,7 @@
         "information"
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/Halbann/PartTips/releases/download/1.1.4/PartTips-1.1.4.zip",
+        "https://hk.gh-proxy.com/https://github.com/Halbann/PartTips/releases/download/1.1.4/PartTips-1.1.4.zip",
         "https://spacedock.info/mod/3719/Part%20Tips/download/1.1.4"
     ],
     "download_size": 39498,

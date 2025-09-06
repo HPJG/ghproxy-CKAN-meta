@@ -6,7 +6,7 @@
     "author": "sswelm",
     "license": "GPL-3.0",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/sswelm/KSPInterstellar"
+        "repository": "https://hk.gh-proxy.com/https://github.com/sswelm/KSPInterstellar"
     },
     "version": "1.6.7",
     "ksp_version": "1.0.5",
@@ -48,7 +48,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/sswelm/KSPInterstellar/releases/download/1.6.7/KSPI_Extended_1.6.7.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/sswelm/KSPInterstellar/releases/download/1.6.7/KSPI_Extended_1.6.7.zip",
     "download_size": 57435941,
     "download_hash": {
         "sha1": "8120E04791F91EF73A2B24C992853974FE748EB0",

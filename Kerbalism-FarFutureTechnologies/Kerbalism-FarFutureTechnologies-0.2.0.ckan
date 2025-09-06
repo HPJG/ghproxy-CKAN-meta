@@ -9,8 +9,8 @@
     "ksp_version_max": "1.12",
     "license": "MIT",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/judicator/KerbalismFFT",
-        "bugtracker": "https://ghproxy.net/https://github.com/judicator/KerbalismFFT/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/judicator/KerbalismFFT",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/judicator/KerbalismFFT/issues"
     },
     "tags": [
         "plugin",
@@ -45,7 +45,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/judicator/KerbalismFFT/releases/download/0.2.0/KerbalismFFT_0.2.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/judicator/KerbalismFFT/releases/download/0.2.0/KerbalismFFT_0.2.0.zip",
     "download_size": 46045,
     "download_hash": {
         "sha1": "494DE02423C03B5CEE15C7295E010CCBB6227E78",

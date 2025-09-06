@@ -9,10 +9,10 @@
     "ksp_version_max": "1.10.99",
     "license": "MIT",
     "resources": {
-        "homepage": "https://ghproxy.net/https://github.com/ChrisAdderley/DynamicBatteryStorage/wiki",
-        "repository": "https://ghproxy.net/https://github.com/ChrisAdderley/DynamicBatteryStorage",
-        "bugtracker": "https://ghproxy.net/https://github.com/ChrisAdderley/DynamicBatteryStorage/issues",
-        "metanetkan": "https://ghproxy.net/https://github.com/ChrisAdderley/DynamicBatteryStorage/raw/master/CKAN/DynamicBatteryStorage.netkan"
+        "homepage": "https://hk.gh-proxy.com/https://github.com/ChrisAdderley/DynamicBatteryStorage/wiki",
+        "repository": "https://hk.gh-proxy.com/https://github.com/ChrisAdderley/DynamicBatteryStorage",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/ChrisAdderley/DynamicBatteryStorage/issues",
+        "metanetkan": "https://hk.gh-proxy.com/https://github.com/ChrisAdderley/DynamicBatteryStorage/raw/master/CKAN/DynamicBatteryStorage.netkan"
     },
     "tags": [
         "plugin",
@@ -30,7 +30,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/ChrisAdderley/DynamicBatteryStorage/releases/download/2.1.8/DynamicBatteryStorage_2_1_8.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/ChrisAdderley/DynamicBatteryStorage/releases/download/2.1.8/DynamicBatteryStorage_2_1_8.zip",
     "download_size": 66707,
     "download_hash": {
         "sha1": "4701F66ECED137039728550D9F99708FB3780893",

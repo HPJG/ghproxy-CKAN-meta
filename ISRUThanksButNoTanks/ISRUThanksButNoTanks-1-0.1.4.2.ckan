@@ -13,9 +13,9 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/204750-*",
-        "repository": "https://ghproxy.net/https://github.com/zer0Kerbal/ISRUThanksButNoTanks",
-        "bugtracker": "https://ghproxy.net/https://github.com/zer0Kerbal/ISRUThanksButNoTanks/issues",
-        "discussions": "https://ghproxy.net/https://github.com/zer0Kerbal/ISRUThanksButNoTanks/discussions",
+        "repository": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/ISRUThanksButNoTanks",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/ISRUThanksButNoTanks/issues",
+        "discussions": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/ISRUThanksButNoTanks/discussions",
         "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/ISRUThanksButNoTanks/master/ISRUThanksButNoTanks.version"
     },
     "tags": [
@@ -41,7 +41,7 @@
             "install_to": "GameData/QuickBASIC"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/zer0Kerbal/ISRUThanksButNoTanks/releases/download/0.1.4.2/ISRUThanksButNoTanks-0.1.4.2.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/ISRUThanksButNoTanks/releases/download/0.1.4.2/ISRUThanksButNoTanks-0.1.4.2.zip",
     "download_size": 19078,
     "download_hash": {
         "sha1": "BC38E35541ED047A5A5659C9263FBF15335C7876",

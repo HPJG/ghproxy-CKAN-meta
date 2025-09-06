@@ -11,7 +11,7 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/158081-*",
         "spacedock": "https://spacedock.info/mod/2208/Upgrades%20GUI%20-%20Extended",
-        "repository": "https://ghproxy.net/https://github.com/zer0Kerbal/UpgradesGUIExtended",
+        "repository": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/UpgradesGUIExtended",
         "x_screenshot": "https://spacedock.info/content/zer0Kerbal_21147/Upgrades_GUI_-_Extended/Upgrades_GUI_-_Extended-1565648658.949599.png"
     },
     "version": "1.5.0.2",

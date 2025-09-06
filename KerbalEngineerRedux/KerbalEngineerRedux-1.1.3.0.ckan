@@ -7,7 +7,7 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/17833-130-kerbal-engineer-redux-1130-2017-05-28/",
-        "repository": "https://ghproxy.net/https://github.com/CYBUTEK/KerbalEngineer"
+        "repository": "https://hk.gh-proxy.com/https://github.com/CYBUTEK/KerbalEngineer"
     },
     "version": "1.1.3.0",
     "ksp_version_min": "1.2.9",
@@ -18,7 +18,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/CYBUTEK/KerbalEngineer/releases/download/1.1.3.0/KerbalEngineer-1.1.3.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/CYBUTEK/KerbalEngineer/releases/download/1.1.3.0/KerbalEngineer-1.1.3.0.zip",
     "download_size": 909377,
     "download_hash": {
         "sha1": "339C4DC270A4F071B29C9841B77F0206E667976F",

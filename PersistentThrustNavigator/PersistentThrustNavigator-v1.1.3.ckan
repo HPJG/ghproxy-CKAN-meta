@@ -13,7 +13,7 @@
     "license": "LGPL-2.1",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/107676-*/?do=findComment&comment=4152274",
-        "repository": "https://ghproxy.net/https://github.com/JarredEagley/PersistentThrustNavigator/tree/PTNavigator"
+        "repository": "https://hk.gh-proxy.com/https://github.com/JarredEagley/PersistentThrustNavigator/tree/PTNavigator"
     },
     "tags": [
         "plugin",
@@ -27,7 +27,7 @@
             "name": "PersistentThrust"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/JarredEagley/PersistentThrustNavigator/releases/download/v1.1.3/PersistentThrustNavigator.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/JarredEagley/PersistentThrustNavigator/releases/download/v1.1.3/PersistentThrustNavigator.zip",
     "download_size": 38261,
     "download_hash": {
         "sha1": "2298D548C2833355DC6A1AA44E235AB2CEE3FB86",

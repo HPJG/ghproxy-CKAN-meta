@@ -15,8 +15,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/190737-*",
-        "repository": "https://ghproxy.net/https://github.com/JonnyOThan/RasterPropMonitor/releases",
-        "bugtracker": "https://ghproxy.net/https://github.com/JonnyOThan/RasterPropMonitor/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/JonnyOThan/RasterPropMonitor/releases",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/JonnyOThan/RasterPropMonitor/issues"
     },
     "tags": [
         "plugin",
@@ -38,7 +38,7 @@
             "comment": "This folder contains the multi-function display props, which belong in this module along with the other props"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/JonnyOThan/RasterPropMonitor/releases/download/v0.31.3/RasterPropMonitor-v0.31.3.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/JonnyOThan/RasterPropMonitor/releases/download/v0.31.3/RasterPropMonitor-v0.31.3.zip",
     "download_size": 1529454,
     "download_hash": {
         "sha1": "8D45566FF821EDC5A92AA3B854233DE7CCAE5B0F",

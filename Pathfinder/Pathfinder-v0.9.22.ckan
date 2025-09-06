@@ -7,7 +7,7 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/121397-105-beta-pathfinder-0910-space-camping-geoscience/&page=1",
-        "repository": "https://ghproxy.net/https://github.com/Angel-125/Pathfinder"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Angel-125/Pathfinder"
     },
     "version": "v0.9.22",
     "ksp_version": "1.1.2",
@@ -62,7 +62,7 @@
             "install_to": "GameData/WildBlueIndustries"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Angel-125/Pathfinder/releases/download/v0.9.22/Pathfinder_0_9_22a.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Angel-125/Pathfinder/releases/download/v0.9.22/Pathfinder_0_9_22a.zip",
     "download_size": 24894556,
     "download_hash": {
         "sha1": "1C3F9297D7FA061198C855F97C082297CF400A61",

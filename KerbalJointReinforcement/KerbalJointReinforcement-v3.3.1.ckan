@@ -8,12 +8,12 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/55657",
-        "repository": "https://ghproxy.net/https://github.com/ferram4/Kerbal-Joint-Reinforcement/"
+        "repository": "https://hk.gh-proxy.com/https://github.com/ferram4/Kerbal-Joint-Reinforcement/"
     },
     "version": "v3.3.1",
     "ksp_version_min": "1.2.0",
     "ksp_version_max": "1.2.99",
-    "download": "https://ghproxy.net/https://github.com/ferram4/Kerbal-Joint-Reinforcement/releases/download/v3.3.1/KerbalJointReinforcement_v3.3.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/ferram4/Kerbal-Joint-Reinforcement/releases/download/v3.3.1/KerbalJointReinforcement_v3.3.1.zip",
     "download_size": 38652,
     "download_hash": {
         "sha1": "ABE982A23ADC4695414335EFFDB1309ED64B48AC",

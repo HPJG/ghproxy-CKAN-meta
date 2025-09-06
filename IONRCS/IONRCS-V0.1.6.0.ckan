@@ -7,7 +7,7 @@
     "license": "GPL-3.0",
     "resources": {
         "spacedock": "https://spacedock.info/mod/586/ION%20RCS",
-        "repository": "https://ghproxy.net/https://github.com/JPLRepo/IONRCS",
+        "repository": "https://hk.gh-proxy.com/https://github.com/JPLRepo/IONRCS",
         "x_screenshot": "https://spacedock.info/content/Jplrepo_405/ION_RCS/ION_RCS-1461554864.78268.png"
     },
     "version": "V0.1.6.0",

@@ -7,7 +7,7 @@
     "license": "restricted",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/167233-SigmaReplacementsSkyBox/",
-        "repository": "https://ghproxy.net/https://github.com/Sigma88/Sigma-Replacements"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Sigma88/Sigma-Replacements"
     },
     "version": "B_v0.1.0",
     "ksp_version": "1.3.1",
@@ -17,7 +17,7 @@
             "install_to": "GameData/Sigma/Replacements"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Sigma88/Sigma-Replacements/releases/download/B_v0.1.0/Sigma-Replacements_SkyBox.v0.1.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Sigma88/Sigma-Replacements/releases/download/B_v0.1.0/Sigma-Replacements_SkyBox.v0.1.0.zip",
     "download_size": 19413,
     "download_hash": {
         "sha1": "F32E5DDB3ABE559047E9B2A028A72092A8CB9168",

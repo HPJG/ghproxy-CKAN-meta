@@ -15,7 +15,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/58235-11-modular-fuel-tanks-v570/",
-        "repository": "https://ghproxy.net/https://github.com/NathanKell/ModularFuelSystem"
+        "repository": "https://hk.gh-proxy.com/https://github.com/NathanKell/ModularFuelSystem"
     },
     "version": "5.8.1",
     "ksp_version": "1.2.0",

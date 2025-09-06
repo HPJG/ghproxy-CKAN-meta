@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/211388-zive-system-planet-pack/",
         "spacedock": "https://spacedock.info/mod/3191/Zive%20System",
-        "repository": "https://ghproxy.net/https://github.com/Sushutt/ZiveSystem",
-        "bugtracker": "https://ghproxy.net/https://github.com/Sushutt/ZiveSystem/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/Sushutt/ZiveSystem",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Sushutt/ZiveSystem/issues",
         "x_screenshot": "https://spacedock.info/content/Sushut_95985/Zive_System/Zive_System-1673155072.png"
     },
     "tags": [
@@ -36,7 +36,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/Sushutt/ZiveSystem/releases/download/v1.3/ZiveSystem.zip",
+        "https://hk.gh-proxy.com/https://github.com/Sushutt/ZiveSystem/releases/download/v1.3/ZiveSystem.zip",
         "https://spacedock.info/mod/3191/Zive%20System/download/1.3"
     ],
     "download_size": 223744714,

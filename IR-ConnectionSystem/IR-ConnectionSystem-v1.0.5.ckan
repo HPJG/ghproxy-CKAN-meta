@@ -9,9 +9,9 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/219592-*",
-        "repository": "https://ghproxy.net/https://github.com/meirumeiru/IR-ConnectionSystem",
-        "bugtracker": "https://ghproxy.net/https://github.com/meirumeiru/IR-ConnectionSystem/issues",
-        "remote-avc": "https://ghproxy.net/https://github.com/meirumeiru/IR-ConnectionSystem/raw/main/Resources/GameData/IRConnectionSystem/ConnectionSystem.version"
+        "repository": "https://hk.gh-proxy.com/https://github.com/meirumeiru/IR-ConnectionSystem",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/meirumeiru/IR-ConnectionSystem/issues",
+        "remote-avc": "https://hk.gh-proxy.com/https://github.com/meirumeiru/IR-ConnectionSystem/raw/main/Resources/GameData/IRConnectionSystem/ConnectionSystem.version"
     },
     "tags": [
         "plugin",
@@ -28,7 +28,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/meirumeiru/IR-ConnectionSystem/releases/download/v1.0.5/IR-ConnectionSystem_v1.0.5.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/meirumeiru/IR-ConnectionSystem/releases/download/v1.0.5/IR-ConnectionSystem_v1.0.5.zip",
     "download_size": 27732,
     "download_hash": {
         "sha1": "69C1F2FDBB8EB4D881C94F95255B99FAA7B3F83A",

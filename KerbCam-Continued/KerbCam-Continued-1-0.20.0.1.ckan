@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/181457-145-151-161-kerbcam-continuedcamera-pathing-tool-for-videos/",
         "spacedock": "https://spacedock.info/mod/2135/KerbCam",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/kerbcam",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/kerbcam/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/kerbcam",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/kerbcam/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/KerbCam"
     },
     "tags": [

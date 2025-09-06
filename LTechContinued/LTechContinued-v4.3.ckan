@@ -11,7 +11,7 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/49319-0240-l-tech-scientific-industries-v220/&page=15#comment-2824326",
         "spacedock": "https://spacedock.info/mod/227/L-Tech%20Scientific%20Industries%20Continued",
-        "repository": "https://ghproxy.net/https://github.com/Olympic1/L-Tech"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Olympic1/L-Tech"
     },
     "version": "v4.3",
     "ksp_version": "1.2.0",
@@ -52,7 +52,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Olympic1/L-Tech/releases/download/v4.3/L-Tech_Scientific_Industries_Continued-v0.4.3.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Olympic1/L-Tech/releases/download/v4.3/L-Tech_Scientific_Industries_Continued-v0.4.3.0.zip",
     "download_size": 1517477,
     "download_hash": {
         "sha1": "517C2420CD8FF603012ADB71BB4BD18BDD9A5D5B",

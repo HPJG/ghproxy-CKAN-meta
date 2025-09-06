@@ -15,8 +15,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/200041-110x-111x-moar-station-science/",
         "spacedock": "https://spacedock.info/mod/2670/MOAR%20Station%20Science",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/StationScience",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/StationScience/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/StationScience",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/StationScience/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/StationScience",
         "x_screenshot": "http://i.imgur.com/63DTlDLl.png"
     },
@@ -52,7 +52,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/linuxgurugamer/StationScience/releases/download/2.6.2.1/StationScience-1.12.0-2.6.2.1.zip",
+        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/StationScience/releases/download/2.6.2.1/StationScience-1.12.0-2.6.2.1.zip",
         "https://spacedock.info/mod/2670/MOAR%20Station%20Science/download/2.6.2.1"
     ],
     "download_size": 7081830,

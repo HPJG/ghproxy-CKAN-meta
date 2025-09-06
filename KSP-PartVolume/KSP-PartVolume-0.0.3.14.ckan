@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/201354-111x-ksp-part-volumes",
         "spacedock": "https://spacedock.info/mod/2672/KSP_PartVolume",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/KSP_PartVolume",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/KSP_PartVolume/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/KSP_PartVolume",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/KSP_PartVolume/issues",
         "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/KSP_PartVolume/refs/heads/master/KSP_PartVolume.version",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/KSP_PartVolume/KSP_PartVolume-1617151715.35562.png"
     },
@@ -43,7 +43,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/linuxgurugamer/KSP_PartVolume/releases/download/0.0.3.14/KSP_PartVolume-1.12.0-0.0.3.14.zip",
+        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/KSP_PartVolume/releases/download/0.0.3.14/KSP_PartVolume-1.12.0-0.0.3.14.zip",
         "https://spacedock.info/mod/2672/KSP_PartVolume/download/0.0.3.14"
     ],
     "download_size": 33475,

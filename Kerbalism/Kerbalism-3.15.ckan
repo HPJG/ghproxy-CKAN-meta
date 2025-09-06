@@ -10,8 +10,8 @@
     "license": "Unlicense",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/190382-*",
-        "repository": "https://ghproxy.net/https://github.com/Kerbalism/Kerbalism",
-        "bugtracker": "https://ghproxy.net/https://github.com/Kerbalism/Kerbalism/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/Kerbalism/Kerbalism",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Kerbalism/Kerbalism/issues",
         "manual": "https://kerbalism.github.io/Kerbalism",
         "remote-avc": "https://raw.githubusercontent.com/Kerbalism/Kerbalism/master/GameData/Kerbalism/Kerbalism.version"
     },
@@ -53,7 +53,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Kerbalism/Kerbalism/releases/download/3.15/Kerbalism-Core_v3.15_for_KSP1.8.0-1.12.9.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Kerbalism/Kerbalism/releases/download/3.15/Kerbalism-Core_v3.15_for_KSP1.8.0-1.12.9.zip",
     "download_size": 1623546,
     "download_hash": {
         "sha1": "B086E90EE5AD0C166D6DC3B450F9486AB49A2061",

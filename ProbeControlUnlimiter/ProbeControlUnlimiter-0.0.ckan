@@ -10,8 +10,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/196893-*",
-        "repository": "https://ghproxy.net/https://github.com/DarthPointer/ProbeControlUnlimiter",
-        "bugtracker": "https://ghproxy.net/https://github.com/DarthPointer/ProbeControlUnlimiter/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/DarthPointer/ProbeControlUnlimiter",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/DarthPointer/ProbeControlUnlimiter/issues",
         "remote-avc": "https://raw.githubusercontent.com/DarthPointer/ProbeControlUnlimiter/master/GameData/ProbeControlUnlimiter/ProbeControlUnlimiter.version"
     },
     "tags": [
@@ -22,7 +22,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/DarthPointer/ProbeControlUnlimiter/releases/download/0.0/ProbeControlUnlimiter0-0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/DarthPointer/ProbeControlUnlimiter/releases/download/0.0/ProbeControlUnlimiter0-0.zip",
     "download_size": 3397,
     "download_hash": {
         "sha1": "79B6E0D8190F59AB1E53B0829B5174417B0484D5",

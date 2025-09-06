@@ -12,14 +12,14 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/172663-*",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/abcors",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/abcors",
         "remote-avc": "http://ksp.spacetux.net/avc/ABCORS"
     },
     "tags": [
         "plugin",
         "information"
     ],
-    "download": "https://ghproxy.net/https://github.com/linuxgurugamer/abcors/releases/download/0.5.1.4/ABCORS-1.12.0-0.5.1.4.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/abcors/releases/download/0.5.1.4/ABCORS-1.12.0-0.5.1.4.zip",
     "download_size": 10047,
     "download_hash": {
         "sha1": "8999245CFDC32D8A6CA619DFF60B3AE9AC055DF6",

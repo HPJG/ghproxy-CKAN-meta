@@ -9,8 +9,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/219192-*",
-        "repository": "https://ghproxy.net/https://github.com/DeltaDizzy/PerSaveScreenshots",
-        "bugtracker": "https://ghproxy.net/https://github.com/DeltaDizzy/PerSaveScreenshots/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/DeltaDizzy/PerSaveScreenshots",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/DeltaDizzy/PerSaveScreenshots/issues"
     },
     "tags": [
         "plugin",
@@ -21,7 +21,7 @@
             "name": "Shabby"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/DeltaDizzy/PerSaveScreenshots/releases/download/1.1/PerSaveScreenshots.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/DeltaDizzy/PerSaveScreenshots/releases/download/1.1/PerSaveScreenshots.zip",
     "download_size": 14491,
     "download_hash": {
         "sha1": "461ECABA1A2AB8C83F05FDCE844DC23A5270CB2C",

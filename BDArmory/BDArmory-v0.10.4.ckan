@@ -1,0 +1,24 @@
+{
+    "spec_version": 1,
+    "identifier": "BDArmory",
+    "name": "BDArmory",
+    "abstract": "Weapons, targeting systems, AI, etc",
+    "author": "BahamutoD",
+    "license": "CC-BY-SA-2.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/85209",
+        "spacedock": "https://spacedock.info/mod/79/BDArmory",
+        "repository": "https://hk.gh-proxy.com/https://github.com/BahamutoD/BDArmory",
+        "x_screenshot": "https://spacedock.info/content/BahamutoD_222/BDArmory/BDArmory-1455981433.8563015.png"
+    },
+    "version": "v0.10.4",
+    "ksp_version": "1.0.5",
+    "download": "https://spacedock.info/mod/79/BDArmory/download/0.10.4",
+    "download_size": 30938187,
+    "download_hash": {
+        "sha1": "99EAAE26545E72167E43D37D5EE5926B74FE1DDC",
+        "sha256": "E7AA806A8A33670944694F599BB27B92502F2FBF3A0C7D8AAE938E3D21CD2AE5"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,62 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "CargoTransportationSolutions",
+    "name": "Cargo Transportation Solutions",
+    "abstract": "Transport 2.5 to 3.75m parts to space and other bodies",
+    "author": "Olympic1",
+    "license": "CC-BY-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/70203-/",
+        "spacedock": "https://spacedock.info/mod/28/Cargo%20Transportation%20Solutions",
+        "repository": "https://hk.gh-proxy.com/https://github.com/Olympic1/TalisarParts",
+        "x_screenshot": "https://spacedock.info/content/Olympic1_154/Cargo_Transportation_Solutions/Cargo_Transportation_Solutions-1455807402.613233.png"
+    },
+    "version": "0.4.2",
+    "ksp_version_min": "1.0.0",
+    "ksp_version_max": "1.1.3",
+    "depends": [
+        {
+            "name": "FirespitterCore"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "ExtraPlanetaryLaunchpads"
+        },
+        {
+            "name": "Karbonite"
+        },
+        {
+            "name": "KarbonitePlus"
+        },
+        {
+            "name": "KaribouExpeditionRover"
+        },
+        {
+            "name": "UKS"
+        },
+        {
+            "name": "USI-EXP"
+        },
+        {
+            "name": "USI-LS"
+        },
+        {
+            "name": "USI-SRV"
+        }
+    ],
+    "install": [
+        {
+            "find": "TalisarParts",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/28/Cargo%20Transportation%20Solutions/download/0.4.2",
+    "download_size": 1764922,
+    "download_hash": {
+        "sha1": "30641E5F4A21DE84D68D581379065C9BDDF6D6BC",
+        "sha256": "E6DE08AA3F61F2B36FC82E0649130D1BB05933A9EC5E6BC7357B1AB303D49E97"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

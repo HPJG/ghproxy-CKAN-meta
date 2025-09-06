@@ -7,7 +7,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/147010-monthly-budgets",
-        "repository": "https://ghproxy.net/https://github.com/severedsolo/MonthlyBudgets"
+        "repository": "https://hk.gh-proxy.com/https://github.com/severedsolo/MonthlyBudgets"
     },
     "version": "2.1.1",
     "ksp_version": "1.2.0",
@@ -22,7 +22,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/severedsolo/MonthlyBudgets/releases/download/2.1.1/MonthlyBudgets2.1.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/severedsolo/MonthlyBudgets/releases/download/2.1.1/MonthlyBudgets2.1.1.zip",
     "download_size": 15295,
     "download_hash": {
         "sha1": "D15EF9DF72486193181CADE4E7FD451C59B67553",

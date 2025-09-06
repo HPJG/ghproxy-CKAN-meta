@@ -13,7 +13,7 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/151818-*",
         "spacedock": "https://spacedock.info/mod/1052/Kerbal-Konstructs",
-        "repository": "https://ghproxy.net/https://github.com/GER-Space/Kerbal-Konstructs",
+        "repository": "https://hk.gh-proxy.com/https://github.com/GER-Space/Kerbal-Konstructs",
         "x_screenshot": "https://spacedock.info/content/GER_Space_8909/Kerbal-Konstructs/Kerbal-Konstructs-1479250625.5826087.png"
     },
     "version": "1.7.0.1",

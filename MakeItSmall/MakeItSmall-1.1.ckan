@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/135395-11-makeitsmall-11-because-sometime-you-need-stuff-to-be-smaller/",
-        "repository": "https://ghproxy.net/https://github.com/sarbian/MakeItSmall"
+        "repository": "https://hk.gh-proxy.com/https://github.com/sarbian/MakeItSmall"
     },
     "version": "1.1",
     "ksp_version": "1.1.0",

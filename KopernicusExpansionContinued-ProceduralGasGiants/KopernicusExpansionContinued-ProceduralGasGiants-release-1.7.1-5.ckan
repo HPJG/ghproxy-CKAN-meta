@@ -12,8 +12,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/119211-*",
-        "repository": "https://ghproxy.net/https://github.com/StollD/KopernicusExpansion-Continued",
-        "bugtracker": "https://ghproxy.net/https://github.com/StollD/KopernicusExpansion-Continued/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/StollD/KopernicusExpansion-Continued",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/StollD/KopernicusExpansion-Continued/issues"
     },
     "tags": [
         "plugin",
@@ -36,7 +36,7 @@
             ]
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/StollD/KopernicusExpansion-Continued/releases/download/release-1.7.1-5/KEX-ProceduralGasGiants-1.7.1-5.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/StollD/KopernicusExpansion-Continued/releases/download/release-1.7.1-5/KEX-ProceduralGasGiants-1.7.1-5.zip",
     "download_size": 92680,
     "download_hash": {
         "sha1": "254738A899CB53173D1350555F7B60E02F29C7E0",

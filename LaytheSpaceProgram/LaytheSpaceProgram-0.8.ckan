@@ -10,7 +10,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/163109-*",
-        "repository": "https://ghproxy.net/https://github.com/GregroxMun/Alien-Space-Programs"
+        "repository": "https://hk.gh-proxy.com/https://github.com/GregroxMun/Alien-Space-Programs"
     },
     "version": "0.8",
     "ksp_version": "1.0.5",
@@ -30,7 +30,7 @@
             "name": "AlienSpaceProgram"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/GregroxMun/Alien-Space-Programs/releases/download/0.8/LaytheSpaceProgram.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/GregroxMun/Alien-Space-Programs/releases/download/0.8/LaytheSpaceProgram.zip",
     "download_size": 2559333,
     "download_hash": {
         "sha1": "92A6918CFCB0271F7CCAD0836F416A760AD160CA",

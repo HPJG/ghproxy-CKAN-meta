@@ -9,8 +9,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/96493-win-kerbal-config-editor-v104-release/",
         "spacedock": "https://spacedock.info/mod/260/Kerbal%20Config%20Editor",
-        "repository": "https://ghproxy.net/https://github.com/IRnifty/KerbalConfigEditor",
-        "bugtracker": "https://ghproxy.net/https://github.com/IRnifty/KerbalConfigEditor/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/IRnifty/KerbalConfigEditor",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/IRnifty/KerbalConfigEditor/issues"
     },
     "version": "v1.0.4",
     "ksp_version": "1.0.5",

@@ -7,7 +7,7 @@
     "license": "restricted",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/126375-1",
-        "repository": "https://ghproxy.net/https://github.com/Poodmund/PoodsOPMVO/"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Poodmund/PoodsOPMVO/"
     },
     "version": "v0.3.2",
     "ksp_version": "1.2.2",
@@ -38,7 +38,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Poodmund/PoodsOPMVO/releases/download/v0.3.2/PoodsOPMVO_v_0_3_2.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Poodmund/PoodsOPMVO/releases/download/v0.3.2/PoodsOPMVO_v_0_3_2.zip",
     "download_size": 79819826,
     "download_hash": {
         "sha1": "385F924E6F225A7D0FA9ECF7B78431D0A4084319",

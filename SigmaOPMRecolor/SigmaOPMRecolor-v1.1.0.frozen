@@ -7,7 +7,7 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/112095",
-        "repository": "https://ghproxy.net/https://github.com/Sigma88/Sigma-OPMRecolor"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Sigma88/Sigma-OPMRecolor"
     },
     "version": "v1.1.0",
     "ksp_version": "1.0.5",
@@ -34,7 +34,7 @@
             "install_to": "GameData/Sigma"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Sigma88/Sigma-OPMRecolor/releases/download/v1.1.0/Sigma-OPMRecolor.v1.1.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Sigma88/Sigma-OPMRecolor/releases/download/v1.1.0/Sigma-OPMRecolor.v1.1.0.zip",
     "download_size": 280486,
     "download_hash": {
         "sha1": "7DB3751C44DEC185B45EBCBF5125AE551AE57D7F",

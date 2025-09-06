@@ -7,11 +7,11 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/183810-17-urgent-contracts-01-making-deadlines-matter/",
-        "repository": "https://ghproxy.net/https://github.com/GarwelGarwel/UrgentContracts"
+        "repository": "https://hk.gh-proxy.com/https://github.com/GarwelGarwel/UrgentContracts"
     },
     "version": "v0.1.0",
     "ksp_version_min": "1.7.0",
-    "download": "https://ghproxy.net/https://github.com/GarwelGarwel/UrgentContracts/releases/download/v0.1.0/UrgentContracts_0.1.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/GarwelGarwel/UrgentContracts/releases/download/v0.1.0/UrgentContracts_0.1.0.zip",
     "download_size": 10349,
     "download_hash": {
         "sha1": "63C56B8F21DA78A9C13137364810957BABB8EE68",

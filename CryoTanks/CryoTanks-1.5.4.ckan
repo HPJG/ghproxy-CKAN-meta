@@ -9,10 +9,10 @@
     "ksp_version_max": "1.11.99",
     "license": "restricted",
     "resources": {
-        "homepage": "https://ghproxy.net/https://github.com/post-kerbin-mining-corporation/CryoTanks/wiki",
-        "repository": "https://ghproxy.net/https://github.com/post-kerbin-mining-corporation/CryoTanks",
-        "bugtracker": "https://ghproxy.net/https://github.com/post-kerbin-mining-corporation/CryoTanks/issues",
-        "metanetkan": "https://ghproxy.net/https://github.com/post-kerbin-mining-corporation/CryoTanks/raw/master/CKAN/CryoTanks.netkan"
+        "homepage": "https://hk.gh-proxy.com/https://github.com/post-kerbin-mining-corporation/CryoTanks/wiki",
+        "repository": "https://hk.gh-proxy.com/https://github.com/post-kerbin-mining-corporation/CryoTanks",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/post-kerbin-mining-corporation/CryoTanks/issues",
+        "metanetkan": "https://hk.gh-proxy.com/https://github.com/post-kerbin-mining-corporation/CryoTanks/raw/master/CKAN/CryoTanks.netkan"
     },
     "tags": [
         "parts"
@@ -57,7 +57,7 @@
             "filter": "SimpleBoiloff.dll"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/post-kerbin-mining-corporation/CryoTanks/releases/download/1.5.4/CryoTanks_1_5_4.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/post-kerbin-mining-corporation/CryoTanks/releases/download/1.5.4/CryoTanks_1_5_4.zip",
     "download_size": 60300501,
     "download_hash": {
         "sha1": "BA28F2BCA41D27CD8884C6D203B7A689A6898BAB",

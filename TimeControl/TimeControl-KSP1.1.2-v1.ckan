@@ -7,11 +7,11 @@
     "license": "MIT",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/62946-025-time-control-92314-v132/&do=findComment&comment=2557201",
-        "repository": "https://ghproxy.net/https://github.com/ntwest/TimeControl"
+        "repository": "https://hk.gh-proxy.com/https://github.com/ntwest/TimeControl"
     },
     "version": "KSP1.1.2-v1",
     "ksp_version": "1.1.2",
-    "download": "https://ghproxy.net/https://github.com/ntwest/TimeControl/releases/download/KSP1.1.2-v1/TimeControl.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/ntwest/TimeControl/releases/download/KSP1.1.2-v1/TimeControl.zip",
     "download_size": 26629,
     "download_hash": {
         "sha1": "4141454344A22CFDDE3970A54DB2F77DE138182A",

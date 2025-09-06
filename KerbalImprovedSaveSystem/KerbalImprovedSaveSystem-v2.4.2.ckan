@@ -11,15 +11,15 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/138001-11-kiss-kerbal-improved-save-system/",
         "spacedock": "https://spacedock.info/mod/583/Kerbal%20Improved%20Save%20System",
-        "repository": "https://ghproxy.net/https://github.com/KerbalSpike/KerbalImprovedSaveSystem",
-        "bugtracker": "https://ghproxy.net/https://github.com/KerbalSpike/KerbalImprovedSaveSystem/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/KerbalSpike/KerbalImprovedSaveSystem",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KerbalSpike/KerbalImprovedSaveSystem/issues",
         "x_screenshot": "https://spacedock.info/content/Aerospike_3976/Kerbal_Improved_Save_System/Kerbal_Improved_Save_System-1479679709.6126864.jpg"
     },
     "tags": [
         "plugin"
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/KerbalSpike/KerbalImprovedSaveSystem/releases/download/v2.4.2/KerbalImprovedSaveSystem-v2.4.2.zip",
+        "https://hk.gh-proxy.com/https://github.com/KerbalSpike/KerbalImprovedSaveSystem/releases/download/v2.4.2/KerbalImprovedSaveSystem-v2.4.2.zip",
         "https://spacedock.info/mod/583/Kerbal%20Improved%20Save%20System/download/2.4.2"
     ],
     "download_size": 16420,

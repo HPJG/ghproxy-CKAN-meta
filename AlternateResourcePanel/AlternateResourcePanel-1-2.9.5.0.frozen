@@ -15,8 +15,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/193094-*",
         "spacedock": "https://spacedock.info/mod/2403/Alternate%20Resource%20Panel%20Redisplayed",
-        "repository": "https://ghproxy.net/https://github.com/zer0Kerbal/AlternateResourcePanel",
-        "license": "https://ghproxy.net/https://github.com/TriggerAu/AlternateResourcePanel/blob/master/LICENSE",
+        "repository": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/AlternateResourcePanel",
+        "license": "https://hk.gh-proxy.com/https://github.com/TriggerAu/AlternateResourcePanel/blob/master/LICENSE",
         "manual": "https://sites.google.com/site/kspalternateresourcepanel/",
         "x_screenshot": "https://spacedock.info/content/zer0Kerbal_21147/Alternate_Resource_Panel_Redisplayed/Alternate_Resource_Panel_Redisplayed-1586758650.677067.png"
     },

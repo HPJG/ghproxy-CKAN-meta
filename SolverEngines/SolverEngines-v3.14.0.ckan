@@ -22,8 +22,8 @@
     "license": "LGPL-2.1",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/110746-*",
-        "repository": "https://ghproxy.net/https://github.com/KSP-RO/SolverEngines",
-        "bugtracker": "https://ghproxy.net/https://github.com/KSP-RO/SolverEngines/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/SolverEngines",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-RO/SolverEngines/issues",
         "remote-avc": "https://raw.githubusercontent.com/KSP-RO/SolverEngines/master/GameData/SolverEngines/SolverEngines.version"
     },
     "tags": [
@@ -40,7 +40,7 @@
             ]
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSP-RO/SolverEngines/releases/download/v3.14.0/SolverEngines_v3.14.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/SolverEngines/releases/download/v3.14.0/SolverEngines_v3.14.0.zip",
     "download_size": 42082,
     "download_hash": {
         "sha1": "D81B8AF3CEB4401B4980C165EF36607F65475E19",

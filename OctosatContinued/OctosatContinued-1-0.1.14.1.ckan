@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/152183-121-nssoctosat-soar-continued-modular-satellites-reusable-launchers/",
         "spacedock": "https://spacedock.info/mod/1074/OctoSat%20Continued",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/NSS",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/NSS/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/NSS",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/NSS/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/NSSOctosat",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/OctoSat_Continued/OctoSat_Continued-1479436597.0545785.jpg"
     },
@@ -43,7 +43,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/linuxgurugamer/NSS/releases/download/0.1.14.1/OctoSat_Continued-0.1.14.1.zip",
+        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/NSS/releases/download/0.1.14.1/OctoSat_Continued-0.1.14.1.zip",
         "https://spacedock.info/mod/1074/OctoSat%20Continued/download/0.1.14.1"
     ],
     "download_size": 5072114,

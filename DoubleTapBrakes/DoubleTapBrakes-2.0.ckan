@@ -10,13 +10,13 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/163950-*",
-        "repository": "https://ghproxy.net/https://github.com/severedsolo/DoubleTapBrakes"
+        "repository": "https://hk.gh-proxy.com/https://github.com/severedsolo/DoubleTapBrakes"
     },
     "tags": [
         "plugin",
         "convenience"
     ],
-    "download": "https://ghproxy.net/https://github.com/severedsolo/DoubleTapBrakes/releases/download/2.0/DoubleTapBrakes.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/severedsolo/DoubleTapBrakes/releases/download/2.0/DoubleTapBrakes.zip",
     "download_size": 2776,
     "download_hash": {
         "sha1": "2A6BBDF4FA01367A946225307557C53E08B94174",

@@ -11,9 +11,9 @@
     "release_status": "testing",
     "resources": {
         "homepage": "https://lunamultiplayer.com/",
-        "repository": "https://ghproxy.net/https://github.com/LunaMultiplayer/LunaMultiplayer",
-        "bugtracker": "https://ghproxy.net/https://github.com/LunaMultiplayer/LunaMultiplayer/issues",
-        "manual": "https://ghproxy.net/https://github.com/LunaMultiplayer/LunaMultiplayer/wiki"
+        "repository": "https://hk.gh-proxy.com/https://github.com/LunaMultiplayer/LunaMultiplayer",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/LunaMultiplayer/LunaMultiplayer/issues",
+        "manual": "https://hk.gh-proxy.com/https://github.com/LunaMultiplayer/LunaMultiplayer/wiki"
     },
     "tags": [
         "plugin"
@@ -30,7 +30,7 @@
             "filter": "0Harmony.dll"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/LunaMultiplayer/LunaMultiplayer/releases/download/0.29.0-Draft/LunaMultiplayer-Client-Release.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/LunaMultiplayer/LunaMultiplayer/releases/download/0.29.0-Draft/LunaMultiplayer-Client-Release.zip",
     "download_size": 1135191,
     "download_hash": {
         "sha256": "283444AFB545440EEA971B5B2632328E8255351203FAE7BF84B7638DC19CECEA"

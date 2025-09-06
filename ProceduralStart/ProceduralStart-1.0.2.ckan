@@ -10,8 +10,8 @@
     "license": "public-domain",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/165573-*",
-        "repository": "https://ghproxy.net/https://github.com/Galileo88/ProceduralStart",
-        "bugtracker": "https://ghproxy.net/https://github.com/Galileo88/ProceduralStart/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Galileo88/ProceduralStart",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Galileo88/ProceduralStart/issues"
     },
     "tags": [
         "config",
@@ -36,7 +36,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Galileo88/ProceduralStart/releases/download/1.0.2/ProceduralStart.1.0.2.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Galileo88/ProceduralStart/releases/download/1.0.2/ProceduralStart.1.0.2.zip",
     "download_size": 6096,
     "download_hash": {
         "sha1": "4C299F18FB5734CB3C596578E155D32490C9A287",

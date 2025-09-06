@@ -8,9 +8,9 @@
     "ksp_version_min": "1.12.2",
     "license": "GPL-3.0",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/Angel-125/KerbalActuators",
-        "bugtracker": "https://ghproxy.net/https://github.com/Angel-125/KerbalActuators/issues",
-        "remote-avc": "https://ghproxy.net/https://github.com/Angel-125/KerbalActuators/raw/master/GameData/WildBlueIndustries/001KerbalActuators/KerbalActuators.version"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Angel-125/KerbalActuators",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Angel-125/KerbalActuators/issues",
+        "remote-avc": "https://hk.gh-proxy.com/https://github.com/Angel-125/KerbalActuators/raw/master/GameData/WildBlueIndustries/001KerbalActuators/KerbalActuators.version"
     },
     "tags": [
         "plugin",
@@ -27,7 +27,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Angel-125/KerbalActuators/releases/download/v1.8.5/KerbalActuators.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Angel-125/KerbalActuators/releases/download/v1.8.5/KerbalActuators.zip",
     "download_size": 1971991,
     "download_hash": {
         "sha1": "BD76ADA8040B6F261ACD2903332693E5404DFDF9",

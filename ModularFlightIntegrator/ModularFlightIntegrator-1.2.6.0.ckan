@@ -7,7 +7,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/106369-122-modularflightintegrator-124-131-march-23th/",
-        "repository": "https://ghproxy.net/https://github.com/sarbian/ModularFlightIntegrator",
+        "repository": "https://hk.gh-proxy.com/https://github.com/sarbian/ModularFlightIntegrator",
         "ci": "https://ksp.sarbian.com/jenkins/job/ModularFlightIntegrator/"
     },
     "version": "1.2.6.0",

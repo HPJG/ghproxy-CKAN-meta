@@ -9,7 +9,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/70008",
-        "repository": "https://ghproxy.net/https://github.com/camlost2/AJE"
+        "repository": "https://hk.gh-proxy.com/https://github.com/camlost2/AJE"
     },
     "version": "v2.5.4",
     "ksp_version": "1.0.5",
@@ -40,7 +40,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/camlost2/AJE/releases/download/v2.5.4/Advanced_Jet_Engine-2.5.4.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/camlost2/AJE/releases/download/v2.5.4/Advanced_Jet_Engine-2.5.4.zip",
     "download_size": 562133,
     "download_hash": {
         "sha1": "57F18EE5ABF67614B2401C26AC75FF515DBBA659",

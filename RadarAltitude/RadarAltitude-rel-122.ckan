@@ -11,8 +11,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/179811-*",
-        "repository": "https://ghproxy.net/https://github.com/Marginal/RadarAltitude",
-        "bugtracker": "https://ghproxy.net/https://github.com/Marginal/RadarAltitude/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/Marginal/RadarAltitude",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Marginal/RadarAltitude/issues",
         "remote-avc": "https://raw.githubusercontent.com/Marginal/RadarAltitude/master/RadarAltitude.version"
     },
     "tags": [
@@ -27,7 +27,7 @@
             "name": "DiazosLandingHeight"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Marginal/RadarAltitude/releases/download/rel-122/RadarAltitude-122.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Marginal/RadarAltitude/releases/download/rel-122/RadarAltitude-122.zip",
     "download_size": 2646,
     "download_hash": {
         "sha1": "F4B321FE1A9EC0F105DA273DC4D46F876FA37BB2",

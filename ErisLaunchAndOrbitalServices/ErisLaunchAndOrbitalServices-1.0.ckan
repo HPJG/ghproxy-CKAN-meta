@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/227104-112x-eris-launch-and-orbital-services-elos-stockalike-gilmour-space-eris-1-official-ksp-mod/",
         "spacedock": "https://spacedock.info/mod/3837/Eris%20Launch%20and%20Orbital%20Services%20(ELOS)%20-%20Stockalike%20Gilmour%20Space%20Eris-1",
-        "repository": "https://ghproxy.net/https://github.com/1Kion/Eris-Launch-and-Orbital-Services",
-        "bugtracker": "https://ghproxy.net/https://github.com/1Kion/Eris-Launch-and-Orbital-Services/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/1Kion/Eris-Launch-and-Orbital-Services",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/1Kion/Eris-Launch-and-Orbital-Services/issues",
         "x_screenshot": "https://spacedock.info/content/Kion_59615/Eris_Launch_and_Orbital_Services_ELOS_-_Stockalike_Gilmour_Space_Eris-1/Eris_Launch_and_Orbital_Services_ELOS_-_Stockalike_Gilmour_Space_Eris-1-1741642608.jpg"
     },
     "tags": [
@@ -44,7 +44,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/1Kion/Eris-Launch-and-Orbital-Services/releases/download/V1.0/Eris_Launch_and_Orbital_Services_v1.0.zip",
+        "https://hk.gh-proxy.com/https://github.com/1Kion/Eris-Launch-and-Orbital-Services/releases/download/V1.0/Eris_Launch_and_Orbital_Services_v1.0.zip",
         "https://spacedock.info/mod/3837/Eris%20Launch%20and%20Orbital%20Services%20(ELOS)%20-%20Stockalike%20Gilmour%20Space%20Eris-1/download/1.0"
     ],
     "download_size": 40164733,

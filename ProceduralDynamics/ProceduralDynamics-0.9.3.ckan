@@ -6,7 +6,7 @@
     "author": "NathanKell",
     "license": "restricted",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/NathanKell/ProceduralWings"
+        "repository": "https://hk.gh-proxy.com/https://github.com/NathanKell/ProceduralWings"
     },
     "version": "0.9.3",
     "ksp_version": "0.90",
@@ -15,7 +15,7 @@
             "name": "ProceduralWings"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/NathanKell/ProceduralWings/releases/download/v0.9.3/Procedural_Wings-0.9.3.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/NathanKell/ProceduralWings/releases/download/v0.9.3/Procedural_Wings-0.9.3.zip",
     "download_size": 1237385,
     "download_hash": {
         "sha1": "D591D7CD72BE582B2F81DC82A1926B04A1D2CDC0",

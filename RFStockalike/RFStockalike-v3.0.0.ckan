@@ -8,7 +8,7 @@
     "license": "CC-BY-SA",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/81239",
-        "repository": "https://ghproxy.net/https://github.com/Raptor831/RFStockalike"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Raptor831/RFStockalike"
     },
     "version": "v3.0.0",
     "provides": [
@@ -29,7 +29,7 @@
             "install_to": "GameData/RealPlume"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Raptor831/RFStockalike/releases/download/v3.0.0/RFStockalike_3_0_0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Raptor831/RFStockalike/releases/download/v3.0.0/RFStockalike_3_0_0.zip",
     "download_size": 146144,
     "download_hash": {
         "sha1": "CF86662A00678FA08F4CA2EBB25E4B1869F4C31D",

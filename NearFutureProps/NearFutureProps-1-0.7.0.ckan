@@ -10,8 +10,8 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/166941-*",
-        "repository": "https://ghproxy.net/https://github.com/post-kerbin-mining-corporation/NearFutureElectrical",
-        "bugtracker": "https://ghproxy.net/https://github.com/post-kerbin-mining-corporation/NearFutureProps/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/post-kerbin-mining-corporation/NearFutureElectrical",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/post-kerbin-mining-corporation/NearFutureProps/issues",
         "metanetkan": "https://raw.githubusercontent.com/post-kerbin-mining-corporation/NearFutureProps/master/CKAN/NearFutureProps.netkan",
         "remote-avc": "https://raw.githubusercontent.com/post-kerbin-mining-corporation/NearFutureProps/master/GameData/NearFutureProps/Versioning/NearFutureProps.version"
     },
@@ -34,7 +34,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/post-kerbin-mining-corporation/NearFutureProps/releases/download/0.7.0/NearFutureProps_0_7_0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/post-kerbin-mining-corporation/NearFutureProps/releases/download/0.7.0/NearFutureProps_0_7_0.zip",
     "download_size": 21998314,
     "download_hash": {
         "sha1": "887E88DD0AF757C48B0D94C8747494E1B5D9821A",

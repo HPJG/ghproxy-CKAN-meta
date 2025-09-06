@@ -1,0 +1,29 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "CloakingDevice",
+    "name": "Cloaking Device",
+    "abstract": "A plugin that can make a vessel transparent",
+    "author": "wasml",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/123336-105-cloaking-device-v006-1102016/",
+        "spacedock": "https://spacedock.info/mod/217/Cloaking%20Device",
+        "x_screenshot": "https://spacedock.info/content/wasml_900/Cloaking_Device/Cloaking_Device-1456082919.7837257.png"
+    },
+    "version": "0.06",
+    "ksp_version": "1.0.5",
+    "install": [
+        {
+            "find": "GameData/Cloak",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/217/Cloaking%20Device/download/0.06",
+    "download_size": 13831,
+    "download_hash": {
+        "sha1": "D884FD3297C3F9E4E7161394FFEA575619D3035B",
+        "sha256": "095301A96188E956773B0EE28E930980161B2575D56D2B81B8B0F4C2F408FEA8"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

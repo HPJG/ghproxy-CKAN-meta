@@ -11,7 +11,7 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/180083-ksp-15x-parking-brake-010-2018-11-25/",
         "spacedock": "https://spacedock.info/mod/2018/Parking%20Brake",
-        "repository": "https://ghproxy.net/https://github.com/jarosm/KSP-ParkingBrake"
+        "repository": "https://hk.gh-proxy.com/https://github.com/jarosm/KSP-ParkingBrake"
     },
     "tags": [
         "config"

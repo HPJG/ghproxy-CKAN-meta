@@ -11,9 +11,9 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/54876-*",
-        "repository": "https://ghproxy.net/https://github.com/TriggerAu/AlternateResourcePanel",
-        "bugtracker": "https://ghproxy.net/https://github.com/TriggerAu/AlternateResourcePanel/issues",
-        "license": "https://ghproxy.net/https://github.com/TriggerAu/AlternateResourcePanel/blob/master/LICENSE",
+        "repository": "https://hk.gh-proxy.com/https://github.com/TriggerAu/AlternateResourcePanel",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/TriggerAu/AlternateResourcePanel/issues",
+        "license": "https://hk.gh-proxy.com/https://github.com/TriggerAu/AlternateResourcePanel/blob/master/LICENSE",
         "manual": "https://sites.google.com/site/kspalternateresourcepanel/",
         "remote-avc": "https://raw.githubusercontent.com/TriggerAu/AlternateResourcePanel/master/AlternateResourcePanel/KSPAlternateResourcePanel.version"
     },
@@ -37,7 +37,7 @@
             "install_to": "GameData/TriggerTech"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/TriggerAu/AlternateResourcePanel/releases/download/v2.10.0.0/KSPAlternateResourcePanel_2.10.0.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/TriggerAu/AlternateResourcePanel/releases/download/v2.10.0.0/KSPAlternateResourcePanel_2.10.0.0.zip",
     "download_size": 304367,
     "download_hash": {
         "sha1": "41425CBB6416EAF9A1413DEC3033A982EE385C13",

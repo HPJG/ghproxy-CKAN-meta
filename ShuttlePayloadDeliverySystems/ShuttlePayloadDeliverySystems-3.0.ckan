@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/208905-112x-breaking-ground-shuttle-payload-delivery-systems-10/",
         "spacedock": "https://spacedock.info/mod/3056/Shuttle%20Payload%20Delivery%20Systems",
-        "repository": "https://ghproxy.net/https://github.com/HakariMatt/ShuttlePayloadDeliverySystems",
-        "bugtracker": "https://ghproxy.net/https://github.com/HakariMatt/ShuttlePayloadDeliverySystems/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/HakariMatt/ShuttlePayloadDeliverySystems",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/HakariMatt/ShuttlePayloadDeliverySystems/issues",
         "x_screenshot": "https://spacedock.info/content/MATVEICH_YT_84375/Shuttle_Payload_Delivery_Systems/Shuttle_Payload_Delivery_Systems-1657263371.png"
     },
     "tags": [
@@ -35,7 +35,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/HakariMatt/ShuttlePayloadDeliverySystems/releases/download/v3.0/SPDS.zip",
+        "https://hk.gh-proxy.com/https://github.com/HakariMatt/ShuttlePayloadDeliverySystems/releases/download/v3.0/SPDS.zip",
         "https://spacedock.info/mod/3056/Shuttle%20Payload%20Delivery%20Systems/download/3.0"
     ],
     "download_size": 13643792,

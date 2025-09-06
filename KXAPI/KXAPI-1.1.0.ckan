@@ -7,12 +7,12 @@
     "license": "CC-BY-NC-ND-4.0",
     "resources": {
         "homepage": "https://KerbalX.com/KXAPI",
-        "repository": "https://ghproxy.net/https://github.com/Sujimichi/KXAPI",
-        "bugtracker": "https://ghproxy.net/https://github.com/Sujimichi/KXAPI/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Sujimichi/KXAPI",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Sujimichi/KXAPI/issues"
     },
     "version": "1.1.0",
     "ksp_version_min": "1.4",
-    "download": "https://ghproxy.net/https://github.com/Sujimichi/KXAPI/releases/download/1.1.0/KXAPI.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Sujimichi/KXAPI/releases/download/1.1.0/KXAPI.zip",
     "download_size": 101340,
     "download_hash": {
         "sha1": "4B6C65325BF5A2B9AC5813099F6E8945A0DDEC43",

@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/227552-112x-kerbalchecklists/",
         "spacedock": "https://spacedock.info/mod/3855/KerbalChecklists",
-        "repository": "https://ghproxy.net/https://github.com/averageksp/KerbalChecklists",
-        "bugtracker": "https://ghproxy.net/https://github.com/averageksp/KerbalChecklists/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/averageksp/KerbalChecklists",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/averageksp/KerbalChecklists/issues",
         "x_screenshot": "https://spacedock.info/content/averageksp_154330/KerbalChecklists/KerbalChecklists-1743690817.png"
     },
     "tags": [
@@ -23,7 +23,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/averageksp/KerbalChecklists/releases/download/1.2/KerbalChecklists.zip",
+        "https://hk.gh-proxy.com/https://github.com/averageksp/KerbalChecklists/releases/download/1.2/KerbalChecklists.zip",
         "https://spacedock.info/mod/3855/KerbalChecklists/download/1.2"
     ],
     "download_size": 12037,

@@ -11,7 +11,7 @@
     "license": "CC-BY-SA-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/169250-*",
-        "repository": "https://ghproxy.net/https://github.com/jrodrigv/ProceduralParts"
+        "repository": "https://hk.gh-proxy.com/https://github.com/jrodrigv/ProceduralParts"
     },
     "version": "v1.3.20",
     "ksp_version_min": "1.8.1",
@@ -39,7 +39,7 @@
             "filter": "Source"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/jrodrigv/ProceduralParts/releases/download/v1.3.20/ProceduralParts_v1.3.20_11092019.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/jrodrigv/ProceduralParts/releases/download/v1.3.20/ProceduralParts_v1.3.20_11092019.zip",
     "download_size": 2731359,
     "download_hash": {
         "sha1": "5D0F0B98B60831AD8BCE64402DE1D71E8D975BF0",

@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/150122-12-part-commander-continued/",
         "spacedock": "https://spacedock.info/mod/1004/Part%20Commander%20Continued",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/PartCommander",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/PartCommander/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/PartCommander",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/PartCommander/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/PartCommanderContinued",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Part_Commander_Continued/Part_Commander_Continued-1476577154.79337.png"
     },
@@ -35,7 +35,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/linuxgurugamer/PartCommander/releases/download/1.1.6.4/PartCommanderContinued-1.12.0-1.1.6.4.zip",
+        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/PartCommander/releases/download/1.1.6.4/PartCommanderContinued-1.12.0-1.1.6.4.zip",
         "https://spacedock.info/mod/1004/Part%20Commander%20Continued/download/1.1.6.4"
     ],
     "download_size": 71888,

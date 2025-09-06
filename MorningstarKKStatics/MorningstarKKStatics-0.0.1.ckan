@@ -9,8 +9,8 @@
     "license": "MIT",
     "resources": {
         "spacedock": "https://spacedock.info/mod/3905/MorningstarKKStatics",
-        "repository": "https://ghproxy.net/https://github.com/VabienArt/MorningstarKKStatics",
-        "bugtracker": "https://ghproxy.net/https://github.com/VabienArt/MorningstarKKStatics/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/VabienArt/MorningstarKKStatics",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/VabienArt/MorningstarKKStatics/issues",
         "x_screenshot": "https://spacedock.info/content/vabien_109046/MorningstarKKStatics/MorningstarKKStatics-1749158734.png"
     },
     "tags": [
@@ -23,7 +23,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/VabienArt/MorningstarKKStatics/releases/download/0.0.1/MorningstarKKStatics-main.zip",
+        "https://hk.gh-proxy.com/https://github.com/VabienArt/MorningstarKKStatics/releases/download/0.0.1/MorningstarKKStatics-main.zip",
         "https://spacedock.info/mod/3905/MorningstarKKStatics/download/0.0.1"
     ],
     "download_size": 13314,

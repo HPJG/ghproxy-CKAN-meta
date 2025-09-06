@@ -12,8 +12,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/175400-*",
         "spacedock": "https://spacedock.info/mod/1871/Vertical%20Velocity%20Controller%20Redux",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/TWR1",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/TWR1/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/TWR1",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/TWR1/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/TWR1"
     },
     "tags": [

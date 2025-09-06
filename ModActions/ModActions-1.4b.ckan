@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/128948",
-        "repository": "https://ghproxy.net/https://github.com/SirDiazo/ModActions"
+        "repository": "https://hk.gh-proxy.com/https://github.com/SirDiazo/ModActions"
     },
     "version": "1.4b",
     "ksp_version": "1.2",
@@ -23,7 +23,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/SirDiazo/ModActions/releases/download/1.4b/ModActions14b.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/SirDiazo/ModActions/releases/download/1.4b/ModActions14b.zip",
     "download_size": 42699,
     "download_hash": {
         "sha1": "D4AA692472D180C274EF3596D009C4CC2A2A5545",

@@ -12,8 +12,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/119211-*",
-        "repository": "https://ghproxy.net/https://github.com/StollD/KopernicusExpansion-Continued",
-        "bugtracker": "https://ghproxy.net/https://github.com/StollD/KopernicusExpansion-Continued/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/StollD/KopernicusExpansion-Continued",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/StollD/KopernicusExpansion-Continued/issues"
     },
     "tags": [
         "plugin",
@@ -30,7 +30,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/StollD/KopernicusExpansion-Continued/releases/download/release-1.7.1-5/KEX-ReentryEffects-1.7.1-5.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/StollD/KopernicusExpansion-Continued/releases/download/release-1.7.1-5/KEX-ReentryEffects-1.7.1-5.zip",
     "download_size": 6413,
     "download_hash": {
         "sha1": "CF2C42ED183DF35C81F8DD3B109066E1AB55FFC4",

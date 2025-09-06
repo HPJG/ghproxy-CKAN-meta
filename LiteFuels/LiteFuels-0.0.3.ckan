@@ -9,8 +9,8 @@
     "license": "MIT",
     "resources": {
         "spacedock": "https://spacedock.info/mod/2391/LiteFuels",
-        "repository": "https://ghproxy.net/https://github.com/tomasbrod/LiteFuels",
-        "bugtracker": "https://ghproxy.net/https://github.com/tomasbrod/LiteFuels/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/tomasbrod/LiteFuels",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/tomasbrod/LiteFuels/issues"
     },
     "tags": [
         "config"

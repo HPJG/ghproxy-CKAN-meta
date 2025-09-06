@@ -11,8 +11,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://umbraspaceindustries.github.io/UmbraSpaceIndustries/",
-        "repository": "https://ghproxy.net/https://github.com/UmbraSpaceIndustries/Malemute",
-        "bugtracker": "https://ghproxy.net/https://github.com/UmbraSpaceIndustries/Malemute/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/UmbraSpaceIndustries/Malemute",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/UmbraSpaceIndustries/Malemute/issues",
         "metanetkan": "https://raw.githubusercontent.com/UmbraSpaceIndustries/CKAN/master/MalemuteRover.netkan",
         "remote-avc": "https://raw.githubusercontent.com/BobPalmer/Malemute/master/FOR_RELEASE/GameData/UmbraSpaceIndustries/Malemute/Malemute.version"
     },
@@ -54,7 +54,7 @@
             "install_to": "GameData/UmbraSpaceIndustries"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/UmbraSpaceIndustries/Malemute/releases/download/1.4.0/Malemute_1.4.0.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/UmbraSpaceIndustries/Malemute/releases/download/1.4.0/Malemute_1.4.0.0.zip",
     "download_size": 7314848,
     "download_hash": {
         "sha1": "C79B71EA90FE65996928DBF7B0251C32923E296B",

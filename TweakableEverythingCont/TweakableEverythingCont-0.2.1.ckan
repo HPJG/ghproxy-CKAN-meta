@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/154841-122-tweakable-everything-continued-replacement/",
         "spacedock": "https://spacedock.info/mod/1059/TweakableEverythingContinued",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/TweakableEverything",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/TweakableEverything/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/TweakableEverything",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/TweakableEverything/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/TweakableEverything",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/TweakableEverythingContinued/TweakableEverythingContinued-1479008463.6865757.png"
     },
@@ -44,7 +44,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/linuxgurugamer/TweakableEverything/releases/download/0.2.1/TweakableEverything-1.12.0-0.2.1.zip",
+        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/TweakableEverything/releases/download/0.2.1/TweakableEverything-1.12.0-0.2.1.zip",
         "https://spacedock.info/mod/1059/TweakableEverythingContinued/download/0.2.1"
     ],
     "download_size": 71143,

@@ -6,8 +6,8 @@
     "author": "raidernick",
     "license": "CC-BY-NC-ND-3.0",
     "resources": {
-        "homepage": "https://ghproxy.net/https://github.com/raidernick/KOSMOS",
-        "repository": "https://ghproxy.net/https://github.com/raidernick/KOSMOS"
+        "homepage": "https://hk.gh-proxy.com/https://github.com/raidernick/KOSMOS",
+        "repository": "https://hk.gh-proxy.com/https://github.com/raidernick/KOSMOS"
     },
     "version": "v0.17",
     "ksp_version_min": "1.0.5",
@@ -18,7 +18,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/raidernick/KOSMOS/releases/download/v0.17/KOSMOS-SSPP_0.17.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/raidernick/KOSMOS/releases/download/v0.17/KOSMOS-SSPP_0.17.zip",
     "download_size": 62330841,
     "download_hash": {
         "sha1": "0657E7F1F7AC2760ACEDC5BFA16FBB2A97E29601",

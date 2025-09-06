@@ -1,0 +1,25 @@
+{
+    "spec_version": 1,
+    "identifier": "Chatterer",
+    "name": "Chatterer",
+    "abstract": "A plugin for Kerbal Space Program which adds some SSTV, beeps, and nonsensical radio chatter between your command pods and Mission Control.",
+    "author": "Athlonic",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/83290-105-chatterer-v097-keep-talking-11-nov-2015/&page=1",
+        "spacedock": "https://spacedock.info/mod/208/Chatterer",
+        "repository": "https://hk.gh-proxy.com/https://github.com/Athlonic/Chatterer",
+        "x_screenshot": "https://spacedock.info/content/Athlonic_476/Chatterer/Chatterer-1456051700.1766431.png"
+    },
+    "version": "0.9.8",
+    "ksp_version_min": "1.1.0",
+    "ksp_version_max": "1.1.2",
+    "download": "https://spacedock.info/mod/208/Chatterer/download/0.9.8",
+    "download_size": 6911034,
+    "download_hash": {
+        "sha1": "10B14CF60A37C4AB58BC70DC2F4C3C2AA14BDD6E",
+        "sha256": "892E18FF0B86A1255B605183E2AA3612AAC5837823D1722EA070A82E904E260F"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

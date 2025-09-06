@@ -9,7 +9,7 @@
     "license": "MIT",
     "release_status": "stable",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/RetractableLiftingSurface"
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/RetractableLiftingSurface"
     },
     "version": "0.1.6",
     "ksp_version_min": "1.5.1",
@@ -19,7 +19,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/linuxgurugamer/RetractableLiftingSurface/releases/download/0.1.6/RetractableLiftingSurface-1.7.2-0.1.6.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/RetractableLiftingSurface/releases/download/0.1.6/RetractableLiftingSurface-1.7.2-0.1.6.zip",
     "download_size": 24307,
     "download_hash": {
         "sha1": "A788434C82CF27188D02C9829C555CDDCD6BEC1B",

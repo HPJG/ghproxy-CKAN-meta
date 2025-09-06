@@ -23,9 +23,9 @@
     "ksp_version_max": "1.12.99",
     "license": "CC-BY-SA-4.0",
     "resources": {
-        "homepage": "https://ghproxy.net/https://github.com/KSP-RO/RealAntennas/wiki",
-        "repository": "https://ghproxy.net/https://github.com/KSP-RO/RealAntennas",
-        "bugtracker": "https://ghproxy.net/https://github.com/KSP-RO/RealAntennas/issues",
+        "homepage": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealAntennas/wiki",
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealAntennas",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealAntennas/issues",
         "remote-avc": "https://raw.githubusercontent.com:443/KSP-RO/RealAntennas/master/GameData/RealAntennas/RealAntennas.version"
     },
     "tags": [
@@ -54,7 +54,7 @@
             "name": "CommNetConstellation"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSP-RO/RealAntennas/releases/download/v2.6.0.0/RealAntennas-v2.6.0.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealAntennas/releases/download/v2.6.0.0/RealAntennas-v2.6.0.0.zip",
     "download_size": 145807,
     "download_hash": {
         "sha1": "D53D61D05AD54552FE1940B8AD1180B3FD9F9FAC",

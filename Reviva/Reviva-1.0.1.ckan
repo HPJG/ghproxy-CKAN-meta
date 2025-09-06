@@ -12,8 +12,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/206744-*",
-        "repository": "https://ghproxy.net/https://github.com/FirstPersonKSP/reviva",
-        "bugtracker": "https://ghproxy.net/https://github.com/FirstPersonKSP/reviva/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/FirstPersonKSP/reviva",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/FirstPersonKSP/reviva/issues"
     },
     "tags": [
         "plugin",
@@ -105,7 +105,7 @@
             "name": "BluedogDB"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/FirstPersonKSP/reviva/releases/download/1.0.1/reviva-1.0.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/FirstPersonKSP/reviva/releases/download/1.0.1/reviva-1.0.1.zip",
     "download_size": 38054,
     "download_hash": {
         "sha1": "6D69064A15FB53345D1D710B126F9D8CC9119428",

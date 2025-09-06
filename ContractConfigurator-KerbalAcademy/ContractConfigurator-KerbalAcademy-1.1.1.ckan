@@ -7,7 +7,7 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/140739-contract-pack-kerbal-academy",
-        "repository": "https://ghproxy.net/https://github.com/severedsolo/KerbalAcademy"
+        "repository": "https://hk.gh-proxy.com/https://github.com/severedsolo/KerbalAcademy"
     },
     "version": "1.1.1",
     "ksp_version": "1.1.2",
@@ -23,7 +23,7 @@
             "install_to": "GameData/ContractPacks"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/severedsolo/KerbalAcademy/releases/download/1.1.1/KerbalAcademy1.1.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/severedsolo/KerbalAcademy/releases/download/1.1.1/KerbalAcademy1.1.1.zip",
     "download_size": 59253,
     "download_hash": {
         "sha1": "007E7737D108599A7D6384C09A7D14959F743B61",

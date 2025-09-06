@@ -8,9 +8,9 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/166546-rcs-build-aid-continued/",
         "spacedock": "https://spacedock.info/mod/1547/RCS%20Build%20Aid%20Continued",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/RCSBuildAid",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/RCSBuildAid/issues",
-        "manual": "https://ghproxy.net/https://github.com/linuxgurugamer/RCSBuildAid/blob/master/README.asciidoc",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/RCSBuildAid",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/RCSBuildAid/issues",
+        "manual": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/RCSBuildAid/blob/master/README.asciidoc",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/RCS_Build_Aid_Continued/RCS_Build_Aid_Continued-1508156389.387947.png"
     },
     "version": "0.9.6.2",

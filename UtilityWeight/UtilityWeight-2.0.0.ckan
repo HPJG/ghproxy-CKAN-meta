@@ -10,9 +10,9 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/189536-*",
-        "repository": "https://ghproxy.net/https://github.com/yalov/UtilityWeight",
-        "bugtracker": "https://ghproxy.net/https://github.com/yalov/UtilityWeight/issues",
-        "discussions": "https://ghproxy.net/https://github.com/yalov/UtilityWeight/discussions",
+        "repository": "https://hk.gh-proxy.com/https://github.com/yalov/UtilityWeight",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/yalov/UtilityWeight/issues",
+        "discussions": "https://hk.gh-proxy.com/https://github.com/yalov/UtilityWeight/discussions",
         "remote-avc": "https://raw.githubusercontent.com/yalov/UtilityWeight/master/UtilityWeight.version"
     },
     "tags": [
@@ -32,7 +32,7 @@
             "name": "B9PartSwitch"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/yalov/UtilityWeight/releases/download/2.0.0/UtilityWeight-v2.0.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/yalov/UtilityWeight/releases/download/2.0.0/UtilityWeight-v2.0.0.zip",
     "download_size": 217302,
     "download_hash": {
         "sha1": "615DE870100994FF7794C4E3D05BDD69E3CD5ACB",

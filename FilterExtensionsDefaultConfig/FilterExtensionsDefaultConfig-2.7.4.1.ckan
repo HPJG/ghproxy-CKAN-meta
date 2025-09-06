@@ -7,7 +7,7 @@
     "license": "CC-BY-NC-SA-4.0",
     "release_status": "stable",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/Crzyrndm/FilterExtension"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Crzyrndm/FilterExtension"
     },
     "version": "2.7.4.1",
     "ksp_version": "1.2.1",
@@ -22,7 +22,7 @@
             "install_to": "GameData/000_FilterExtensions Configs"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Crzyrndm/FilterExtension/releases/download/2.7.4.1/Filter.Extensions.v2.7.4.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Crzyrndm/FilterExtension/releases/download/2.7.4.1/Filter.Extensions.v2.7.4.1.zip",
     "download_size": 539791,
     "download_hash": {
         "sha1": "8D0C12EE91F4A226A9FB3B6C4E8106DEE5269882",

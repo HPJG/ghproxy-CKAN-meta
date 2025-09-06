@@ -7,7 +7,7 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/112095",
-        "repository": "https://ghproxy.net/https://github.com/Sigma88/Sigma-JoolRecolor"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Sigma88/Sigma-JoolRecolor"
     },
     "version": "v1.2.0",
     "ksp_version": "1.0.5",
@@ -40,7 +40,7 @@
             "install_to": "GameData/Sigma"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Sigma88/Sigma-JoolRecolor/releases/download/v1.2.0/Sigma-JoolRecolor.v1.2.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Sigma88/Sigma-JoolRecolor/releases/download/v1.2.0/Sigma-JoolRecolor.v1.2.0.zip",
     "download_size": 277571,
     "download_hash": {
         "sha1": "4B3DEA89CA536201964A7A46ACA8D624D02F142A",

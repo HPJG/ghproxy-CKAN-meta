@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/134835-1-0-4-BETA-Pathfinder-0-8-0-KSP-Meets-The-Martian",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/Pathfinder-USILS-CommunityPatch",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/Pathfinder-USILS-CommunityPatch",
         "kerbalstuff": "https://kerbalstuff.com/mod/1180/Pathfinder-USILS-CommunityPatch"
     },
     "version": "0.4.0",

@@ -10,8 +10,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/96362-PlaneMode/",
-        "repository": "https://ghproxy.net/https://github.com/Apokee/PlaneMode",
-        "bugtracker": "https://ghproxy.net/https://github.com/Apokee/PlaneMode/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/Apokee/PlaneMode",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Apokee/PlaneMode/issues",
         "metanetkan": "https://raw.githubusercontent.com/Apokee/PlaneMode/develop/PlaneMode.netkan"
     },
     "tags": [
@@ -23,7 +23,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Apokee/PlaneMode/releases/download/v1.4.5/PlaneMode-1.4.5.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Apokee/PlaneMode/releases/download/v1.4.5/PlaneMode-1.4.5.zip",
     "download_size": 17652,
     "download_hash": {
         "sha1": "070236EE29D87A4FD9F778D03F3E15866F2BD595",

@@ -12,8 +12,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?showtopic=149298",
         "spacedock": "https://spacedock.info/mod/1393/Nehemiah%20Engineering%20Orbital%20Science",
-        "repository": "https://ghproxy.net/https://github.com/mwerle/OrbitalMaterialScience",
-        "bugtracker": "https://ghproxy.net/https://github.com/mwerle/OrbitalMaterialScience/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/mwerle/OrbitalMaterialScience",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/mwerle/OrbitalMaterialScience/issues"
     },
     "version": "0.8.0",
     "ksp_version_min": "1.4.5",
@@ -97,7 +97,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/mwerle/OrbitalMaterialScience/releases/download/0.8.0/NehemiahEngineeringOrbitalScience_0.8.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/mwerle/OrbitalMaterialScience/releases/download/0.8.0/NehemiahEngineeringOrbitalScience_0.8.0.zip",
     "download_size": 17153471,
     "download_hash": {
         "sha1": "34FE92A29AA36161F57AD718964789CADD3F7D1E",

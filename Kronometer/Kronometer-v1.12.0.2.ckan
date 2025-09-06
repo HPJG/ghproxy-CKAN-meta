@@ -14,7 +14,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/161218-*",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/Kronometer",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/Kronometer",
         "remote-avc": "http://ksp.spacetux.net/avc/Kronometer"
     },
     "tags": [
@@ -32,7 +32,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/linuxgurugamer/Kronometer/releases/download/1.12.0.2/Kronometer-1.12.0-1.12.0.2.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/Kronometer/releases/download/1.12.0.2/Kronometer-1.12.0-1.12.0.2.zip",
     "download_size": 16097,
     "download_hash": {
         "sha1": "A158045D07201DD9327D36C3AB5E5E4F73361B8D",

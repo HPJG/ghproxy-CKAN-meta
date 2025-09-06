@@ -9,14 +9,14 @@
     "ksp_version": "any",
     "license": "MIT",
     "resources": {
-        "homepage": "https://ghproxy.net/https://github.com/Venthe/KSP-Polish-Flag-Pack",
-        "repository": "https://ghproxy.net/https://github.com/Venthe/KSP-Polish-Flag-Pack",
-        "bugtracker": "https://ghproxy.net/https://github.com/Venthe/KSP-Polish-Flag-Pack/issues"
+        "homepage": "https://hk.gh-proxy.com/https://github.com/Venthe/KSP-Polish-Flag-Pack",
+        "repository": "https://hk.gh-proxy.com/https://github.com/Venthe/KSP-Polish-Flag-Pack",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Venthe/KSP-Polish-Flag-Pack/issues"
     },
     "tags": [
         "flags"
     ],
-    "download": "https://ghproxy.net/https://github.com/Venthe/KSP-Polish-Flag-Pack/releases/download/1.2/KSP-Polish-Flag-Pack-1.2.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Venthe/KSP-Polish-Flag-Pack/releases/download/1.2/KSP-Polish-Flag-Pack-1.2.zip",
     "download_size": 129983,
     "download_hash": {
         "sha1": "CDE20E744059F055D94F74FD2F3FDD04B0CD32DA",

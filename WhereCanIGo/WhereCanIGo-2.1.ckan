@@ -10,8 +10,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/187712-*",
-        "repository": "https://ghproxy.net/https://github.com/severedsolo/WhereCanIGo",
-        "bugtracker": "https://ghproxy.net/https://github.com/severedsolo/WhereCanIGo/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/severedsolo/WhereCanIGo",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/severedsolo/WhereCanIGo/issues",
         "remote-avc": "https://raw.githubusercontent.com:443/severedsolo/WhereCanIGo/master/GameData/WhereCanIGo/WhereCanIGo.version"
     },
     "tags": [
@@ -29,7 +29,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/severedsolo/WhereCanIGo/releases/download/2.1/WhereCanIGo.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/severedsolo/WhereCanIGo/releases/download/2.1/WhereCanIGo.zip",
     "download_size": 18716,
     "download_hash": {
         "sha1": "97805AE095395EBA22509F3AFE59891BCDFD7A04",

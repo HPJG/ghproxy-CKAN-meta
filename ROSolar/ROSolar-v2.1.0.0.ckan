@@ -13,8 +13,8 @@
     "license": "CC-BY-SA-4.0",
     "resources": {
         "homepage": "https://discordapp.com/invite/ZGbR6nv",
-        "repository": "https://ghproxy.net/https://github.com/KSP-RO/ROSolar",
-        "bugtracker": "https://ghproxy.net/https://github.com/KSP-RO/ROSolar/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ROSolar",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ROSolar/issues",
         "remote-avc": "https://raw.githubusercontent.com:443/KSP-RO/ROSolar/master/GameData/ROSolar/ROSolar.version"
     },
     "tags": [
@@ -51,7 +51,7 @@
             "name": "TweakableEverythingCont"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSP-RO/ROSolar/releases/download/v2.1.0.0/ROSolar-v2.1.0.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ROSolar/releases/download/v2.1.0.0/ROSolar-v2.1.0.0.zip",
     "download_size": 40224358,
     "download_hash": {
         "sha1": "B6EB93370F00AAD234C109B4EDAC74B9E84377DC",

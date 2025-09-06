@@ -9,8 +9,8 @@
     "license": "CC0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/113949-*",
-        "repository": "https://ghproxy.net/https://github.com/MrChumley/Asclepius",
-        "bugtracker": "https://ghproxy.net/https://github.com/MrChumley/Asclepius/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/MrChumley/Asclepius",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/MrChumley/Asclepius/issues"
     },
     "tags": [
         "config",
@@ -40,7 +40,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/MrChumley/Asclepius/releases/download/v5.0/AsclepiusV5-0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/MrChumley/Asclepius/releases/download/v5.0/AsclepiusV5-0.zip",
     "download_size": 6869755,
     "download_hash": {
         "sha1": "CB3CE9BEFB67B6FE6D1F2818C2A916AC31AACB3A",

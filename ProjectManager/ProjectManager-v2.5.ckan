@@ -10,15 +10,15 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/184785-*",
-        "repository": "https://ghproxy.net/https://github.com/Tantares/ProjectManager",
-        "bugtracker": "https://ghproxy.net/https://github.com/Tantares/ProjectManager/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/Tantares/ProjectManager",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Tantares/ProjectManager/issues",
         "remote-avc": "https://raw.githubusercontent.com/Tantares/ProjectManager/master/project_manager.version"
     },
     "tags": [
         "plugin",
         "convenience"
     ],
-    "download": "https://ghproxy.net/https://github.com/Tantares/ProjectManager/releases/download/v2.5/ProjectManager.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Tantares/ProjectManager/releases/download/v2.5/ProjectManager.zip",
     "download_size": 5038,
     "download_hash": {
         "sha1": "51AAB3133211550F3D49D8DADCCE2A7B79B038D9",

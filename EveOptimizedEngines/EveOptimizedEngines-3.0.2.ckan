@@ -10,8 +10,8 @@
     "license": "CC-BY-NC-ND-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/136342-*",
-        "repository": "https://ghproxy.net/https://github.com/OhioBob/Eve-Optimized-Engines",
-        "bugtracker": "https://ghproxy.net/https://github.com/OhioBob/Eve-Optimized-Engines/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/OhioBob/Eve-Optimized-Engines",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/OhioBob/Eve-Optimized-Engines/issues",
         "remote-avc": "https://raw.githubusercontent.com/OhioBob/Eve-Optimized-Engines/master/GameData/EveEngines/EveOptimizedEngines.version"
     },
     "tags": [
@@ -31,7 +31,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/OhioBob/Eve-Optimized-Engines/releases/download/3.0.2/EveOptimizedEngines_3.0.2.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/OhioBob/Eve-Optimized-Engines/releases/download/3.0.2/EveOptimizedEngines_3.0.2.zip",
     "download_size": 13137,
     "download_hash": {
         "sha1": "CC2C6B933A8E57A32FF1B9865105B673DD607615",

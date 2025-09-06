@@ -10,8 +10,8 @@
     "license": "public-domain",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/164733-*",
-        "repository": "https://ghproxy.net/https://github.com/Galileo88/AlmostFreeLaunchClamps",
-        "bugtracker": "https://ghproxy.net/https://github.com/Galileo88/AlmostFreeLaunchClamps/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Galileo88/AlmostFreeLaunchClamps",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Galileo88/AlmostFreeLaunchClamps/issues"
     },
     "tags": [
         "plugin"
@@ -32,7 +32,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Galileo88/AlmostFreeLaunchClamps/releases/download/0.2.2/AlmostFreeLaunchClamps.0.2.2.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Galileo88/AlmostFreeLaunchClamps/releases/download/0.2.2/AlmostFreeLaunchClamps.0.2.2.zip",
     "download_size": 49733,
     "download_hash": {
         "sha1": "3FD6BDB5CDC92F68F559BC9078F7D196115C69B6",

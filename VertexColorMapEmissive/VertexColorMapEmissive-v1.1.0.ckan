@@ -9,8 +9,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/225111-1125-kopernicus-vertexcolormapemissive-100-easy-emissives/",
-        "repository": "https://ghproxy.net/https://github.com/jamespglaze/VertexColorMapEmissive",
-        "bugtracker": "https://ghproxy.net/https://github.com/jamespglaze/VertexColorMapEmissive/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/jamespglaze/VertexColorMapEmissive",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/jamespglaze/VertexColorMapEmissive/issues"
     },
     "tags": [
         "plugin",
@@ -30,7 +30,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/jamespglaze/VertexColorMapEmissive/releases/download/v1.1.0/VertexColorMapEmissive.1.1.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/jamespglaze/VertexColorMapEmissive/releases/download/v1.1.0/VertexColorMapEmissive.1.1.0.zip",
     "download_size": 50431,
     "download_hash": {
         "sha1": "5CEC747114AC44AA68B034CBE042ED958FD92BEB",

@@ -18,9 +18,9 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/179030-141-tweakscale-under-new-management/&",
         "spacedock": "https://spacedock.info/mod/127/TweakScale",
-        "repository": "https://ghproxy.net/https://github.com/TweakScale/TweakScale",
-        "bugtracker": "https://ghproxy.net/https://github.com/TweakScale/TweakScale/issues",
-        "discussions": "https://ghproxy.net/https://github.com/TweakScale/TweakScale/discussions",
+        "repository": "https://hk.gh-proxy.com/https://github.com/TweakScale/TweakScale",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/TweakScale/TweakScale/issues",
+        "discussions": "https://hk.gh-proxy.com/https://github.com/TweakScale/TweakScale/discussions",
         "remote-avc": "https://raw.githubusercontent.com/net-lisias-ksp/TweakScale/master/TweakScale.version",
         "x_screenshot": "https://spacedock.info/content/Pellinor_227/TweakScale/TweakScale-1540681746.7632673.png"
     },
@@ -40,7 +40,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/TweakScale/TweakScale/releases/download/RELEASE/2.4.8.4/TweakScale-2.4.8.4.zip",
+        "https://hk.gh-proxy.com/https://github.com/TweakScale/TweakScale/releases/download/RELEASE/2.4.8.4/TweakScale-2.4.8.4.zip",
         "https://spacedock.info/mod/127/TweakScale/download/2.4.8.4"
     ],
     "download_size": 458632,

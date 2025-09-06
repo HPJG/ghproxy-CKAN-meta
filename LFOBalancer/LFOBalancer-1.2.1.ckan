@@ -7,7 +7,7 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/89317-145-lfo-balancer-rebirth/",
-        "repository": "https://ghproxy.net/https://github.com/johnpetryk/lfo-balancer"
+        "repository": "https://hk.gh-proxy.com/https://github.com/johnpetryk/lfo-balancer"
     },
     "version": "1.2.1",
     "ksp_version_min": "1.4",
@@ -16,7 +16,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/johnpetryk/lfo-balancer/releases/download/1.2.1/LFOBalancer.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/johnpetryk/lfo-balancer/releases/download/1.2.1/LFOBalancer.zip",
     "download_size": 6505,
     "download_hash": {
         "sha1": "7752A5F5A4C05DC4B8D5393C732492B8C339551C",

@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/73686-Tantares",
         "spacedock": "https://spacedock.info/mod/174/Tantares",
-        "repository": "https://ghproxy.net/https://github.com/Tantares/Tantares",
-        "bugtracker": "https://ghproxy.net/https://github.com/Tantares/Tantares/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Tantares/Tantares",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Tantares/Tantares/issues"
     },
     "tags": [
         "parts",
@@ -49,7 +49,7 @@
             "as": "VAB"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Tantares/Tantares/releases/download/v25.1/tantares_and_crafts.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Tantares/Tantares/releases/download/v25.1/tantares_and_crafts.zip",
     "download_size": 122471244,
     "download_hash": {
         "sha1": "AAD03389243A7232170088577C4610DBD51CBC4D",

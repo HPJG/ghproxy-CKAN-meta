@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/90899-105",
-        "repository": "https://ghproxy.net/https://github.com/BobPalmer/WarpDrive"
+        "repository": "https://hk.gh-proxy.com/https://github.com/BobPalmer/WarpDrive"
     },
     "version": "0.4.1.0",
     "ksp_version": "1.1.0",
@@ -23,7 +23,7 @@
             "install_to": "GameData/UmbraSpaceIndustries"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/BobPalmer/WarpDrive/releases/download/0.4.1.0/WarpDrive_0.4.1.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/BobPalmer/WarpDrive/releases/download/0.4.1.0/WarpDrive_0.4.1.0.zip",
     "download_size": 1430009,
     "download_hash": {
         "sha1": "60F975ABBF11DBD93C511B11BE0A4CD3CD7B94B2",

@@ -10,8 +10,8 @@
     "license": "Apache-2.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/99661-*",
-        "repository": "https://ghproxy.net/https://github.com/Kerbas-ad-astra/No-Astronauts-Need-Apply",
-        "bugtracker": "https://ghproxy.net/https://github.com/Kerbas-ad-astra/No-Astronauts-Need-Apply/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Kerbas-ad-astra/No-Astronauts-Need-Apply",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Kerbas-ad-astra/No-Astronauts-Need-Apply/issues"
     },
     "tags": [
         "config",
@@ -37,7 +37,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Kerbas-ad-astra/No-Astronauts-Need-Apply/releases/download/v1.1.1/NoAstronautsNeedApply-v1.1.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Kerbas-ad-astra/No-Astronauts-Need-Apply/releases/download/v1.1.1/NoAstronautsNeedApply-v1.1.1.zip",
     "download_size": 6372,
     "download_hash": {
         "sha1": "1279C54BF1588361F1E37EBE69FBB6E9A5FBF65F",

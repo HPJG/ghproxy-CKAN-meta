@@ -8,7 +8,7 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/151803-121-dang-it/",
         "spacedock": "https://spacedock.info/mod/1055/Dang%20It!%20Continued",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/DangIt"
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/DangIt"
     },
     "version": "0.7.10",
     "ksp_version_min": "1.2.1",

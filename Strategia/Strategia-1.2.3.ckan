@@ -8,8 +8,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/131808-/",
-        "repository": "https://ghproxy.net/https://github.com/jrossignol/Strategia",
-        "bugtracker": "https://ghproxy.net/https://github.com/jrossignol/Strategia/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/jrossignol/Strategia",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/jrossignol/Strategia/issues",
         "license": "https://raw.githubusercontent.com/jrossignol/Strategia/master/LICENSE.txt"
     },
     "version": "1.2.3",
@@ -32,7 +32,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/jrossignol/Strategia/releases/download/1.2.3/Strategia_1.2.3.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/jrossignol/Strategia/releases/download/1.2.3/Strategia_1.2.3.zip",
     "download_size": 220901,
     "download_hash": {
         "sha1": "757BC26C38E93245856EC23D55BF03B516694838",

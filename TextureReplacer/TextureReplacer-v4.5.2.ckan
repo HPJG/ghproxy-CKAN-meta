@@ -17,15 +17,15 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/96851-x",
-        "repository": "https://ghproxy.net/https://github.com/ducakar/TextureReplacer",
-        "bugtracker": "https://ghproxy.net/https://github.com/ducakar/TextureReplacer/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/ducakar/TextureReplacer",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/ducakar/TextureReplacer/issues",
         "remote-avc": "https://raw.githubusercontent.com/ducakar/TextureReplacer/master/GameData/TextureReplacer/TextureReplacer.version"
     },
     "tags": [
         "plugin",
         "graphics"
     ],
-    "download": "https://ghproxy.net/https://github.com/ducakar/TextureReplacer/releases/download/v4.5.2/TextureReplacer-4.5.2.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/ducakar/TextureReplacer/releases/download/v4.5.2/TextureReplacer-4.5.2.zip",
     "download_size": 9524436,
     "download_hash": {
         "sha1": "4E46D3FC730FB2F3E76D65F8255D56A9675258D1",

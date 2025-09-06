@@ -13,9 +13,9 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/212069-",
         "spacedock": "https://spacedock.info/mod/2377/Simple%20Hyperdrive!%20(HYPE)%20by%20Exodus_Solis",
-        "repository": "https://ghproxy.net/https://github.com/zer0Kerbal/SimpleHyperdrive",
-        "bugtracker": "https://ghproxy.net/https://github.com/zer0Kerbal/SimpleHyperdrive/issues",
-        "discussions": "https://ghproxy.net/https://github.com/zer0Kerbal/SimpleHyperdrive/discussions",
+        "repository": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/SimpleHyperdrive",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/SimpleHyperdrive/issues",
+        "discussions": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/SimpleHyperdrive/discussions",
         "x_screenshot": "https://spacedock.info/content/Monniasza_38532/Hyper_Drive_Mod/Hyper_Drive_Mod-1676947866.png"
     },
     "tags": [

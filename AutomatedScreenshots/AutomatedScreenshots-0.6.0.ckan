@@ -1,0 +1,30 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "AutomatedScreenshots",
+    "name": "Automated Screenshots and Saves",
+    "abstract": "Have screenshots taken automatically.  Have saves made automatically",
+    "author": "linuxgurugamer",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/129908",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/AutomatedScreenshots",
+        "kerbalstuff": "https://kerbalstuff.com/mod/1086/Automated%20Screenshots%20and%20Saves"
+    },
+    "version": "0.6.0",
+    "ksp_version_min": "1.0.4",
+    "ksp_version_max": "1.0.5",
+    "install": [
+        {
+            "find": "AutomatedScreenshots",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/AutomatedScreenshots-0.6.0/2552A318-AutomatedScreenshots-0.6.0.zip",
+    "download_size": 44579,
+    "download_hash": {
+        "sha1": "2552A318067FCFE7CE5FB086E4A1A1DD75C53BD6",
+        "sha256": "8DCB03FDAC51E8B07D055E210DBB38BBF2DB264C18054A2986156A6FF6160291"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

@@ -10,8 +10,8 @@
     "license": "CC-BY-SA-4.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/137804-*",
-        "repository": "https://ghproxy.net/https://github.com/sumghai/SDHI_StrobeOMatic",
-        "bugtracker": "https://ghproxy.net/https://github.com/sumghai/SDHI_StrobeOMatic/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/sumghai/SDHI_StrobeOMatic",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/sumghai/SDHI_StrobeOMatic/issues"
     },
     "tags": [
         "parts"
@@ -33,7 +33,7 @@
             ]
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/sumghai/SDHI_StrobeOMatic/releases/download/1.0.1/ksp_sdhi_strobeomatic_v1_0_1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/sumghai/SDHI_StrobeOMatic/releases/download/1.0.1/ksp_sdhi_strobeomatic_v1_0_1.zip",
     "download_size": 245645,
     "download_hash": {
         "sha1": "8A834063B5DF5E5CD2380FC907CA8BE40306C852",

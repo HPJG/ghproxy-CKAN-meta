@@ -12,7 +12,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/175822-*",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/KerbinSpaceStation"
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/KerbinSpaceStation"
     },
     "version": "2:3.7.1.5",
     "ksp_version_min": "1.4.0",
@@ -36,7 +36,7 @@
             "install_to": "GameData/ContractPacks"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/linuxgurugamer/KerbinSpaceStation/releases/download/3.7.1.5/BasesandStations-1.7.2-3.7.1.5.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/KerbinSpaceStation/releases/download/3.7.1.5/BasesandStations-1.7.2-3.7.1.5.zip",
     "download_size": 74173,
     "download_hash": {
         "sha1": "C46E265FC853AD3C8EA0C9C02B7626523A5F7D55",

@@ -14,7 +14,7 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/216135-112-kerbalsports-returns-everyones-favorite-ksp-fishing-mod/",
         "spacedock": "https://spacedock.info/mod/3349/KerbalSports",
-        "repository": "https://ghproxy.net/https://github.com/KSPModStewards/KerbalSports",
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSPModStewards/KerbalSports",
         "remote-avc": "https://raw.githubusercontent.com/JonnyOThan/KerbalSports/master/GameData/KerbalSports/KerbalSports.version",
         "x_screenshot": "https://spacedock.info/content/JonnyOThan_33590/KerbalSports/KerbalSports-1680361413.png"
     },
@@ -27,7 +27,7 @@
         "es-es"
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/KSPModStewards/KerbalSports/releases/download/1.2.0/KerbalSports-v1.2.0.zip",
+        "https://hk.gh-proxy.com/https://github.com/KSPModStewards/KerbalSports/releases/download/1.2.0/KerbalSports-v1.2.0.zip",
         "https://spacedock.info/mod/3349/KerbalSports/download/1.2.0"
     ],
     "download_size": 68207,

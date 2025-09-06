@@ -8,8 +8,8 @@
     "license": "CC-BY-NC-SA",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/158971-*",
-        "repository": "https://ghproxy.net/https://github.com/LouisB3/KSP-ExtendedAntennaProgression",
-        "bugtracker": "https://ghproxy.net/https://github.com/LouisB3/KSP-ExtendedAntennaProgression/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/LouisB3/KSP-ExtendedAntennaProgression",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/LouisB3/KSP-ExtendedAntennaProgression/issues"
     },
     "tags": [
         "parts",

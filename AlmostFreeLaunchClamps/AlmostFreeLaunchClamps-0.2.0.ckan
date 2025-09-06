@@ -7,7 +7,7 @@
     "license": "public-domain",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/164733-13-almost-free-launch-clamps-010/",
-        "repository": "https://ghproxy.net/https://github.com/Galileo88/AlmostFreeLaunchClamps"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Galileo88/AlmostFreeLaunchClamps"
     },
     "version": "0.2.0",
     "ksp_version_min": "1.2.2",
@@ -28,7 +28,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Galileo88/AlmostFreeLaunchClamps/releases/download/0.2.0/AlmostFreeLaunchClamps.0.2.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Galileo88/AlmostFreeLaunchClamps/releases/download/0.2.0/AlmostFreeLaunchClamps.0.2.0.zip",
     "download_size": 55665,
     "download_hash": {
         "sha1": "DB263B56D91B467C76B9B45AB33159B52D3ADF6C",

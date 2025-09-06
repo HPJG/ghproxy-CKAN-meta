@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/76320",
-        "repository": "https://ghproxy.net/https://github.com/SirDiazo/LandingHeight"
+        "repository": "https://hk.gh-proxy.com/https://github.com/SirDiazo/LandingHeight"
     },
     "version": "1.8",
     "ksp_version_min": "1.2",
@@ -19,7 +19,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/SirDiazo/LandingHeight/releases/download/1.8/LandingHeight18.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/SirDiazo/LandingHeight/releases/download/1.8/LandingHeight18.zip",
     "download_size": 4071,
     "download_hash": {
         "sha1": "F8A155C9B4A39C9F160A7B21DF3BD5F371E02A64",

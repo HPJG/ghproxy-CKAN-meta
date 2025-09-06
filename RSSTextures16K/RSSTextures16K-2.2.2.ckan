@@ -9,8 +9,8 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/191018-*",
-        "repository": "https://ghproxy.net/https://github.com/Vannadin/VaNnadin-s-16K-RSS-texture-pack",
-        "bugtracker": "https://ghproxy.net/https://github.com/Vannadin/VaNnadin-s-16K-RSS-texture-pack/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Vannadin/VaNnadin-s-16K-RSS-texture-pack",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Vannadin/VaNnadin-s-16K-RSS-texture-pack/issues"
     },
     "tags": [
         "config",
@@ -30,7 +30,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Vannadin/VaNnadin-s-16K-RSS-texture-pack/releases/download/2.2.2/VaNnadin_16K_RSS_texture_2.2.2.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Vannadin/VaNnadin-s-16K-RSS-texture-pack/releases/download/2.2.2/VaNnadin_16K_RSS_texture_2.2.2.zip",
     "download_size": 1314649307,
     "download_hash": {
         "sha1": "F5E43FB84A55B56E7EF21E6916BBD0D8258AD4A2",

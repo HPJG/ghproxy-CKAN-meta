@@ -6,9 +6,9 @@
     "author": "JadeOfMaar",
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
-        "homepage": "https://ghproxy.net/https://github.com/JadeOfMaar/DSCore/releases",
+        "homepage": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/DSCore/releases",
         "spacedock": "https://spacedock.info/mod/1631/Deep%20Sky%20Core",
-        "repository": "https://ghproxy.net/https://github.com/JadeOfMaar/DSCore/"
+        "repository": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/DSCore/"
     },
     "version": "1.0.1.0",
     "ksp_version": "1.3.1",

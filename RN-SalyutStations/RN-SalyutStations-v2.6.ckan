@@ -8,7 +8,7 @@
     "license": "CC-BY-NC-ND-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/88383",
-        "repository": "https://ghproxy.net/https://github.com/KSP-RO/SalyutStations"
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/SalyutStations"
     },
     "version": "v2.6",
     "ksp_version_min": "1.1.1",
@@ -47,7 +47,7 @@
             "install_to": "Ships"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSP-RO/SalyutStations/releases/download/v2.6/RN_SalyutStations_v2.6.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/SalyutStations/releases/download/v2.6/RN_SalyutStations_v2.6.zip",
     "download_size": 28570568,
     "download_hash": {
         "sha1": "5B631354AA283D5378F7F962F61A6616A7B18145",

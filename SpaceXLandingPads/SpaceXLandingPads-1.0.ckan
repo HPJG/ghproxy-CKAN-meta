@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/206211-spacex-landing-pads-1101/",
         "spacedock": "https://spacedock.info/mod/2941/SpaceX%20Landing%20Pads",
-        "repository": "https://ghproxy.net/https://github.com/Fossilized4/SpaceX-Landing-Pads",
-        "bugtracker": "https://ghproxy.net/https://github.com/Fossilized4/SpaceX-Landing-Pads/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/Fossilized4/SpaceX-Landing-Pads",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Fossilized4/SpaceX-Landing-Pads/issues",
         "x_screenshot": "https://spacedock.info/content/Fossilized_71779/SpaceX_Landing_Pads_1.10.1/SpaceX_Landing_Pads_1.10.1-1641054407.png"
     },
     "tags": [

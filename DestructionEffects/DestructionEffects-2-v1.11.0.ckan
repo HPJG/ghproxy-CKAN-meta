@@ -13,14 +13,14 @@
     "license": "CC0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/99088-*",
-        "repository": "https://ghproxy.net/https://github.com/jrodrigv/DestructionEffects",
-        "bugtracker": "https://ghproxy.net/https://github.com/jrodrigv/DestructionEffects/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/jrodrigv/DestructionEffects",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/jrodrigv/DestructionEffects/issues"
     },
     "tags": [
         "plugin",
         "graphics"
     ],
-    "download": "https://ghproxy.net/https://github.com/jrodrigv/DestructionEffects/releases/download/v1.11.0/DestructionEffects.1.11.0_10272019.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/jrodrigv/DestructionEffects/releases/download/v1.11.0/DestructionEffects.1.11.0_10272019.zip",
     "download_size": 482266,
     "download_hash": {
         "sha1": "423BBDA7F32F0D51568F2AA6BB1942B2E1E6B04D",

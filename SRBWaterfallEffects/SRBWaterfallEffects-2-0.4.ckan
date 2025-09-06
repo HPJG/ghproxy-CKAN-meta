@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/207196-112x-rsmp-formally-swe/",
         "spacedock": "https://spacedock.info/mod/2992/RSMP%20-%20Remastered%20Solid%20Plume%20Effects",
-        "repository": "https://ghproxy.net/https://github.com/AdiriKSP/RSMP",
-        "bugtracker": "https://ghproxy.net/https://github.com/AdiriKSP/RSMP/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/AdiriKSP/RSMP",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/AdiriKSP/RSMP/issues",
         "x_screenshot": "https://spacedock.info/content/Adiri_65268/RSMP_-_Remastered_Solid_Plume_Effects_ALL_OLD_RELEASES_OUTDATED/RSMP_-_Remastered_Solid_Plume_Effects_ALL_OLD_RELEASES_OUTDATED-1687568483.png"
     },
     "tags": [

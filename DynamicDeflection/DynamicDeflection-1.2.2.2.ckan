@@ -7,7 +7,7 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/116888",
-        "repository": "https://ghproxy.net/https://github.com/Crzyrndm/DynamicControls"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Crzyrndm/DynamicControls"
     },
     "version": "1.2.2.2",
     "ksp_version": "1.2.2",
@@ -17,7 +17,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Crzyrndm/DynamicControls/releases/download/1.2.2.2/Dynamic.Deflection.v1.2.2.2.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Crzyrndm/DynamicControls/releases/download/1.2.2.2/Dynamic.Deflection.v1.2.2.2.zip",
     "download_size": 9589,
     "download_hash": {
         "sha1": "03F3B231340A4F42291D4933E16A2E8E2E699867",

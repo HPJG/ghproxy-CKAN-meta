@@ -7,7 +7,7 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/163072-13-",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/PatchManager"
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/PatchManager"
     },
     "version": "0.0.15",
     "ksp_version": "1.4.1",
@@ -17,7 +17,7 @@
             "find": "PatchManager"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/linuxgurugamer/PatchManager/releases/download/0.0.15/PatchManager-0.0.15.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/PatchManager/releases/download/0.0.15/PatchManager-0.0.15.zip",
     "download_size": 105025,
     "download_hash": {
         "sha1": "F1780827345B51C8510B69DF83529E8B1D36D3F9",

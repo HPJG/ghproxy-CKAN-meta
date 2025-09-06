@@ -7,8 +7,8 @@
     "version": "Release",
     "license": "MIT",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/kaerospace/KerbalNoOcclusion",
-        "bugtracker": "https://ghproxy.net/https://github.com/kaerospace/KerbalNoOcclusion/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/kaerospace/KerbalNoOcclusion",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/kaerospace/KerbalNoOcclusion/issues"
     },
     "install": [
         {
@@ -20,7 +20,7 @@
             "install_to": "GameData/NoIntakeOcclusion"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/kaerospace/KerbalNoOcclusion/releases/download/Release/GameData.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/kaerospace/KerbalNoOcclusion/releases/download/Release/GameData.zip",
     "download_size": 2053,
     "download_hash": {
         "sha1": "03B2954C2CC62138BB48667B03164AA339CF61B4",

@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/164357-141-draft-twitch-viewers-redrafted-draft-tour-with-or-rescue-your-twitch-viewers-as-in-game-kerbals/",
         "spacedock": "https://spacedock.info/mod/1985/Draft%20Twitch%20Viewers%20Redrafted",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/DraftTwitchViewers",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/DraftTwitchViewers/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/DraftTwitchViewers",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/DraftTwitchViewers/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/DraftTwitchViewers",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Draft_Twitch_Viewers_Redrafted/Draft_Twitch_Viewers_Redrafted-1540129063.9716632.png"
     },
@@ -36,7 +36,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/linuxgurugamer/DraftTwitchViewers/releases/download/2.7.2.1/DraftTwitchViewers-1.12.0-2.7.2.1.zip",
+        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/DraftTwitchViewers/releases/download/2.7.2.1/DraftTwitchViewers-1.12.0-2.7.2.1.zip",
         "https://spacedock.info/mod/1985/Draft%20Twitch%20Viewers%20Redrafted/download/2.7.2.1"
     ],
     "download_size": 235256,

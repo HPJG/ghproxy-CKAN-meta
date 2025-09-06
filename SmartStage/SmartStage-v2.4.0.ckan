@@ -7,11 +7,11 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/82791",
-        "repository": "https://ghproxy.net/https://github.com/xytovl/SmartStage"
+        "repository": "https://hk.gh-proxy.com/https://github.com/xytovl/SmartStage"
     },
     "version": "v2.4.0",
     "ksp_version": "0.90",
-    "download": "https://ghproxy.net/https://github.com/xytovl/SmartStage/releases/download/v2.4.0/SmartStage-2.4.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/xytovl/SmartStage/releases/download/v2.4.0/SmartStage-2.4.0.zip",
     "download_size": 18257,
     "download_hash": {
         "sha1": "E233BA9A3BFD3B43C39C1FDDAD4E34EFAD15E379",

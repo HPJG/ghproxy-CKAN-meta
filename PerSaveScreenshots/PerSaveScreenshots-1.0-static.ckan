@@ -9,8 +9,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/219192-*",
-        "repository": "https://ghproxy.net/https://github.com/DeltaDizzy/PerSaveScreenshots",
-        "bugtracker": "https://ghproxy.net/https://github.com/DeltaDizzy/PerSaveScreenshots/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/DeltaDizzy/PerSaveScreenshots",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/DeltaDizzy/PerSaveScreenshots/issues"
     },
     "tags": [
         "plugin",
@@ -22,7 +22,7 @@
             "install_to": "GameData/PerSaveScreenshots"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/DeltaDizzy/PerSaveScreenshots/releases/download/1.0-static/PerSaveScreenshots-1.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/DeltaDizzy/PerSaveScreenshots/releases/download/1.0-static/PerSaveScreenshots-1.0.zip",
     "download_size": 4853,
     "download_hash": {
         "sha1": "2A2992068B5565FAD9FBD3CCF74C9FC105EEA6C3",

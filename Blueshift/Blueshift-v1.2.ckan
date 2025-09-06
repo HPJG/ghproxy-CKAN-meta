@@ -1,0 +1,51 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "Blueshift",
+    "name": "Blueshift",
+    "abstract": "For some kind of star trek",
+    "author": "Angel-125",
+    "version": "v1.2",
+    "ksp_version_min": "1.11.0",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/198274-*",
+        "repository": "https://hk.gh-proxy.com/https://github.com/Angel-125/Blueshift",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Angel-125/Blueshift/issues",
+        "remote-avc": "https://raw.githubusercontent.com/Angel-125/Blueshift/master/ReleaseFolder/GameData/WildBlueIndustries/Blueshift/Blueshift.version"
+    },
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "GrannusExpansionPack"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "Waterfall"
+        }
+    ],
+    "install": [
+        {
+            "find": "Blueshift",
+            "install_to": "GameData/WildBlueIndustries"
+        }
+    ],
+    "download": "https://hk.gh-proxy.com/https://github.com/Angel-125/Blueshift/releases/download/v1.2/Blueshift.zip",
+    "download_size": 56038453,
+    "download_hash": {
+        "sha1": "0999E0C831F3F43091AF601AB89A7242835DED12",
+        "sha256": "962A621615F6012AE1BE7D642AB18F22C7764C5E89A50761DB25D347E4A63E00"
+    },
+    "download_content_type": "application/zip",
+    "release_date": "2021-02-17T19:17:47Z",
+    "x_generated_by": "netkan"
+}

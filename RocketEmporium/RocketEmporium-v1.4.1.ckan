@@ -6,7 +6,7 @@
     "author": "KSPKatten",
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/KSPKatten/RocketEmporium"
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSPKatten/RocketEmporium"
     },
     "version": "v1.4.1",
     "ksp_version_min": "1.4.0",
@@ -16,7 +16,7 @@
             "name": "AnimatedAttachment"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSPKatten/RocketEmporium/releases/download/v1.4.1/RocketEmporium_v1.4.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSPKatten/RocketEmporium/releases/download/v1.4.1/RocketEmporium_v1.4.1.zip",
     "download_size": 1983198,
     "download_hash": {
         "sha1": "987129B3E85BCCF1DC395A511A220E7FD8DACAE1",

@@ -13,8 +13,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/183830-*",
-        "repository": "https://ghproxy.net/https://github.com/KPPRM/XPCR",
-        "remote-avc": "https://ghproxy.net/https://github.com/KPPRM/XPCR/raw/master/XPCR/XPCR.version"
+        "repository": "https://hk.gh-proxy.com/https://github.com/KPPRM/XPCR",
+        "remote-avc": "https://hk.gh-proxy.com/https://github.com/KPPRM/XPCR/raw/master/XPCR/XPCR.version"
     },
     "tags": [
         "config",
@@ -48,7 +48,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KPPRM/XPCR/releases/download/1.1.9/XPCR.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KPPRM/XPCR/releases/download/1.1.9/XPCR.zip",
     "download_size": 37221913,
     "download_hash": {
         "sha1": "6D3A9AE6E240211E43D89A4918573AA37302786E",

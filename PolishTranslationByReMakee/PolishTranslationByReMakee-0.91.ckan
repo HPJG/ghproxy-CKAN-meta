@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/212193-1125-kerbal-space-program-polish-translation-v09-beta/",
         "spacedock": "https://spacedock.info/mod/3251/Polish%20translation%20by%20ReMakee",
-        "repository": "https://ghproxy.net/https://github.com/MarcinZboralski/PolishTranslation",
-        "bugtracker": "https://ghproxy.net/https://github.com/MarcinZboralski/PolishTranslation/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/MarcinZboralski/PolishTranslation",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/MarcinZboralski/PolishTranslation/issues"
     },
     "tags": [
         "plugin",

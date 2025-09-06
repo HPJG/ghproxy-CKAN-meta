@@ -7,7 +7,7 @@
     "license": "CC-BY-NC-SA",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/97537-11-ose-workshop-kis-addon-v0130-20160426/",
-        "repository": "https://ghproxy.net/https://github.com/obivandamme/Workshop"
+        "repository": "https://hk.gh-proxy.com/https://github.com/obivandamme/Workshop"
     },
     "version": "1.1.0",
     "ksp_version": "1.2.0",
@@ -26,7 +26,7 @@
             "name": "KIS"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/obivandamme/Workshop/releases/download/1.1.0/Workshop_1.1.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/obivandamme/Workshop/releases/download/1.1.0/Workshop_1.1.0.zip",
     "download_size": 2007664,
     "download_hash": {
         "sha1": "419C2719A448D74D07518CEE5DD6EB8714380ECC",

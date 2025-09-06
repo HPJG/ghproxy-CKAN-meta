@@ -10,8 +10,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/121236-pluginparts-kerbal-foundries-continuation",
-        "repository": "https://ghproxy.net/https://github.com/KerbalFoundries/KerbalFoundries",
-        "bugtracker": "https://ghproxy.net/https://github.com/KerbalFoundries/KerbalFoundries/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/KerbalFoundries/KerbalFoundries",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KerbalFoundries/KerbalFoundries/issues"
     },
     "tags": [
         "plugin",

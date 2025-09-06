@@ -14,8 +14,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/174445-151-malahs-quick-mods/",
         "spacedock": "https://spacedock.info/mod/999/QuickSAS",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/QuickMods",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/QuickMods/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/QuickMods",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/QuickMods/issues",
         "remote-avc": "hhttps://raw.githubusercontent.com/linuxgurugamer/QuickMods/refs/heads/master/QuickSAS/QuickSAS.version"
     },
     "tags": [
@@ -47,7 +47,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/linuxgurugamer/QuickMods/releases/download/1.4.0.15/QuickSAS-1.2.0.11.zip",
+        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/QuickMods/releases/download/1.4.0.15/QuickSAS-1.2.0.11.zip",
         "https://spacedock.info/mod/999/QuickSAS/download/1.2.0.11"
     ],
     "download_size": 32258,

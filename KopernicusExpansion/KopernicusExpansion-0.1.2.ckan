@@ -9,7 +9,7 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/132390",
-        "repository": "https://ghproxy.net/https://github.com/HappyFaceIndustries/KopernicusExpansion"
+        "repository": "https://hk.gh-proxy.com/https://github.com/HappyFaceIndustries/KopernicusExpansion"
     },
     "version": "0.1.2",
     "ksp_version": "1.0.4",
@@ -19,7 +19,7 @@
             "version": "1:beta-04"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/HappyFaceIndustries/KopernicusExpansion/releases/download/0.1.2/KopernicusExpansion.v0.1.2.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/HappyFaceIndustries/KopernicusExpansion/releases/download/0.1.2/KopernicusExpansion.v0.1.2.zip",
     "download_size": 760665,
     "download_hash": {
         "sha1": "483F766AFDEE12A4D49043DD8163F2A89488A4E7",

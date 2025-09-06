@@ -6,8 +6,8 @@
     "author": "ChrisAdderley",
     "license": "restricted",
     "resources": {
-        "homepage": "https://ghproxy.net/https://github.com/ChrisAdderley/CryoTanks/wiki",
-        "repository": "https://ghproxy.net/https://github.com/ChrisAdderley/CryoTanks"
+        "homepage": "https://hk.gh-proxy.com/https://github.com/ChrisAdderley/CryoTanks/wiki",
+        "repository": "https://hk.gh-proxy.com/https://github.com/ChrisAdderley/CryoTanks"
     },
     "version": "1.2.1",
     "ksp_version_min": "1.7.0",
@@ -51,7 +51,7 @@
             "filter": "SimpleBoiloff.dll"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/ChrisAdderley/CryoTanks/releases/download/1.2.1/CryoTanks_1_2_1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/ChrisAdderley/CryoTanks/releases/download/1.2.1/CryoTanks_1_2_1.zip",
     "download_size": 60250054,
     "download_hash": {
         "sha1": "B29CB1385CD93ADAC277DA629ABAB44ACCA90A21",

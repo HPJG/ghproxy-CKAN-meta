@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://umbraspaceindustries.github.io/UmbraSpaceIndustries/",
-        "repository": "https://ghproxy.net/https://github.com/UmbraSpaceIndustries/Malemute"
+        "repository": "https://hk.gh-proxy.com/https://github.com/UmbraSpaceIndustries/Malemute"
     },
     "version": "1.1.0.0",
     "ksp_version_min": "1.6.0",
@@ -46,7 +46,7 @@
             "install_to": "GameData/UmbraSpaceIndustries"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/UmbraSpaceIndustries/Malemute/releases/download/1.1.0.0/Malemute_1.1.0.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/UmbraSpaceIndustries/Malemute/releases/download/1.1.0.0/Malemute_1.1.0.0.zip",
     "download_size": 7314984,
     "download_hash": {
         "sha1": "D58D1726DE440689E07F3DEA81BC52C537D71CD9",

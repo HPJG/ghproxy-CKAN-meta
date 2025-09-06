@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/182622-*",
         "spacedock": "https://spacedock.info/mod/2095/AECS_Motion_Suppressor%20(air%20brake,%20engine,%20&%20control%20surface)",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/AECS_Motion_Suppressor",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/AECS_Motion_Suppressor/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/AECS_Motion_Suppressor",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/AECS_Motion_Suppressor/issues",
         "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/AECS_Motion_Suppressor/refs/heads/master/AECS_Motion_Suppressor.version"
     },
     "tags": [
@@ -41,7 +41,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/linuxgurugamer/AECS_Motion_Suppressor/releases/download/1.3.3.5/AECS_Motion_Suppressor-1.12.0-1.3.3.5.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/AECS_Motion_Suppressor/releases/download/1.3.3.5/AECS_Motion_Suppressor-1.12.0-1.3.3.5.zip",
     "download_size": 16961,
     "download_hash": {
         "sha1": "8B4EEF9305E6B7F51447004C0AD7A7CB552BE8E7",

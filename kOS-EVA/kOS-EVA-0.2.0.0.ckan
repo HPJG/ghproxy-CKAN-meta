@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/196981-18x-110x-kos-addons-stockcamera-eva-scansat-career/",
         "spacedock": "https://spacedock.info/mod/2531/kOS-EVA",
-        "repository": "https://ghproxy.net/https://github.com/KSP-KOS/kOS-EVA",
-        "bugtracker": "https://ghproxy.net/https://github.com/KSP-KOS/kOS-EVA/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-KOS/kOS-EVA",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-KOS/kOS-EVA/issues",
         "remote-avc": "https://raw.githubusercontent.com/JonnyOThan/kOS-EVA/master/GameData/kOS-EVA/kOS-EVA.version"
     },
     "tags": [
@@ -37,7 +37,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/KSP-KOS/kOS-EVA/releases/download/v0.2.0.0/kOS-EVA.v0.2.0.0.zip",
+        "https://hk.gh-proxy.com/https://github.com/KSP-KOS/kOS-EVA/releases/download/v0.2.0.0/kOS-EVA.v0.2.0.0.zip",
         "https://spacedock.info/mod/2531/kOS-EVA/download/0.2.0.0"
     ],
     "download_size": 86976,

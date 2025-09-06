@@ -7,9 +7,9 @@
     "license": "CC-BY-4.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/88933",
-        "repository": "https://ghproxy.net/https://github.com/allista/hangar",
-        "bugtracker": "https://ghproxy.net/https://github.com/allista/hangar/issues",
-        "manual": "https://ghproxy.net/https://github.com/allista/hangar/wiki",
+        "repository": "https://hk.gh-proxy.com/https://github.com/allista/hangar",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/allista/hangar/issues",
+        "manual": "https://hk.gh-proxy.com/https://github.com/allista/hangar/wiki",
         "kerbalstuff": "https://kerbalstuff.com/mod/270/Hangar"
     },
     "version": "2.3.0.1",

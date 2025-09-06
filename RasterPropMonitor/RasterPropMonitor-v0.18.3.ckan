@@ -9,8 +9,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/57603",
-        "repository": "https://ghproxy.net/https://github.com/Mihara/RasterPropMonitor",
-        "manual": "https://ghproxy.net/https://github.com/Mihara/RasterPropMonitor/wiki"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Mihara/RasterPropMonitor",
+        "manual": "https://hk.gh-proxy.com/https://github.com/Mihara/RasterPropMonitor/wiki"
     },
     "version": "v0.18.3",
     "ksp_version": "0.25.0",
@@ -39,7 +39,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Mihara/RasterPropMonitor/releases/download/v0.18.3/RasterPropMonitor.0.18.3.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Mihara/RasterPropMonitor/releases/download/v0.18.3/RasterPropMonitor.0.18.3.zip",
     "download_size": 581923,
     "download_hash": {
         "sha1": "7E8FE76099EA108C0BDC525B708C6169B87FA619",

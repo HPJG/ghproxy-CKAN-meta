@@ -8,7 +8,7 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/131806-Starlion-Industries-KSPI-patches-for-stock-parts-modpacks",
         "kerbalstuff": "https://kerbalstuff.com/mod/1080/KSPI%20Integration%20Patch%20Set",
-        "repository": "https://ghproxy.net/https://github.com/ABZB/Mk2_Extended_KSPI_Integration",
+        "repository": "https://hk.gh-proxy.com/https://github.com/ABZB/Mk2_Extended_KSPI_Integration",
         "x_screenshot": "https://kerbalstuff.com/content/ABZB_173/MK2_KSPI_Integration/MK2_KSPI_Integration-1441205848.2309968.png"
     },
     "version": "8.3.0_Neutron_Panthera_leo",

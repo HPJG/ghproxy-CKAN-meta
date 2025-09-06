@@ -9,8 +9,8 @@
     "license": "CC-BY-NC-ND",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/169664-*",
-        "repository": "https://ghproxy.net/https://github.com/OhioBob/Grannus-Expansion-Pack",
-        "bugtracker": "https://ghproxy.net/https://github.com/OhioBob/Grannus-Expansion-Pack/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/OhioBob/Grannus-Expansion-Pack",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/OhioBob/Grannus-Expansion-Pack/issues"
     },
     "tags": [
         "config"
@@ -29,7 +29,7 @@
             "install_to": "GameData/Nereid/FinalFrontier/Ribbons"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/OhioBob/Grannus-Expansion-Pack/releases/download/1.2.6/GrannusExpansionPack_1.2.6.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/OhioBob/Grannus-Expansion-Pack/releases/download/1.2.6/GrannusExpansionPack_1.2.6.zip",
     "download_size": 339713931,
     "download_hash": {
         "sha1": "4D2F6EC0EAC751512ED63AB5196FD96CC61B272F",

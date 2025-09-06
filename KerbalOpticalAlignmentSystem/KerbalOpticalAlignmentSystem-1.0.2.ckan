@@ -8,7 +8,7 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/137395-11",
         "spacedock": "https://spacedock.info/mod/548/KOAS%20-%20Kerbal%20Optical%20Alignment%20System",
-        "repository": "https://ghproxy.net/https://github.com/TedThompson/Kerbal-Optical-Alignment-System",
+        "repository": "https://hk.gh-proxy.com/https://github.com/TedThompson/Kerbal-Optical-Alignment-System",
         "x_screenshot": "https://spacedock.info/content/TG626_1683/KOAS_-_Kerbal_Optical_Alignment_System/KOAS_-_Kerbal_Optical_Alignment_System-1461200700.4699712.png"
     },
     "version": "1.0.2",

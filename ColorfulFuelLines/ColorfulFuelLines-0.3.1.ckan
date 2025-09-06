@@ -1,0 +1,38 @@
+{
+    "spec_version": 1,
+    "identifier": "ColorfulFuelLines",
+    "name": "Colorful Fuel Lines",
+    "abstract": "More color choices for fuel lines, instead of the same old yellow. Includes: White, Black, Red, Green, Blue, Orange.",
+    "author": "NecroBones",
+    "license": "CC-BY-NC-SA",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/128042",
+        "kerbalstuff": "https://kerbalstuff.com/mod/979/Colorful%20Fuel%20Lines",
+        "x_screenshot": "https://kerbalstuff.com/content/NecroBones_1035/Colorful_Fuel_Lines/Colorful_Fuel_Lines-1436309604.1498656.png"
+    },
+    "version": "0.3.1",
+    "ksp_version_min": "1.0.1",
+    "ksp_version_max": "1.0.4",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "FirespitterCore"
+        }
+    ],
+    "install": [
+        {
+            "file": "ColorfulFuelLines",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/ColorfulFuelLines-0.3.1/DDFADA01-ColorfulFuelLines-0.3.1.zip",
+    "download_size": 283579,
+    "download_hash": {
+        "sha1": "DDFADA0137D30E34859B11ACA7EEF26B47BCEC44",
+        "sha256": "8BA3ED25404C675982CB4EFA4A6FA60FA76995EE6A70285E599C1EBC6655779F"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

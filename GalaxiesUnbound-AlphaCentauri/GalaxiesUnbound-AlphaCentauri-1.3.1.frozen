@@ -11,8 +11,8 @@
     "license": "CC-BY-NC-ND-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/198895-*",
-        "repository": "https://ghproxy.net/https://github.com/StarCrusher96/Galaxies-Unbound-A-Stellar-Odyssey",
-        "bugtracker": "https://ghproxy.net/https://github.com/StarCrusher96/Galaxies-Unbound-A-Stellar-Odyssey/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/StarCrusher96/Galaxies-Unbound-A-Stellar-Odyssey",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/StarCrusher96/Galaxies-Unbound-A-Stellar-Odyssey/issues"
     },
     "tags": [
         "config",
@@ -35,7 +35,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/StarCrusher96/Galaxies-Unbound-A-Stellar-Odyssey/releases/download/1.3.1/System_1.3.1_AlphaCentauri.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/StarCrusher96/Galaxies-Unbound-A-Stellar-Odyssey/releases/download/1.3.1/System_1.3.1_AlphaCentauri.zip",
     "download_size": 634905323,
     "download_hash": {
         "sha1": "F074C7689F60C2EC7E11D180C7606873F348CD13",

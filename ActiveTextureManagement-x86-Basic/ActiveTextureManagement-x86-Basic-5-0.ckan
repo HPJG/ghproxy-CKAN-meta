@@ -7,7 +7,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/53809-10release-5-0april-28-2015-active-texture-management-save-ram/",
-        "repository": "https://ghproxy.net/https://github.com/rbray89/ActiveTextureManagement"
+        "repository": "https://hk.gh-proxy.com/https://github.com/rbray89/ActiveTextureManagement"
     },
     "version": "5-0",
     "ksp_version_min": "0.90",
@@ -35,7 +35,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/rbray89/ActiveTextureManagement/releases/download/5-0/Basic-Release.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/rbray89/ActiveTextureManagement/releases/download/5-0/Basic-Release.zip",
     "download_size": 79164,
     "download_hash": {
         "sha1": "D5BCACFBF5119F9CF4FF6228FEF5011DF613EEF3",

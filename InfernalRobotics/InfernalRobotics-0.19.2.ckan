@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/37707-0-23-5-Magic-Smoke-Industries-Infernal-Robotics-0-16-4",
-        "repository": "https://ghproxy.net/https://github.com/sirkut/InfernalRobotics",
+        "repository": "https://hk.gh-proxy.com/https://github.com/sirkut/InfernalRobotics",
         "kerbalstuff": "https://kerbalstuff.com/mod/8/Magic%20Smoke%20Industries%20Infernal%20Robotics"
     },
     "version": "0.19.2",

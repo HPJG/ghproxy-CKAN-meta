@@ -7,7 +7,7 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/119858-/",
-        "repository": "https://ghproxy.net/https://github.com/Tantares/Taerobee"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Tantares/Taerobee"
     },
     "version": "2.3",
     "ksp_version": "1.0.5",
@@ -17,7 +17,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Tantares/Taerobee/releases/download/v2.3/Taerobee.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Tantares/Taerobee/releases/download/v2.3/Taerobee.zip",
     "download_size": 1267997,
     "x_generated_by": "netkan"
 }

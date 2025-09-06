@@ -7,7 +7,7 @@
     "license": "LGPL-2.1",
     "release_status": "stable",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/KSP-RO/SolverEngines"
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/SolverEngines"
     },
     "version": "v1.0",
     "ksp_version_min": "1.0.0",
@@ -24,7 +24,7 @@
             ]
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSP-RO/SolverEngines/releases/download/v1.0/SolverEngines_v1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/SolverEngines/releases/download/v1.0/SolverEngines_v1.zip",
     "download_size": 32662,
     "download_hash": {
         "sha1": "69B34375337FEDA6EDBE92B024B2875E6D16626B",

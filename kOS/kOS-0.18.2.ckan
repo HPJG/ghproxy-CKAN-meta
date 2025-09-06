@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://ksp-kos.github.io/KOS_DOC/",
-        "repository": "https://ghproxy.net/https://github.com/KSP-KOS/KOS",
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-KOS/KOS",
         "manual": "http://ksp-kos.github.io/KOS_DOC/"
     },
     "version": "0.18.2",
@@ -39,7 +39,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSP-KOS/KOS/releases/download/v0.18.2/kOS-v0.18.2.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-KOS/KOS/releases/download/v0.18.2/kOS-v0.18.2.zip",
     "download_size": 2880080,
     "download_hash": {
         "sha1": "920224914561AD7517F57E8E8FDFC0064B12202C",

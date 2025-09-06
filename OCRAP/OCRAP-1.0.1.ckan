@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/227781-112x-ocrap-orbital-common-rocket-assembly-platform/",
         "spacedock": "https://spacedock.info/mod/3874/OCRAP%20-%20Orbital%20Common%20Rocket%20Assembly%20Platform",
-        "repository": "https://ghproxy.net/https://github.com/CharleRoger/OCRAP",
-        "bugtracker": "https://ghproxy.net/https://github.com/CharleRoger/OCRAP/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/CharleRoger/OCRAP",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/CharleRoger/OCRAP/issues",
         "remote-avc": "https://raw.githubusercontent.com/CharleRoger/OCRAP/main/GameData/OCRAP/Versioning/OCRAP.version",
         "x_screenshot": "https://spacedock.info/content/Charle_Roger_139212/OCRAP/OCRAP-1745799727.png"
     },
@@ -30,7 +30,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/CharleRoger/OCRAP/releases/download/1.0.1/OCRAP-1.0.1.zip",
+        "https://hk.gh-proxy.com/https://github.com/CharleRoger/OCRAP/releases/download/1.0.1/OCRAP-1.0.1.zip",
         "https://spacedock.info/mod/3874/OCRAP%20-%20Orbital%20Common%20Rocket%20Assembly%20Platform/download/1.0.1"
     ],
     "download_size": 7640042,

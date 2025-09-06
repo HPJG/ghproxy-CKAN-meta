@@ -14,7 +14,7 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/165667-yongetech-tech-trees-plugin-re-revived/",
         "spacedock": "https://spacedock.info/mod/1526/YongeTech:%20Tech%20Trees%20Plugin%20Re-Revived",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/YTK_TechTrees",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/YTK_TechTrees",
         "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/YTK_TechTrees/refs/heads/master/YongeTech_TechTreesPlugin.version",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/YongeTech_Tech_Trees_Plugin_Re-Revived/YongeTech_Tech_Trees_Plugin_Re-Revived-1505867502.4576943.png"
     },
@@ -42,7 +42,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/linuxgurugamer/YTK_TechTrees/releases/download/0.7.0.1/YongeTech_Tech_Trees_Plugin_Re-Revived-0.7.0.1.zip",
+        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/YTK_TechTrees/releases/download/0.7.0.1/YongeTech_Tech_Trees_Plugin_Re-Revived-0.7.0.1.zip",
         "https://spacedock.info/mod/1526/YongeTech:%20Tech%20Trees%20Plugin%20Re-Revived/download/0.7.0.1"
     ],
     "download_size": 35667,

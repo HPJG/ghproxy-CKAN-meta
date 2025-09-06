@@ -6,7 +6,7 @@
     "author": "icedown",
     "license": "CC-BY-NC-SA-3.0",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/icedown/KSP-ProbeControlRoom"
+        "repository": "https://hk.gh-proxy.com/https://github.com/icedown/KSP-ProbeControlRoom"
     },
     "version": "1.2.1.3",
     "ksp_version_min": "1.2.0",
@@ -50,7 +50,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/icedown/KSP-ProbeControlRoom/releases/download/1.2.1.3/ProbeControlRoom-1.2.1.3.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/icedown/KSP-ProbeControlRoom/releases/download/1.2.1.3/ProbeControlRoom-1.2.1.3.zip",
     "download_size": 648537,
     "download_hash": {
         "sha1": "B430F045B0DB0283EF06171D430F5B5649BA4B87",

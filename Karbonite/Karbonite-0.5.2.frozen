@@ -9,7 +9,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/87335",
-        "repository": "https://ghproxy.net/https://github.com/BobPalmer/Karbonite"
+        "repository": "https://hk.gh-proxy.com/https://github.com/BobPalmer/Karbonite"
     },
     "version": "0.5.2",
     "ksp_version": "0.90",
@@ -44,7 +44,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/BobPalmer/Karbonite/releases/download/0.5.2/Karbonite_0.5.2.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/BobPalmer/Karbonite/releases/download/0.5.2/Karbonite_0.5.2.zip",
     "download_size": 25238399,
     "download_hash": {
         "sha1": "46EAEF6C1F0AD5B8268362C125E3ACDE9062CBB5",

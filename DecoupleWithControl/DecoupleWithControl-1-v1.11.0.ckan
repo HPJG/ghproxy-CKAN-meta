@@ -10,8 +10,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/170148-*",
-        "repository": "https://ghproxy.net/https://github.com/cmheisel/ksp-decouple-with-control",
-        "bugtracker": "https://ghproxy.net/https://github.com/cmheisel/ksp-decouple-with-control/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/cmheisel/ksp-decouple-with-control",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/cmheisel/ksp-decouple-with-control/issues",
         "remote-avc": "https://raw.githubusercontent.com/cmheisel/ksp-decouple-with-control/master/GameData/DecoupleWithControl/DecoupleWithControl.version"
     },
     "tags": [
@@ -24,7 +24,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/cmheisel/ksp-decouple-with-control/releases/download/v1.11.0/ksp-decouple-with-control-1.11.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/cmheisel/ksp-decouple-with-control/releases/download/v1.11.0/ksp-decouple-with-control-1.11.0.zip",
     "download_size": 465477,
     "download_hash": {
         "sha1": "EDE1DE32E9B10FE3A5F72D2238FFCC85ACF03D31",

@@ -10,9 +10,9 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/228460-debug-stifle/",
         "spacedock": "https://spacedock.info/mod/3942/DebugStifle",
-        "repository": "https://ghproxy.net/https://github.com/Clayell/DebugStifle",
-        "bugtracker": "https://ghproxy.net/https://github.com/Clayell/DebugStifle/issues",
-        "discussions": "https://ghproxy.net/https://github.com/Clayell/DebugStifle/discussions",
+        "repository": "https://hk.gh-proxy.com/https://github.com/Clayell/DebugStifle",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Clayell/DebugStifle/issues",
+        "discussions": "https://hk.gh-proxy.com/https://github.com/Clayell/DebugStifle/discussions",
         "x_screenshot": "https://spacedock.info/content/Clayel_166925/DebugStifle/DebugStifle-1754100613.png"
     },
     "tags": [
@@ -27,7 +27,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/Clayell/DebugStifle/releases/download/v2.0.0.0/DebugStifle-v2.0.0.0.zip",
+        "https://hk.gh-proxy.com/https://github.com/Clayell/DebugStifle/releases/download/v2.0.0.0/DebugStifle-v2.0.0.0.zip",
         "https://spacedock.info/mod/3942/DebugStifle/download/v2.0.0.0"
     ],
     "download_size": 10295,

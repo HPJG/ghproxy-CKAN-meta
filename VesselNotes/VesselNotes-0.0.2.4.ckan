@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/199389-*",
         "spacedock": "https://spacedock.info/mod/2871/Vessel%20Notes%20&%20Logs",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/VesselNotes",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/VesselNotes/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/VesselNotes",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/VesselNotes/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/VesselNotes",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Vessel_Notes__Logs/Vessel_Notes__Logs-1633346124.8011277.png"
     },
@@ -32,7 +32,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/linuxgurugamer/VesselNotes/releases/download/0.0.2.4/VesselNotes-1.12.0-0.0.2.4.zip",
+        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/VesselNotes/releases/download/0.0.2.4/VesselNotes-1.12.0-0.0.2.4.zip",
         "https://spacedock.info/mod/2871/Vessel%20Notes%20&%20Logs/download/0.0.2.4"
     ],
     "download_size": 95742,

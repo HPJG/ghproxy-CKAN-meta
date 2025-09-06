@@ -10,7 +10,7 @@
     "license": "CC-BY-4.0",
     "release_status": "stable",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/KSP-RO/RP-0",
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RP-0",
         "metanetkan": "https://raw.githubusercontent.com/KSP-RO/RP-0/master/RP-0.netkan"
     },
     "tags": [
@@ -211,7 +211,7 @@
             "min_version": "v2.0.0.0"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSP-RO/RP-0/releases/download/v1.3/RP-1-v1.3.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RP-0/releases/download/v1.3/RP-1-v1.3.zip",
     "download_size": 14537222,
     "download_hash": {
         "sha1": "CF26F91E5C3C0D6F00B94A2AA38300D63B5A6C0D",

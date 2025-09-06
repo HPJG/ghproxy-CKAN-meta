@@ -9,7 +9,7 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/129173-/",
         "spacedock": "https://spacedock.info/mod/52/Contract%20Pack:%20Rover%20Missions",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/RoverContracts"
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/RoverContracts"
     },
     "version": "0.1.6.1",
     "ksp_version_min": "1.1.3",

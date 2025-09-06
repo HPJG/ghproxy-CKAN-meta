@@ -7,7 +7,7 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/120127",
-        "repository": "https://ghproxy.net/https://github.com/severedsolo/ScanSatLite"
+        "repository": "https://hk.gh-proxy.com/https://github.com/severedsolo/ScanSatLite"
     },
     "version": "1.1",
     "ksp_version_min": "1.0.2",
@@ -30,7 +30,7 @@
             "install_to": "GameData/ContractPacks"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/severedsolo/ScanSatLite/releases/download/1.1/ScanSatLite1.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/severedsolo/ScanSatLite/releases/download/1.1/ScanSatLite1.1.zip",
     "download_size": 66231,
     "download_hash": {
         "sha1": "A2F5B60C6F8820E747044A67E19A730B92407A5A",

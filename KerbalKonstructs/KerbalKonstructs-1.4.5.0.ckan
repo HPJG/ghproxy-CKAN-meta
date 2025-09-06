@@ -12,7 +12,7 @@
     "license": "restricted",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/151818-*",
-        "repository": "https://ghproxy.net/https://github.com/GER-Space/Kerbal-Konstructs"
+        "repository": "https://hk.gh-proxy.com/https://github.com/GER-Space/Kerbal-Konstructs"
     },
     "version": "1.4.5.0",
     "ksp_version": "1.4.5",
@@ -32,7 +32,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/GER-Space/Kerbal-Konstructs/releases/download/1.4.5.0/Kerbal-Konstructs-1.4.5.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/GER-Space/Kerbal-Konstructs/releases/download/1.4.5.0/Kerbal-Konstructs-1.4.5.0.zip",
     "download_size": 3082210,
     "download_hash": {
         "sha1": "6B98411AE85DA72B3F428BE7588D2FF07F387FDF",

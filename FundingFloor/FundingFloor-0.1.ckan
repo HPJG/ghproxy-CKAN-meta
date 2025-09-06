@@ -9,14 +9,14 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/219159-*",
-        "repository": "https://ghproxy.net/https://github.com/ToxicFrog/kessler",
-        "bugtracker": "https://ghproxy.net/https://github.com/ToxicFrog/kessler/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/ToxicFrog/kessler",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/ToxicFrog/kessler/issues"
     },
     "tags": [
         "plugin",
         "career"
     ],
-    "download": "https://ghproxy.net/https://github.com/ToxicFrog/kessler/releases/download/fundingfloor-0.1/FundingFloor-0.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/ToxicFrog/kessler/releases/download/fundingfloor-0.1/FundingFloor-0.1.zip",
     "download_size": 5272,
     "download_hash": {
         "sha1": "EC0D36567CCB03F333A880A1EBAA7F8B2CFF5B50",

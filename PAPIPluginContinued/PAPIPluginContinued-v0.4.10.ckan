@@ -13,7 +13,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/101446-*",
-        "repository": "https://ghproxy.net/https://github.com/bssthu/PAPIPlugin",
+        "repository": "https://hk.gh-proxy.com/https://github.com/bssthu/PAPIPlugin",
         "remote-avc": "https://raw.githubusercontent.com/bssthu/PAPIPlugin/master/assets/GameData/PAPIPlugin/PAPIPluginContinued.version"
     },
     "tags": [
@@ -26,7 +26,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/bssthu/PAPIPlugin/releases/download/v0.4.10/PAPIPluginContinued_v0.4.10.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/bssthu/PAPIPlugin/releases/download/v0.4.10/PAPIPluginContinued_v0.4.10.zip",
     "download_size": 31647,
     "download_hash": {
         "sha1": "C6605CD17BA649A8882D1907FD60393CA3C65B18",

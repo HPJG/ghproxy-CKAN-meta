@@ -10,13 +10,13 @@
     "license": "CC-BY-NC-SA-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/192536-*",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/TrackingLights"
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/TrackingLights"
     },
     "tags": [
         "plugin",
         "parts"
     ],
-    "download": "https://ghproxy.net/https://github.com/linuxgurugamer/TrackingLights/releases/download/0.0.2/TrackingLights-1.8.0-0.0.2.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/TrackingLights/releases/download/0.0.2/TrackingLights-1.8.0-0.0.2.zip",
     "download_size": 427369,
     "download_hash": {
         "sha1": "496E9F927689E05DEF7D905154E5B4A29FE8FB50",

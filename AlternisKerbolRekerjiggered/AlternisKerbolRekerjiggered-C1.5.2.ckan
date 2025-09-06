@@ -6,7 +6,7 @@
     "author": "GregroxMun",
     "license": "CC-BY-NC-4.0",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/GregroxMun/Alternis-Kerbol-Rekerjiggered"
+        "repository": "https://hk.gh-proxy.com/https://github.com/GregroxMun/Alternis-Kerbol-Rekerjiggered"
     },
     "version": "C1.5.2",
     "ksp_version": "1.0.5",
@@ -86,7 +86,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/GregroxMun/Alternis-Kerbol-Rekerjiggered/releases/download/C1.5.2/AlternisRekerjiggeredClassic1.5.2.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/GregroxMun/Alternis-Kerbol-Rekerjiggered/releases/download/C1.5.2/AlternisRekerjiggeredClassic1.5.2.1.zip",
     "download_size": 108715472,
     "download_hash": {
         "sha1": "B7FC5C0CA8D96280878B5E6CB33B98DB189F712B",

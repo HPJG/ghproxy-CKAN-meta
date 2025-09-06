@@ -1,0 +1,30 @@
+{
+    "spec_version": 1,
+    "identifier": "AutoAsparagus",
+    "name": "AutoAsparagus",
+    "abstract": "Asparagus staging is awesome, but tedious. So, I built a plugin to do it for me! :)",
+    "author": "hab136",
+    "license": "Apache-2.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/55748-105-autoasparagus-v11/",
+        "spacedock": "https://spacedock.info/mod/281/AutoAsparagus",
+        "repository": "https://hk.gh-proxy.com/https://github.com/henrybauer/AutoAsparagus",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/henrybauer/AutoAsparagus/issues",
+        "x_screenshot": "https://spacedock.info/content/hab136_461/AutoAsparagus/AutoAsparagus-1456506731.7570364.png"
+    },
+    "version": "v2.2",
+    "ksp_version": "1.1.0",
+    "recommends": [
+        {
+            "name": "SmartStage"
+        }
+    ],
+    "download": "https://spacedock.info/mod/281/AutoAsparagus/download/v2.2",
+    "download_size": 42413,
+    "download_hash": {
+        "sha1": "185126C62844DA59C8B371654CF67AD32719E8FB",
+        "sha256": "0CBBB95387641ADBCDA9A534A121DA431E64417C9113369E65D29EB16FA8467B"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

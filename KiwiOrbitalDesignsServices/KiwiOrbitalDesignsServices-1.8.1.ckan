@@ -7,8 +7,8 @@
     "version": "1.8.1",
     "license": "restricted",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/nolifejordan/Kiwi-Orbital-Designs-Systems",
-        "bugtracker": "https://ghproxy.net/https://github.com/nolifejordan/Kiwi-Orbital-Designs-Systems/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/nolifejordan/Kiwi-Orbital-Designs-Systems",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/nolifejordan/Kiwi-Orbital-Designs-Systems/issues"
     },
     "tags": [
         "parts"

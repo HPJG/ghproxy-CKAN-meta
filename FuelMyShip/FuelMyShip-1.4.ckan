@@ -9,8 +9,8 @@
     "ksp_version_max": "1.12",
     "license": "GPL-3.0",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/SumGuyTwitches/FuelMyShip",
-        "bugtracker": "https://ghproxy.net/https://github.com/SumGuyTwitches/FuelMyShip/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/SumGuyTwitches/FuelMyShip",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/SumGuyTwitches/FuelMyShip/issues"
     },
     "tags": [
         "plugin",
@@ -21,7 +21,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/SumGuyTwitches/FuelMyShip/releases/download/1.4/FuelMyShip.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/SumGuyTwitches/FuelMyShip/releases/download/1.4/FuelMyShip.zip",
     "download_size": 12144,
     "download_hash": {
         "sha1": "F20581F21BFCAEBF26BB44E31F74272918CB5697",

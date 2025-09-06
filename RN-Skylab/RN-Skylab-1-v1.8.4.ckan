@@ -8,7 +8,7 @@
     "license": "CC-BY-NC-ND-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/77855-122-131-skylab-compatible-with-decq-oldd-fasa-release-v181-72217/",
-        "repository": "https://ghproxy.net/https://github.com/KSP-RO/Skylab"
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/Skylab"
     },
     "version": "1:v1.8.4",
     "ksp_version_min": "1.2.0",
@@ -31,7 +31,7 @@
             "install_to": "Ships"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSP-RO/Skylab/releases/download/v1.8.4/RN_Skylab_v1.8.4.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/Skylab/releases/download/v1.8.4/RN_Skylab_v1.8.4.zip",
     "download_size": 7576684,
     "download_hash": {
         "sha1": "66E57FBF6F87329342FD78F25B4334974C0BAAA0",

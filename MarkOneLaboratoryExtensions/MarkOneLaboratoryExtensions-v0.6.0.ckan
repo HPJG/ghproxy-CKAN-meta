@@ -7,7 +7,7 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/94352-alpha-105-mark-one-laboratory-extensions-mole-v042/&page=1",
-        "repository": "https://ghproxy.net/https://github.com/Angel-125/MOLE"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Angel-125/MOLE"
     },
     "version": "v0.6.0",
     "ksp_version": "1.1.2",
@@ -31,7 +31,7 @@
             "install_to": "GameData/WildBlueIndustries"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Angel-125/MOLE/releases/download/v0.6.0/MOLE_0_6_0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Angel-125/MOLE/releases/download/v0.6.0/MOLE_0_6_0.zip",
     "download_size": 8964679,
     "download_hash": {
         "sha1": "224111CE308574DAEF430E5535E3C79879A8C834",

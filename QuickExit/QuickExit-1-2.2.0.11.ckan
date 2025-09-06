@@ -14,8 +14,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/174445-151-malahs-quick-mods/",
         "spacedock": "https://spacedock.info/mod/105/QuickExit",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/QuickMods",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/QuickMods/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/QuickMods",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/QuickMods/issues",
         "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/QuickMods/refs/heads/master/QuickExit/QuickExit.version"
     },
     "tags": [
@@ -46,7 +46,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/linuxgurugamer/QuickMods/releases/download/1.4.0.15/QuickExit-2.2.0.11.zip",
+        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/QuickMods/releases/download/1.4.0.15/QuickExit-2.2.0.11.zip",
         "https://spacedock.info/mod/105/QuickExit/download/2.2.0.11"
     ],
     "download_size": 31362,

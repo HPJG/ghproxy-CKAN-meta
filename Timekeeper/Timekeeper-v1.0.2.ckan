@@ -9,15 +9,15 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/178121-*",
-        "repository": "https://ghproxy.net/https://github.com/GarwelGarwel/Timekeeper",
-        "bugtracker": "https://ghproxy.net/https://github.com/GarwelGarwel/Timekeeper/issues",
-        "remote-avc": "https://ghproxy.net/https://github.com/GarwelGarwel/Timekeeper/raw/master/GameData/Timekeeper/Timekeeper.version"
+        "repository": "https://hk.gh-proxy.com/https://github.com/GarwelGarwel/Timekeeper",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/GarwelGarwel/Timekeeper/issues",
+        "remote-avc": "https://hk.gh-proxy.com/https://github.com/GarwelGarwel/Timekeeper/raw/master/GameData/Timekeeper/Timekeeper.version"
     },
     "tags": [
         "plugin",
         "information"
     ],
-    "download": "https://ghproxy.net/https://github.com/GarwelGarwel/Timekeeper/releases/download/v1.0.2/Timekeeper_1.0.2.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/GarwelGarwel/Timekeeper/releases/download/v1.0.2/Timekeeper_1.0.2.zip",
     "download_size": 6659,
     "download_hash": {
         "sha1": "AAE8D813C7FD1509E8525FDFB89E1FA27B69473D",

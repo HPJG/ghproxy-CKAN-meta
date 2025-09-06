@@ -14,8 +14,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/207297-112x-rover-science-re-mobilized-better-interactive-science-for-rovers/",
         "spacedock": "https://spacedock.info/mod/1437/Rover%20Science%20Continued",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/RoverScience-Continued",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/RoverScience-Continued/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/RoverScience-Continued",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/RoverScience-Continued/issues",
         "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/RoverScience-Continued/master/GameData/RoverScience/RoverScience.version",
         "x_screenshot": "https://spacedock.info/content/Aelfheim_3201/Rover_Science_Continued/Rover_Science_Continued-1499630374.8335302.jpg"
     },
@@ -49,7 +49,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/linuxgurugamer/RoverScience-Continued/releases/download/2.3.5.7/RoverScience-1.12.0-2.3.5.7.zip",
+        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/RoverScience-Continued/releases/download/2.3.5.7/RoverScience-1.12.0-2.3.5.7.zip",
         "https://spacedock.info/mod/1437/Rover%20Science%20Continued/download/2.3.5.7"
     ],
     "download_size": 2770098,

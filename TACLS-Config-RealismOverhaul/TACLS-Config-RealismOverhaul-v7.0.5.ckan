@@ -7,7 +7,7 @@
     "license": "CC-BY-SA",
     "release_status": "stable",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/KSP-RO/RealismOverhaul"
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealismOverhaul"
     },
     "version": "v7.0.5",
     "ksp_version_max": "0.90",
@@ -33,7 +33,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSP-RO/RealismOverhaul/releases/download/v7.0.5/RealismOverhaul7_0_5.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealismOverhaul/releases/download/v7.0.5/RealismOverhaul7_0_5.zip",
     "download_size": 17637311,
     "download_hash": {
         "sha1": "DE990A3F4D7384DC3D71273B64B3E675836D9C31",

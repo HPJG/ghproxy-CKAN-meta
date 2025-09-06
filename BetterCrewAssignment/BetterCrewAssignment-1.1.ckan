@@ -1,0 +1,29 @@
+{
+    "spec_version": 1,
+    "identifier": "BetterCrewAssignment",
+    "name": "BetterCrewAssignment",
+    "abstract": "Smarter by default. Remembers your choices. No UI.",
+    "author": "Snark",
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/127313-105-bettercrewassignment-v10-smarter-by-default-remembers-your-choices-no-ui/",
+        "spacedock": "https://spacedock.info/mod/22/BetterCrewAssignment",
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSPSnark/BetterCrewAssignment",
+        "x_screenshot": "https://spacedock.info/content/Snark_166/BetterCrewAssignment/BetterCrewAssignment-1455661510.7040124.png"
+    },
+    "version": "1.1",
+    "ksp_version": "1.1.0",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/22/BetterCrewAssignment/download/1.1",
+    "download_size": 46750,
+    "download_hash": {
+        "sha1": "330E5484F943E1A9C2D5DADA24C7F12D4170C2E0",
+        "sha256": "A5BBB59B37C57C5E026F6C4E2700D2D0D5712747F77303AB12D03BC82E6DDF43"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

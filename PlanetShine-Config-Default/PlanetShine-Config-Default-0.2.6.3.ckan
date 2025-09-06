@@ -14,8 +14,8 @@
     "license": "Apache-2.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/189071-*",
-        "repository": "https://ghproxy.net/https://github.com/prestja/ksp-planetshine",
-        "remote-avc": "https://ghproxy.net/https://github.com/prestja/ksp-planetshine/raw/master/PlanetShine/Distribution/GameData/PlanetShine/Plugins/PlanetShine.version"
+        "repository": "https://hk.gh-proxy.com/https://github.com/prestja/ksp-planetshine",
+        "remote-avc": "https://hk.gh-proxy.com/https://github.com/prestja/ksp-planetshine/raw/master/PlanetShine/Distribution/GameData/PlanetShine/Plugins/PlanetShine.version"
     },
     "tags": [
         "config",
@@ -40,7 +40,7 @@
             "install_to": "GameData/PlanetShine"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/prestja/ksp-planetshine/releases/download/0.2.6.3/PlanetShine.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/prestja/ksp-planetshine/releases/download/0.2.6.3/PlanetShine.zip",
     "download_size": 30693,
     "download_hash": {
         "sha1": "54788D4D929CE602482A31906D0985CA028B1C30",

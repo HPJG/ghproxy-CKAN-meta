@@ -11,7 +11,7 @@
     "license": "CC-BY-NC-SA-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?showtopic=166619",
-        "repository": "https://ghproxy.net/https://github.com/mwerle/kdex"
+        "repository": "https://hk.gh-proxy.com/https://github.com/mwerle/kdex"
     },
     "version": "v1.11.2",
     "ksp_version_min": "1.0.0",
@@ -22,7 +22,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/mwerle/kdex/releases/download/v1.11.2/kdex-1.11.2.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/mwerle/kdex/releases/download/v1.11.2/kdex-1.11.2.zip",
     "download_size": 506777,
     "download_hash": {
         "sha1": "A8C3896A14DA934FD8871FA26D16B63ADDB5EA24",

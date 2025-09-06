@@ -6,8 +6,8 @@
     "author": "Mihara",
     "license": "GPL-3.0",
     "resources": {
-        "homepage": "https://ghproxy.net/https://github.com/Mihara/PartUtilities/wiki",
-        "repository": "https://ghproxy.net/https://github.com/Mihara/PartUtilities"
+        "homepage": "https://hk.gh-proxy.com/https://github.com/Mihara/PartUtilities/wiki",
+        "repository": "https://hk.gh-proxy.com/https://github.com/Mihara/PartUtilities"
     },
     "version": "0.3",
     "ksp_version_min": "1.0.2",
@@ -19,7 +19,7 @@
             "filter": "Agencies"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Mihara/PartUtilities/releases/download/v0.3/JSIPartUtilities.0.3.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Mihara/PartUtilities/releases/download/v0.3/JSIPartUtilities.0.3.zip",
     "download_size": 22345,
     "download_hash": {
         "sha1": "662BFDFA2744C6013A6DDC909949907C04C57ED1",

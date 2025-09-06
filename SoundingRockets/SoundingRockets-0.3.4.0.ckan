@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/92434-105",
-        "repository": "https://ghproxy.net/https://github.com/UmbraSpaceIndustries/SoundingRockets"
+        "repository": "https://hk.gh-proxy.com/https://github.com/UmbraSpaceIndustries/SoundingRockets"
     },
     "version": "0.3.4.0",
     "ksp_version": "1.0.5",

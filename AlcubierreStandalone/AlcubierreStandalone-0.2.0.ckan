@@ -7,7 +7,7 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/100798",
-        "repository": "https://ghproxy.net/https://github.com/BobPalmer/WarpDrive"
+        "repository": "https://hk.gh-proxy.com/https://github.com/BobPalmer/WarpDrive"
     },
     "version": "0.2.0",
     "ksp_version": "1.0",
@@ -17,7 +17,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/BobPalmer/WarpDrive/releases/download/0.2.0/WarpDrive_0.2.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/BobPalmer/WarpDrive/releases/download/0.2.0/WarpDrive_0.2.0.zip",
     "download_size": 1417643,
     "download_hash": {
         "sha1": "A3A0E157B224BC2A3A2EE08BF3AF7C808FEFCFF0",

@@ -11,8 +11,8 @@
     "release_status": "testing",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/204002-*",
-        "repository": "https://ghproxy.net/https://github.com/KSPModdingLibs/KSPCommunityFixes",
-        "bugtracker": "https://ghproxy.net/https://github.com/KSPModdingLibs/KSPCommunityFixes/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSPModdingLibs/KSPCommunityFixes",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSPModdingLibs/KSPCommunityFixes/issues",
         "remote-avc": "https://raw.githubusercontent.com/KSPModdingLibs/KSPCommunityFixes/master/GameData/KSPCommunityFixes/KSPCommunityFixes.version"
     },
     "tags": [
@@ -33,7 +33,7 @@
             "name": "Harmony2"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSPModdingLibs/KSPCommunityFixes/releases/download/1.37.0/KSPCommunityFixes_1.37.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSPModdingLibs/KSPCommunityFixes/releases/download/1.37.0/KSPCommunityFixes_1.37.0.zip",
     "download_size": 473806,
     "download_hash": {
         "sha256": "648BB8A2B9AC37781E20A151AAD836CA54D3FB307BFC321DA0A4A543F5EF52C0"

@@ -8,8 +8,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/97154-throttle-controlled-avionics-2302-105-continued",
         "spacedock": "https://spacedock.info/mod/198/Throttle%20Controlled%20Avionics",
-        "repository": "https://ghproxy.net/https://github.com/qfeys/ThrottleControlledAvionics",
-        "bugtracker": "https://ghproxy.net/https://github.com/qfeys/ThrottleControlledAvionics/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/qfeys/ThrottleControlledAvionics",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/qfeys/ThrottleControlledAvionics/issues",
         "x_screenshot": "https://spacedock.info/content/allista_931/Throttle_Controlled_Avionics/Throttle_Controlled_Avionics-1455987208.8846784.png"
     },
     "version": "v3.1.0-KSP-1.1.2",

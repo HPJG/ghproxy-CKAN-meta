@@ -7,7 +7,7 @@
     "license": "CC-BY-SA",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/115066-113-realheat-minimalist-v43-july-3/",
-        "repository": "https://ghproxy.net/https://github.com/KSP-RO/RealHeat"
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealHeat"
     },
     "version": "v4.8",
     "ksp_version_min": "1.5.0",
@@ -23,7 +23,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSP-RO/RealHeat/releases/download/v4.8/RealHeat_v4.8.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealHeat/releases/download/v4.8/RealHeat_v4.8.zip",
     "download_size": 16103,
     "download_hash": {
         "sha1": "D30D4D737677A1D9D07BCC00C7511B59406C8DF9",

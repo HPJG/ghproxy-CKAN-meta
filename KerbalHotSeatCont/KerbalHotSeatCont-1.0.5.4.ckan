@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/158145-12-kerbalhotseat-continued/",
         "spacedock": "https://spacedock.info/mod/1272/Kerbal%20HotSeat",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/KerbalHotSeat",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/KerbalHotSeat/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/KerbalHotSeat",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/KerbalHotSeat/issues",
         "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/KerbalHotSeat/master/KerbalHotSeat.version"
     },
     "tags": [

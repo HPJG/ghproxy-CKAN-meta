@@ -10,9 +10,9 @@
     "license": "LGPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/33124-*/",
-        "repository": "https://ghproxy.net/https://github.com/m4v/RCSBuildAid",
-        "bugtracker": "https://ghproxy.net/https://github.com/m4v/RCSBuildAid/issues",
-        "manual": "https://ghproxy.net/https://github.com/m4v/RCSBuildAid/blob/master/README.adoc",
+        "repository": "https://hk.gh-proxy.com/https://github.com/m4v/RCSBuildAid",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/m4v/RCSBuildAid/issues",
+        "manual": "https://hk.gh-proxy.com/https://github.com/m4v/RCSBuildAid/blob/master/README.adoc",
         "remote-avc": "https://raw.githubusercontent.com/m4v/RCSBuildAid/master/RCSBuildAid.version"
     },
     "tags": [
@@ -36,7 +36,7 @@
             "filter": "Sources"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/m4v/RCSBuildAid/releases/download/v1.0.6/RCSBuildAid_v1.0.6.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/m4v/RCSBuildAid/releases/download/v1.0.6/RCSBuildAid_v1.0.6.zip",
     "download_size": 77844,
     "download_hash": {
         "sha1": "89FA3330E7E66F506A1E15222E222366B12927B5",

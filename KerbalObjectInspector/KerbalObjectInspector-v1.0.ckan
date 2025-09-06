@@ -8,8 +8,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/129030-ksp-10x-kerbal-object-inspector-view-all-game-objects-in-ksp/",
         "spacedock": "https://spacedock.info/mod/261/Kerbal%20Object%20Inspector",
-        "repository": "https://ghproxy.net/https://github.com/Nifty255/KerbalObjectInspector",
-        "bugtracker": "https://ghproxy.net/https://github.com/Nifty255/KerbalObjectInspector/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/Nifty255/KerbalObjectInspector",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Nifty255/KerbalObjectInspector/issues",
         "x_screenshot": "https://spacedock.info/content/Nifty255_1127/Kerbal_Object_Inspector/Kerbal_Object_Inspector-1456279700.3870192.png"
     },
     "version": "v1.0",

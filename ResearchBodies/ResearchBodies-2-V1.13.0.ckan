@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/139473-112",
         "spacedock": "https://spacedock.info/mod/684/ResearchBodies",
-        "repository": "https://ghproxy.net/https://github.com/JPLRepo/ResearchBodies",
-        "bugtracker": "https://ghproxy.net/https://github.com/JPLRepo/ResearchBodies/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/JPLRepo/ResearchBodies",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/JPLRepo/ResearchBodies/issues",
         "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=295"
     },
     "tags": [
@@ -56,7 +56,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/JPLRepo/ResearchBodies/releases/download/V1.13.0/ResearchBodies_V1.13.0.0.zip",
+        "https://hk.gh-proxy.com/https://github.com/JPLRepo/ResearchBodies/releases/download/V1.13.0/ResearchBodies_V1.13.0.0.zip",
         "https://spacedock.info/mod/684/ResearchBodies/download/V1.13.0"
     ],
     "download_size": 12109593,

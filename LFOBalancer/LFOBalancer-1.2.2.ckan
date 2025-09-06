@@ -9,8 +9,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/89317-*",
-        "repository": "https://ghproxy.net/https://github.com/gracepetryk/lfo-balancer",
-        "bugtracker": "https://ghproxy.net/https://github.com/gracepetryk/lfo-balancer/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/gracepetryk/lfo-balancer",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/gracepetryk/lfo-balancer/issues"
     },
     "tags": [
         "plugin",
@@ -21,7 +21,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/gracepetryk/lfo-balancer/releases/download/1.2.2/LFOBalancer.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/gracepetryk/lfo-balancer/releases/download/1.2.2/LFOBalancer.zip",
     "download_size": 6120,
     "download_hash": {
         "sha1": "716AEB402F62EC9E8831E738D2151E0766A70951",

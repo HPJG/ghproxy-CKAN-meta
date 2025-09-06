@@ -2,8 +2,8 @@
     "spec_version": "v1.4",
     "identifier": "ThrottleControlledAvionics",
     "resources": {
-        "bugtracker": "https://ghproxy.net/https://github.com/qfeys/ThrottleControlledAvionics/issues",
-        "repository": "https://ghproxy.net/https://github.com/qfeys/ThrottleControlledAvionics",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/qfeys/ThrottleControlledAvionics/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/qfeys/ThrottleControlledAvionics",
         "kerbalstuff": "https://kerbalstuff.com/mod/510/Throttle%20Controlled%20Avionics%20-%20Continued",
         "homepage": "http://forum.kerbalspaceprogram.com/threads/107802"
     },

@@ -1,0 +1,39 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "BlacklegIndustries",
+    "name": "Blackleg Industries",
+    "abstract": "Blackleg Industries SatBus and ProbeBus extensible satellite and probe bodies with matching accessories.",
+    "author": "blackleg",
+    "license": "CC0",
+    "resources": {
+        "homepage": "https://www.blackleg.es",
+        "repository": "https://hk.gh-proxy.com/https://github.com/blackleg/blackleg-industries"
+    },
+    "version": "v1.9",
+    "ksp_version": "1.0.5",
+    "suggests": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "MechJeb2"
+        },
+        {
+            "name": "RemoteTech"
+        }
+    ],
+    "install": [
+        {
+            "file": "blackind",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://hk.gh-proxy.com/https://github.com/blackleg/blackleg-industries/releases/download/v1.9/blackind.zip",
+    "download_size": 4000733,
+    "download_hash": {
+        "sha1": "2569AD5B87A9E08C8BFC9E5DD92171E0C867A4BE",
+        "sha256": "AD3511C734DB766626260980ED77504BE571C5EF3CC4AABC4DA909EAC8511EFC"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

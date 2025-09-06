@@ -7,11 +7,11 @@
     "license": "CC-BY-SA",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/76499",
-        "repository": "https://ghproxy.net/https://github.com/NathanKell/CrossFeedEnabler"
+        "repository": "https://hk.gh-proxy.com/https://github.com/NathanKell/CrossFeedEnabler"
     },
     "version": "v3.2",
     "ksp_version": "0.90",
-    "download": "https://ghproxy.net/https://github.com/NathanKell/CrossFeedEnabler/releases/download/v3.2/CrossFeedEnabler_v3.2.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/NathanKell/CrossFeedEnabler/releases/download/v3.2/CrossFeedEnabler_v3.2.zip",
     "download_size": 31865,
     "download_hash": {
         "sha1": "53C2CC47D023AC89D90C2FEB8A1AB4A2EBCC44F0",

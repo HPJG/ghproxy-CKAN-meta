@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/108704-14x-15x-dmagics-modlets",
         "spacedock": "https://spacedock.info/mod/2052/Making%20Less%20History",
-        "repository": "https://ghproxy.net/https://github.com/DMagic1/KSP_MakingLessHistory",
-        "bugtracker": "https://ghproxy.net/https://github.com/DMagic1/KSP_MakingLessHistory/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/DMagic1/KSP_MakingLessHistory",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/DMagic1/KSP_MakingLessHistory/issues"
     },
     "tags": [
         "plugin"

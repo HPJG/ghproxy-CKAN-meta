@@ -9,7 +9,7 @@
     "license": "Unlicense",
     "resources": {
         "homepage": "https://kerbalism.github.io/Kerbalism",
-        "repository": "https://ghproxy.net/https://github.com/Kerbalism/Kerbalism"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Kerbalism/Kerbalism"
     },
     "version": "v3.0.2-config2",
     "ksp_version_min": "1.4.0",
@@ -82,7 +82,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Kerbalism/Kerbalism/releases/download/v3.0.2-config2/Kerbalism-Core.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Kerbalism/Kerbalism/releases/download/v3.0.2-config2/Kerbalism-Core.zip",
     "download_size": 5724433,
     "download_hash": {
         "sha1": "B258BF5C150E601ACDC33528DF1AC39BA3AE805C",

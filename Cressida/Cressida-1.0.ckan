@@ -10,8 +10,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/199392-*",
-        "repository": "https://ghproxy.net/https://github.com/kyleander/cressida",
-        "bugtracker": "https://ghproxy.net/https://github.com/kyleander/cressida/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/kyleander/cressida",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/kyleander/cressida/issues"
     },
     "tags": [
         "planet-pack"
@@ -48,7 +48,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/kyleander/cressida/releases/download/1.0/Cressida.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/kyleander/cressida/releases/download/1.0/Cressida.zip",
     "download_size": 5854,
     "download_hash": {
         "sha1": "A349F313F56ADF78F06B0B4619C75DA3D1D6604F",

@@ -11,8 +11,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/143288-*",
-        "repository": "https://ghproxy.net/https://github.com/Galileo88/StockVisualEnhancements",
-        "bugtracker": "https://ghproxy.net/https://github.com/Galileo88/StockVisualEnhancements/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Galileo88/StockVisualEnhancements",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Galileo88/StockVisualEnhancements/issues"
     },
     "tags": [
         "graphics"
@@ -36,7 +36,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Galileo88/StockVisualEnhancements/releases/download/1.0.8/SVE_LowResTextures.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Galileo88/StockVisualEnhancements/releases/download/1.0.8/SVE_LowResTextures.zip",
     "download_size": 22371288,
     "download_hash": {
         "sha1": "16A8CF06560392EB942C8827E730F71FAE3808AA",

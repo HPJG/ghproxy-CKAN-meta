@@ -13,8 +13,8 @@
     "license": "CC-BY-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/194394-*",
-        "repository": "https://ghproxy.net/https://github.com/ValiZockt/RealFuels-Stock",
-        "bugtracker": "https://ghproxy.net/https://github.com/ValiZockt/RealFuels-Stock/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/ValiZockt/RealFuels-Stock",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/ValiZockt/RealFuels-Stock/issues"
     },
     "tags": [
         "config",
@@ -51,7 +51,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/ValiZockt/RealFuels-Stock/releases/download/v5.0.1/RealFuels-Stock-v5.0.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/ValiZockt/RealFuels-Stock/releases/download/v5.0.1/RealFuels-Stock-v5.0.1.zip",
     "download_size": 342582,
     "download_hash": {
         "sha1": "279EC9F6E0498969AD64A19D6E298DC6D383C633",

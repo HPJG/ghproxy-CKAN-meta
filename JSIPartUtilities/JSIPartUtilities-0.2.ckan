@@ -7,7 +7,7 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/88366",
-        "repository": "https://ghproxy.net/https://github.com/Mihara/PartUtilities"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Mihara/PartUtilities"
     },
     "version": "0.2",
     "ksp_version_min": "0.24.2",
@@ -18,7 +18,7 @@
             "install_to": "GameData/JSI"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Mihara/PartUtilities/releases/download/v0.2/JSIPartUtilities.0.2.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Mihara/PartUtilities/releases/download/v0.2/JSIPartUtilities.0.2.zip",
     "download_size": 22931,
     "download_hash": {
         "sha1": "26B725A0C791B1AB720298654618734450029E0E",

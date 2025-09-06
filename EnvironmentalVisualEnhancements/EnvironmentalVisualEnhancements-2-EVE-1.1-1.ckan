@@ -7,7 +7,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/55905",
-        "repository": "https://ghproxy.net/https://github.com/rbray89/EnvironmentalVisualEnhancements"
+        "repository": "https://hk.gh-proxy.com/https://github.com/rbray89/EnvironmentalVisualEnhancements"
     },
     "version": "2:EVE-1.1-1",
     "ksp_version": "1.1.0",
@@ -27,7 +27,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/rbray89/EnvironmentalVisualEnhancements/releases/download/EVE-1.1-1/AnyCPU-EVE-Release.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/rbray89/EnvironmentalVisualEnhancements/releases/download/EVE-1.1-1/AnyCPU-EVE-Release.zip",
     "download_size": 13941929,
     "download_hash": {
         "sha1": "60707A29A7577ABACC2114182510E3A28571A046",

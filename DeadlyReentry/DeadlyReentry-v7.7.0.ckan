@@ -7,7 +7,7 @@
     "license": "CC-BY-SA",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/50296-131-deadly-reentry-v762-nov-16-2017-the-ariel-edition/",
-        "repository": "https://ghproxy.net/https://github.com/Starwaster/DeadlyReentry"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Starwaster/DeadlyReentry"
     },
     "version": "v7.7.0",
     "ksp_version_min": "1.4.0",
@@ -24,7 +24,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Starwaster/DeadlyReentry/releases/download/v7.7.0/DeadlyReentry_v7.7.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Starwaster/DeadlyReentry/releases/download/v7.7.0/DeadlyReentry_v7.7.0.zip",
     "download_size": 860504,
     "download_hash": {
         "sha1": "A9111E9F7EF10A77595098AADCB5532927111A77",

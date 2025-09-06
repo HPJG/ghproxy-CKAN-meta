@@ -6,7 +6,7 @@
     "author": "Amarius1",
     "license": "CC-BY-NC-SA",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/Amarius1/Kerbol-Plus"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Amarius1/Kerbol-Plus"
     },
     "version": "v.2.3.8",
     "ksp_version": "1.0.4",
@@ -42,7 +42,7 @@
             "install_to": "GameData/Kopernicus"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Amarius1/Kerbol-Plus/releases/download/v.2.3.8/KerbolPlus.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Amarius1/Kerbol-Plus/releases/download/v.2.3.8/KerbolPlus.zip",
     "download_size": 207036118,
     "download_hash": {
         "sha1": "2C684C01C887F2D3262CD5FCA7665733B0C5E5CC",

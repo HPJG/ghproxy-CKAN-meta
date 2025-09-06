@@ -12,12 +12,12 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/190040--",
-        "repository": "https://ghproxy.net/https://github.com/KSP-RO/ContractConfigurator",
-        "bugtracker": "https://ghproxy.net/https://github.com/KSP-RO/ContractConfigurator/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ContractConfigurator",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ContractConfigurator/issues",
         "license": "https://raw.githubusercontent.com/KSP-RO/ContractConfigurator/master/LICENSE.txt",
-        "manual": "https://ghproxy.net/https://github.com/jrossignol/ContractConfigurator/wiki",
+        "manual": "https://hk.gh-proxy.com/https://github.com/jrossignol/ContractConfigurator/wiki",
         "metanetkan": "https://raw.githubusercontent.com/KSP-RO/ContractConfigurator/master/ContractConfiguratorRO.netkan",
-        "remote-avc": "https://ghproxy.net/https://github.com/KSP-RO/ContractConfigurator/raw/master/GameData/ContractConfigurator/ContractConfigurator.version"
+        "remote-avc": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ContractConfigurator/raw/master/GameData/ContractConfigurator/ContractConfigurator.version"
     },
     "tags": [
         "plugin",
@@ -49,7 +49,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSP-RO/ContractConfigurator/releases/download/2.1.0/ContractConfigurator_2.1.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ContractConfigurator/releases/download/2.1.0/ContractConfigurator_2.1.0.zip",
     "download_size": 574316,
     "download_hash": {
         "sha1": "66A2A0C773E58391F83B66FDD9645C59A4B42A1D",

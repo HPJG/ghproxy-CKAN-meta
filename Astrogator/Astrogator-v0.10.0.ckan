@@ -12,8 +12,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/155998-*",
-        "repository": "https://ghproxy.net/https://github.com/HebaruSan/Astrogator",
-        "bugtracker": "https://ghproxy.net/https://github.com/HebaruSan/Astrogator/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/HebaruSan/Astrogator",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/HebaruSan/Astrogator/issues"
     },
     "tags": [
         "plugin",
@@ -63,7 +63,7 @@
             "name": "RasterPropMonitor"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/HebaruSan/Astrogator/releases/download/v0.10.0/Astrogator.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/HebaruSan/Astrogator/releases/download/v0.10.0/Astrogator.zip",
     "download_size": 80692,
     "download_hash": {
         "sha1": "1F63D1F1DAA085C23DD1AEBB496F71207634F7EB",

@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/200334-*",
         "spacedock": "https://spacedock.info/mod/2957/Stock%20Waterfall%20Effects",
-        "repository": "https://ghproxy.net/https://github.com/KnightofStJohn/StockWaterfallEffects",
-        "bugtracker": "https://ghproxy.net/https://github.com/KnightofStJohn/StockWaterfallEffects/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/KnightofStJohn/StockWaterfallEffects",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KnightofStJohn/StockWaterfallEffects/issues"
     },
     "tags": [
         "config",
@@ -29,7 +29,7 @@
             "name": "Waterfall"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KnightofStJohn/StockWaterfallEffects/releases/download/0.7.0/StockWaterfallEffects_0_7_0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KnightofStJohn/StockWaterfallEffects/releases/download/0.7.0/StockWaterfallEffects_0_7_0.zip",
     "download_size": 194966,
     "download_hash": {
         "sha1": "068C41AE36D0C129D13FCE8DC6612DCCA7DD5245",

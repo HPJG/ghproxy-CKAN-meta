@@ -8,7 +8,7 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/134863",
         "spacedock": "https://spacedock.info/mod/433/kOS%20mutiple%20archive%20manager",
-        "repository": "https://ghproxy.net/https://github.com/hashashin/kos_multiarchive",
+        "repository": "https://hk.gh-proxy.com/https://github.com/hashashin/kos_multiarchive",
         "x_screenshot": "https://spacedock.info/content/hashashin_471/kOS_mutiple_archive_manager/kOS_mutiple_archive_manager-1458594487.1541932.png"
     },
     "version": "0.2",

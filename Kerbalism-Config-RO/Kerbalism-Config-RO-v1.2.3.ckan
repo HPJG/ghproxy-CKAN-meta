@@ -19,8 +19,8 @@
     "version": "v1.2.3",
     "license": "Unlicense",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/KSP-RO/ROKerbalism",
-        "bugtracker": "https://ghproxy.net/https://github.com/KSP-RO/ROKerbalism/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ROKerbalism",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ROKerbalism/issues"
     },
     "tags": [
         "config",
@@ -75,7 +75,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSP-RO/ROKerbalism/releases/download/v1.2.3/GameData.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ROKerbalism/releases/download/v1.2.3/GameData.zip",
     "download_size": 2329178,
     "download_hash": {
         "sha1": "BA70B25FE8E6DD3E3045EA214045A18969FAE796",

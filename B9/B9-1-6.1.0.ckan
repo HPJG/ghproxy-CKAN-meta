@@ -1,0 +1,71 @@
+{
+    "spec_version": 1,
+    "identifier": "B9",
+    "name": "B9 Aerospace Parts Pack",
+    "abstract": "A wide selection of new KSP parts, in particular particular spaceplane components such as new engines, cockpits, and fuselage systems",
+    "author": "bac9",
+    "license": "CC-BY-NC-SA-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?showtopic=83570",
+        "repository": "https://hk.gh-proxy.com/https://github.com/blowfishpro/B9-Aerospace"
+    },
+    "version": "1:6.1.0",
+    "ksp_version": "1.1.0",
+    "depends": [
+        {
+            "name": "B9-props"
+        },
+        {
+            "name": "FirespitterCore"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RasterPropMonitor-Core"
+        },
+        {
+            "name": "SmokeScreen"
+        },
+        {
+            "name": "B9AnimationModules"
+        },
+        {
+            "name": "B9PartSwitch"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "AdjustableLandingGear"
+        },
+        {
+            "name": "B9-PWings-Fork"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "KerbalJointReinforcement"
+        },
+        {
+            "name": "FilterExtensions"
+        },
+        {
+            "name": "AerodynamicModel"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/B9_Aerospace",
+            "install_to": "GameData",
+            "filter": "Props"
+        }
+    ],
+    "download": "https://hk.gh-proxy.com/https://github.com/blowfishpro/B9-Aerospace/releases/download/6.1.0/B9_Aerospace_6-1-0.zip",
+    "download_size": 77942402,
+    "download_hash": {
+        "sha1": "A60CB9CAF9BE84C23E1C9DF99453DC12AA09D01D",
+        "sha256": "CBF315B7E2F288284D3D4D6052B0160EF305347775C7D5679FE70586CE3DEE35"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

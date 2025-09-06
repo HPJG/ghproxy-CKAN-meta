@@ -1,0 +1,43 @@
+{
+    "spec_version": 1,
+    "identifier": "B9AerospaceProceduralParts",
+    "name": "B9 Aerospace Procedural Parts",
+    "abstract": "Feature-packed procedural wings and control surfaces with low performance impact, flexible UI and never before seen approach to texturing.",
+    "author": "bac9",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/104966",
+        "repository": "https://bitbucket.org/bac9/b9_aerospace_plugins",
+        "kerbalstuff": "https://kerbalstuff.com/mod/515/B9%20Aerospace%20Procedural%20Parts",
+        "x_screenshot": "https://kerbalstuff.com/content/bac9_821/B9_Aerospace_Procedural_Parts/B9_Aerospace_Procedural_Parts.jpg"
+    },
+    "version": "0.40",
+    "ksp_version_min": "1.0.2",
+    "ksp_version_max": "1.0.4",
+    "depends": [
+        {
+            "name": "CrossFeedEnabler"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "B9-PWings-Fork"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/B9_Aerospace",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/B9AerospaceProceduralParts-0.40/AAA4CCA1-B9AerospaceProceduralParts-0.40.zip",
+    "download_size": 3768761,
+    "download_hash": {
+        "sha1": "AAA4CCA1C89836DC41CF1982422E6E1757F45C94",
+        "sha256": "6B7FD6F010C91A83459A6E8B0EE4402D3D698F2EEAFE8FB3909CA8F764D3A48D"
+    },
+    "download_content_type": "application/zip",
+    "x_licence_assets": "CC-BY-NC-SA-4.0",
+    "x_licence_code": "MIT",
+    "x_generated_by": "netkan"
+}

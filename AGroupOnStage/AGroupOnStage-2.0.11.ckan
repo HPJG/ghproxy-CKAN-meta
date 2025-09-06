@@ -7,8 +7,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/93259",
-        "repository": "https://ghproxy.net/https://github.com/iPeer/AGroupOnStage",
-        "bugtracker": "https://ghproxy.net/https://github.com/iPeer/AGroupOnStage/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/iPeer/AGroupOnStage",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/iPeer/AGroupOnStage/issues"
     },
     "version": "2.0.11",
     "ksp_version_min": "1.0.3",
@@ -29,7 +29,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/iPeer/AGroupOnStage/releases/download/2.0.11/AGroupOnStage2.0.11.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/iPeer/AGroupOnStage/releases/download/2.0.11/AGroupOnStage2.0.11.zip",
     "download_size": 112703,
     "download_hash": {
         "sha1": "B0B4549C02A4549789F4CF39E356D37A4761856A",

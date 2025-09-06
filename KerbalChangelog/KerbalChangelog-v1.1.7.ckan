@@ -10,7 +10,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/179207-*",
-        "repository": "https://ghproxy.net/https://github.com/BenjaminCronin/KerbalChangelog"
+        "repository": "https://hk.gh-proxy.com/https://github.com/BenjaminCronin/KerbalChangelog"
     },
     "tags": [
         "plugin"
@@ -21,7 +21,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/BenjaminCronin/KerbalChangelog/releases/download/v1.1.7/KerbalChangeLog.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/BenjaminCronin/KerbalChangelog/releases/download/v1.1.7/KerbalChangeLog.zip",
     "download_size": 7945,
     "download_hash": {
         "sha1": "79A916DBAEFB361EE22BF479E18BB460D58A1477",

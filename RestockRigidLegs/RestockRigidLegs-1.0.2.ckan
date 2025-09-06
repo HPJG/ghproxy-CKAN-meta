@@ -10,8 +10,8 @@
     "license": "restricted",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/182679-161-restock-revamping-ksps-art/",
-        "repository": "https://ghproxy.net/https://github.com/PorktoberRevolution/ReStocked",
-        "metanetkan": "https://ghproxy.net/https://github.com/PorktoberRevolution/ReStocked/raw/master/CKAN/ReStockRigidLegs.netkan"
+        "repository": "https://hk.gh-proxy.com/https://github.com/PorktoberRevolution/ReStocked",
+        "metanetkan": "https://hk.gh-proxy.com/https://github.com/PorktoberRevolution/ReStocked/raw/master/CKAN/ReStockRigidLegs.netkan"
     },
     "tags": [
         "parts"
@@ -34,7 +34,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/PorktoberRevolution/ReStocked/releases/download/1.0.2/ReStock_1_0_2.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/PorktoberRevolution/ReStocked/releases/download/1.0.2/ReStock_1_0_2.zip",
     "download_size": 160738813,
     "download_hash": {
         "sha1": "CAB08E9BFA420361700D14548564CDE64132CFC2",

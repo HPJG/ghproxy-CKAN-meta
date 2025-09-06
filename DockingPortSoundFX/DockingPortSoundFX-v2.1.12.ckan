@@ -7,7 +7,7 @@
     "license": "CC-BY-SA-4.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/113390-*",
-        "repository": "https://ghproxy.net/https://github.com/TedThompson/Docking-Sounds"
+        "repository": "https://hk.gh-proxy.com/https://github.com/TedThompson/Docking-Sounds"
     },
     "tags": [
         "plugin",
@@ -29,7 +29,7 @@
             ]
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/TedThompson/Docking-Sounds/releases/download/2.1.12/FP_DPSoundFX.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/TedThompson/Docking-Sounds/releases/download/2.1.12/FP_DPSoundFX.zip",
     "download_size": 273699,
     "download_hash": {
         "sha1": "09B9DF4D2F19D17F2AAAE3AF649B699A1DF1A0B3",

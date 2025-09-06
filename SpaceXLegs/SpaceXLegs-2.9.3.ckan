@@ -14,8 +14,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/195546-110-kre-kerbal-reusability-expansion/",
         "spacedock": "https://spacedock.info/mod/841/Kerbal%20Reusability%20Expansion",
-        "repository": "https://ghproxy.net/https://github.com/TundraMods/Kerbal-Reusability-Expansion",
-        "bugtracker": "https://ghproxy.net/https://github.com/TundraMods/Kerbal-Reusability-Expansion/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/TundraMods/Kerbal-Reusability-Expansion",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/TundraMods/Kerbal-Reusability-Expansion/issues",
         "remote-avc": "https://raw.githubusercontent.com/damonvv/Kerbal-Reusability-Expansion/master/GameData/KerbalReusabilityExpansion/KRE_VERSION.version",
         "x_screenshot": "https://spacedock.info/content/EmbersArc_2817/Kerbal_Reusability_Expansion/Kerbal_Reusability_Expansion-1498812129.835737.png"
     },
@@ -53,7 +53,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/TundraMods/Kerbal-Reusability-Expansion/releases/download/2.9.3/KerbalReusabilityExpansion-2.9.3.zip",
+        "https://hk.gh-proxy.com/https://github.com/TundraMods/Kerbal-Reusability-Expansion/releases/download/2.9.3/KerbalReusabilityExpansion-2.9.3.zip",
         "https://spacedock.info/mod/841/Kerbal%20Reusability%20Expansion/download/2.9.3"
     ],
     "download_size": 49572913,

@@ -10,8 +10,8 @@
     "license": "CC-BY-NC-SA",
     "resources": {
         "spacedock": "https://spacedock.info/mod/3692/ModuleAnimateDualGenerics",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/ModuleAnimateDualGenerics",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/ModuleAnimateDualGenerics/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ModuleAnimateDualGenerics",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ModuleAnimateDualGenerics/issues",
         "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/ModuleAnimateDualGenerics/refs/heads/main/ModuleAnimateDualGenerics.version"
     },
     "tags": [
@@ -25,7 +25,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/linuxgurugamer/ModuleAnimateDualGenerics/releases/download/0.0.1.6/ModuleAnimateDualGenerics-1.12.0-0.0.1.6.zip",
+        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ModuleAnimateDualGenerics/releases/download/0.0.1.6/ModuleAnimateDualGenerics-1.12.0-0.0.1.6.zip",
         "https://spacedock.info/mod/3692/ModuleAnimateDualGenerics/download/0.0.1.6"
     ],
     "download_size": 16501,

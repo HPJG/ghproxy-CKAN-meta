@@ -10,7 +10,7 @@
     "license": "CC-BY-SA-3.0",
     "resources": {
         "homepage": "http://colorcurves.github.io/CargoBays/",
-        "repository": "https://ghproxy.net/https://github.com/ColorCurves/CargoBays"
+        "repository": "https://hk.gh-proxy.com/https://github.com/ColorCurves/CargoBays"
     },
     "version": "v1.0.0",
     "ksp_version_min": "1.0.5",
@@ -21,7 +21,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/ColorCurves/CargoBays/releases/download/v1.0.0/CargoBays_V1_0_0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/ColorCurves/CargoBays/releases/download/v1.0.0/CargoBays_V1_0_0.zip",
     "download_size": 330639,
     "download_hash": {
         "sha1": "4075EB0D66691826DAE99F07354444862273B705",

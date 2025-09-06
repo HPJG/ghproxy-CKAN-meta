@@ -12,7 +12,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?showtopic=159101",
-        "repository": "https://ghproxy.net/https://github.com/blowfishpro/SimpleAdjustableFairings-KWRocketry"
+        "repository": "https://hk.gh-proxy.com/https://github.com/blowfishpro/SimpleAdjustableFairings-KWRocketry"
     },
     "version": "v1.0.2",
     "ksp_version": "1.4.0",
@@ -27,7 +27,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/blowfishpro/SimpleAdjustableFairings-KWRocketry/releases/download/v1.0.2/SimpleAdjustableFairings-KWRocketry-v1.0.2.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/blowfishpro/SimpleAdjustableFairings-KWRocketry/releases/download/v1.0.2/SimpleAdjustableFairings-KWRocketry-v1.0.2.zip",
     "download_size": 4229629,
     "download_hash": {
         "sha1": "61EA0D5BED4EB0B7BEEE3254B5500FA7F90F773C",

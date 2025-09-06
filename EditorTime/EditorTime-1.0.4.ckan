@@ -7,7 +7,7 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/107663-1-0-x-Magico13-s-Modlets",
-        "repository": "https://ghproxy.net/https://github.com/magico13/Modlets"
+        "repository": "https://hk.gh-proxy.com/https://github.com/magico13/Modlets"
     },
     "version": "1.0.4",
     "ksp_version": "1.2.2",
@@ -22,7 +22,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/magico13/Modlets/releases/download/KSP1.2.2/EditorTime_1.0.4.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/magico13/Modlets/releases/download/KSP1.2.2/EditorTime_1.0.4.zip",
     "download_size": 15676,
     "download_hash": {
         "sha1": "725D5D1B1C9D7477307BD097BEEB1222B5F221EE",

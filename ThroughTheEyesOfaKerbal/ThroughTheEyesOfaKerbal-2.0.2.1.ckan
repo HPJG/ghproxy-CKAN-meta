@@ -6,7 +6,7 @@
     "author": "linuxgurugamer",
     "license": "GPL-3.0",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/Through-The-Eyes"
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/Through-The-Eyes"
     },
     "version": "2.0.2.1",
     "ksp_version": "1.4.1",
@@ -16,7 +16,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/linuxgurugamer/Through-The-Eyes/releases/download/2.0.2.1/ThroughTheEyes-2.0.2.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/Through-The-Eyes/releases/download/2.0.2.1/ThroughTheEyes-2.0.2.1.zip",
     "download_size": 66109,
     "download_hash": {
         "sha1": "0EF42AA9AB6C196C1A98090CDDC729C257FDA4D7",

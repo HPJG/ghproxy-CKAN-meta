@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/99966",
-        "repository": "https://ghproxy.net/https://github.com/KSP-RO/RealismOverhaul"
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealismOverhaul"
     },
     "version": "v10.9.0",
     "ksp_version": "1.0.5",
@@ -241,7 +241,7 @@
             "comment": "SPH craft files"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSP-RO/RealismOverhaul/releases/download/v10.9.0/RealismOverhaul-v10.9.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealismOverhaul/releases/download/v10.9.0/RealismOverhaul-v10.9.0.zip",
     "download_size": 7297059,
     "download_hash": {
         "sha1": "348D34AFDFFD5086DC019B86329629D82947A6F3",

@@ -15,7 +15,7 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/162324-151-131",
         "spacedock": "https://spacedock.info/mod/396/Trajectories",
-        "repository": "https://ghproxy.net/https://github.com/neuoy/KSPTrajectories"
+        "repository": "https://hk.gh-proxy.com/https://github.com/neuoy/KSPTrajectories"
     },
     "tags": [
         "plugin",

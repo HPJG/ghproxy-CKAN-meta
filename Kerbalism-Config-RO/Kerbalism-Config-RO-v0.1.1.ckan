@@ -6,7 +6,7 @@
     "author": "Standecco",
     "license": "Unlicense",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/Standecco/ROKerbalism"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Standecco/ROKerbalism"
     },
     "tags": [
         "config",
@@ -58,7 +58,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Standecco/ROKerbalism/releases/download/v0.1.1/Complete.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Standecco/ROKerbalism/releases/download/v0.1.1/Complete.zip",
     "download_size": 5652153,
     "download_hash": {
         "sha1": "22A2DB9046E5AF20DC81EBE8F61E1D5065E1C26F",

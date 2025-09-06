@@ -6,8 +6,8 @@
     "author": "ChrisAdderley",
     "license": "MIT",
     "resources": {
-        "homepage": "https://ghproxy.net/https://github.com/ChrisAdderley/DeployableEngines/wiki",
-        "repository": "https://ghproxy.net/https://github.com/ChrisAdderley/DeployableEngines"
+        "homepage": "https://hk.gh-proxy.com/https://github.com/ChrisAdderley/DeployableEngines/wiki",
+        "repository": "https://hk.gh-proxy.com/https://github.com/ChrisAdderley/DeployableEngines"
     },
     "version": "1.0.1",
     "ksp_version_min": "1.7.0",
@@ -26,7 +26,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/ChrisAdderley/DeployableEngines/releases/download/1.0.1/DeployableEngines_1_0_1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/ChrisAdderley/DeployableEngines/releases/download/1.0.1/DeployableEngines_1_0_1.zip",
     "download_size": 6105,
     "download_hash": {
         "sha1": "CC5499FCE3E8A2DFD42956683EC26ED0561E2D16",

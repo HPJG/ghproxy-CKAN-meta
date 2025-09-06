@@ -14,7 +14,7 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/192101-18x-davon-supply-mod/",
         "spacedock": "https://spacedock.info/mod/364/Davon%20Supply%20Mod",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/DavonSupplyMod",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/DavonSupplyMod",
         "remote-avc": "http://ksp.spacetux.net/avc/DavonSupplyMod",
         "x_screenshot": "https://spacedock.info/content/PrivateFlip_1691/Davon_Supply_Mod/Davon_Supply_Mod-1457289612.9609787.png"
     },
@@ -38,7 +38,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/linuxgurugamer/DavonSupplyMod/releases/download/0.2.7.2/Davon_Supply_Mod-0.2.7.2.zip",
+        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/DavonSupplyMod/releases/download/0.2.7.2/Davon_Supply_Mod-0.2.7.2.zip",
         "https://spacedock.info/mod/364/Davon%20Supply%20Mod/download/0.2.7.2"
     ],
     "download_size": 2167369,

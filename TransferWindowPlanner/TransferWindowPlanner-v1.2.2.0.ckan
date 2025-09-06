@@ -8,8 +8,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/84005-*",
-        "repository": "https://ghproxy.net/https://github.com/TriggerAu/TransferWindowPlanner",
-        "license": "https://ghproxy.net/https://github.com/TriggerAu/TransferWindowPlanner/blob/master/LICENSE",
+        "repository": "https://hk.gh-proxy.com/https://github.com/TriggerAu/TransferWindowPlanner",
+        "license": "https://hk.gh-proxy.com/https://github.com/TriggerAu/TransferWindowPlanner/blob/master/LICENSE",
         "manual": "http://triggerau.github.io/TransferWindowPlanner/",
         "kerbalstuff": "https://kerbalstuff.com/mod/268/Transfer%20Window%20Planner",
         "curse": "http://kerbal.curseforge.com/ksp-mods/224116-transfer-window-planner"
@@ -22,7 +22,7 @@
             "install_to": "GameData/TriggerTech"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/TriggerAu/TransferWindowPlanner/releases/download/v1.2.2.0/TransferWindowPlanner_1.2.2.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/TriggerAu/TransferWindowPlanner/releases/download/v1.2.2.0/TransferWindowPlanner_1.2.2.0.zip",
     "download_size": 90317,
     "download_hash": {
         "sha1": "058DF058650193F9540CE015EF3473D725A0E471",

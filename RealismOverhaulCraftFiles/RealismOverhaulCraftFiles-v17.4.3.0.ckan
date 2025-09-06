@@ -21,8 +21,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/155700-*",
-        "repository": "https://ghproxy.net/https://github.com/KSP-RO/RealismOverhaul",
-        "bugtracker": "https://ghproxy.net/https://github.com/KSP-RO/RealismOverhaul/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealismOverhaul",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealismOverhaul/issues",
         "metanetkan": "https://raw.githubusercontent.com/KSP-RO/RealismOverhaul/master/RealismOverhaulCraftFiles.netkan"
     },
     "tags": [
@@ -85,7 +85,7 @@
             "comment": "SPH craft files"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSP-RO/RealismOverhaul/releases/download/v17.4.3.0/RealismOverhaul-v17.4.3.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealismOverhaul/releases/download/v17.4.3.0/RealismOverhaul-v17.4.3.0.zip",
     "download_size": 22851532,
     "download_hash": {
         "sha1": "B6D5FD3C8D72907C5ABF497C3F219C8A15E21024",

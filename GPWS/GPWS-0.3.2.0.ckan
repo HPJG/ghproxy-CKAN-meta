@@ -7,7 +7,7 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/112420",
-        "repository": "https://ghproxy.net/https://github.com/bssthu/KSP_GPWS"
+        "repository": "https://hk.gh-proxy.com/https://github.com/bssthu/KSP_GPWS"
     },
     "version": "0.3.2.0",
     "ksp_version_min": "1.0.0",
@@ -28,7 +28,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/bssthu/KSP_GPWS/releases/download/v0.3-beta.2/GPWSv0.3-beta.2.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/bssthu/KSP_GPWS/releases/download/v0.3-beta.2/GPWSv0.3-beta.2.zip",
     "download_size": 291411,
     "download_hash": {
         "sha1": "9D1FF8592285B64C807D6211DB99BD2B5D15C08F",

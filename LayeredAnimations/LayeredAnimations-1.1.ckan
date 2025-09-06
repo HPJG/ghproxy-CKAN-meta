@@ -9,8 +9,8 @@
     "ksp_version_max": "1.0.4",
     "license": "Unlicense",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/Starwaster/LayeredAnimations",
-        "bugtracker": "https://ghproxy.net/https://github.com/Starwaster/LayeredAnimations/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Starwaster/LayeredAnimations",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Starwaster/LayeredAnimations/issues"
     },
     "tags": [
         "plugin",
@@ -24,7 +24,7 @@
             "comment": "Patch is only necessary to fix Porkjet's Habitat Pack, which now includes these changes."
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Starwaster/LayeredAnimations/releases/download/1.1/LayeredAnimations.v1.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Starwaster/LayeredAnimations/releases/download/1.1/LayeredAnimations.v1.1.zip",
     "download_size": 1975,
     "download_hash": {
         "sha1": "47FDEA2B10DD8F36092308C4F8AD664CC9635B3E",

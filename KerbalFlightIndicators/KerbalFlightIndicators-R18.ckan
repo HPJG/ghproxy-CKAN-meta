@@ -13,15 +13,15 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/172904-*",
-        "repository": "https://ghproxy.net/https://github.com/PapaJoesSoup/KerbalFlightIndicators",
-        "bugtracker": "https://ghproxy.net/https://github.com/PapaJoesSoup/KerbalFlightIndicators/issues",
-        "remote-avc": "https://ghproxy.net/https://github.com/PapaJoesSoup/KerbalFlightIndicators/GameData/KerbalFlightIndicators/KerbalFlightIndicators.version"
+        "repository": "https://hk.gh-proxy.com/https://github.com/PapaJoesSoup/KerbalFlightIndicators",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/PapaJoesSoup/KerbalFlightIndicators/issues",
+        "remote-avc": "https://hk.gh-proxy.com/https://github.com/PapaJoesSoup/KerbalFlightIndicators/GameData/KerbalFlightIndicators/KerbalFlightIndicators.version"
     },
     "tags": [
         "plugin",
         "information"
     ],
-    "download": "https://ghproxy.net/https://github.com/PapaJoesSoup/KerbalFlightIndicators/releases/download/R18/KerbalFlightIndicators.0.17.0.0_09092018.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/PapaJoesSoup/KerbalFlightIndicators/releases/download/R18/KerbalFlightIndicators.0.17.0.0_09092018.zip",
     "download_size": 35454,
     "download_hash": {
         "sha1": "A6714C04FDA48156EAE2555208F8B56674997DF2",

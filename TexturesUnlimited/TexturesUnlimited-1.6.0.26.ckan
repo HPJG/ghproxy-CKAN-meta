@@ -13,8 +13,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/167450-*",
-        "repository": "https://ghproxy.net/https://github.com/KSPModStewards/TexturesUnlimited",
-        "bugtracker": "https://ghproxy.net/https://github.com/KSPModStewards/TexturesUnlimited/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSPModStewards/TexturesUnlimited",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSPModStewards/TexturesUnlimited/issues",
         "remote-avc": "https://raw.githubusercontent.com/KSPModStewards/TexturesUnlimited/main/GameData/000_TexturesUnlimited/TexturesUnlimited.version"
     },
     "tags": [
@@ -28,7 +28,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSPModStewards/TexturesUnlimited/releases/download/1.6.0.26/TexturesUnlimited-1.6.0.26.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSPModStewards/TexturesUnlimited/releases/download/1.6.0.26/TexturesUnlimited-1.6.0.26.zip",
     "download_size": 11140233,
     "download_hash": {
         "sha1": "3DEEEC123753B36E07E0499DDD04719EA325FC5E",

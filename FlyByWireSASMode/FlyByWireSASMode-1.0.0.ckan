@@ -9,15 +9,15 @@
     "ksp_version_max": "1.12.5",
     "license": "MIT",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/gotmachine/FlyByWireSASMode",
-        "bugtracker": "https://ghproxy.net/https://github.com/gotmachine/FlyByWireSASMode/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/gotmachine/FlyByWireSASMode",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/gotmachine/FlyByWireSASMode/issues",
         "remote-avc": "https://raw.githubusercontent.com/gotmachine/FlyByWireSASMode/master/GameData/FlyByWireSASMode/FlyByWireSASMode.version"
     },
     "tags": [
         "plugin",
         "control"
     ],
-    "download": "https://ghproxy.net/https://github.com/gotmachine/FlyByWireSASMode/releases/download/1.0.0/FlyByWireSASMode_1.0.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/gotmachine/FlyByWireSASMode/releases/download/1.0.0/FlyByWireSASMode_1.0.0.zip",
     "download_size": 13308,
     "download_hash": {
         "sha1": "2512317B178CCC85465628B66DDEC27BC737259E",

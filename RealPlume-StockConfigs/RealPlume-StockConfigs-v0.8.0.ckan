@@ -6,8 +6,8 @@
     "author": "Felger",
     "license": "CC-BY-NC-SA",
     "resources": {
-        "homepage": "https://ghproxy.net/https://github.com/KSP-RO/RealPlume/wiki",
-        "repository": "https://ghproxy.net/https://github.com/KSP-RO/RealPlume-StockConfigs"
+        "homepage": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealPlume/wiki",
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealPlume-StockConfigs"
     },
     "version": "v0.8.0",
     "ksp_version": "1.0.4",
@@ -84,7 +84,7 @@
             "install_to": "GameData/RealPlume"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSP-RO/RealPlume-StockConfigs/releases/download/v0.8/RealPlume-StockConfigs-v0.8.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealPlume-StockConfigs/releases/download/v0.8/RealPlume-StockConfigs-v0.8.zip",
     "download_size": 127469,
     "download_hash": {
         "sha1": "0B7B15F7039B759AFFC2344E6A803BDE780A7EFE",

@@ -9,8 +9,8 @@
     "license": "CC-BY-NC-SA",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/160191-*",
-        "repository": "https://ghproxy.net/https://github.com/KSP-RO/ScaledRSS-Textures",
-        "bugtracker": "https://ghproxy.net/https://github.com/KSP-RO/ScaledRSS-Textures/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ScaledRSS-Textures",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ScaledRSS-Textures/issues"
     },
     "tags": [
         "config",
@@ -35,7 +35,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSP-RO/ScaledRSS-Textures/releases/download/1.4/ScaledRSS-8192.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ScaledRSS-Textures/releases/download/1.4/ScaledRSS-8192.zip",
     "download_size": 548466730,
     "download_hash": {
         "sha1": "94E097CD68F434CDF095BC4693748389316DE788",

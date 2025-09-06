@@ -1,0 +1,37 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "AutomatedScienceSampler",
+    "name": "AutomatedScienceSampler",
+    "abstract": "Automates science experiments.",
+    "author": [
+        "SpaceTiger",
+        "SpaceKitty"
+    ],
+    "license": "restricted",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/95531-11-automatedsciencesampler-v100-20042016/",
+        "repository": "https://hk.gh-proxy.com/https://github.com/Xarun/AutomatedScienceSampler",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Xarun/AutomatedScienceSampler/issues"
+    },
+    "version": "1.0.3",
+    "ksp_version": "1.1.0",
+    "depends": [
+        {
+            "name": "KerboKatzUtilities"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/KerboKatz/AutomatedScienceSampler",
+            "install_to": "GameData/KerboKatz"
+        }
+    ],
+    "download": "https://hk.gh-proxy.com/https://github.com/Xarun/AutomatedScienceSampler/releases/download/1.0.3/AutomatedScienceSampler.zip",
+    "download_size": 193486,
+    "download_hash": {
+        "sha1": "78F9D2236232A1BA9391D5BA67354515718CB6B1",
+        "sha256": "FBB733E71C542676927A4C7E7A2EACA45DD223A408FA020A1927C1C913E3CF1C"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

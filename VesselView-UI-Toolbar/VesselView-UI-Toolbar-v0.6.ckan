@@ -8,8 +8,8 @@
   "release_status": "stable",
   "resources": {
     "homepage": "http://forum.kerbalspaceprogram.com/threads/80581",
-    "repository": "https://ghproxy.net/https://github.com/PeteTimesSix/VesselViewer",
-    "manual" : "https://ghproxy.net/https://github.com/PeteTimesSix/VesselViewer/wiki"
+    "repository": "https://hk.gh-proxy.com/https://github.com/PeteTimesSix/VesselViewer",
+    "manual" : "https://hk.gh-proxy.com/https://github.com/PeteTimesSix/VesselViewer/wiki"
   },
   "depends": [
     {

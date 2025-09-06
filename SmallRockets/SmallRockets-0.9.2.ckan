@@ -8,10 +8,10 @@
     "ksp_version": "1.12.5",
     "license": "CC-BY",
     "resources": {
-        "homepage": "https://ghproxy.net/https://github.com/tylerraiz/SmallRockets",
+        "homepage": "https://hk.gh-proxy.com/https://github.com/tylerraiz/SmallRockets",
         "spacedock": "https://spacedock.info/mod/3575/Small%20Rockets",
-        "repository": "https://ghproxy.net/https://github.com/tylerraiz/SmallRockets",
-        "bugtracker": "https://ghproxy.net/https://github.com/tylerraiz/SmallRockets/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/tylerraiz/SmallRockets",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/tylerraiz/SmallRockets/issues"
     },
     "tags": [
         "parts"

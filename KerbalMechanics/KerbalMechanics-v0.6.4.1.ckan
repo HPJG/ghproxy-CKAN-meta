@@ -8,8 +8,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/77449-ksp-10x-kerbal-mechanics-part-failures-and-repairs-v0641/",
         "spacedock": "https://spacedock.info/mod/257/Kerbal%20Mechanics:%20Part%20Failures%20and%20Repairs",
-        "repository": "https://ghproxy.net/https://github.com/IRnifty/KerbalMechanics",
-        "bugtracker": "https://ghproxy.net/https://github.com/IRnifty/KerbalMechanics/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/IRnifty/KerbalMechanics",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/IRnifty/KerbalMechanics/issues",
         "x_screenshot": "https://spacedock.info/content/Nifty255_1127/Kerbal_Mechanics_Part_Failures_and_Repairs/Kerbal_Mechanics_Part_Failures_and_Repairs-1456274716.4637175.png"
     },
     "version": "v0.6.4.1",

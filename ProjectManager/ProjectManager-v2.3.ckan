@@ -9,7 +9,7 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/184785-*",
-        "repository": "https://ghproxy.net/https://github.com/Tantares/ProjectManager"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Tantares/ProjectManager"
     },
     "tags": [
         "plugin",
@@ -21,7 +21,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Tantares/ProjectManager/releases/download/v2.3/ProjectManager.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Tantares/ProjectManager/releases/download/v2.3/ProjectManager.zip",
     "download_size": 5055,
     "download_hash": {
         "sha1": "0A051322F7FF0B9D4AB008E604D90C655DEAB8D7",

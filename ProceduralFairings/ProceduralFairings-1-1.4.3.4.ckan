@@ -7,7 +7,7 @@
     "license": "CC-BY",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/161733-13-1",
-        "repository": "https://ghproxy.net/https://github.com/rsparkyc/ProceduralFairings"
+        "repository": "https://hk.gh-proxy.com/https://github.com/rsparkyc/ProceduralFairings"
     },
     "version": "1:1.4.3.4",
     "ksp_version": "1.4.3",
@@ -16,7 +16,7 @@
             "name": "PFTextures"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/rsparkyc/ProceduralFairings/releases/download/1.4.3.4/ProceduralFairings_1.4.3.4.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/rsparkyc/ProceduralFairings/releases/download/1.4.3.4/ProceduralFairings_1.4.3.4.zip",
     "download_size": 2905409,
     "download_hash": {
         "sha1": "6236C9EEF1BC5634FDB2CF78B6A3CB5E79A22075",

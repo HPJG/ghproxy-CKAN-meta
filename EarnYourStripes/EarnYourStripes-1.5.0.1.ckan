@@ -7,12 +7,12 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/161790-*",
-        "repository": "https://ghproxy.net/https://github.com/severedsolo/EarnYourStripes"
+        "repository": "https://hk.gh-proxy.com/https://github.com/severedsolo/EarnYourStripes"
     },
     "version": "1.5.0.1",
     "ksp_version_min": "1.5.0",
     "ksp_version_max": "1.5.99",
-    "download": "https://ghproxy.net/https://github.com/severedsolo/EarnYourStripes/releases/download/1.5.0.1/EarnYourStripes1.5.0.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/severedsolo/EarnYourStripes/releases/download/1.5.0.1/EarnYourStripes1.5.0.1.zip",
     "download_size": 11029,
     "download_hash": {
         "sha1": "392A6956D9FE7B0F863A211F76450126EC1C12C9",

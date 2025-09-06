@@ -9,8 +9,8 @@
     "license": "MIT",
     "resources": {
         "spacedock": "https://spacedock.info/mod/3946/TUFX%20Profile%20|%20Vision",
-        "repository": "https://ghproxy.net/https://github.com/jongshh/JSIA-Vision",
-        "bugtracker": "https://ghproxy.net/https://github.com/jongshh/JSIA-Vision/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/jongshh/JSIA-Vision",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/jongshh/JSIA-Vision/issues",
         "x_screenshot": "https://spacedock.info/content/J0ngsh_168122/TUFX_Profile__Vision/TUFX_Profile__Vision-1754267698.png"
     },
     "tags": [
@@ -29,7 +29,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/jongshh/JSIA-Vision/releases/download/R1/JSIA.Vision.R1.zip",
+        "https://hk.gh-proxy.com/https://github.com/jongshh/JSIA-Vision/releases/download/R1/JSIA.Vision.R1.zip",
         "https://spacedock.info/mod/3946/TUFX%20Profile%20%7C%20Vision/download/R1"
     ],
     "download_size": 9064,

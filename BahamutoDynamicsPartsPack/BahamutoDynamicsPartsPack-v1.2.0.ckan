@@ -1,0 +1,40 @@
+{
+    "spec_version": 1,
+    "identifier": "BahamutoDynamicsPartsPack",
+    "name": "Bahamuto Dynamics (Parts pack)",
+    "abstract": "Adds retractable engines, thrust vectoring jets, and that silly critter crawler.",
+    "author": "BahamutoD",
+    "license": "CC-BY-SA",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/82341",
+        "repository": "https://hk.gh-proxy.com/https://github.com/BahamutoD"
+    },
+    "version": "v1.2.0",
+    "ksp_version_min": "1.0.2",
+    "ksp_version_max": "1.0.5",
+    "depends": [
+        {
+            "name": "BDAnimationModules"
+        }
+    ],
+    "install": [
+        {
+            "file": "BahaSP",
+            "install_to": "GameData",
+            "filter": [
+                "Plugins",
+                "Changelog.txt",
+                "License.txt"
+            ],
+            "comment": "Plugins is the folder where BDAnimationModules is installed. License and Changelog collide with BDAnimationModules."
+        }
+    ],
+    "download": "http://addons-origin.cursecdn.com/files/2237/120/BDynamicsv1.2.0.zip",
+    "download_size": 9151543,
+    "download_hash": {
+        "sha1": "5CA132FEA149335C244CFB51D02687AFBEC853DB",
+        "sha256": "9136D21B4B89578F2336562FB48CAE2929AE89775C669C3D30866C7CCEE497BD"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

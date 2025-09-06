@@ -7,7 +7,7 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/54303-0-25-Navball-docking-alignment-indicator-v4",
-        "repository": "https://ghproxy.net/https://github.com/mic-e/kspnavballdockingalignmentindicator"
+        "repository": "https://hk.gh-proxy.com/https://github.com/mic-e/kspnavballdockingalignmentindicator"
     },
     "version": "v5",
     "ksp_version": "0.90",
@@ -17,7 +17,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/mic-e/kspnavballdockingalignmentindicator/releases/download/v5/NavBallDockingAlignmentIndicator.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/mic-e/kspnavballdockingalignmentindicator/releases/download/v5/NavBallDockingAlignmentIndicator.zip",
     "download_size": 21859,
     "download_hash": {
         "sha1": "BDF35655039EF8BDE0A25F2D0D5B676852153212",

@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/228683-112x-kerbal-currency-display-real-money-value-for-funds/",
         "spacedock": "https://spacedock.info/mod/3958/Kerbal%20Currency%20Display",
-        "repository": "https://ghproxy.net/https://github.com/ks1000sa/KerbalCurrencyDisplay",
-        "bugtracker": "https://ghproxy.net/https://github.com/ks1000sa/KerbalCurrencyDisplay/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/ks1000sa/KerbalCurrencyDisplay",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/ks1000sa/KerbalCurrencyDisplay/issues",
         "x_screenshot": "https://spacedock.info/content/Dobie_168854/Kerbal_Currency_Display/Kerbal_Currency_Display-1755001877.png"
     },
     "tags": [
@@ -23,7 +23,7 @@
         "ko-kr"
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/ks1000sa/KerbalCurrencyDisplay/releases/download/1.1.0/KerbalCurrencyDisplay.v1.1.0.zip",
+        "https://hk.gh-proxy.com/https://github.com/ks1000sa/KerbalCurrencyDisplay/releases/download/1.1.0/KerbalCurrencyDisplay.v1.1.0.zip",
         "https://spacedock.info/mod/3958/Kerbal%20Currency%20Display/download/1.1.0"
     ],
     "download_size": 15345,

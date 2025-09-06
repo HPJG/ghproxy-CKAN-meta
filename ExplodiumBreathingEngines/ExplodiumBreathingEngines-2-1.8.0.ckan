@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/158717-122021-beta-explodium-breathing-engines-jet-engines-for-use-on-eve-07-may-2017/",
         "spacedock": "https://spacedock.info/mod/1362/Explodium%20Breathing%20Engines",
-        "repository": "https://ghproxy.net/https://github.com/gordonfpanam/ExplodiumBreathingEngines",
-        "bugtracker": "https://ghproxy.net/https://github.com/gordonfpanam/ExplodiumBreathingEngines/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/gordonfpanam/ExplodiumBreathingEngines",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/gordonfpanam/ExplodiumBreathingEngines/issues",
         "x_screenshot": "https://spacedock.info/content/gordonfpanam_12748/Explodium_Breathing_Engines/Explodium_Breathing_Engines-1494195432.5289135.png"
     },
     "tags": [
@@ -33,7 +33,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/gordonfpanam/ExplodiumBreathingEngines/releases/download/v1.8.0/ExplodiumBreathingEngines-1.8.zip",
+        "https://hk.gh-proxy.com/https://github.com/gordonfpanam/ExplodiumBreathingEngines/releases/download/v1.8.0/ExplodiumBreathingEngines-1.8.zip",
         "https://spacedock.info/mod/1362/Explodium%20Breathing%20Engines/download/1.8.0"
     ],
     "download_size": 11677673,

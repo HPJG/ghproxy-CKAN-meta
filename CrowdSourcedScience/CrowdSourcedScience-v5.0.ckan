@@ -11,7 +11,7 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/92332-css/",
-        "repository": "https://ghproxy.net/https://github.com/DuoDex/CrowdSourcedScience"
+        "repository": "https://hk.gh-proxy.com/https://github.com/DuoDex/CrowdSourcedScience"
     },
     "version": "v5.0",
     "ksp_version_min": "1.4.0",
@@ -28,7 +28,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/DuoDex/CrowdSourcedScience/releases/download/v5.0/CrowdSourcedScience-v5.0.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/DuoDex/CrowdSourcedScience/releases/download/v5.0/CrowdSourcedScience-v5.0.0.zip",
     "download_size": 271376,
     "download_hash": {
         "sha1": "4B9DDA2395B453300AE214024E2F493B186C09C2",

@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/186023-17x-shuttle-orbiter-construction-kit-stocalike-space-shuttle-orbiter-initial-release-v100/",
         "spacedock": "https://spacedock.info/mod/2176/Shuttle%20Orbiter%20Construction%20Kit",
-        "repository": "https://ghproxy.net/https://github.com/benjee10/Shuttle-Orbiter-Construction-Kit",
-        "bugtracker": "https://ghproxy.net/https://github.com/benjee10/Shuttle-Orbiter-Construction-Kit/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/benjee10/Shuttle-Orbiter-Construction-Kit",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/benjee10/Shuttle-Orbiter-Construction-Kit/issues",
         "x_screenshot": "https://spacedock.info/content/Benjee10_2390/Shuttle_Orbiter_Construction_Kit/Shuttle_Orbiter_Construction_Kit-1562143273.9393232.png"
     },
     "tags": [
@@ -65,7 +65,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/benjee10/Shuttle-Orbiter-Construction-Kit/releases/download/v1.1.8/Shuttle-Orbiter-Construction-Kit_1.1.8.zip",
+        "https://hk.gh-proxy.com/https://github.com/benjee10/Shuttle-Orbiter-Construction-Kit/releases/download/v1.1.8/Shuttle-Orbiter-Construction-Kit_1.1.8.zip",
         "https://spacedock.info/mod/2176/Shuttle%20Orbiter%20Construction%20Kit/download/1.1.8"
     ],
     "download_size": 155077900,

@@ -10,8 +10,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/141697-*",
-        "repository": "https://ghproxy.net/https://github.com/Dunbaratu/LaserDist",
-        "bugtracker": "https://ghproxy.net/https://github.com/Dunbaratu/LaserDist/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/Dunbaratu/LaserDist",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Dunbaratu/LaserDist/issues",
         "remote-avc": "https://raw.githubusercontent.com/Dunbaratu/LaserDist/master/LaserDist.version"
     },
     "tags": [
@@ -26,7 +26,7 @@
             "comment": "LaserDist was intended to give distance data to kOS scripts."
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Dunbaratu/LaserDist/releases/download/v1.3.0/LaserDist.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Dunbaratu/LaserDist/releases/download/v1.3.0/LaserDist.zip",
     "download_size": 103610,
     "download_hash": {
         "sha1": "9FED12DD50EE6887522D1B2107885E2C81A0C899",

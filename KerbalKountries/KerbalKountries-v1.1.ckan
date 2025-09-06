@@ -9,8 +9,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/209768-*",
-        "repository": "https://ghproxy.net/https://github.com/CTD37/Kerbal-Kountries",
-        "bugtracker": "https://ghproxy.net/https://github.com/CTD37/Kerbal-Kountries/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/CTD37/Kerbal-Kountries",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/CTD37/Kerbal-Kountries/issues"
     },
     "tags": [
         "flags"
@@ -21,7 +21,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/CTD37/Kerbal-Kountries/releases/download/v1.1/KerbalKountries_1.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/CTD37/Kerbal-Kountries/releases/download/v1.1/KerbalKountries_1.1.zip",
     "download_size": 80897,
     "download_hash": {
         "sha1": "D8CDAA503B9AC33287D23FBD7581119DBC5FA019",

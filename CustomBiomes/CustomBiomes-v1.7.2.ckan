@@ -10,8 +10,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/60163-*",
-        "repository": "https://ghproxy.net/https://github.com/NathanKell/CustomBiomes",
-        "bugtracker": "https://ghproxy.net/https://github.com/NathanKell/CustomBiomes/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/NathanKell/CustomBiomes",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/NathanKell/CustomBiomes/issues"
     },
     "tags": [
         "plugin",
@@ -33,7 +33,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/NathanKell/CustomBiomes/releases/download/v1.7.2/CustomBiomes_1_7_2.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/NathanKell/CustomBiomes/releases/download/v1.7.2/CustomBiomes_1_7_2.zip",
     "download_size": 24559,
     "download_hash": {
         "sha1": "309BC4CEE59B88FDA1B2DEBBFE82CDA8A32A38F0",

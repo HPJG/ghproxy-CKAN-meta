@@ -9,9 +9,9 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://lunamultiplayer.com/",
-        "repository": "https://ghproxy.net/https://github.com/LunaMultiplayer/LunaMultiplayer",
-        "bugtracker": "https://ghproxy.net/https://github.com/LunaMultiplayer/LunaMultiplayer/issues",
-        "manual": "https://ghproxy.net/https://github.com/LunaMultiplayer/LunaMultiplayer/wiki"
+        "repository": "https://hk.gh-proxy.com/https://github.com/LunaMultiplayer/LunaMultiplayer",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/LunaMultiplayer/LunaMultiplayer/issues",
+        "manual": "https://hk.gh-proxy.com/https://github.com/LunaMultiplayer/LunaMultiplayer/wiki"
     },
     "tags": [
         "plugin"
@@ -19,7 +19,7 @@
     "provides": [
         "Harmony1"
     ],
-    "download": "https://ghproxy.net/https://github.com/LunaMultiplayer/LunaMultiplayer/releases/download/0.26.0/LunaMultiplayer-Release.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/LunaMultiplayer/LunaMultiplayer/releases/download/0.26.0/LunaMultiplayer-Release.zip",
     "download_size": 2012726,
     "download_hash": {
         "sha1": "3469147456A6CFDD594C5CB73D98C5BA4F39EA8F",

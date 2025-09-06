@@ -7,7 +7,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/96362-/",
-        "repository": "https://ghproxy.net/https://github.com/Apokee/PlaneMode"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Apokee/PlaneMode"
     },
     "version": "1.4.1",
     "ksp_version_min": "1.1.2",
@@ -17,7 +17,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Apokee/PlaneMode/releases/download/v1.4.1/PlaneMode-1.4.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Apokee/PlaneMode/releases/download/v1.4.1/PlaneMode-1.4.1.zip",
     "download_size": 17584,
     "download_hash": {
         "sha1": "C1941720EFBDBF84BC290709E1A98DB631E7A9AC",

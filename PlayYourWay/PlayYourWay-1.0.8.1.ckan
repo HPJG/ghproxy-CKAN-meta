@@ -11,7 +11,7 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/190100-18x-play-your-way/",
         "spacedock": "https://spacedock.info/mod/2280/Play%20Your%20Way",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/PlayYourWay",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/PlayYourWay",
         "remote-avc": "http://ksp.spacetux.net/avc/PlayYourWay"
     },
     "tags": [
@@ -24,7 +24,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/linuxgurugamer/PlayYourWay/releases/download/1.0.8.1/PlayYourWay-1.12.0-1.0.8.1.zip",
+        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/PlayYourWay/releases/download/1.0.8.1/PlayYourWay-1.12.0-1.0.8.1.zip",
         "https://spacedock.info/mod/2280/Play%20Your%20Way/download/1.0.8.1"
     ],
     "download_size": 11562,

@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/227704-112x-ignition-100/",
         "spacedock": "https://spacedock.info/mod/3868/Ignition!",
-        "repository": "https://ghproxy.net/https://github.com/CharleRoger/Ignition",
-        "bugtracker": "https://ghproxy.net/https://github.com/CharleRoger/Ignition/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/CharleRoger/Ignition",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/CharleRoger/Ignition/issues",
         "remote-avc": "https://raw.githubusercontent.com/CharleRoger/Ignition/main/GameData/Ignition/Versioning/Ignition.version"
     },
     "tags": [
@@ -30,7 +30,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/CharleRoger/Ignition/releases/download/1.1.1/Ignition-1.1.1.zip",
+        "https://hk.gh-proxy.com/https://github.com/CharleRoger/Ignition/releases/download/1.1.1/Ignition-1.1.1.zip",
         "https://spacedock.info/mod/3868/Ignition!/download/1.1.1"
     ],
     "download_size": 30264,

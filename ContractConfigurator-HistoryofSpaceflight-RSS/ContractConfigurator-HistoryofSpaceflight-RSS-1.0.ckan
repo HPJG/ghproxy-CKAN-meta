@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/192880-12-19x-contract-pack-history-of-spaceflight/",
         "spacedock": "https://spacedock.info/mod/2385/History%20of%20Spaceflight%20RSS",
-        "repository": "https://ghproxy.net/https://github.com/Frylovespi/History-of-Spaceflight",
-        "bugtracker": "https://ghproxy.net/https://github.com/Frylovespi/History-of-Spaceflight/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/Frylovespi/History-of-Spaceflight",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Frylovespi/History-of-Spaceflight/issues",
         "remote-avc": "https://raw.githubusercontent.com:443/Frylovespi/History-of-Spaceflight/master/RSS/GameData/ContractPacks/HistoryofSpaceflight/HistoryofSpaceflight.version"
     },
     "tags": [
@@ -64,7 +64,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/Frylovespi/History-of-Spaceflight/releases/download/1.0/HoSf-1.0-RSS.zip",
+        "https://hk.gh-proxy.com/https://github.com/Frylovespi/History-of-Spaceflight/releases/download/1.0/HoSf-1.0-RSS.zip",
         "https://spacedock.info/mod/2385/History%20of%20Spaceflight%20RSS/download/1.0"
     ],
     "download_size": 15240799,

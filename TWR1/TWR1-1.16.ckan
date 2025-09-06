@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/50736",
-        "repository": "https://ghproxy.net/https://github.com/SirDiazo/TWR1"
+        "repository": "https://hk.gh-proxy.com/https://github.com/SirDiazo/TWR1"
     },
     "version": "1.16",
     "ksp_version": "0.90",
@@ -26,7 +26,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/SirDiazo/TWR1/releases/download/1.16/VertVel116.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/SirDiazo/TWR1/releases/download/1.16/VertVel116.zip",
     "download_size": 17818,
     "download_hash": {
         "sha1": "2A1740D71A2E2D57564D4F61E4197456E25B3354",

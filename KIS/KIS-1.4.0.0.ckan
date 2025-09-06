@@ -11,9 +11,9 @@
     "license": "restricted",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/113111",
-        "repository": "https://ghproxy.net/https://github.com/ihsoft/KIS",
-        "bugtracker": "https://ghproxy.net/https://github.com/ihsoft/KIS/issues",
-        "manual": "https://ghproxy.net/https://github.com/ihsoft/KIS/raw/master/User%20Guide.pdf"
+        "repository": "https://hk.gh-proxy.com/https://github.com/ihsoft/KIS",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/ihsoft/KIS/issues",
+        "manual": "https://hk.gh-proxy.com/https://github.com/ihsoft/KIS/raw/master/User%20Guide.pdf"
     },
     "version": "1.4.0.0",
     "ksp_version_min": "1.2.0",

@@ -10,8 +10,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/141560-*",
-        "repository": "https://ghproxy.net/https://github.com/shadowmage45/KSPRescuePodFix",
-        "bugtracker": "https://ghproxy.net/https://github.com/shadowmage45/KSPRescuePodFix/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/shadowmage45/KSPRescuePodFix",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/shadowmage45/KSPRescuePodFix/issues",
         "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=391"
     },
     "tags": [
@@ -30,7 +30,7 @@
             "find": "KSPRescuePodFix"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/shadowmage45/KSPRescuePodFix/releases/download/1.6.4.14/KSPRescuePodFix-1.6.4.14.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/shadowmage45/KSPRescuePodFix/releases/download/1.6.4.14/KSPRescuePodFix-1.6.4.14.zip",
     "download_size": 16415,
     "download_hash": {
         "sha1": "30F0738404C70B36EF30AA392C9F93A4547755B9",

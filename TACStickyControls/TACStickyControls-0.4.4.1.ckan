@@ -11,7 +11,7 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/164129-13-tac-sticky-controls/",
         "spacedock": "https://spacedock.info/mod/1473/Tac%20Sticky%20Controls",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/TacStickyControls",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/TacStickyControls",
         "remote-avc": "http://ksp.spacetux.net/avc/TacStickyControls"
     },
     "tags": [
@@ -33,7 +33,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/linuxgurugamer/TacStickyControls/releases/download/0.4.4.1/Tac_Sticky_Controls-0.4.4.1.zip",
+        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/TacStickyControls/releases/download/0.4.4.1/Tac_Sticky_Controls-0.4.4.1.zip",
         "https://spacedock.info/mod/1473/Tac%20Sticky%20Controls/download/0.4.4.1"
     ],
     "download_size": 30406,

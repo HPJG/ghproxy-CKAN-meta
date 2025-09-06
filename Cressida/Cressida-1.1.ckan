@@ -10,8 +10,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/199392-*",
-        "repository": "https://ghproxy.net/https://github.com/kyleander/cressida",
-        "bugtracker": "https://ghproxy.net/https://github.com/kyleander/cressida/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/kyleander/cressida",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/kyleander/cressida/issues",
         "remote-avc": "https://raw.githubusercontent.com/net-lisias-ksp/TweakScale/master/TweakScale.version"
     },
     "tags": [
@@ -49,7 +49,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/kyleander/cressida/releases/download/1.1/Cressida.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/kyleander/cressida/releases/download/1.1/Cressida.zip",
     "download_size": 10236,
     "download_hash": {
         "sha1": "A98FF3AA9DEC654777947C447E236831ED26B55F",

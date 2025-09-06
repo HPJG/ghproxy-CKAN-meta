@@ -1,0 +1,24 @@
+{
+    "spec_version": 1,
+    "identifier": "BDArmory",
+    "name": "BahamutoD's Armory",
+    "abstract": "Adds gun turrets, missiles, bombs, AI, etc. ",
+    "author": "BahamutoD",
+    "license": "CC-BY-SA-2.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/85209",
+        "repository": "https://hk.gh-proxy.com/https://github.com/BahamutoD/BDArmory/",
+        "kerbalstuff": "https://kerbalstuff.com/mod/90/BahamutoD's%20Armory",
+        "x_screenshot": "https://kerbalstuff.com/content/BahamutoD_531/BahamutoDs_Armory/BahamutoDs_Armory-1453927192.5318203.png"
+    },
+    "version": "v0.10.1",
+    "ksp_version": "1.0.5",
+    "download": "https://archive.org/download/BDArmory-v0.10.1/EB21806C-BDArmory-v0.10.1.zip",
+    "download_size": 30015925,
+    "download_hash": {
+        "sha1": "EB21806CBFC9D89F9F04BEE2B203000F141CFD9A",
+        "sha256": "DD50BD7FBCAFF6A879DB316DDFFF0856F1DF4777349ABC4D2CFAD1B1C9F8BECB"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

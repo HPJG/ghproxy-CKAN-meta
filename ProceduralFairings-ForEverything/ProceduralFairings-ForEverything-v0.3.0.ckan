@@ -14,11 +14,11 @@
     "license": "CC-BY-SA",
     "release_status": "stable",
     "resources": {
-        "homepage": "https://ghproxy.net/https://github.com/KSP-RO/ProceduralFairings-ForEverything",
-        "repository": "https://ghproxy.net/https://github.com/KSP-RO/ProceduralFairings-ForEverything",
-        "bugtracker": "https://ghproxy.net/https://github.com/KSP-RO/ProceduralFairings-ForEverything/issues",
+        "homepage": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ProceduralFairings-ForEverything",
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ProceduralFairings-ForEverything",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ProceduralFairings-ForEverything/issues",
         "metanetkan": "https://raw.githubusercontent.com/KSP-RO/ProceduralFairings-ForEverything/master/ProceduralFairings-ForEverything.netkan",
-        "remote-avc": "https://ghproxy.net/https://github.com/KSP-RO/ProceduralFairings-ForEverything/raw/master/GameData/ProceduralFairings-ForEverything/ProceduralFairings-ForEverything.version"
+        "remote-avc": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ProceduralFairings-ForEverything/raw/master/GameData/ProceduralFairings-ForEverything/ProceduralFairings-ForEverything.version"
     },
     "tags": [
         "parts"
@@ -40,7 +40,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSP-RO/ProceduralFairings-ForEverything/releases/download/v0.3.0/ProceduralFairings-ForEverything_v0.3.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ProceduralFairings-ForEverything/releases/download/v0.3.0/ProceduralFairings-ForEverything_v0.3.0.zip",
     "download_size": 5152112,
     "download_hash": {
         "sha1": "A9E935957668A5B99FAD98D5A7B9BB93A2A76AF0",

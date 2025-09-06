@@ -7,7 +7,7 @@
     "license": "CC-BY-SA-4.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/142900-12-persistent-dynamic-pod-names-release/",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/PersistentDynamicPodNames"
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/PersistentDynamicPodNames"
     },
     "version": "0.1.7.3",
     "ksp_version_min": "1.2.0",
@@ -29,7 +29,7 @@
             "filter_regexp": "ModuleManager.+\\.dll"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/linuxgurugamer/PersistentDynamicPodNames/releases/download/0.1.7.3/PersistentDynamicPodNames-0.1.7.3.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/PersistentDynamicPodNames/releases/download/0.1.7.3/PersistentDynamicPodNames-0.1.7.3.zip",
     "download_size": 73442,
     "download_hash": {
         "sha1": "281AD9CBB2981B9999413B575D6D5FAB45F2ED0E",

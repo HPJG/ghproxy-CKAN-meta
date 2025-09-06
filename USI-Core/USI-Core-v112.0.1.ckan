@@ -10,8 +10,8 @@
     "license": "restricted",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/122420-*",
-        "repository": "https://ghproxy.net/https://github.com/UmbraSpaceIndustries/USI_Core",
-        "bugtracker": "https://ghproxy.net/https://github.com/UmbraSpaceIndustries/USI_Core/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/UmbraSpaceIndustries/USI_Core",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/UmbraSpaceIndustries/USI_Core/issues",
         "manual": "https://umbraspaceindustries.github.io/UmbraSpaceIndustries/",
         "remote-avc": "https://raw.githubusercontent.com/UmbraSpaceIndustries/USI_Core/main/FOR_RELEASE/GameData/UmbraSpaceIndustries/USICore/USICore.version"
     },
@@ -54,7 +54,7 @@
             ]
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/UmbraSpaceIndustries/USI_Core/releases/download/v112.0.1/USICore_112.0.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/UmbraSpaceIndustries/USI_Core/releases/download/v112.0.1/USICore_112.0.1.zip",
     "download_size": 48091136,
     "download_hash": {
         "sha1": "E5348C9CDB192ADA3C003410850D1BE514281B43",

@@ -7,7 +7,7 @@
     "license": "CC-BY-SA-4.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/137804-11-sdhi-strobe-o-matic-warning-rotator-lights-v10-23-april-2016/",
-        "repository": "https://ghproxy.net/https://github.com/sumghai/SDHI_StrobeOMatic"
+        "repository": "https://hk.gh-proxy.com/https://github.com/sumghai/SDHI_StrobeOMatic"
     },
     "version": "v1.0",
     "ksp_version": "1.3.0",
@@ -25,7 +25,7 @@
             ]
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/sumghai/SDHI_StrobeOMatic/releases/download/1.0/ksp_sdhi_strobeomatic_v1_0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/sumghai/SDHI_StrobeOMatic/releases/download/1.0/ksp_sdhi_strobeomatic_v1_0.zip",
     "download_size": 246676,
     "download_hash": {
         "sha1": "400837B33B9898C6916D1949B1D7350FBB86EB5F",

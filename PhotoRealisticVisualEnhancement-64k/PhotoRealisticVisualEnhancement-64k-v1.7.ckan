@@ -8,8 +8,8 @@
     "ksp_version": "1.10.1",
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/SpaceODY/PRVE",
-        "bugtracker": "https://ghproxy.net/https://github.com/SpaceODY/PRVE/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/SpaceODY/PRVE",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/SpaceODY/PRVE/issues"
     },
     "tags": [
         "config",
@@ -29,7 +29,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/SpaceODY/PRVE/releases/download/v1.7/PRVE64k-1.7.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/SpaceODY/PRVE/releases/download/v1.7/PRVE64k-1.7.zip",
     "download_size": 291068862,
     "download_hash": {
         "sha1": "C26EB6395681E449DED48EAA6F5DDD7DBF66C769",

@@ -7,8 +7,8 @@
     "license": "BSD-3-clause",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/100855",
-        "repository": "https://ghproxy.net/https://github.com/henrybauer/SafeChute",
-        "bugtracker": "https://ghproxy.net/https://github.com/henrybauer/SafeChute/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/henrybauer/SafeChute",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/henrybauer/SafeChute/issues",
         "kerbalstuff": "https://kerbalstuff.com/mod/360/SafeChute",
         "x_screenshot": "https://kerbalstuff.com/content/hab136_82/SafeChute/SafeChute.jpg"
     },

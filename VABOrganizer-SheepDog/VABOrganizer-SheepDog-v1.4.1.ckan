@@ -8,8 +8,8 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/225797-*",
-        "repository": "https://ghproxy.net/https://github.com/Sheepdog2142/VABOrganizer-Sheepdog",
-        "bugtracker": "https://ghproxy.net/https://github.com/Sheepdog2142/VABOrganizer-Sheepdog/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Sheepdog2142/VABOrganizer-Sheepdog",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Sheepdog2142/VABOrganizer-Sheepdog/issues"
     },
     "tags": [
         "config",
@@ -86,7 +86,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Sheepdog2142/VABOrganizer-Sheepdog/releases/download/v1.4.1/VABOrganizer-Sheepdog-1.4.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Sheepdog2142/VABOrganizer-Sheepdog/releases/download/v1.4.1/VABOrganizer-Sheepdog-1.4.1.zip",
     "download_size": 95724,
     "download_hash": {
         "sha1": "AC21DBFF71943817B949BC35AB5412F175F4F309",

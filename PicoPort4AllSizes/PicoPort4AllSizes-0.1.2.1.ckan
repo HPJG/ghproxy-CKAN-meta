@@ -6,7 +6,7 @@
     "author": "linuxgurugamer",
     "license": "MIT",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/PicoPort4AllSizes"
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/PicoPort4AllSizes"
     },
     "version": "0.1.2.1",
     "ksp_version_min": "1.2.0",
@@ -25,7 +25,7 @@
             "find": "SHED"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/linuxgurugamer/PicoPort4AllSizes/releases/download/0.1.2.1/SHED-0.1.2.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/PicoPort4AllSizes/releases/download/0.1.2.1/SHED-0.1.2.1.zip",
     "download_size": 34345,
     "download_hash": {
         "sha1": "53D706D97CEED7B5F3D2B50CB7E407C82656E8CB",

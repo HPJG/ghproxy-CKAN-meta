@@ -1,0 +1,42 @@
+{
+    "spec_version": 1,
+    "identifier": "ColorCodedCans",
+    "name": "Color Coded Canisters",
+    "abstract": "Stock-relplacement models and textures for rocket fuel tanks! Cleaner, prettier, and color-coded end-caps for ease of use in the VAB/SPH menus.",
+    "author": "NecroBones",
+    "license": "CC-BY-NC-SA",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/104660",
+        "kerbalstuff": "https://kerbalstuff.com/mod/465/Color%20Coded%20Canisters",
+        "x_screenshot": "https://kerbalstuff.com/content/NecroBones_1035/Color_Coded_Canisters/Color_Coded_Canisters.jpg"
+    },
+    "version": "1.2.1",
+    "ksp_version": "1.0.4",
+    "depends": [
+        {
+            "name": "ModuleManager",
+            "min_version": "2.5.6"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "FuelTanksPlus"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "ReStock"
+        },
+        {
+            "name": "VenStockRevamp"
+        }
+    ],
+    "download": "https://archive.org/download/ColorCodedCans-1.2.1/E7637B84-ColorCodedCans-1.2.1.zip",
+    "download_size": 2696273,
+    "download_hash": {
+        "sha1": "E7637B84EB4A06B6335DFF7D571EBDF027328C3A",
+        "sha256": "EF7A6BE2999C53AA21590A69463FAB2C051DC5FDB4306994963E377CE69791AF"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

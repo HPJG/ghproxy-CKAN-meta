@@ -7,7 +7,7 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/69089-stand-alone-map-view-multi-monitor-ksp-105plugin/",
-        "repository": "https://ghproxy.net/https://github.com/DanielKinsman/stand-alone-map-view"
+        "repository": "https://hk.gh-proxy.com/https://github.com/DanielKinsman/stand-alone-map-view"
     },
     "version": "v0.21",
     "ksp_version": "1.0.5",
@@ -22,7 +22,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/DanielKinsman/stand-alone-map-view/releases/download/v0.21/release.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/DanielKinsman/stand-alone-map-view/releases/download/v0.21/release.zip",
     "download_size": 224490,
     "download_hash": {
         "sha1": "DF396F61B1B3A2ED8531D5120D97E5CB76BCA681",

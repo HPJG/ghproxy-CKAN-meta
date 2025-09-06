@@ -6,7 +6,7 @@
     "author": "Amarius1",
     "license": "CC-BY-NC-SA",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/Amarius1/Kerbol-Plus"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Amarius1/Kerbol-Plus"
     },
     "version": "v.2.3.5",
     "ksp_version": "1.0.4",
@@ -48,7 +48,7 @@
             ]
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Amarius1/Kerbol-Plus/releases/download/v.2.3.5/KerbolPlus.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Amarius1/Kerbol-Plus/releases/download/v.2.3.5/KerbolPlus.zip",
     "download_size": 185067292,
     "download_hash": {
         "sha1": "6746AB2834CA0893B0C59D867565A57094C66072",

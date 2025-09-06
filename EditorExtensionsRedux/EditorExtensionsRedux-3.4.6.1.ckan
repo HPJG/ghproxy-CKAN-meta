@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/127378-editor-extensions-redux-301-released-with-selectroot-merge/&do=findComment&comment=2314915",
         "spacedock": "https://spacedock.info/mod/48/Editor%20Extensions%20Redux",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/EditorExtensionsRedux",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/EditorExtensionsRedux/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/EditorExtensionsRedux",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/EditorExtensionsRedux/issues",
         "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/EditorExtensionsRedux/refs/heads/master/EditorExtensionsRedux.version",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Editor_Extensions_Redux/Editor_Extensions_Redux-1467509293.8271828.png"
     },
@@ -31,7 +31,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/linuxgurugamer/EditorExtensionsRedux/releases/download/3.4.6.1/EditorExtensionsRedux-1.12.0-3.4.6.1.zip",
+        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/EditorExtensionsRedux/releases/download/3.4.6.1/EditorExtensionsRedux-1.12.0-3.4.6.1.zip",
         "https://spacedock.info/mod/48/Editor%20Extensions%20Redux/download/3.4.6.1"
     ],
     "download_size": 67408,

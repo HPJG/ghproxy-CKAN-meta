@@ -13,10 +13,10 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/177216-*",
-        "repository": "https://ghproxy.net/https://github.com/KSP-RO/RealSolarSystem",
-        "bugtracker": "https://ghproxy.net/https://github.com/KSP-RO/RealSolarSystem/issues",
-        "metanetkan": "https://ghproxy.net/https://github.com/KSP-RO/RealSolarSystem/raw/master/RealSolarSystem.netkan",
-        "remote-avc": "https://ghproxy.net/https://github.com/KSP-RO/RealSolarSystem/raw/master/GameData/RealSolarSystem/RealSolarSystem.version"
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealSolarSystem",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealSolarSystem/issues",
+        "metanetkan": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealSolarSystem/raw/master/RealSolarSystem.netkan",
+        "remote-avc": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealSolarSystem/raw/master/GameData/RealSolarSystem/RealSolarSystem.version"
     },
     "tags": [
         "planet-pack",
@@ -71,7 +71,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSP-RO/RealSolarSystem/releases/download/v20.0.1.0/RealSolarSystem_v20.0.1.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealSolarSystem/releases/download/v20.0.1.0/RealSolarSystem_v20.0.1.0.zip",
     "download_size": 77239698,
     "download_hash": {
         "sha1": "63090DA5A77CE086538D12CDC59DA6838CC61552",

@@ -9,8 +9,8 @@
     "license": "MIT",
     "resources": {
         "spacedock": "https://spacedock.info/mod/3501/Outer%20Planets%20Mod%20-%20Parallax%20with%20Scatters",
-        "repository": "https://ghproxy.net/https://github.com/OneSaltyPringle/OPM-Parallax",
-        "bugtracker": "https://ghproxy.net/https://github.com/OneSaltyPringle/OPM-Parallax/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/OneSaltyPringle/OPM-Parallax",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/OneSaltyPringle/OPM-Parallax/issues",
         "x_screenshot": "https://spacedock.info/content/onesaltypringle_102190/Outer_Planets_Mod_-_Parallax_with_Scatters/Outer_Planets_Mod_-_Parallax_with_Scatters-1699642788.jpg"
     },
     "tags": [
@@ -45,7 +45,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/OneSaltyPringle/OPM-Parallax/releases/download/1.0.5/Outer_Planets_Mod_-_Parallax_with_Scatters-1.0.5.zip",
+        "https://hk.gh-proxy.com/https://github.com/OneSaltyPringle/OPM-Parallax/releases/download/1.0.5/Outer_Planets_Mod_-_Parallax_with_Scatters-1.0.5.zip",
         "https://spacedock.info/mod/3501/Outer%20Planets%20Mod%20-%20Parallax%20with%20Scatters/download/1.0.5"
     ],
     "download_size": 20964,

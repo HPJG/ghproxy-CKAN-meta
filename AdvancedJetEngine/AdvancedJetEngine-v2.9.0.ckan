@@ -11,7 +11,7 @@
     "license": "LGPL-2.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/139868-advanced-jet-engine",
-        "repository": "https://ghproxy.net/https://github.com/KSP-RO/AJE"
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/AJE"
     },
     "version": "v2.9.0",
     "ksp_version": "1.3.0",
@@ -42,7 +42,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSP-RO/AJE/releases/download/v2.9.0/Advanced_Jet_Engine_v2.9.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/AJE/releases/download/v2.9.0/Advanced_Jet_Engine_v2.9.0.zip",
     "download_size": 603094,
     "download_hash": {
         "sha1": "0B9733443015CD5C56F9E3B1FC513BCB8FF0F2CF",

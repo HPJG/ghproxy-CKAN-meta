@@ -9,8 +9,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/121397-*",
-        "repository": "https://ghproxy.net/https://github.com/Angel-125/Pathfinder",
-        "bugtracker": "https://ghproxy.net/https://github.com/Angel-125/Pathfinder/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/Angel-125/Pathfinder",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Angel-125/Pathfinder/issues",
         "remote-avc": "https://raw.githubusercontent.com/Angel-125/Pathfinder/master/GameData/WildBlueIndustries/Pathfinder/Pathfinder.version"
     },
     "tags": [
@@ -79,7 +79,7 @@
             "install_to": "GameData/WildBlueIndustries/Pathfinder/Templates"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Angel-125/Pathfinder/releases/download/v1.35.2/Pathfinder_1_35_2.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Angel-125/Pathfinder/releases/download/v1.35.2/Pathfinder_1_35_2.zip",
     "download_size": 62202355,
     "download_hash": {
         "sha1": "F2656905D2C6DA8AD82DB60E148C7E4317CBED6C",

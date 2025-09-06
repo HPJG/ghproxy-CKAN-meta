@@ -10,9 +10,9 @@
     "license": "Unlicense",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/158344-*",
-        "repository": "https://ghproxy.net/https://github.com/jrodrigv/PhysicsRangeExtender",
-        "bugtracker": "https://ghproxy.net/https://github.com/jrodrigv/PhysicsRangeExtender/issues",
-        "remote-avc": "https://ghproxy.net/https://github.com/jrodrigv/PhysicsRangeExtender/raw/master/PhysicsRangeExtender/Distribution/GameData/PhysicsRangeExtender/PhysicsRangeExtender.version"
+        "repository": "https://hk.gh-proxy.com/https://github.com/jrodrigv/PhysicsRangeExtender",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/jrodrigv/PhysicsRangeExtender/issues",
+        "remote-avc": "https://hk.gh-proxy.com/https://github.com/jrodrigv/PhysicsRangeExtender/raw/master/PhysicsRangeExtender/Distribution/GameData/PhysicsRangeExtender/PhysicsRangeExtender.version"
     },
     "tags": [
         "plugin",
@@ -23,7 +23,7 @@
             "name": "KerbalJointReinforcement"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/jrodrigv/PhysicsRangeExtender/releases/download/1.21.0/PhysicsRangeExtender.1.21_09042021.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/jrodrigv/PhysicsRangeExtender/releases/download/1.21.0/PhysicsRangeExtender.1.21_09042021.zip",
     "download_size": 19828,
     "download_hash": {
         "sha1": "080CA5ACC10C73F71774B8C6A4F53B2AF8155D00",

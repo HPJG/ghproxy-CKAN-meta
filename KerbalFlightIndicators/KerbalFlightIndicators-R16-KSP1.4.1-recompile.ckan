@@ -11,11 +11,11 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/172904-141-kerbal-flight-indicators-release-16-2018-03-23/",
-        "repository": "https://ghproxy.net/https://github.com/PapaJoesSoup/KerbalFlightIndicators"
+        "repository": "https://hk.gh-proxy.com/https://github.com/PapaJoesSoup/KerbalFlightIndicators"
     },
     "version": "R16-KSP1.4.1-recompile",
     "ksp_version": "1.4.1",
-    "download": "https://ghproxy.net/https://github.com/PapaJoesSoup/KerbalFlightIndicators/releases/download/R16-KSP1.4.1-recompile/KerbalFlightIndicatorsR16.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/PapaJoesSoup/KerbalFlightIndicators/releases/download/R16-KSP1.4.1-recompile/KerbalFlightIndicatorsR16.zip",
     "download_size": 34688,
     "download_hash": {
         "sha1": "7CDAB5DE8EF736C5087E84D09BDF5845E6CE3ACA",

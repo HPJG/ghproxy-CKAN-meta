@@ -8,8 +8,8 @@
     "ksp_version": "0.90.0",
     "license": "WTFPL",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/SimonTheSourcerer/CCSCANsatMissionPack",
-        "bugtracker": "https://ghproxy.net/https://github.com/SimonTheSourcerer/CCSCANsatMissionPack/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/SimonTheSourcerer/CCSCANsatMissionPack",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/SimonTheSourcerer/CCSCANsatMissionPack/issues"
     },
     "tags": [
         "config",
@@ -37,7 +37,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/SimonTheSourcerer/CCSCANsatMissionPack/releases/download/1.0.3/CCSCANsatMissionPack.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/SimonTheSourcerer/CCSCANsatMissionPack/releases/download/1.0.3/CCSCANsatMissionPack.zip",
     "download_size": 13875,
     "download_hash": {
         "sha1": "C71DE617D21B32F343386643986AFFFD4A44C369",

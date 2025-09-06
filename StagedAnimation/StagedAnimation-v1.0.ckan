@@ -20,8 +20,8 @@
     "license": "CC-BY-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/202317-*",
-        "repository": "https://ghproxy.net/https://github.com/KSP-RO/StagedAnimation",
-        "bugtracker": "https://ghproxy.net/https://github.com/KSP-RO/StagedAnimation/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/StagedAnimation",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-RO/StagedAnimation/issues"
     },
     "tags": [
         "plugin",
@@ -33,7 +33,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSP-RO/StagedAnimation/releases/download/v1.0/StagedAnimation.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/StagedAnimation/releases/download/v1.0/StagedAnimation.zip",
     "download_size": 6123,
     "download_hash": {
         "sha1": "DA0139D9388A09C1CAD42C7C18738C99DC6A0C0D",

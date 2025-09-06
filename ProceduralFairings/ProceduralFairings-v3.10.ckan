@@ -6,7 +6,7 @@
     "author": "e-dog",
     "license": "CC-BY-3.0",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/e-dog/ProceduralFairings"
+        "repository": "https://hk.gh-proxy.com/https://github.com/e-dog/ProceduralFairings"
     },
     "version": "v3.10",
     "ksp_version": "0.25",
@@ -15,7 +15,7 @@
             "name": "PFTextures"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/e-dog/ProceduralFairings/releases/download/v3.10/ProcFairings_3.10.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/e-dog/ProceduralFairings/releases/download/v3.10/ProcFairings_3.10.zip",
     "download_size": 1776825,
     "download_hash": {
         "sha1": "86367AF2D5295B811A2B3E5E15006D8FA357A614",

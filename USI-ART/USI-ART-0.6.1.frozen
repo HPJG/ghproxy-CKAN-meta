@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/91790",
-        "repository": "https://ghproxy.net/https://github.com/BobPalmer/ART"
+        "repository": "https://hk.gh-proxy.com/https://github.com/BobPalmer/ART"
     },
     "version": "0.6.1",
     "ksp_version": "0.90",
@@ -40,7 +40,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/BobPalmer/ART/releases/download/0.6.1/ART_0.6.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/BobPalmer/ART/releases/download/0.6.1/ART_0.6.1.zip",
     "download_size": 8403628,
     "download_hash": {
         "sha1": "8342878E409B47C1548B654DA1FC042C6B0C658C",

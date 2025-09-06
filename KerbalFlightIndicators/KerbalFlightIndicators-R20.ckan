@@ -13,15 +13,15 @@
     "license": "CC-BY-NC-SA-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/172904-*",
-        "repository": "https://ghproxy.net/https://github.com/PapaJoesSoup/KerbalFlightIndicators",
-        "bugtracker": "https://ghproxy.net/https://github.com/PapaJoesSoup/KerbalFlightIndicators/issues",
-        "remote-avc": "https://ghproxy.net/https://github.com/PapaJoesSoup/KerbalFlightIndicators/raw/master/Distribution/GameData/KerbalFlightIndicators/KerbalFlightIndicators.version"
+        "repository": "https://hk.gh-proxy.com/https://github.com/PapaJoesSoup/KerbalFlightIndicators",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/PapaJoesSoup/KerbalFlightIndicators/issues",
+        "remote-avc": "https://hk.gh-proxy.com/https://github.com/PapaJoesSoup/KerbalFlightIndicators/raw/master/Distribution/GameData/KerbalFlightIndicators/KerbalFlightIndicators.version"
     },
     "tags": [
         "plugin",
         "information"
     ],
-    "download": "https://ghproxy.net/https://github.com/PapaJoesSoup/KerbalFlightIndicators/releases/download/R20/KerbalFlightIndicators.0.20.0.0_02112022.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/PapaJoesSoup/KerbalFlightIndicators/releases/download/R20/KerbalFlightIndicators.0.20.0.0_02112022.zip",
     "download_size": 42297,
     "download_hash": {
         "sha1": "A01AAAA2899967C4B4C0E182464A4A61BA77DB22",

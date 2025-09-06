@@ -9,9 +9,9 @@
     "ksp_version_max": "1.4.2",
     "license": "CC-BY-NC-SA",
     "resources": {
-        "homepage": "https://ghproxy.net/https://github.com/Galileo88/FASA_LaunchClampsContinued",
-        "repository": "https://ghproxy.net/https://github.com/Galileo88/FASA_LaunchClampsContinued",
-        "bugtracker": "https://ghproxy.net/https://github.com/Galileo88/FASA_LaunchClampsContinued/issues"
+        "homepage": "https://hk.gh-proxy.com/https://github.com/Galileo88/FASA_LaunchClampsContinued",
+        "repository": "https://hk.gh-proxy.com/https://github.com/Galileo88/FASA_LaunchClampsContinued",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Galileo88/FASA_LaunchClampsContinued/issues"
     },
     "tags": [
         "parts"
@@ -36,7 +36,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Galileo88/FASA_LaunchClampsContinued/releases/download/1.1.4/FASALaunchClamps.1.1.4.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Galileo88/FASA_LaunchClampsContinued/releases/download/1.1.4/FASALaunchClamps.1.1.4.zip",
     "download_size": 3598119,
     "download_hash": {
         "sha1": "53B0CEDC39A72EEA4270672CDF87B013A6930B0D",

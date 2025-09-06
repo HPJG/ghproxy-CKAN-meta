@@ -11,9 +11,9 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/164035-13-knes-01-ariane-5-ixv-cev-and-more/",
         "spacedock": "https://spacedock.info/mod/1470/Knes",
-        "repository": "https://ghproxy.net/https://github.com/AstroWell/Knes",
-        "bugtracker": "https://ghproxy.net/https://github.com/AstroWell/Knes/issues",
-        "remote-avc": "https://ghproxy.net/https://github.com/AstroWell/Knes",
+        "repository": "https://hk.gh-proxy.com/https://github.com/AstroWell/Knes",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/AstroWell/Knes/issues",
+        "remote-avc": "https://hk.gh-proxy.com/https://github.com/AstroWell/Knes",
         "x_screenshot": "https://spacedock.info/content/Well_7448/Knes/Knes-1609599855.8000453.jpg"
     },
     "tags": [
@@ -67,7 +67,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/AstroWell/Knes/releases/download/v1.9.9/Knes_1.9.9.zip",
+        "https://hk.gh-proxy.com/https://github.com/AstroWell/Knes/releases/download/v1.9.9/Knes_1.9.9.zip",
         "https://spacedock.info/mod/1470/Knes/download/v1.9.9"
     ],
     "download_size": 105142628,

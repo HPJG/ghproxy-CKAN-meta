@@ -10,7 +10,7 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/226905-1125-aetherium-021-16-feb-2025-random-assortment-of-parallax-continued-configs/",
         "spacedock": "https://spacedock.info/mod/3834/OuterParallax-MPE",
-        "repository": "https://ghproxy.net/https://github.com/jthero3/OuterParallax-Continued",
+        "repository": "https://hk.gh-proxy.com/https://github.com/jthero3/OuterParallax-Continued",
         "x_screenshot": "https://spacedock.info/content/jthero3_151376/OuterParallax-MPE/OuterParallax-MPE-1740978724.png"
     },
     "tags": [
@@ -48,7 +48,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/jthero3/OuterParallax-Continued/releases/download/0.5.1/OuterParallax-MPE_0.5.1.zip",
+        "https://hk.gh-proxy.com/https://github.com/jthero3/OuterParallax-Continued/releases/download/0.5.1/OuterParallax-MPE_0.5.1.zip",
         "https://spacedock.info/mod/3834/OuterParallax-MPE/download/0.5.1"
     ],
     "download_size": 501785284,

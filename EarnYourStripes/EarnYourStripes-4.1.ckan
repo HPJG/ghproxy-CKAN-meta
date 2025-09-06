@@ -10,8 +10,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/161790-*",
-        "repository": "https://ghproxy.net/https://github.com/severedsolo/EarnYourStripes",
-        "bugtracker": "https://ghproxy.net/https://github.com/severedsolo/EarnYourStripes/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/severedsolo/EarnYourStripes",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/severedsolo/EarnYourStripes/issues",
         "remote-avc": "https://raw.githubusercontent.com:443/severedsolo/EarnYourStripes/master/GameData/EarnYourStripes/EarnYourStripes.version"
     },
     "tags": [
@@ -26,7 +26,7 @@
             "name": "FlightTracker"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/severedsolo/EarnYourStripes/releases/download/4.1/EarnYourStripes.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/severedsolo/EarnYourStripes/releases/download/4.1/EarnYourStripes.zip",
     "download_size": 13974,
     "download_hash": {
         "sha1": "FFC85A75B6D29F3EE62D9CAEBAA0F969B3C49E1E",

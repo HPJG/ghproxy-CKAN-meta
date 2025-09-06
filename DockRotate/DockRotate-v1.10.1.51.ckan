@@ -10,8 +10,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/170484-*",
-        "repository": "https://ghproxy.net/https://github.com/peteletroll/DockRotate",
-        "bugtracker": "https://ghproxy.net/https://github.com/peteletroll/DockRotate/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/peteletroll/DockRotate",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/peteletroll/DockRotate/issues"
     },
     "tags": [
         "plugin"
@@ -27,7 +27,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/peteletroll/DockRotate/releases/download/v1.10.1.51/DockRotate-1.10.1.51.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/peteletroll/DockRotate/releases/download/v1.10.1.51/DockRotate-1.10.1.51.zip",
     "download_size": 247161,
     "download_hash": {
         "sha1": "9C7DA3A4527B96E43440C01CFD770F63CA94685E",

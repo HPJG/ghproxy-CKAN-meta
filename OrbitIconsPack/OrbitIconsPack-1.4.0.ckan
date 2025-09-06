@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/226024-112x-orbiticonspack-120-updated-november-13th-2024-cet/",
         "spacedock": "https://spacedock.info/mod/3769/OrbitIconsPack",
-        "repository": "https://ghproxy.net/https://github.com/Oprissmian/OrbitIconsPack",
-        "bugtracker": "https://ghproxy.net/https://github.com/Oprissmian/OrbitIconsPack/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Oprissmian/OrbitIconsPack",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Oprissmian/OrbitIconsPack/issues"
     },
     "tags": [
         "config",
@@ -37,7 +37,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/Oprissmian/OrbitIconsPack/releases/download/v1.4.0/OrbitIconsPack-1.4.0.zip",
+        "https://hk.gh-proxy.com/https://github.com/Oprissmian/OrbitIconsPack/releases/download/v1.4.0/OrbitIconsPack-1.4.0.zip",
         "https://spacedock.info/mod/3769/OrbitIconsPack/download/1.4.0"
     ],
     "download_size": 2446963,

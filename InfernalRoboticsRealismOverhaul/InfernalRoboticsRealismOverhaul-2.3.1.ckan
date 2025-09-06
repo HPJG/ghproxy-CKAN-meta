@@ -16,9 +16,9 @@
     "ksp_version_max": "1.9.99",
     "license": "GPL-3.0",
     "resources": {
-        "homepage": "https://ghproxy.net/https://github.com/whale2/InfernalRobotics/tree/master",
+        "homepage": "https://hk.gh-proxy.com/https://github.com/whale2/InfernalRobotics/tree/master",
         "spacedock": "https://spacedock.info/mod/2329/Infernal%20RO-Robotics",
-        "repository": "https://ghproxy.net/https://github.com/whale2/InfernalRobotics",
+        "repository": "https://hk.gh-proxy.com/https://github.com/whale2/InfernalRobotics",
         "remote-avc": "https://raw.githubusercontent.com/whale2/InfernalRobotics/master/GameData/MagicSmokeIndustries/InfernalRobotics.version"
     },
     "tags": [

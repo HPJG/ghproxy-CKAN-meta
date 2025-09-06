@@ -9,8 +9,8 @@
     "ksp_version_max": "1.12.99",
     "license": "restricted",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/benjee10/htRobotics",
-        "bugtracker": "https://ghproxy.net/https://github.com/benjee10/htRobotics/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/benjee10/htRobotics",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/benjee10/htRobotics/issues",
         "remote-avc": "https://raw.githubusercontent.com/benjee10/htRobotics/master/GameData/htRobotics/Version/htRobotics.version"
     },
     "tags": [
@@ -39,7 +39,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/benjee10/htRobotics/releases/download/v1.0.0/habTechRobotics_v1.0.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/benjee10/htRobotics/releases/download/v1.0.0/habTechRobotics_v1.0.0.zip",
     "download_size": 18499133,
     "download_hash": {
         "sha1": "500C0869E48FFEB10B5907A81D1FEAEF47FDBCCC",

@@ -8,8 +8,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/88187",
-        "repository": "https://ghproxy.net/https://github.com/jwvanderbeck/TestFlight",
-        "bugtracker": "https://ghproxy.net/https://github.com/jwvanderbeck/TestFlight/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/jwvanderbeck/TestFlight",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/jwvanderbeck/TestFlight/issues"
     },
     "version": "1.2.2.0",
     "ksp_version": "0.90",
@@ -33,7 +33,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/jwvanderbeck/TestFlight/releases/download/1.2.2.0/TestFlight-1.2.2.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/jwvanderbeck/TestFlight/releases/download/1.2.2.0/TestFlight-1.2.2.0.zip",
     "download_size": 118689,
     "download_hash": {
         "sha1": "950F13035BD81CF6052700E40E451A2EF1E205B2",

@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/227734-112x-space-dust-next-v280/",
         "spacedock": "https://spacedock.info/mod/3836/Space%20Dust%20Next",
-        "repository": "https://ghproxy.net/https://github.com/NerdyBoy709/SpaceDustNext",
-        "bugtracker": "https://ghproxy.net/https://github.com/NerdyBoy709/SpaceDustNext/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/NerdyBoy709/SpaceDustNext",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/NerdyBoy709/SpaceDustNext/issues",
         "x_screenshot": "https://spacedock.info/content/NerdyBoy_153042/Space_Dust_Next/Space_Dust_Next-1741555945.png"
     },
     "tags": [
@@ -36,7 +36,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/NerdyBoy709/SpaceDustNext/releases/download/3.0.0/Space_Dust_Next-3.0.0.zip",
+        "https://hk.gh-proxy.com/https://github.com/NerdyBoy709/SpaceDustNext/releases/download/3.0.0/Space_Dust_Next-3.0.0.zip",
         "https://spacedock.info/mod/3836/Space%20Dust%20Next/download/3.0.0"
     ],
     "download_size": 98035,

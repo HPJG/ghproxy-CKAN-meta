@@ -9,8 +9,8 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/182797-*",
-        "repository": "https://ghproxy.net/https://github.com/LouisB3/PartOverhaulIntegration",
-        "bugtracker": "https://ghproxy.net/https://github.com/LouisB3/PartOverhaulIntegration/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/LouisB3/PartOverhaulIntegration",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/LouisB3/PartOverhaulIntegration/issues"
     },
     "tags": [
         "config"
@@ -28,7 +28,7 @@
             "name": "ReStockPlus"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/LouisB3/PartOverhaulIntegration/releases/download/v0.2.3/PartOverhaulIntegration.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/LouisB3/PartOverhaulIntegration/releases/download/v0.2.3/PartOverhaulIntegration.zip",
     "download_size": 2638,
     "download_hash": {
         "sha1": "C7BDA963DB39E345A57262A7F025A402689DB86A",

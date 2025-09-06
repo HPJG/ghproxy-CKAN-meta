@@ -8,8 +8,8 @@
     "license": "CC-BY-NC-4.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/133545-*",
-        "repository": "https://ghproxy.net/https://github.com/Keniamin/KerbinSideGAP",
-        "bugtracker": "https://ghproxy.net/https://github.com/Keniamin/KerbinSideGAP/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Keniamin/KerbinSideGAP",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Keniamin/KerbinSideGAP/issues"
     },
     "tags": [
         "config",
@@ -47,7 +47,7 @@
             "install_to": "GameData/KerbalScienceFoundation/NavInstruments/Runways"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Keniamin/KerbinSideGAP/releases/download/2.3/KerbinSideGAP-2.3.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Keniamin/KerbinSideGAP/releases/download/2.3/KerbinSideGAP-2.3.zip",
     "download_size": 168755,
     "download_hash": {
         "sha1": "55A2AB587B4B399A53DA0541FD0C541ECBB2E8DF",

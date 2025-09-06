@@ -1,0 +1,29 @@
+{
+    "spec_version": 1,
+    "identifier": "AutoSmartParts",
+    "name": "AutoSmartParts",
+    "abstract": "Automatic behaviour for parts.",
+    "author": "Ekareya",
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/119559-1-0-2-Automatic-Landing-Gear-Leg-Solar-Panel-Alpha(0-0-4)/",
+        "repository": "https://hk.gh-proxy.com/https://github.com/Ekareya/KSP",
+        "kerbalstuff": "https://kerbalstuff.com/mod/762/AutoSmartParts"
+    },
+    "version": "alpha_0.0.4d",
+    "ksp_version": "1.0.4",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://archive.org/download/AutoSmartParts-alpha_0.0.4d/942F3CCB-AutoSmartParts-alpha_0.0.4d.zip",
+    "download_size": 6269,
+    "download_hash": {
+        "sha1": "942F3CCBFE6368DE372A33EC816C1195810A02A0",
+        "sha256": "7A33855DE3F4E13964166D7F93D15B5E5696B69EA9344CD6B0C162729AD663D5"
+    },
+    "download_content_type": "application/zip",
+    "x_via": "Automated KerbalStuff CKAN submission",
+    "x_generated_by": "netkan"
+}

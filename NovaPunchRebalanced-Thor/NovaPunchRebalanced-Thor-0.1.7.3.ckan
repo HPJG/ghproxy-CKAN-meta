@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/178797-14x-novapunch-rebalanced-beta-2/",
         "spacedock": "https://spacedock.info/mod/2003/NovaPunch%20Rebalanced",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/NovaPunch",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/NovaPunch/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/NovaPunch",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/NovaPunch/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/NovaPunch",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/NovaPunch_Rebalanced/NovaPunch_Rebalanced-1541957481.4639502.png"
     },
@@ -31,7 +31,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/linuxgurugamer/NovaPunch/releases/download/0.1.7.3/NovaPunch-1.12.0-0.1.7.3.zip",
+        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/NovaPunch/releases/download/0.1.7.3/NovaPunch-1.12.0-0.1.7.3.zip",
         "https://spacedock.info/mod/2003/NovaPunch%20Rebalanced/download/0.1.7.3"
     ],
     "download_size": 63222546,

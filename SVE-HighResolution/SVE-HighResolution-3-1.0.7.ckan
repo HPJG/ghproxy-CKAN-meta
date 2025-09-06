@@ -9,7 +9,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/143288-*",
-        "repository": "https://ghproxy.net/https://github.com/Galileo88/StockVisualEnhancements"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Galileo88/StockVisualEnhancements"
     },
     "version": "3:1.0.7",
     "ksp_version_min": "1.2",
@@ -32,7 +32,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Galileo88/StockVisualEnhancements/releases/download/1.0.7/SVE_HighResTextures.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Galileo88/StockVisualEnhancements/releases/download/1.0.7/SVE_HighResTextures.zip",
     "download_size": 69248816,
     "download_hash": {
         "sha1": "B87D9AA1E141AC80564F5EDB4087713BC174CA77",

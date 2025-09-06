@@ -8,7 +8,7 @@
     "license": "CC-BY-NC-ND-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/86243",
-        "repository": "https://ghproxy.net/https://github.com/KSP-RO/Skylab"
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/Skylab"
     },
     "version": "v1.6",
     "ksp_version_min": "1.2.0",
@@ -31,7 +31,7 @@
             "install_to": "Ships"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSP-RO/Skylab/releases/download/v1.6/RN_Skylab_v1.6.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/Skylab/releases/download/v1.6/RN_Skylab_v1.6.zip",
     "download_size": 7637122,
     "download_hash": {
         "sha1": "E20A92B859EB3FCC11E29DC2021AC9FC04825AC0",

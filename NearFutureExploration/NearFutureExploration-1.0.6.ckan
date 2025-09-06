@@ -10,9 +10,9 @@
     "license": "restricted",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/155465-18x-near-future-technologies-18-updates-november-6th/",
-        "repository": "https://ghproxy.net/https://github.com/ChrisAdderley/NearFutureExploration",
-        "bugtracker": "https://ghproxy.net/https://github.com/ChrisAdderley/NearFutureExploration/issues",
-        "metanetkan": "https://ghproxy.net/https://github.com/ChrisAdderley/NearFutureExploration/raw/master/CKAN/NearFutureExploration.netkan"
+        "repository": "https://hk.gh-proxy.com/https://github.com/ChrisAdderley/NearFutureExploration",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/ChrisAdderley/NearFutureExploration/issues",
+        "metanetkan": "https://hk.gh-proxy.com/https://github.com/ChrisAdderley/NearFutureExploration/raw/master/CKAN/NearFutureExploration.netkan"
     },
     "tags": [
         "parts",
@@ -64,7 +64,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/ChrisAdderley/NearFutureExploration/releases/download/1.0.6/NearFutureExploration_1_0_6.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/ChrisAdderley/NearFutureExploration/releases/download/1.0.6/NearFutureExploration_1_0_6.zip",
     "download_size": 42361336,
     "download_hash": {
         "sha1": "7793FD5B0358D661B910267D4AB360C7B053C1AD",

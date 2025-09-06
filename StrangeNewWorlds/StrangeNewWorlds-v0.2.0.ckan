@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/202909-18-111-strange-new-worlds-a-new-high-quality-star-system-to-explore/",
         "spacedock": "https://spacedock.info/mod/2777/Strange%20New%20Worlds",
-        "repository": "https://ghproxy.net/https://github.com/Zaffreaqua/StrangeNewWorlds",
-        "bugtracker": "https://ghproxy.net/https://github.com/Zaffreaqua/StrangeNewWorlds/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/Zaffreaqua/StrangeNewWorlds",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Zaffreaqua/StrangeNewWorlds/issues",
         "x_screenshot": "https://spacedock.info/content/Zaffre_61899/Strange_New_Worlds/Strange_New_Worlds-1623517754.7133539.png"
     },
     "tags": [
@@ -81,7 +81,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/Zaffreaqua/StrangeNewWorlds/releases/download/0.2.0/StrangeNewWorlds-v0.2.0.zip",
+        "https://hk.gh-proxy.com/https://github.com/Zaffreaqua/StrangeNewWorlds/releases/download/0.2.0/StrangeNewWorlds-v0.2.0.zip",
         "https://spacedock.info/mod/2777/Strange%20New%20Worlds/download/v0.2.0"
     ],
     "download_size": 601398094,

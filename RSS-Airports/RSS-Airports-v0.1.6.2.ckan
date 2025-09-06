@@ -10,8 +10,8 @@
     "license": "WTFPL",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/139827-*/#comment-2583173",
-        "repository": "https://ghproxy.net/https://github.com/miki-g/RSS-Airports",
-        "bugtracker": "https://ghproxy.net/https://github.com/miki-g/RSS-Airports/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/miki-g/RSS-Airports",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/miki-g/RSS-Airports/issues",
         "remote-avc": "https://raw.githubusercontent.com:443/miki-g/RSS-Airports/master/Gamedata/RSS-Airports/RSS-Airports.version"
     },
     "tags": [
@@ -39,7 +39,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/miki-g/RSS-Airports/releases/download/v0.1.6.2/RSS-Airports-v0.1.6.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/miki-g/RSS-Airports/releases/download/v0.1.6.2/RSS-Airports-v0.1.6.zip",
     "download_size": 25847,
     "download_hash": {
         "sha1": "CEEEE07D5712D692932E7017838EB1FC66D20B68",

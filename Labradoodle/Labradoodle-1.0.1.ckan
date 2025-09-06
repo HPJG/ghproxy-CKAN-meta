@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/225830-112x-labradoodle-make-the-poodle-variants-into-two-separate-parts",
         "spacedock": "https://spacedock.info/mod/3700/Labradoodle",
-        "repository": "https://ghproxy.net/https://github.com/CharleRoger/Labradoodle",
-        "bugtracker": "https://ghproxy.net/https://github.com/CharleRoger/Labradoodle/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/CharleRoger/Labradoodle",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/CharleRoger/Labradoodle/issues",
         "remote-avc": "https://raw.githubusercontent.com/CharleRoger/Labradoodle/main/GameData/Labradoodle/Versioning/Labradoodle.version"
     },
     "tags": [
@@ -26,7 +26,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/CharleRoger/Labradoodle/releases/download/1.0.1/Labradoodle-1.0.1.zip",
+        "https://hk.gh-proxy.com/https://github.com/CharleRoger/Labradoodle/releases/download/1.0.1/Labradoodle-1.0.1.zip",
         "https://spacedock.info/mod/3700/Labradoodle/download/1.0.1"
     ],
     "download_size": 16148,

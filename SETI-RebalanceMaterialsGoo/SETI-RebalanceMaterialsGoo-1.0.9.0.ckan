@@ -7,7 +7,7 @@
     "license": "restricted",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/95645-*",
-        "repository": "https://ghproxy.net/https://github.com/Y3mo/SETI-RebalanceMaterialsGoo"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Y3mo/SETI-RebalanceMaterialsGoo"
     },
     "version": "1.0.9.0",
     "ksp_version_min": "1.0.0",
@@ -23,7 +23,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Y3mo/SETI-RebalanceMaterialsGoo/releases/download/1.0.9.0/SETI-RebalanceMaterialsGoo-1.0.9.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Y3mo/SETI-RebalanceMaterialsGoo/releases/download/1.0.9.0/SETI-RebalanceMaterialsGoo-1.0.9.0.zip",
     "download_size": 1027,
     "download_hash": {
         "sha1": "93004D9A81C4F209FA32B45394F013FFC5BB8A05",

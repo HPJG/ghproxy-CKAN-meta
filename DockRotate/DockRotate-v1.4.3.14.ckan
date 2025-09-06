@@ -7,7 +7,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/170484-dockrotate-rotation-control-on-docking-ports/",
-        "repository": "https://ghproxy.net/https://github.com/peteletroll/DockRotate"
+        "repository": "https://hk.gh-proxy.com/https://github.com/peteletroll/DockRotate"
     },
     "version": "v1.4.3.14",
     "ksp_version_min": "1.4.0",
@@ -17,7 +17,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/peteletroll/DockRotate/releases/download/v1.4.3.14/DockRotate-1.4.3.14.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/peteletroll/DockRotate/releases/download/v1.4.3.14/DockRotate-1.4.3.14.zip",
     "download_size": 141977,
     "download_hash": {
         "sha1": "BB71B8C1BF0F0052A10E1EEBE510F04AA2BF2D3F",

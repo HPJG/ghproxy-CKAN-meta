@@ -7,7 +7,7 @@
     "license": "CC-BY-NC-SA-3.0",
     "release_status": "stable",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/taraniselsu/TacLifeSupport"
+        "repository": "https://hk.gh-proxy.com/https://github.com/taraniselsu/TacLifeSupport"
     },
     "version": "v0.11",
     "ksp_version_max": "1.0.5",
@@ -32,7 +32,7 @@
             "filter_regexp": "^(?!GameData/ThunderAerospace/TacLifeSupport/PluginData/TacLifeSupport/LifeSupport.cfg)"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/taraniselsu/TacLifeSupport/releases/download/v0.11/TacLifeSupport_0.11.0.18.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/taraniselsu/TacLifeSupport/releases/download/v0.11/TacLifeSupport_0.11.0.18.zip",
     "download_size": 5996970,
     "download_hash": {
         "sha1": "6058163170E772C39BD192EE0B23B57039AEDA1A",

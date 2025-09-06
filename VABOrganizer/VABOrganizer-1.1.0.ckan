@@ -9,9 +9,9 @@
     "ksp_version_max": "1.12.99",
     "license": "MIT",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/post-kerbin-mining-corporation/VABOrganizer",
-        "bugtracker": "https://ghproxy.net/https://github.com/post-kerbin-mining-corporation/VABOrganizer/issues",
-        "metanetkan": "https://ghproxy.net/https://github.com/post-kerbin-mining-corporation/VABOrganizer/raw/master/CKAN/VABOrganizer.netkan",
+        "repository": "https://hk.gh-proxy.com/https://github.com/post-kerbin-mining-corporation/VABOrganizer",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/post-kerbin-mining-corporation/VABOrganizer/issues",
+        "metanetkan": "https://hk.gh-proxy.com/https://github.com/post-kerbin-mining-corporation/VABOrganizer/raw/master/CKAN/VABOrganizer.netkan",
         "remote-avc": "https://raw.githubusercontent.com/post-kerbin-mining-corporation/VABOrganizer/master/GameData/VABOrganizer/Versioning/VABOrganizer.version"
     },
     "tags": [
@@ -35,7 +35,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/post-kerbin-mining-corporation/VABOrganizer/releases/download/1.1.0/VABOrganizer_1_1_0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/post-kerbin-mining-corporation/VABOrganizer/releases/download/1.1.0/VABOrganizer_1_1_0.zip",
     "download_size": 504868,
     "download_hash": {
         "sha1": "58B755FEE30FCC3393601CA8F41C544E3CEA1D96",

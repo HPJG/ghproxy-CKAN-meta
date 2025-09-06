@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/208603-rfa-one-space-debris-removal/",
         "spacedock": "https://spacedock.info/mod/3044/RFA%20One",
-        "repository": "https://ghproxy.net/https://github.com/RFA-One/RFA-One",
-        "bugtracker": "https://ghproxy.net/https://github.com/RFA-One/RFA-One/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/RFA-One/RFA-One",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/RFA-One/RFA-One/issues",
         "x_screenshot": "https://spacedock.info/content/RFA_83350/RFA_One/RFA_One-1655303323.png"
     },
     "tags": [
@@ -50,7 +50,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/RFA-One/RFA-One/releases/download/1.0/RFA-One.zip",
+        "https://hk.gh-proxy.com/https://github.com/RFA-One/RFA-One/releases/download/1.0/RFA-One.zip",
         "https://spacedock.info/mod/3044/RFA%20One/download/1.0"
     ],
     "download_size": 12256887,

@@ -6,7 +6,7 @@
     "author": "Li0n",
     "license": "MIT",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/Li0n-0/Antenna-Helper"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Li0n-0/Antenna-Helper"
     },
     "version": "1:v1.0.5",
     "ksp_version": "1.5.1",
@@ -24,7 +24,7 @@
             "find": "AntennaHelper"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Li0n-0/Antenna-Helper/releases/download/v1.0.5/AntennaHelper-1.0.5.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Li0n-0/Antenna-Helper/releases/download/v1.0.5/AntennaHelper-1.0.5.zip",
     "download_size": 162319,
     "download_hash": {
         "sha1": "9840DBAA6235A24E1EC0267FAEE254E713961D81",

@@ -8,8 +8,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/88187",
-        "repository": "https://ghproxy.net/https://github.com/KSP-RO/TestFlight",
-        "bugtracker": "https://ghproxy.net/https://github.com/KSP-RO/TestFlight/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/TestFlight",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-RO/TestFlight/issues"
     },
     "version": "1.6.0.0",
     "ksp_version": "1.1.2",
@@ -37,7 +37,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSP-RO/TestFlight/releases/download/1.6.0.0/TestFlightConfigStock-1.6.0.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/TestFlight/releases/download/1.6.0.0/TestFlightConfigStock-1.6.0.0.zip",
     "download_size": 2276,
     "download_hash": {
         "sha1": "0F7E8B07B29F9B9201DB9C885DEF5C58C41AB5E4",

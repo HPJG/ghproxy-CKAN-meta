@@ -10,8 +10,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?showtopic=159101",
-        "repository": "https://ghproxy.net/https://github.com/blowfishpro/SimpleAdjustableFairings",
-        "bugtracker": "https://ghproxy.net/https://github.com/blowfishpro/SimpleAdjustableFairings/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/blowfishpro/SimpleAdjustableFairings",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/blowfishpro/SimpleAdjustableFairings/issues",
         "metanetkan": "https://raw.githubusercontent.com/blowfishpro/SimpleAdjustableFairings/master/NetKAN/SimpleAdjustableFairings.netkan"
     },
     "tags": [
@@ -23,7 +23,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/blowfishpro/SimpleAdjustableFairings/releases/download/v1.10.1/SimpleAdjustableFairings_v1.10.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/blowfishpro/SimpleAdjustableFairings/releases/download/v1.10.1/SimpleAdjustableFairings_v1.10.1.zip",
     "download_size": 23329,
     "download_hash": {
         "sha1": "30D355EB843F4808181C47E6DB223DA47F8C7BBD",

@@ -12,8 +12,8 @@
     "license": "restricted",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/224940-*",
-        "repository": "https://ghproxy.net/https://github.com/R-T-B/Sigma-Dimensions",
-        "bugtracker": "https://ghproxy.net/https://github.com/R-T-B/Sigma-Dimensions/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/R-T-B/Sigma-Dimensions",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/R-T-B/Sigma-Dimensions/issues"
     },
     "tags": [
         "plugin",
@@ -32,7 +32,7 @@
             "name": "KKtoSD"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/R-T-B/Sigma-Dimensions/releases/download/0.11.4/SigmaDimensions.v0.11.4.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/R-T-B/Sigma-Dimensions/releases/download/0.11.4/SigmaDimensions.v0.11.4.zip",
     "download_size": 51948,
     "download_hash": {
         "sha1": "B9C2CDABB27F0AE47247199E10BA44BC047AC8C6",

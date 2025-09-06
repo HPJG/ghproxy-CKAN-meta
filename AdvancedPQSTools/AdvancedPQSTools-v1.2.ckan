@@ -13,8 +13,8 @@
     "ksp_version": "1.12",
     "license": "MIT",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/CharonSSS/AdvancedPQSTools",
-        "manual": "https://ghproxy.net/https://github.com/CharonSSS/AdvancedPQSTools/wiki"
+        "repository": "https://hk.gh-proxy.com/https://github.com/CharonSSS/AdvancedPQSTools",
+        "manual": "https://hk.gh-proxy.com/https://github.com/CharonSSS/AdvancedPQSTools/wiki"
     },
     "tags": [
         "plugin",
@@ -29,7 +29,7 @@
             "name": "Kopernicus"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/CharonSSS/AdvancedPQSTools/releases/download/v1.2/AdvancedPQSTools.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/CharonSSS/AdvancedPQSTools/releases/download/v1.2/AdvancedPQSTools.zip",
     "download_size": 24767,
     "download_hash": {
         "sha1": "8301C5573F4E5C2916058072A3180CD803E2E9C9",

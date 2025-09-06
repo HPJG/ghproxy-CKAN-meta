@@ -9,10 +9,10 @@
     "license": "CC-BY-NC-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/204561-*",
-        "repository": "https://ghproxy.net/https://github.com/bongotastic/Headlines",
-        "bugtracker": "https://ghproxy.net/https://github.com/bongotastic/Headlines/issues",
-        "license": "https://ghproxy.net/https://github.com/bongotastic/Headlines/blob/master/LICENSE.md",
-        "manual": "https://ghproxy.net/https://github.com/bongotastic/Headlines/wiki"
+        "repository": "https://hk.gh-proxy.com/https://github.com/bongotastic/Headlines",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/bongotastic/Headlines/issues",
+        "license": "https://hk.gh-proxy.com/https://github.com/bongotastic/Headlines/blob/master/LICENSE.md",
+        "manual": "https://hk.gh-proxy.com/https://github.com/bongotastic/Headlines/wiki"
     },
     "tags": [
         "plugin",
@@ -29,7 +29,7 @@
             "name": "KerbalRenamer"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/bongotastic/Headlines/releases/download/v0.4.7.1-beta/Headlines-v0.4.7.1-beta.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/bongotastic/Headlines/releases/download/v0.4.7.1-beta/Headlines-v0.4.7.1-beta.zip",
     "download_size": 56145,
     "download_hash": {
         "sha1": "FFBD532C6D0CA4821B146E3CFA258618D84AD241",

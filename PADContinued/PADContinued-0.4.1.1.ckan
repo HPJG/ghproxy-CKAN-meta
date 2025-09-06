@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/170092-131-part-angle-display-continued-including-seamless-highly-accurate-rotation/",
         "spacedock": "https://spacedock.info/mod/1679/Part%20Angle%20Display%20Continued",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/PartAngleDisplay",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/PartAngleDisplay/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/PartAngleDisplay",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/PartAngleDisplay/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/PartAngleDisplay",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Part_Angle_Display_Continued/Part_Angle_Display_Continued-1516934366.3750505.jpg"
     },
@@ -41,7 +41,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/linuxgurugamer/PartAngleDisplay/releases/download/0.4.1.1/PartAngleDisplay-1.12.0-0.4.1.1.zip",
+        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/PartAngleDisplay/releases/download/0.4.1.1/PartAngleDisplay-1.12.0-0.4.1.1.zip",
         "https://spacedock.info/mod/1679/Part%20Angle%20Display%20Continued/download/0.4.1.1"
     ],
     "download_size": 24068,

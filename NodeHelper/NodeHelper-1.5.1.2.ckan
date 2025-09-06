@@ -12,8 +12,8 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/190144-*",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/NodeHelper",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/NodeHelper/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/NodeHelper",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/NodeHelper/issues"
     },
     "tags": [
         "plugin",
@@ -30,7 +30,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/linuxgurugamer/NodeHelper/releases/download/1.5.1.2/NodeHelper-1.8.0-1.5.1.2.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/NodeHelper/releases/download/1.5.1.2/NodeHelper-1.8.0-1.5.1.2.zip",
     "download_size": 51306,
     "download_hash": {
         "sha1": "F0F599BECBFB747018475EBF1FFAF1532FF32180",

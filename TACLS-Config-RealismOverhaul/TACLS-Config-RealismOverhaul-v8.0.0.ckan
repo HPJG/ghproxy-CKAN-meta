@@ -7,7 +7,7 @@
     "license": "CC-BY-SA",
     "release_status": "stable",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/KSP-RO/RealismOverhaul"
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealismOverhaul"
     },
     "version": "v8.0.0",
     "ksp_version_max": "0.90",
@@ -33,7 +33,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSP-RO/RealismOverhaul/releases/download/v8.0.0/RealismOverhaul_8.0.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealismOverhaul/releases/download/v8.0.0/RealismOverhaul_8.0.0.zip",
     "download_size": 17723830,
     "download_hash": {
         "sha1": "F9C21109C08DA113B0E4EE5E21EBAD60D36AF8D8",

@@ -8,8 +8,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/106580",
-        "repository": "https://ghproxy.net/https://github.com/jrossignol/ContractPack-RemoteTech",
-        "bugtracker": "https://ghproxy.net/https://github.com/jrossignol/ContractPack-RemoteTech/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/jrossignol/ContractPack-RemoteTech",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/jrossignol/ContractPack-RemoteTech/issues",
         "license": "https://raw.githubusercontent.com/jrossignol/ContractPack-RemoteTech/master/GameData/ContractPacks/RemoteTech/LICENSE.txt"
     },
     "version": "1.1.2",
@@ -32,7 +32,7 @@
             "install_to": "GameData/ContractPacks"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/jrossignol/ContractPack-RemoteTech/releases/download/1.1.2/ContractPack-RemoteTech_1.1.2.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/jrossignol/ContractPack-RemoteTech/releases/download/1.1.2/ContractPack-RemoteTech_1.1.2.zip",
     "download_size": 23199,
     "download_hash": {
         "sha1": "0B467D4D082D0AED0AD21B273123D0D4297BA703",

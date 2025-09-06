@@ -6,7 +6,7 @@
     "author": "fingerboxes",
     "license": "MIT",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/fingerboxes/CrewQueue"
+        "repository": "https://hk.gh-proxy.com/https://github.com/fingerboxes/CrewQueue"
     },
     "version": "ksp1.0_r2",
     "ksp_version": "1.0.2",
@@ -16,7 +16,7 @@
             "install_to": "GameData/Fingerboxes/Common"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/fingerboxes/CrewQueue/releases/download/ksp1.0_r2/CrewQueue_ksp1.0.4_release2.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/fingerboxes/CrewQueue/releases/download/ksp1.0_r2/CrewQueue_ksp1.0.4_release2.zip",
     "download_size": 66538,
     "download_hash": {
         "sha1": "46F25409F2C583AA896333B3599BCF5280BDEAFB",

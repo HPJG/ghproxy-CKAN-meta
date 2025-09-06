@@ -1,0 +1,44 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "CommNetVisualisation",
+    "name": "CommNet Visualisation",
+    "abstract": "A lightweight CommNet add-on to display all working connections of all vessels",
+    "author": "TaxiService",
+    "version": "1.0.4",
+    "ksp_version": "1.7.0",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/169401-131-commnet-visualisation-v10-9-january-2018/",
+        "spacedock": "https://spacedock.info/mod/1650/CommNet%20Visualisation",
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-TaxiService/CommNetVisualisation",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-TaxiService/CommNetVisualisation/issues",
+        "x_screenshot": "https://spacedock.info/content/TaxiService_12023/CommNet_Visualisation/CommNet_Visualisation-1515510983.0833342.png"
+    },
+    "tags": [
+        "plugin",
+        "information"
+    ],
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es-es",
+        "fr-fr",
+        "ja",
+        "ru",
+        "zh-cn"
+    ],
+    "conflicts": [
+        {
+            "name": "CommNetConstellation"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1650/CommNet%20Visualisation/download/1.0.4",
+    "download_size": 20796,
+    "download_hash": {
+        "sha1": "FF1A8DA6CE49D5C73A21330290B509ECE548D1F9",
+        "sha256": "9F3469EF81013F75D05C28B6EF72EB017BC96A6B2B986AE15E62701D292FB8FB"
+    },
+    "download_content_type": "application/zip",
+    "release_date": "2019-04-17T17:11:57.693879+00:00",
+    "x_generated_by": "netkan"
+}

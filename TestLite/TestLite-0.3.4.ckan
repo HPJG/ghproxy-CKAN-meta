@@ -10,8 +10,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/182244-*",
-        "repository": "https://ghproxy.net/https://github.com/ec429/TestLite",
-        "bugtracker": "https://ghproxy.net/https://github.com/ec429/TestLite/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/ec429/TestLite",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/ec429/TestLite/issues",
         "remote-avc": "https://raw.githubusercontent.com/ec429/TestLite/master/GameData/TestLite/TestLite.version"
     },
     "tags": [

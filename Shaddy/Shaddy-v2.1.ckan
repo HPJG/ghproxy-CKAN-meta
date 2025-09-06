@@ -9,10 +9,10 @@
     "ksp_version_max": "1.12.99",
     "license": "MIT",
     "resources": {
-        "homepage": "https://ghproxy.net/https://github.com/Icecovery/Shaddy",
+        "homepage": "https://hk.gh-proxy.com/https://github.com/Icecovery/Shaddy",
         "spacedock": "https://spacedock.info/mod/3064/Shaddy",
-        "repository": "https://ghproxy.net/https://github.com/Icecovery/Shaddy",
-        "bugtracker": "https://ghproxy.net/https://github.com/Icecovery/Shaddy/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/Icecovery/Shaddy",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Icecovery/Shaddy/issues",
         "remote-avc": "https://raw.githubusercontent.com/Icecovery/Shaddy/master/GameData/Shaddy/Shaddy.version",
         "x_screenshot": "https://spacedock.info/content/IcecoveryStudio_9112/Shaddy/Shaddy-1658943354.png"
     },

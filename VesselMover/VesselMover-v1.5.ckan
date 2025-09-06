@@ -8,12 +8,12 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/123646-11-vesselmover-v15-vessel-spawning-toolbar-ui-apr-25/",
-        "repository": "https://ghproxy.net/https://github.com/BahamutoD/VesselMover"
+        "repository": "https://hk.gh-proxy.com/https://github.com/BahamutoD/VesselMover"
     },
     "version": "v1.5",
     "ksp_version_min": "1.1.0",
     "ksp_version_max": "1.1.2",
-    "download": "https://ghproxy.net/https://github.com/BahamutoD/VesselMover/releases/download/v1.5/VesselMover-v1.5.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/BahamutoD/VesselMover/releases/download/v1.5/VesselMover-v1.5.zip",
     "download_size": 21671,
     "download_hash": {
         "sha1": "B6CF22380322CF54EE4EC71654927E08DC01E37C",

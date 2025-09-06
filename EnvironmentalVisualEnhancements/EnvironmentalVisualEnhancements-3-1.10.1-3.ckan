@@ -14,8 +14,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/196289-*",
-        "repository": "https://ghproxy.net/https://github.com/R-T-B/EnvironmentalVisualEnhancements",
-        "remote-avc": "https://ghproxy.net/https://github.com/R-T-B/EnvironmentalVisualEnhancements/raw/master/ContentEVE/GameData/EnvironmentalVisualEnhancements/EnvironmentalVisualEnhancements.version"
+        "repository": "https://hk.gh-proxy.com/https://github.com/R-T-B/EnvironmentalVisualEnhancements",
+        "remote-avc": "https://hk.gh-proxy.com/https://github.com/R-T-B/EnvironmentalVisualEnhancements/raw/master/ContentEVE/GameData/EnvironmentalVisualEnhancements/EnvironmentalVisualEnhancements.version"
     },
     "tags": [
         "plugin",
@@ -37,7 +37,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/R-T-B/EnvironmentalVisualEnhancements/releases/download/1.10.1-3/EnvironmentalVisualEnhancements-1.10.1-3.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/R-T-B/EnvironmentalVisualEnhancements/releases/download/1.10.1-3/EnvironmentalVisualEnhancements-1.10.1-3.zip",
     "download_size": 798851,
     "download_hash": {
         "sha1": "0C576938CA6B0C1B9B49602F1B7C70679890FEAF",

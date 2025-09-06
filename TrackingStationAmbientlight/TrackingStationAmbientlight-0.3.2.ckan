@@ -8,8 +8,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/119999-1",
         "spacedock": "https://spacedock.info/mod/895/Trackingstation%20Ambientlight",
-        "repository": "https://ghproxy.net/https://github.com/mhoram-kerbin/TrackingStationAmbientlight",
-        "bugtracker": "https://ghproxy.net/https://github.com/mhoram-kerbin/TrackingStationAmbientlight/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/mhoram-kerbin/TrackingStationAmbientlight",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/mhoram-kerbin/TrackingStationAmbientlight/issues",
         "x_screenshot": "https://spacedock.info/content/mhoram_7405/Trackingstation_Ambientlight/Trackingstation_Ambientlight-1471247598.8932304.jpg"
     },
     "version": "0.3.2",

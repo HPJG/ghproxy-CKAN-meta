@@ -8,7 +8,7 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/189547-173-18x-deployable-batteries/",
         "spacedock": "https://spacedock.info/mod/2268/DeployableBatteries",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/DeployableBatteries"
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/DeployableBatteries"
     },
     "version": "0.2.0.5",
     "ksp_version_min": "1.8.0",

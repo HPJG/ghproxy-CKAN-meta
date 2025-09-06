@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/202104-111x-ziegler-launch-system/",
         "spacedock": "https://spacedock.info/mod/2718/Ziegler%20Launch%20System",
-        "repository": "https://ghproxy.net/https://github.com/EStreetRockets/EStreet-Rocket3x",
-        "bugtracker": "https://ghproxy.net/https://github.com/EStreetRockets/EStreet-Rocket3x/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/EStreetRockets/EStreet-Rocket3x",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/EStreetRockets/EStreet-Rocket3x/issues",
         "x_screenshot": "https://spacedock.info/content/EStreetRockets_54289/Ziegler_Launch_System/Ziegler_Launch_System-1654921367.png"
     },
     "tags": [

@@ -7,8 +7,8 @@
     "version": "1.1.1",
     "license": "restricted",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/Kramken/1TS-Textures",
-        "bugtracker": "https://ghproxy.net/https://github.com/Kramken/1TS-Textures/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Kramken/1TS-Textures",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Kramken/1TS-Textures/issues"
     },
     "tags": [
         "planet-pack",
@@ -30,7 +30,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Kramken/1TS-Textures/releases/download/1.1.1/Eternal_Textures.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Kramken/1TS-Textures/releases/download/1.1.1/Eternal_Textures.zip",
     "download_size": 907676152,
     "download_hash": {
         "sha1": "381ECE63495CAB999E1961691DD8D007C7E6A2DE",

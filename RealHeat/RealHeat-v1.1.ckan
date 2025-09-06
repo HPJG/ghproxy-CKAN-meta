@@ -7,7 +7,7 @@
     "license": "CC-BY-SA",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/127769",
-        "repository": "https://ghproxy.net/https://github.com/KSP-RO/RealHeat"
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealHeat"
     },
     "version": "v1.1",
     "ksp_version": "1.0.4",
@@ -26,7 +26,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSP-RO/RealHeat/releases/download/v1.1/RealHeat_v1.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealHeat/releases/download/v1.1/RealHeat_v1.1.zip",
     "download_size": 22637,
     "download_hash": {
         "sha1": "09FFB45C7E2309F4D8FBEB2DE3DA81B98FDEFB74",

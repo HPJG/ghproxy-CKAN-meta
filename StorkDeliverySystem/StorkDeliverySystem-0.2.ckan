@@ -7,7 +7,7 @@
     "ksp_version": "0.90",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/112526",
-        "repository": "https://ghproxy.net/https://github.com/riocrokite/StorkDeliverySystem"
+        "repository": "https://hk.gh-proxy.com/https://github.com/riocrokite/StorkDeliverySystem"
     },
     "suggests": [
         {
@@ -22,7 +22,7 @@
     ],
     "author": "riocrokite",
     "version": "0.2",
-    "download": "https://ghproxy.net/https://github.com/riocrokite/StorkDeliverySystem/releases/download/0.2/stork.0.2.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/riocrokite/StorkDeliverySystem/releases/download/0.2/stork.0.2.zip",
     "x_generated_by": "netkan",
     "download_size": 457824
 }

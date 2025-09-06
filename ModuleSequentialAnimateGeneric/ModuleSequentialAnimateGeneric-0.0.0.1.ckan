@@ -9,7 +9,7 @@
     "license": "MIT",
     "release_status": "stable",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/ModuleSequentialAnimateGeneric"
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ModuleSequentialAnimateGeneric"
     },
     "version": "0.0.0.1",
     "ksp_version_min": "1.4.5",
@@ -19,7 +19,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/linuxgurugamer/ModuleSequentialAnimateGeneric/releases/download/0.0.0.1/ModuleSequentialAnimateGeneric-1.4.5-0.0.0.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ModuleSequentialAnimateGeneric/releases/download/0.0.0.1/ModuleSequentialAnimateGeneric-1.4.5-0.0.0.1.zip",
     "download_size": 29139,
     "download_hash": {
         "sha1": "634EC7E44A53C00F24414E142432424812B2E1D0",

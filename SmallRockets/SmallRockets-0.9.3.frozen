@@ -7,8 +7,8 @@
     "version": "0.9.3",
     "license": "CC-BY",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/tylerraiz/SmallRockets",
-        "bugtracker": "https://ghproxy.net/https://github.com/tylerraiz/SmallRockets/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/tylerraiz/SmallRockets",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/tylerraiz/SmallRockets/issues"
     },
     "tags": [
         "parts"
@@ -33,7 +33,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/tylerraiz/SmallRockets/releases/download/0.9.3/SmallRocketsv0.9.3.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/tylerraiz/SmallRockets/releases/download/0.9.3/SmallRocketsv0.9.3.zip",
     "download_size": 104175566,
     "download_hash": {
         "sha1": "BB60E3C1FC8D717E47E66E97AF3E471FA1955C83",

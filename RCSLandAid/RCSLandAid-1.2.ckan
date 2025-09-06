@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/85838",
-        "repository": "https://ghproxy.net/https://github.com/SirDiazo/RCSLandAid"
+        "repository": "https://hk.gh-proxy.com/https://github.com/SirDiazo/RCSLandAid"
     },
     "version": "1.2",
     "ksp_version": "0.25",
@@ -23,7 +23,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/SirDiazo/RCSLandAid/releases/download/1.2/RCSLandAid12a.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/SirDiazo/RCSLandAid/releases/download/1.2/RCSLandAid12a.zip",
     "download_size": 15267,
     "download_hash": {
         "sha1": "6216FE2D3C2F62256B6B3C4C9AAD7588346409A4",

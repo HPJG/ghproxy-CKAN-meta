@@ -11,7 +11,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/50911-*",
-        "repository": "https://ghproxy.net/https://github.com/KSP-RO/Kerbal-Joint-Reinforcement-Continued"
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/Kerbal-Joint-Reinforcement-Continued"
     },
     "version": "v3.3.4",
     "ksp_version_min": "1.4.0",
@@ -30,7 +30,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSP-RO/Kerbal-Joint-Reinforcement-Continued/releases/download/v3.3.4/KerbalJointReinforcement_v3.3.4.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/Kerbal-Joint-Reinforcement-Continued/releases/download/v3.3.4/KerbalJointReinforcement_v3.3.4.zip",
     "download_size": 39351,
     "download_hash": {
         "sha1": "9F846C1534BA8664535325D0B22005F0BB0CF6C5",

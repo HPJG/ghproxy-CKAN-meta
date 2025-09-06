@@ -7,7 +7,7 @@
     "license": "CC-BY-NC-SA",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/130576-11-realplume-stock-configs-continued-v0102-201649/",
-        "repository": "https://ghproxy.net/https://github.com/KSP-RO/RealPlume-StockConfigs"
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealPlume-StockConfigs"
     },
     "version": "v0.10.9",
     "ksp_version_min": "1.0.5",
@@ -94,7 +94,7 @@
             "install_to": "GameData/RealPlume"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSP-RO/RealPlume-StockConfigs/releases/download/v0.10.9/RealPlume-StockConfigs_v0.10.9.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealPlume-StockConfigs/releases/download/v0.10.9/RealPlume-StockConfigs_v0.10.9.zip",
     "download_size": 25296872,
     "download_hash": {
         "sha1": "C3C9832CAE6FD8E9F33ECD72DFA857D807F5F411",

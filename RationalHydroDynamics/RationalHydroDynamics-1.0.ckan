@@ -10,7 +10,7 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/200225-*/",
         "spacedock": "https://spacedock.info/mod/2635/Rational%20HydroDynamics",
-        "repository": "https://ghproxy.net/https://github.com/JadeOfMaar/RationalHydroDyanmics",
+        "repository": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/RationalHydroDyanmics",
         "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/RationalHydroDyanmics/main/GameData/RationalHydroDynamics/Version/RationalHydroDynamics.version",
         "x_screenshot": "https://spacedock.info/content/JadeOfMaar_11026/Rational_HydroDynamics/Rational_HydroDynamics-1612925887.876127.png"
     },

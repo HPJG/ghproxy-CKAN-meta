@@ -11,7 +11,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/184880-*",
-        "repository": "https://ghproxy.net/https://github.com/Galileo88/JNSQ",
+        "repository": "https://hk.gh-proxy.com/https://github.com/Galileo88/JNSQ",
         "metanetkan": "https://raw.githubusercontent.com/Galileo88/JNSQ/master/CKAN/JNSQ.netkan"
     },
     "tags": [
@@ -160,7 +160,7 @@
             "comment": "This correctly installs JNSQ"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Galileo88/JNSQ/releases/download/0.8.6/JNSQ.0.8.6.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Galileo88/JNSQ/releases/download/0.8.6/JNSQ.0.8.6.zip",
     "download_size": 1947651888,
     "download_hash": {
         "sha1": "8DAFFC288F5C7D625874C59AC280EBC958D21846",

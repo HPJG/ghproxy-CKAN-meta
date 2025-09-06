@@ -7,7 +7,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/166584-13x-signal-delay-011-2017-10-24/",
-        "repository": "https://ghproxy.net/https://github.com/GarwelGarwel/SignalDelay"
+        "repository": "https://hk.gh-proxy.com/https://github.com/GarwelGarwel/SignalDelay"
     },
     "version": "v0.2.0",
     "ksp_version": "1.3.1",
@@ -24,7 +24,7 @@
             "name": "Toolbar"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/GarwelGarwel/SignalDelay/releases/download/v0.2.0/SignalDelay_0.2.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/GarwelGarwel/SignalDelay/releases/download/v0.2.0/SignalDelay_0.2.0.zip",
     "download_size": 14091,
     "download_hash": {
         "sha1": "1BBF10DD22A641F1E589A980700A9B4B8C4E1FE9",

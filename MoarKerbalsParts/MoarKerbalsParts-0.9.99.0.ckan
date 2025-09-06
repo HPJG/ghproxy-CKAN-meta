@@ -11,10 +11,10 @@
     "resources": {
         "homepage": "https://www.curseforge.com/kerbal/ksp-mods/MoarKerbalsParts",
         "spacedock": "https://spacedock.info/mod/2898/MoarKerbalsParts",
-        "repository": "https://ghproxy.net/https://github.com/zer0Kerbal/MoarKerbalsParts",
-        "bugtracker": "https://ghproxy.net/https://github.com/zer0Kerbal/MoarKerbalsParts/issues",
-        "discussions": "https://ghproxy.net/https://github.com/zer0Kerbal/MoarKerbalsParts/discussions",
-        "remote-avc": "https://ghproxy.net/https://github.com/zer0Kerbal/MoarKerbalsParts/raw/master/MoarKerbalsParts.version",
+        "repository": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/MoarKerbalsParts",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/MoarKerbalsParts/issues",
+        "discussions": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/MoarKerbalsParts/discussions",
+        "remote-avc": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/MoarKerbalsParts/raw/master/MoarKerbalsParts.version",
         "x_screenshot": "https://spacedock.info/content/zer0Kerbal_21147/MoarKerbalsParts/MoarKerbalsParts-1637650873.jpg"
     },
     "tags": [

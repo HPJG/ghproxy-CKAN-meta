@@ -7,7 +7,7 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/85834-1",
-        "repository": "https://ghproxy.net/https://github.com/malahx/ZeroMiniAVC"
+        "repository": "https://hk.gh-proxy.com/https://github.com/malahx/ZeroMiniAVC"
     },
     "version": "v1.03",
     "ksp_version_min": "1.2.0",
@@ -17,7 +17,7 @@
             "name": "KSP-AVC"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/malahx/ZeroMiniAVC/releases/download/v1.03/ZeroMiniAVC-1.03.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/malahx/ZeroMiniAVC/releases/download/v1.03/ZeroMiniAVC-1.03.zip",
     "download_size": 29835,
     "download_hash": {
         "sha1": "A16A3EA9FA60979553E0B5C984C9C762FB9B530D",

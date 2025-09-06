@@ -21,8 +21,8 @@
     "license": "CC-BY-SA",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/50296-*",
-        "repository": "https://ghproxy.net/https://github.com/KSP-RO/DeadlyReentry",
-        "bugtracker": "https://ghproxy.net/https://github.com/KSP-RO/DeadlyReentry/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/DeadlyReentry",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-RO/DeadlyReentry/issues",
         "remote-avc": "https://raw.githubusercontent.com/KSP-RO/DeadlyReentry/master/DeadlyReentry/DeadlyReentry.version"
     },
     "tags": [
@@ -43,7 +43,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSP-RO/DeadlyReentry/releases/download/v8.1.0/DeadlyReentry_v8.1.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/DeadlyReentry/releases/download/v8.1.0/DeadlyReentry_v8.1.0.zip",
     "download_size": 820647,
     "download_hash": {
         "sha1": "C0054774CBB9D985AD934E55B472CDAAB532C600",

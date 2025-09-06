@@ -12,8 +12,8 @@
     "license": "restricted",
     "resources": {
         "homepage": "http://kerbokatz.github.io/",
-        "repository": "https://ghproxy.net/https://github.com/KerboKatz/SmallUtilities",
-        "bugtracker": "https://ghproxy.net/https://github.com/KerboKatz/SmallUtilities/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/KerboKatz/SmallUtilities",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KerboKatz/SmallUtilities/issues"
     },
     "tags": [
         "plugin"
@@ -35,7 +35,7 @@
             "install_to": "GameData/KerboKatz/SmallUtilities"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KerboKatz/SmallUtilities/releases/download/1.5.4-KSP1.8/SmallUtilities.FPSLimiter.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KerboKatz/SmallUtilities/releases/download/1.5.4-KSP1.8/SmallUtilities.FPSLimiter.zip",
     "download_size": 73739,
     "download_hash": {
         "sha1": "C06F4E05B9446BE8C1C363972DA23D5F6C9A7F95",

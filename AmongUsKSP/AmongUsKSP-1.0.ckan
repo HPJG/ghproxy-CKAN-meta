@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/203142-ksp-v111-among-us-in-ksp/",
         "spacedock": "https://spacedock.info/mod/2784/Among%20Us%20KSP",
-        "repository": "https://ghproxy.net/https://github.com/IsaQuest/AmongUsKSP",
-        "bugtracker": "https://ghproxy.net/https://github.com/IsaQuest/AmongUsKSP/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/IsaQuest/AmongUsKSP",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/IsaQuest/AmongUsKSP/issues",
         "x_screenshot": "https://spacedock.info/content/IsaQuest_62203/Among_Us_KSP/Among_Us_KSP-1624204528.4142766.jpeg"
     },
     "tags": [

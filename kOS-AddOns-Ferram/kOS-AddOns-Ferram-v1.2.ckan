@@ -8,8 +8,8 @@
     "ksp_version": "1.12",
     "license": "GPL-3.0",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/giuliodondi/kOS-Ferram",
-        "bugtracker": "https://ghproxy.net/https://github.com/giuliodondi/kOS-Ferram/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/giuliodondi/kOS-Ferram",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/giuliodondi/kOS-Ferram/issues"
     },
     "tags": [
         "plugin",

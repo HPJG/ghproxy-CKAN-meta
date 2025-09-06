@@ -10,11 +10,11 @@
         }
     ],
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/VenVen/Stock-Revamp"
+        "repository": "https://hk.gh-proxy.com/https://github.com/VenVen/Stock-Revamp"
     },
     "author": "VenVen",
     "version": "v1.7.0",
-    "download": "https://ghproxy.net/https://github.com/VenVen/Stock-Revamp/releases/download/v1.7.0/1.7.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/VenVen/Stock-Revamp/releases/download/v1.7.0/1.7.zip",
     "x_generated_by": "netkan",
     "download_size": 102672296,
     "ksp_version": "0.90.0"

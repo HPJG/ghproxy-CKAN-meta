@@ -14,8 +14,8 @@
     "ksp_version_max": "1.12.99",
     "license": "GPL-3.0",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/Tantares/Resurfaced",
-        "bugtracker": "https://ghproxy.net/https://github.com/Tantares/Resurfaced/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/Tantares/Resurfaced",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Tantares/Resurfaced/issues",
         "remote-avc": "https://raw.githubusercontent.com/Tantares/Resurfaced/master/resurfaced.version"
     },
     "tags": [
@@ -31,7 +31,7 @@
             "name": "Deferred"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Tantares/Resurfaced/releases/download/v1.3/resurfaced.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Tantares/Resurfaced/releases/download/v1.3/resurfaced.zip",
     "download_size": 1332793,
     "download_hash": {
         "sha1": "79D9253F1FC9DE885CDB4D0D0D224AB5CF44BDF0",

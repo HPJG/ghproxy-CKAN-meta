@@ -9,8 +9,8 @@
     "license": "MIT",
     "resources": {
         "spacedock": "https://spacedock.info/mod/2970/SpaceDustUnbound",
-        "repository": "https://ghproxy.net/https://github.com/Vexxel/SpaceDustUnbound",
-        "bugtracker": "https://ghproxy.net/https://github.com/Vexxel/SpaceDustUnbound/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/Vexxel/SpaceDustUnbound",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Vexxel/SpaceDustUnbound/issues",
         "remote-avc": "https://raw.githubusercontent.com:443/Vexxel/SpaceDustUnbound/main/Version/SpaceDustUnbound.version",
         "x_screenshot": "https://spacedock.info/content/Vexxel_76203/SpaceDustUnbound/SpaceDustUnbound-1643969459.png"
     },

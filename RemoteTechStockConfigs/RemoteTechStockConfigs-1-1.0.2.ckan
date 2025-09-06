@@ -10,8 +10,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/180968-16-remotetech-stockconfigs-v1002018-12-29/&tab=comments#comment-3512923",
-        "repository": "https://ghproxy.net/https://github.com/woeller/RemoteTech-StockConfigs",
-        "bugtracker": "https://ghproxy.net/https://github.com/woeller/RemoteTech-StockConfigs/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/woeller/RemoteTech-StockConfigs",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/woeller/RemoteTech-StockConfigs/issues",
         "remote-avc": "https://raw.githubusercontent.com/woeller/RemoteTech-StockConfigs/master/GameData/RTStock/RTStock.version"
     },
     "tags": [
@@ -32,7 +32,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/woeller/RemoteTech-StockConfigs/releases/download/1.0.2/RemoteTechStockConfigs.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/woeller/RemoteTech-StockConfigs/releases/download/1.0.2/RemoteTechStockConfigs.zip",
     "download_size": 3893,
     "download_hash": {
         "sha1": "3942EE38E7D6387925E98A1571389DCEAB5849C1",

@@ -10,8 +10,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/182372-*",
-        "repository": "https://ghproxy.net/https://github.com/severedsolo/FlightTracker",
-        "bugtracker": "https://ghproxy.net/https://github.com/severedsolo/FlightTracker/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/severedsolo/FlightTracker",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/severedsolo/FlightTracker/issues",
         "remote-avc": "https://raw.githubusercontent.com:443/severedsolo/FlightTracker/master/GameData/FlightTracker/FlightTracker.version"
     },
     "tags": [
@@ -24,7 +24,7 @@
             "name": "KerbalChangelog"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/severedsolo/FlightTracker/releases/download/3.0.0.2/FlightTracker.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/severedsolo/FlightTracker/releases/download/3.0.0.2/FlightTracker.zip",
     "download_size": 8597,
     "download_hash": {
         "sha1": "195FD78F892532B8840F96DA2B8C6285BE163962",

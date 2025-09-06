@@ -13,7 +13,7 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/152007-ksp-131-overdrive-lets-rock-revamp-ksp-ui/",
         "spacedock": "https://spacedock.info/mod/1572/UICore",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/KSP-UICore",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/KSP-UICore",
         "remote-avc": "http://ksp.spacetux.net/avc/UICore.version",
         "x_screenshot": "https://spacedock.info/content/RealGecko_4471/UICore/UICore-1509146663.8784165.png"
     },
@@ -33,7 +33,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/linuxgurugamer/KSP-UICore/releases/download/1.0.2/UICore-1.0.2.zip",
+        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/KSP-UICore/releases/download/1.0.2/UICore-1.0.2.zip",
         "https://spacedock.info/mod/1572/UICore/download/1.0.2"
     ],
     "download_size": 43128,

@@ -9,8 +9,8 @@
     "license": "restricted",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/173857-*",
-        "repository": "https://ghproxy.net/https://github.com/Angel-125/FlyingSaucers",
-        "bugtracker": "https://ghproxy.net/https://github.com/Angel-125/FlyingSaucers/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/Angel-125/FlyingSaucers",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Angel-125/FlyingSaucers/issues",
         "remote-avc": "https://raw.githubusercontent.com/Angel-125/FlyingSaucers/master/GameData/WildBlueIndustries/FlyingSaucers/KFS.version"
     },
     "tags": [
@@ -68,7 +68,7 @@
             "install_to": "Ships"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Angel-125/FlyingSaucers/releases/download/v1.0.0/KFS.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Angel-125/FlyingSaucers/releases/download/v1.0.0/KFS.zip",
     "download_size": 122206792,
     "download_hash": {
         "sha1": "CF8CF5A3179D15F0D8D00482959394E63F6AA04E",

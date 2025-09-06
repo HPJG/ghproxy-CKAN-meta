@@ -10,8 +10,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/225747-112x-minimalmainmenu",
-        "repository": "https://ghproxy.net/https://github.com/coldrifting/MinimalMainMenu",
-        "bugtracker": "https://ghproxy.net/https://github.com/coldrifting/MinimalMainMenu/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/coldrifting/MinimalMainMenu",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/coldrifting/MinimalMainMenu/issues"
     },
     "tags": [
         "plugin",
@@ -22,7 +22,7 @@
             "name": "Harmony2"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/coldrifting/MinimalMainMenu/releases/download/v1.1.0/MinimalMainMenu-v1.1.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/coldrifting/MinimalMainMenu/releases/download/v1.1.0/MinimalMainMenu-v1.1.0.zip",
     "download_size": 4117,
     "download_hash": {
         "sha1": "3695B4AE1BD9DB4277048B42C054720CF42F3567",

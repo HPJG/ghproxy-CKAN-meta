@@ -1,0 +1,22 @@
+{
+    "spec_version": 1,
+    "identifier": "BetterTimeWarp",
+    "name": "BetterTimeWarp",
+    "abstract": "BetterTimeWarp allows you to customize your time warp",
+    "author": "MrHappyFace",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/77565-BetterTimeWarp",
+        "repository": "https://hk.gh-proxy.com/https://github.com/HappyFaceIndustries/BetterTimeWarp"
+    },
+    "version": "2.2",
+    "ksp_version": "1.0.5",
+    "download": "https://hk.gh-proxy.com/https://github.com/HappyFaceIndustries/BetterTimeWarp/releases/download/2.2/BetterTimeWarp.v2.2.0.0.zip",
+    "download_size": 14705,
+    "download_hash": {
+        "sha1": "8807358C0E4CFE5E229BF2EC7EFC096B49024A66",
+        "sha256": "33201DC758D6E68AED0DF62AAEF259C838A02D5FA9766E64410663471635CBC0"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

@@ -6,7 +6,7 @@
     "author": "Galileo88",
     "license": "CC-BY-NC-ND",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/Galileo88/SSRSSContinued"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Galileo88/SSRSSContinued"
     },
     "version": "v0.0.2.8",
     "ksp_version_min": "1.2.2",
@@ -61,7 +61,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Galileo88/SSRSSContinued/releases/download/v0.0.2.8/SSRSS.v0.0.2.8.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Galileo88/SSRSSContinued/releases/download/v0.0.2.8/SSRSS.v0.0.2.8.zip",
     "download_size": 239644630,
     "download_hash": {
         "sha1": "A382EC21A8C2B0900C6C77B015FE7A2683615234",

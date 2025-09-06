@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/220879-sushuts-main-menu-mod-112x/",
         "spacedock": "https://spacedock.info/mod/3507/Sushut's%20Main%20Menu%20Mod",
-        "repository": "https://ghproxy.net/https://github.com/Sushutt/Sushuts-Main-Menu-Mod",
-        "bugtracker": "https://ghproxy.net/https://github.com/Sushutt/Sushuts-Main-Menu-Mod/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/Sushutt/Sushuts-Main-Menu-Mod",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Sushutt/Sushuts-Main-Menu-Mod/issues",
         "x_screenshot": "https://spacedock.info/content/Sushut_95985/Sushuts_Main_Menu_Mod/Sushuts_Main_Menu_Mod-1700358449.png"
     },
     "tags": [
@@ -25,7 +25,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/Sushutt/Sushuts-Main-Menu-Mod/releases/download/Release-1/SushutsMainMenu.zip",
+        "https://hk.gh-proxy.com/https://github.com/Sushutt/Sushuts-Main-Menu-Mod/releases/download/Release-1/SushutsMainMenu.zip",
         "https://spacedock.info/mod/3507/Sushut's%20Main%20Menu%20Mod/download/1"
     ],
     "download_size": 5677,

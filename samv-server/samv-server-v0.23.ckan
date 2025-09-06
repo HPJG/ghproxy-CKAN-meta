@@ -9,8 +9,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/69089-*",
-        "repository": "https://ghproxy.net/https://github.com/DanielKinsman/stand-alone-map-view",
-        "bugtracker": "https://ghproxy.net/https://github.com/DanielKinsman/stand-alone-map-view/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/DanielKinsman/stand-alone-map-view",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/DanielKinsman/stand-alone-map-view/issues"
     },
     "tags": [
         "plugin",
@@ -22,7 +22,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/DanielKinsman/stand-alone-map-view/releases/download/v0.23/release.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/DanielKinsman/stand-alone-map-view/releases/download/v0.23/release.zip",
     "download_size": 223443,
     "download_hash": {
         "sha1": "D2AFE37D0F05C90DE8A6ED845D656CB54AA97B25",

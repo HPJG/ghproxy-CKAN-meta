@@ -1,0 +1,42 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "BetterSRBs",
+    "name": "Better SR Bs",
+    "abstract": "BetterSRBs - a KSP mod.",
+    "author": "OhioBob",
+    "version": "1.1.0",
+    "ksp_version_min": "1.5.0",
+    "license": "CC-BY-NC-ND",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/175316-*",
+        "repository": "https://hk.gh-proxy.com/https://github.com/OhioBob/BetterSRBs"
+    },
+    "tags": [
+        "plugin",
+        "parts"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "SmartParts"
+        }
+    ],
+    "install": [
+        {
+            "find": "BetterSRBs",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://hk.gh-proxy.com/https://github.com/OhioBob/BetterSRBs/releases/download/1.1.0/BetterSRBs_1.1.0.zip",
+    "download_size": 2135684,
+    "download_hash": {
+        "sha1": "B710164B1DE63752CBF0D186FD0FAB0F21535032",
+        "sha256": "E50B59F109BFD9F10AC48BF2EBC01E72EDB005C07BCAC7841D52B4E36EF7820F"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

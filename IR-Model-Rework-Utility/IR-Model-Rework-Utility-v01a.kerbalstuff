@@ -1,6 +1,6 @@
 {
     "spec_version": "v1.4",
-    "comment": "These conflicts should be dependencies but https://ghproxy.net/https://github.com/KSP-CKAN/NetKAN/issues/932 happened",
+    "comment": "These conflicts should be dependencies but https://hk.gh-proxy.com/https://github.com/KSP-CKAN/NetKAN/issues/932 happened",
     "identifier": "IR-Model-Rework-Utility",
     "name": "Infernal Robotics Model Rework - Utility Pack",
     "abstract": "For all your actuation needs",

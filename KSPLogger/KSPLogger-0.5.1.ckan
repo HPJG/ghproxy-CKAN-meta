@@ -6,7 +6,7 @@
     "author": "linuxgurugamer",
     "license": "restricted",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/KSPLogger"
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/KSPLogger"
     },
     "version": "0.5.1",
     "ksp_version_min": "1.5.1",
@@ -21,7 +21,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/linuxgurugamer/KSPLogger/releases/download/0.5.1/KSPLogger-1.7.2-0.5.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/KSPLogger/releases/download/0.5.1/KSPLogger-1.7.2-0.5.1.zip",
     "download_size": 40600,
     "download_hash": {
         "sha1": "2746CD4BB4E4E9B85C6469209146CB6452E7E3C2",

@@ -7,7 +7,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/155313-122-kerbal-health-047-2017-03-01",
-        "repository": "https://ghproxy.net/https://github.com/GarwelGarwel/KerbalHealth"
+        "repository": "https://hk.gh-proxy.com/https://github.com/GarwelGarwel/KerbalHealth"
     },
     "version": "v0.5.2",
     "ksp_version": "1.2.2",
@@ -30,7 +30,7 @@
             "name": "UKS"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/GarwelGarwel/KerbalHealth/releases/download/v0.5.2/KerbalHealth_0.5.2.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/GarwelGarwel/KerbalHealth/releases/download/v0.5.2/KerbalHealth_0.5.2.zip",
     "download_size": 31813,
     "download_hash": {
         "sha1": "A78274CECC77FE42FEF4921B8AF9C21E2FC82FD7",

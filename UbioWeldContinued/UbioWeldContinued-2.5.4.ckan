@@ -13,8 +13,8 @@
     "license": "CC-BY-NC-SA-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/96670-*",
-        "repository": "https://ghproxy.net/https://github.com/UbioWeldingLtd/UbioWeldContinued",
-        "bugtracker": "https://ghproxy.net/https://github.com/UbioWeldingLtd/UbioWeldContinued/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/UbioWeldingLtd/UbioWeldContinued",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/UbioWeldingLtd/UbioWeldContinued/issues",
         "remote-avc": "https://raw.githubusercontent.com/UbioWeldingLtd/UbioWeldContinued/dev-1.0/GameData/UbioWeldingLtd/UbioWeldingLtd.version"
     },
     "tags": [
@@ -27,7 +27,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/UbioWeldingLtd/UbioWeldContinued/releases/download/2.5.4/UbioWeldContinued-2.5.4.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/UbioWeldingLtd/UbioWeldContinued/releases/download/2.5.4/UbioWeldContinued-2.5.4.zip",
     "download_size": 77528,
     "download_hash": {
         "sha1": "59930034302A15015122195D591177D173E4F266",

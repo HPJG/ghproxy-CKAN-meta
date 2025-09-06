@@ -14,8 +14,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/205846-*",
         "spacedock": "https://spacedock.info/mod/2915/Taerobee",
-        "repository": "https://ghproxy.net/https://github.com/zer0Kerbal/Taerobee",
-        "bugtracker": "https://ghproxy.net/https://github.com/zer0Kerbal/Taerobee/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/Taerobee",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/Taerobee/issues",
         "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/Taerobee/master/Taerobee.version",
         "x_screenshot": "https://spacedock.info/content/zer0Kerbal_21147/Taerobee/Taerobee-1638775365.jpg"
     },

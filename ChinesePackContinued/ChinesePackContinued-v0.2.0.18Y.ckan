@@ -1,0 +1,66 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "ChinesePackContinued",
+    "name": "Chinese Pack Continued",
+    "abstract": "A pack containing CZ-1, 2F, 3B and 5",
+    "author": "WavechaserX",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/124489-partwip-105dev-release-chinese-pack-continued-v02018y-now-with-cz-1-11-15-2015/",
+        "spacedock": "https://spacedock.info/mod/303/Chinese%20Pack%20Continued",
+        "repository": "https://hk.gh-proxy.com/https://github.com/Wavechaser/ChinesePackContinued",
+        "x_screenshot": "https://spacedock.info/content/WavechaserX_278/Chinese_Pack_Continued/Chinese_Pack_Continued-1456627274.6607413.png"
+    },
+    "version": "v0.2.0.18Y",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "RealSolarSystem"
+        },
+        {
+            "name": "FerramAerospaceResearch"
+        },
+        {
+            "name": "KerbalJointReinforcement"
+        },
+        {
+            "name": "CrewManifest"
+        },
+        {
+            "name": "RealFuels"
+        },
+        {
+            "name": "RealChute"
+        },
+        {
+            "name": "RealPlume"
+        }
+    ],
+    "install": [
+        {
+            "find": "KFStudios",
+            "install_to": "GameData",
+            "filter": ".DS_Store"
+        },
+        {
+            "find": "VAB",
+            "install_to": "Ships"
+        }
+    ],
+    "download": "https://spacedock.info/mod/303/Chinese%20Pack%20Continued/download/0.2.0.18Y",
+    "download_size": 20142686,
+    "download_hash": {
+        "sha1": "4FE4C1CF90989C1D11098941FD55696CAB211563",
+        "sha256": "AF83137592744CA3333BD9DE608B95F847C01C140AA54B121C578AA6949CDAAA"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

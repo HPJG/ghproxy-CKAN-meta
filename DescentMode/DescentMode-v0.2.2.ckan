@@ -7,7 +7,7 @@
     "license": "CC-BY-SA-4.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/160887-descent-mode/",
-        "repository": "https://ghproxy.net/https://github.com/infoman/DescentMode"
+        "repository": "https://hk.gh-proxy.com/https://github.com/infoman/DescentMode"
     },
     "version": "v0.2.2",
     "ksp_version_min": "1.4.0",
@@ -22,7 +22,7 @@
             "name": "RealismOverhaul"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/infoman/DescentMode/releases/download/v0.2.2/DescentMode.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/infoman/DescentMode/releases/download/v0.2.2/DescentMode.zip",
     "download_size": 11692,
     "download_hash": {
         "sha1": "703A94D3D183387EAA93BA0AEE2F3893A1FD9C73",

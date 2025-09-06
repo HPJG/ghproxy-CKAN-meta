@@ -11,8 +11,8 @@
     "license": "CC-BY-NC-ND-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/77855-*",
-        "repository": "https://ghproxy.net/https://github.com/KSP-RO/Skylab",
-        "bugtracker": "https://ghproxy.net/https://github.com/KSP-RO/Skylab/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/Skylab",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-RO/Skylab/issues",
         "remote-avc": "http://raw.githubusercontent.com/KSP-RO/Skylab/master/GameData/RN_Skylab/Skylab.version"
     },
     "tags": [
@@ -37,7 +37,7 @@
             "install_to": "Ships"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSP-RO/Skylab/releases/download/v1.8.6/RN_Skylab_v1.8.6.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/Skylab/releases/download/v1.8.6/RN_Skylab_v1.8.6.zip",
     "download_size": 7573065,
     "download_hash": {
         "sha1": "CE241E9C83B1C73496A454691DA0C31FE25F0EF8",

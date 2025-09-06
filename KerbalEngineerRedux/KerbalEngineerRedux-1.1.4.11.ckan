@@ -9,7 +9,7 @@
     ],
     "license": "GPL-3.0",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/jrbudda/KerbalEngineer"
+        "repository": "https://hk.gh-proxy.com/https://github.com/jrbudda/KerbalEngineer"
     },
     "version": "1.1.4.11",
     "ksp_version_min": "1.4.0",
@@ -20,7 +20,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/jrbudda/KerbalEngineer/releases/download/1.1.4.11/KerbalEngineer-1.1.4.11.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/jrbudda/KerbalEngineer/releases/download/1.1.4.11/KerbalEngineer-1.1.4.11.zip",
     "download_size": 934219,
     "download_hash": {
         "sha1": "95071F10181BBAD7352CB13A47560EDCB7F95251",

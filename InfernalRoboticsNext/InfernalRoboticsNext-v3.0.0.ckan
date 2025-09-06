@@ -16,7 +16,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/184787-*",
-        "repository": "https://ghproxy.net/https://github.com/meirumeiru/InfernalRobotics",
+        "repository": "https://hk.gh-proxy.com/https://github.com/meirumeiru/InfernalRobotics",
         "remote-avc": "https://raw.githubusercontent.com/meirumeiru/InfernalRobotics/develop/Resources/GameData/MagicSmokeIndustries/InfernalRobotics.version"
     },
     "tags": [
@@ -50,7 +50,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/meirumeiru/InfernalRobotics/releases/download/v3.0.0/InfernalRobotics_v3.0.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/meirumeiru/InfernalRobotics/releases/download/v3.0.0/InfernalRobotics_v3.0.0.zip",
     "download_size": 3267139,
     "download_hash": {
         "sha1": "9BF47074EB9CC9DD2C0EC2463B0ECA395BBFB577",

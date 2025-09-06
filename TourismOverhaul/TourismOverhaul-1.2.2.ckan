@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/226449-1125-tourism-overhaul-completely-revamps-tourism-contracts-v103-12202024/",
         "spacedock": "https://spacedock.info/mod/3788/Tourism%20Overhaul:%20Completely%20Revamps%20Tourism%20Contracts",
-        "repository": "https://ghproxy.net/https://github.com/iLikeGothMommys/TourismOverhaul",
-        "bugtracker": "https://ghproxy.net/https://github.com/iLikeGothMommys/TourismOverhaul/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/iLikeGothMommys/TourismOverhaul",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/iLikeGothMommys/TourismOverhaul/issues",
         "remote-avc": "https://raw.githubusercontent.com/iLikeGothMommys/TourismOverhaul/refs/heads/main/ContractPack-TourismOverhaul.version",
         "x_screenshot": "https://spacedock.info/content/iLikeGothMommys_144772/Tourism_Overhaul_Completely_Revamps_Tourism_Contracts/Tourism_Overhaul_Completely_Revamps_Tourism_Contracts-1734890272.png"
     },
@@ -40,7 +40,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/iLikeGothMommys/TourismOverhaul/releases/download/Release1.2.2/TourismOverhaul-1.2.2.zip",
+        "https://hk.gh-proxy.com/https://github.com/iLikeGothMommys/TourismOverhaul/releases/download/Release1.2.2/TourismOverhaul-1.2.2.zip",
         "https://spacedock.info/mod/3788/Tourism%20Overhaul:%20Completely%20Revamps%20Tourism%20Contracts/download/1.2.2"
     ],
     "download_size": 132238,

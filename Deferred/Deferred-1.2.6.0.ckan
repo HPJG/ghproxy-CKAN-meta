@@ -9,9 +9,9 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://www.patreon.com/posts/deferred-106557481",
-        "repository": "https://ghproxy.net/https://github.com/LGhassen/Deferred",
-        "bugtracker": "https://ghproxy.net/https://github.com/LGhassen/Deferred/issues",
-        "manual": "https://ghproxy.net/https://github.com/LGhassen/Deferred/blob/master/Readme.md",
+        "repository": "https://hk.gh-proxy.com/https://github.com/LGhassen/Deferred",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/LGhassen/Deferred/issues",
+        "manual": "https://hk.gh-proxy.com/https://github.com/LGhassen/Deferred/blob/master/Readme.md",
         "x_screenshot": "https://i.imgur.com/kraUQIz.png"
     },
     "tags": [
@@ -47,7 +47,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/LGhassen/Deferred/releases/download/1.2.6.0/Deferred_1.2.6.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/LGhassen/Deferred/releases/download/1.2.6.0/Deferred_1.2.6.0.zip",
     "download_size": 1333886,
     "download_hash": {
         "sha1": "3FA1BCB7A49E5A62114F32928A706674AEF803B0",

@@ -7,7 +7,7 @@
     "license": "restricted",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/115114-sb/",
-        "repository": "https://ghproxy.net/https://github.com/Sigma88/Sigma-Binary"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Sigma88/Sigma-Binary"
     },
     "version": "1:v1.6.11",
     "ksp_version": "1.3.1",
@@ -30,7 +30,7 @@
             "install_to": "GameData/Sigma"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Sigma88/Sigma-Binary/releases/download/v1.6.11/Sigma-Binary.v1.6.11.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Sigma88/Sigma-Binary/releases/download/v1.6.11/Sigma-Binary.v1.6.11.zip",
     "download_size": 769807,
     "download_hash": {
         "sha1": "AE1D75FA3C1D0C4EF94BEFBF9F8FDDE7C480F690",

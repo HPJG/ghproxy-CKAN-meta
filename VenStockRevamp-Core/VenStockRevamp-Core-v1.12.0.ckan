@@ -10,7 +10,7 @@
     "license": "CC-BY-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/189732-*",
-        "repository": "https://ghproxy.net/https://github.com/Kerbas-ad-astra/Stock-Revamp"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Kerbas-ad-astra/Stock-Revamp"
     },
     "version": "v1.12.0",
     "ksp_version": "1.6.1",
@@ -41,7 +41,7 @@
             ]
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Kerbas-ad-astra/Stock-Revamp/releases/download/v1.12.0/VenStockRevamp-v1.12.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Kerbas-ad-astra/Stock-Revamp/releases/download/v1.12.0/VenStockRevamp-v1.12.0.zip",
     "download_size": 116554305,
     "download_hash": {
         "sha1": "6D3780A4C631024CC2005FAC0DB324B26DCB7E18",

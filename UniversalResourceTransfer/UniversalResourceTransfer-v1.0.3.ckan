@@ -13,8 +13,8 @@
     "license": "Unlicense",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/225642-universal-resource-transfer-beamed-power-standalone-for-any-resource",
-        "repository": "https://ghproxy.net/https://github.com/ProgrammerFailure/Universal-Resource-Transfer",
-        "bugtracker": "https://ghproxy.net/https://github.com/ProgrammerFailure/Universal-Resource-Transfer/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/ProgrammerFailure/Universal-Resource-Transfer",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/ProgrammerFailure/Universal-Resource-Transfer/issues",
         "remote-avc": "https://raw.githubusercontent.com:443/ProgrammerFailure/Universal-Resource-Transfer/master/UniversalResourceTransfer.version"
     },
     "tags": [
@@ -35,7 +35,7 @@
             "name": "BeamedPowerPlugin"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/ProgrammerFailure/Universal-Resource-Transfer/releases/download/v1.0.3/UniversalResourceTransfer.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/ProgrammerFailure/Universal-Resource-Transfer/releases/download/v1.0.3/UniversalResourceTransfer.zip",
     "download_size": 2600513,
     "download_hash": {
         "sha1": "3C1E62407E197796CBF4E52346FFF86EAB3B0D75",

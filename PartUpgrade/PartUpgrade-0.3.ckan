@@ -7,7 +7,7 @@
     "license": "CC-BY-4.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/123323",
-        "repository": "https://ghproxy.net/https://github.com/supermerill/KspPartUpgrade"
+        "repository": "https://hk.gh-proxy.com/https://github.com/supermerill/KspPartUpgrade"
     },
     "version": "0.3",
     "ksp_version": "1.0.4",
@@ -17,7 +17,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/supermerill/KspPartUpgrade/releases/download/0.3/PartUpgrade_beta_v0.3.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/supermerill/KspPartUpgrade/releases/download/0.3/PartUpgrade_beta_v0.3.zip",
     "download_size": 12919,
     "download_hash": {
         "sha1": "63EB5CEB7408065D9381B4725493359B6550EB7F",

@@ -14,8 +14,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/161096-12-13-beta-release-mk25-spaceplane-parts-rebuilt-expanded/",
         "spacedock": "https://spacedock.info/mod/194/Mk2.5%20Spaceplane%20Parts",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/Mk2.5_Spaceplane_Parts",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/Mk2.5_Spaceplane_Parts/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/Mk2.5_Spaceplane_Parts",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/Mk2.5_Spaceplane_Parts/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/Mk2.5Spaceplane",
         "x_screenshot": "https://spacedock.info/content/RaginCaucasian_947/Mk2.5_Spaceplane_Parts/Mk2.5_Spaceplane_Parts-1455934706.0523272.png"
     },
@@ -45,7 +45,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/linuxgurugamer/Mk2.5_Spaceplane_Parts/releases/download/1.5.3.1/Mk2.5_Spaceplane_Parts-1.5.3.1.zip",
+        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/Mk2.5_Spaceplane_Parts/releases/download/1.5.3.1/Mk2.5_Spaceplane_Parts-1.5.3.1.zip",
         "https://spacedock.info/mod/194/Mk2.5%20Spaceplane%20Parts/download/1.5.3.1"
     ],
     "download_size": 3471292,

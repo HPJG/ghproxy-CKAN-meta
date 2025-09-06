@@ -9,7 +9,7 @@
     "ksp_version_max": "1.9.9",
     "license": "Unlicense",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/Standecco/ROKerbalism"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Standecco/ROKerbalism"
     },
     "tags": [
         "config",
@@ -64,7 +64,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Standecco/ROKerbalism/releases/download/v0.9/GameData.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Standecco/ROKerbalism/releases/download/v0.9/GameData.zip",
     "download_size": 3695819,
     "download_hash": {
         "sha1": "8EEE7A8759515820CE896A8B9367959B6336EBE4",

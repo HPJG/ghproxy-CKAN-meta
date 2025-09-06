@@ -10,8 +10,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/147010-*",
-        "repository": "https://ghproxy.net/https://github.com/severedsolo/MonthlyBudgets",
-        "bugtracker": "https://ghproxy.net/https://github.com/severedsolo/MonthlyBudgets/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/severedsolo/MonthlyBudgets",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/severedsolo/MonthlyBudgets/issues",
         "remote-avc": "https://raw.githubusercontent.com:443/severedsolo/MonthlyBudgets/master/MonthlyBudgets/bin/Release/GameData/MonthlyBudgets/MonthlyBudgets.version"
     },
     "tags": [
@@ -37,7 +37,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/severedsolo/MonthlyBudgets/releases/download/5.0.1/MonthlyBudgets.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/severedsolo/MonthlyBudgets/releases/download/5.0.1/MonthlyBudgets.zip",
     "download_size": 32035,
     "download_hash": {
         "sha1": "0BC03F7C33DA3D8CCDF3CDE681C60C4B4EAE03EB",

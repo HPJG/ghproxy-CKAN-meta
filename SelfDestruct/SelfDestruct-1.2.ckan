@@ -9,8 +9,8 @@
     "license": "MIT",
     "resources": {
         "spacedock": "https://spacedock.info/mod/3194/Self%20Destruct",
-        "repository": "https://ghproxy.net/https://github.com/jacobcargen/Self-Destruct-Mod",
-        "bugtracker": "https://ghproxy.net/https://github.com/jacobcargen/Self-Destruct-Mod/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/jacobcargen/Self-Destruct-Mod",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/jacobcargen/Self-Destruct-Mod/issues",
         "x_screenshot": "https://spacedock.info/content/jacobcargen_99590/Self_Destruct/Self_Destruct-1673575249.png"
     },
     "tags": [
@@ -31,7 +31,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/jacobcargen/Self-Destruct-Mod/releases/download/v1.2/Self.Destruct.Mod.1.2.zip",
+        "https://hk.gh-proxy.com/https://github.com/jacobcargen/Self-Destruct-Mod/releases/download/v1.2/Self.Destruct.Mod.1.2.zip",
         "https://spacedock.info/mod/3194/Self%20Destruct/download/1.2"
     ],
     "download_size": 3314,

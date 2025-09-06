@@ -14,8 +14,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/174510-14-diazos-landing-height/",
         "spacedock": "https://spacedock.info/mod/1844/Diazo's%20Landing%20Height",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/LandingHeight",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/LandingHeight/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/LandingHeight",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/LandingHeight/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/LandingHeight"
     },
     "tags": [
@@ -37,7 +37,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/linuxgurugamer/LandingHeight/releases/download/2.3.0.1/Diazos_Landing_Height-2.3.0.1.zip",
+        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/LandingHeight/releases/download/2.3.0.1/Diazos_Landing_Height-2.3.0.1.zip",
         "https://spacedock.info/mod/1844/Diazo's%20Landing%20Height/download/2.3.0.1"
     ],
     "download_size": 21746,

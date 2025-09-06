@@ -17,8 +17,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?showtopic=58236",
-        "repository": "https://ghproxy.net/https://github.com/KSP-RO/RealFuels",
-        "bugtracker": "https://ghproxy.net/https://github.com/KSP-RO/RealFuels/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealFuels",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealFuels/issues",
         "metanetkan": "https://raw.githubusercontent.com/KSP-RO/RealFuels/master/NetKAN/RealFuels.netkan",
         "remote-avc": "https://raw.githubusercontent.com/KSP-RO/RealFuels/master/RealFuels/RealFuels.version"
     },
@@ -69,7 +69,7 @@
             "filter": ".DS_Store"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSP-RO/RealFuels/releases/download/v15.5.0.0/RealFuels_v15.5.0.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealFuels/releases/download/v15.5.0.0/RealFuels_v15.5.0.0.zip",
     "download_size": 210843,
     "download_hash": {
         "sha1": "DC84BADCAF907C56F0805D63F8C878C91D30B00F",

@@ -10,8 +10,8 @@
     "license": "Unlicense",
     "resources": {
         "homepage": "https://kerbalism.github.io/Kerbalism",
-        "repository": "https://ghproxy.net/https://github.com/Kerbalism/Kerbalism",
-        "bugtracker": "https://ghproxy.net/https://github.com/Kerbalism/Kerbalism/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Kerbalism/Kerbalism",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Kerbalism/Kerbalism/issues"
     },
     "tags": [
         "plugin",
@@ -76,7 +76,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Kerbalism/Kerbalism/releases/download/3.11/Kerbalism-Core_v3.11_for_KSP1.5.0-1.10.9.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Kerbalism/Kerbalism/releases/download/3.11/Kerbalism-Core_v3.11_for_KSP1.5.0-1.10.9.zip",
     "download_size": 1502607,
     "download_hash": {
         "sha1": "9DC1C7D5923CCF0B2051F319709CA9F8FAEC55FF",

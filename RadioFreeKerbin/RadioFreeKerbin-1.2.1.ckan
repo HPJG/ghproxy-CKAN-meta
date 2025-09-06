@@ -13,8 +13,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/142941-1",
         "spacedock": "http://spacedock.info/mod/818/Radio%20Free%20Kerbin",
-        "repository": "https://ghproxy.net/https://github.com/benjwgarner/RadioFreeKerbin",
-        "bugtracker": "https://ghproxy.net/https://github.com/benjwgarner/RadioFreeKerbin/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/benjwgarner/RadioFreeKerbin",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/benjwgarner/RadioFreeKerbin/issues",
         "remote-avc": "https://raw.githubusercontent.com/benjwgarner/RadioFreeKerbin/master/GameData/RadioFreeKerbin/RadioFreeKerbin.version",
         "x_screenshot": "https://i.imgur.com/7WyuRZQ.png"
     },
@@ -42,7 +42,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/benjwgarner/RadioFreeKerbin/releases/download/v1.2.1/RadioFreeKerbin_v1.2.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/benjwgarner/RadioFreeKerbin/releases/download/v1.2.1/RadioFreeKerbin_v1.2.1.zip",
     "download_size": 41428,
     "download_hash": {
         "sha1": "5E93A157F773522440464947016AA767612D8214",

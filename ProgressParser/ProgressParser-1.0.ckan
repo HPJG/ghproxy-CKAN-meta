@@ -7,7 +7,7 @@
     "author": "DMagic1",
     "license": "MIT",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/DMagic1/KSP_Progress_Parser"
+        "repository": "https://hk.gh-proxy.com/https://github.com/DMagic1/KSP_Progress_Parser"
     },
     "version": "1.0",
     "ksp_version": "1.0.5",
@@ -17,7 +17,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/DMagic1/KSP_Progress_Parser/releases/download/1.0/ProgressParser-1.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/DMagic1/KSP_Progress_Parser/releases/download/1.0/ProgressParser-1.0.zip",
     "download_size": 14765,
     "download_hash": {
         "sha1": "794EFE7DF85027640951C2F7E81FFD31E3818BEA",

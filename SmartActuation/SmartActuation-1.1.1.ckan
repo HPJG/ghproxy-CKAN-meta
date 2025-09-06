@@ -9,8 +9,8 @@
     "license": "CC-BY-NC-SA",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/160109-*",
-        "repository": "https://ghproxy.net/https://github.com/nagleaidan/SmartActuation",
-        "bugtracker": "https://ghproxy.net/https://github.com/nagleaidan/SmartActuation/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/nagleaidan/SmartActuation",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/nagleaidan/SmartActuation/issues",
         "remote-avc": "https://raw.githubusercontent.com/theRagingIrishman/SmartActuation/master/SmartActuation.version"
     },
     "tags": [
@@ -23,7 +23,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/nagleaidan/SmartActuation/releases/download/1.1.1/SmartActuation_1.1.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/nagleaidan/SmartActuation/releases/download/1.1.1/SmartActuation_1.1.1.zip",
     "download_size": 13973,
     "download_hash": {
         "sha1": "F217C6BD79AE099DDF1A53278986D7A689002BEC",

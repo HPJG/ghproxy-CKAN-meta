@@ -10,7 +10,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/150589-*",
-        "repository": "https://ghproxy.net/https://github.com/SpaceShipShipYardEnterprises/SpaceDock"
+        "repository": "https://hk.gh-proxy.com/https://github.com/SpaceShipShipYardEnterprises/SpaceDock"
     },
     "tags": [
         "parts"

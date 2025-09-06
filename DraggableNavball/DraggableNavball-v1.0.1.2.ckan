@@ -11,9 +11,9 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/150992-12-draggable-navball-100/",
         "spacedock": "https://spacedock.info/mod/1024/Draggable%20Navball",
-        "repository": "https://ghproxy.net/https://github.com/andrew-vant/dragnav",
-        "bugtracker": "https://ghproxy.net/https://github.com/andrew-vant/dragnav/issues",
-        "remote-avc": "https://ghproxy.net/https://github.com/andrew-vant/dragnav/master/DraggableNavball.version"
+        "repository": "https://hk.gh-proxy.com/https://github.com/andrew-vant/dragnav",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/andrew-vant/dragnav/issues",
+        "remote-avc": "https://hk.gh-proxy.com/https://github.com/andrew-vant/dragnav/master/DraggableNavball.version"
     },
     "tags": [
         "plugin",

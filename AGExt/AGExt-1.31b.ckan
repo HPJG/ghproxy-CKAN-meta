@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/74195",
-        "repository": "https://ghproxy.net/https://github.com/SirDiazo/AGExt"
+        "repository": "https://hk.gh-proxy.com/https://github.com/SirDiazo/AGExt"
     },
     "version": "1.31b",
     "ksp_version": "0.90",
@@ -28,7 +28,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/SirDiazo/AGExt/releases/download/1.31b/ActionGroupsExtended131b.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/SirDiazo/AGExt/releases/download/1.31b/ActionGroupsExtended131b.zip",
     "download_size": 79091,
     "download_hash": {
         "sha1": "660D9E5B046AD96D9B7CD7A48F24AB86BA6478FF",

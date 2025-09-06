@@ -14,8 +14,8 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?showtopic=192130",
-        "repository": "https://ghproxy.net/https://github.com/codepoetpbowden/ConnectedLivingSpace",
-        "bugtracker": "https://ghproxy.net/https://github.com/codepoetpbowden/ConnectedLivingSpace/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/codepoetpbowden/ConnectedLivingSpace",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/codepoetpbowden/ConnectedLivingSpace/issues"
     },
     "tags": [
         "plugin",
@@ -33,7 +33,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/codepoetpbowden/ConnectedLivingSpace/releases/download/2.0.0.3/ConnectedLivingSpace-2.0.0.3_20200304205102.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/codepoetpbowden/ConnectedLivingSpace/releases/download/2.0.0.3/ConnectedLivingSpace-2.0.0.3_20200304205102.zip",
     "download_size": 99357,
     "download_hash": {
         "sha1": "F761BE36B8B3D5EB4FEAD02CD826EC814D01A32B",

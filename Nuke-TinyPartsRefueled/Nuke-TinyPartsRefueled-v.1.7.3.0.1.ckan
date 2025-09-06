@@ -13,8 +13,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/21466-*",
         "spacedock": "https://spacedock.info/mod/2175/Nuke%20Refueled",
-        "repository": "https://ghproxy.net/https://github.com/zer0Kerbal/NukeRefueled",
-        "bugtracker": "https://ghproxy.net/https://github.com/zer0Kerbal/NukeRefueled/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/NukeRefueled",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/NukeRefueled/issues",
         "x_screenshot": "https://spacedock.info/content/zer0Kerbal_21147/Nuke_Refueled/Nuke_Refueled-1562044828.1088588.png"
     },
     "tags": [

@@ -10,8 +10,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/179579-wip15x-rocket-sound-enhancement-pre-v100/",
-        "repository": "https://ghproxy.net/https://github.com/ensou04/RocketSoundEnhancement",
-        "bugtracker": "https://ghproxy.net/https://github.com/ensou04/RocketSoundEnhancement/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/ensou04/RocketSoundEnhancement",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/ensou04/RocketSoundEnhancement/issues"
     },
     "tags": [
         "plugin",
@@ -28,7 +28,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/ensou04/RocketSoundEnhancement/releases/download/0.5.1/RocketSoundEnhancement-v0.5.1-Plugin.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/ensou04/RocketSoundEnhancement/releases/download/0.5.1/RocketSoundEnhancement-v0.5.1-Plugin.zip",
     "download_size": 31749,
     "download_hash": {
         "sha1": "2B4AB196D5A092F66861B3BFA2F5C29EFC14A284",

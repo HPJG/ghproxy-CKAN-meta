@@ -1,0 +1,34 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "CarcharothAeronautics",
+    "name": "Carcharoth Aeronautics",
+    "abstract": "Little expansion for BahamutoD's Armory and other things",
+    "author": "Carcharoth",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/132306-WIP-Carcharoth-Aeronautics-BDArmory-expansion-and-more-V0-01",
+        "kerbalstuff": "https://kerbalstuff.com/mod/1127/Carcharoth%20Aeronautics",
+        "x_screenshot": "https://kerbalstuff.com/content/Carcharoth_14248/Carcharoth_Aeronautics/Carcharoth_Aeronautics-1440954039.5617309.jpg"
+    },
+    "version": "0.04",
+    "ksp_version": "1.0.4",
+    "depends": [
+        {
+            "name": "BDArmory"
+        }
+    ],
+    "install": [
+        {
+            "find": "Carcharoth Aeronautics",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/CarcharothAeronautics-0.04/5B69D8AB-CarcharothAeronautics-0.04.zip",
+    "download_size": 5283922,
+    "download_hash": {
+        "sha1": "5B69D8AB9CB56C01C221684E79552C502C020C9A",
+        "sha256": "FB633424D3CC79689FDE99916421C73122FED8556B6BBE56685072837265EF80"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

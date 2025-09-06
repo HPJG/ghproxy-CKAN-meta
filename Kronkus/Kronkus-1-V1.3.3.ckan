@@ -9,7 +9,7 @@
     "license": "CC0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/119202",
-        "repository": "https://ghproxy.net/https://github.com/MrChumley/Kronkus"
+        "repository": "https://hk.gh-proxy.com/https://github.com/MrChumley/Kronkus"
     },
     "version": "1:V1.3.3",
     "ksp_version": "1.3",
@@ -34,7 +34,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/MrChumley/Kronkus/releases/download/V1.3.3/KronkusV1-3-3.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/MrChumley/Kronkus/releases/download/V1.3.3/KronkusV1-3-3.zip",
     "download_size": 36304532,
     "download_hash": {
         "sha1": "D8828C401127D26DB1E6F32ABC996648F3979673",

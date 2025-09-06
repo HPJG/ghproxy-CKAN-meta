@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/142941-113-mm-radio-free-kerbin-v101-01-jul-2016-data-transmission-for-crewed-command-parts/",
         "spacedock": "http://spacedock.info/mod/818/Radio%20Free%20Kerbin",
-        "repository": "https://ghproxy.net/https://github.com/benjwgarner/RadioFreeKerbin",
-        "bugtracker": "https://ghproxy.net/https://github.com/benjwgarner/RadioFreeKerbin/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/benjwgarner/RadioFreeKerbin",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/benjwgarner/RadioFreeKerbin/issues"
     },
     "version": "1.0.1",
     "ksp_version_min": "1.1.3",
@@ -36,7 +36,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/benjwgarner/RadioFreeKerbin/releases/download/v1.0.1/RadioFreeKerbin_v1.0.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/benjwgarner/RadioFreeKerbin/releases/download/v1.0.1/RadioFreeKerbin_v1.0.1.zip",
     "download_size": 31713,
     "download_hash": {
         "sha1": "65ABA8A03563471D9BD6EC8E2A2E0D35181A55A2",

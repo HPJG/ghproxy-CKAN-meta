@@ -10,8 +10,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/183500-*",
-        "repository": "https://ghproxy.net/https://github.com/Capital-Asterisk/KSP_GroundEffect",
-        "bugtracker": "https://ghproxy.net/https://github.com/Capital-Asterisk/KSP_GroundEffect/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Capital-Asterisk/KSP_GroundEffect",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Capital-Asterisk/KSP_GroundEffect/issues"
     },
     "tags": [
         "plugin",
@@ -28,7 +28,7 @@
             "install_to": "GameData/GroundEffect"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Capital-Asterisk/KSP_GroundEffect/releases/download/v1.1.1-catalpa/GroundEffect.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Capital-Asterisk/KSP_GroundEffect/releases/download/v1.1.1-catalpa/GroundEffect.zip",
     "download_size": 4371,
     "download_hash": {
         "sha1": "215F7CE14DB9A596733109E944B0B334A77B5151",

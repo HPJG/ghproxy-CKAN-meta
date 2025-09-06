@@ -8,8 +8,8 @@
     "ksp_version": "1.12.5",
     "license": "MIT",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/JadeOfMaar/VABOrganizer-Jade",
-        "bugtracker": "https://ghproxy.net/https://github.com/JadeOfMaar/VABOrganizer-Jade/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/VABOrganizer-Jade",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/VABOrganizer-Jade/issues",
         "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/VABOrganizer-Jade/main/GameData/VABOrganizer-Jade/Version/VABOrganizer-Jade.version"
     },
     "install": [
@@ -18,7 +18,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/JadeOfMaar/VABOrganizer-Jade/releases/download/1.1/VABOrganizer-Jade-1.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/VABOrganizer-Jade/releases/download/1.1/VABOrganizer-Jade-1.1.zip",
     "download_size": 15627,
     "download_hash": {
         "sha1": "70451FE3F5EA21FFFBC9E3651014DACEC424E7E6",

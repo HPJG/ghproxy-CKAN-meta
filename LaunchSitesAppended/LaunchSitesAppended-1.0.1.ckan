@@ -10,7 +10,7 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/216527-112xlaunch-sites-appended-a-kerbal-konstructs-scenery-pack/",
         "spacedock": "https://spacedock.info/mod/3361/Launch%20Sites%20Appended%20(for%20Kerbal%20Konstructs)",
-        "repository": "https://ghproxy.net/https://github.com/TedThompson/Launch-Sites-Appended",
+        "repository": "https://hk.gh-proxy.com/https://github.com/TedThompson/Launch-Sites-Appended",
         "x_screenshot": "https://spacedock.info/content/TG626_1683/Launch_Sites_Appended/Launch_Sites_Appended-1681513756.png"
     },
     "tags": [
@@ -41,7 +41,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/TedThompson/Launch-Sites-Appended/releases/download/1.0.1/LaunchSitesAppended.1.0.1.zip",
+        "https://hk.gh-proxy.com/https://github.com/TedThompson/Launch-Sites-Appended/releases/download/1.0.1/LaunchSitesAppended.1.0.1.zip",
         "https://spacedock.info/mod/3361/Launch%20Sites%20Appended%20(for%20Kerbal%20Konstructs)/download/1.0.1"
     ],
     "download_size": 10548217,

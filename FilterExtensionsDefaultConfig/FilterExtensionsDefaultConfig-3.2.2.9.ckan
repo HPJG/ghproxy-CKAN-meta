@@ -7,7 +7,7 @@
     "license": "CC-BY-NC-SA-4.0",
     "release_status": "stable",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/FilterExtension"
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/FilterExtension"
     },
     "version": "3.2.2.9",
     "ksp_version_min": "1.4.1",
@@ -27,7 +27,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/linuxgurugamer/FilterExtension/releases/download/3.2.2.9/FilterExtension-3.2.2.9.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/FilterExtension/releases/download/3.2.2.9/FilterExtension-3.2.2.9.zip",
     "download_size": 787731,
     "download_hash": {
         "sha1": "241A6ABC99654ACBC59324F2F4D73D1892130A59",

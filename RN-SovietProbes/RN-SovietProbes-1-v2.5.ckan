@@ -8,7 +8,7 @@
     "license": "CC-BY-NC-ND-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/79433-122-131-soviet-probes-soviet-rockets-r7soyuzprotonzenit-4-2-18/",
-        "repository": "https://ghproxy.net/https://github.com/KSP-RO/SovietProbes"
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/SovietProbes"
     },
     "version": "1:v2.5",
     "ksp_version_min": "1.2.0",
@@ -39,7 +39,7 @@
             "install_to": "Ships"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSP-RO/SovietProbes/releases/download/v2.5/RN_Soviet_Probes_v2.5.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/SovietProbes/releases/download/v2.5/RN_Soviet_Probes_v2.5.zip",
     "download_size": 25790193,
     "download_hash": {
         "sha1": "961730916B0978916817CBA563988F29A6034DC8",

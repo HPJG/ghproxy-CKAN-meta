@@ -8,8 +8,8 @@
     "ksp_version_min": "1.12.2",
     "license": "GPL-3.0",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/Angel-125/WildBlueTools",
-        "bugtracker": "https://ghproxy.net/https://github.com/Angel-125/WildBlueTools/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/Angel-125/WildBlueTools",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Angel-125/WildBlueTools/issues",
         "remote-avc": "https://raw.githubusercontent.com/Angel-125/WildBlueTools/master/GameData/WildBlueIndustries/000WildBlueTools/WildBlueTools.version"
     },
     "tags": [
@@ -40,7 +40,7 @@
             "install_to": "GameData/WildBlueIndustries/000WildBlueTools/Templates"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Angel-125/WildBlueTools/releases/download/v1.89.0/WildBlueTools.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Angel-125/WildBlueTools/releases/download/v1.89.0/WildBlueTools.zip",
     "download_size": 22102736,
     "download_hash": {
         "sha1": "E0790A4A87BEED705E2536C57D3284B57C9E16FF",

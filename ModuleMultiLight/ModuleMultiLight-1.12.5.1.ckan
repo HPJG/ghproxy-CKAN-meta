@@ -13,8 +13,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/214228-module-multi-light/",
         "spacedock": "https://spacedock.info/mod/3294/Module%20Multi%20Light",
-        "repository": "https://ghproxy.net/https://github.com/drkhodakarami/Module-Multi-Light",
-        "bugtracker": "https://ghproxy.net/https://github.com/drkhodakarami/Module-Multi-Light/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/drkhodakarami/Module-Multi-Light",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/drkhodakarami/Module-Multi-Light/issues"
     },
     "tags": [
         "plugin"

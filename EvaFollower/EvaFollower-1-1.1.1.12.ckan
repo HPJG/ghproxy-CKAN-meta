@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/167310-131-eva-follower/",
         "spacedock": "https://spacedock.info/mod/1582/EvaFollower",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/EvaFollower",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/EvaFollower/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/EvaFollower",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/EvaFollower/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/EvaFollower"
     },
     "tags": [

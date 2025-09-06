@@ -10,8 +10,8 @@
     "license": "BSD-2-clause",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/128303-*",
-        "repository": "https://ghproxy.net/https://github.com/radistmorse/KSPPreciseManeuver",
-        "bugtracker": "https://ghproxy.net/https://github.com/radistmorse/KSPPreciseManeuver/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/radistmorse/KSPPreciseManeuver",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/radistmorse/KSPPreciseManeuver/issues",
         "remote-avc": "https://raw.githubusercontent.com/radistmorse/KSPPreciseManeuver/master/PreciseManeuver.version"
     },
     "tags": [
@@ -31,7 +31,7 @@
             "name": "PreciseNode"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/radistmorse/KSPPreciseManeuver/releases/download/2.4.4/PreciseManeuver.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/radistmorse/KSPPreciseManeuver/releases/download/2.4.4/PreciseManeuver.zip",
     "download_size": 116174,
     "download_hash": {
         "sha1": "F936499264D68F8E9985AF45640B1DD77A07E122",

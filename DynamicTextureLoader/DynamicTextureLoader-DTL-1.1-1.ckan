@@ -7,11 +7,11 @@
     "license": "MIT",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/128660-1051-0-dec-25-2015-dynamic-texture-loader/",
-        "repository": "https://ghproxy.net/https://github.com/rbray89/DynamicTextureLoader"
+        "repository": "https://hk.gh-proxy.com/https://github.com/rbray89/DynamicTextureLoader"
     },
     "version": "DTL-1.1-1",
     "ksp_version": "1.0.5",
-    "download": "https://ghproxy.net/https://github.com/rbray89/DynamicTextureLoader/releases/download/DTL-1.1-1/AnyCPU-DynamicTextureLoader-Release.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/rbray89/DynamicTextureLoader/releases/download/DTL-1.1-1/AnyCPU-DynamicTextureLoader-Release.zip",
     "download_size": 14179,
     "download_hash": {
         "sha1": "15EC07FEE84A60FBE512A9CFAAEE9C384977F3B2",

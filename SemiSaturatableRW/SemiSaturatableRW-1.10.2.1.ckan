@@ -7,7 +7,7 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/116888",
-        "repository": "https://ghproxy.net/https://github.com/Crzyrndm/RW-Saturatable"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Crzyrndm/RW-Saturatable"
     },
     "version": "1.10.2.1",
     "ksp_version": "1.0.5",
@@ -17,7 +17,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Crzyrndm/RW-Saturatable/releases/download/1.10.2.1/SemiSaturatable.RW.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Crzyrndm/RW-Saturatable/releases/download/1.10.2.1/SemiSaturatable.RW.zip",
     "download_size": 11077,
     "download_hash": {
         "sha1": "C61344F314AE910AA5FC0E2E8807E3DD712DADFA",

@@ -7,8 +7,8 @@
     "license": "restricted",
     "release_status": "stable",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/RemoteTechnologiesGroup/RemoteTech",
-        "bugtracker": "https://ghproxy.net/https://github.com/RemoteTechnologiesGroup/RemoteTech/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/RemoteTechnologiesGroup/RemoteTech",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/RemoteTechnologiesGroup/RemoteTech/issues",
         "manual": "http://remotetechnologiesgroup.github.io/RemoteTech/"
     },
     "version": "v1.6.1",
@@ -26,7 +26,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/RemoteTechnologiesGroup/RemoteTech/releases/download/v1.6.1/RemoteTech-1.6.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/RemoteTechnologiesGroup/RemoteTech/releases/download/v1.6.1/RemoteTech-1.6.1.zip",
     "download_size": 5432264,
     "download_hash": {
         "sha1": "93759659802928E3B23FF0CFFF39864E4CD30EEF",

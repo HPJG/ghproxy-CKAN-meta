@@ -1,0 +1,63 @@
+{
+    "spec_version": "v1.24",
+    "identifier": "ClassicStockResources-PlayMode-ClassicStock",
+    "name": "Classic Stock Resources Classic Stock Play Mode",
+    "abstract": "An alternative resource set for Kerbal Space Program",
+    "author": "Angel-125",
+    "version": "v1.1.4",
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "https://hk.gh-proxy.com/https://github.com/Angel-125/ClassicStockResources",
+        "repository": "https://hk.gh-proxy.com/https://github.com/Angel-125/ClassicStockResources",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Angel-125/ClassicStockResources/issues",
+        "remote-avc": "https://raw.githubusercontent.com/Angel-125/MOLE/master/GameData/WildBlueIndustries/ClassicStockResources/ClassicStockResources.version"
+    },
+    "tags": [
+        "library",
+        "resources"
+    ],
+    "provides": [
+        "ClassicStockResources-PlayMode"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ClassicStockResources"
+        },
+        {
+            "name": "WildBlue-PlayMode-ClassicStock"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "ClassicStockResources-PlayMode"
+        }
+    ],
+    "install": [
+        {
+            "find": "ClassicStockResources/Templates",
+            "include_only": [
+                "Storage",
+                "Utility",
+                "Production"
+            ],
+            "install_to": "GameData/WildBlueIndustries/ClassicStockResources"
+        }
+    ],
+    "download": "https://hk.gh-proxy.com/https://github.com/Angel-125/ClassicStockResources/releases/download/v1.1.4/ClassicStockResources_1_1_4.zip",
+    "download_size": 37045,
+    "download_hash": {
+        "sha1": "C930EFB9C219268CF41E34D6E21FC0FFB9E84484",
+        "sha256": "B923BBC1A1D6A4F2BAC556FBE87B6EFDB3FE888EEC57F28FFD949AAEBA431F2D"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 64538,
+    "release_date": "2020-08-31T20:24:05Z",
+    "x_generated_by": "netkan"
+}

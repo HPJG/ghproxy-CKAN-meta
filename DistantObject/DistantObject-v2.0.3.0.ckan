@@ -14,8 +14,8 @@
     "license": "CC-BY-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/189759-*",
-        "repository": "https://ghproxy.net/https://github.com/TheDarkBadger/DistantObject",
-        "bugtracker": "https://ghproxy.net/https://github.com/TheDarkBadger/DistantObject/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/TheDarkBadger/DistantObject",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/TheDarkBadger/DistantObject/issues",
         "remote-avc": "https://raw.githubusercontent.com/TheDarkBadger/DistantObject/master/GameData/DistantObject/DistantObject.version"
     },
     "tags": [
@@ -34,7 +34,7 @@
             "filter": "PlanetColors.cfg"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/TheDarkBadger/DistantObject/releases/download/v2.0.3.0/DistantObject.v2.0.3.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/TheDarkBadger/DistantObject/releases/download/v2.0.3.0/DistantObject.v2.0.3.0.zip",
     "download_size": 31021,
     "download_hash": {
         "sha1": "1626CC45641C9DDF53904AACF3B9A2969248C97B",

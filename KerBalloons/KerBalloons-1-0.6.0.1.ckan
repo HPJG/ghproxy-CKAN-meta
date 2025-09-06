@@ -11,7 +11,7 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/199372-18-19-110-kerballoons-reinflated-real-science-beta/",
         "spacedock": "https://spacedock.info/mod/2662/KerBalloons%20Continued",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/KerballoonsReinflated",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/KerballoonsReinflated",
         "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/KerballoonsReinflated/refs/heads/master/KerBalloons.version",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/KerBalloons_Continued/KerBalloons_Continued-1616214989.9763002.png"
     },
@@ -37,7 +37,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/linuxgurugamer/KerballoonsReinflated/releases/download/0.6.0.1/KerBalloons-1.12.0-0.6.0.1.zip",
+        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/KerballoonsReinflated/releases/download/0.6.0.1/KerBalloons-1.12.0-0.6.0.1.zip",
         "https://spacedock.info/mod/2662/KerBalloons%20Continued/download/0.6.0.1"
     ],
     "download_size": 2157732,

@@ -14,8 +14,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/193732-18x-19x-walkabout-beta/",
         "spacedock": "https://spacedock.info/mod/228/WalkAbout",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/WalkAbout",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/WalkAbout/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/WalkAbout",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/WalkAbout/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/WalkAbout",
         "x_screenshot": "https://spacedock.info/content/Antipodes_555/WalkAbout/WalkAbout-1456147829.247913.jpg"
     },
@@ -45,7 +45,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/linuxgurugamer/WalkAbout/releases/download/0.1.8.7/WalkAbout-0.1.8.7.zip",
+        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/WalkAbout/releases/download/0.1.8.7/WalkAbout-0.1.8.7.zip",
         "https://spacedock.info/mod/228/WalkAbout/download/0.1.8.7"
     ],
     "download_size": 96252,

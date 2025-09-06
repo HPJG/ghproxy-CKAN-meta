@@ -7,12 +7,12 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/179207-*",
-        "repository": "https://ghproxy.net/https://github.com/BenjaminCronin/KerbalChangelog"
+        "repository": "https://hk.gh-proxy.com/https://github.com/BenjaminCronin/KerbalChangelog"
     },
     "version": "v1.1.2",
     "ksp_version_min": "1.4.0",
     "ksp_version_max": "1.5.99",
-    "download": "https://ghproxy.net/https://github.com/BenjaminCronin/KerbalChangelog/releases/download/v1.1.2/KerbalChangelog.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/BenjaminCronin/KerbalChangelog/releases/download/v1.1.2/KerbalChangelog.zip",
     "download_size": 6741,
     "download_hash": {
         "sha1": "B366399FCC8A84F33E71F8DD408811269B741F04",

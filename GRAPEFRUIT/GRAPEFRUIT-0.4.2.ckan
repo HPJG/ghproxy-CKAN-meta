@@ -13,8 +13,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/220714-wip-grapefruit-formerlytankhabs-help-wanted/",
         "spacedock": "https://spacedock.info/mod/3511/G.R.A.P.E.F.R.U.I.T.",
-        "repository": "https://ghproxy.net/https://github.com/KSPModStewards/GRAPEFRUIT",
-        "bugtracker": "https://ghproxy.net/https://github.com/KSPModStewards/GRAPEFRUIT/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSPModStewards/GRAPEFRUIT",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSPModStewards/GRAPEFRUIT/issues",
         "x_screenshot": "https://spacedock.info/content/Dawn0303_126011/G.R.A.P.E.F.R.U.I.T/G.R.A.P.E.F.R.U.I.T-1700659745.png"
     },
     "tags": [
@@ -44,7 +44,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/KSPModStewards/GRAPEFRUIT/releases/download/0.4.2/GRAPEFRUIT.zip",
+        "https://hk.gh-proxy.com/https://github.com/KSPModStewards/GRAPEFRUIT/releases/download/0.4.2/GRAPEFRUIT.zip",
         "https://spacedock.info/mod/3511/G.R.A.P.E.F.R.U.I.T./download/0.4.2"
     ],
     "download_size": 77547696,

@@ -7,8 +7,8 @@
     "version": "1.0",
     "license": "unknown",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/axolliam/the_scattered_disk",
-        "bugtracker": "https://ghproxy.net/https://github.com/axolliam/the_scattered_disk/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/axolliam/the_scattered_disk",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/axolliam/the_scattered_disk/issues"
     },
     "tags": [
         "config",
@@ -28,7 +28,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/axolliam/the_scattered_disk/releases/download/1.0/the_scattered_disk.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/axolliam/the_scattered_disk/releases/download/1.0/the_scattered_disk.zip",
     "download_size": 73904317,
     "download_hash": {
         "sha1": "F6D361D41C12871BE12F96345DE951C1BEA7E286",

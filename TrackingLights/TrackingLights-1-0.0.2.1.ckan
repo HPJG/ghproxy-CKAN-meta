@@ -10,7 +10,7 @@
     "license": "CC-BY-NC-SA-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/192536-*",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/TrackingLights",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/TrackingLights",
         "remote-avc": "http://ksp.spacetux.net/avc/TrackingLights"
     },
     "tags": [
@@ -22,7 +22,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/linuxgurugamer/TrackingLights/releases/download/0.0.2.1/TrackingLights-1.8.0-0.0.2.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/TrackingLights/releases/download/0.0.2.1/TrackingLights-1.8.0-0.0.2.1.zip",
     "download_size": 427366,
     "download_hash": {
         "sha1": "2E753D4E08C5D1072CD04C2ED55FA1103603E853",

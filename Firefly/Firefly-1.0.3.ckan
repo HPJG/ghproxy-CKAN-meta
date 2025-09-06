@@ -11,10 +11,10 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/226818-firefly-revamped-atmospheric-effects/",
         "spacedock": "https://spacedock.info/mod/3813/Firefly",
-        "repository": "https://ghproxy.net/https://github.com/M1rageDev/Firefly",
-        "bugtracker": "https://ghproxy.net/https://github.com/M1rageDev/Firefly/issues",
-        "manual": "https://ghproxy.net/https://github.com/M1rageDev/Firefly/wiki",
-        "remote-avc": "https://ghproxy.net/https://github.com/M1rageDev/Firefly/releases/latest/download/Firefly.version",
+        "repository": "https://hk.gh-proxy.com/https://github.com/M1rageDev/Firefly",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/M1rageDev/Firefly/issues",
+        "manual": "https://hk.gh-proxy.com/https://github.com/M1rageDev/Firefly/wiki",
+        "remote-avc": "https://hk.gh-proxy.com/https://github.com/M1rageDev/Firefly/releases/latest/download/Firefly.version",
         "x_screenshot": "https://spacedock.info/content/MirageDev_142617/Firefly/Firefly-1738668237.png"
     },
     "tags": [
@@ -28,7 +28,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/M1rageDev/Firefly/releases/download/1.0.3/Firefly-1.0.3.zip",
+        "https://hk.gh-proxy.com/https://github.com/M1rageDev/Firefly/releases/download/1.0.3/Firefly-1.0.3.zip",
         "https://spacedock.info/mod/3813/Firefly/download/1.0.3"
     ],
     "download_size": 1380713,

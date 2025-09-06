@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://spacedock.info/mod/2963/Stock%20DepthMask%20Config",
         "spacedock": "https://spacedock.info/mod/2963/Stock%20DepthMask%20Config",
-        "repository": "https://ghproxy.net/https://github.com/kingnoob1377/Stock_DepthMask_Config",
-        "bugtracker": "https://ghproxy.net/https://github.com/kingnoob1377/Stock_DepthMask_Config/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/kingnoob1377/Stock_DepthMask_Config",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/kingnoob1377/Stock_DepthMask_Config/issues"
     },
     "tags": [
         "config"

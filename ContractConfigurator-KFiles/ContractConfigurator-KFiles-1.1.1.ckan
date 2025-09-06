@@ -7,7 +7,7 @@
     "license": "CC-BY-SA-4.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/138681",
-        "repository": "https://ghproxy.net/https://github.com/severedsolo/ContractPackKFiles"
+        "repository": "https://hk.gh-proxy.com/https://github.com/severedsolo/ContractPackKFiles"
     },
     "version": "1.1.1",
     "ksp_version_min": "0.90.0",
@@ -24,7 +24,7 @@
             "install_to": "GameData/ContractPacks"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/severedsolo/ContractPackKFiles/releases/download/1.1.1/KFiles1.1.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/severedsolo/ContractPackKFiles/releases/download/1.1.1/KFiles1.1.1.zip",
     "download_size": 1807216,
     "download_hash": {
         "sha1": "2457EB09A29D2783D196308287E95D1C7FDD8E0B",

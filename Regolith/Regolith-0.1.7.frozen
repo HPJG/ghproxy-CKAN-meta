@@ -7,7 +7,7 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/100162",
-        "repository": "https://ghproxy.net/https://github.com/BobPalmer/Regolith"
+        "repository": "https://hk.gh-proxy.com/https://github.com/BobPalmer/Regolith"
     },
     "version": "0.1.7",
     "ksp_version": "0.90",
@@ -16,7 +16,7 @@
             "name": "CommunityResourcePack"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/BobPalmer/Regolith/releases/download/0.1.7/Regolith_0.1.7.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/BobPalmer/Regolith/releases/download/0.1.7/Regolith_0.1.7.zip",
     "download_size": 30912,
     "download_hash": {
         "sha1": "8B30301CF14636250CF366E5C808E83757CAD9D6",

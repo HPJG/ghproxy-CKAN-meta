@@ -7,7 +7,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/187712-17x-where-can-i-go-the-opposite-of-a-problem-111-30082019/",
-        "repository": "https://ghproxy.net/https://github.com/severedsolo/WhereCanIGo"
+        "repository": "https://hk.gh-proxy.com/https://github.com/severedsolo/WhereCanIGo"
     },
     "version": "1.2",
     "ksp_version_min": "1.7.0",
@@ -23,7 +23,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/severedsolo/WhereCanIGo/releases/download/1.2/WhereCanIGo.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/severedsolo/WhereCanIGo/releases/download/1.2/WhereCanIGo.zip",
     "download_size": 18360,
     "download_hash": {
         "sha1": "E6A1360DACC595F7209C2711731DE6CCB0595A9D",

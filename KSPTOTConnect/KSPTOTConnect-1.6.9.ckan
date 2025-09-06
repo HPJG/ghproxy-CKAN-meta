@@ -10,9 +10,9 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/33568-winmaclinux-ksp-trajectory-optimization-tool-v169-new-matlab-version/",
         "spacedock": "https://spacedock.info/mod/3737/KSP%20Trajectory%20Optimization%20Tool",
-        "repository": "https://ghproxy.net/https://github.com/Arrowstar/ksptot",
-        "bugtracker": "https://ghproxy.net/https://github.com/Arrowstar/ksptot/issues",
-        "discussions": "https://ghproxy.net/https://github.com/Arrowstar/ksptot/discussions",
+        "repository": "https://hk.gh-proxy.com/https://github.com/Arrowstar/ksptot",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Arrowstar/ksptot/issues",
+        "discussions": "https://hk.gh-proxy.com/https://github.com/Arrowstar/ksptot/discussions",
         "x_screenshot": "https://spacedock.info/content/Arrowstar_42377/KSP_Trajectory_Optimization_Tool/KSP_Trajectory_Optimization_Tool-1729283770.png"
     },
     "tags": [
@@ -37,7 +37,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/Arrowstar/ksptot/releases/download/v1.6.9/KSPTOT.zip",
+        "https://hk.gh-proxy.com/https://github.com/Arrowstar/ksptot/releases/download/v1.6.9/KSPTOT.zip",
         "https://spacedock.info/mod/3737/KSP%20Trajectory%20Optimization%20Tool/download/1.6.9"
     ],
     "download_size": 292375729,

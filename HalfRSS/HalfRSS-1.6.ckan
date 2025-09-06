@@ -9,7 +9,7 @@
     "license": "CC-BY-NC-SA",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/142336-113-half-size-rss-v10/",
-        "repository": "https://ghproxy.net/https://github.com/pap1723/HalfRSS"
+        "repository": "https://hk.gh-proxy.com/https://github.com/pap1723/HalfRSS"
     },
     "version": "1.6",
     "ksp_version": "1.1.3",
@@ -38,7 +38,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/pap1723/HalfRSS/releases/download/1.6/HalfRSS-v16.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/pap1723/HalfRSS/releases/download/1.6/HalfRSS-v16.zip",
     "download_size": 1505405,
     "download_hash": {
         "sha1": "CB26472404FF227BB3562533A430DCE7518BDE0C",

@@ -9,8 +9,8 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/97146-*",
-        "repository": "https://ghproxy.net/https://github.com/riocrokite/MobileFrameSystem",
-        "bugtracker": "https://ghproxy.net/https://github.com/riocrokite/MobileFrameSystem/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/riocrokite/MobileFrameSystem",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/riocrokite/MobileFrameSystem/issues"
     },
     "tags": [
         "parts"
@@ -52,7 +52,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/riocrokite/MobileFrameSystem/releases/download/v0.3.3/MFS_0.3.3.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/riocrokite/MobileFrameSystem/releases/download/v0.3.3/MFS_0.3.3.zip",
     "download_size": 2147591,
     "download_hash": {
         "sha1": "DADE4E6B284061BC4A52F76E5CF542B43A1ED7CC",

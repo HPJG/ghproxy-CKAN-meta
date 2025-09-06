@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/228459-112x-stockalike-hairstyles/",
         "spacedock": "https://spacedock.info/mod/3941/Stockalike%20Hairstyles",
-        "repository": "https://ghproxy.net/https://github.com/rockmeowstar/KSP_Stockalike_Hairstyles",
-        "bugtracker": "https://ghproxy.net/https://github.com/rockmeowstar/KSP_Stockalike_Hairstyles/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/rockmeowstar/KSP_Stockalike_Hairstyles",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/rockmeowstar/KSP_Stockalike_Hairstyles/issues",
         "x_screenshot": "https://spacedock.info/content/rockmeowstar_143017/Stockalike_Hairstyles/Stockalike_Hairstyles-1754130154.jpg"
     },
     "tags": [
@@ -32,7 +32,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/rockmeowstar/KSP_Stockalike_Hairstyles/releases/download/v1.0.0/KSP_Stockalike_Hairstyles.zip",
+        "https://hk.gh-proxy.com/https://github.com/rockmeowstar/KSP_Stockalike_Hairstyles/releases/download/v1.0.0/KSP_Stockalike_Hairstyles.zip",
         "https://spacedock.info/mod/3941/Stockalike%20Hairstyles/download/1.0.0"
     ],
     "download_size": 2755842,

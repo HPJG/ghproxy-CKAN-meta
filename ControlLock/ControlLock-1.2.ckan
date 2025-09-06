@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/108561",
-        "repository": "https://ghproxy.net/https://github.com/SirDiazo/ControlLock"
+        "repository": "https://hk.gh-proxy.com/https://github.com/SirDiazo/ControlLock"
     },
     "version": "1.2",
     "ksp_version": "0.90",
@@ -23,7 +23,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/SirDiazo/ControlLock/releases/download/1.2/ControlLock12.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/SirDiazo/ControlLock/releases/download/1.2/ControlLock12.zip",
     "download_size": 15821,
     "download_hash": {
         "sha1": "80EBFF2899FDC38E782CB4407120982CDEDBECAA",

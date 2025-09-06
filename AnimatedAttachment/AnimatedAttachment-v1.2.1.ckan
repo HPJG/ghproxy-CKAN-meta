@@ -6,11 +6,11 @@
     "author": "KSPKatten",
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/KSPKatten/AnimatedAttachment"
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSPKatten/AnimatedAttachment"
     },
     "version": "v1.2.1",
     "ksp_version": "1.4.4",
-    "download": "https://ghproxy.net/https://github.com/KSPKatten/AnimatedAttachment/releases/download/v1.2.1/AnimatedAttachment_v1.2.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSPKatten/AnimatedAttachment/releases/download/v1.2.1/AnimatedAttachment_v1.2.1.zip",
     "download_size": 12702,
     "download_hash": {
         "sha1": "AB97AAF2A0DBBA44092BC62ED583F9493BC51C34",

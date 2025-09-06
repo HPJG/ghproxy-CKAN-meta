@@ -9,10 +9,10 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/101604",
-        "repository": "https://ghproxy.net/https://github.com/jrossignol/ContractConfigurator",
-        "bugtracker": "https://ghproxy.net/https://github.com/jrossignol/ContractConfigurator/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/jrossignol/ContractConfigurator",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/jrossignol/ContractConfigurator/issues",
         "license": "https://raw.githubusercontent.com/jrossignol/ContractConfigurator/master/LICENSE.txt",
-        "manual": "https://ghproxy.net/https://github.com/jrossignol/ContractConfigurator/wiki"
+        "manual": "https://hk.gh-proxy.com/https://github.com/jrossignol/ContractConfigurator/wiki"
     },
     "version": "1.16.2",
     "ksp_version": "1.1.3",
@@ -33,7 +33,7 @@
             "name": "WiderContractsApp"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/jrossignol/ContractConfigurator/releases/download/1.16.2/Contract_Configurator_1.16.2.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/jrossignol/ContractConfigurator/releases/download/1.16.2/Contract_Configurator_1.16.2.zip",
     "download_size": 516964,
     "download_hash": {
         "sha1": "34D4ED39F3DF8695451747D8A8FD615BD9B2F2EE",

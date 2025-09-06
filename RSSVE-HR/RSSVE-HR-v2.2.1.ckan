@@ -22,8 +22,8 @@
     "license": "CC-BY-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/153511-rssve",
-        "repository": "https://ghproxy.net/https://github.com/KSP-RO/RSSVE",
-        "bugtracker": "https://ghproxy.net/https://github.com/KSP-RO/RSSVE/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RSSVE",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RSSVE/issues",
         "remote-avc": "https://raw.githubusercontent.com/KSP-RO/RSSVE/master/RSSVE/RSSVE.version"
     },
     "tags": [
@@ -72,7 +72,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSP-RO/RSSVE/releases/download/v2.2.1/RSSVE_HR.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RSSVE/releases/download/v2.2.1/RSSVE_HR.zip",
     "download_size": 144033373,
     "download_hash": {
         "sha1": "5522622D16CD80B97E0DEB3E122A8D5141C620E6",

@@ -7,7 +7,7 @@
     "license": "CC-BY-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/83696-122-stock-part-revamp-update-196-released-source-files/",
-        "repository": "https://ghproxy.net/https://github.com/VenVen/Stock-Revamp"
+        "repository": "https://hk.gh-proxy.com/https://github.com/VenVen/Stock-Revamp"
     },
     "version": "v1.9.6",
     "ksp_version_min": "1.2.0",
@@ -28,7 +28,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/VenVen/Stock-Revamp/releases/download/v1.9.6/Stock-Revamp-master.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/VenVen/Stock-Revamp/releases/download/v1.9.6/Stock-Revamp-master.zip",
     "download_size": 117131061,
     "download_hash": {
         "sha1": "45349816A7CA787418AB296EA93458CE29287BFA",

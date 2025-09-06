@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/175359-14-afbw-joystick-controller-mod/",
         "spacedock": "https://spacedock.info/mod/1869/AFBW%20Revived%20(Windows%20version)",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/ksp-advanced-flybywire",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/ksp-advanced-flybywire/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ksp-advanced-flybywire",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ksp-advanced-flybywire/issues",
         "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/ksp-advanced-flybywire/master/ksp-advanced-flybywire.version",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/ABFW_Revived_Windows_version/ABFW_Revived_Windows_version-1527383965.049963.png"
     },
@@ -64,7 +64,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/linuxgurugamer/ksp-advanced-flybywire/releases/download/1.8.4.3/ksp-advanced-flybywire-1.12.0-1.8.4.3-win.zip",
+        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ksp-advanced-flybywire/releases/download/1.8.4.3/ksp-advanced-flybywire-1.12.0-1.8.4.3-win.zip",
         "https://spacedock.info/mod/1869/AFBW%20Revived%20(Windows%20version)/download/1.8.4.3"
     ],
     "download_size": 804825,

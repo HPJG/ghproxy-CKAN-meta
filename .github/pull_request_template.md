@@ -7,10 +7,10 @@ Pull requests should only be submitted in this repo by experts maintaining histo
 DO NOT SUBMIT A .ckan FILE HERE FOR A NEW MOD!
 If you want to add a new mod, you should submit a .netkan file to this repo:
 
-https://ghproxy.net/https://github.com/KSP-CKAN/NetKAN
+https://hk.gh-proxy.com/https://github.com/KSP-CKAN/NetKAN
 
 See this guide for more information:
 
-https://ghproxy.net/https://github.com/KSP-CKAN/CKAN/wiki/Adding-a-mod-to-the-CKAN
+https://hk.gh-proxy.com/https://github.com/KSP-CKAN/CKAN/wiki/Adding-a-mod-to-the-CKAN
 
 -->

@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/200741-navballtexturechanger-updated/",
         "spacedock": "https://spacedock.info/mod/2654/NavBall%20Texture%20Changer%20Updated",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/NavBallTextureChanger",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/NavBallTextureChanger/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/NavBallTextureChanger",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/NavBallTextureChanger/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/NavBallTextureChanger"
     },
     "tags": [
@@ -45,7 +45,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/linuxgurugamer/NavBallTextureChanger/releases/download/2.0.0.11/NavBallTextureChanger-1.12.0-2.0.0.11.zip",
+        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/NavBallTextureChanger/releases/download/2.0.0.11/NavBallTextureChanger-1.12.0-2.0.0.11.zip",
         "https://spacedock.info/mod/2654/NavBall%20Texture%20Changer%20Updated/download/2.0.0.11"
     ],
     "download_size": 2139939,

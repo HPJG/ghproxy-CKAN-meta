@@ -8,8 +8,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/25823",
-        "repository": "https://ghproxy.net/https://github.com/taraniselsu/TacFuelBalancer",
-        "bugtracker": "https://ghproxy.net/https://github.com/taraniselsu/TacFuelBalancer/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/taraniselsu/TacFuelBalancer",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/taraniselsu/TacFuelBalancer/issues"
     },
     "version": "v2.5.1",
     "ksp_version_min": "1.0.2",
@@ -25,7 +25,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/taraniselsu/TacFuelBalancer/releases/download/v2.5.1/TacFuelBalancer_2.5.1.7.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/taraniselsu/TacFuelBalancer/releases/download/v2.5.1/TacFuelBalancer_2.5.1.7.zip",
     "download_size": 48312,
     "download_hash": {
         "sha1": "15BDFA37D87A4BEA152A053B01ADB3FB3AF7BDFE",

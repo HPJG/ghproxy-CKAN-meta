@@ -7,7 +7,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/101446-wip12papiplugin-continued-v048-2016-10-14/",
-        "repository": "https://ghproxy.net/https://github.com/bssthu/PAPIPlugin"
+        "repository": "https://hk.gh-proxy.com/https://github.com/bssthu/PAPIPlugin"
     },
     "version": "v0.4.8",
     "ksp_version": "1.2.0",
@@ -17,7 +17,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/bssthu/PAPIPlugin/releases/download/v0.4.8/PAPIPluginContinued_v0.4.8.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/bssthu/PAPIPlugin/releases/download/v0.4.8/PAPIPluginContinued_v0.4.8.zip",
     "download_size": 31581,
     "download_hash": {
         "sha1": "A7A5DCECB3B6CCAE17AAE68665BCA735F965605A",

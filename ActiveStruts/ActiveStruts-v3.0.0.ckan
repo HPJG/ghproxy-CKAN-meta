@@ -11,8 +11,8 @@
     "ksp_version_min": "1.12.0",
     "license": "GPL-3.0",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/meirumeiru/IR-Active-Struts",
-        "remote-avc": "https://ghproxy.net/https://github.com/meirumeiru/IR-ActiveStruts/raw/main/Resources/GameData/IRActiveStruts/ActiveStruts.version"
+        "repository": "https://hk.gh-proxy.com/https://github.com/meirumeiru/IR-Active-Struts",
+        "remote-avc": "https://hk.gh-proxy.com/https://github.com/meirumeiru/IR-ActiveStruts/raw/main/Resources/GameData/IRActiveStruts/ActiveStruts.version"
     },
     "tags": [
         "plugin"
@@ -23,7 +23,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/meirumeiru/IR-Active-Struts/releases/download/v3.0.0/IR-ActiveStruts_v3.0.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/meirumeiru/IR-Active-Struts/releases/download/v3.0.0/IR-ActiveStruts_v3.0.0.zip",
     "download_size": 257949,
     "download_hash": {
         "sha1": "4B4935025E729485A225E5D905FF62214E6FA379",

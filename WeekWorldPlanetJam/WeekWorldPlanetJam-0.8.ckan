@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/209859-week-world-planet-jam-the-sauwel-system-30-worlds-10-modders-built-in-one-week/",
         "spacedock": "https://spacedock.info/mod/3124/Week%20World%20Planet%20Jam",
-        "repository": "https://ghproxy.net/https://github.com/WhirligigGirl/WeekWorldPlanetJam",
-        "bugtracker": "https://ghproxy.net/https://github.com/WhirligigGirl/WeekWorldPlanetJam/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/WhirligigGirl/WeekWorldPlanetJam",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/WhirligigGirl/WeekWorldPlanetJam/issues",
         "remote-avc": "https://raw.githubusercontent.com/ducakar/TextureReplacer/master/GameData/TextureReplacer/TextureReplacer.version",
         "x_screenshot": "https://spacedock.info/content/GregroxMun_214/Week_World_Planet_Jam/Week_World_Planet_Jam-1663902139.png"
     },
@@ -46,7 +46,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/WhirligigGirl/WeekWorldPlanetJam/releases/download/0.8/WeekWorldPlanetJam_v0.8.zip",
+        "https://hk.gh-proxy.com/https://github.com/WhirligigGirl/WeekWorldPlanetJam/releases/download/0.8/WeekWorldPlanetJam_v0.8.zip",
         "https://spacedock.info/mod/3124/Week%20World%20Planet%20Jam/download/0.8"
     ],
     "download_size": 796390791,

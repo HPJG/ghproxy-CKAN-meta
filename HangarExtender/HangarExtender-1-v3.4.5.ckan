@@ -6,8 +6,8 @@
     "author": "Alewx",
     "license": "CC-BY-4.0",
     "resources": {
-        "homepage": "https://ghproxy.net/https://github.com/Alewx/FShangarExtender",
-        "repository": "https://ghproxy.net/https://github.com/Alewx/FShangarExtender"
+        "homepage": "https://hk.gh-proxy.com/https://github.com/Alewx/FShangarExtender",
+        "repository": "https://hk.gh-proxy.com/https://github.com/Alewx/FShangarExtender"
     },
     "version": "1:v3.4.5",
     "ksp_version": "1.0.4",
@@ -17,7 +17,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Alewx/FShangarExtender/releases/download/v3.4.5/FShangarExtender_3.4.5.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Alewx/FShangarExtender/releases/download/v3.4.5/FShangarExtender_3.4.5.zip",
     "download_size": 18524,
     "download_hash": {
         "sha1": "64132D1DA0E5366CFE9008EF256FCCA78A40FE94",

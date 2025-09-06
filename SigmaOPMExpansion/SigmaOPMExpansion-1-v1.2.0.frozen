@@ -8,7 +8,7 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/112095",
-        "repository": "https://ghproxy.net/https://github.com/Sigma88/Sigma-OPMTilt"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Sigma88/Sigma-OPMTilt"
     },
     "version": "1:v1.2.0",
     "ksp_version": "1.0.5",
@@ -35,7 +35,7 @@
             "install_to": "GameData/Sigma"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Sigma88/Sigma-OPMTilt/releases/download/v1.2.0/Sigma-OPMTilt.v1.2.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Sigma88/Sigma-OPMTilt/releases/download/v1.2.0/Sigma-OPMTilt.v1.2.0.zip",
     "download_size": 3907592,
     "download_hash": {
         "sha1": "FD163994C9B1F4F7381BCE608830CA8965938E84",

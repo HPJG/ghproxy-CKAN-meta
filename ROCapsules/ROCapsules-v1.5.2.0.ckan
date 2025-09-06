@@ -11,8 +11,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://discordapp.com/invite/ZGbR6nv",
-        "repository": "https://ghproxy.net/https://github.com/KSP-RO/ROCapsules",
-        "bugtracker": "https://ghproxy.net/https://github.com/KSP-RO/ROCapsules/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ROCapsules",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ROCapsules/issues",
         "remote-avc": "https://raw.githubusercontent.com/KSP-RO/ROCapsules/master/GameData/ROCapsules/ROCapsules.version"
     },
     "tags": [
@@ -71,7 +71,7 @@
             "name": "TweakableEverythingCont"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSP-RO/ROCapsules/releases/download/v1.5.2.0/ROCapsules-v1.5.2.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ROCapsules/releases/download/v1.5.2.0/ROCapsules-v1.5.2.0.zip",
     "download_size": 212451571,
     "download_hash": {
         "sha1": "26A4A5845859F42084C96F3D4A5E40E3301C53DE",

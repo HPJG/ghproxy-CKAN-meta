@@ -12,8 +12,8 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/184038-*",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/DockingCam",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/DockingCam/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/DockingCam",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/DockingCam/issues"
     },
     "tags": [
         "plugin",
@@ -41,7 +41,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/linuxgurugamer/DockingCam/releases/download/1.3.7.6/DockingCamera-1.8.0-1.3.7.6.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/DockingCam/releases/download/1.3.7.6/DockingCamera-1.8.0-1.3.7.6.zip",
     "download_size": 3456144,
     "download_hash": {
         "sha1": "608E8794E7F67742953F76858E9F8587CA4C7CE1",

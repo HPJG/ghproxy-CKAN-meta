@@ -7,7 +7,7 @@
     "license": "CC-BY-SA-4.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/91920",
-        "repository": "https://ghproxy.net/https://github.com/LostOblivion/OblivionAerospace"
+        "repository": "https://hk.gh-proxy.com/https://github.com/LostOblivion/OblivionAerospace"
     },
     "version": "v0.1.4",
     "ksp_version_min": "0.25",
@@ -33,7 +33,7 @@
             "install_to": "Ships"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/LostOblivion/OblivionAerospace/releases/download/v0.1.4/OblivionAerospacePack-0.1.4.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/LostOblivion/OblivionAerospace/releases/download/v0.1.4/OblivionAerospacePack-0.1.4.zip",
     "download_size": 1511628,
     "download_hash": {
         "sha1": "734A7FF6FE3CB9D3712456795E2929BFF0534A12",

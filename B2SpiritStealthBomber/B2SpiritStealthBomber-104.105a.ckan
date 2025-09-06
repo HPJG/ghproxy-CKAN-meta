@@ -1,0 +1,45 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "B2SpiritStealthBomber",
+    "name": "B2 Spirit Stealth Bomber",
+    "abstract": "The Batwing of planes.",
+    "author": "LuizChacon",
+    "license": "WTFPL",
+    "resources": {
+        "homepage": "http://starbaseone.freeforums.net/",
+        "kerbalstuff": "https://kerbalstuff.com/mod/1294/B2%20Spirit%20Stealth%20Bomber",
+        "x_screenshot": "https://kerbalstuff.com/content/LuizChacon_128/B2_Spirit_Stealth_Bomber/B2_Spirit_Stealth_Bomber-1448149723.6558208.png"
+    },
+    "version": "104.105a",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "FirespitterCore"
+        },
+        {
+            "name": "BahamutoDynamicsPartsPack"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "BDArmory"
+        },
+        {
+            "name": "AdjustableLandingGear"
+        }
+    ],
+    "install": [
+        {
+            "find": "B2Spirit",
+            "install_to": "GameData/Skunk_Works"
+        }
+    ],
+    "download": "https://archive.org/download/B2SpiritStealthBomber-104.105a/977D51A6-B2SpiritStealthBomber-104.105a.zip",
+    "download_size": 1683924,
+    "download_hash": {
+        "sha1": "977D51A6C05F5E308FAB36EAD484D589CD194DD1",
+        "sha256": "B613A953AA133D1285F9024C85CF34D0A5E90F58B2AC778D7A92C127D5DC4E07"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

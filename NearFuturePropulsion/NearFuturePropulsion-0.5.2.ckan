@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/52042-0-21",
-        "repository": "https://ghproxy.net/https://github.com/ChrisAdderley/NearFutureElectrical",
+        "repository": "https://hk.gh-proxy.com/https://github.com/ChrisAdderley/NearFutureElectrical",
         "kerbalstuff": "https://kerbalstuff.com/mod/347/Near%20Future%20Propulsion"
     },
     "version": "0.5.2",

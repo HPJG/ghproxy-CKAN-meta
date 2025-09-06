@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/189044-*",
         "spacedock": "https://spacedock.info/mod/2252/ASET%20PRC%20(Portable%20Rover%20Components)",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/ASET_PRC_Rover",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/ASET_PRC_Rover/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ASET_PRC_Rover",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ASET_PRC_Rover/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/ASET_PRC"
     },
     "tags": [
@@ -28,7 +28,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/linuxgurugamer/ASET_PRC_Rover/releases/download/0.1.0.3/ASET_PRC-1.12.0-0.1.0.3.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ASET_PRC_Rover/releases/download/0.1.0.3/ASET_PRC-1.12.0-0.1.0.3.zip",
     "download_size": 2309819,
     "download_hash": {
         "sha1": "BBFB74B309D41F06EED8E525D8A996A2486300A6",

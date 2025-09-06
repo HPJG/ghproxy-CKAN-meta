@@ -10,7 +10,7 @@
     "license": "GPL-3.0",
     "resources": {
         "spacedock": "https://spacedock.info/mod/2210/SpaceTux%20Library",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/SpaceTuxLibrary"
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/SpaceTuxLibrary"
     },
     "tags": [
         "plugin",

@@ -8,7 +8,7 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/182833-131-151-161-inner-lock-lock-your-inner-parts/",
         "spacedock": "https://spacedock.info/mod/2113/InnerLock",
-        "repository": "https://ghproxy.net/https://github.com/whale2/InnerLock"
+        "repository": "https://hk.gh-proxy.com/https://github.com/whale2/InnerLock"
     },
     "version": "0.1.0-ksp-1.5.1",
     "ksp_version_min": "1.4.0",

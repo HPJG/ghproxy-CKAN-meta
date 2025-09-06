@@ -7,12 +7,12 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/69406",
-        "repository": "https://ghproxy.net/https://github.com/wmvanvliet/Kerbulator"
+        "repository": "https://hk.gh-proxy.com/https://github.com/wmvanvliet/Kerbulator"
     },
     "version": "0.36",
     "ksp_version_min": "1.0.4",
     "ksp_version_max": "1.1.3",
-    "download": "https://ghproxy.net/https://github.com/wmvanvliet/Kerbulator/releases/download/0.36/Kerbulator-0.36.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/wmvanvliet/Kerbulator/releases/download/0.36/Kerbulator-0.36.zip",
     "download_size": 657939,
     "download_hash": {
         "sha1": "D4D3F6C324C205FBE49125E64FC6F8258CEF182C",

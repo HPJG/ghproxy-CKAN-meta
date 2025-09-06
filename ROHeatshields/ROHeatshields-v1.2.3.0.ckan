@@ -13,9 +13,9 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://discordapp.com/invite/ZGbR6nv",
-        "repository": "https://ghproxy.net/https://github.com/KSP-RO/ROHeatshields",
-        "bugtracker": "https://ghproxy.net/https://github.com/KSP-RO/ROHeatshields/issues",
-        "metanetkan": "https://ghproxy.net/https://github.com/KSP-RO/ROHeatshields/raw/master/ROHeatshields.netkan",
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ROHeatshields",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ROHeatshields/issues",
+        "metanetkan": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ROHeatshields/raw/master/ROHeatshields.netkan",
         "remote-avc": "https://raw.githubusercontent.com/KSP-RO/ROHeatshields/master/GameData/ROHeatshields/ROHeatshields.version"
     },
     "tags": [
@@ -50,7 +50,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSP-RO/ROHeatshields/releases/download/v1.2.3.0/ROHeatshields-v1.2.3.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ROHeatshields/releases/download/v1.2.3.0/ROHeatshields-v1.2.3.0.zip",
     "download_size": 4223902,
     "download_hash": {
         "sha1": "3C2096621BFB173F42D9028EF84513052EBD4227",

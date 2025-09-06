@@ -9,7 +9,7 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/91713-113-mark-iv-spaceplane-system-the-go-higher-update-113-june-30/",
         "spacedock": "https://spacedock.info/mod/809/Mark%20IV%20Spaceplane%20System",
-        "repository": "https://ghproxy.net/https://github.com/ChrisAdderley/MkIVSystem",
+        "repository": "https://hk.gh-proxy.com/https://github.com/ChrisAdderley/MkIVSystem",
         "x_screenshot": "https://spacedock.info/content/Nertea_200/Mark_IV_Spaceplane_System/Mark_IV_Spaceplane_System-1467302860.809514.png"
     },
     "version": "2.3.5",

@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/218624-112x-kerbal-public-radio-service-kprs-beta-004-released-now-on-spacedock-ckan/#:~:text=KPRS%20is%20a%20set%20of,static%20files%20if%20you%20like.",
         "spacedock": "https://spacedock.info/mod/3504/Kerbal%20Public%20Radio%20Service%20(KPRS)",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/K.P.R.S",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/K.P.R.S/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/K.P.R.S",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/K.P.R.S/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/K.P.R.S",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Kerbal_Public_Radio_Service_KPRS/Kerbal_Public_Radio_Service_KPRS-1700065636.png"
     },
@@ -42,7 +42,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/linuxgurugamer/K.P.R.S/releases/download/0.0.4/KPRS-1.12.0-0.0.4.zip",
+        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/K.P.R.S/releases/download/0.0.4/KPRS-1.12.0-0.0.4.zip",
         "https://spacedock.info/mod/3504/Kerbal%20Public%20Radio%20Service%20(KPRS)/download/0.0.4"
     ],
     "download_size": 15212534,

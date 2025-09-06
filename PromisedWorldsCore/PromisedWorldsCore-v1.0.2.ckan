@@ -13,8 +13,8 @@
     "resources": {
         "homepage": "https://spacedock.info/mod/3974/Promised%20Worlds%20-%20Core",
         "spacedock": "https://spacedock.info/mod/3974/Promised%20Worlds%20-%20Core",
-        "repository": "https://ghproxy.net/https://github.com/PromisedWorlds/PromisedWorlds",
-        "bugtracker": "https://ghproxy.net/https://github.com/PromisedWorlds/PromisedWorlds/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/PromisedWorlds/PromisedWorlds",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/PromisedWorlds/PromisedWorlds/issues",
         "x_screenshot": "https://spacedock.info/content/PromisedWorldsDevTeam_171123/Promised_Worlds_-_Core/Promised_Worlds_-_Core-1756421851.jpg"
     },
     "tags": [
@@ -59,7 +59,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/PromisedWorlds/PromisedWorlds/releases/download/v1.0.2/PromisedWorlds_V1.0.2_Core.zip",
+        "https://hk.gh-proxy.com/https://github.com/PromisedWorlds/PromisedWorlds/releases/download/v1.0.2/PromisedWorlds_V1.0.2_Core.zip",
         "https://spacedock.info/mod/3974/Promised%20Worlds%20-%20Core/download/1.0.2"
     ],
     "download_size": 30755433,

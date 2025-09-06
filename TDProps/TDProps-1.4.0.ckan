@@ -14,7 +14,7 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/207179-112x-tiktaalik-dreaming-props/",
         "spacedock": "https://spacedock.info/mod/1546/TDProps",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/TDProps",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/TDProps",
         "remote-avc": "http://ksp.spacetux.net/avc/TDProps",
         "x_screenshot": "https://spacedock.info/content/TiktaalikDreaming_235/TDProps/TDProps-1508616638.7812712.png"
     },
@@ -24,7 +24,7 @@
         "first-person"
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/linuxgurugamer/TDProps/releases/download/1.4.0/TDProps-1.12.0-1.4.0.zip",
+        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/TDProps/releases/download/1.4.0/TDProps-1.12.0-1.4.0.zip",
         "https://spacedock.info/mod/1546/TDProps/download/1.4.0"
     ],
     "download_size": 4368314,

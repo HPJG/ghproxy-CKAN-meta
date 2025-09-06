@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "http://d-mp.org",
         "spacedock": "https://spacedock.info/mod/10/DarkMultiPlayer",
-        "repository": "https://ghproxy.net/https://github.com/godarklight/DarkMultiPlayer",
-        "manual": "https://ghproxy.net/https://github.com/godarklight/DarkMultiPlayer/blob/master/README.md",
+        "repository": "https://hk.gh-proxy.com/https://github.com/godarklight/DarkMultiPlayer",
+        "manual": "https://hk.gh-proxy.com/https://github.com/godarklight/DarkMultiPlayer/blob/master/README.md",
         "x_screenshot": "https://spacedock.info/content/godarklight_151/DarkMultiPlayer/DarkMultiPlayer-1456094845.1546948.png"
     },
     "version": "v0.2.5.4",

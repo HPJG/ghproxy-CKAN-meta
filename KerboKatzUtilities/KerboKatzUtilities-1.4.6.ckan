@@ -10,8 +10,8 @@
     "license": "restricted",
     "resources": {
         "homepage": "http://kerbokatz.github.io/",
-        "repository": "https://ghproxy.net/https://github.com/Xarun/KerboKatzUtilities",
-        "bugtracker": "https://ghproxy.net/https://github.com/Xarun/KerboKatzUtilities/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Xarun/KerboKatzUtilities",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Xarun/KerboKatzUtilities/issues"
     },
     "version": "1.4.6",
     "ksp_version_min": "1.2.0",
@@ -22,7 +22,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KerboKatz/KerboKatzUtilities/releases/download/1.4.6/KerboKatzUtilities.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KerboKatz/KerboKatzUtilities/releases/download/1.4.6/KerboKatzUtilities.zip",
     "download_size": 53277,
     "download_hash": {
         "sha1": "E4267BD78DE12C85D0121846B9F7DB655BFE7E77",

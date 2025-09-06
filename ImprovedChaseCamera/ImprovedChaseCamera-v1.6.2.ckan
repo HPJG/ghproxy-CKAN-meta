@@ -6,12 +6,12 @@
     "author": "PapaJoesSoup",
     "license": "GPL-3.0",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/PapaJoesSoup/ImprovedChaseCamera"
+        "repository": "https://hk.gh-proxy.com/https://github.com/PapaJoesSoup/ImprovedChaseCamera"
     },
     "version": "v1.6.2",
     "ksp_version_min": "1.4.0",
     "ksp_version_max": "1.4.99",
-    "download": "https://ghproxy.net/https://github.com/PapaJoesSoup/ImprovedChaseCamera/releases/download/1.6.2/ImprovedChaseCamera.1.6.2.0_04032018.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/PapaJoesSoup/ImprovedChaseCamera/releases/download/1.6.2/ImprovedChaseCamera.1.6.2.0_04032018.zip",
     "download_size": 7909,
     "download_hash": {
         "sha1": "7AA6726C956EE1900AE90AA18DCCE1742E2C3C22",

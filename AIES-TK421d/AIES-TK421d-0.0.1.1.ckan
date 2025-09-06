@@ -8,7 +8,7 @@
     "ksp_version": "1.8.0",
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/AIES_Patches"
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/AIES_Patches"
     },
     "tags": [
         "parts",
@@ -33,7 +33,7 @@
             "install_to": "GameData/AIES_Patches"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/linuxgurugamer/AIES_Patches/releases/download/0.0.1.1/AIES_Patches-1.8.0-0.0.1.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/AIES_Patches/releases/download/0.0.1.1/AIES_Patches-1.8.0-0.0.1.1.zip",
     "download_size": 94063,
     "download_hash": {
         "sha1": "FCF45CC97AA30F2D3A3A602161947F2C37BAC47B",

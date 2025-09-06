@@ -16,8 +16,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/179841-14x-kerbonov-kn-2-cockpit-module-continued/",
         "spacedock": "https://spacedock.info/mod/2007/Kerbonov%20Kn-2%20Cockpit%20Module",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/Kerbonov",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/Kerbonov/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/Kerbonov",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/Kerbonov/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/Kerbonov"
     },
     "tags": [
@@ -36,7 +36,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/linuxgurugamer/Kerbonov/releases/download/2.0.2.1/Kerbonov_Kn-2_Cockpit_Module-2.0.2.1.zip",
+        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/Kerbonov/releases/download/2.0.2.1/Kerbonov_Kn-2_Cockpit_Module-2.0.2.1.zip",
         "https://spacedock.info/mod/2007/Kerbonov%20Kn-2%20Cockpit%20Module/download/2.0.2.1"
     ],
     "download_size": 11300069,

@@ -10,9 +10,9 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/181852-*",
-        "repository": "https://ghproxy.net/https://github.com/SteveBenz/ProgressiveColonizationSystem",
-        "bugtracker": "https://ghproxy.net/https://github.com/SteveBenz/ProgressiveColonizationSystem/issues",
-        "remote-avc": "https://ghproxy.net/https://github.com/SteveBenz/ProgressiveColonizationSystem/raw/master/src/ProgressiveColonizationSystem/GameData/ProgressiveColonizationSystem/ProgressiveColonizationSystem.version"
+        "repository": "https://hk.gh-proxy.com/https://github.com/SteveBenz/ProgressiveColonizationSystem",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/SteveBenz/ProgressiveColonizationSystem/issues",
+        "remote-avc": "https://hk.gh-proxy.com/https://github.com/SteveBenz/ProgressiveColonizationSystem/raw/master/src/ProgressiveColonizationSystem/GameData/ProgressiveColonizationSystem/ProgressiveColonizationSystem.version"
     },
     "tags": [
         "plugin",
@@ -45,7 +45,7 @@
             "name": "SpaceTuxLibrary"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/SteveBenz/ProgressiveColonizationSystem/releases/download/v3.0.0/ProgressiveColonizationSystem.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/SteveBenz/ProgressiveColonizationSystem/releases/download/v3.0.0/ProgressiveColonizationSystem.zip",
     "download_size": 8471334,
     "download_hash": {
         "sha1": "D97829E8B8374BEED403A02BE4ABE24886952A57",

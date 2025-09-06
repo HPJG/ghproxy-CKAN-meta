@@ -1,0 +1,43 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "CTTStockRebalance",
+    "name": "CTTStockRebalance",
+    "abstract": "Continuation of TheJewelOfJool's CTTStockRebalance.",
+    "author": "lordcirth",
+    "version": "1:1.0",
+    "ksp_version": "1.5.1",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/160318-13-cttstockrebalance-101-sensible-stock-progression-in-ctt/",
+        "spacedock": "https://spacedock.info/mod/2008/CTTStockRebalance",
+        "repository": "https://hk.gh-proxy.com/https://github.com/lordcirth/CTTStockRebalance",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/lordcirth/CTTStockRebalance/issues"
+    },
+    "tags": [
+        "config",
+        "tech-tree"
+    ],
+    "depends": [
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "GameData/CTTStockRebalance",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2008/CTTStockRebalance/download/1.0",
+    "download_size": 13824,
+    "download_hash": {
+        "sha1": "7FD66AB49CB5B32FC66F349F50EE6F02FA38FECF",
+        "sha256": "81F825FA47E0F5837574A155E02B6466B85314C5A0474CF363019232A83F4288"
+    },
+    "download_content_type": "application/zip",
+    "release_date": "2018-11-17T04:51:26.30493+00:00",
+    "x_generated_by": "netkan"
+}

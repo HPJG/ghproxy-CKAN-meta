@@ -7,7 +7,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/180005-*",
-        "repository": "https://ghproxy.net/https://github.com/tekaohksp/Science-Full-Transmit"
+        "repository": "https://hk.gh-proxy.com/https://github.com/tekaohksp/Science-Full-Transmit"
     },
     "version": "v1.0.0",
     "ksp_version": "any",
@@ -27,7 +27,7 @@
             "name": "ContractConfigurator-FieldResearch"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/tekaohksp/Science-Full-Transmit/releases/download/v1.0.0/Science-Full-Transmit.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/tekaohksp/Science-Full-Transmit/releases/download/v1.0.0/Science-Full-Transmit.zip",
     "download_size": 701,
     "download_hash": {
         "sha1": "92B9BC48959D652FE5D9FDC130621250451A02FB",

@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/80225-12-hangar",
         "spacedock": "https://spacedock.info/mod/1123/Ground%20Construction",
-        "repository": "https://ghproxy.net/https://github.com/allista/GroundConstruction",
-        "bugtracker": "https://ghproxy.net/https://github.com/allista/GroundConstruction/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/allista/GroundConstruction",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/allista/GroundConstruction/issues",
         "x_screenshot": "https://spacedock.info/content/allista_931/Ground_Construction/Ground_Construction-1482512368.397066.png"
     },
     "version": "1.0.0",

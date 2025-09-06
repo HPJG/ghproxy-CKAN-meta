@@ -13,8 +13,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/101446-*",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/PAPIPlugin",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/PAPIPlugin/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/PAPIPlugin",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/PAPIPlugin/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/PAPIPlugin"
     },
     "tags": [
@@ -40,7 +40,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/linuxgurugamer/PAPIPlugin/releases/download/0.5.0.5/PAPIPlugin-1.8.0-0.5.0.5.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/PAPIPlugin/releases/download/0.5.0.5/PAPIPlugin-1.8.0-0.5.0.5.zip",
     "download_size": 40437,
     "download_hash": {
         "sha1": "D9A2CACB8653DBAD5185FBE124DF1B48173EFE32",

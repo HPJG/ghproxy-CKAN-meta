@@ -8,7 +8,7 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/149144-12-the-undockinator-v011-undock-your-ships/",
         "spacedock": "https://spacedock.info/mod/984/UNDOCKINATOR",
-        "repository": "https://ghproxy.net/https://github.com/henrybauer/Undockinator",
+        "repository": "https://hk.gh-proxy.com/https://github.com/henrybauer/Undockinator",
         "x_screenshot": "https://spacedock.info/content/hab136_461/UNDOCKINATOR/UNDOCKINATOR-1476294027.2249722.png"
     },
     "version": "v0.3.0",

@@ -13,8 +13,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/155858-*",
         "spacedock": "https://spacedock.info/mod/628/All%20Y'All",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/AllYAll",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/AllYAll/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/AllYAll",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/AllYAll/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/AllYAll",
         "x_screenshot": "https://spacedock.info/content/HMV_4317/All_YAll/All_YAll-1462073929.7322848.jpg"
     },
@@ -36,7 +36,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/linuxgurugamer/AllYAll/releases/download/0.11.20/AllYAll-1.12.0-0.11.20.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/AllYAll/releases/download/0.11.20/AllYAll-1.12.0-0.11.20.zip",
     "download_size": 40830,
     "download_hash": {
         "sha1": "2A0332E63AB4D3A053851AA78FDF888A333BD6DB",

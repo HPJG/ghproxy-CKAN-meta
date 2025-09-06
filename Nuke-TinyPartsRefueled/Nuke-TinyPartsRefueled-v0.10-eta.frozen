@@ -11,7 +11,7 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/21466-161-tiny-parts-and-other-useless-junk/",
         "spacedock": "https://spacedock.info/mod/2174/Nuke%20Refueled",
-        "repository": "https://ghproxy.net/https://github.com/zer0Kerbal/NukeRefueled"
+        "repository": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/NukeRefueled"
     },
     "version": "v0.10-eta",
     "ksp_version": "1.7.2",

@@ -9,10 +9,10 @@
     "ksp_version_max": "1.9.99",
     "license": "MIT",
     "resources": {
-        "homepage": "https://ghproxy.net/https://github.com/ChrisAdderley/DeployableEngines/wiki",
-        "repository": "https://ghproxy.net/https://github.com/ChrisAdderley/DeployableEngines",
-        "bugtracker": "https://ghproxy.net/https://github.com/ChrisAdderley/DeployableEngines/issues",
-        "metanetkan": "https://ghproxy.net/https://github.com/ChrisAdderley/DeployableEngines/raw/master/CKAN/DeployableEngines.netkan"
+        "homepage": "https://hk.gh-proxy.com/https://github.com/ChrisAdderley/DeployableEngines/wiki",
+        "repository": "https://hk.gh-proxy.com/https://github.com/ChrisAdderley/DeployableEngines",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/ChrisAdderley/DeployableEngines/issues",
+        "metanetkan": "https://hk.gh-proxy.com/https://github.com/ChrisAdderley/DeployableEngines/raw/master/CKAN/DeployableEngines.netkan"
     },
     "tags": [
         "plugin",
@@ -32,7 +32,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/ChrisAdderley/DeployableEngines/releases/download/1.2.1/DeployableEngines_1_2_1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/ChrisAdderley/DeployableEngines/releases/download/1.2.1/DeployableEngines_1_2_1.zip",
     "download_size": 7799,
     "download_hash": {
         "sha1": "2855302A292D448B1EB85F7A9878CF0AB6B7AE38",

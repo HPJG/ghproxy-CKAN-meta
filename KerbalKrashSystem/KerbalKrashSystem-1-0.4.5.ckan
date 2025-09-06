@@ -7,7 +7,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/129410-105-kerbal-krash-system",
-        "repository": "https://ghproxy.net/https://github.com/EnzoMeertens/KerbalKrashSystem"
+        "repository": "https://hk.gh-proxy.com/https://github.com/EnzoMeertens/KerbalKrashSystem"
     },
     "version": "1:0.4.5",
     "ksp_version": "1.6.1",
@@ -23,7 +23,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/EnzoMeertens/KerbalKrashSystem/raw/master/KerbalKrashSystem%20(0.4.5)%202019-03-14.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/EnzoMeertens/KerbalKrashSystem/raw/master/KerbalKrashSystem%20(0.4.5)%202019-03-14.zip",
     "download_size": 85803,
     "download_hash": {
         "sha1": "D0E4C6C6D6752E1FEC591288415E229B71D346D7",

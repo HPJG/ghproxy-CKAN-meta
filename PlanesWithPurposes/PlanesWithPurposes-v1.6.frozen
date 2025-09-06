@@ -7,8 +7,8 @@
     "version": "v1.6",
     "license": "MIT",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/TudorAerospace/PWP",
-        "bugtracker": "https://ghproxy.net/https://github.com/TudorAerospace/PWP/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/TudorAerospace/PWP",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/TudorAerospace/PWP/issues"
     },
     "tags": [
         "career",
@@ -29,7 +29,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/TudorAerospace/PWP/releases/download/v1.6/PWP.1.6.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/TudorAerospace/PWP/releases/download/v1.6/PWP.1.6.1.zip",
     "download_size": 551806,
     "download_hash": {
         "sha1": "C018AC3F94BA1CAA42E003C4833160D9179C4BE5",

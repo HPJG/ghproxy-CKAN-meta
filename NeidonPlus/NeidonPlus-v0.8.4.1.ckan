@@ -13,8 +13,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/225300-112x-planet-pack-outer-planets-expansion-opx/",
         "spacedock": "https://spacedock.info/mod/3137/OPX:%20NeidonPlus",
-        "repository": "https://ghproxy.net/https://github.com/TheWhistleGang/OPX-NeidonPlus",
-        "bugtracker": "https://ghproxy.net/https://github.com/TheWhistleGang/OPX-NeidonPlus/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/TheWhistleGang/OPX-NeidonPlus",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/TheWhistleGang/OPX-NeidonPlus/issues",
         "x_screenshot": "https://spacedock.info/content/InterplanetJanet_65659/OPX_NeidonPlus/OPX_NeidonPlus-1756394489.png"
     },
     "tags": [

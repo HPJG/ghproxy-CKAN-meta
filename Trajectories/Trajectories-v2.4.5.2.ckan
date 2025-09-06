@@ -16,8 +16,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/162324-131-181",
         "spacedock": "https://spacedock.info/mod/396/Trajectories",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/KSPTrajectories",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/KSPTrajectories/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/KSPTrajectories",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/KSPTrajectories/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/Trajectories"
     },
     "tags": [

@@ -1,0 +1,43 @@
+{
+    "spec_version": "v1.4",
+    "comment": "AVC vref should be added with next version of mod, which will have a proper .version file",
+    "identifier": "Canadarm",
+    "name": "Canadarm",
+    "abstract": "KSP Space Shuttle Canadarm",
+    "author": "Jeast",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/132054-1-0-x-Canadarm-v1-00-August-20",
+        "kerbalstuff": "https://kerbalstuff.com/mod/1098/Canadarm"
+    },
+    "version": "1.00",
+    "ksp_version": "1.0.4",
+    "depends": [
+        {
+            "name": "InfernalRobotics"
+        },
+        {
+            "name": "KAS"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RasterPropMonitor-Core"
+        }
+    ],
+    "install": [
+        {
+            "find": "Canadarm",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/Canadarm-1.00/CB4E9496-Canadarm-1.00.zip",
+    "download_size": 11170719,
+    "download_hash": {
+        "sha1": "CB4E949625A02E72EC58F2F13B685AC6C4941E0F",
+        "sha256": "02E9AF2426BC341DD64BE1600AD0357D4265ABB6F55DAB4F2D67C623647FBA56"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

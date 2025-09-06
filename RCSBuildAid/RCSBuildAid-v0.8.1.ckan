@@ -7,9 +7,9 @@
     "license": "LGPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/35996",
-        "repository": "https://ghproxy.net/https://github.com/m4v/RCSBuildAid",
-        "bugtracker": "https://ghproxy.net/https://github.com/m4v/RCSBuildAid/issues",
-        "manual": "https://ghproxy.net/https://github.com/m4v/RCSBuildAid/blob/master/README.asciidoc"
+        "repository": "https://hk.gh-proxy.com/https://github.com/m4v/RCSBuildAid",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/m4v/RCSBuildAid/issues",
+        "manual": "https://hk.gh-proxy.com/https://github.com/m4v/RCSBuildAid/blob/master/README.asciidoc"
     },
     "version": "v0.8.1",
     "ksp_version": "1.1",

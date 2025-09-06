@@ -8,9 +8,9 @@
     "ksp_version_min": "1.12.5",
     "license": "GPL-3.0",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/Angel-125/WBIScience",
-        "bugtracker": "https://ghproxy.net/https://github.com/Angel-125/WBIScience/issues",
-        "manual": "https://ghproxy.net/https://github.com/Angel-125/WBIScience/wiki",
+        "repository": "https://hk.gh-proxy.com/https://github.com/Angel-125/WBIScience",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Angel-125/WBIScience/issues",
+        "manual": "https://hk.gh-proxy.com/https://github.com/Angel-125/WBIScience/wiki",
         "remote-avc": "https://raw.githubusercontent.com/Angel-125/WBIProps/main/ReleaseFolder/GameData/WildBlueIndustries/WBIWidgets/WBIWidgets.version"
     },
     "tags": [
@@ -31,7 +31,7 @@
             "install_to": "GameData/WildBlueIndustries"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Angel-125/WBIScience/releases/download/v1.0/WBIScience.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Angel-125/WBIScience/releases/download/v1.0/WBIScience.zip",
     "download_size": 472693,
     "download_hash": {
         "sha1": "0A1330096FCEEFC4C058E8DAEBA87E8B8DEF3900",

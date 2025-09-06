@@ -6,8 +6,8 @@
     "author": "JoeBostic",
     "license": "MIT",
     "resources": {
-        "homepage": "https://ghproxy.net/https://github.com/JoeBostic/SpaceProgramFunding/wiki",
-        "repository": "https://ghproxy.net/https://github.com/JoeBostic/SpaceProgramFunding"
+        "homepage": "https://hk.gh-proxy.com/https://github.com/JoeBostic/SpaceProgramFunding/wiki",
+        "repository": "https://hk.gh-proxy.com/https://github.com/JoeBostic/SpaceProgramFunding"
     },
     "version": "v1.0.4",
     "ksp_version_min": "1.7.0",
@@ -17,7 +17,7 @@
             "name": "MonthlyBudgets"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/JoeBostic/SpaceProgramFunding/releases/download/v1.0.4/SpaceProgramFunding-1.0.4.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/JoeBostic/SpaceProgramFunding/releases/download/v1.0.4/SpaceProgramFunding-1.0.4.zip",
     "download_size": 31144,
     "download_hash": {
         "sha1": "6AAEBE8DDD2286E3363A8EB4AFADE87193451F16",

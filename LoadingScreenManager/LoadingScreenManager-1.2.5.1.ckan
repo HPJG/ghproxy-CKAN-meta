@@ -8,7 +8,7 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/162397-130-loading-screen-manager/",
         "spacedock": "https://spacedock.info/mod/1422/LoadingScreenManager",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/KSPLoadingScreenManager"
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/KSPLoadingScreenManager"
     },
     "version": "1.2.5.1",
     "ksp_version_min": "1.4.1",

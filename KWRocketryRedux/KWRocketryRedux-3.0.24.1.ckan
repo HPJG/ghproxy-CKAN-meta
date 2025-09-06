@@ -7,7 +7,7 @@
     "license": "CC-BY-SA-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/137762-kw-rocketry-redux/",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/KWRocketryRedux"
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/KWRocketryRedux"
     },
     "version": "3.0.24.1",
     "ksp_version_min": "1.2.0",
@@ -37,7 +37,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/linuxgurugamer/KWRocketryRedux/releases/download/3.0.24.1/KWRocketryRedux-3.0.24.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/KWRocketryRedux/releases/download/3.0.24.1/KWRocketryRedux-3.0.24.1.zip",
     "download_size": 51249168,
     "download_hash": {
         "sha1": "0ACDD4CDD6E387D4169918EF264CB30D02DD54EA",

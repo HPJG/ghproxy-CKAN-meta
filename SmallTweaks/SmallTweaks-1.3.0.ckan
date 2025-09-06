@@ -7,7 +7,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/152741-ballast-water-tanks-smalltweaks",
-        "repository": "https://ghproxy.net/https://github.com/jenyaza01/SmallTweaks"
+        "repository": "https://hk.gh-proxy.com/https://github.com/jenyaza01/SmallTweaks"
     },
     "version": "1.3.0",
     "ksp_version_min": "1.0.2",
@@ -24,7 +24,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/jenyaza01/SmallTweaks/releases/download/1.3.0/SmallTweaks_1.3.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/jenyaza01/SmallTweaks/releases/download/1.3.0/SmallTweaks_1.3.zip",
     "download_size": 3991,
     "download_hash": {
         "sha1": "236277E9DB45B333CFF338B423EFA1411ABA3CB6",

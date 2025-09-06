@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/226275-1125-gradual-progression-tech-tree-a-mod-focused-slower-early-game-tech-tree/",
         "spacedock": "https://spacedock.info/mod/3768/Gradual%20Progression%20Tech%20Tree",
-        "repository": "https://ghproxy.net/https://github.com/hersfeldtn/GPTT",
-        "bugtracker": "https://ghproxy.net/https://github.com/hersfeldtn/GPTT/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/hersfeldtn/GPTT",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/hersfeldtn/GPTT/issues",
         "x_screenshot": "https://spacedock.info/content/hersfeldtn_143214/Gradual_Progression_Tech_Tree/Gradual_Progression_Tech_Tree-1732201403.png"
     },
     "tags": [
@@ -144,7 +144,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/hersfeldtn/GPTT/releases/download/v0.3.0/zzGPTT.zip",
+        "https://hk.gh-proxy.com/https://github.com/hersfeldtn/GPTT/releases/download/v0.3.0/zzGPTT.zip",
         "https://spacedock.info/mod/3768/Gradual%20Progression%20Tech%20Tree/download/0.3.0"
     ],
     "download_size": 651689,

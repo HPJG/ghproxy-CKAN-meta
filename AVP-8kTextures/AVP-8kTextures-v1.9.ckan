@@ -11,7 +11,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/160878-*",
-        "repository": "https://ghproxy.net/https://github.com/themaster402/AstronomersVisualPack"
+        "repository": "https://hk.gh-proxy.com/https://github.com/themaster402/AstronomersVisualPack"
     },
     "tags": [
         "library",
@@ -36,7 +36,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/themaster402/AstronomersVisualPack/releases/download/v1.9/AVP_8kTextures.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/themaster402/AstronomersVisualPack/releases/download/v1.9/AVP_8kTextures.zip",
     "download_size": 404956788,
     "download_hash": {
         "sha1": "B700CAA49576C3C23E369E957E52F2B2FF8E8C77",

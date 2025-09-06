@@ -7,11 +7,11 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://krpc.github.io/krpc",
-        "repository": "https://ghproxy.net/https://github.com/krpc/krpc"
+        "repository": "https://hk.gh-proxy.com/https://github.com/krpc/krpc"
     },
     "version": "v0.2.3",
     "ksp_version": "1.0.5",
-    "download": "https://ghproxy.net/https://github.com/krpc/krpc/releases/download/v0.2.3/krpc-0.2.3.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/krpc/krpc/releases/download/v0.2.3/krpc-0.2.3.zip",
     "download_size": 4256784,
     "download_hash": {
         "sha1": "FD0A1B2CCAC6239AA417D9A3B2C85326DE6F8729",

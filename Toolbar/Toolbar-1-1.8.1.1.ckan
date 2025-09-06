@@ -15,8 +15,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/161857-15-toolbar-continued-common-api-for-draggableresizable-buttons-toolbar/",
         "spacedock": "https://spacedock.info/mod/2090/Toolbar",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/ksp_toolbar",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/ksp_toolbar/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ksp_toolbar",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ksp_toolbar/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/Toolbar"
     },
     "tags": [
@@ -44,7 +44,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/linuxgurugamer/ksp_toolbar/releases/download/1.8.1.1/Toolbar-1.12.0-1.8.1.1.zip",
+        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ksp_toolbar/releases/download/1.8.1.1/Toolbar-1.12.0-1.8.1.1.zip",
         "https://spacedock.info/mod/2090/Toolbar/download/1.8.1.1"
     ],
     "download_size": 96185,

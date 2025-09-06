@@ -7,8 +7,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/79111-DarkMultiPlayer-0-1-0-0-KSP-0-23-5-Alpha/page1",
-        "repository": "https://ghproxy.net/https://github.com/godarklight/DarkMultiPlayer",
-        "manual": "https://ghproxy.net/https://github.com/godarklight/DarkMultiPlayer/blob/master/README.md",
+        "repository": "https://hk.gh-proxy.com/https://github.com/godarklight/DarkMultiPlayer",
+        "manual": "https://hk.gh-proxy.com/https://github.com/godarklight/DarkMultiPlayer/blob/master/README.md",
         "kerbalstuff": "https://kerbalstuff.com/mod/4/DarkMultiPlayer%20Client"
     },
     "version": "v0.2.0.1",

@@ -11,9 +11,9 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/193709-wip18x-19x-singularity-black-hole-shaders/",
         "spacedock": "https://spacedock.info/mod/2420/Singularity",
-        "repository": "https://ghproxy.net/https://github.com/LGhassen/Singularity",
-        "bugtracker": "https://ghproxy.net/https://github.com/LGhassen/Singularity/issues",
-        "manual": "https://ghproxy.net/https://github.com/LGhassen/Singularity/wiki",
+        "repository": "https://hk.gh-proxy.com/https://github.com/LGhassen/Singularity",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/LGhassen/Singularity/issues",
+        "manual": "https://hk.gh-proxy.com/https://github.com/LGhassen/Singularity/wiki",
         "x_screenshot": "https://spacedock.info/content/blackrack_378/Singularity/Singularity-1588929677.0547369.png"
     },
     "tags": [

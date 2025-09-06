@@ -11,7 +11,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/92290",
-        "repository": "https://ghproxy.net/https://github.com/NathanKell/ModuleRCSFX"
+        "repository": "https://hk.gh-proxy.com/https://github.com/NathanKell/ModuleRCSFX"
     },
     "version": "3.1",
     "ksp_version": "0.25",
@@ -21,7 +21,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/NathanKell/ModuleRCSFX/releases/download/v3.1/ModuleRCSFX_v3.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/NathanKell/ModuleRCSFX/releases/download/v3.1/ModuleRCSFX_v3.1.zip",
     "download_size": 5382,
     "download_hash": {
         "sha1": "2DC363F83CAAFB0CF5BFE950C39C7D67D9B6890A",

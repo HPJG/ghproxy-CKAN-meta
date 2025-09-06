@@ -10,7 +10,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/163109-*",
-        "repository": "https://ghproxy.net/https://github.com/GregroxMun/Alien-Space-Programs"
+        "repository": "https://hk.gh-proxy.com/https://github.com/GregroxMun/Alien-Space-Programs"
     },
     "version": "0.8",
     "ksp_version": "1.0.5",
@@ -30,7 +30,7 @@
             "name": "AlienSpaceProgram"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/GregroxMun/Alien-Space-Programs/releases/download/0.8/DunaSpaceProgram.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/GregroxMun/Alien-Space-Programs/releases/download/0.8/DunaSpaceProgram.zip",
     "download_size": 21250424,
     "download_hash": {
         "sha1": "2B0E27CE9E6DAEE7EA96184E31BC650F0DF54E4D",

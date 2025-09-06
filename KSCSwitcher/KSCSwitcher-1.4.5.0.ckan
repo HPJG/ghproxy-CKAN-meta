@@ -7,7 +7,7 @@
     "license": "BSD-2-clause",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/106206-105-regexs-useful-mod-emporium/",
-        "repository": "https://ghproxy.net/https://github.com/KSP-RO/KSCSwitcher"
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/KSCSwitcher"
     },
     "version": "1.4.5.0",
     "ksp_version": "1.3.1",
@@ -17,7 +17,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSP-RO/KSCSwitcher/releases/download/1.4.5.0/KSCSwitcher_1.4.5.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/KSCSwitcher/releases/download/1.4.5.0/KSCSwitcher_1.4.5.0.zip",
     "download_size": 26953,
     "download_hash": {
         "sha1": "18F35FF55A7BA08E32466AEC430C6011D9F0549B",

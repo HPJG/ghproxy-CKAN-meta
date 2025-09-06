@@ -7,7 +7,7 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/167450-131-textures-unlimited-pbr-shader-texture-and-model-api-11-11-17/",
-        "repository": "https://ghproxy.net/https://github.com/shadowmage45/TexturesUnlimited"
+        "repository": "https://hk.gh-proxy.com/https://github.com/shadowmage45/TexturesUnlimited"
     },
     "version": "1.2.3.17",
     "ksp_version_min": "1.5.0",
@@ -23,7 +23,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/shadowmage45/TexturesUnlimited/releases/download/1.2.3.17/TexturesUnlimited-1.2.3.17.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/shadowmage45/TexturesUnlimited/releases/download/1.2.3.17/TexturesUnlimited-1.2.3.17.zip",
     "download_size": 5483102,
     "download_hash": {
         "sha1": "344B7D7A3A42D0A794134F201EA339CE5737006A",

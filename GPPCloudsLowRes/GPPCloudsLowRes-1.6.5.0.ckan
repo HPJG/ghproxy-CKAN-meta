@@ -12,8 +12,8 @@
     "license": "CC-BY-NC-ND",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/152136-galileos-planet-pack/",
-        "repository": "https://ghproxy.net/https://github.com/Galileo88/Galileos-Planet-Pack",
-        "bugtracker": "https://ghproxy.net/https://github.com/Galileo88/Galileos-Planet-Pack/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/Galileo88/Galileos-Planet-Pack",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Galileo88/Galileos-Planet-Pack/issues",
         "remote-avc": "https://raw.githubusercontent.com/Galileo88/Galileos-Planet-Pack/master/GameData/GPP/Version/GalileosPlanetPack.version"
     },
     "tags": [
@@ -53,7 +53,7 @@
             "comment": "This installs the low resolution clouds configs for GPP"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Galileo88/Galileos-Planet-Pack/releases/download/1.6.5.0/Galileos-Planet-Pack-1.6.5.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Galileo88/Galileos-Planet-Pack/releases/download/1.6.5.0/Galileos-Planet-Pack-1.6.5.0.zip",
     "download_size": 363085389,
     "download_hash": {
         "sha1": "54B62137805C046A6A850FD8991F143DC90B83FD",

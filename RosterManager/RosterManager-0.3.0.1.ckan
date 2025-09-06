@@ -14,8 +14,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/100762-wip-roster-manager-0200a-agesalaries/",
         "spacedock": "https://spacedock.info/mod/191/RosterManager",
-        "repository": "https://ghproxy.net/https://github.com/PapaJoesSoup/RosterManager",
-        "bugtracker": "https://ghproxy.net/https://github.com/PapaJoesSoup/RosterManager/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/PapaJoesSoup/RosterManager",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/PapaJoesSoup/RosterManager/issues",
         "remote-avc": " https://raw.githubusercontent.com/papajoessoup/RosterManager/master/RosterManager/Distribution/GameData/RosterManager/RosterManager.version",
         "x_screenshot": "https://spacedock.info/content/Papa_Joe_926/RosterManager/RosterManager-1458172933.8943553.png"
     },
@@ -31,7 +31,7 @@
         "zh-cn"
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/PapaJoesSoup/RosterManager/releases/download/0.3.0.1/RosterManager.0.3.0.1_02132022.zip",
+        "https://hk.gh-proxy.com/https://github.com/PapaJoesSoup/RosterManager/releases/download/0.3.0.1/RosterManager.0.3.0.1_02132022.zip",
         "https://spacedock.info/mod/191/RosterManager/download/0.3.0.1"
     ],
     "download_size": 114317,

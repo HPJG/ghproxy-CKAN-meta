@@ -1,0 +1,27 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "ChineseTianGongScienceSpaceStation",
+    "name": "Chinese TianGong Science Space Station",
+    "abstract": "Chinese TianGong Science Space Station",
+    "author": "54znzn",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/139807"
+    },
+    "version": "0.1.4",
+    "ksp_version": "1.0.5",
+    "install": [
+        {
+            "find": "tiangong",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/ChineseTianGongScienceSpaceStation-0.1.4/9DC9E64B-ChineseTianGongScienceSpaceStation-0.1.4.zip",
+    "download_size": 7378169,
+    "download_hash": {
+        "sha1": "9DC9E64B2E6285627B4DFB8C37903531DDFB5283",
+        "sha256": "47BA067F3F11D369A2221A8FB7219ED319E58C9146633EEDE78A149C3E35398C"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

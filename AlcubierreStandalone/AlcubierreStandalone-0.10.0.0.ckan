@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://umbraspaceindustries.github.io/UmbraSpaceIndustries/",
-        "repository": "https://ghproxy.net/https://github.com/BobPalmer/WarpDrive"
+        "repository": "https://hk.gh-proxy.com/https://github.com/BobPalmer/WarpDrive"
     },
     "version": "0.10.0.0",
     "ksp_version_min": "1.4.0",
@@ -24,7 +24,7 @@
             "install_to": "GameData/UmbraSpaceIndustries"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/BobPalmer/WarpDrive/releases/download/0.10.0.0/WarpDrive_0.10.0.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/BobPalmer/WarpDrive/releases/download/0.10.0.0/WarpDrive_0.10.0.0.zip",
     "download_size": 2274687,
     "download_hash": {
         "sha1": "351329633A3D7BB14070CF8BC347D79CC7C7C46F",

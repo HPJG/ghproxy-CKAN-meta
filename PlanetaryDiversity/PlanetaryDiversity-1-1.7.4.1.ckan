@@ -14,8 +14,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/187999-173-pla",
         "spacedock": "https://spacedock.info/mod/2243/Planetary%20Diversity",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/Planetary-Diversity",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/Planetary-Diversity/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/Planetary-Diversity",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/Planetary-Diversity/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/PlanetaryDiversity"
     },
     "tags": [

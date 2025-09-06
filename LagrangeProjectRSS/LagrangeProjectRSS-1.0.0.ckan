@@ -10,8 +10,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/226357-lagrangeproject-rss/",
-        "repository": "https://ghproxy.net/https://github.com/dongk99/LagrangeProjectRSS",
-        "bugtracker": "https://ghproxy.net/https://github.com/dongk99/LagrangeProjectRSS/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/dongk99/LagrangeProjectRSS",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/dongk99/LagrangeProjectRSS/issues",
         "remote-avc": "https://raw.githubusercontent.com/LagrangeProjectRSS/master/GameData/LagrangeProjectRSS/LPR.version"
     },
     "tags": [
@@ -30,7 +30,7 @@
             "name": "RealSolarSystem"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/dongk99/LagrangeProjectRSS/releases/download/1.0.0/LagrangeProjectRSS.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/dongk99/LagrangeProjectRSS/releases/download/1.0.0/LagrangeProjectRSS.zip",
     "download_size": 7874,
     "download_hash": {
         "sha1": "A312F2BC73788BA12A4CB1AA5E17E76AA07C7D60",

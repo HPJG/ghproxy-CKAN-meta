@@ -14,8 +14,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/178484-14x",
         "spacedock": "https://spacedock.info/mod/962/Wwwwwwwww",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/Magico13_Modlets",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/Magico13_Modlets/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/Magico13_Modlets",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/Magico13_Modlets/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/Wwwwwwwww"
     },
     "tags": [
@@ -24,7 +24,7 @@
         "convenience"
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/linuxgurugamer/Magico13_Modlets/releases/download/1.1.4.3/Wwwwwwwww-1.12.0-1.1.4.3.zip",
+        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/Magico13_Modlets/releases/download/1.1.4.3/Wwwwwwwww-1.12.0-1.1.4.3.zip",
         "https://spacedock.info/mod/962/Wwwwwwwww/download/1.1.4.3"
     ],
     "download_size": 6486,

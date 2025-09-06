@@ -14,8 +14,8 @@
     "ksp_version_max": "1.12.99",
     "license": "GPL-3.0",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/Tantares/Resurfaced",
-        "bugtracker": "https://ghproxy.net/https://github.com/Tantares/Resurfaced/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/Tantares/Resurfaced",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Tantares/Resurfaced/issues",
         "remote-avc": "https://raw.githubusercontent.com/Tantares/Resurfaced/master/resurfaced.version"
     },
     "tags": [
@@ -26,7 +26,7 @@
             "name": "Shabby"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Tantares/Resurfaced/releases/download/v1.0/resurfaced.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Tantares/Resurfaced/releases/download/v1.0/resurfaced.zip",
     "download_size": 40960,
     "download_hash": {
         "sha1": "BE0A0D91498C080079608818992FF4DFF914F2A5",

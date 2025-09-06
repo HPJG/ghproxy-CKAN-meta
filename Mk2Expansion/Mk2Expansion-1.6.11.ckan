@@ -7,7 +7,7 @@
     "license": "CC-BY-4.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/109145-105",
-        "repository": "https://ghproxy.net/https://github.com/SuicidalInsanity/Mk2Expansion"
+        "repository": "https://hk.gh-proxy.com/https://github.com/SuicidalInsanity/Mk2Expansion"
     },
     "version": "1.6.11",
     "ksp_version": "1.0.5",
@@ -48,7 +48,7 @@
             "install_to": "Ships"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/SuicidalInsanity/Mk2Expansion/releases/download/1.6.11/Mk2Expansion-1.6.11.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/SuicidalInsanity/Mk2Expansion/releases/download/1.6.11/Mk2Expansion-1.6.11.zip",
     "download_size": 9836987,
     "download_hash": {
         "sha1": "F5BB8DF9368C2561697F9714EB23547F27D18DFA",

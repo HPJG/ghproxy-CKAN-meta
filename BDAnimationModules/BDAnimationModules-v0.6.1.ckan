@@ -1,0 +1,29 @@
+{
+    "spec_version": 1,
+    "identifier": "BDAnimationModules",
+    "name": "BahamutoD Animation Modules",
+    "abstract": "Animation modules plugin for KSP",
+    "author": "BahamutoD",
+    "license": "CC-BY-SA-3.0",
+    "resources": {
+        "homepage": "https://hk.gh-proxy.com/https://github.com/BahamutoD/BDAnimationModules",
+        "repository": "https://hk.gh-proxy.com/https://github.com/BahamutoD/BDAnimationModules"
+    },
+    "version": "v0.6.1",
+    "ksp_version_min": "1.0.0",
+    "ksp_version_max": "1.0.2",
+    "install": [
+        {
+            "file": "GameData/BahaSP",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://hk.gh-proxy.com/https://github.com/BahamutoD/BDAnimationModules/releases/download/v0.6.1/BDAnimationModules-v0.6.1.zip",
+    "download_size": 27337,
+    "download_hash": {
+        "sha1": "3D4CB122365AF0E1D49CED7B9924C4D245FEFF76",
+        "sha256": "EC9CED28BA9A6178B3CC22D64EF6C5FDE3B73BFEA5B7FCC7C2EE67B1137BFC9C"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

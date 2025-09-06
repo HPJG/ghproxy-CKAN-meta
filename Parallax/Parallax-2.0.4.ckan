@@ -10,8 +10,8 @@
     "license": "CC-BY-NC-ND-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/197024-*",
-        "repository": "https://ghproxy.net/https://github.com/Gameslinx/Tessellation",
-        "bugtracker": "https://ghproxy.net/https://github.com/Gameslinx/Tessellation/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Gameslinx/Tessellation",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Gameslinx/Tessellation/issues"
     },
     "tags": [
         "plugin",
@@ -46,7 +46,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Gameslinx/Tessellation/releases/download/2.0.4/Parallax-2.0.4.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Gameslinx/Tessellation/releases/download/2.0.4/Parallax-2.0.4.zip",
     "download_size": 4174586,
     "download_hash": {
         "sha1": "821BFE55B57D15E643C0487CBC73A1E942202BC1",

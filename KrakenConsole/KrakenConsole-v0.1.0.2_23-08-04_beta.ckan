@@ -11,8 +11,8 @@
     "ksp_version": "any",
     "license": "AGPL-3.0",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/RafertyLee/Kraken",
-        "bugtracker": "https://ghproxy.net/https://github.com/RafertyLee/Kraken/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/RafertyLee/Kraken",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/RafertyLee/Kraken/issues"
     },
     "tags": [
         "app",
@@ -26,7 +26,7 @@
             "install_to": "GameData/KrakenConsole"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/RafertyLee/Kraken/releases/download/Kraken_Console_v0.1.0.2_23-08-04_beta/KrakenConsole.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/RafertyLee/Kraken/releases/download/Kraken_Console_v0.1.0.2_23-08-04_beta/KrakenConsole.zip",
     "download_size": 3886,
     "download_hash": {
         "sha1": "D955E76524ECE5367BFC02608D1C9BD38DAFA065",

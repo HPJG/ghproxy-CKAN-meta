@@ -8,8 +8,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/107085",
-        "repository": "https://ghproxy.net/https://github.com/IRnifty/KerbalConfigEditor",
-        "bugtracker": "https://ghproxy.net/https://github.com/IRnifty/KerbalConfigEditor/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/IRnifty/KerbalConfigEditor",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/IRnifty/KerbalConfigEditor/issues",
         "kerbalstuff": "https://kerbalstuff.com/mod/495",
         "x_screenshot": "https://kerbalstuff.com/content/Nifty255_77/Kerbal_Config_Editor/Kerbal_Config_Editor.png"
     },

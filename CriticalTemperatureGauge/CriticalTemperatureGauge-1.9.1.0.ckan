@@ -13,8 +13,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/146239-*",
-        "repository": "https://ghproxy.net/https://github.com/formicant/CriticalTemperatureGauge",
-        "bugtracker": "https://ghproxy.net/https://github.com/formicant/CriticalTemperatureGauge/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/formicant/CriticalTemperatureGauge",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/formicant/CriticalTemperatureGauge/issues"
     },
     "tags": [
         "plugin",
@@ -27,7 +27,7 @@
         "ru",
         "zh-cn"
     ],
-    "download": "https://ghproxy.net/https://github.com/formicant/CriticalTemperatureGauge/releases/download/1.9.1.0/CriticalTemperatureGauge-1.9.1.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/formicant/CriticalTemperatureGauge/releases/download/1.9.1.0/CriticalTemperatureGauge-1.9.1.0.zip",
     "download_size": 27981,
     "download_hash": {
         "sha1": "2C438118753F2AD0B740A430F1253B89E0FB23DE",

@@ -7,7 +7,7 @@
     "license": "LGPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/160878-*",
-        "repository": "https://ghproxy.net/https://github.com/themaster402/AstronomersVisualPack"
+        "repository": "https://hk.gh-proxy.com/https://github.com/themaster402/AstronomersVisualPack"
     },
     "version": "2:3.7.0.0",
     "ksp_version_min": "1.4.0",
@@ -49,7 +49,7 @@
             "name": "TextureReplacer"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/themaster402/AstronomersVisualPack/releases/download/v3.7/AVP.v.3.7.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/themaster402/AstronomersVisualPack/releases/download/v3.7/AVP.v.3.7.zip",
     "download_size": 77783375,
     "download_hash": {
         "sha1": "50131EA95B5B97D0086F39DB22F837B1DC333A94",

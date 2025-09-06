@@ -9,8 +9,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/219015-*",
-        "repository": "https://ghproxy.net/https://github.com/UltraJohn/StockAlarmClockDisabler",
-        "bugtracker": "https://ghproxy.net/https://github.com/UltraJohn/StockAlarmClockDisabler/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/UltraJohn/StockAlarmClockDisabler",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/UltraJohn/StockAlarmClockDisabler/issues"
     },
     "tags": [
         "plugin",
@@ -31,7 +31,7 @@
             "name": "KerbalAlarmClock"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/UltraJohn/StockAlarmClockDisabler/releases/download/v1.0.0/StockAlarmClockDisabler.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/UltraJohn/StockAlarmClockDisabler/releases/download/v1.0.0/StockAlarmClockDisabler.zip",
     "download_size": 15565,
     "download_hash": {
         "sha1": "3595A9AA13E2712E5201EB20B29CBE5F430F0125",

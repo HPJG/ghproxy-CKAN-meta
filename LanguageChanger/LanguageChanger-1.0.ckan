@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/228002-112x-language-changer/",
         "spacedock": "https://spacedock.info/mod/3902/LanguageChanger",
-        "repository": "https://ghproxy.net/https://github.com/averageksp/LanguageChanger",
-        "bugtracker": "https://ghproxy.net/https://github.com/averageksp/LanguageChanger/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/averageksp/LanguageChanger",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/averageksp/LanguageChanger/issues",
         "remote-avc": "https://raw.githubusercontent.com/averageksp/LanguageChanger/refs/heads/main/Versioning/LanguageChanger.version",
         "x_screenshot": "https://spacedock.info/content/averageksp_154330/LanguageChanger/LanguageChanger-1748602920.png"
     },
@@ -32,7 +32,7 @@
         "zh-cn"
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/averageksp/LanguageChanger/releases/download/1.0/LanguageChanger.zip",
+        "https://hk.gh-proxy.com/https://github.com/averageksp/LanguageChanger/releases/download/1.0/LanguageChanger.zip",
         "https://spacedock.info/mod/3902/LanguageChanger/download/1.0"
     ],
     "download_size": 2952860,

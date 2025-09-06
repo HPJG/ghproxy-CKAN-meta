@@ -1,0 +1,71 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "CommNetAntennasInfo",
+    "name": "CommNet Antennas Info",
+    "abstract": "The plugin, what enhanced antennas info panel in the VAB/SPH",
+    "author": "flart",
+    "version": "3.1.0",
+    "ksp_version_min": "1.8.0",
+    "ksp_version_max": "1.12.9",
+    "license": "GPL-3.0",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/177292-*",
+        "repository": "https://hk.gh-proxy.com/https://github.com/yalov/CommNetAntennasInfo",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/yalov/CommNetAntennasInfo/issues",
+        "remote-avc": "https://raw.githubusercontent.com/yalov/CommNetAntennasInfo/master/CommNetAntennasInfo.version"
+    },
+    "tags": [
+        "plugin",
+        "information",
+        "comms"
+    ],
+    "localizations": [
+        "en-us",
+        "ja",
+        "ru",
+        "zh-cn"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "CommNetAntennasExtension"
+        },
+        {
+            "name": "CommNetAntennasConsumptor"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "SpeedUnitAnnex"
+        },
+        {
+            "name": "ScienceLabInfo"
+        },
+        {
+            "name": "ScienceSituationInfo"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "RemoteTech"
+        },
+        {
+            "name": "Kerbalism"
+        }
+    ],
+    "download": "https://hk.gh-proxy.com/https://github.com/yalov/CommNetAntennasInfo/releases/download/3.1.0/CommNetAntennasInfo-v3.1.0.zip",
+    "download_size": 89044,
+    "download_hash": {
+        "sha1": "DCE947D190E5D5A2BEEA10965770F16155B25977",
+        "sha256": "AF9CEC01C540A3447FC1416C203292BAD0AA91BB9570488D4E684BFD1CDF4A5A"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 67073,
+    "release_date": "2021-09-26T11:48:46Z",
+    "x_generated_by": "netkan"
+}

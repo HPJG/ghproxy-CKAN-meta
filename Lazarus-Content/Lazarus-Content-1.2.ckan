@@ -9,8 +9,8 @@
     "license": "CC-BY-NC-ND",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/210839-*",
-        "repository": "https://ghproxy.net/https://github.com/hmelioo/Lazarus",
-        "bugtracker": "https://ghproxy.net/https://github.com/hmelioo/Lazarus/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/hmelioo/Lazarus",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/hmelioo/Lazarus/issues"
     },
     "tags": [
         "config",
@@ -50,7 +50,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/hmelioo/Lazarus/releases/download/1.2/Lazarus-v1.2-Content.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/hmelioo/Lazarus/releases/download/1.2/Lazarus-v1.2-Content.zip",
     "download_size": 579320313,
     "download_hash": {
         "sha1": "080E88857E7BB111E163595F131B97860467D89D",

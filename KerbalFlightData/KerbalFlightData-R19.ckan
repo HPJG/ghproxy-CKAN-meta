@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/80842",
-        "repository": "https://ghproxy.net/https://github.com/DaMichel/KerbalFlightData"
+        "repository": "https://hk.gh-proxy.com/https://github.com/DaMichel/KerbalFlightData"
     },
     "version": "R19",
     "ksp_version": "1.0",
@@ -20,7 +20,7 @@
             "name": "FerramAerospaceResearch"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/DaMichel/KerbalFlightData/releases/download/R19/KerbalFlightDataR19.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/DaMichel/KerbalFlightData/releases/download/R19/KerbalFlightDataR19.zip",
     "download_size": 22152,
     "download_hash": {
         "sha1": "499BE37D9CA55B5F9FB1A7622A608B26FFB866DB",

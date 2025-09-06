@@ -9,7 +9,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/24551-Firespitter-propeller-plane-and-helicopter-parts",
-        "repository": "https://ghproxy.net/https://github.com/snjo/Firespitter/"
+        "repository": "https://hk.gh-proxy.com/https://github.com/snjo/Firespitter/"
     },
     "version": "7.1",
     "ksp_version": "1.0.2",
@@ -19,7 +19,7 @@
             "file": "Firespitter"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/BobPalmer/Firespitter/releases/download/7.1.plugin/FSPlugin_7.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/BobPalmer/Firespitter/releases/download/7.1.plugin/FSPlugin_7.1.zip",
     "download_size": 100236,
     "download_hash": {
         "sha1": "AE6C38E70958DC6EC7169634CF11634965FD66EA",

@@ -6,8 +6,8 @@
     "author": "severedsolo",
     "license": "MIT",
     "resources": {
-        "homepage": "https://ghproxy.net/https://github.com/severedsolo/PAWS",
-        "repository": "https://ghproxy.net/https://github.com/severedsolo/PAWS"
+        "homepage": "https://hk.gh-proxy.com/https://github.com/severedsolo/PAWS",
+        "repository": "https://hk.gh-proxy.com/https://github.com/severedsolo/PAWS"
     },
     "version": "1.1.0.1",
     "ksp_version": "1.4.1",
@@ -16,7 +16,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/severedsolo/PAWS/releases/download/1.1.0.1/PAWS1.1.0.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/severedsolo/PAWS/releases/download/1.1.0.1/PAWS1.1.0.1.zip",
     "download_size": 6944,
     "download_hash": {
         "sha1": "D432FFA2FB9DEE655AD452348C0AF861FA313B5C",

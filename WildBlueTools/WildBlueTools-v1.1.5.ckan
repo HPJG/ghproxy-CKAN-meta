@@ -6,8 +6,8 @@
     "author": "Angel125",
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
-        "homepage": "https://ghproxy.net/https://github.com/Angel-125/WildBlueTools",
-        "repository": "https://ghproxy.net/https://github.com/Angel-125/WildBlueTools"
+        "homepage": "https://hk.gh-proxy.com/https://github.com/Angel-125/WildBlueTools",
+        "repository": "https://hk.gh-proxy.com/https://github.com/Angel-125/WildBlueTools"
     },
     "version": "v1.1.5",
     "ksp_version": "1.1.2",
@@ -26,7 +26,7 @@
             "install_to": "GameData/WildBlueIndustries"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Angel-125/WildBlueTools/releases/download/v1.1.5/WildBlueTools_1_1_5.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Angel-125/WildBlueTools/releases/download/v1.1.5/WildBlueTools_1_1_5.zip",
     "download_size": 2292414,
     "download_hash": {
         "sha1": "C2B039391A332D37CE61BF00731EAA60EBE3DEA3",

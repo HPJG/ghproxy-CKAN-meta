@@ -9,8 +9,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/83305",
         "kerbalstuff": "https://kerbalstuff.com/mod/134/RemoteTech",
-        "repository": "https://ghproxy.net/https://github.com/RemoteTechnologiesGroup/RemoteTech",
-        "bugtracker": "https://ghproxy.net/https://github.com/RemoteTechnologiesGroup/RemoteTech/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/RemoteTechnologiesGroup/RemoteTech",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/RemoteTechnologiesGroup/RemoteTech/issues",
         "manual": "http://remotetechnologiesgroup.github.io/RemoteTech/",
         "x_screenshot": "https://kerbalstuff.com/content/Starstrider42_807/RemoteTech/RemoteTech.png"
     },

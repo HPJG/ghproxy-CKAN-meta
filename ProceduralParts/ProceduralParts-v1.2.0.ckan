@@ -6,8 +6,8 @@
     "author": "ItMustBeACamel",
     "license": "CC-BY-SA-3.0",
     "resources": {
-        "homepage": "https://ghproxy.net/https://github.com/Swamp-Ig/ProceduralParts",
-        "repository": "https://ghproxy.net/https://github.com/Swamp-Ig/ProceduralParts"
+        "homepage": "https://hk.gh-proxy.com/https://github.com/Swamp-Ig/ProceduralParts",
+        "repository": "https://hk.gh-proxy.com/https://github.com/Swamp-Ig/ProceduralParts"
     },
     "version": "v1.2.0",
     "ksp_version": "1.1.0",
@@ -31,7 +31,7 @@
             "filter": "Source"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Swamp-Ig/ProceduralParts/releases/download/v1.2.0/ProceduralParts-1.2.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Swamp-Ig/ProceduralParts/releases/download/v1.2.0/ProceduralParts-1.2.zip",
     "download_size": 2712084,
     "download_hash": {
         "sha1": "D354D1894BB7F5A9BC871C70760E40EBE6529B7A",

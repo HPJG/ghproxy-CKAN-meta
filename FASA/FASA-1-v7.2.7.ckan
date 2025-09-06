@@ -10,9 +10,9 @@
     "ksp_version_max": "1.12.99",
     "license": "CC-BY-SA",
     "resources": {
-        "homepage": "https://ghproxy.net/https://github.com/KSP-RO/FASA-RO",
-        "repository": "https://ghproxy.net/https://github.com/KSP-RO/FASA-RO",
-        "bugtracker": "https://ghproxy.net/https://github.com/KSP-RO/FASA-RO/issues",
+        "homepage": "https://hk.gh-proxy.com/https://github.com/KSP-RO/FASA-RO",
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/FASA-RO",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-RO/FASA-RO/issues",
         "remote-avc": "http://raw.githubusercontent.com/KSP-RO/FASA-RO/master/GameData/FASA/FASA.version"
     },
     "tags": [
@@ -42,7 +42,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSP-RO/FASA-RO/releases/download/v7.2.7/FASA_v7.2.7.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/FASA-RO/releases/download/v7.2.7/FASA_v7.2.7.zip",
     "download_size": 93330738,
     "download_hash": {
         "sha1": "6DFC9AC4A1A9BB904D69BC0ADD65F8C36DE9A013",

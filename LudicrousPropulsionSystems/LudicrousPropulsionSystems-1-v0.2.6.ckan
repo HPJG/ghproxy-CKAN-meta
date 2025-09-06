@@ -10,8 +10,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/159040-*",
-        "repository": "https://ghproxy.net/https://github.com/BenjaminCronin/Ludicrous-Propulsion-Systems",
-        "bugtracker": "https://ghproxy.net/https://github.com/BenjaminCronin/Ludicrous-Propulsion-Systems/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/BenjaminCronin/Ludicrous-Propulsion-Systems",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/BenjaminCronin/Ludicrous-Propulsion-Systems/issues"
     },
     "tags": [
         "parts"

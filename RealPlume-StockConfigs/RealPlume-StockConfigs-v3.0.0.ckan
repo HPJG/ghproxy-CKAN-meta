@@ -11,7 +11,7 @@
     "license": "CC-BY-NC-SA",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/188033-173-realplume-stock-v140-06sep19/",
-        "repository": "https://ghproxy.net/https://github.com/KSP-RO/RealPlume-StockConfigs"
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealPlume-StockConfigs"
     },
     "version": "v3.0.0",
     "ksp_version_min": "1.4",
@@ -107,7 +107,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSP-RO/RealPlume-StockConfigs/releases/download/v3.0.0/RealPlume-Stock_v3.0.0.KSP_1.7.3.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealPlume-StockConfigs/releases/download/v3.0.0/RealPlume-Stock_v3.0.0.KSP_1.7.3.zip",
     "download_size": 43511816,
     "download_hash": {
         "sha1": "91CD2E50C34353095284D7C1D9AD91CF73292372",

@@ -14,7 +14,7 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/211571-112x-decoupler-shroud-adopted-now-with-universal-storage-2-compatibility/",
         "spacedock": "https://spacedock.info/mod/1692/Decoupler%20Shroud",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/DecouplerShroud",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/DecouplerShroud",
         "remote-avc": "http://ksp.spacetux.net/avc/DecouplerShroud",
         "x_screenshot": "https://spacedock.info/content/navot_15097/Decoupler_Shroud/Decoupler_Shroud-1674051346.jpg"
     },
@@ -30,7 +30,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/linuxgurugamer/DecouplerShroud/releases/download/0.8.1/DecouplerShroud-1.12.0-0.8.1.zip",
+        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/DecouplerShroud/releases/download/0.8.1/DecouplerShroud-1.12.0-0.8.1.zip",
         "https://spacedock.info/mod/1692/Decoupler%20Shroud/download/0.8.1"
     ],
     "download_size": 721704,

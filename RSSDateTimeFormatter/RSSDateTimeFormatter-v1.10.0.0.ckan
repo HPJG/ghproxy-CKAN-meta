@@ -22,8 +22,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/139335-*",
-        "repository": "https://ghproxy.net/https://github.com/KSP-RO/RSSTimeFormatter",
-        "bugtracker": "https://ghproxy.net/https://github.com/KSP-RO/RSSTimeFormatter/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RSSTimeFormatter",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RSSTimeFormatter/issues",
         "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=294"
     },
     "tags": [
@@ -36,7 +36,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSP-RO/RSSTimeFormatter/releases/download/v1.10.0.0/RSSDateTime-v1.10.0.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RSSTimeFormatter/releases/download/v1.10.0.0/RSSDateTime-v1.10.0.0.zip",
     "download_size": 6534,
     "download_hash": {
         "sha1": "962E63E97BCB1059F403D925C460675466D9B5A4",

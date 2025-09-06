@@ -7,7 +7,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/181852-15x~16x-progressivecolonizationsystem-life-support-colonization-for-more-fun-in-late-game/",
-        "repository": "https://ghproxy.net/https://github.com/SteveBenz/ProgressiveColonizationSystem"
+        "repository": "https://hk.gh-proxy.com/https://github.com/SteveBenz/ProgressiveColonizationSystem"
     },
     "version": "v0.0.6",
     "ksp_version_min": "1.5.1",
@@ -29,7 +29,7 @@
             "name": "StationPartsExpansionRedux"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/SteveBenz/ProgressiveColonizationSystem/releases/download/v0.0.6/ProgressiveColonizationSystem.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/SteveBenz/ProgressiveColonizationSystem/releases/download/v0.0.6/ProgressiveColonizationSystem.zip",
     "download_size": 63438,
     "download_hash": {
         "sha1": "8C17FF64E13D6279D0C5673D6D44E8E0119827D4",

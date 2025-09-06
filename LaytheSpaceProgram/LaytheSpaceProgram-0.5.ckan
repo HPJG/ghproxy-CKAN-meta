@@ -9,7 +9,7 @@
     ],
     "license": "MIT",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/GregroxMun/Alien-Space-Programs"
+        "repository": "https://hk.gh-proxy.com/https://github.com/GregroxMun/Alien-Space-Programs"
     },
     "version": "0.5",
     "ksp_version": "1.0.5",
@@ -29,7 +29,7 @@
             "name": "AlienSpaceProgram"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/GregroxMun/Alien-Space-Programs/releases/download/0.5/LaytheSpaceProgram0.4.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/GregroxMun/Alien-Space-Programs/releases/download/0.5/LaytheSpaceProgram0.4.1.zip",
     "download_size": 446615,
     "download_hash": {
         "sha1": "443799BA8F9479ED09DEB608A1B5354233DE2C8E",

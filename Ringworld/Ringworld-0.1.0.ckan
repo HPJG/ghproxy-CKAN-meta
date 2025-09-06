@@ -11,8 +11,8 @@
     "license": "Unlicense",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/167549-*",
-        "repository": "https://ghproxy.net/https://github.com/HebaruSan/Ringworld",
-        "bugtracker": "https://ghproxy.net/https://github.com/HebaruSan/Ringworld/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/HebaruSan/Ringworld",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/HebaruSan/Ringworld/issues",
         "remote-avc": "https://raw.githubusercontent.com/HebaruSan/Ringworld/master/GameData/Ringworld/Ringworld.version"
     },
     "tags": [
@@ -36,7 +36,7 @@
             "name": "LoadingTipsPlus"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/HebaruSan/Ringworld/releases/download/0.1.0/Ringworld.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/HebaruSan/Ringworld/releases/download/0.1.0/Ringworld.zip",
     "download_size": 1545259,
     "download_hash": {
         "sha1": "DABD040DB7ACEEF687B280B68C5914734DA71C36",

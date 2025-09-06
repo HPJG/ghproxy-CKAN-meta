@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/194173-18x-19x-margos-resource-monitors/",
         "spacedock": "https://spacedock.info/mod/2467/Margo's%20Resource%20Monitors",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/ResourceMonitors",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/ResourceMonitors/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ResourceMonitors",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ResourceMonitors/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/ResourceMonitors"
     },
     "tags": [
@@ -43,7 +43,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/linuxgurugamer/ResourceMonitors/releases/download/0.0.2.2/Margos_Resource_Monitors-0.0.2.2.zip",
+        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ResourceMonitors/releases/download/0.0.2.2/Margos_Resource_Monitors-0.0.2.2.zip",
         "https://spacedock.info/mod/2467/Margo's%20Resource%20Monitors/download/0.0.2.2"
     ],
     "download_size": 2749546,

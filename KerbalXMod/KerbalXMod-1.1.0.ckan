@@ -9,8 +9,8 @@
     "license": "CC-BY-NC-ND-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/84389-kerbalxcom",
-        "repository": "https://ghproxy.net/https://github.com/Sujimichi/KerbalXMod",
-        "bugtracker": "https://ghproxy.net/https://github.com/Sujimichi/KerbalXMod/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Sujimichi/KerbalXMod",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Sujimichi/KerbalXMod/issues"
     },
     "tags": [
         "plugin",
@@ -27,7 +27,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Sujimichi/KerbalXMod/releases/download/1.1.0/KerbalX.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Sujimichi/KerbalXMod/releases/download/1.1.0/KerbalX.zip",
     "download_size": 120700,
     "download_hash": {
         "sha1": "1601EB25FFEFD4A34883AD6C134791D055EC8558",

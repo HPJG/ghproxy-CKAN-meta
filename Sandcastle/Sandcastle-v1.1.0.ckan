@@ -9,8 +9,8 @@
     "license": "restricted",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/201137-*",
-        "repository": "https://ghproxy.net/https://github.com/Angel-125/Sandcastle",
-        "bugtracker": "https://ghproxy.net/https://github.com/Angel-125/Sandcastle/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/Angel-125/Sandcastle",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Angel-125/Sandcastle/issues",
         "remote-avc": "https://raw.githubusercontent.com/Angel-125/Sandcastle/main/ReleaseFolder/GameData/WildBlueIndustries/Sandcastle/Sandcastle.version"
     },
     "tags": [
@@ -53,7 +53,7 @@
             "filter_regexp": "\\.pdb$"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Angel-125/Sandcastle/releases/download/v1.1.0/Sandcastle.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Angel-125/Sandcastle/releases/download/v1.1.0/Sandcastle.zip",
     "download_size": 66314556,
     "download_hash": {
         "sha1": "06B6B2DF6B6C9424FA6BA7629FBA0DCE90C6F5CC",

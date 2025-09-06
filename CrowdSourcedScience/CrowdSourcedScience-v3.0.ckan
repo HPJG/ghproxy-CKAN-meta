@@ -7,7 +7,7 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/102373",
-        "repository": "https://ghproxy.net/https://github.com/DuoDex/CrowdSourcedScience"
+        "repository": "https://hk.gh-proxy.com/https://github.com/DuoDex/CrowdSourcedScience"
     },
     "version": "v3.0",
     "ksp_version": "1.0",
@@ -17,7 +17,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/DuoDex/CrowdSourcedScience/releases/download/v3.0/CrowdSourcedScience.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/DuoDex/CrowdSourcedScience/releases/download/v3.0/CrowdSourcedScience.zip",
     "download_size": 1063104,
     "download_hash": {
         "sha1": "6EFEB4827556D7CB4C655524DD54C42C63DC9EC8",

@@ -8,7 +8,7 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/85834-1",
         "spacedock": "https://spacedock.info/mod/783/QuickCursorHider",
-        "repository": "https://ghproxy.net/https://github.com/malahx/QuickCursorHider"
+        "repository": "https://hk.gh-proxy.com/https://github.com/malahx/QuickCursorHider"
     },
     "version": "v1.00",
     "ksp_version_min": "1.1.0",

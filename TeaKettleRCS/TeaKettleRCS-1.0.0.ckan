@@ -9,8 +9,8 @@
     "license": "MIT",
     "resources": {
         "spacedock": "https://spacedock.info/mod/2842/Tea%20Kettle%20RCS",
-        "repository": "https://ghproxy.net/https://github.com/JadeOfMaar/TeaKettleRCS",
-        "bugtracker": "https://ghproxy.net/https://github.com/JadeOfMaar/TeaKettleRCS/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/TeaKettleRCS",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/TeaKettleRCS/issues",
         "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/TeaKettleRCS/main/GameData/TeaKettleRCS/Version/TeaKettleRCS.version",
         "x_screenshot": "https://spacedock.info/content/JadeOfMaar_11026/Tea_Kettle_RCS/Tea_Kettle_RCS-1630535657.20754.png"
     },

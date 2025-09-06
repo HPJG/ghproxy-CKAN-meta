@@ -14,8 +14,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/207891-ksp-131-hooligan-labs-airships-core-7010-2022-0509/",
         "spacedock": "https://spacedock.info/mod/3040/HL%20Airships%20Core",
-        "repository": "https://ghproxy.net/https://github.com/net-lisias-ksp/HLAirshipsCore",
-        "bugtracker": "https://ghproxy.net/https://github.com/net-lisias-ksp/HLAirshipsCore/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/net-lisias-ksp/HLAirshipsCore",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/net-lisias-ksp/HLAirshipsCore/issues",
         "remote-avc": "https://raw.githubusercontent.com/net-lisias-ksp/HLAirshipsCore/master/HLAirships.version",
         "x_screenshot": "https://spacedock.info/content/jewelshisen_4423/HL_Airships_Core/HL_Airships_Core-1654671461.png"
     },

@@ -7,8 +7,8 @@
     "version": "2:v0.10.8",
     "license": "restricted",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/Sigma88/Sigma-Dimensions",
-        "bugtracker": "https://ghproxy.net/https://github.com/Sigma88/Sigma-Dimensions/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Sigma88/Sigma-Dimensions",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Sigma88/Sigma-Dimensions/issues"
     },
     "tags": [
         "config",
@@ -33,7 +33,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Sigma88/Sigma-Dimensions/releases/download/v0.10.8/SigmaDimensions.v0.10.8.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Sigma88/Sigma-Dimensions/releases/download/v0.10.8/SigmaDimensions.v0.10.8.zip",
     "download_size": 55369,
     "download_hash": {
         "sha1": "892C0C026524CE0F3DC07ED9F04DEDC1E7CDF8E7",

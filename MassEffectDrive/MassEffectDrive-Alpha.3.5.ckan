@@ -9,8 +9,8 @@
     "license": "CC-BY-NC-SA-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/218243-112x-mass-effect-drive-mod/",
-        "repository": "https://ghproxy.net/https://github.com/Lucaspec72/Mass-Effect-Drive-Mod-KSP",
-        "bugtracker": "https://ghproxy.net/https://github.com/Lucaspec72/Mass-Effect-Drive-Mod-KSP/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Lucaspec72/Mass-Effect-Drive-Mod-KSP",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Lucaspec72/Mass-Effect-Drive-Mod-KSP/issues"
     },
     "tags": [
         "plugin",
@@ -24,7 +24,7 @@
             "name": "Harmony2"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Lucaspec72/Mass-Effect-Drive-Mod-KSP/releases/download/Alpha.3.5/MassEffectDrive.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Lucaspec72/Mass-Effect-Drive-Mod-KSP/releases/download/Alpha.3.5/MassEffectDrive.zip",
     "download_size": 21682,
     "download_hash": {
         "sha1": "BC97D1F1B3A07887EA611693B828DA586432000F",

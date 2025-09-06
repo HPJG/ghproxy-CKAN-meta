@@ -11,7 +11,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/64118",
-        "repository": "https://ghproxy.net/https://github.com/NathanKell/ModularFuelSystem"
+        "repository": "https://hk.gh-proxy.com/https://github.com/NathanKell/ModularFuelSystem"
     },
     "version": "rf-v8.3",
     "ksp_version": "0.90",
@@ -51,7 +51,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/NathanKell/ModularFuelSystem/releases/download/rf-v8.3/RealFuels_v8.3.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/NathanKell/ModularFuelSystem/releases/download/rf-v8.3/RealFuels_v8.3.zip",
     "download_size": 1947493,
     "download_hash": {
         "sha1": "BA410F1204A0C1D464BDA62B12E2AFE31973697B",

@@ -9,8 +9,8 @@
     "license": "CC-BY-NC-ND",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/99734-*",
-        "repository": "https://ghproxy.net/https://github.com/satoi8080/KSP-Spear-of-Longinus",
-        "bugtracker": "https://ghproxy.net/https://github.com/satoi8080/KSP-Spear-of-Longinus/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/satoi8080/KSP-Spear-of-Longinus",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/satoi8080/KSP-Spear-of-Longinus/issues"
     },
     "tags": [
         "parts"
@@ -25,7 +25,7 @@
             ]
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/satoi8080/KSP-Spear-of-Longinus/releases/download/v0.8/SpearofLonginus.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/satoi8080/KSP-Spear-of-Longinus/releases/download/v0.8/SpearofLonginus.zip",
     "download_size": 4104099,
     "download_hash": {
         "sha1": "3C16BCE1B3230C18878619FC025A773E24F1098F",

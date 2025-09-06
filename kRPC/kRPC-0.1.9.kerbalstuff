@@ -4,7 +4,7 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/69313",
-        "repository": "https://ghproxy.net/https://github.com/djungelorm/krpc",
+        "repository": "https://hk.gh-proxy.com/https://github.com/djungelorm/krpc",
         "kerbalstuff": "https://kerbalstuff.com/mod/636/kRPC:%20Remote%20Procedure%20Call%20Server"
     },
     "ksp_version": "1.0.2",

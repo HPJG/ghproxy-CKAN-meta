@@ -14,8 +14,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/182640-161-jdiminishingrtg-v140-realistic-configurable-radioisotope-decay/",
         "spacedock": "https://spacedock.info/mod/2096/JDiminishingRTG",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/JDiminishingRTG",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/JDiminishingRTG/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/JDiminishingRTG",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/JDiminishingRTG/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/JDiminishingRTG"
     },
     "tags": [
@@ -37,7 +37,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/linuxgurugamer/JDiminishingRTG/releases/download/1.6.1.1/JDiminishingRTG-1.12.0-1.6.1.1.zip",
+        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/JDiminishingRTG/releases/download/1.6.1.1/JDiminishingRTG-1.12.0-1.6.1.1.zip",
         "https://spacedock.info/mod/2096/JDiminishingRTG/download/1.6.1.1"
     ],
     "download_size": 18224,

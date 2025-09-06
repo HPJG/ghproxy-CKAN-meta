@@ -11,8 +11,8 @@
     "license": "CC-BY-NC-ND-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/79433-*",
-        "repository": "https://ghproxy.net/https://github.com/KSP-RO/SovietProbes",
-        "bugtracker": "https://ghproxy.net/https://github.com/KSP-RO/SovietProbes/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/SovietProbes",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-RO/SovietProbes/issues",
         "remote-avc": "http://raw.githubusercontent.com/KSP-RO/SovietProbes/master/GameData/RN_Soviet_Probes/SovietProbes.version"
     },
     "tags": [
@@ -45,7 +45,7 @@
             "install_to": "Ships"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSP-RO/SovietProbes/releases/download/v2.9/RN_Soviet_Probes_v2.9.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/SovietProbes/releases/download/v2.9/RN_Soviet_Probes_v2.9.zip",
     "download_size": 30106883,
     "download_hash": {
         "sha1": "E8C84A7E2CD0C1C50AF8C5CDA1CD7C2130CD40EA",

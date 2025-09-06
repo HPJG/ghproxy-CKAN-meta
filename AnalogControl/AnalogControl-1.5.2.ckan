@@ -7,7 +7,7 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/116888",
-        "repository": "https://ghproxy.net/https://github.com/Crzyrndm/Analog-Control"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Crzyrndm/Analog-Control"
     },
     "version": "1.5.2",
     "ksp_version": "1.0.4",
@@ -17,7 +17,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Crzyrndm/Analog-Control/releases/download/1.5.2/Analog.Control.v1.5.2.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Crzyrndm/Analog-Control/releases/download/1.5.2/Analog.Control.v1.5.2.0.zip",
     "download_size": 6803,
     "download_hash": {
         "sha1": "CF754EEC07DFDD6D500D511D23030F8846A0430F",

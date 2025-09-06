@@ -11,7 +11,7 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/178484-14x-magi",
         "spacedock": "https://spacedock.info/mod/644/Ship%20Save%20Splicer",
-        "repository": "https://ghproxy.net/https://github.com/magico13/Modlets"
+        "repository": "https://hk.gh-proxy.com/https://github.com/magico13/Modlets"
     },
     "version": "1:1.1.5",
     "ksp_version": "1.8.0",

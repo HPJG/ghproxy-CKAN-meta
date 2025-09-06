@@ -1,0 +1,35 @@
+{
+    "spec_version": 1,
+    "identifier": "CollisionFX",
+    "name": "Collision FX",
+    "abstract": "Adds bangs, sparks and skidding effects to parts.",
+    "author": "pizzaoverhead",
+    "license": "GPL-2.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/101496",
+        "repository": "https://hk.gh-proxy.com/https://github.com/pizzaoverhead/CollisionFX",
+        "kerbalstuff": "https://kerbalstuff.com/mod/381/Collision%20FX",
+        "x_screenshot": "https://kerbalstuff.com/content/pizzaoverhead_509/Collision_FX/Collision_FX.png"
+    },
+    "version": "3.3a",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/CollisionFX",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/CollisionFX-3.3a/C2F4D50A-CollisionFX-3.3a.zip",
+    "download_size": 7629563,
+    "download_hash": {
+        "sha1": "C2F4D50A7BD26AA684962B46F4FDA042A32C4027",
+        "sha256": "124893C1FACE675BDE6F22EE113761A7CF583BC542651EDBEC0724EAE83840FF"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

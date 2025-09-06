@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/163346-wip12x13x-fox-defense-contracts-bdac-addon-tank-turrets-ver-011/",
         "spacedock": "https://spacedock.info/mod/1455/Fox%20Defense%20Contracts%20-%20Tank%20turrets",
-        "repository": "https://ghproxy.net/https://github.com/lancefoxcia/FoxDefenseContracts",
-        "bugtracker": "https://ghproxy.net/https://github.com/lancefoxcia/FoxDefenseContracts/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/lancefoxcia/FoxDefenseContracts",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/lancefoxcia/FoxDefenseContracts/issues",
         "x_screenshot": "https://spacedock.info/content/Marhfg_14451/Fox_Defense_Contracts_-_Tank_turrets/Fox_Defense_Contracts_-_Tank_turrets-1552267222.039334.png"
     },
     "tags": [
@@ -45,7 +45,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/lancefoxcia/FoxDefenseContracts/releases/download/2.2/FoxDefenseContracts.zip",
+        "https://hk.gh-proxy.com/https://github.com/lancefoxcia/FoxDefenseContracts/releases/download/2.2/FoxDefenseContracts.zip",
         "https://spacedock.info/mod/1455/Fox%20Defense%20Contracts%20-%20Tank%20turrets/download/2.2"
     ],
     "download_size": 622492695,

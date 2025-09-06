@@ -11,7 +11,7 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/209329-112x-lackluster-labs-flying-boxes-continued/",
         "spacedock": "https://spacedock.info/mod/856/Lack%20Luster%20Labs%20Continued",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/LLL-Continued",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/LLL-Continued",
         "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/LLL-Continued/refs/heads/master/LLL.version",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Lack_Luster_Labs_Continued/Lack_Luster_Labs_Continued-1660947723.png"
     },
@@ -49,7 +49,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/linuxgurugamer/LLL-Continued/releases/download/1.4.1/LLL-1.12.0-1.4.1.zip",
+        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/LLL-Continued/releases/download/1.4.1/LLL-1.12.0-1.4.1.zip",
         "https://spacedock.info/mod/856/Lack%20Luster%20Labs%20Continued/download/1.4.1"
     ],
     "download_size": 12983740,

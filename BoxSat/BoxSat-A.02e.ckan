@@ -1,0 +1,37 @@
+{
+    "spec_version": "v1.20",
+    "identifier": "BoxSat",
+    "name": "BoxSat",
+    "abstract": "A modular, stackable, serviceable, & customizable satellite in a box!",
+    "author": [
+        "DasPenguin85",
+        "orcmaul"
+    ],
+    "license": "restricted",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/91616",
+        "curse": "http://kerbal.curseforge.com/ksp-mods/224250-boxsat"
+    },
+    "version": "A.02e",
+    "ksp_version": "1.0.2",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "BoxSatAlpha",
+            "install_to": "GameData",
+            "filter_regexp": "\\.ddsified$"
+        }
+    ],
+    "download": "http://addons-origin.cursecdn.com/files/2237/556/BoxSat%20vA.02e.zip",
+    "download_size": 27247473,
+    "download_hash": {
+        "sha1": "4A445A38D327669734EE84AEBFFAD6986C1F572A",
+        "sha256": "6C4C01FF4BD1841FC051EEA75EF64A341BFF94689E52316D0DF50E45C3ADAC53"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

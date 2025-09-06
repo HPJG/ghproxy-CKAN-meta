@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/218643-112x-no-intake-occlusion/",
         "spacedock": "https://spacedock.info/mod/3435/No%20Intake%20Occlusion",
-        "repository": "https://ghproxy.net/https://github.com/kaerospace/KerbalNoOcclusion",
-        "bugtracker": "https://ghproxy.net/https://github.com/kaerospace/KerbalNoOcclusion/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/kaerospace/KerbalNoOcclusion",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/kaerospace/KerbalNoOcclusion/issues",
         "x_screenshot": "https://spacedock.info/content/kAerospace_65633/No_Intake_Occlusion/No_Intake_Occlusion-1690463052.png"
     },
     "tags": [

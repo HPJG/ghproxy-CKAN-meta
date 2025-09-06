@@ -9,9 +9,9 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/184875-*/",
-        "repository": "https://ghproxy.net/https://github.com/JadeOfMaar/RationalResources",
-        "bugtracker": "https://ghproxy.net/https://github.com/JadeOfMaar/RationalResources/issues",
-        "discussions": "https://ghproxy.net/https://github.com/JadeOfMaar/RationalResources/discussions",
+        "repository": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/RationalResources",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/RationalResources/issues",
+        "discussions": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/RationalResources/discussions",
         "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/RationalResources/master/GameData/RationalResources/Version/RationalResources.version"
     },
     "tags": [
@@ -33,7 +33,7 @@
             "name": "CommunityResourcePack"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/JadeOfMaar/RationalResources/releases/download/3.3.1/RationalResources-3.3.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/RationalResources/releases/download/3.3.1/RationalResources-3.3.1.zip",
     "download_size": 38997580,
     "download_hash": {
         "sha1": "CBA9D5FB8C1D634A84507EB145262F78350587EB",

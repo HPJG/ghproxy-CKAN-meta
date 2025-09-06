@@ -12,7 +12,7 @@
     "license": "CC-BY-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/184277-*",
-        "repository": "https://ghproxy.net/https://github.com/zolotiyeruki/Pilot-Assistant"
+        "repository": "https://hk.gh-proxy.com/https://github.com/zolotiyeruki/Pilot-Assistant"
     },
     "tags": [
         "plugin",
@@ -24,7 +24,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/zolotiyeruki/Pilot-Assistant/releases/download/v1.13.4b/PilotAssistant.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/zolotiyeruki/Pilot-Assistant/releases/download/v1.13.4b/PilotAssistant.zip",
     "download_size": 40085,
     "download_hash": {
         "sha1": "03A025E7F78F25C476CF9F32E4D047B4BE86844E",

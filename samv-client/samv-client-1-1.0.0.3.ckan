@@ -12,8 +12,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/211182-*/",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/stand-alone-map-view",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/stand-alone-map-view/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/stand-alone-map-view",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/stand-alone-map-view/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/StandAloneMapView"
     },
     "tags": [
@@ -31,7 +31,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/linuxgurugamer/stand-alone-map-view/releases/download/1.0.0.3/StandAloneMapView-1.12.0-1.0.0.3-client.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/stand-alone-map-view/releases/download/1.0.0.3/StandAloneMapView-1.12.0-1.0.0.3-client.zip",
     "download_size": 140752,
     "download_hash": {
         "sha1": "7A7498D21E7E5625C698F908E1F859F5D5E034BF",

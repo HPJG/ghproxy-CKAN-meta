@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://umbraspaceindustries.github.io/UmbraSpaceIndustries/",
-        "repository": "https://ghproxy.net/https://github.com/UmbraSpaceIndustries/USI-LS"
+        "repository": "https://hk.gh-proxy.com/https://github.com/UmbraSpaceIndustries/USI-LS"
     },
     "version": "0.9.0.0",
     "ksp_version_min": "1.4.0",
@@ -45,7 +45,7 @@
             "install_to": "GameData/UmbraSpaceIndustries"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/UmbraSpaceIndustries/USI-LS/releases/download/0.9.0.0/USI-LS_0.9.0.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/UmbraSpaceIndustries/USI-LS/releases/download/0.9.0.0/USI-LS_0.9.0.0.zip",
     "download_size": 4306509,
     "download_hash": {
         "sha1": "DDDFBE971D1359F28436FB8B9C674627E70DBDA7",

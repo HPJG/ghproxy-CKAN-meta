@@ -9,8 +9,8 @@
     "license": "MIT",
     "resources": {
         "spacedock": "https://spacedock.info/mod/3171/Reasonable%20Science%20Return",
-        "repository": "https://ghproxy.net/https://github.com/Michionlion/ReasonableScienceReturn",
-        "bugtracker": "https://ghproxy.net/https://github.com/Michionlion/ReasonableScienceReturn/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Michionlion/ReasonableScienceReturn",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Michionlion/ReasonableScienceReturn/issues"
     },
     "tags": [
         "config",
@@ -22,7 +22,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/Michionlion/ReasonableScienceReturn/releases/download/v0.1.0/ReasonableScienceReturn.zip",
+        "https://hk.gh-proxy.com/https://github.com/Michionlion/ReasonableScienceReturn/releases/download/v0.1.0/ReasonableScienceReturn.zip",
         "https://spacedock.info/mod/3171/Reasonable%20Science%20Return/download/v0.1.0"
     ],
     "download_size": 4252,

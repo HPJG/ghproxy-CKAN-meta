@@ -8,7 +8,7 @@
     "license": "CC-BY-NC-SA",
     "release_status": "stable",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/Galileo88/StockVisualEnhancements"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Galileo88/StockVisualEnhancements"
     },
     "version": "3:1.0.2",
     "ksp_version_min": "1.2",
@@ -31,7 +31,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Galileo88/StockVisualEnhancements/releases/download/1.0.2/SVE_HighResTextures.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Galileo88/StockVisualEnhancements/releases/download/1.0.2/SVE_HighResTextures.zip",
     "download_size": 67761126,
     "download_hash": {
         "sha1": "EAC8C96EE4A697B81335EF318DD7A2082D46C3DE",

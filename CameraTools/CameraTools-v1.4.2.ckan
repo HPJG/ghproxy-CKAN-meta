@@ -1,0 +1,24 @@
+{
+    "spec_version": 1,
+    "identifier": "CameraTools",
+    "name": "Camera Tools",
+    "abstract": "Stationary/flyby camera, atmospheric audio effects, and more",
+    "author": "BahamutoD",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/84938-10-camera-tools-v13-compatibilityfixes-may-16/",
+        "spacedock": "https://spacedock.info/mod/274/Camera%20Tools",
+        "repository": "https://hk.gh-proxy.com/https://github.com/BahamutoD/CameraTools",
+        "x_screenshot": "https://spacedock.info/content/BahamutoD_222/Camera_Tools/Camera_Tools-1456425830.4879806.jpg"
+    },
+    "version": "v1.4.2",
+    "ksp_version": "1.0.5",
+    "download": "https://spacedock.info/mod/274/Camera%20Tools/download/1.4.2",
+    "download_size": 3556762,
+    "download_hash": {
+        "sha1": "6772ABBD538EEE4E3BA054ECD04C75497C9DF327",
+        "sha256": "5FEA98DFBF189423B5CEFAF57B618C73B27EA9F171FFD9DA0BE8F7C44BBB117A"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

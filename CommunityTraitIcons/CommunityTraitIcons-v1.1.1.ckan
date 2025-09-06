@@ -14,8 +14,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?showtopic=162509",
-        "repository": "https://ghproxy.net/https://github.com/cake-pie/CommunityTraitIcons",
-        "bugtracker": "https://ghproxy.net/https://github.com/cake-pie/CommunityTraitIcons/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/cake-pie/CommunityTraitIcons",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/cake-pie/CommunityTraitIcons/issues",
         "remote-avc": "https://raw.githubusercontent.com/cake-pie/CommunityTraitIcons/master/GameData/CommunityTraitIcons/CommunityTraitIcons.version"
     },
     "tags": [
@@ -32,7 +32,7 @@
             "name": "PortraitStats"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/cake-pie/CommunityTraitIcons/releases/download/v1.1.1/CTI.1.1.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/cake-pie/CommunityTraitIcons/releases/download/v1.1.1/CTI.1.1.1.zip",
     "download_size": 16359,
     "download_hash": {
         "sha1": "5E568BFB15E8549D16414DDB89F9C623C539D309",

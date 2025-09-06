@@ -13,8 +13,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/17833-*",
-        "repository": "https://ghproxy.net/https://github.com/jrbudda/KerbalEngineer",
-        "bugtracker": "https://ghproxy.net/https://github.com/jrbudda/KerbalEngineer/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/jrbudda/KerbalEngineer",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/jrbudda/KerbalEngineer/issues",
         "remote-avc": "https://raw.githubusercontent.com/jrbudda/KerbalEngineer/master/Output/KerbalEngineer/KerbalEngineer.version"
     },
     "tags": [
@@ -31,7 +31,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/jrbudda/KerbalEngineer/releases/download/1.1.9.4/KerbalEngineer-1.1.9.4.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/jrbudda/KerbalEngineer/releases/download/1.1.9.4/KerbalEngineer-1.1.9.4.zip",
     "download_size": 930717,
     "download_hash": {
         "sha1": "37812FEA424FC2E5861C1FDB350BF850001D2F22",

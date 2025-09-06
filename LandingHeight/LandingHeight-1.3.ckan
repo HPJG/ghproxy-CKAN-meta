@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/76320",
-        "repository": "https://ghproxy.net/https://github.com/SirDiazo/LandingHeight"
+        "repository": "https://hk.gh-proxy.com/https://github.com/SirDiazo/LandingHeight"
     },
     "version": "1.3",
     "ksp_version_min": "0.90",
@@ -19,7 +19,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/SirDiazo/LandingHeight/releases/download/1.3/LandingHeight13.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/SirDiazo/LandingHeight/releases/download/1.3/LandingHeight13.zip",
     "download_size": 3803,
     "download_hash": {
         "sha1": "7984BB293E18B3B833B191BF8A518AF932ECA5FC",

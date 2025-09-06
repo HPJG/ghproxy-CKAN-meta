@@ -1,0 +1,34 @@
+{
+    "spec_version": 1,
+    "identifier": "B9AerospaceProceduralParts",
+    "name": "B9 Aerospace Procedural Parts",
+    "abstract": "Feature-packed procedural wings and control surfaces with low performance impact, flexible UI and never before seen approach to texturing.",
+    "author": "bac9",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "kerbalstuff": "https://kerbalstuff.com/mod/515/B9%20Aerospace%20Procedural%20Parts"
+    },
+    "version": "0.27",
+    "ksp_version": "0.90",
+    "depends": [
+        {
+            "name": "KSPAPIExtensions"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/B9_Aerospace",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/B9AerospaceProceduralParts-0.27/50874842-B9AerospaceProceduralParts-0.27.zip",
+    "download_size": 3635186,
+    "download_hash": {
+        "sha1": "50874842C772684BAC3832603C48BF7CB0D6B4CD",
+        "sha256": "2362B3ECEC4FC08FD5724E9A9A470F5218C272C22B71744E2D59FD0491D51CCE"
+    },
+    "download_content_type": "application/zip",
+    "x_licence_assets": "CC-BY-NC-SA-4.0",
+    "x_licence_code": "MIT",
+    "x_generated_by": "netkan"
+}

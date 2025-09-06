@@ -10,8 +10,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/174303-*",
-        "repository": "https://ghproxy.net/https://github.com/TykoTek/EngineTweaks_for_MakingHistory",
-        "bugtracker": "https://ghproxy.net/https://github.com/TykoTek/EngineTweaks_for_MakingHistory/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/TykoTek/EngineTweaks_for_MakingHistory",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/TykoTek/EngineTweaks_for_MakingHistory/issues"
     },
     "tags": [
         "config"
@@ -30,7 +30,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/TykoTek/EngineTweaks_for_MakingHistory/releases/download/v1.1/EngineTweaks_for_MakingHistory-master.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/TykoTek/EngineTweaks_for_MakingHistory/releases/download/v1.1/EngineTweaks_for_MakingHistory-master.zip",
     "download_size": 3233,
     "download_hash": {
         "sha1": "62D8B75712685247F5456A7E7DA97B3863A5A489",

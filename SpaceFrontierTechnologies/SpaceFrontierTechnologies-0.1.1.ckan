@@ -10,15 +10,15 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/194804-19-space-frontier-technologiessft-really-new",
         "spacedock": "https://spacedock.info/mod/2452/Space%20Frontier%20Technologies",
-        "repository": "https://ghproxy.net/https://github.com/Outsoldier/Space-Frontier-Technologies",
-        "bugtracker": "https://ghproxy.net/https://github.com/Outsoldier/Space-Frontier-Technologies/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/Outsoldier/Space-Frontier-Technologies",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Outsoldier/Space-Frontier-Technologies/issues",
         "x_screenshot": "https://spacedock.info/content/Outsoldier_35115/Space_Frontier_Technologies/Space_Frontier_Technologies-1592596063.997121.jpg"
     },
     "tags": [
         "parts"
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/Outsoldier/Space-Frontier-Technologies/releases/download/0.1.1/SpaceFrontierTechnologies0.1.1.zip",
+        "https://hk.gh-proxy.com/https://github.com/Outsoldier/Space-Frontier-Technologies/releases/download/0.1.1/SpaceFrontierTechnologies0.1.1.zip",
         "https://spacedock.info/mod/2452/Space%20Frontier%20Technologies/download/0.1.1"
     ],
     "download_size": 82998,

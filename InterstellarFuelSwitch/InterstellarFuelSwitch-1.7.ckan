@@ -8,8 +8,8 @@
     "license": "CC-BY-NC",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/117932",
-        "repository": "https://ghproxy.net/https://github.com/sswelm/KSPInterstellar/tree/master/FuelSwitch",
-        "bugtracker": "https://ghproxy.net/https://github.com/sswelm/KSPInterstellar/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/sswelm/KSPInterstellar/tree/master/FuelSwitch",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/sswelm/KSPInterstellar/issues",
         "kerbalstuff": "https://kerbalstuff.com/mod/718"
     },
     "version": "1.7",

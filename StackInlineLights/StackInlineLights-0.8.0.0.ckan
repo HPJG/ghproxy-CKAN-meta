@@ -11,9 +11,9 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/193050-*/",
         "spacedock": "https://spacedock.info/mod/2396/Stack%20Inline%20Lights%20(SIL)%20by%20Alexustas",
-        "repository": "https://ghproxy.net/https://github.com/zer0Kerbal/StackInlineLights",
-        "bugtracker": "https://ghproxy.net/https://github.com/zer0Kerbal/StackInlineLights/issues",
-        "discussions": "https://ghproxy.net/https://github.com/zer0Kerbal/StackInlineLights/discussions",
+        "repository": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/StackInlineLights",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/StackInlineLights/issues",
+        "discussions": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/StackInlineLights/discussions",
         "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/StackInlineLights/master/StackInlineLights.version",
         "x_screenshot": "https://spacedock.info/content/zer0Kerbal_21147/Stack_Inline_Lights/Stack_Inline_Lights-1586579110.2488186.png"
     },

@@ -12,8 +12,8 @@
     "license": "CC-BY-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/180409-*",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/PWBFuelBalancerRestored",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/PWBFuelBalancerRestored/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/PWBFuelBalancerRestored",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/PWBFuelBalancerRestored/issues"
     },
     "tags": [
         "plugin",
@@ -39,7 +39,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/linuxgurugamer/PWBFuelBalancerRestored/releases/download/0.2.1.1/PWBFuelBalancerRestored-1.8.0-0.2.1.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/PWBFuelBalancerRestored/releases/download/0.2.1.1/PWBFuelBalancerRestored-1.8.0-0.2.1.1.zip",
     "download_size": 183207,
     "download_hash": {
         "sha1": "2A3FD1D916433AEF544D28E35B7038C6D537F5D3",

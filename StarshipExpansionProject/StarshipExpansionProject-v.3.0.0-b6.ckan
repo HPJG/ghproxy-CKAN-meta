@@ -14,8 +14,8 @@
     "release_status": "testing",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/206555-1101-112x-starship-expansion-project-sep-v100-january-23rd-2022/",
-        "repository": "https://ghproxy.net/https://github.com/Kari1407/Starship-Expansion-Project",
-        "bugtracker": "https://ghproxy.net/https://github.com/Kari1407/Starship-Expansion-Project/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Kari1407/Starship-Expansion-Project",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Kari1407/Starship-Expansion-Project/issues"
     },
     "tags": [
         "parts",
@@ -105,7 +105,7 @@
             ]
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Kari1407/Starship-Expansion-Project/releases/download/v3.0.0-b6/Starship-Expansion-Project-v3.0.0-b6.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Kari1407/Starship-Expansion-Project/releases/download/v3.0.0-b6/Starship-Expansion-Project-v3.0.0-b6.zip",
     "download_size": 548621281,
     "download_hash": {
         "sha256": "A4BC924B2CFDFC699DA0B058773219B2463F4D5A7C10A1302C7FD1A476202EB1"

@@ -7,7 +7,7 @@
     "license": "CC-BY-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/173518-141-stationkeeping-restationed-precise-synchronous-orbits/",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/StationKeeping"
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/StationKeeping"
     },
     "version": "1:0.2.1",
     "ksp_version_min": "1.5.1",
@@ -26,7 +26,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/linuxgurugamer/StationKeeping/releases/download/0.2.1/StationKeeping-0.2.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/StationKeeping/releases/download/0.2.1/StationKeeping-0.2.1.zip",
     "download_size": 52602,
     "download_hash": {
         "sha1": "81D76D3FBEB35C70DD632B3B7499AA2ECA41327D",

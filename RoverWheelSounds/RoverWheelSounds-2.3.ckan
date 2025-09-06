@@ -10,8 +10,8 @@
     "license": "GPL-2.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/50431-*",
-        "repository": "https://ghproxy.net/https://github.com/pizzaoverhead/WheelSounds",
-        "bugtracker": "https://ghproxy.net/https://github.com/pizzaoverhead/WheelSounds/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/pizzaoverhead/WheelSounds",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/pizzaoverhead/WheelSounds/issues"
     },
     "tags": [
         "config",
@@ -29,7 +29,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/pizzaoverhead/WheelSounds/releases/download/v2.3/WheelSoundsV2.3.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/pizzaoverhead/WheelSounds/releases/download/v2.3/WheelSoundsV2.3.zip",
     "download_size": 2553196,
     "download_hash": {
         "sha1": "A9520D00D0A36C3BB500D52E5F052D55EB445CFE",

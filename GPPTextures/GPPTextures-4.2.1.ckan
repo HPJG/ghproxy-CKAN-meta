@@ -8,8 +8,8 @@
     "license": "CC-BY-NC-ND",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/152136-galileos-planet-pack/",
-        "repository": "https://ghproxy.net/https://github.com/Galileo88/Galileos-Planet-Pack",
-        "bugtracker": "https://ghproxy.net/https://github.com/Galileo88/Galileos-Planet-Pack/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Galileo88/Galileos-Planet-Pack",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Galileo88/Galileos-Planet-Pack/issues"
     },
     "tags": [
         "config",
@@ -34,7 +34,7 @@
             "comment": "This correctly installs the textures for GPP"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Galileo88/Galileos-Planet-Pack/releases/download/4.2.1/GPP_Textures-4.2.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Galileo88/Galileos-Planet-Pack/releases/download/4.2.1/GPP_Textures-4.2.1.zip",
     "download_size": 503457411,
     "download_hash": {
         "sha1": "DB9A156945F6E7F5865468DD4EEAE1E2EF7EF763",

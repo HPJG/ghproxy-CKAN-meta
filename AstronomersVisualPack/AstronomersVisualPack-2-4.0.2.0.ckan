@@ -10,7 +10,7 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/160878-*",
-        "repository": "https://ghproxy.net/https://github.com/themaster402/AstronomersVisualPack"
+        "repository": "https://hk.gh-proxy.com/https://github.com/themaster402/AstronomersVisualPack"
     },
     "tags": [
         "config",
@@ -57,7 +57,7 @@
             "name": "EnvironmentalVisualEnhancements-Config"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/themaster402/AstronomersVisualPack/releases/download/v4.02/AVP.v.4.02.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/themaster402/AstronomersVisualPack/releases/download/v4.02/AVP.v.4.02.zip",
     "download_size": 50830982,
     "download_hash": {
         "sha1": "A0A3AC89BAE36D3578B96B94526C06524102E307",

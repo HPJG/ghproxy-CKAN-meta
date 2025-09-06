@@ -10,8 +10,8 @@
     "license": "restricted",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/92434-*",
-        "repository": "https://ghproxy.net/https://github.com/UmbraSpaceIndustries/SoundingRockets",
-        "bugtracker": "https://ghproxy.net/https://github.com/UmbraSpaceIndustries/SoundingRockets/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/UmbraSpaceIndustries/SoundingRockets",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/UmbraSpaceIndustries/SoundingRockets/issues",
         "manual": "https://umbraspaceindustries.github.io/UmbraSpaceIndustries/",
         "remote-avc": "https://raw.githubusercontent.com/UmbraSpaceIndustries/SoundingRockets/main/FOR_RELEASE/GameData/UmbraSpaceIndustries/SoundingRockets/SoundingRockets.version"
     },
@@ -38,7 +38,7 @@
             "install_to": "GameData/UmbraSpaceIndustries"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/UmbraSpaceIndustries/SoundingRockets/releases/download/v112.0.1/SoundingRockets_112.0.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/UmbraSpaceIndustries/SoundingRockets/releases/download/v112.0.1/SoundingRockets_112.0.1.zip",
     "download_size": 4240793,
     "download_hash": {
         "sha1": "06D4864C8CE5EBCA9A53B2B5C0111F586D895FDE",

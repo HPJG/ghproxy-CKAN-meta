@@ -9,8 +9,8 @@
     "license": "MIT",
     "resources": {
         "spacedock": "https://spacedock.info/mod/3608/ROFilterExtensionConfig",
-        "repository": "https://ghproxy.net/https://github.com/Bluedot55/ROFilterExtensionsConfig",
-        "bugtracker": "https://ghproxy.net/https://github.com/Bluedot55/ROFilterExtensionsConfig/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Bluedot55/ROFilterExtensionsConfig",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Bluedot55/ROFilterExtensionsConfig/issues"
     },
     "tags": [
         "config"

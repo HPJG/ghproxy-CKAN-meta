@@ -9,11 +9,11 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/101604",
-        "repository": "https://ghproxy.net/https://github.com/jrossignol/ContractConfigurator"
+        "repository": "https://hk.gh-proxy.com/https://github.com/jrossignol/ContractConfigurator"
     },
     "version": "0.2.0",
     "ksp_version": "0.25",
-    "download": "https://ghproxy.net/https://github.com/jrossignol/ContractConfigurator/releases/download/0.2.0/ContractConfigurator_0.2.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/jrossignol/ContractConfigurator/releases/download/0.2.0/ContractConfigurator_0.2.0.zip",
     "download_size": 31595,
     "download_hash": {
         "sha1": "09720CDAE7AC99867C2EA24C6F8E367BEA85EA00",

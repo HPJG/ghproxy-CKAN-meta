@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/62270",
-        "repository": "https://ghproxy.net/https://github.com/PapaJoesSoup/ShipManifest",
+        "repository": "https://hk.gh-proxy.com/https://github.com/PapaJoesSoup/ShipManifest",
         "kerbalstuff": "https://kerbalstuff.com/mod/261/Ship%20Manifest",
         "curse": "http://kerbal.curseforge.com/plugins/220357-ship-manifest"
     },

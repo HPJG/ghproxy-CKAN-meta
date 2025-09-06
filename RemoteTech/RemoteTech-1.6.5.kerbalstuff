@@ -5,8 +5,8 @@
     "release_status": "stable",
     "x_netkan_license_ok": true,
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/RemoteTechnologiesGroup/RemoteTech",
-        "bugtracker": "https://ghproxy.net/https://github.com/RemoteTechnologiesGroup/RemoteTech/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/RemoteTechnologiesGroup/RemoteTech",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/RemoteTechnologiesGroup/RemoteTech/issues",
         "manual": "http://remotetechnologiesgroup.github.io/RemoteTech/",
         "homepage": "http://forum.kerbalspaceprogram.com/threads/83305",
         "kerbalstuff": "https://kerbalstuff.com/mod/134/RemoteTech"

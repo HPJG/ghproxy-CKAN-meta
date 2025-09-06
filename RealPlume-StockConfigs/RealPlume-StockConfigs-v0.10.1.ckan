@@ -6,8 +6,8 @@
     "author": "Nhawks1717",
     "license": "CC-BY-NC-SA",
     "resources": {
-        "homepage": "https://ghproxy.net/https://github.com/KSP-RO/RealPlume/wiki",
-        "repository": "https://ghproxy.net/https://github.com/KSP-RO/RealPlume-StockConfigs"
+        "homepage": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealPlume/wiki",
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealPlume-StockConfigs"
     },
     "version": "v0.10.1",
     "ksp_version_min": "1.0.5",
@@ -94,7 +94,7 @@
             "install_to": "GameData/RealPlume"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSP-RO/RealPlume-StockConfigs/releases/download/v0.10.1/RealPlume-StockConfigs_v0.10.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealPlume-StockConfigs/releases/download/v0.10.1/RealPlume-StockConfigs_v0.10.1.zip",
     "download_size": 26214969,
     "download_hash": {
         "sha1": "68FB84E25DF80B0A5338C882217662CEE3976902",

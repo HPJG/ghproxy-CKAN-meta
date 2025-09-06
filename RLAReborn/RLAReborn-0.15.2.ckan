@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/175512-14-rla-reborn/",
         "spacedock": "https://spacedock.info/mod/1880/RLA%20Reborn",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/RLA_Reborn",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/RLA_Reborn/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/RLA_Reborn",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/RLA_Reborn/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/RLA_Reborn"
     },
     "tags": [
@@ -45,7 +45,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/linuxgurugamer/RLA_Reborn/releases/download/0.15.2/RLA_Reborn-0.15.2.zip",
+        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/RLA_Reborn/releases/download/0.15.2/RLA_Reborn-0.15.2.zip",
         "https://spacedock.info/mod/1880/RLA%20Reborn/download/0.15.2"
     ],
     "download_size": 7329628,

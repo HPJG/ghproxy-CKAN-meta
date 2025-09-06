@@ -14,8 +14,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/202889-1112-fruitkocktail-a-collection-of-mini-life-improvement-mods-with-fruit-based-acronyms-as-names-full-release/",
         "spacedock": "https://spacedock.info/mod/2788/MANGO",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/FruitKocktail",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/FruitKocktail/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/FruitKocktail",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/FruitKocktail/issues",
         "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/FruitKocktail/main/MANGO/MANGO.version"
     },
     "tags": [
@@ -34,7 +34,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/linuxgurugamer/FruitKocktail/releases/download/0.0.0.3/MANGO-1.1.1.1.zip",
+        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/FruitKocktail/releases/download/0.0.0.3/MANGO-1.1.1.1.zip",
         "https://spacedock.info/mod/2788/MANGO/download/1.1.1.1"
     ],
     "download_size": 9838,

@@ -7,7 +7,7 @@
     "license": "restricted",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/86957",
-        "repository": "https://ghproxy.net/https://github.com/ual002/Lorefriendly-Serious-Parody-Flags"
+        "repository": "https://hk.gh-proxy.com/https://github.com/ual002/Lorefriendly-Serious-Parody-Flags"
     },
     "version": "v1.8",
     "ksp_version_min": "0.20",
@@ -17,7 +17,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/ual002/Lorefriendly-Serious-Parody-Flags/releases/download/v1.8/Lorefriendly-Serious-Parody-Flags-1.8.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/ual002/Lorefriendly-Serious-Parody-Flags/releases/download/v1.8/Lorefriendly-Serious-Parody-Flags-1.8.zip",
     "download_size": 772693,
     "download_hash": {
         "sha1": "662FEF6D697F4CEC3CD251929775A3446D39C4FF",

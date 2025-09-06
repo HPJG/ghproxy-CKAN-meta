@@ -13,8 +13,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/99043-*",
-        "repository": "https://ghproxy.net/https://github.com/KSP-RO/TestFlight",
-        "bugtracker": "https://ghproxy.net/https://github.com/KSP-RO/TestFlight/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/TestFlight",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-RO/TestFlight/issues"
     },
     "tags": [
         "config"
@@ -51,7 +51,7 @@
             ]
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSP-RO/TestFlight/releases/download/1.11.0.0/TestFlightConfigStock-1.11.0.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/TestFlight/releases/download/1.11.0.0/TestFlightConfigStock-1.11.0.0.zip",
     "download_size": 3033,
     "download_hash": {
         "sha1": "87BAA38CD74E109AC9810DEC3CD46834A183ED01",

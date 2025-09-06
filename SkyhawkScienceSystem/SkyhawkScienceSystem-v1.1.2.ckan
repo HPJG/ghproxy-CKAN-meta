@@ -10,10 +10,10 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/206109-*",
-        "repository": "https://ghproxy.net/https://github.com/CessnaSkyhawk/SkyhawkScienceSystem",
-        "bugtracker": "https://ghproxy.net/https://github.com/CessnaSkyhawk/SkyhawkScienceSystem/issues",
-        "manual": "https://ghproxy.net/https://github.com/CessnaSkyhawk/SkyhawkScienceSystem/wiki",
-        "remote-avc": "https://ghproxy.net/https://github.com/CessnaSkyhawk/SkyhawkScienceSystem"
+        "repository": "https://hk.gh-proxy.com/https://github.com/CessnaSkyhawk/SkyhawkScienceSystem",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/CessnaSkyhawk/SkyhawkScienceSystem/issues",
+        "manual": "https://hk.gh-proxy.com/https://github.com/CessnaSkyhawk/SkyhawkScienceSystem/wiki",
+        "remote-avc": "https://hk.gh-proxy.com/https://github.com/CessnaSkyhawk/SkyhawkScienceSystem"
     },
     "tags": [
         "config",
@@ -152,7 +152,7 @@
             "filter": ".git"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/CessnaSkyhawk/SkyhawkScienceSystem/releases/download/v1.1.2/SkyhawkScienceSystem-v1.1.2.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/CessnaSkyhawk/SkyhawkScienceSystem/releases/download/v1.1.2/SkyhawkScienceSystem-v1.1.2.zip",
     "download_size": 7365211,
     "download_hash": {
         "sha1": "321678ECA45BAF01A054AF64583D603CFA0E45FF",

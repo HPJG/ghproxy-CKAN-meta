@@ -9,8 +9,8 @@
     "license": "MIT",
     "resources": {
         "spacedock": "https://spacedock.info/mod/3177/RealFuels%20ISRU",
-        "repository": "https://ghproxy.net/https://github.com/frostbytedata/ksp-realfuels-isru",
-        "bugtracker": "https://ghproxy.net/https://github.com/frostbytedata/ksp-realfuels-isru/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/frostbytedata/ksp-realfuels-isru",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/frostbytedata/ksp-realfuels-isru/issues"
     },
     "tags": [
         "config",

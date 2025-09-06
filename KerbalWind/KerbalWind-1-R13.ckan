@@ -14,8 +14,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/97311-*",
-        "repository": "https://ghproxy.net/https://github.com/DaMichel/KerbalWind",
-        "bugtracker": "https://ghproxy.net/https://github.com/DaMichel/KerbalWind/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/DaMichel/KerbalWind",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/DaMichel/KerbalWind/issues"
     },
     "tags": [
         "plugin",
@@ -39,7 +39,7 @@
             "name": "FARWind"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/DaMichel/KerbalWind/releases/download/R13/KerbalWind13.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/DaMichel/KerbalWind/releases/download/R13/KerbalWind13.zip",
     "download_size": 17054,
     "download_hash": {
         "sha1": "6BB043885D9C91D641B33C3673CC81124FCC6EB2",

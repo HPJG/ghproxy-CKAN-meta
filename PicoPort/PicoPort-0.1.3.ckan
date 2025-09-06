@@ -8,7 +8,7 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/155020-122-picoport-the-micro-docking-ports-v012/",
         "spacedock": "https://spacedock.info/mod/1165/PicoPort",
-        "repository": "https://ghproxy.net/https://github.com/steedcrugeon/PicoPort",
+        "repository": "https://hk.gh-proxy.com/https://github.com/steedcrugeon/PicoPort",
         "x_screenshot": "https://spacedock.info/content/steedcrugeon_8650/PicoPort/PicoPort-1484439960.4712257.png"
     },
     "version": "0.1.3",

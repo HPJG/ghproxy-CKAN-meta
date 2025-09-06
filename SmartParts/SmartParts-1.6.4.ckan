@@ -7,7 +7,7 @@
     "license": "CC-BY-NC-SA-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/64227",
-        "repository": "https://ghproxy.net/https://github.com/BrettWebb/KerbalSmartParts"
+        "repository": "https://hk.gh-proxy.com/https://github.com/BrettWebb/KerbalSmartParts"
     },
     "version": "1.6.4",
     "ksp_version": "1.0",
@@ -17,7 +17,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/BrettWebb/KerbalSmartParts/releases/download/1.6.4/SmartParts-1.6.4.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/BrettWebb/KerbalSmartParts/releases/download/1.6.4/SmartParts-1.6.4.zip",
     "download_size": 568509,
     "download_hash": {
         "sha1": "8AD2C6DFBE96F6C0D5DB95883D7DC0BDC7E131B5",

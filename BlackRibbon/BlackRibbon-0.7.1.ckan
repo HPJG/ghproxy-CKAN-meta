@@ -1,0 +1,38 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "BlackRibbon",
+    "name": "BlackRibbon-BDA",
+    "abstract": "This is an add-on for BDArmory. It adds new weapons and parts.",
+    "author": "Shuudoushi",
+    "license": "MIT",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://spacedock.info/mod/35/BlackRibbon-BDA",
+        "spacedock": "https://spacedock.info/mod/35/BlackRibbon-BDA",
+        "repository": "https://hk.gh-proxy.com/https://github.com/Shuudoushi/BlackRibbon"
+    },
+    "version": "0.7.1",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "BDArmory"
+        },
+        {
+            "name": "FirespitterCore"
+        }
+    ],
+    "install": [
+        {
+            "find": "BlackRibbon",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/35/BlackRibbon-BDA/download/0.7.1",
+    "download_size": 3609002,
+    "download_hash": {
+        "sha1": "F2A66A11C7FBE0EE958DD62C2438990D9273C03E",
+        "sha256": "B10A19FDD80C4B138C23FA85398CDDE19F442547154B4077443D3050FE2978FD"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

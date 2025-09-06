@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/163166-13-tokamak-industries-refurbished-parts-featuring-porkjets-hab-pack/",
         "spacedock": "https://spacedock.info/mod/1444/Tokamak%20Refurbished%20Parts",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/Tokamak-Refurbished-Parts",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/Tokamak-Refurbished-Parts/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/Tokamak-Refurbished-Parts",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/Tokamak-Refurbished-Parts/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/TokamakIndustries",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Tokamak_Refurbished_Parts/Tokamak_Refurbished_Parts-1499823251.7804608.png"
     },
@@ -54,7 +54,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/linuxgurugamer/Tokamak-Refurbished-Parts/releases/download/0.3.1.2/Tokamak_Refurbished_Parts-0.3.1.2.zip",
+        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/Tokamak-Refurbished-Parts/releases/download/0.3.1.2/Tokamak_Refurbished_Parts-0.3.1.2.zip",
         "https://spacedock.info/mod/1444/Tokamak%20Refurbished%20Parts/download/0.3.1.2"
     ],
     "download_size": 51759296,

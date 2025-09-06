@@ -7,8 +7,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/102197",
-        "repository": "https://ghproxy.net/https://github.com/602p/Entropy",
-        "bugtracker": "https://ghproxy.net/https://github.com/602p/Entropy/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/602p/Entropy",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/602p/Entropy/issues",
         "kerbalstuff": "https://kerbalstuff.com/mod/388"
     },
     "version": "v0.2.0",

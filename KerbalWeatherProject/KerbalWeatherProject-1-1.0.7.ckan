@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://www.kerbalwxproject.space",
         "spacedock": "https://spacedock.info/mod/2607/Kerbal%20Weather%20Project",
-        "repository": "https://ghproxy.net/https://github.com/cmac994/KerbalWeatherProject",
-        "bugtracker": "https://ghproxy.net/https://github.com/cmac994/KerbalWeatherProject/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/cmac994/KerbalWeatherProject",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/cmac994/KerbalWeatherProject/issues"
     },
     "tags": [
         "plugin"
@@ -39,7 +39,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/cmac994/KerbalWeatherProject/releases/download/1.0.7/KerbalWeatherProject_v1.0.7.zip",
+        "https://hk.gh-proxy.com/https://github.com/cmac994/KerbalWeatherProject/releases/download/1.0.7/KerbalWeatherProject_v1.0.7.zip",
         "https://spacedock.info/mod/2607/Kerbal%20Weather%20Project/download/1.0.7"
     ],
     "download_size": 88421766,

@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/120111-/",
-        "repository": "https://ghproxy.net/https://github.com/KillAshley/UL"
+        "repository": "https://hk.gh-proxy.com/https://github.com/KillAshley/UL"
     },
     "version": "v0.3",
     "ksp_version": "1.0.5",
@@ -55,7 +55,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KillAshley/UL/releases/download/0.3/UL_v0.3.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KillAshley/UL/releases/download/0.3/UL_v0.3.zip",
     "download_size": 78854288,
     "download_hash": {
         "sha1": "E40490DDFEE34B6EB1B5D7D81AA20ECA6DC75B97",

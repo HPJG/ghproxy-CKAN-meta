@@ -7,11 +7,11 @@
     "license": "restricted",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/130196",
-        "repository": "https://ghproxy.net/https://github.com/Crzyrndm/ProceduralWings"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Crzyrndm/ProceduralWings"
     },
     "version": "0.11.1",
     "ksp_version": "1.1.2",
-    "download": "https://ghproxy.net/https://github.com/Crzyrndm/ProceduralWings/releases/download/0.11.1/PWings.v11.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Crzyrndm/ProceduralWings/releases/download/0.11.1/PWings.v11.1.zip",
     "download_size": 1300245,
     "download_hash": {
         "sha1": "97EAC270E675AA46BA445C7C927762E0A04C1D1A",

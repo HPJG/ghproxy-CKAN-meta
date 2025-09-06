@@ -14,8 +14,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/220718-112-alcor-pod-adopted",
         "spacedock": "https://spacedock.info/mod/3499/ALCOR%20Adopted",
-        "repository": "https://ghproxy.net/https://github.com/FirstPersonKSP/KSP-ALCOR",
-        "bugtracker": "https://ghproxy.net/https://github.com/FirstPersonKSP/KSP-ALCOR/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/FirstPersonKSP/KSP-ALCOR",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/FirstPersonKSP/KSP-ALCOR/issues",
         "remote-avc": "https://raw.githubusercontent.com/JonnyOThan/KSP-ALCOR/main/GameData/ASET/ALCOR/ALCOR.version",
         "x_screenshot": "https://spacedock.info/content/JonnyOThan_33590/ALCOR_Adopted/ALCOR_Adopted-1699464201.png"
     },
@@ -62,7 +62,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/FirstPersonKSP/KSP-ALCOR/releases/download/1.0.1/ALCOR-v1.0.1.zip",
+        "https://hk.gh-proxy.com/https://github.com/FirstPersonKSP/KSP-ALCOR/releases/download/1.0.1/ALCOR-v1.0.1.zip",
         "https://spacedock.info/mod/3499/ALCOR%20Adopted/download/1.0.1"
     ],
     "download_size": 4677664,

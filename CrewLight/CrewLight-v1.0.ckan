@@ -7,7 +7,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/",
-        "repository": "https://ghproxy.net/https://github.com/Li0n-0/CrewLight"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Li0n-0/CrewLight"
     },
     "version": "v1.0",
     "ksp_version": "1.2.2",
@@ -16,7 +16,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Li0n-0/CrewLight/releases/download/v1.0/CrewLight-1.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Li0n-0/CrewLight/releases/download/v1.0/CrewLight-1.0.zip",
     "download_size": 47929,
     "download_hash": {
         "sha1": "7CEC090FDB6D86A9CA58E442171AC3CD4A281A65",

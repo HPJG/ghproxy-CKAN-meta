@@ -7,7 +7,7 @@
     "license": "CC-BY-NC-SA-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/120391",
-        "repository": "https://ghproxy.net/https://github.com/SirDiazo/SmartPartsDiazo"
+        "repository": "https://hk.gh-proxy.com/https://github.com/SirDiazo/SmartPartsDiazo"
     },
     "version": "1.5.3",
     "ksp_version": "1.0",
@@ -17,7 +17,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/SirDiazo/SmartPartsDiazo/releases/download/1.5.3/SmartParts-1.5.3.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/SirDiazo/SmartPartsDiazo/releases/download/1.5.3/SmartParts-1.5.3.zip",
     "download_size": 560706,
     "download_hash": {
         "sha1": "1C57971535076CE24E8F9656D9601D746D003494",

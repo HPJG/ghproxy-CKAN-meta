@@ -8,8 +8,8 @@
     "ksp_version_min": "1.8.0",
     "license": "GPL-3.0",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/ModuleAnimGenericResourceUsage",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/ModuleAnimGenericResourceUsage/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ModuleAnimGenericResourceUsage",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ModuleAnimGenericResourceUsage/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/ModuleAnimGenericResourceUsage"
     },
     "tags": [
@@ -27,7 +27,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/linuxgurugamer/ModuleAnimGenericResourceUsage/releases/download/0.0.1/ModuleAnimGenericResourceUsage-1.8.0-0.0.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ModuleAnimGenericResourceUsage/releases/download/0.0.1/ModuleAnimGenericResourceUsage-1.8.0-0.0.1.zip",
     "download_size": 21728,
     "download_hash": {
         "sha1": "FBF29691EC343E711B1900DCAAA3975C83B5FBBA",

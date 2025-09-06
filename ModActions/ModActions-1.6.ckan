@@ -10,7 +10,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/116142-*",
-        "repository": "https://ghproxy.net/https://github.com/SirDiazo/ModActions"
+        "repository": "https://hk.gh-proxy.com/https://github.com/SirDiazo/ModActions"
     },
     "tags": [
         "plugin",
@@ -27,7 +27,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/SirDiazo/ModActions/releases/download/1.6/ModActions16.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/SirDiazo/ModActions/releases/download/1.6/ModActions16.zip",
     "download_size": 43853,
     "download_hash": {
         "sha1": "7B0FC77C830F7C6C58FB9517D89A3EBE2DEC6848",

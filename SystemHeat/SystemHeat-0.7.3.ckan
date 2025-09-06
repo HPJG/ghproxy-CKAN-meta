@@ -10,9 +10,9 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/193909-1",
-        "repository": "https://ghproxy.net/https://github.com/post-kerbin-mining-corporation/SystemHeat",
-        "bugtracker": "https://ghproxy.net/https://github.com/post-kerbin-mining-corporation/SystemHeat/issues",
-        "metanetkan": "https://ghproxy.net/https://github.com/post-kerbin-mining-corporation/SystemHeat/raw/master/CKAN/SystemHeat.netkan",
+        "repository": "https://hk.gh-proxy.com/https://github.com/post-kerbin-mining-corporation/SystemHeat",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/post-kerbin-mining-corporation/SystemHeat/issues",
+        "metanetkan": "https://hk.gh-proxy.com/https://github.com/post-kerbin-mining-corporation/SystemHeat/raw/master/CKAN/SystemHeat.netkan",
         "remote-avc": "https://raw.githubusercontent.com/post-kerbin-mining-corporation/SystemHeat/master/GameData/SystemHeat/Versioning/SystemHeat.version"
     },
     "tags": [
@@ -54,7 +54,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/post-kerbin-mining-corporation/SystemHeat/releases/download/0.7.3/SystemHeat_0_7_3.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/post-kerbin-mining-corporation/SystemHeat/releases/download/0.7.3/SystemHeat_0_7_3.zip",
     "download_size": 1324864,
     "download_hash": {
         "sha1": "5DFC1C652F9977BFEAB5A13ADCE24CDA975D7B3E",

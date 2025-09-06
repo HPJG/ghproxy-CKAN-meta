@@ -13,7 +13,7 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/155056-*",
-        "repository": "https://ghproxy.net/https://github.com/shadowmage45/KerbalFoundries2"
+        "repository": "https://hk.gh-proxy.com/https://github.com/shadowmage45/KerbalFoundries2"
     },
     "tags": [
         "plugin",
@@ -41,7 +41,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/shadowmage45/KerbalFoundries2/releases/download/2.2.6.16/KerbalFoundries-2.2.6.16.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/shadowmage45/KerbalFoundries2/releases/download/2.2.6.16/KerbalFoundries-2.2.6.16.zip",
     "download_size": 24908820,
     "download_hash": {
         "sha1": "ADE15A11CE224440B81D78E6CD6B9CF5EC9A5A8F",

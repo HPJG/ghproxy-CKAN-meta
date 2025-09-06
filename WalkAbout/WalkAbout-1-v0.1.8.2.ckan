@@ -14,7 +14,7 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/193732-*",
         "spacedock": "https://spacedock.info/mod/228/WalkAbout",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/WalkAbout",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/WalkAbout",
         "x_screenshot": "https://spacedock.info/content/Antipodes_555/WalkAbout/WalkAbout-1456147829.247913.jpg"
     },
     "install": [

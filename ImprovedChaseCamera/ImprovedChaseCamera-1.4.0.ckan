@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/80112-0-23-5-Improved-Chase-Camera-v1-2",
-        "repository": "https://ghproxy.net/https://github.com/BahamutoD/ImprovedChaseCamera"
+        "repository": "https://hk.gh-proxy.com/https://github.com/BahamutoD/ImprovedChaseCamera"
     },
     "version": "1.4.0",
     "ksp_version_min": "0.24",

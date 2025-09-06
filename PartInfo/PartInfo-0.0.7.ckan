@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/182040-145-151-161-partinfo/",
         "spacedock": "https://spacedock.info/mod/2091/PartInfo",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/PartInfo",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/PartInfo/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/PartInfo",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/PartInfo/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/PartInfo"
     },
     "tags": [

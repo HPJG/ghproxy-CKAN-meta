@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/99966",
-        "repository": "https://ghproxy.net/https://github.com/KSP-RO/RealismOverhaul"
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealismOverhaul"
     },
     "version": "v7.0.3",
     "ksp_version": "0.25",
@@ -188,7 +188,7 @@
             "comment": "KAS config, does not overwrite"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSP-RO/RealismOverhaul/releases/download/v7.0.3/RealismOverhaul7_0_3.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealismOverhaul/releases/download/v7.0.3/RealismOverhaul7_0_3.zip",
     "download_size": 5112829,
     "download_hash": {
         "sha1": "1CC15FD0FC5460CCEEA40950A938DA0F9478F92F",

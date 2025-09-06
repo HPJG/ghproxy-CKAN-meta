@@ -10,8 +10,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/161898-*",
-        "repository": "https://ghproxy.net/https://github.com/HaArLiNsH/TRR_Guide",
-        "bugtracker": "https://ghproxy.net/https://github.com/HaArLiNsH/TRR_Guide/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/HaArLiNsH/TRR_Guide",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/HaArLiNsH/TRR_Guide/issues"
     },
     "tags": [
         "config",
@@ -38,7 +38,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/HaArLiNsH/TRR_Guide/releases/download/V0.5/TRR_Guide.V0.5.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/HaArLiNsH/TRR_Guide/releases/download/V0.5/TRR_Guide.V0.5.zip",
     "download_size": 73622319,
     "download_hash": {
         "sha1": "6D165A7D115F58D570834FC6193598C35FA61764",

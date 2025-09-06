@@ -11,8 +11,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://umbraspaceindustries.github.io/UmbraSpaceIndustries/",
-        "repository": "https://ghproxy.net/https://github.com/UmbraSpaceIndustries/SoundingRockets",
-        "bugtracker": "https://ghproxy.net/https://github.com/UmbraSpaceIndustries/SoundingRockets/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/UmbraSpaceIndustries/SoundingRockets",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/UmbraSpaceIndustries/SoundingRockets/issues",
         "metanetkan": "https://raw.githubusercontent.com/UmbraSpaceIndustries/CKAN/master/SoundingRockets.netkan",
         "remote-avc": "https://raw.githubusercontent.com/BobPalmer/SoundingRockets/master/FOR_RELEASE/GameData/UmbraSpaceIndustries/SoundingRockets/SoundingRockets.version"
     },
@@ -36,7 +36,7 @@
             "install_to": "GameData/UmbraSpaceIndustries"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/UmbraSpaceIndustries/SoundingRockets/releases/download/1.4.0/SoundingRockets_1.4.0.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/UmbraSpaceIndustries/SoundingRockets/releases/download/1.4.0/SoundingRockets_1.4.0.0.zip",
     "download_size": 1935171,
     "download_hash": {
         "sha1": "DDDCE9561144234F61814C90D0EE1F0BA237A8D5",

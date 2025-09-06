@@ -8,8 +8,8 @@
     "license": "restricted",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/228453-112x-cosmic-serenity-v10-wip/#comment-4473675",
-        "repository": "https://ghproxy.net/https://github.com/ProximaCentauri-star/Cosmic-Serenity",
-        "bugtracker": "https://ghproxy.net/https://github.com/ProximaCentauri-star/Cosmic-Serenity/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/ProximaCentauri-star/Cosmic-Serenity",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/ProximaCentauri-star/Cosmic-Serenity/issues"
     },
     "tags": [
         "config",
@@ -38,7 +38,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/ProximaCentauri-star/Cosmic-Serenity/releases/download/1.0.1/_Core.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/ProximaCentauri-star/Cosmic-Serenity/releases/download/1.0.1/_Core.zip",
     "download_size": 117100301,
     "download_hash": {
         "sha1": "CCB50B57541F3987D52817512DD2E33239EA87D5",

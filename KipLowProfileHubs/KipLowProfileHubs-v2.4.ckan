@@ -14,9 +14,9 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?showtopic=194984",
         "spacedock": "https://spacedock.info/mod/2457/KipLowProfileHubs",
-        "repository": "https://ghproxy.net/https://github.com/mwerle/KipLowProfileHubs",
-        "bugtracker": "https://ghproxy.net/https://github.com/mwerle/KipLowProfileHubs/issues",
-        "remote-avc": "https://ghproxy.net/https://github.com/mwerle/KipLowProfileHubs/raw/primary/GameData/KipEng/KipLowProfileHubs/KipLowProfileHubs.version"
+        "repository": "https://hk.gh-proxy.com/https://github.com/mwerle/KipLowProfileHubs",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/mwerle/KipLowProfileHubs/issues",
+        "remote-avc": "https://hk.gh-proxy.com/https://github.com/mwerle/KipLowProfileHubs/raw/primary/GameData/KipEng/KipLowProfileHubs/KipLowProfileHubs.version"
     },
     "tags": [
         "parts",

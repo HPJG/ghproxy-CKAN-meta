@@ -6,7 +6,7 @@
     "author": "linuxgurugamer",
     "license": "BSD-2-clause",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/kerbcam"
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/kerbcam"
     },
     "version": "1:0.19.2",
     "ksp_version": "1.4.5",
@@ -24,7 +24,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/linuxgurugamer/kerbcam/releases/download/0.19.2/KerbCam-1.4.5-0.19.2.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/kerbcam/releases/download/0.19.2/KerbCam-1.4.5-0.19.2.zip",
     "download_size": 63647,
     "download_hash": {
         "sha1": "717A294B5C94E26902313159222073F0AE1D068B",

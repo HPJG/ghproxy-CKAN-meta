@@ -10,8 +10,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/104535-*",
-        "repository": "https://ghproxy.net/https://github.com/MagicSmokeIndustries/InfernalRobotics",
-        "bugtracker": "https://ghproxy.net/https://github.com/MagicSmokeIndustries/InfernalRobotics/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/MagicSmokeIndustries/InfernalRobotics",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/MagicSmokeIndustries/InfernalRobotics/issues"
     },
     "tags": [
         "parts",
@@ -40,7 +40,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/MagicSmokeIndustries/InfernalRobotics/releases/download/2.0.14/IR-2.0.14-Final-Core.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/MagicSmokeIndustries/InfernalRobotics/releases/download/2.0.14/IR-2.0.14-Final-Core.zip",
     "download_size": 302665,
     "download_hash": {
         "sha1": "7F878089B10A82F3684FD39A792469CC313E1DB0",

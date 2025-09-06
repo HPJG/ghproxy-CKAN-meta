@@ -8,8 +8,8 @@
     "ksp_version_min": "1.9.1",
     "license": "CC-BY-NC-SA",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/JadeOfMaar/PlumeParty",
-        "bugtracker": "https://ghproxy.net/https://github.com/JadeOfMaar/PlumeParty/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/PlumeParty",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/PlumeParty/issues",
         "remote-avc": "https://raw.githubusercontent.com:443/JadeOfMaar/PlumeParty/master/GameData/PlumeParty/Version/PlumeParty.version"
     },
     "tags": [
@@ -33,7 +33,7 @@
             "filter": "Configs"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/JadeOfMaar/PlumeParty/releases/download/0.6.1/PlumeParty-0.6.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/PlumeParty/releases/download/0.6.1/PlumeParty-0.6.1.zip",
     "download_size": 4374188,
     "download_hash": {
         "sha1": "03E56E6D169912CD2FE9903F9BA4881B390319E9",

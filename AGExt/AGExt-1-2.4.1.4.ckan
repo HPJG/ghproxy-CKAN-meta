@@ -14,8 +14,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/167269-1",
         "spacedock": "https://spacedock.info/mod/1685/Action%20Groups%20Extended",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/AGExt",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/AGExt/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/AGExt",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/AGExt/issues",
         "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/AGExt/refs/heads/master/AGExt.version"
     },
     "tags": [
@@ -47,7 +47,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/linuxgurugamer/AGExt/releases/download/2.4.1.4/AGExt-1.12.0-2.4.1.4.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/AGExt/releases/download/2.4.1.4/AGExt-1.12.0-2.4.1.4.zip",
     "download_size": 136813,
     "download_hash": {
         "sha1": "805DB08B3F089C78C049DD6FE82FC902A25311F0",

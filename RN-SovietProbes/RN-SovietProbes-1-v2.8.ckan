@@ -11,7 +11,7 @@
     "license": "CC-BY-NC-ND-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/79433-*",
-        "repository": "https://ghproxy.net/https://github.com/KSP-RO/SovietProbes"
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/SovietProbes"
     },
     "tags": [
         "parts",
@@ -43,7 +43,7 @@
             "install_to": "Ships"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSP-RO/SovietProbes/releases/download/v2.8/RN_Soviet_Probes_v2.8.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/SovietProbes/releases/download/v2.8/RN_Soviet_Probes_v2.8.zip",
     "download_size": 25790153,
     "download_hash": {
         "sha1": "7B2FFD465EE102A709C05B1CA7E34EEFBD44BBE3",

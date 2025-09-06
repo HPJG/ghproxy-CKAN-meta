@@ -8,9 +8,9 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/33124-12-rcs-build-aid-v091/",
         "curse": "https://kerbal.curseforge.com/projects/220602",
-        "repository": "https://ghproxy.net/https://github.com/m4v/RCSBuildAid",
-        "bugtracker": "https://ghproxy.net/https://github.com/m4v/RCSBuildAid/issues",
-        "manual": "https://ghproxy.net/https://github.com/m4v/RCSBuildAid/blob/master/README.asciidoc",
+        "repository": "https://hk.gh-proxy.com/https://github.com/m4v/RCSBuildAid",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/m4v/RCSBuildAid/issues",
+        "manual": "https://hk.gh-proxy.com/https://github.com/m4v/RCSBuildAid/blob/master/README.asciidoc",
         "x_screenshot": "https://media.forgecdn.net/avatars/thumbnails/9/478/120/120/635430509451892424.png"
     },
     "version": "v0.9.1",

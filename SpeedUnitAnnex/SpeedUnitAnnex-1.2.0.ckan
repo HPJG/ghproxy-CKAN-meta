@@ -7,7 +7,7 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/169611-*",
-        "repository": "https://ghproxy.net/https://github.com/yalov/SpeedUnitAnnex"
+        "repository": "https://hk.gh-proxy.com/https://github.com/yalov/SpeedUnitAnnex"
     },
     "version": "1.2.0",
     "ksp_version_min": "1.4.0",
@@ -20,7 +20,7 @@
             "name": "SpeedUnitDisplay"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/yalov/SpeedUnitAnnex/releases/download/1.2.0/SpeedUnitAnnex-v1.2.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/yalov/SpeedUnitAnnex/releases/download/1.2.0/SpeedUnitAnnex-v1.2.0.zip",
     "download_size": 28890,
     "download_hash": {
         "sha1": "DE88718BF2E999E0C4F4207D30561DA534F28903",

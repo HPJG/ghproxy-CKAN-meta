@@ -1,0 +1,42 @@
+{
+    "spec_version": 1,
+    "identifier": "BetterKerbol",
+    "name": "Better Kerbol",
+    "abstract": "KSP: Graphics enhancement for Kerbol",
+    "author": "jamespglaze",
+    "version": "v1.1.0",
+    "ksp_version": "1.12",
+    "license": "CC-BY-NC-ND-3.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/207389-112x-kopernicus-betterkerbol-v110-a-kerbol-graphics-enhancement/",
+        "repository": "https://hk.gh-proxy.com/https://github.com/jamespglaze/BetterKerbol",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/jamespglaze/BetterKerbol/issues"
+    },
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "Scatterer"
+        }
+    ],
+    "download": "https://hk.gh-proxy.com/https://github.com/jamespglaze/BetterKerbol/releases/download/v1.1.0/BetterKerbol.1.1.0.zip",
+    "download_size": 17733018,
+    "download_hash": {
+        "sha1": "6C321596ED72BBEC55BE66CA29C555C185944883",
+        "sha256": "DC5E8B982137C54DB687275D7D6B6E09F262BB62AD85FF04B6EB05EE98EB30A7"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 33565838,
+    "release_date": "2024-06-29T19:50:31Z",
+    "x_generated_by": "netkan"
+}

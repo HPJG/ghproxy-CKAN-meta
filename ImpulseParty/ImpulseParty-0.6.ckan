@@ -10,8 +10,8 @@
     "license": "CC-BY-NC-ND",
     "resources": {
         "spacedock": "https://spacedock.info/mod/3424/Impulse%20Party",
-        "repository": "https://ghproxy.net/https://github.com/JadeOfMaar/ImpulseParty",
-        "bugtracker": "https://ghproxy.net/https://github.com/JadeOfMaar/ImpulseParty/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/ImpulseParty",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/ImpulseParty/issues",
         "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/ImpulseParty/main/GameData/ImpulseParty/Version/ImpulseParty.version",
         "x_screenshot": "https://spacedock.info/content/JadeOfMaar_11026/Impulse_Party/Impulse_Party-1689620366.png"
     },
@@ -36,7 +36,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/JadeOfMaar/ImpulseParty/releases/download/0.6/ImpulseParty_0.6.zip",
+        "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/ImpulseParty/releases/download/0.6/ImpulseParty_0.6.zip",
         "https://spacedock.info/mod/3424/Impulse%20Party/download/0.6"
     ],
     "download_size": 21735564,

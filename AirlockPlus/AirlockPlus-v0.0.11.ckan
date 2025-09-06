@@ -10,8 +10,8 @@
     "license": "restricted",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?showtopic=160268",
-        "repository": "https://ghproxy.net/https://github.com/cake-pie/AirlockPlus",
-        "bugtracker": "https://ghproxy.net/https://github.com/cake-pie/AirlockPlus/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/cake-pie/AirlockPlus",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/cake-pie/AirlockPlus/issues",
         "remote-avc": "https://raw.githubusercontent.com/cake-pie/AirlockPlus/master/AirlockPlus.version"
     },
     "tags": [
@@ -51,7 +51,7 @@
             "install_to": "GameData/AirlockPlus"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/cake-pie/AirlockPlus/releases/download/v0.0.11/AirlockPlus.0.0.11.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/cake-pie/AirlockPlus/releases/download/v0.0.11/AirlockPlus.0.0.11.zip",
     "download_size": 66647,
     "download_hash": {
         "sha1": "3B31840254FE904010D4F3087E4008E44F35999D",

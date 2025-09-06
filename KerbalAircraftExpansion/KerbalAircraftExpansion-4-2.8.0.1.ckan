@@ -12,7 +12,7 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/180268-*",
         "spacedock": "https://spacedock.info/mod/2150/KAX",
-        "repository": "https://ghproxy.net/https://github.com/net-lisias-ksp/KAX/releases",
+        "repository": "https://hk.gh-proxy.com/https://github.com/net-lisias-ksp/KAX/releases",
         "x_screenshot": "https://spacedock.info/content/Lisias_20517/KAX/KAX-1557861049.2208164.jpg"
     },
     "version": "4:2.8.0.1",

@@ -9,8 +9,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/207768-*/",
-        "repository": "https://ghproxy.net/https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMap",
-        "bugtracker": "https://ghproxy.net/https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMap/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMap",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMap/issues"
     },
     "tags": [
         "plugin",
@@ -28,7 +28,7 @@
             "install_to": "GameData/000_NiakoUtils"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMap/releases/download/0.3/VertexMitchellNetravaliMap.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMap/releases/download/0.3/VertexMitchellNetravaliMap.zip",
     "download_size": 4725,
     "download_hash": {
         "sha1": "900D70ABF8E0A900C3F1DEBA0E9A32F9918462D3",

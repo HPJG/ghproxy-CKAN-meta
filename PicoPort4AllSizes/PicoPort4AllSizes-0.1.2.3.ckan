@@ -9,8 +9,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/155020-*",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/PicoPort4AllSizes",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/PicoPort4AllSizes/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/PicoPort4AllSizes",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/PicoPort4AllSizes/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/PicoPort4AllSizes"
     },
     "tags": [
@@ -30,7 +30,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/linuxgurugamer/PicoPort4AllSizes/releases/download/0.1.2.3/PicoPort4AllSizes-0.1.2.3.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/PicoPort4AllSizes/releases/download/0.1.2.3/PicoPort4AllSizes-0.1.2.3.zip",
     "download_size": 22872,
     "download_hash": {
         "sha1": "109869001EB2B5803D9FE48D31D2E0262486480A",

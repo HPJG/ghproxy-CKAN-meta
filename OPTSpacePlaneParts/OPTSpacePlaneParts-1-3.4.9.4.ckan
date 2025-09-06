@@ -13,8 +13,8 @@
     "license": "CC-BY-NC-SA-4.0",
     "release_status": "testing",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/StoneBlue/OPT_Streamlined",
-        "bugtracker": "https://ghproxy.net/https://github.com/StoneBlue/OPT_Streamlined/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/StoneBlue/OPT_Streamlined",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/StoneBlue/OPT_Streamlined/issues",
         "remote-avc": "https://raw.githubusercontent.com/StoneBlue/OPT_Streamlined/master/GameData/OPT_Legacy/Version/OPTLegacy.version"
     },
     "tags": [
@@ -52,7 +52,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/StoneBlue/OPT_Streamlined/releases/download/3.4.9.4/OPT.Legacy.3.4.9.4.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/StoneBlue/OPT_Streamlined/releases/download/3.4.9.4/OPT.Legacy.3.4.9.4.zip",
     "download_size": 86162349,
     "download_hash": {
         "sha256": "A3682AE4E68C45701FB6E033FE516A4AFB5C5E2F15C598D272FD460470DCDA84"

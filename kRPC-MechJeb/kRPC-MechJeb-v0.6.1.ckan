@@ -10,8 +10,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://genhis.github.io/KRPC.MechJeb/",
-        "repository": "https://ghproxy.net/https://github.com/Genhis/KRPC.MechJeb",
-        "bugtracker": "https://ghproxy.net/https://github.com/Genhis/KRPC.MechJeb/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Genhis/KRPC.MechJeb",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Genhis/KRPC.MechJeb/issues"
     },
     "tags": [
         "plugin",
@@ -32,7 +32,7 @@
             "install_to": "GameData/kRPC"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Genhis/KRPC.MechJeb/releases/download/v0.6.1/krpc-mechjeb-0.6.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Genhis/KRPC.MechJeb/releases/download/v0.6.1/krpc-mechjeb-0.6.1.zip",
     "download_size": 137588,
     "download_hash": {
         "sha1": "C80474051564D3B7539F53E86428E2ADA953BE61",

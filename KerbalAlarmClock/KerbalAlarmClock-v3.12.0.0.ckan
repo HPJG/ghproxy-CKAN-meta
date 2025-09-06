@@ -12,8 +12,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/22809-14x-kerbal-alarm-clock-v3900-mar-17/",
         "curse": "http://kerbal.curseforge.com/ksp-mods/220289-kerbal-alarm-clock",
-        "repository": "https://ghproxy.net/https://github.com/TriggerAu/KerbalAlarmClock",
-        "license": "https://ghproxy.net/https://github.com/TriggerAu/KerbalAlarmClock/blob/master/LICENSE",
+        "repository": "https://hk.gh-proxy.com/https://github.com/TriggerAu/KerbalAlarmClock",
+        "license": "https://hk.gh-proxy.com/https://github.com/TriggerAu/KerbalAlarmClock/blob/master/LICENSE",
         "manual": "http://triggerau.github.io/KerbalAlarmClock/"
     },
     "tags": [
@@ -31,7 +31,7 @@
             "install_to": "GameData/TriggerTech"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/TriggerAu/KerbalAlarmClock/releases/download/v3.12.0.0/KerbalAlarmClock_3.12.0.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/TriggerAu/KerbalAlarmClock/releases/download/v3.12.0.0/KerbalAlarmClock_3.12.0.0.zip",
     "download_size": 1417306,
     "download_hash": {
         "sha1": "2425237FBADCD4DE814ED1D201A3DFE0FED41FF4",

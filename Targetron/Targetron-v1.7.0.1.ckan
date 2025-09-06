@@ -11,7 +11,7 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/209523-112x-targetron-adopted/",
         "spacedock": "https://spacedock.info/mod/3095/Targetron%20Adopted",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/Targetron",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/Targetron",
         "remote-avc": "http://ksp.spacetux.net/avc/Targetron",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Targetron_Adopted/Targetron_Adopted-1661563506.jpeg"
     },
@@ -31,7 +31,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/linuxgurugamer/Targetron/releases/download/1.7.0.1/Targetron-1.12.0-1.7.0.1.zip",
+        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/Targetron/releases/download/1.7.0.1/Targetron-1.12.0-1.7.0.1.zip",
         "https://spacedock.info/mod/3095/Targetron%20Adopted/download/1.7.0.1"
     ],
     "download_size": 58594,

@@ -10,8 +10,8 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/175432-*",
-        "repository": "https://ghproxy.net/https://github.com/TheProtagonists/TheWorldBeyond",
-        "bugtracker": "https://ghproxy.net/https://github.com/TheProtagonists/TheWorldBeyond/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/TheProtagonists/TheWorldBeyond",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/TheProtagonists/TheWorldBeyond/issues",
         "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=589"
     },
     "tags": [
@@ -46,7 +46,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/TheProtagonists/TheWorldBeyond/releases/download/v1.1.1/_TWB_Full_1.1.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/TheProtagonists/TheWorldBeyond/releases/download/v1.1.1/_TWB_Full_1.1.1.zip",
     "download_size": 1682279812,
     "download_hash": {
         "sha1": "1D9052EE7E3152086B534ABED703129972D63A86",

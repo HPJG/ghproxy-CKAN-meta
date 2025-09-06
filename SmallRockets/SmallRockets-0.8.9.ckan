@@ -8,10 +8,10 @@
     "ksp_version": "1.12.5",
     "license": "CC-BY",
     "resources": {
-        "homepage": "https://ghproxy.net/https://github.com/tylerraiz/SmallRockets",
+        "homepage": "https://hk.gh-proxy.com/https://github.com/tylerraiz/SmallRockets",
         "spacedock": "https://spacedock.info/mod/3575/Small%20Rockets",
-        "repository": "https://ghproxy.net/https://github.com/tylerraiz/SmallRockets",
-        "bugtracker": "https://ghproxy.net/https://github.com/tylerraiz/SmallRockets/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/tylerraiz/SmallRockets",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/tylerraiz/SmallRockets/issues"
     },
     "tags": [
         "parts"
@@ -37,7 +37,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/tylerraiz/SmallRockets/releases/download/0.8.9/SmallRocketsv0.8.9.zip",
+        "https://hk.gh-proxy.com/https://github.com/tylerraiz/SmallRockets/releases/download/0.8.9/SmallRocketsv0.8.9.zip",
         "https://spacedock.info/mod/3575/Small%20Rockets/download/0.8.9"
     ],
     "download_size": 104181731,

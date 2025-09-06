@@ -9,8 +9,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/137489-*",
-        "repository": "https://ghproxy.net/https://github.com/henrybauer/GPOSpeedPump",
-        "bugtracker": "https://ghproxy.net/https://github.com/henrybauer/GPOSpeedPump/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/henrybauer/GPOSpeedPump",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/henrybauer/GPOSpeedPump/issues",
         "remote-avc": "https://raw.githubusercontent.com/henrybauer/GPOSpeedPump/master/GameData/GPOSpeedFuelPump.version",
         "x_screenshot": "https://spacedock.info/content/hab136_461/GPOSpeedFuelPump/GPOSpeedFuelPump-1461173729.569611.png"
     },
@@ -29,7 +29,7 @@
             "filter": "sourcecode"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/henrybauer/GPOSpeedPump/releases/download/v1.8.19/GPOSpeedFuelPump-v1.8.19.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/henrybauer/GPOSpeedPump/releases/download/v1.8.19/GPOSpeedFuelPump-v1.8.19.zip",
     "download_size": 17942,
     "download_hash": {
         "sha1": "43DA0A18A795D1C4E75D447AB4A8CC96E68B91E5",

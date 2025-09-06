@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/169509-*",
         "spacedock": "https://spacedock.info/mod/1931/ToolbarController",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/ToolbarControl",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/ToolbarControl/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ToolbarControl",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ToolbarControl/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/ToolbarControl"
     },
     "tags": [

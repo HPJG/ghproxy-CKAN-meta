@@ -10,8 +10,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/204002-*",
-        "repository": "https://ghproxy.net/https://github.com/KSPModdingLibs/KSPCommunityFixes",
-        "bugtracker": "https://ghproxy.net/https://github.com/KSPModdingLibs/KSPCommunityFixes/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSPModdingLibs/KSPCommunityFixes",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSPModdingLibs/KSPCommunityFixes/issues",
         "remote-avc": "https://raw.githubusercontent.com/KSPModdingLibs/KSPCommunityFixes/master/GameData/KSPCommunityFixes/KSPCommunityFixes.version"
     },
     "tags": [
@@ -32,7 +32,7 @@
             "name": "Harmony2"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSPModdingLibs/KSPCommunityFixes/releases/download/1.30.0/KSPCommunityFixes_1.30.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSPModdingLibs/KSPCommunityFixes/releases/download/1.30.0/KSPCommunityFixes_1.30.0.zip",
     "download_size": 372728,
     "download_hash": {
         "sha1": "ADA689224892E661CE6E6F403BE793EA4905E3F8",

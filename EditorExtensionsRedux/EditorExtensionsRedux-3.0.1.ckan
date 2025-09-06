@@ -7,7 +7,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/127378-editor-extensions-redux-300-released-with-selectroot-merge",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/EditorExtensionsRedux",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/EditorExtensionsRedux",
         "kerbalstuff": "https://kerbalstuff.com/mod/1342/EditorExtensionsRedux"
     },
     "version": "3.0.1",

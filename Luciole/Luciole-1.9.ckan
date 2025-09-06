@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/193010-191-luciole-10/",
         "spacedock": "https://spacedock.info/mod/2392/Luciole",
-        "repository": "https://ghproxy.net/https://github.com/AstroWell/Luciole",
-        "bugtracker": "https://ghproxy.net/https://github.com/AstroWell/Luciole/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/AstroWell/Luciole",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/AstroWell/Luciole/issues",
         "x_screenshot": "https://spacedock.info/content/Well_7448/Luciole/Luciole-1586456215.882042.jpg"
     },
     "tags": [
@@ -43,7 +43,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/AstroWell/Luciole/releases/download/v1.9/Luciole_1.9.zip",
+        "https://hk.gh-proxy.com/https://github.com/AstroWell/Luciole/releases/download/v1.9/Luciole_1.9.zip",
         "https://spacedock.info/mod/2392/Luciole/download/1.9"
     ],
     "download_size": 24977544,

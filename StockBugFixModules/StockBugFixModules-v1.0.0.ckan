@@ -6,7 +6,7 @@
     "author": "ClawKSP",
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/ClawKSP/KSP-Stock-Bug-Fix-Modules"
+        "repository": "https://hk.gh-proxy.com/https://github.com/ClawKSP/KSP-Stock-Bug-Fix-Modules"
     },
     "version": "v1.0.0",
     "ksp_version": "1.0.0",
@@ -21,7 +21,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/ClawKSP/KSP-Stock-Bug-Fix-Modules/releases/download/v1.0.0/StockBugFixModules.v1.0.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/ClawKSP/KSP-Stock-Bug-Fix-Modules/releases/download/v1.0.0/StockBugFixModules.v1.0.0.zip",
     "download_size": 65996,
     "download_hash": {
         "sha1": "22C26F5715033A460110D60D99C11A1EF3B95515",

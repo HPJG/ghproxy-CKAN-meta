@@ -12,7 +12,7 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/23808-102-tac-fuel-balancer-v251-2may",
         "spacedock": "https://spacedock.info/mod/640/TacFuelBalancer",
-        "repository": "https://ghproxy.net/https://github.com/thewebbooth/TacFuelBalancer"
+        "repository": "https://hk.gh-proxy.com/https://github.com/thewebbooth/TacFuelBalancer"
     },
     "version": "v2.6",
     "ksp_version": "1.1.2",

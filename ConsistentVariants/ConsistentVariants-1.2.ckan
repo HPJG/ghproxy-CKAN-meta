@@ -10,8 +10,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/179537-*",
-        "repository": "https://ghproxy.net/https://github.com/severedsolo/ConsistentVariants",
-        "bugtracker": "https://ghproxy.net/https://github.com/severedsolo/ConsistentVariants/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/severedsolo/ConsistentVariants",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/severedsolo/ConsistentVariants/issues",
         "remote-avc": "https://raw.githubusercontent.com:443/severedsolo/ConsistentVariants/master/GameData/ConsistentVariants/ConsistentVariants.version"
     },
     "tags": [
@@ -30,7 +30,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/severedsolo/ConsistentVariants/releases/download/1.2/ConsistentVariants.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/severedsolo/ConsistentVariants/releases/download/1.2/ConsistentVariants.zip",
     "download_size": 12815,
     "download_hash": {
         "sha1": "9C9D9AC09C4F124B6A4D30A91CD66C9E2F52929A",

@@ -14,7 +14,7 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/150589-12-spacedock/",
         "spacedock": "https://spacedock.info/mod/1585/Spacedocks%20Redeployed",
-        "repository": "https://ghproxy.net/https://github.com/bartblommaerts/SpaceDock"
+        "repository": "https://hk.gh-proxy.com/https://github.com/bartblommaerts/SpaceDock"
     },
     "tags": [
         "parts"

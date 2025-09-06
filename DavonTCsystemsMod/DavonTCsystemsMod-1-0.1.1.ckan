@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/196642-18-19-110-davon-throttle-control-systems-mod-renewed/",
         "spacedock": "https://spacedock.info/mod/2516/Davon%20Throttle%20Control%20Systems",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/DavonTCsystemsMod",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/DavonTCsystemsMod/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/DavonTCsystemsMod",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/DavonTCsystemsMod/issues",
         "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/DavonTCsystemsMod/master/DavonTCsystemsMod.version",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Davon_Throttle_Control_Systems/Davon_Throttle_Control_Systems-1598965786.9999108.png"
     },
@@ -41,7 +41,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/linuxgurugamer/DavonTCsystemsMod/releases/download/0.1.1/DavonTCsystemsMod-1.12.0-0.1.1.zip",
+        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/DavonTCsystemsMod/releases/download/0.1.1/DavonTCsystemsMod-1.12.0-0.1.1.zip",
         "https://spacedock.info/mod/2516/Davon%20Throttle%20Control%20Systems/download/0.1.1"
     ],
     "download_size": 38935,

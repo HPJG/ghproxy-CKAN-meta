@@ -14,7 +14,7 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/195666-18x19x-110x-l-tech-beta/",
         "spacedock": "https://spacedock.info/mod/227/L-Tech%20Scientific%20Industries%20Continued",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/L-Tech",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/L-Tech",
         "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/L-Tech/master/LTech.version"
     },
     "tags": [
@@ -46,7 +46,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/linuxgurugamer/L-Tech/releases/download/0.5.2.3/L-Tech_Scientific_Industries_Continued-0.5.2.3.1.zip",
+        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/L-Tech/releases/download/0.5.2.3/L-Tech_Scientific_Industries_Continued-0.5.2.3.1.zip",
         "https://spacedock.info/mod/227/L-Tech%20Scientific%20Industries%20Continued/download/0.5.2.3"
     ],
     "download_size": 5078052,

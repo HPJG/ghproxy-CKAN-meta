@@ -6,8 +6,8 @@
     "author": "willwill2will54",
     "license": "CC-BY-4.0",
     "resources": {
-        "homepage": "https://ghproxy.net/https://github.com/willwill2will54/Flag-Pack/",
-        "repository": "https://ghproxy.net/https://github.com/willwill2will54/Flag-Pack"
+        "homepage": "https://hk.gh-proxy.com/https://github.com/willwill2will54/Flag-Pack/",
+        "repository": "https://hk.gh-proxy.com/https://github.com/willwill2will54/Flag-Pack"
     },
     "version": "v1.1",
     "ksp_version": "any",
@@ -17,7 +17,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/willwill2will54/Flag-Pack/releases/download/v1.1/FlagPack.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/willwill2will54/Flag-Pack/releases/download/v1.1/FlagPack.zip",
     "download_size": 7192111,
     "download_hash": {
         "sha1": "6C52C9CE61A20D6C20E8BEA1FFAC5C93BD838881",

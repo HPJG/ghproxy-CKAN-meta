@@ -1,0 +1,23 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "BurgerMod",
+    "name": "Burger Mod",
+    "abstract": "Stackable meat, toppings, and buns, to build a delicious rocket. Comes with Ketchup engines!",
+    "author": "NecroBones",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/85379-10511-burger-mod-03-2015-04-28/",
+        "spacedock": "https://spacedock.info/mod/96/Burger%20Mod",
+        "x_screenshot": "https://spacedock.info/content/NecroBones_209/Burger_Mod/Burger_Mod-1455805548.984303.jpg"
+    },
+    "version": "0.3",
+    "ksp_version": "1.1.0",
+    "download": "https://spacedock.info/mod/96/Burger%20Mod/download/0.3",
+    "download_size": 2475664,
+    "download_hash": {
+        "sha1": "E7F9325ECB275416AFA95FF058AFD76A3361A648",
+        "sha256": "CE422CD4DAF90512285D8965BC8A1973136C659233A7EEA67C46A20FA4567ABD"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

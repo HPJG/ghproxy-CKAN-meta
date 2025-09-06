@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.fr/viewtopic.php?f=16&t=7571",
         "spacedock": "https://spacedock.info/mod/3443/Correctif%20Traduction%20Francaise",
-        "repository": "https://ghproxy.net/https://github.com/KSP-FrTranslation/CorrectifTraductionFrancaise",
-        "bugtracker": "https://ghproxy.net/https://github.com/KSP-FrTranslation/CorrectifTraductionFrancaise/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-FrTranslation/CorrectifTraductionFrancaise",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-FrTranslation/CorrectifTraductionFrancaise/issues"
     },
     "tags": [
         "config"
@@ -20,7 +20,7 @@
         "fr-fr"
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/KSP-FrTranslation/CorrectifTraductionFrancaise/releases/download/1.0/CorrectifTraductionFrancaise-1.0.zip",
+        "https://hk.gh-proxy.com/https://github.com/KSP-FrTranslation/CorrectifTraductionFrancaise/releases/download/1.0/CorrectifTraductionFrancaise-1.0.zip",
         "https://spacedock.info/mod/3443/Correctif%20Traduction%20Francaise/download/1.0"
     ],
     "download_size": 14550,

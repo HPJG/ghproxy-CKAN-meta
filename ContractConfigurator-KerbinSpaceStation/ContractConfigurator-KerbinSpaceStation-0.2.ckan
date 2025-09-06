@@ -7,7 +7,7 @@
     "license": "CC-BY-SA-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/113642",
-        "repository": "https://ghproxy.net/https://github.com/severedsolo/KerbinSpaceStation"
+        "repository": "https://hk.gh-proxy.com/https://github.com/severedsolo/KerbinSpaceStation"
     },
     "version": "0.2",
     "ksp_version": "0.90",
@@ -25,7 +25,7 @@
             "install_to": "GameData/ContractPacks"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/severedsolo/KerbinSpaceStation/releases/download/0.2/Kerbin.Space.Station0.2.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/severedsolo/KerbinSpaceStation/releases/download/0.2/Kerbin.Space.Station0.2.zip",
     "download_size": 80722,
     "download_hash": {
         "sha1": "88EF9710380EACFB0ABC36C09C54D2CF3314BA8F",

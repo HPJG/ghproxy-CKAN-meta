@@ -8,7 +8,7 @@
     ],
     "license": "Unlicense",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/Kerbalism/KerbalismScienceOnly"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Kerbalism/KerbalismScienceOnly"
     },
     "version": "1.0",
     "ksp_version_min": "1.5.0",
@@ -41,7 +41,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Kerbalism/KerbalismScienceOnly/releases/download/1.0/KerbalismScienceOnly.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Kerbalism/KerbalismScienceOnly/releases/download/1.0/KerbalismScienceOnly.zip",
     "download_size": 202916,
     "download_hash": {
         "sha1": "981B8FE8A9ABE810A09727FB2A914EC7F16E9888",

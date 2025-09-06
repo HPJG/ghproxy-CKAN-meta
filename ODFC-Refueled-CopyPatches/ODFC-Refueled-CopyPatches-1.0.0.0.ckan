@@ -11,10 +11,10 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/187625-ksp-173-*",
         "spacedock": "https://spacedock.info/mod/2221/On%20Demand%20Fuel%20Cells%20-%20Copy%20Patches",
-        "repository": "https://ghproxy.net/https://github.com/zer0Kerbal/OnDemandFuelCells",
-        "bugtracker": "https://ghproxy.net/https://github.com/zer0Kerbal/OnDemandFuelCells/issues",
-        "discussions": "https://ghproxy.net/https://github.com/zer0Kerbal/OnDemandFuelCells/discussions",
-        "remote-avc": "https://ghproxy.net/https://github.com/zer0Kerbal/ODFCr/raw/master/OnDemandFuelCells.version",
+        "repository": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/OnDemandFuelCells",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/OnDemandFuelCells/issues",
+        "discussions": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/OnDemandFuelCells/discussions",
+        "remote-avc": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/ODFCr/raw/master/OnDemandFuelCells.version",
         "x_screenshot": "https://spacedock.info/content/zer0Kerbal_21147/On_Demand_Fuel_Cells_-_Copy_Patches/On_Demand_Fuel_Cells_-_Copy_Patches-1567519898.3521898.png"
     },
     "tags": [

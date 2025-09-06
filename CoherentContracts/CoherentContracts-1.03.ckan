@@ -1,0 +1,34 @@
+{
+    "spec_version": "v1.2",
+    "identifier": "CoherentContracts",
+    "name": "Coherent Contracts",
+    "abstract": "Prevents ocular traumatization by replacing the contract description generator",
+    "author": "DuoDex",
+    "license": "BSD-3-clause",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/100098-0-90-Coherent-Contracts-v1-02-(Dec-1)",
+        "kerbalstuff": "https://kerbalstuff.com/mod/333/Coherent%20Contracts",
+        "x_screenshot": "https://kerbalstuff.com/content/DuoDex_4012/Coherent_Contracts/Coherent_Contracts.png"
+    },
+    "version": "1.03",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "file": "CoherentContracts.cfg",
+            "install_to": "GameData/CoherentContracts"
+        }
+    ],
+    "download": "https://archive.org/download/CoherentContracts-1.03/A6D8AAE1-CoherentContracts-1.03.zip",
+    "download_size": 12075,
+    "download_hash": {
+        "sha1": "A6D8AAE137157A5449354A61F5EBB662B108DD08",
+        "sha256": "12F61D020D951BBCA8EFA0512C270F94E2627A8331B2EE9B33BFFE5F35A6B710"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

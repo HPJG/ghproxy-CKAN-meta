@@ -11,7 +11,7 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/188979-i173-improved-updated-chase-camera/",
         "spacedock": "https://spacedock.info/mod/2249/Improved%20and%20Updated%20Chase%20Camera",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/ImprovedChaseCamera",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ImprovedChaseCamera",
         "remote-avc": "http://ksp.spacetux.net/avc/ImprovedChaseCamera"
     },
     "tags": [
@@ -29,7 +29,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/linuxgurugamer/ImprovedChaseCamera/releases/download/1.6.4.3/ImprovedChaseCamera-1.12.0-1.6.4.3.zip",
+        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ImprovedChaseCamera/releases/download/1.6.4.3/ImprovedChaseCamera-1.12.0-1.6.4.3.zip",
         "https://spacedock.info/mod/2249/Improved%20and%20Updated%20Chase%20Camera/download/1.6.4.3"
     ],
     "download_size": 12407,

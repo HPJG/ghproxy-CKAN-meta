@@ -6,9 +6,9 @@
     "author": "Xyphos",
     "license": "MIT",
     "resources": {
-        "homepage": "https://ghproxy.net/https://github.com/Xyphos/KSP_FullAutoStrut/wiki",
+        "homepage": "https://hk.gh-proxy.com/https://github.com/Xyphos/KSP_FullAutoStrut/wiki",
         "spacedock": "https://spacedock.info/mod/1479/FullAutoStrut",
-        "repository": "https://ghproxy.net/https://github.com/Xyphos/KSP_FullAutoStrut"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Xyphos/KSP_FullAutoStrut"
     },
     "version": "v1.7.3",
     "ksp_version": "1.7.3",

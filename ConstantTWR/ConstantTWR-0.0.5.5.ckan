@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/162836-13-constanttwr/",
         "spacedock": "https://spacedock.info/mod/1429/ConstantTWR",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/ConstantTWR",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/ConstantTWR/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ConstantTWR",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ConstantTWR/issues",
         "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/ConstantTWR/refs/heads/master/ConstantTWR.version",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/ConstantTWR/ConstantTWR-1499085617.2863977.png"
     },
@@ -32,7 +32,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/linuxgurugamer/ConstantTWR/releases/download/0.0.5.5/ConstantTWR-1.12.0-0.0.5.5.zip",
+        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ConstantTWR/releases/download/0.0.5.5/ConstantTWR-1.12.0-0.0.5.5.zip",
         "https://spacedock.info/mod/1429/ConstantTWR/download/0.0.5.5"
     ],
     "download_size": 29604,

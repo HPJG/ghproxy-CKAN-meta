@@ -11,7 +11,7 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/78226-105-stagerecovery-recover-funds-from-dropped-stages-v162-010216/&page=1",
         "spacedock": "https://spacedock.info/mod/219/StageRecovery",
-        "repository": "https://ghproxy.net/https://github.com/magico13/StageRecovery"
+        "repository": "https://hk.gh-proxy.com/https://github.com/magico13/StageRecovery"
     },
     "version": "1.6.5",
     "ksp_version_min": "1.2.0",

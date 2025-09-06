@@ -10,10 +10,10 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/192184-*/",
         "spacedock": "https://spacedock.info/mod/2246/Docking%20Port%20Descriptions%20(DPD)",
-        "repository": "https://ghproxy.net/https://github.com/zer0Kerbal/DockingPortDescriptions",
-        "bugtracker": "https://ghproxy.net/https://github.com/zer0Kerbal/DockingPortDescriptions/issues",
-        "discussions": "https://ghproxy.net/https://github.com/zer0Kerbal/DockingPortDescriptions/discussions",
-        "remote-avc": "https://ghproxy.net/https://github.com/zer0Kerbal/DockingPortDescriptions/raw/master/DockingPortDescriptions.version",
+        "repository": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/DockingPortDescriptions",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/DockingPortDescriptions/issues",
+        "discussions": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/DockingPortDescriptions/discussions",
+        "remote-avc": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/DockingPortDescriptions/raw/master/DockingPortDescriptions.version",
         "x_screenshot": "https://spacedock.info/content/zer0Kerbal_21147/Docking_Port_Descriptions_DPD/Docking_Port_Descriptions_DPD-1657509976.jpg"
     },
     "tags": [

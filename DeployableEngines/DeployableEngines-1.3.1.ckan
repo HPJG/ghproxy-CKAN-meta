@@ -9,10 +9,10 @@
     "ksp_version_max": "1.12.99",
     "license": "MIT",
     "resources": {
-        "homepage": "https://ghproxy.net/https://github.com/post-kerbin-mining-corporation/DeployableEngines/wiki",
-        "repository": "https://ghproxy.net/https://github.com/post-kerbin-mining-corporation/DeployableEngines",
-        "bugtracker": "https://ghproxy.net/https://github.com/post-kerbin-mining-corporation/DeployableEngines/issues",
-        "metanetkan": "https://ghproxy.net/https://github.com/post-kerbin-mining-corporation/DeployableEngines/raw/master/CKAN/DeployableEngines.netkan",
+        "homepage": "https://hk.gh-proxy.com/https://github.com/post-kerbin-mining-corporation/DeployableEngines/wiki",
+        "repository": "https://hk.gh-proxy.com/https://github.com/post-kerbin-mining-corporation/DeployableEngines",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/post-kerbin-mining-corporation/DeployableEngines/issues",
+        "metanetkan": "https://hk.gh-proxy.com/https://github.com/post-kerbin-mining-corporation/DeployableEngines/raw/master/CKAN/DeployableEngines.netkan",
         "remote-avc": "https://raw.githubusercontent.com/post-kerbin-mining-corporation/DeployableEngines/master/GameData/DeployableEngines/Versioning/DeployableEngines.version"
     },
     "tags": [
@@ -33,7 +33,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/post-kerbin-mining-corporation/DeployableEngines/releases/download/1.3.1/DeployableEngines_1_3_1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/post-kerbin-mining-corporation/DeployableEngines/releases/download/1.3.1/DeployableEngines_1_3_1.zip",
     "download_size": 8168,
     "download_hash": {
         "sha1": "68C6832D8DEF9BC301C041E86BE3A5BB769B3470",

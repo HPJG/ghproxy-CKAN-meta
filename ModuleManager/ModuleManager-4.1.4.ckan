@@ -14,7 +14,7 @@
     "license": "CC-BY-SA",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*",
-        "repository": "https://ghproxy.net/https://github.com/sarbian/ModuleManager",
+        "repository": "https://hk.gh-proxy.com/https://github.com/sarbian/ModuleManager",
         "ci": "https://ksp.sarbian.com/jenkins/job/ModuleManager/"
     },
     "tags": [

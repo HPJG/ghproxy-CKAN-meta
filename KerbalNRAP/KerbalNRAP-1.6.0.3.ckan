@@ -15,8 +15,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/156017-x",
         "spacedock": "https://spacedock.info/mod/386/Kerbal%20NRAP%20-%20Procedural%20Test%20Weights",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/NRAP",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/NRAP/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/NRAP",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/NRAP/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/NRAP",
         "x_screenshot": "https://spacedock.info/content/stupid_chris_2190/Kerbal_NRAP_-_Procedural_Test_Weights/Kerbal_NRAP_-_Procedural_Test_Weights-1457583001.4521554.png"
     },
@@ -39,7 +39,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/linuxgurugamer/NRAP/releases/download/1.6.0.3/NRAP-1.12.0-1.6.0.3.zip",
+        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/NRAP/releases/download/1.6.0.3/NRAP-1.12.0-1.6.0.3.zip",
         "https://spacedock.info/mod/386/Kerbal%20NRAP%20-%20Procedural%20Test%20Weights/download/1.6.0.3"
     ],
     "download_size": 239804,

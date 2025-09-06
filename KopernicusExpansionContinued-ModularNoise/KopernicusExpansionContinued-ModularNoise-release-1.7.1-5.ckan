@@ -12,8 +12,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/119211-*",
-        "repository": "https://ghproxy.net/https://github.com/StollD/KopernicusExpansion-Continued",
-        "bugtracker": "https://ghproxy.net/https://github.com/StollD/KopernicusExpansion-Continued/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/StollD/KopernicusExpansion-Continued",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/StollD/KopernicusExpansion-Continued/issues"
     },
     "tags": [
         "plugin",
@@ -30,7 +30,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/StollD/KopernicusExpansion-Continued/releases/download/release-1.7.1-5/KEX-ModularNoise-1.7.1-5.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/StollD/KopernicusExpansion-Continued/releases/download/release-1.7.1-5/KEX-ModularNoise-1.7.1-5.zip",
     "download_size": 5094,
     "download_hash": {
         "sha1": "78BB8F4300B50422E489BDB3910D552C81161082",

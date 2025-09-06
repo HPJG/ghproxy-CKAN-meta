@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/158136-122-recoupler-release-thread-monocouple-your-bicouplers-v100/",
         "spacedock": "https://spacedock.info/mod/1250/ReCoupler",
-        "repository": "https://ghproxy.net/https://github.com/DBooots/ReCoupler",
-        "bugtracker": "https://ghproxy.net/https://github.com/DBooots/ReCoupler/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/DBooots/ReCoupler",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/DBooots/ReCoupler/issues",
         "x_screenshot": "https://spacedock.info/content/Booots_6292/ReCoupler/ReCoupler-1488856997.1542835.png"
     },
     "tags": [
@@ -19,7 +19,7 @@
         "physics"
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/DBooots/ReCoupler/releases/download/v1.3.6/ReCoupler_1.3.6.zip",
+        "https://hk.gh-proxy.com/https://github.com/DBooots/ReCoupler/releases/download/v1.3.6/ReCoupler_1.3.6.zip",
         "https://spacedock.info/mod/1250/ReCoupler/download/1.3.6"
     ],
     "download_size": 44647,

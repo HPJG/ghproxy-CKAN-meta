@@ -10,15 +10,15 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/204404-*",
-        "repository": "https://ghproxy.net/https://github.com/severedsolo/AlarmEnhancements",
-        "bugtracker": "https://ghproxy.net/https://github.com/severedsolo/AlarmEnhancements/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/severedsolo/AlarmEnhancements",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/severedsolo/AlarmEnhancements/issues",
         "remote-avc": "https://raw.githubusercontent.com/severedsolo/AlarmEnhancements/main/GameData/AlarmEnhancements/AlarmEnhancements.version"
     },
     "tags": [
         "plugin",
         "convenience"
     ],
-    "download": "https://ghproxy.net/https://github.com/severedsolo/AlarmEnhancements/releases/download/1.0.1/AlarmEnhancements.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/severedsolo/AlarmEnhancements/releases/download/1.0.1/AlarmEnhancements.zip",
     "download_size": 6694,
     "download_hash": {
         "sha1": "F8F1A42FB884E584091656155B318AB4030CEFF3",

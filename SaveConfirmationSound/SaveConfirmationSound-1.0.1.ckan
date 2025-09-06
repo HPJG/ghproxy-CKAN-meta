@@ -11,7 +11,7 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/221235-112x-save-confirmation-sound-updated/",
         "spacedock": "https://spacedock.info/mod/3526/Save%20Confirmation%20Sound%20Updated",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/SaveConfirmationSound",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/SaveConfirmationSound",
         "remote-avc": "http://ksp.spacetux.net/avc/SaveConfirmationSound"
     },
     "tags": [
@@ -19,7 +19,7 @@
         "sound"
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/linuxgurugamer/SaveConfirmationSound/releases/download/1.0.1/SaveConfirmationSound-1.12.0-1.0.1.zip",
+        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/SaveConfirmationSound/releases/download/1.0.1/SaveConfirmationSound-1.12.0-1.0.1.zip",
         "https://spacedock.info/mod/3526/Save%20Confirmation%20Sound%20Updated/download/1.0.1"
     ],
     "download_size": 13025,

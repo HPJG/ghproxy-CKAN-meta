@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/161093-12-13-beta-release-munar-industries-modular-fuel-tank-expansion-rebuilt/",
         "spacedock": "https://spacedock.info/mod/1396/Fuel%20Tank%20Expansion%20Rebuilt",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/ModularFuelTankExpansion",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/ModularFuelTankExpansion/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ModularFuelTankExpansion",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ModularFuelTankExpansion/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/FuelTankExpansion",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Fuel_Tank_Expansion_Rebuilt/Fuel_Tank_Expansion_Rebuilt-1496318657.181578.jpg"
     },
@@ -41,7 +41,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/linuxgurugamer/ModularFuelTankExpansion/releases/download/0.9.7.1/FuelTankExpansion-1.12.0-0.9.7.1.zip",
+        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ModularFuelTankExpansion/releases/download/0.9.7.1/FuelTankExpansion-1.12.0-0.9.7.1.zip",
         "https://spacedock.info/mod/1396/Fuel%20Tank%20Expansion%20Rebuilt/download/0.9.7.1"
     ],
     "download_size": 9343608,

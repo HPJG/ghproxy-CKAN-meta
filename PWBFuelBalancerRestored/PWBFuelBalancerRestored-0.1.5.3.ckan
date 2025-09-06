@@ -7,7 +7,7 @@
     "license": "CC-BY-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/180409-15-pwb-fuel-balancer-restored/",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/PWBFuelBalancerRestored"
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/PWBFuelBalancerRestored"
     },
     "version": "0.1.5.3",
     "ksp_version_min": "1.5.1",
@@ -17,7 +17,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/linuxgurugamer/PWBFuelBalancerRestored/releases/download/0.1.5.3/PWBFuelBalancerRestored-0.1.5.3.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/PWBFuelBalancerRestored/releases/download/0.1.5.3/PWBFuelBalancerRestored-0.1.5.3.zip",
     "download_size": 160769,
     "download_hash": {
         "sha1": "5DABE710278A0EF8462550D8C873CE01D6054589",

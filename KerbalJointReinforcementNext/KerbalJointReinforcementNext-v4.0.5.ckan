@@ -11,7 +11,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/184206-*",
-        "repository": "https://ghproxy.net/https://github.com/meirumeiru/Kerbal-Joint-Reinforcement"
+        "repository": "https://hk.gh-proxy.com/https://github.com/meirumeiru/Kerbal-Joint-Reinforcement"
     },
     "version": "v4.0.5",
     "ksp_version_min": "1.4.0",
@@ -26,7 +26,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/meirumeiru/Kerbal-Joint-Reinforcement/releases/download/v4.0.5/KerbalJointReinforcement_v4.0.5.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/meirumeiru/Kerbal-Joint-Reinforcement/releases/download/v4.0.5/KerbalJointReinforcement_v4.0.5.zip",
     "download_size": 34949,
     "download_hash": {
         "sha1": "4B90DCD788A17F51E76702395B75BDB12AD8F9AE",

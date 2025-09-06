@@ -13,8 +13,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/20183-*",
-        "repository": "https://ghproxy.net/https://github.com/RealGrep/protractor",
-        "bugtracker": "https://ghproxy.net/https://github.com/RealGrep/protractor/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/RealGrep/protractor",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/RealGrep/protractor/issues"
     },
     "tags": [
         "plugin",
@@ -26,7 +26,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/RealGrep/protractor/releases/download/v2.5.1/ProtractorContinued-v2.5.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/RealGrep/protractor/releases/download/v2.5.1/ProtractorContinued-v2.5.1.zip",
     "download_size": 67798,
     "download_hash": {
         "sha1": "9ABF507172CD2A1CE86A3041B4227F4F31A58192",

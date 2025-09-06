@@ -16,8 +16,8 @@
     "license": "restricted",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/204210-*",
-        "repository": "https://ghproxy.net/https://github.com/KSP-RO/Kerbal-Konstructs",
-        "bugtracker": "https://ghproxy.net/https://github.com/KSP-RO/Kerbal-Konstructs/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/Kerbal-Konstructs",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-RO/Kerbal-Konstructs/issues",
         "remote-avc": "https://raw.githubusercontent.com:443/KSP-RO/Kerbal-Konstructs/master/GameData/KerbalKonstructs/KerbalKonstructs.version"
     },
     "tags": [
@@ -41,7 +41,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSP-RO/Kerbal-Konstructs/releases/download/v1.8.2.1/Kerbal-Konstructs-v1.8.2.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/Kerbal-Konstructs/releases/download/v1.8.2.1/Kerbal-Konstructs-v1.8.2.1.zip",
     "download_size": 6458441,
     "download_hash": {
         "sha1": "434E4DE8AAD87E117F745BB716F97559A3F7A01C",

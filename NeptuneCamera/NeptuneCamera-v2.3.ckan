@@ -9,8 +9,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/196339-*",
-        "repository": "https://ghproxy.net/https://github.com/Tantares/NeptuneCamera",
-        "bugtracker": "https://ghproxy.net/https://github.com/Tantares/NeptuneCamera/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Tantares/NeptuneCamera",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Tantares/NeptuneCamera/issues"
     },
     "tags": [
         "plugin",
@@ -21,7 +21,7 @@
             "name": "TantaresSP"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Tantares/NeptuneCamera/releases/download/v2.3/NeptuneCamera.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Tantares/NeptuneCamera/releases/download/v2.3/NeptuneCamera.zip",
     "download_size": 7399,
     "download_hash": {
         "sha1": "E8C06CBC631A548AC96251ED03E5D55B1518A958",

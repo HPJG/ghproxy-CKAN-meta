@@ -7,7 +7,7 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/40183-ksp-142-mission-controller-20-in-game-contract-builder-edition-422018/&",
-        "repository": "https://ghproxy.net/https://github.com/malkuth1974/MissionController2"
+        "repository": "https://hk.gh-proxy.com/https://github.com/malkuth1974/MissionController2"
     },
     "version": "2:2.0.1",
     "ksp_version_min": "1.4.0",
@@ -18,7 +18,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/malkuth1974/MissionController2/releases/download/2.0.1/MissionController2Version2.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/malkuth1974/MissionController2/releases/download/2.0.1/MissionController2Version2.0.zip",
     "download_size": 3438589,
     "download_hash": {
         "sha1": "23C6FDCE7F6C25CC37DA4579D9E2E152CCAC9CC6",

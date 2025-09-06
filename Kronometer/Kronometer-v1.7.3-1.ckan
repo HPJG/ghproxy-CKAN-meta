@@ -12,8 +12,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/161218-*",
-        "repository": "https://ghproxy.net/https://github.com/Kopernicus/Kronometer",
-        "bugtracker": "https://ghproxy.net/https://github.com/Kopernicus/Kronometer/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/Kopernicus/Kronometer",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Kopernicus/Kronometer/issues",
         "remote-avc": "https://raw.githubusercontent.com/Kopernicus/Kronometer/master/Distribution/Release/GameData/Kronometer/Plugins/Kronometer.version"
     },
     "tags": [
@@ -26,7 +26,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Kopernicus/Kronometer/releases/download/v1.7.3-1/Kronometer.v1.7.3-1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Kopernicus/Kronometer/releases/download/v1.7.3-1/Kronometer.v1.7.3-1.zip",
     "download_size": 24316,
     "download_hash": {
         "sha1": "5D7B98A9BDB01AA46C73FB926D31679BDA1FEB16",

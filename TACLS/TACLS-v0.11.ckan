@@ -7,9 +7,9 @@
     "license": "CC-BY-NC-SA-3.0",
     "release_status": "stable",
     "resources": {
-        "homepage": "https://ghproxy.net/https://github.com/taraniselsu/TacLifeSupport/wiki",
-        "repository": "https://ghproxy.net/https://github.com/taraniselsu/TacLifeSupport",
-        "bugtracker": "https://ghproxy.net/https://github.com/taraniselsu/TacLifeSupport/issues"
+        "homepage": "https://hk.gh-proxy.com/https://github.com/taraniselsu/TacLifeSupport/wiki",
+        "repository": "https://hk.gh-proxy.com/https://github.com/taraniselsu/TacLifeSupport",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/taraniselsu/TacLifeSupport/issues"
     },
     "version": "v0.11",
     "ksp_version": "1.0.0",
@@ -33,7 +33,7 @@
             "filter_regexp": "PluginData/TacLifeSupport/LifeSupport\\.cfg$"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/taraniselsu/TacLifeSupport/releases/download/v0.11/TacLifeSupport_0.11.0.18.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/taraniselsu/TacLifeSupport/releases/download/v0.11/TacLifeSupport_0.11.0.18.zip",
     "download_size": 5996970,
     "download_hash": {
         "sha1": "6058163170E772C39BD192EE0B23B57039AEDA1A",

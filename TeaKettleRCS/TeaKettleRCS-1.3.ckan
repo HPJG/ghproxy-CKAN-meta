@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/204633-1122-tea-kettle-rcs-11-oct-13-2021/",
         "spacedock": "https://spacedock.info/mod/2842/Tea%20Kettle%20RCS",
-        "repository": "https://ghproxy.net/https://github.com/JadeOfMaar/TeaKettleRCS",
-        "bugtracker": "https://ghproxy.net/https://github.com/JadeOfMaar/TeaKettleRCS/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/TeaKettleRCS",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/TeaKettleRCS/issues",
         "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/TeaKettleRCS/main/GameData/TeaKettleRCS/Version/TeaKettleRCS.version",
         "x_screenshot": "https://spacedock.info/content/JadeOfMaar_11026/Tea_Kettle_RCS/Tea_Kettle_RCS-1630535657.20754.png"
     },
@@ -50,7 +50,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/JadeOfMaar/TeaKettleRCS/releases/download/1.3/TeaKettleRCS_1.3.zip",
+        "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/TeaKettleRCS/releases/download/1.3/TeaKettleRCS_1.3.zip",
         "https://spacedock.info/mod/2842/Tea%20Kettle%20RCS/download/1.3"
     ],
     "download_size": 1859308,

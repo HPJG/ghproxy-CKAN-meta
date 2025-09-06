@@ -7,7 +7,7 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/122162-105-deep-space-exploration-vessels-105-build-nasa-inspired-ships-in-ksp/&page=1",
-        "repository": "https://ghproxy.net/https://github.com/Angel-125/DSEV"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Angel-125/DSEV"
     },
     "version": "v1.1.2",
     "ksp_version": "1.1.0",
@@ -35,7 +35,7 @@
             "install_to": "GameData/Squad/Resources"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Angel-125/DSEV/releases/download/v1.1.2/DSEV_1_1_2.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Angel-125/DSEV/releases/download/v1.1.2/DSEV_1_1_2.zip",
     "download_size": 12113218,
     "download_hash": {
         "sha1": "B6E60767BD6CCE700056205109F91956F8FA790D",

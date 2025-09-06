@@ -7,12 +7,12 @@
     "license": "Unlicense",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/154658-131-mandatoryrcs-14-part-pack-10-reaction-wheels-nerf-sas-rotation-persistence/",
-        "repository": "https://ghproxy.net/https://github.com/gotmachine/MandatoryRCS-Part-Pack"
+        "repository": "https://hk.gh-proxy.com/https://github.com/gotmachine/MandatoryRCS-Part-Pack"
     },
     "version": "1.1",
     "ksp_version_min": "1.0.0",
     "ksp_version_max": "1.4.9",
-    "download": "https://ghproxy.net/https://github.com/gotmachine/MandatoryRCS-Part-Pack/releases/download/1.1/MandatoryRCSPartPack_v1.1_KSP1.4.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/gotmachine/MandatoryRCS-Part-Pack/releases/download/1.1/MandatoryRCSPartPack_v1.1_KSP1.4.1.zip",
     "download_size": 132849,
     "download_hash": {
         "sha1": "281ABE805DF8629FA21E62A60041BF27F904913A",

@@ -13,8 +13,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/179445-*",
-        "repository": "https://ghproxy.net/https://github.com/dkavolis/Ferram-Aerospace-Research",
-        "bugtracker": "https://ghproxy.net/https://github.com/dkavolis/Ferram-Aerospace-Research/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/dkavolis/Ferram-Aerospace-Research",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/dkavolis/Ferram-Aerospace-Research/issues",
         "remote-avc": "https://raw.githubusercontent.com/dkavolis/Ferram-Aerospace-Research/master/GameData/FerramAerospaceResearch/FAR.version"
     },
     "tags": [
@@ -65,7 +65,7 @@
             "comment": "FAR example craft"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/dkavolis/Ferram-Aerospace-Research/releases/download/v0.16.1.0_Marangoni/FAR_0_16_1_0_Marangoni.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/dkavolis/Ferram-Aerospace-Research/releases/download/v0.16.1.0_Marangoni/FAR_0_16_1_0_Marangoni.zip",
     "download_size": 1356651,
     "download_hash": {
         "sha1": "687FBEC28A8D66EAB46B203D7C31D3D45B09FE93",

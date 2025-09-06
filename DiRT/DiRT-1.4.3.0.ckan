@@ -7,7 +7,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/172055-*",
-        "repository": "https://ghproxy.net/https://github.com/cydonian-monk/KSP-DiRT"
+        "repository": "https://hk.gh-proxy.com/https://github.com/cydonian-monk/KSP-DiRT"
     },
     "version": "1.4.3.0",
     "ksp_version_min": "1.4.3",
@@ -26,7 +26,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/cydonian-monk/KSP-DiRT/releases/download/1.4.3.0/DiRT_1.4.3.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/cydonian-monk/KSP-DiRT/releases/download/1.4.3.0/DiRT_1.4.3.0.zip",
     "download_size": 12518,
     "download_hash": {
         "sha1": "20437D8A12FA31F991F5E47703B0AE96E8900AAC",

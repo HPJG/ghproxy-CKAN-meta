@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/72679-1",
         "spacedock": "https://spacedock.info/mod/129/SCANsat",
-        "repository": "https://ghproxy.net/https://github.com/KSPModStewards/SCANsat",
-        "bugtracker": "https://ghproxy.net/https://github.com/KSPModStewards/SCANsat/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSPModStewards/SCANsat",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSPModStewards/SCANsat/issues",
         "remote-avc": "https://raw.githubusercontent.com/S-C-A-N/SCANsat/release/SCANassets/SCANsat.version"
     },
     "tags": [
@@ -53,7 +53,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/KSPModStewards/SCANsat/releases/download/v20.4/SCANsat-v20.4.zip",
+        "https://hk.gh-proxy.com/https://github.com/KSPModStewards/SCANsat/releases/download/v20.4/SCANsat-v20.4.zip",
         "https://spacedock.info/mod/129/SCANsat/download/v20.4"
     ],
     "download_size": 20252353,

@@ -10,8 +10,8 @@
     "license": "restricted",
     "resources": {
         "homepage": "http://kerbokatz.github.io/",
-        "repository": "https://ghproxy.net/https://github.com/Xarun/SmallUtilities",
-        "bugtracker": "https://ghproxy.net/https://github.com/Xarun/SmallUtilities/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Xarun/SmallUtilities",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Xarun/SmallUtilities/issues"
     },
     "version": "1.4.3",
     "ksp_version_min": "1.2.0",
@@ -33,7 +33,7 @@
             "install_to": "GameData/KerboKatz/SmallUtilities"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KerboKatz/SmallUtilities/releases/download/1.4.3/SmallUtilities.PhysicalTimeRatioViewer.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KerboKatz/SmallUtilities/releases/download/1.4.3/SmallUtilities.PhysicalTimeRatioViewer.zip",
     "download_size": 77227,
     "download_hash": {
         "sha1": "712CFCE3AD3D2BE16F42A090DB30F09722A7C0AF",

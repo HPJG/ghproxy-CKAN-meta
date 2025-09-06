@@ -10,8 +10,8 @@
     "release_status": "testing",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/142900-*",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/PersistentDynamicPodNames",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/PersistentDynamicPodNames/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/PersistentDynamicPodNames",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/PersistentDynamicPodNames/issues",
         "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/PersistentDynamicPodNames/master/PersistentDynamicPodNames.version"
     },
     "tags": [
@@ -35,7 +35,7 @@
             "filter_regexp": "ModuleManager.+\\.dll"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/linuxgurugamer/PersistentDynamicPodNames/releases/download/0.1.9/PersistentDynamicPodNames-1.4.5-0.1.9.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/PersistentDynamicPodNames/releases/download/0.1.9/PersistentDynamicPodNames-1.4.5-0.1.9.zip",
     "download_size": 87862,
     "download_hash": {
         "sha256": "96298217648B43EF58415239E7976C9CCCE18BE3D95D8FDCBA3EC7A17C00B7D5"

@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/20451",
-        "repository": "https://ghproxy.net/https://github.com/ferram4/Ferram-Aerospace-Research",
+        "repository": "https://hk.gh-proxy.com/https://github.com/ferram4/Ferram-Aerospace-Research",
         "kerbalstuff": "https://kerbalstuff.com/mod/52/Ferram%20Aerospace%20Research"
     },
     "version": "v0.15.1_Fanno",

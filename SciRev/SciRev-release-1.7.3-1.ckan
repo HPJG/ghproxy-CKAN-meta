@@ -7,8 +7,8 @@
     "version": "release-1.7.3-1",
     "license": "MIT",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/StollD/SciRev",
-        "bugtracker": "https://ghproxy.net/https://github.com/StollD/SciRev/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/StollD/SciRev",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/StollD/SciRev/issues"
     },
     "tags": [
         "plugin",
@@ -25,7 +25,7 @@
             "install_to": "GameData/SciRev"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/StollD/SciRev/releases/download/release-1.7.3-1/SciRev-1.7.3-1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/StollD/SciRev/releases/download/release-1.7.3-1/SciRev-1.7.3-1.zip",
     "download_size": 22296,
     "download_hash": {
         "sha1": "FE3ED275EF073E8632B20BBE9D69924FA5BE4C2A",

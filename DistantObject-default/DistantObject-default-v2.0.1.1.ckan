@@ -14,8 +14,8 @@
     "license": "CC-BY-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/189759-*",
-        "repository": "https://ghproxy.net/https://github.com/TheDarkBadger/DistantObject",
-        "bugtracker": "https://ghproxy.net/https://github.com/TheDarkBadger/DistantObject/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/TheDarkBadger/DistantObject",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/TheDarkBadger/DistantObject/issues"
     },
     "tags": [
         "config",
@@ -41,7 +41,7 @@
             "find_matches_files": true
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/TheDarkBadger/DistantObject/releases/download/v2.0.1.1/DistantObject-v2.0.1.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/TheDarkBadger/DistantObject/releases/download/v2.0.1.1/DistantObject-v2.0.1.1.zip",
     "download_size": 31013,
     "download_hash": {
         "sha1": "F01E5ABB1663F65DD6871271D282E0F52056CEC6",

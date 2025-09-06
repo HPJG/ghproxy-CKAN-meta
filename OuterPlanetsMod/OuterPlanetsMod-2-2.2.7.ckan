@@ -14,8 +14,8 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/184789-*",
-        "repository": "https://ghproxy.net/https://github.com/Poodmund/Outer-Planets-Mod",
-        "bugtracker": "https://ghproxy.net/https://github.com/Poodmund/Outer-Planets-Mod/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/Poodmund/Outer-Planets-Mod",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Poodmund/Outer-Planets-Mod/issues",
         "metanetkan": "https://raw.githubusercontent.com/Poodmund/Outer-Planets-Mod/master/CKAN/OPM.netkan"
     },
     "tags": [
@@ -74,7 +74,7 @@
             "comment": "This is the main install for OPM"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Poodmund/Outer-Planets-Mod/releases/download/2.2.7/Outer_Planets_Mod-2.2.7.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Poodmund/Outer-Planets-Mod/releases/download/2.2.7/Outer_Planets_Mod-2.2.7.zip",
     "download_size": 115918950,
     "download_hash": {
         "sha1": "9A072DE6D14183AC4683B682029817B5BB192416",

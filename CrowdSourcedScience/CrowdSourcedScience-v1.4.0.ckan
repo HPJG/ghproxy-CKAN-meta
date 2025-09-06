@@ -6,7 +6,7 @@
     "author": "DuoDex",
     "license": "CC-BY-NC-4.0",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/DuoDex/CrowdSourcedScience"
+        "repository": "https://hk.gh-proxy.com/https://github.com/DuoDex/CrowdSourcedScience"
     },
     "version": "v1.4.0",
     "ksp_version": "0.90",
@@ -15,7 +15,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/DuoDex/CrowdSourcedScience/releases/download/v1.4.0/CrowdSourcedScience.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/DuoDex/CrowdSourcedScience/releases/download/v1.4.0/CrowdSourcedScience.zip",
     "download_size": 83269,
     "download_hash": {
         "sha1": "04A472E3E419898499E4430D2DA467CE819D84D6",

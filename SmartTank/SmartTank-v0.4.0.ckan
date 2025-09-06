@@ -11,8 +11,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/162743-*",
-        "repository": "https://ghproxy.net/https://github.com/HebaruSan/SmartTank",
-        "bugtracker": "https://ghproxy.net/https://github.com/HebaruSan/SmartTank/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/HebaruSan/SmartTank",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/HebaruSan/SmartTank/issues"
     },
     "tags": [
         "plugin",
@@ -51,7 +51,7 @@
             "name": "MainSailorTextures-Complete"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/HebaruSan/SmartTank/releases/download/v0.4.0/SmartTank.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/HebaruSan/SmartTank/releases/download/v0.4.0/SmartTank.zip",
     "download_size": 40384,
     "download_hash": {
         "sha1": "196810E985801A00B58DF022B7A7145EA6A61011",

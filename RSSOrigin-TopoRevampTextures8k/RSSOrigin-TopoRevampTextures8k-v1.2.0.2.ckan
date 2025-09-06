@@ -7,8 +7,8 @@
     "version": "v1.2.0.2",
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/CharonSSS/RSS-Origin",
-        "bugtracker": "https://ghproxy.net/https://github.com/CharonSSS/RSS-Origin/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/CharonSSS/RSS-Origin",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/CharonSSS/RSS-Origin/issues"
     },
     "tags": [
         "config",
@@ -33,7 +33,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/CharonSSS/RSS-Origin/releases/download/v1.2.0.2/RSS-Origin.RSSTexture.TopoRevamp.Textures8k.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/CharonSSS/RSS-Origin/releases/download/v1.2.0.2/RSS-Origin.RSSTexture.TopoRevamp.Textures8k.zip",
     "download_size": 1781613699,
     "download_hash": {
         "sha1": "6F7183A21FCF449BB80ECF7A0EA5489B31C3ECD9",

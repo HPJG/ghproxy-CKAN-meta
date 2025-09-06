@@ -8,8 +8,8 @@
     "ksp_version": "1.12",
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/CharonSSS/RSS-Origin",
-        "bugtracker": "https://ghproxy.net/https://github.com/CharonSSS/RSS-Origin/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/CharonSSS/RSS-Origin",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/CharonSSS/RSS-Origin/issues"
     },
     "tags": [
         "planet-pack"
@@ -28,7 +28,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/CharonSSS/RSS-Origin/releases/download/v1.1.0/RSS-Origin.CelestialsPack.NearEarthObjects.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/CharonSSS/RSS-Origin/releases/download/v1.1.0/RSS-Origin.CelestialsPack.NearEarthObjects.zip",
     "download_size": 42629930,
     "download_hash": {
         "sha1": "4F12A5B00B50057AE25352A77B1B27AFAD84B9BD",

@@ -14,10 +14,10 @@
     }
   ],
   "resources": {
-    "repository": "https://ghproxy.net/https://github.com/BobPalmer/UmbraSpaceIndustries"
+    "repository": "https://hk.gh-proxy.com/https://github.com/BobPalmer/UmbraSpaceIndustries"
   },
   "version": "0.2.3",
-  "download": "https://ghproxy.net/https://github.com/BobPalmer/UmbraSpaceIndustries/releases/download/0.2.3/USITools_0.2.3.zip",
+  "download": "https://hk.gh-proxy.com/https://github.com/BobPalmer/UmbraSpaceIndustries/releases/download/0.2.3/USITools_0.2.3.zip",
   "x_generated_by": "netkan",
   "download_size": 23961
 }

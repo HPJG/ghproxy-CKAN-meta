@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/55145",
-        "repository": "https://ghproxy.net/https://github.com/NathanKell/RealSolarSystem"
+        "repository": "https://hk.gh-proxy.com/https://github.com/NathanKell/RealSolarSystem"
     },
     "version": "v8.6",
     "ksp_version": "any",
@@ -36,7 +36,7 @@
             "filter_regexp": "^(?!CustomBiomes/PluginData/)|config.xml"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/NathanKell/RealSolarSystem/releases/download/v8.6/RealSolarSystem_v8.6.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/NathanKell/RealSolarSystem/releases/download/v8.6/RealSolarSystem_v8.6.zip",
     "download_size": 15562364,
     "download_hash": {
         "sha1": "42BE06228F3A36B2B3A1B91FE68564CD5F4E6896",

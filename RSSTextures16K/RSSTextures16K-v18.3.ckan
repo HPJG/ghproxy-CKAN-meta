@@ -21,8 +21,8 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/191018-*",
-        "repository": "https://ghproxy.net/https://github.com/KSP-RO/RSS-Textures",
-        "bugtracker": "https://ghproxy.net/https://github.com/KSP-RO/RSS-Textures/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RSS-Textures",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RSS-Textures/issues"
     },
     "tags": [
         "config",
@@ -42,7 +42,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSP-RO/RSS-Textures/releases/download/v18.3/16384.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RSS-Textures/releases/download/v18.3/16384.zip",
     "download_size": 1817253636,
     "download_hash": {
         "sha1": "462BCA3B31B7DDF53E30D5E21E5FCC8628F56D40",

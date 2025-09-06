@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/174510-14-diazos-landing-height/",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/LandingHeight"
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/LandingHeight"
     },
     "version": "2.2.0.1",
     "ksp_version_min": "1.4.1",
@@ -24,7 +24,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/linuxgurugamer/LandingHeight/releases/download/2.2.0.1/LandingHeight-2.2.0.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/LandingHeight/releases/download/2.2.0.1/LandingHeight-2.2.0.1.zip",
     "download_size": 36446,
     "download_hash": {
         "sha1": "DDEA28B6A4D80E48249EB3E6B653174EEE65F73C",

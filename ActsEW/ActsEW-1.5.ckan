@@ -10,7 +10,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/91023-*",
-        "repository": "https://ghproxy.net/https://github.com/SirDiazo/ActsEverywhere"
+        "repository": "https://hk.gh-proxy.com/https://github.com/SirDiazo/ActsEverywhere"
     },
     "tags": [
         "plugin",
@@ -28,7 +28,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/SirDiazo/ActsEverywhere/releases/download/1.5/ActionsEverywhere15.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/SirDiazo/ActsEverywhere/releases/download/1.5/ActionsEverywhere15.zip",
     "download_size": 8431,
     "download_hash": {
         "sha1": "0920C6243F30600F6925E3F4A2C549C531E17E26",

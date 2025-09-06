@@ -8,8 +8,8 @@
     "ksp_version": "1.12",
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/CharonSSS/RSS-Origin",
-        "bugtracker": "https://ghproxy.net/https://github.com/CharonSSS/RSS-Origin/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/CharonSSS/RSS-Origin",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/CharonSSS/RSS-Origin/issues"
     },
     "tags": [
         "planet-pack"
@@ -28,7 +28,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/CharonSSS/RSS-Origin/releases/download/v1.2.0.1/RSS-Origin.CelestialsPack.JupiterMoons.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/CharonSSS/RSS-Origin/releases/download/v1.2.0.1/RSS-Origin.CelestialsPack.JupiterMoons.zip",
     "download_size": 16699135,
     "download_hash": {
         "sha1": "75B5B0B68A2F412D02115AE634CB46FF5E862615",

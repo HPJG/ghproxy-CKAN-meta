@@ -7,7 +7,7 @@
     "license": "CC-BY-NC-SA-4.0",
     "release_status": "stable",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/ChrisAdderley?tab=repositories"
+        "repository": "https://hk.gh-proxy.com/https://github.com/ChrisAdderley?tab=repositories"
     },
     "version": "2.1.1",
     "ksp_version": "1.0.5",

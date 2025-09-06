@@ -7,7 +7,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/167039-131-navhud-renewed/",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/NavHud"
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/NavHud"
     },
     "version": "1.4.0",
     "ksp_version_min": "1.8.0",
@@ -25,7 +25,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/linuxgurugamer/NavHud/releases/download/1.4.0/NavHud-1.8.0-1.4.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/NavHud/releases/download/1.4.0/NavHud-1.8.0-1.4.0.zip",
     "download_size": 50867,
     "download_hash": {
         "sha1": "68099B2E6074F04DADBD7A3FDA7B27580D91951F",

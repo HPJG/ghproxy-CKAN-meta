@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/73686-Tantares",
         "spacedock": "https://spacedock.info/mod/176/TantaresLV",
-        "repository": "https://ghproxy.net/https://github.com/Tantares/TantaresLV",
-        "bugtracker": "https://ghproxy.net/https://github.com/Tantares/TantaresLV/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Tantares/TantaresLV",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Tantares/TantaresLV/issues"
     },
     "tags": [
         "parts"
@@ -49,7 +49,7 @@
             "as": "VAB"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Tantares/TantaresLV/releases/download/v14/TantaresLV.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Tantares/TantaresLV/releases/download/v14/TantaresLV.zip",
     "download_size": 66429632,
     "download_hash": {
         "sha1": "9A9155727C1A05FCB9BA06C639D0EF3B48C7A197",

@@ -32,7 +32,7 @@
             "comment": "At time of writing the Cache folder does not exist, but it may in the future so we filter it"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/BryceSchroeder/Kopernicus/releases/download/beta-03/Kopernicus.0.3.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/BryceSchroeder/Kopernicus/releases/download/beta-03/Kopernicus.0.3.zip",
     "download_size": 46435482,
     "download_hash": {
         "sha1": "A2ED58FE0B994D59D081522898B7E7539BB399F0",

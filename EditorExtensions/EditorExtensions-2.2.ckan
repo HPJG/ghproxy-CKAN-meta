@@ -6,11 +6,11 @@
     "author": "MachXXV",
     "license": "MIT",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/MachXXV/EditorExtensions"
+        "repository": "https://hk.gh-proxy.com/https://github.com/MachXXV/EditorExtensions"
     },
     "version": "2.2",
     "ksp_version": "0.90.0",
-    "download": "https://ghproxy.net/https://github.com/MachXXV/EditorExtensions/releases/download/v2.2/EditorExtensions_v2.2.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/MachXXV/EditorExtensions/releases/download/v2.2/EditorExtensions_v2.2.zip",
     "download_size": 14814,
     "download_hash": {
         "sha1": "8EB333DB4CBAEC6718F1A1CAA0CB1BFA6D86D3B4",

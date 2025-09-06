@@ -8,7 +8,7 @@
     "license": "CC-BY-NC-ND-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/79732-122-131-salyut-stations-salyutalmaz-v292-4-2-18/",
-        "repository": "https://ghproxy.net/https://github.com/KSP-RO/SalyutStations"
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/SalyutStations"
     },
     "version": "1:v2.9.3",
     "ksp_version_min": "1.2.0",
@@ -47,7 +47,7 @@
             "install_to": "Ships"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSP-RO/SalyutStations/releases/download/v2.9.3/RN_SalyutStations_v2.9.3.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/SalyutStations/releases/download/v2.9.3/RN_SalyutStations_v2.9.3.zip",
     "download_size": 28590554,
     "download_hash": {
         "sha1": "467AEEDB78411A736C05AF2E3A93A8A26B050C27",

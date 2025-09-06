@@ -10,16 +10,16 @@
     "license": "MIT",
     "resources": {
         "spacedock": "https://spacedock.info/mod/3073/Draggable%20Controls",
-        "repository": "https://ghproxy.net/https://github.com/andrew-vant/dragctrl",
-        "bugtracker": "https://ghproxy.net/https://github.com/andrew-vant/dragctrl/issues",
-        "remote-avc": "https://ghproxy.net/https://github.com/andrew-vant/dragctrl/releases/latest/download/DraggableNavball.version"
+        "repository": "https://hk.gh-proxy.com/https://github.com/andrew-vant/dragctrl",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/andrew-vant/dragctrl/issues",
+        "remote-avc": "https://hk.gh-proxy.com/https://github.com/andrew-vant/dragctrl/releases/latest/download/DraggableNavball.version"
     },
     "tags": [
         "plugin",
         "convenience"
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/andrew-vant/dragctrl/releases/download/v1.0.0/DraggableControls.zip",
+        "https://hk.gh-proxy.com/https://github.com/andrew-vant/dragctrl/releases/download/v1.0.0/DraggableControls.zip",
         "https://spacedock.info/mod/3073/Draggable%20Controls/download/v1.0.0"
     ],
     "download_size": 7244,

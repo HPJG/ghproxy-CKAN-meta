@@ -9,10 +9,10 @@
     "ksp_version_max": "1.12.99",
     "license": "MIT",
     "resources": {
-        "homepage": "https://ghproxy.net/https://github.com/post-kerbin-mining-corporation/DynamicBatteryStorage/wiki",
-        "repository": "https://ghproxy.net/https://github.com/post-kerbin-mining-corporation/DynamicBatteryStorage",
-        "bugtracker": "https://ghproxy.net/https://github.com/post-kerbin-mining-corporation/DynamicBatteryStorage/issues",
-        "metanetkan": "https://ghproxy.net/https://github.com/post-kerbin-mining-corporation/DynamicBatteryStorage/raw/master/CKAN/DynamicBatteryStorage.netkan",
+        "homepage": "https://hk.gh-proxy.com/https://github.com/post-kerbin-mining-corporation/DynamicBatteryStorage/wiki",
+        "repository": "https://hk.gh-proxy.com/https://github.com/post-kerbin-mining-corporation/DynamicBatteryStorage",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/post-kerbin-mining-corporation/DynamicBatteryStorage/issues",
+        "metanetkan": "https://hk.gh-proxy.com/https://github.com/post-kerbin-mining-corporation/DynamicBatteryStorage/raw/master/CKAN/DynamicBatteryStorage.netkan",
         "remote-avc": "https://raw.githubusercontent.com/post-kerbin-mining-corporation/DynamicBatteryStorage/master/GameData/DynamicBatteryStorage/Versioning/DynamicBatteryStorage.version"
     },
     "tags": [
@@ -33,7 +33,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/post-kerbin-mining-corporation/DynamicBatteryStorage/releases/download/2.2.4/DynamicBatteryStorage_2_2_4.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/post-kerbin-mining-corporation/DynamicBatteryStorage/releases/download/2.2.4/DynamicBatteryStorage_2_2_4.zip",
     "download_size": 69191,
     "download_hash": {
         "sha1": "5FE2403601C5B3E06208D5279665B3C9621C02D0",

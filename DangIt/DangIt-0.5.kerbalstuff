@@ -16,8 +16,8 @@
   ],
   "resources": {
     "homepage": "http://forum.kerbalspaceprogram.com/threads/81794",
-    "bugtracker": "https://ghproxy.net/https://github.com/Ippo343/DangIt/issues",
-    "repository": "https://ghproxy.net/https://github.com/Ippo343/DangIt",
+    "bugtracker": "https://hk.gh-proxy.com/https://github.com/Ippo343/DangIt/issues",
+    "repository": "https://hk.gh-proxy.com/https://github.com/Ippo343/DangIt",
     "kerbalstuff": "https://kerbalstuff.com/mod/7"
   },
   "ksp_version": "0.25",

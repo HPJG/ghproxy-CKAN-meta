@@ -10,8 +10,8 @@
     "license": "restricted",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/95645-*",
-        "repository": "https://ghproxy.net/https://github.com/Y3mo/UnmannedBeforeMannedChallenge",
-        "bugtracker": "https://ghproxy.net/https://github.com/Y3mo/UnmannedBeforeMannedChallenge/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Y3mo/UnmannedBeforeMannedChallenge",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Y3mo/UnmannedBeforeMannedChallenge/issues"
     },
     "tags": [
         "tech-tree"
@@ -38,7 +38,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Y3mo/UnmannedBeforeMannedChallenge/releases/download/1.3.0.0/UnmannedBeforeMannedChallenge-1.3.0.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Y3mo/UnmannedBeforeMannedChallenge/releases/download/1.3.0.0/UnmannedBeforeMannedChallenge-1.3.0.0.zip",
     "download_size": 1659,
     "download_hash": {
         "sha1": "1F18B591D8DE2BDA9BFC84E4892D281075FC2862",

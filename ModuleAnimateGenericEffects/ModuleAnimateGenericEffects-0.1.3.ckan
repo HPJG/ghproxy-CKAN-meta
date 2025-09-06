@@ -10,8 +10,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/191807-18x-*",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/ModuleAnimateGenericEffects",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/ModuleAnimateGenericEffects/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ModuleAnimateGenericEffects",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ModuleAnimateGenericEffects/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/ModuleAnimateGenericEffects"
     },
     "tags": [
@@ -24,7 +24,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/linuxgurugamer/ModuleAnimateGenericEffects/releases/download/0.1.3/ModuleAnimateGenericEffects-1.12.0-0.1.3.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ModuleAnimateGenericEffects/releases/download/0.1.3/ModuleAnimateGenericEffects-1.12.0-0.1.3.zip",
     "download_size": 14543,
     "download_hash": {
         "sha1": "5780600737E12EABF93CC311DA1FB7D5BBEE2D6F",

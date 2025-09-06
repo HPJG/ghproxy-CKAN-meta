@@ -10,8 +10,8 @@
     "license": "restricted",
     "resources": {
         "homepage": "http://umbraspaceindustries.github.io/UmbraSpaceIndustries/",
-        "repository": "https://ghproxy.net/https://github.com/UmbraSpaceIndustries/NuclearRockets",
-        "bugtracker": "https://ghproxy.net/https://github.com/UmbraSpaceIndustries/NuclearRockets/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/UmbraSpaceIndustries/NuclearRockets",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/UmbraSpaceIndustries/NuclearRockets/issues",
         "metanetkan": "https://raw.githubusercontent.com/UmbraSpaceIndustries/CKAN/master/USI-NuclearRockets.netkan",
         "remote-avc": "https://raw.githubusercontent.com/BobPalmer/NuclearRockets/master/FOR_RELEASE/GameData/UmbraSpaceIndustries/Orion/Orion.version"
     },
@@ -39,7 +39,7 @@
             "install_to": "GameData/UmbraSpaceIndustries"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/UmbraSpaceIndustries/NuclearRockets/releases/download/1.4.0/Orion_1.4.0.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/UmbraSpaceIndustries/NuclearRockets/releases/download/1.4.0/Orion_1.4.0.0.zip",
     "download_size": 9848882,
     "download_hash": {
         "sha1": "4597FD1ED6565ED7896F1076361F23CA4402D439",

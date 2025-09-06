@@ -7,11 +7,11 @@
     "license": "MIT",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/117141",
-        "repository": "https://ghproxy.net/https://github.com/NathanKell/AeroGUI"
+        "repository": "https://hk.gh-proxy.com/https://github.com/NathanKell/AeroGUI"
     },
     "version": "v2",
     "ksp_version": "1.0",
-    "download": "https://ghproxy.net/https://github.com/NathanKell/AeroGUI/releases/download/v2/AeroGUI_v2.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/NathanKell/AeroGUI/releases/download/v2/AeroGUI_v2.zip",
     "download_size": 9431,
     "download_hash": {
         "sha1": "FE89B45451805790D85A98A8518BDF3C48A270A4",

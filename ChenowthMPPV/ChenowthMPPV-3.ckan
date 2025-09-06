@@ -1,0 +1,44 @@
+{
+    "spec_version": "v1.2",
+    "identifier": "ChenowthMPPV",
+    "name": "Chenowth MPPV",
+    "abstract": "A Rover to end all Rovers.",
+    "author": "LuizChacon",
+    "license": "WTFPL",
+    "resources": {
+        "homepage": "http://starbaseone.freeforums.net/",
+        "kerbalstuff": "https://kerbalstuff.com/mod/824/Chenowth%20MPPV",
+        "x_screenshot": "https://kerbalstuff.com/content/LuizChacon_128/Chenowth_MPPV/Chenowth_MPPV-1432129829.8097863.png"
+    },
+    "version": "3",
+    "ksp_version": "1.0.5",
+    "recommends": [
+        {
+            "name": "BDArmory"
+        }
+    ],
+    "install": [
+        {
+            "filter": "Thumbs.db",
+            "file": "DPV",
+            "install_to": "GameData/Skunk_Works/ChenowthMPPV"
+        },
+        {
+            "filter": "Thumbs.db",
+            "file": "DPVWHEEL",
+            "install_to": "GameData/Skunk_Works/ChenowthMPPV"
+        },
+        {
+            "file": "LICENSE.txt",
+            "install_to": "GameData/Skunk_Works/ChenowthMPPV"
+        }
+    ],
+    "download": "https://archive.org/download/ChenowthMPPV-3/0F2BA501-ChenowthMPPV-3.zip",
+    "download_size": 6945166,
+    "download_hash": {
+        "sha1": "0F2BA501F640C90135765FC1CB7D53B61C29FBEC",
+        "sha256": "E52DF238706593343AEB928BD5EA158F9FFA041F8BDD0B7E5459BF98D852B0BF"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

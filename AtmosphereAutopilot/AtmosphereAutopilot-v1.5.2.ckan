@@ -7,7 +7,7 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/124417-105/",
-        "repository": "https://ghproxy.net/https://github.com/Boris-Barboris/AtmosphereAutopilot"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Boris-Barboris/AtmosphereAutopilot"
     },
     "version": "v1.5.2",
     "ksp_version": "1.1.0",
@@ -16,7 +16,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Boris-Barboris/AtmosphereAutopilot/releases/download/v1.5.2/AtmosphereAutopilot_1.5.2.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Boris-Barboris/AtmosphereAutopilot/releases/download/v1.5.2/AtmosphereAutopilot_1.5.2.zip",
     "download_size": 152411,
     "download_hash": {
         "sha1": "B0D3673A387E3BD1F4E77AC45B8606A7046933D7",

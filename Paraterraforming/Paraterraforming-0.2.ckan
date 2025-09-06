@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/209162-paraterraforming-mod/",
         "spacedock": "https://spacedock.info/mod/3066/Paraterraforming",
-        "repository": "https://ghproxy.net/https://github.com/InfoTheGamer/Paraterraforming",
-        "bugtracker": "https://ghproxy.net/https://github.com/InfoTheGamer/Paraterraforming/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/InfoTheGamer/Paraterraforming",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/InfoTheGamer/Paraterraforming/issues",
         "x_screenshot": "https://spacedock.info/content/InfoTheGamer_85321/Paraterraforming/Paraterraforming-1671909638.jpg"
     },
     "tags": [
@@ -33,7 +33,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/InfoTheGamer/Paraterraforming/releases/download/v0.2/Paraterraforming.zip",
+        "https://hk.gh-proxy.com/https://github.com/InfoTheGamer/Paraterraforming/releases/download/v0.2/Paraterraforming.zip",
         "https://spacedock.info/mod/3066/Paraterraforming/download/0.2"
     ],
     "download_size": 565758115,

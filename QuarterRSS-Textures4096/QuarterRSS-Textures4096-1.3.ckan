@@ -9,7 +9,7 @@
     "license": "CC-BY-NC-SA",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/160191-122-quarter-size-rss-v10/",
-        "repository": "https://ghproxy.net/https://github.com/pap1723/ScaledRSS-Textures"
+        "repository": "https://hk.gh-proxy.com/https://github.com/pap1723/ScaledRSS-Textures"
     },
     "version": "1.3",
     "ksp_version_min": "1.1.0",
@@ -33,7 +33,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/pap1723/ScaledRSS-Textures/releases/download/1.3/ScaledRSS-4096.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/pap1723/ScaledRSS-Textures/releases/download/1.3/ScaledRSS-4096.zip",
     "download_size": 235037156,
     "download_hash": {
         "sha1": "9ED2C1873ACFC8B666EDC54FBB99E19916377E49",

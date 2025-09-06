@@ -9,8 +9,8 @@
     "license": "public-domain",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/150786-12-kspdev-logconsole-v0120-utils-v0190/",
-        "repository": "https://ghproxy.net/https://github.com/ihsoft/KSPDev/tree/master/Sources/LogConsole",
-        "bugtracker": "https://ghproxy.net/https://github.com/ihsoft/KSPDev/issues/new?title=LogConsole%3A%20"
+        "repository": "https://hk.gh-proxy.com/https://github.com/ihsoft/KSPDev/tree/master/Sources/LogConsole",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/ihsoft/KSPDev/issues/new?title=LogConsole%3A%20"
     },
     "version": "0.12.1",
     "ksp_version_min": "1.2.0",
@@ -21,7 +21,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/ihsoft/KSPDev/releases/download/0.12.1/KSPDev_v0.12.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/ihsoft/KSPDev/releases/download/0.12.1/KSPDev_v0.12.1.zip",
     "download_size": 34857,
     "download_hash": {
         "sha1": "2AB82E8B6897F307404755DCF44F610B639D3A3F",

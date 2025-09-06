@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/102277-10x-persistentrotation-102/",
         "spacedock": "https://spacedock.info/mod/447/PersistentRotation",
-        "repository": "https://ghproxy.net/https://github.com/markusa380/PersistentRotation",
-        "bugtracker": "https://ghproxy.net/https://github.com/markusa380/PersistentRotation/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/markusa380/PersistentRotation",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/markusa380/PersistentRotation/issues",
         "remote-avc": "https://raw.githubusercontent.com/markusa380/PersistentRotation/Development/GameData/PersistentRotation/PersistentRotation.version",
         "x_screenshot": "https://spacedock.info/content/MarkusA380_985/PersistentRotation/PersistentRotation-1459174738.8231518.jpg"
     },
@@ -32,7 +32,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/markusa380/PersistentRotation/releases/download/1.8.7/PersistentRotation-1.8.7.zip",
+        "https://hk.gh-proxy.com/https://github.com/markusa380/PersistentRotation/releases/download/1.8.7/PersistentRotation-1.8.7.zip",
         "https://spacedock.info/mod/447/PersistentRotation/download/1.8.7"
     ],
     "download_size": 27449,

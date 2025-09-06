@@ -12,8 +12,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/117471",
-        "manual": "https://ghproxy.net/https://github.com/Mihara/RasterPropMonitor/wiki",
-        "repository": "https://ghproxy.net/https://github.com/Mihara/RasterPropMonitor"
+        "manual": "https://hk.gh-proxy.com/https://github.com/Mihara/RasterPropMonitor/wiki",
+        "repository": "https://hk.gh-proxy.com/https://github.com/Mihara/RasterPropMonitor"
     },
     "depends": [
         {
@@ -41,7 +41,7 @@
         }
     ],
     "version": "v0.19.0",
-    "download": "https://ghproxy.net/https://github.com/Mihara/RasterPropMonitor/releases/download/v0.19.0/RasterPropMonitor.0.19.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Mihara/RasterPropMonitor/releases/download/v0.19.0/RasterPropMonitor.0.19.0.zip",
     "x_generated_by": "netkan",
     "download_size": 593305,
     "ksp_version": "1.0.0"

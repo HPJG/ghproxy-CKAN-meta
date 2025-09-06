@@ -13,8 +13,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/184206-*",
-        "repository": "https://ghproxy.net/https://github.com/meirumeiru/Kerbal-Joint-Reinforcement",
-        "remote-avc": "https://ghproxy.net/https://github.com/meirumeiru/Kerbal-Joint-Reinforcement/raw/master/Resources/GameData/KerbalJointReinforcement/KerbalJointReinforcement.version"
+        "repository": "https://hk.gh-proxy.com/https://github.com/meirumeiru/Kerbal-Joint-Reinforcement",
+        "remote-avc": "https://hk.gh-proxy.com/https://github.com/meirumeiru/Kerbal-Joint-Reinforcement/raw/master/Resources/GameData/KerbalJointReinforcement/KerbalJointReinforcement.version"
     },
     "tags": [
         "plugin",
@@ -31,7 +31,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/meirumeiru/Kerbal-Joint-Reinforcement/releases/download/v4.1.19/KerbalJointReinforcement_v4.1.19.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/meirumeiru/Kerbal-Joint-Reinforcement/releases/download/v4.1.19/KerbalJointReinforcement_v4.1.19.zip",
     "download_size": 32074,
     "download_hash": {
         "sha1": "42EDF6A7C0592B713A2A4FF6AB98AD0B69D45DC4",

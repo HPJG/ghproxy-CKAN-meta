@@ -9,8 +9,8 @@
     "license": "CC-BY-NC-SA-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/186715-*",
-        "repository": "https://ghproxy.net/https://github.com/DemonEin/DE_IVAExtension",
-        "bugtracker": "https://ghproxy.net/https://github.com/DemonEin/DE_IVAExtension/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/DemonEin/DE_IVAExtension",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/DemonEin/DE_IVAExtension/issues"
     },
     "tags": [
         "config",
@@ -48,7 +48,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/DemonEin/DE_IVAExtension/releases/download/v1.0.2/DE_IVAExtension_1.0.2.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/DemonEin/DE_IVAExtension/releases/download/v1.0.2/DE_IVAExtension_1.0.2.zip",
     "download_size": 114275,
     "download_hash": {
         "sha1": "9B519423D09427701AC06822F813C23B3F954A95",

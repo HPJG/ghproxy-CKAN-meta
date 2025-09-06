@@ -7,7 +7,7 @@
     "license": "CC-BY-SA-4.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/48073-121-sdhi-service-module-system-v321-20-november-2016/",
-        "repository": "https://ghproxy.net/https://github.com/sumghai/SDHI_ServiceModuleSystem"
+        "repository": "https://hk.gh-proxy.com/https://github.com/sumghai/SDHI_ServiceModuleSystem"
     },
     "version": "v3.2.2",
     "ksp_version": "1.2.1",
@@ -51,7 +51,7 @@
             ]
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/sumghai/SDHI_ServiceModuleSystem/releases/download/3.2.2/ksp_sdhi_sms_v3_2_2.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/sumghai/SDHI_ServiceModuleSystem/releases/download/3.2.2/ksp_sdhi_sms_v3_2_2.zip",
     "download_size": 3537993,
     "download_hash": {
         "sha1": "525E4ED28FE181E603C19EBE8382A31DA59CE530",

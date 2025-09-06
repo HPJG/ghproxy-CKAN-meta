@@ -6,7 +6,7 @@
     "author": "shadowmage45",
     "license": "GPL-3.0",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/shadowmage45/KSPWheel"
+        "repository": "https://hk.gh-proxy.com/https://github.com/shadowmage45/KSPWheel"
     },
     "version": "0.9.5.20",
     "ksp_version": "1.3.0",
@@ -16,7 +16,7 @@
             "find": "KSPWheel"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/shadowmage45/KSPWheel/releases/download/0.9.5.20/KSPWheel-0.9.5.20.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/shadowmage45/KSPWheel/releases/download/0.9.5.20/KSPWheel-0.9.5.20.zip",
     "download_size": 72936,
     "download_hash": {
         "sha1": "192C65840F8B5628EA66D5EBBB515B3E9FEE48AF",

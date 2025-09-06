@@ -14,8 +14,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/178484-14x/",
         "spacedock": "https://spacedock.info/mod/645/Tree%20Toppler",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/MagiCore",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/MagiCore/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/MagiCore",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/MagiCore/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/TreeToppler"
     },
     "tags": [
@@ -23,7 +23,7 @@
         "career"
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/linuxgurugamer/Magico13_Modlets/releases/download/1.1.4.3/TreeToppler-1.12.0-1.1.4.3.zip",
+        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/Magico13_Modlets/releases/download/1.1.4.3/TreeToppler-1.12.0-1.1.4.3.zip",
         "https://spacedock.info/mod/645/Tree%20Toppler/download/1.1.4.3"
     ],
     "download_size": 20235,

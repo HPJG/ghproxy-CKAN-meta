@@ -7,8 +7,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/54303",
-        "repository": "https://ghproxy.net/https://github.com/mic-e/kspnavballdockingalignmentindicator",
-        "bugtracker": "https://ghproxy.net/https://github.com/mic-e/kspnavballdockingalignmentindicator/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/mic-e/kspnavballdockingalignmentindicator",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/mic-e/kspnavballdockingalignmentindicator/issues",
         "kerbalstuff": "https://kerbalstuff.com/mod/23/Navball%20Docking%20Alignment%20Indicator",
         "x_screenshot": "https://kerbalstuff.com/content/mic_e_58/Navball_Docking_Alignment_Indicator/Navball_Docking_Alignment_Indicator.png"
     },

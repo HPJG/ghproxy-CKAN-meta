@@ -8,7 +8,7 @@
     "license": "CC-BY-NC-ND-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/133579-105",
-        "repository": "https://ghproxy.net/https://github.com/KSP-RO/SovietSpacecraft"
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/SovietSpacecraft"
     },
     "version": "v1.3",
     "ksp_version": "1.1.2",
@@ -43,7 +43,7 @@
             "install_to": "Ships"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSP-RO/SovietSpacecraft/releases/download/v1.3/RN_SovietSpacecraft_v1.3.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/SovietSpacecraft/releases/download/v1.3/RN_SovietSpacecraft_v1.3.zip",
     "download_size": 84485571,
     "download_hash": {
         "sha1": "B7E9558AA76FD447455A00F6C15D1785BE1A40BB",

@@ -8,7 +8,7 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/101540-14x-tweakscale-v239mar-09/&page=52",
         "spacedock": "https://spacedock.info/mod/1806/Tweakscale%20Configs%20for%20Making%20History",
-        "repository": "https://ghproxy.net/https://github.com/Jed-Tech/TweakScale/tree/master/GameData/TweakScale/patches/SquadExpansion"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Jed-Tech/TweakScale/tree/master/GameData/TweakScale/patches/SquadExpansion"
     },
     "version": "1.0e",
     "ksp_version": "1.4.2",

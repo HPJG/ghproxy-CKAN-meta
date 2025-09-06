@@ -10,8 +10,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/196266-*",
-        "repository": "https://ghproxy.net/https://github.com/DarthPointer/EVARefueling",
-        "bugtracker": "https://ghproxy.net/https://github.com/DarthPointer/EVARefueling/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/DarthPointer/EVARefueling",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/DarthPointer/EVARefueling/issues",
         "remote-avc": "https://raw.githubusercontent.com/DarthPointer/EVARefueling/master/GameData/EVARefueling/EVARefueling.version"
     },
     "tags": [
@@ -22,7 +22,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/DarthPointer/EVARefueling/releases/download/0.0/EVARefueling0-0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/DarthPointer/EVARefueling/releases/download/0.0/EVARefueling0-0.zip",
     "download_size": 6803,
     "download_hash": {
         "sha1": "5ACEFD3DA686FF982DFCDA7EF8587776420A4DB7",

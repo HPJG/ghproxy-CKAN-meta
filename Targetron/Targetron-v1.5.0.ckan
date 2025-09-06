@@ -7,11 +7,11 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/117371",
-        "repository": "https://ghproxy.net/https://github.com/jinks/targetron"
+        "repository": "https://hk.gh-proxy.com/https://github.com/jinks/targetron"
     },
     "version": "v1.5.0",
     "ksp_version": "1.2.1",
-    "download": "https://ghproxy.net/https://github.com/jinks/targetron/releases/download/1.5.0/Targetron-1.5.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/jinks/targetron/releases/download/1.5.0/Targetron-1.5.0.zip",
     "download_size": 38158,
     "download_hash": {
         "sha1": "6DFC336CF77EC17815A91207D5523600B23DE0B8",

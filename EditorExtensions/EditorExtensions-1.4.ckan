@@ -3,7 +3,7 @@
     "name"           : "Editor Extensions",
     "abstract"       : "Adds the ability to build crafts in flight mode to your game.",
     "identifier"     : "EditorExtensions",
-    "download"       : "https://ghproxy.net/https://github.com/MachXXV/EditorExtensions/raw/master/Releases/EditorExtensions_v1.4.zip",
+    "download"       : "https://hk.gh-proxy.com/https://github.com/MachXXV/EditorExtensions/raw/master/Releases/EditorExtensions_v1.4.zip",
     "author"         : "MachXXV",
     "license"        : "MIT",
     "release_status" : "stable",

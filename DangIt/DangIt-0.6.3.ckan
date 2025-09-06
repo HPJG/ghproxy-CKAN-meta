@@ -8,8 +8,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/73920-105-alpha-6-dang-it-12-september-2015/&",
         "spacedock": "https://spacedock.info/mod/307/DangIt",
-        "repository": "https://ghproxy.net/https://github.com/Ippo343/DangIt",
-        "bugtracker": "https://ghproxy.net/https://github.com/Ippo343/DangIt/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Ippo343/DangIt",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Ippo343/DangIt/issues"
     },
     "version": "0.6.3",
     "ksp_version": "1.0.5",

@@ -10,8 +10,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/154305-*",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/SelectableDataTransmitter",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/SelectableDataTransmitter/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/SelectableDataTransmitter",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/SelectableDataTransmitter/issues",
         "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=421"
     },
     "tags": [
@@ -23,7 +23,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/linuxgurugamer/SelectableDataTransmitter/releases/download/0.1.4.2/SelectableDataTransmitter-0.1.4.2.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/SelectableDataTransmitter/releases/download/0.1.4.2/SelectableDataTransmitter-0.1.4.2.zip",
     "download_size": 37666,
     "download_hash": {
         "sha1": "A1D2495EA035BCA7A0D4870A5BFF07144972161C",

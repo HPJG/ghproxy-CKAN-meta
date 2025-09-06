@@ -7,7 +7,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/149733-EVE",
-        "repository": "https://ghproxy.net/https://github.com/WazWaz/EnvironmentalVisualEnhancements"
+        "repository": "https://hk.gh-proxy.com/https://github.com/WazWaz/EnvironmentalVisualEnhancements"
     },
     "version": "2:EVE-1.4.0-1",
     "ksp_version_min": "1.4.0",
@@ -28,7 +28,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/WazWaz/EnvironmentalVisualEnhancements/releases/download/EVE-1.4.0-1/EnvironmentalVisualEnhancements-1.4.0.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/WazWaz/EnvironmentalVisualEnhancements/releases/download/EVE-1.4.0-1/EnvironmentalVisualEnhancements-1.4.0.1.zip",
     "download_size": 690524,
     "download_hash": {
         "sha1": "ADC1E0220A6F17AC636F4C340A8C2F3E15C298B9",

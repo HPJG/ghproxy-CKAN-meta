@@ -9,7 +9,7 @@
     ],
     "license": "MIT",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/GregroxMun/Alien-Space-Programs"
+        "repository": "https://hk.gh-proxy.com/https://github.com/GregroxMun/Alien-Space-Programs"
     },
     "version": "0.6",
     "ksp_version": "1.0.5",
@@ -29,7 +29,7 @@
             "name": "AlienSpaceProgram"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/GregroxMun/Alien-Space-Programs/releases/download/0.6/EveSpaceProgram0.6.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/GregroxMun/Alien-Space-Programs/releases/download/0.6/EveSpaceProgram0.6.zip",
     "download_size": 1937750,
     "download_hash": {
         "sha1": "0B82E902E719A7512E2120BF4761835366236E3E",

@@ -9,7 +9,7 @@
     ],
     "license": "BSD-2-clause",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/KSP-RO/KerbalRenamer"
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/KerbalRenamer"
     },
     "version": "v1.0.0",
     "ksp_version": "1.4.3",
@@ -19,7 +19,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSP-RO/KerbalRenamer/releases/download/v1.0.0/KerbalRenamer_1.0.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/KerbalRenamer/releases/download/v1.0.0/KerbalRenamer_1.0.0.zip",
     "download_size": 13776,
     "download_hash": {
         "sha1": "A895ACEA89356544C0B1E1E6580F13E5E3B63A49",

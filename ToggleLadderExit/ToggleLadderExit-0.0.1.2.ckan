@@ -9,8 +9,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/203082-111x-toggleladderexit-tle/",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/ToggleLadderExit",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/ToggleLadderExit/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ToggleLadderExit",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ToggleLadderExit/issues",
         "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/ToggleLadderExit/master/ToggleLadderExit.version"
     },
     "tags": [
@@ -23,7 +23,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/linuxgurugamer/ToggleLadderExit/releases/download/0.0.1.2/ToggleLadderExit-1.12.0-0.0.1.2.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ToggleLadderExit/releases/download/0.0.1.2/ToggleLadderExit-1.12.0-0.0.1.2.zip",
     "download_size": 124818,
     "download_hash": {
         "sha1": "74C4CA0201703A082143203C009FA94533CD9B9B",

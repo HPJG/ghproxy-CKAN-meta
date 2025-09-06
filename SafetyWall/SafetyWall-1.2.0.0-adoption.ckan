@@ -14,8 +14,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/207496-*",
         "spacedock": "https://spacedock.info/mod/3006/SafetyWall",
-        "repository": "https://ghproxy.net/https://github.com/zer0Kerbal/SafetyWall",
-        "bugtracker": "https://ghproxy.net/https://github.com/zer0Kerbal/SafetyWall/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/SafetyWall",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/SafetyWall/issues",
         "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/SafetyWall/master/SafetyWall.version",
         "x_screenshot": "https://spacedock.info/content/zer0Kerbal_21147/SafetyWall/SafetyWall-1648809042.jpg"
     },

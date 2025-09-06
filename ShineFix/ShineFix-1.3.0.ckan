@@ -10,9 +10,9 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/225969-112x-shinefix-wip/",
         "spacedock": "https://spacedock.info/mod/3764/ShineFix",
-        "repository": "https://ghproxy.net/https://github.com/rockmeowstar/KSP_ShineFix",
-        "bugtracker": "https://ghproxy.net/https://github.com/rockmeowstar/KSP_ShineFix/issues",
-        "license": "https://ghproxy.net/https://github.com/rockmeowstar/KSP_ShineFix/blob/main/LICENSE",
+        "repository": "https://hk.gh-proxy.com/https://github.com/rockmeowstar/KSP_ShineFix",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/rockmeowstar/KSP_ShineFix/issues",
+        "license": "https://hk.gh-proxy.com/https://github.com/rockmeowstar/KSP_ShineFix/blob/main/LICENSE",
         "x_screenshot": "https://spacedock.info/content/rockmeowstar_143017/ShineFix/ShineFix-1731717511.jpg"
     },
     "tags": [
@@ -39,7 +39,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/rockmeowstar/KSP_ShineFix/releases/download/v1.3.0/000_ShineFix.zip",
+        "https://hk.gh-proxy.com/https://github.com/rockmeowstar/KSP_ShineFix/releases/download/v1.3.0/000_ShineFix.zip",
         "https://spacedock.info/mod/3764/ShineFix/download/1.3.0"
     ],
     "download_size": 13226416,

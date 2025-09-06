@@ -6,8 +6,8 @@
     "author": "linuxgurugamer",
     "license": "CC-BY-SA-3.0",
     "resources": {
-        "homepage": "https://ghproxy.net/https://github.com/linuxgurugamer/KWRocketryRedux",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/KWRocketryRedux"
+        "homepage": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/KWRocketryRedux",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/KWRocketryRedux"
     },
     "version": "3.0.11",
     "ksp_version_min": "1.1.0",
@@ -37,7 +37,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/linuxgurugamer/KWRocketryRedux/releases/download/3.0.11/KWRocketryRedux-3.0.11.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/KWRocketryRedux/releases/download/3.0.11/KWRocketryRedux-3.0.11.zip",
     "download_size": 50862513,
     "download_hash": {
         "sha1": "32816C0C362994C346B99CD3A3EE4E348FF249DB",

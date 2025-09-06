@@ -1,0 +1,24 @@
+{
+    "spec_version": 1,
+    "identifier": "CareerManager",
+    "name": "CareerManager",
+    "abstract": "Allows you to lock funds and science, as well as upgrading all buildings and toppling the tech tree, all with complete reversibility.",
+    "author": "bananashavings",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/134429-105-careermanager/",
+        "spacedock": "https://spacedock.info/mod/424/CareerManager",
+        "repository": "https://hk.gh-proxy.com/https://github.com/bananashavings/CareerManager"
+    },
+    "version": "1.2.0.0",
+    "ksp_version_min": "1.0.5",
+    "ksp_version_max": "1.1.0",
+    "download": "https://spacedock.info/mod/424/CareerManager/download/1.2.0.0",
+    "download_size": 30302,
+    "download_hash": {
+        "sha1": "DAE0D19A755F17702BDF1B3688281C3E24B40A8D",
+        "sha256": "231799B2FACE49335F14A46BE59BDEC03DEB108A934DC732D78D454F5856BDAE"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

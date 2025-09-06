@@ -8,7 +8,7 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/129918-KW-Rocketry-Community-Fixes",
         "spacedock": "https://spacedock.info/mod/51/KW%20Rocketry%20-%20Community%20Fixes",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/KW-Rocketry-Community-Fixes"
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/KW-Rocketry-Community-Fixes"
     },
     "version": "0.4.6",
     "ksp_version": "1.0.5",

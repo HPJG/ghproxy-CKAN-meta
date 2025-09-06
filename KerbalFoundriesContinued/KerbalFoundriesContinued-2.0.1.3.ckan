@@ -10,7 +10,7 @@
     ],
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/shadowmage45/KerbalFoundries2"
+        "repository": "https://hk.gh-proxy.com/https://github.com/shadowmage45/KerbalFoundries2"
     },
     "tags": [
         "plugin",
@@ -40,7 +40,7 @@
             "find": "KerbalFoundries"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/shadowmage45/KerbalFoundries2/releases/download/2.0.1.3/KerbalFoundries-2.0.1.3.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/shadowmage45/KerbalFoundries2/releases/download/2.0.1.3/KerbalFoundries-2.0.1.3.zip",
     "download_size": 35369268,
     "download_hash": {
         "sha1": "8EBAC373E28FD545153F5FCB93A1C4C5D81D8A1D",

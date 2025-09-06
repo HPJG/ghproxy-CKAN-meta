@@ -10,9 +10,9 @@
     "license": "Unlicense",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/154658-*",
-        "repository": "https://ghproxy.net/https://github.com/gotmachine/MandatoryRCS",
-        "bugtracker": "https://ghproxy.net/https://github.com/gotmachine/MandatoryRCS/issues",
-        "remote-avc": "https://ghproxy.net/https://github.com/gotmachine/MandatoryRCS/raw/master/GameData/MandatoryRCS/MandatoryRCS.version"
+        "repository": "https://hk.gh-proxy.com/https://github.com/gotmachine/MandatoryRCS",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/gotmachine/MandatoryRCS/issues",
+        "remote-avc": "https://hk.gh-proxy.com/https://github.com/gotmachine/MandatoryRCS/raw/master/GameData/MandatoryRCS/MandatoryRCS.version"
     },
     "tags": [
         "plugin",
@@ -39,7 +39,7 @@
             "name": "SemiSaturatableRW"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/gotmachine/MandatoryRCS/releases/download/1.8/MandatoryRCS_v1.8_KSP1.8.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/gotmachine/MandatoryRCS/releases/download/1.8/MandatoryRCS_v1.8_KSP1.8.zip",
     "download_size": 18565,
     "download_hash": {
         "sha1": "B9AF69AC4EB976B29488678787194D86E7D1B198",

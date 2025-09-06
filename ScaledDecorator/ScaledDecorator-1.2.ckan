@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/228197-scaleddecorator-a-mod-for-planet-pack-creators-to-load-assetbundles-into-scaledspace/",
         "spacedock": "https://spacedock.info/mod/3917/ScaledDecorator",
-        "repository": "https://ghproxy.net/https://github.com/Sushutt/ScaledDecorator",
-        "bugtracker": "https://ghproxy.net/https://github.com/Sushutt/ScaledDecorator/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/Sushutt/ScaledDecorator",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Sushutt/ScaledDecorator/issues",
         "x_screenshot": "https://spacedock.info/content/Sushut_95985/ScaledDecorator/ScaledDecorator-1751326265.png"
     },
     "tags": [
@@ -26,7 +26,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/Sushutt/ScaledDecorator/releases/download/1.2/ScaledDecorator.zip",
+        "https://hk.gh-proxy.com/https://github.com/Sushutt/ScaledDecorator/releases/download/1.2/ScaledDecorator.zip",
         "https://spacedock.info/mod/3917/ScaledDecorator/download/1.2"
     ],
     "download_size": 8265,

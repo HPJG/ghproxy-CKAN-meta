@@ -58,8 +58,8 @@
         "RealPlumeConfigs"
     ],
     "resources": {
-        "homepage": "https://ghproxy.net/https://github.com/KSP-RO/RealPlume/wiki",
-        "repository": "https://ghproxy.net/https://github.com/KSP-RO/RealPlume-StockConfigs"
+        "homepage": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealPlume/wiki",
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealPlume-StockConfigs"
     },
     "install": [
         {
@@ -69,7 +69,7 @@
     ],
     "version": "v0.6",
     "author": "Felger",
-    "download": "https://ghproxy.net/https://github.com/KSP-RO/RealPlume-StockConfigs/releases/download/v0.6/RealPlume-StockConfigs_v0.6.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealPlume-StockConfigs/releases/download/v0.6/RealPlume-StockConfigs_v0.6.zip",
     "download_size": 100542,
     "x_generated_by": "netkan"
 }

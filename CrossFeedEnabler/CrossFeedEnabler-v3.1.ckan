@@ -6,11 +6,11 @@
     "author": "NathanKell",
     "license": "CC-BY-SA",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/NathanKell/CrossFeedEnabler"
+        "repository": "https://hk.gh-proxy.com/https://github.com/NathanKell/CrossFeedEnabler"
     },
     "version": "v3.1",
     "ksp_version": "0.25",
-    "download": "https://ghproxy.net/https://github.com/NathanKell/CrossFeedEnabler/releases/download/v3.1/CrossFeedEnabler_v3.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/NathanKell/CrossFeedEnabler/releases/download/v3.1/CrossFeedEnabler_v3.1.zip",
     "download_size": 30773,
     "download_hash": {
         "sha1": "97B1E8FCD978A39F10F86EBE60394FCF7EC040EE",

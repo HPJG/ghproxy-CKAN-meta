@@ -8,7 +8,7 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/121987",
         "spacedock": "https://spacedock.info/mod/272/Engine%20Lighting",
-        "repository": "https://ghproxy.net/https://github.com/tatjam/KSP-EngineLight"
+        "repository": "https://hk.gh-proxy.com/https://github.com/tatjam/KSP-EngineLight"
     },
     "version": "1.4.1",
     "ksp_version": "1.0.5",

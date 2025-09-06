@@ -10,14 +10,14 @@
     "license": "CC0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/167202-*",
-        "repository": "https://ghproxy.net/https://github.com/cecilkorik/AlphabeticalKerbals",
-        "bugtracker": "https://ghproxy.net/https://github.com/cecilkorik/AlphabeticalKerbals/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/cecilkorik/AlphabeticalKerbals",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/cecilkorik/AlphabeticalKerbals/issues"
     },
     "tags": [
         "plugin",
         "convenience"
     ],
-    "download": "https://ghproxy.net/https://github.com/cecilkorik/AlphabeticalKerbals/releases/download/v0.3-beta/AlphabeticalKerbals.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/cecilkorik/AlphabeticalKerbals/releases/download/v0.3-beta/AlphabeticalKerbals.zip",
     "download_size": 4178,
     "download_hash": {
         "sha1": "001ACB0DEBA3D5AB5699957C6351EE7B8ED64FA7",

@@ -6,7 +6,7 @@
     "author": "Tantares",
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/Tantares/ProjectManager"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Tantares/ProjectManager"
     },
     "version": "v1.2",
     "ksp_version_max": "1.3",
@@ -16,7 +16,7 @@
             "find": "ProjectManager"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Tantares/ProjectManager/releases/download/v1.2/ProjectManager.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Tantares/ProjectManager/releases/download/v1.2/ProjectManager.zip",
     "download_size": 5924,
     "download_hash": {
         "sha1": "47F6D87FA7A1CE74204066DE2205844E706E74F2",

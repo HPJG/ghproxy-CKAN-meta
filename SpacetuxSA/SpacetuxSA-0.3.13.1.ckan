@@ -10,8 +10,8 @@
     "license": "MIT",
     "resources": {
         "spacedock": "https://spacedock.info/mod/53/SpacetuxSA",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/SpaceTuxSA",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/SpaceTuxSA/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/SpaceTuxSA",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/SpaceTuxSA/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/SpaceTuxSA",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/SpacetuxSA/SpacetuxSA-1456622159.0065007.jpg"
     },
@@ -26,7 +26,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/linuxgurugamer/SpaceTuxSA/releases/download/0.3.13.1/SpacetuxSA-0.3.13.1.zip",
+        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/SpaceTuxSA/releases/download/0.3.13.1/SpacetuxSA-0.3.13.1.zip",
         "https://spacedock.info/mod/53/SpacetuxSA/download/0.3.13.1"
     ],
     "download_size": 151147,

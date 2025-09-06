@@ -7,7 +7,7 @@
     "license": "CC-BY-NC-SA",
     "release_status": "stable",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/Galileo88/StockVisualEnhancements"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Galileo88/StockVisualEnhancements"
     },
     "version": "3:1.2.2",
     "ksp_version": "1.2.2",
@@ -47,7 +47,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Galileo88/StockVisualEnhancements/releases/download/1.2.2/SVE.v1.2.2.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Galileo88/StockVisualEnhancements/releases/download/1.2.2/SVE.v1.2.2.zip",
     "download_size": 43952004,
     "download_hash": {
         "sha1": "A93852A102E86C09A1E516FE1AE276A1B5A5E1F8",

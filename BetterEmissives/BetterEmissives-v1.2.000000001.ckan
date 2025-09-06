@@ -1,0 +1,34 @@
+{
+    "spec_version": 1,
+    "identifier": "BetterEmissives",
+    "name": "BetterEmissives",
+    "abstract": "Adds pre-1.0-like engine heat effects",
+    "author": "mythbusters844",
+    "license": "CC-BY-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/122673",
+        "kerbalstuff": "https://kerbalstuff.com/mod/833/BetterEmissives",
+        "x_screenshot": "https://kerbalstuff.com/content/mythbusters844_10699/BetterEmissives/BetterEmissives-1432364572.8152032.png"
+    },
+    "version": "v1.2.000000001",
+    "ksp_version": "1.0.4",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/BetterEmissive",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/BetterEmissives-v1.2.000000001/760BB619-BetterEmissives-v1.2.000000001.zip",
+    "download_size": 6724,
+    "download_hash": {
+        "sha1": "760BB6194BDDCBC36EE7743EA6C9B62E227995EA",
+        "sha256": "DFB2B63F14E72887CCF9259A73DA5B71552187D2395F2E24A2579BCAE9D31194"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

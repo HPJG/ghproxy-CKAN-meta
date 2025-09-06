@@ -11,8 +11,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://umbraspaceindustries.github.io/UmbraSpaceIndustries/",
-        "repository": "https://ghproxy.net/https://github.com/UmbraSpaceIndustries/FTT",
-        "bugtracker": "https://ghproxy.net/https://github.com/UmbraSpaceIndustries/FTT/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/UmbraSpaceIndustries/FTT",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/UmbraSpaceIndustries/FTT/issues",
         "metanetkan": "https://raw.githubusercontent.com/UmbraSpaceIndustries/CKAN/master/USI-FTT.netkan",
         "remote-avc": "https://raw.githubusercontent.com/BobPalmer/FTT/master/FOR_RELEASE/GameData/UmbraSpaceIndustries/FTT/FTT.version"
     },
@@ -48,7 +48,7 @@
             "install_to": "GameData/UmbraSpaceIndustries"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/UmbraSpaceIndustries/FTT/releases/download/1.4.0/FTT_1.4.0.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/UmbraSpaceIndustries/FTT/releases/download/1.4.0/FTT_1.4.0.0.zip",
     "download_size": 24782503,
     "download_hash": {
         "sha1": "FDBDA4FF48528E824676564F51EF83E85E2E658F",

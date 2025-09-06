@@ -10,7 +10,7 @@
     "license": "BSD-3-clause",
     "resources": {
         "spacedock": "https://spacedock.info/mod/1069/ToadicusToolsContinued",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/ToadicusTools",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ToadicusTools",
         "remote-avc": "http://ksp.spacetux.net/avc/ToadicusTools"
     },
     "tags": [
@@ -24,7 +24,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/linuxgurugamer/ToadicusTools/releases/download/1.22.4.4/ToadicusTools-1.12.0-1.22.4.4.zip",
+        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ToadicusTools/releases/download/1.22.4.4/ToadicusTools-1.12.0-1.22.4.4.zip",
         "https://spacedock.info/mod/1069/ToadicusToolsContinued/download/1.22.4.4"
     ],
     "download_size": 45365,

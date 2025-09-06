@@ -10,7 +10,7 @@
     "license": "CC-BY-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/69581-*",
-        "repository": "https://ghproxy.net/https://github.com/PhineasFreak/ConstellationEssentials"
+        "repository": "https://hk.gh-proxy.com/https://github.com/PhineasFreak/ConstellationEssentials"
     },
     "tags": [
         "parts"
@@ -23,7 +23,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/PhineasFreak/ConstellationEssentials/releases/download/v1.4.1.0/ConstellationEssentials_v1.4.1.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/PhineasFreak/ConstellationEssentials/releases/download/v1.4.1.0/ConstellationEssentials_v1.4.1.0.zip",
     "download_size": 4597907,
     "download_hash": {
         "sha1": "6A210ADCAC6C473BF5E6EAA0CEDCFB3CD98E7A56",

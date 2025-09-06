@@ -14,8 +14,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/179652-*",
-        "repository": "https://ghproxy.net/https://github.com/KSP-DDR/Terras-Ignotas",
-        "bugtracker": "https://ghproxy.net/https://github.com/KSP-DDR/Terras-Ignotas/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-DDR/Terras-Ignotas",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-DDR/Terras-Ignotas/issues",
         "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=592"
     },
     "tags": [
@@ -50,7 +50,7 @@
             ]
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSP-DDR/Terras-Ignotas/releases/download/0.1.4/TerrasIgnotas_0.1.4.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-DDR/Terras-Ignotas/releases/download/0.1.4/TerrasIgnotas_0.1.4.zip",
     "download_size": 4946339,
     "download_hash": {
         "sha1": "0AC4863CC170EAC07586856AC347583DEC901A78",

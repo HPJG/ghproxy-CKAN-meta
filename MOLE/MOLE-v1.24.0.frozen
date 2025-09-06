@@ -9,8 +9,8 @@
     "license": "restricted",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/154893-*",
-        "repository": "https://ghproxy.net/https://github.com/Angel-125/MOLE",
-        "bugtracker": "https://ghproxy.net/https://github.com/Angel-125/MOLE/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Angel-125/MOLE",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Angel-125/MOLE/issues"
     },
     "tags": [
         "parts",
@@ -88,7 +88,7 @@
             "install_to": "Ships"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Angel-125/MOLE/releases/download/v1.24.0/MOLE.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Angel-125/MOLE/releases/download/v1.24.0/MOLE.zip",
     "download_size": 50289764,
     "download_hash": {
         "sha1": "637AE917E9B571B7CD7E3520CEEDEA3A31C4F67E",

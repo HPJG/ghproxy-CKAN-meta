@@ -6,7 +6,7 @@
     "author": "DMagic1",
     "license": "BSD-2-clause",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/DMagic1/DMModuleScienceAnimateGeneric"
+        "repository": "https://hk.gh-proxy.com/https://github.com/DMagic1/DMModuleScienceAnimateGeneric"
     },
     "version": "v0.13",
     "ksp_version": "1.1.0",
@@ -16,7 +16,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/DMagic1/DMModuleScienceAnimateGeneric/releases/download/v0.13/DMModuleScienceAnimateGeneric_v0.13.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/DMagic1/DMModuleScienceAnimateGeneric/releases/download/v0.13/DMModuleScienceAnimateGeneric_v0.13.zip",
     "download_size": 15189,
     "download_hash": {
         "sha1": "0C66494CE8C4AB84CD8313188C7AB4BEC41ECB98",

@@ -15,8 +15,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/204852-112x-simpit-revamped-simpit-20/",
-        "repository": "https://ghproxy.net/https://github.com/Simpit-team/KerbalSimpitRevamped",
-        "bugtracker": "https://ghproxy.net/https://github.com/Simpit-team/KerbalSimpitRevamped/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/Simpit-team/KerbalSimpitRevamped",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Simpit-team/KerbalSimpitRevamped/issues",
         "manual": "https://kerbalsimpitrevamped-arduino.readthedocs.io"
     },
     "tags": [
@@ -48,7 +48,7 @@
             "max_version": "1:2.4.1"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Simpit-team/KerbalSimpitRevamped/releases/download/v2.0.0/KerbalSimpitRevamped-v2.0.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Simpit-team/KerbalSimpitRevamped/releases/download/v2.0.0/KerbalSimpitRevamped-v2.0.0.zip",
     "download_size": 111927,
     "download_hash": {
         "sha1": "639B83061DBAABD8DA4F7EE566C2BBD691D3E66B",

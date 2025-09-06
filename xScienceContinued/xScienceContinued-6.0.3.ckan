@@ -16,8 +16,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/199287-*",
         "spacedock": "https://spacedock.info/mod/3100/[X]%20Science!%20Continued",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/KSP-X-Science",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/KSP-X-Science/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/KSP-X-Science",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/KSP-X-Science/issues",
         "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/KSP-X-Science/refs/heads/master/X-Science.version",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/X_Science_Continued/X_Science_Continued-1661905460.jpg"
     },
@@ -44,7 +44,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/linuxgurugamer/KSP-X-Science/releases/download/6.0.3/X-Science-1.12.0-6.0.3.zip",
+        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/KSP-X-Science/releases/download/6.0.3/X-Science-1.12.0-6.0.3.zip",
         "https://spacedock.info/mod/3100/%5BX%5D%20Science!%20Continued/download/6.0.3"
     ],
     "download_size": 216890,

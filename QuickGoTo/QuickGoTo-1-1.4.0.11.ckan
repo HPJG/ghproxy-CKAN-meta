@@ -14,8 +14,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/174445-151-malahs-quick-mods/",
         "spacedock": "https://spacedock.info/mod/102/QuickGoTo",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/QuickMods",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/QuickMods/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/QuickMods",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/QuickMods/issues",
         "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/QuickMods/refs/heads/master/QuickGoTo/QuickGoTo.version"
     },
     "tags": [

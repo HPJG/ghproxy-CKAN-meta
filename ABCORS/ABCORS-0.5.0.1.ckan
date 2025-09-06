@@ -7,7 +7,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/172663-141-abookcase-orbital-reference-system-updated/",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/abcors"
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/abcors"
     },
     "version": "0.5.0.1",
     "ksp_version_min": "1.4.1",
@@ -17,7 +17,7 @@
             "name": "KSP-AVC"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/linuxgurugamer/abcors/releases/download/0.5.0.1/ABCORS-0.5.0.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/abcors/releases/download/0.5.0.1/ABCORS-0.5.0.1.zip",
     "download_size": 24734,
     "download_hash": {
         "sha1": "8AD31794307FC5D5A1D06B3D3B4034E9B6C52C58",

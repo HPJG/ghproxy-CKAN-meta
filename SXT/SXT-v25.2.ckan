@@ -7,7 +7,7 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/71992-105-sxt-lacks-stock-extension-sxt-24-09dec15kscv3",
-        "repository": "https://ghproxy.net/https://github.com/Signatum/SXT"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Signatum/SXT"
     },
     "version": "v25.2",
     "ksp_version": "1.1",
@@ -29,7 +29,7 @@
             "filter": "Thumbs.db"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Signatum/SXT/releases/download/v25.2/SXT25.2.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Signatum/SXT/releases/download/v25.2/SXT25.2.zip",
     "download_size": 36581381,
     "download_hash": {
         "sha1": "35514CF8F353E5855F7459328644FDDBDCC4C71D",

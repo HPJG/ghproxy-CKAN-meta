@@ -9,7 +9,7 @@
     "license": "BSD-2-clause",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/78183",
-        "repository": "https://ghproxy.net/https://github.com/avivey/ksp-switch/"
+        "repository": "https://hk.gh-proxy.com/https://github.com/avivey/ksp-switch/"
     },
     "version": "0.5",
     "ksp_version": "1.1",
@@ -18,7 +18,7 @@
             "name": "Toolbar"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/avivey/ksp-switch/releases/download/0.5/SwitchVessel-0.5.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/avivey/ksp-switch/releases/download/0.5/SwitchVessel-0.5.zip",
     "download_size": 6193,
     "download_hash": {
         "sha1": "73B504CD624339E34E05146A25FE9BADF22E6D8C",

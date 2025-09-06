@@ -10,8 +10,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/206349-112x-extra-docking-ports/",
-        "repository": "https://ghproxy.net/https://github.com/coldrifting/ExtraDockingPorts",
-        "bugtracker": "https://ghproxy.net/https://github.com/coldrifting/ExtraDockingPorts/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/coldrifting/ExtraDockingPorts",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/coldrifting/ExtraDockingPorts/issues"
     },
     "tags": [
         "parts"
@@ -29,7 +29,7 @@
             "name": "ReStockPlus"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/coldrifting/ExtraDockingPorts/releases/download/v1.1.1/ExtraDockingPorts-1.1.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/coldrifting/ExtraDockingPorts/releases/download/v1.1.1/ExtraDockingPorts-1.1.1.zip",
     "download_size": 3450680,
     "download_hash": {
         "sha1": "8A01AB13238831EE54BE9BA93355706390C22D94",

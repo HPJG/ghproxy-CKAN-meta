@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/85838",
-        "repository": "https://ghproxy.net/https://github.com/SirDiazo/RCSLandAid",
+        "repository": "https://hk.gh-proxy.com/https://github.com/SirDiazo/RCSLandAid",
         "kerbalstuff": "https://kerbalstuff.com/mod/460/Horizontal%20Landing%20Aid"
     },
     "version": "2.4",
@@ -29,7 +29,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/SirDiazo/RCSLandAid/releases/download/2.4/RCSLandAid24.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/SirDiazo/RCSLandAid/releases/download/2.4/RCSLandAid24.zip",
     "download_size": 20369,
     "download_hash": {
         "sha1": "6444881BC471F247C5304EF20031C2D0E23F98A3",

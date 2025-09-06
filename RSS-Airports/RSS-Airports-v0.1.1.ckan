@@ -9,7 +9,7 @@
     "license": "WTFPL",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/139827-112-airports-fictional-ksc-for-real-solar-system-ksc-switcher/",
-        "repository": "https://ghproxy.net/https://github.com/miki-g/RSS-Airports"
+        "repository": "https://hk.gh-proxy.com/https://github.com/miki-g/RSS-Airports"
     },
     "version": "v0.1.1",
     "ksp_version": "1.1.2",
@@ -32,7 +32,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/miki-g/RSS-Airports/releases/download/v0.1.1/RSS-Airports-v0.1.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/miki-g/RSS-Airports/releases/download/v0.1.1/RSS-Airports-v0.1.1.zip",
     "download_size": 25724,
     "download_hash": {
         "sha1": "1B16145A44D31D4DD6B9E9B64411E584F4392561",

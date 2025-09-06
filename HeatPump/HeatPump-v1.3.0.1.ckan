@@ -7,7 +7,7 @@
     "license": "CC-BY-SA-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/115734-heat-pumps-v130-for-real-fuels-july-7-2016/",
-        "repository": "https://ghproxy.net/https://github.com/Starwaster/HeatPump"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Starwaster/HeatPump"
     },
     "version": "v1.3.0.1",
     "ksp_version": "1.2.2",
@@ -21,7 +21,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Starwaster/HeatPump/releases/download/v1.3.0.1/HeatPump_1.3.0.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Starwaster/HeatPump/releases/download/v1.3.0.1/HeatPump_1.3.0.1.zip",
     "download_size": 1090639,
     "download_hash": {
         "sha1": "F4AA1AE80DDD69D088E36DC18075BAB40D9B9740",

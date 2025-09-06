@@ -15,9 +15,9 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/191504-*",
         "spacedock": "https://spacedock.info/mod/1078/Not%20So%20SimpleConstruction!%20(NSSC)",
-        "repository": "https://ghproxy.net/https://github.com/zer0Kerbal/NotSoSimpleConstruction",
-        "bugtracker": "https://ghproxy.net/https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues",
-        "remote-avc": "https://ghproxy.net/https://github.com/zer0Kerbal/NotSoSimpleConstruction/raw/master/NotSoSimpleConstruction.version",
+        "repository": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/NotSoSimpleConstruction",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues",
+        "remote-avc": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/NotSoSimpleConstruction/raw/master/NotSoSimpleConstruction.version",
         "x_screenshot": "https://spacedock.info/content/RealGecko_4471/Not_So_SimpleConstruction_NSSC/Not_So_SimpleConstruction_NSSC-1650334305.png"
     },
     "tags": [

@@ -11,7 +11,7 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/204055-112-soc-simple-orbit-calculator/",
         "spacedock": "https://spacedock.info/mod/2816/SOC:%20Simple%20Orbit%20Calculator",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/ksp-SimpleOrbitCalculator",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ksp-SimpleOrbitCalculator",
         "remote-avc": "http://ksp.spacetux.net/avc/SimpleOrbitCalculator"
     },
     "tags": [
@@ -30,7 +30,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/linuxgurugamer/ksp-SimpleOrbitCalculator/releases/download/1.6.0.1/SimpleOrbitCalculator-1.12.0-1.6.0.1.zip",
+        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ksp-SimpleOrbitCalculator/releases/download/1.6.0.1/SimpleOrbitCalculator-1.12.0-1.6.0.1.zip",
         "https://spacedock.info/mod/2816/SOC:%20Simple%20Orbit%20Calculator/download/1.6.0.1"
     ],
     "download_size": 30914,

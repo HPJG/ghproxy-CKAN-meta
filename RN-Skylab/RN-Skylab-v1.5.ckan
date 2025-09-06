@@ -8,7 +8,7 @@
     "license": "CC-BY-NC-ND-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/86243",
-        "repository": "https://ghproxy.net/https://github.com/KSP-RO/Skylab"
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/Skylab"
     },
     "version": "v1.5",
     "ksp_version_min": "1.1.1",
@@ -27,7 +27,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSP-RO/Skylab/releases/download/v1.5/RN_Skylab_v1.5.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/Skylab/releases/download/v1.5/RN_Skylab_v1.5.zip",
     "download_size": 7666640,
     "download_hash": {
         "sha1": "5ED71F357C41BF5393CF8867B86AF3A9A6AA8B5C",

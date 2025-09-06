@@ -10,9 +10,9 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/190983-18x-*",
-        "repository": "https://ghproxy.net/https://github.com/severedsolo/AllAboard",
-        "bugtracker": "https://ghproxy.net/https://github.com/severedsolo/AllAboard/issues",
-        "remote-avc": "https://ghproxy.net/https://github.com/severedsolo/AllAboard/raw/master/GameData/AllAboard/AllAboard.version"
+        "repository": "https://hk.gh-proxy.com/https://github.com/severedsolo/AllAboard",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/severedsolo/AllAboard/issues",
+        "remote-avc": "https://hk.gh-proxy.com/https://github.com/severedsolo/AllAboard/raw/master/GameData/AllAboard/AllAboard.version"
     },
     "tags": [
         "plugin",
@@ -30,7 +30,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/severedsolo/AllAboard/releases/download/1.0.1.1/AllAboard.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/severedsolo/AllAboard/releases/download/1.0.1.1/AllAboard.zip",
     "download_size": 5336,
     "download_hash": {
         "sha1": "6EEDE2AAD671D6FFA337949D4C0A72A4927B3FC2",

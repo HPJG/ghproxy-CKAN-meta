@@ -9,8 +9,8 @@
     "license": "CC-BY-NC-ND-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/184880-*",
-        "repository": "https://ghproxy.net/https://github.com/Galileo88/JNSQ",
-        "bugtracker": "https://ghproxy.net/https://github.com/Galileo88/JNSQ/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Galileo88/JNSQ",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Galileo88/JNSQ/issues"
     },
     "tags": [
         "config",
@@ -35,7 +35,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Galileo88/JNSQ/releases/download/0.9.0/JNSQ_FinalFrontier.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Galileo88/JNSQ/releases/download/0.9.0/JNSQ_FinalFrontier.zip",
     "download_size": 851068,
     "download_hash": {
         "sha1": "00DE67EE9D4541F20A8A1495A76C2D5661826F5E",

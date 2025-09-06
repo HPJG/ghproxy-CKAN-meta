@@ -8,9 +8,9 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/186546-*",
-        "repository": "https://ghproxy.net/https://github.com/Angel-125/ServoController",
-        "bugtracker": "https://ghproxy.net/https://github.com/Angel-125/ServoController/issues",
-        "remote-avc": "https://ghproxy.net/https://github.com/Angel-125/ServoController/raw/master/GameData/WildBlueIndustries/ServoController/ServoController.version"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Angel-125/ServoController",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Angel-125/ServoController/issues",
+        "remote-avc": "https://hk.gh-proxy.com/https://github.com/Angel-125/ServoController/raw/master/GameData/WildBlueIndustries/ServoController/ServoController.version"
     },
     "tags": [
         "plugin",
@@ -34,7 +34,7 @@
             ]
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Angel-125/ServoController/releases/download/v1.2.1/ServoController.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Angel-125/ServoController/releases/download/v1.2.1/ServoController.zip",
     "download_size": 325614,
     "download_hash": {
         "sha1": "CAB4DAEE4FDBB1C702453725A1E3556A541DD3BD",

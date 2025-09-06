@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/196384-wip-eisenhower-astronautics-stockalike-angara-mod/",
         "spacedock": "https://spacedock.info/mod/2632/Eisenhower%20Astronautics",
-        "repository": "https://ghproxy.net/https://github.com/EStreetRockets/Eisenhower-Astronautics",
-        "bugtracker": "https://ghproxy.net/https://github.com/EStreetRockets/Eisenhower-Astronautics/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/EStreetRockets/Eisenhower-Astronautics",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/EStreetRockets/Eisenhower-Astronautics/issues",
         "x_screenshot": "https://spacedock.info/content/EStreetRockets_54289/Eisenhower_Astronautics/Eisenhower_Astronautics-1654921056.png"
     },
     "tags": [

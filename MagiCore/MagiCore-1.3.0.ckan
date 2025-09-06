@@ -7,7 +7,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/97033-10x",
-        "repository": "https://ghproxy.net/https://github.com/magico13/MagiCore"
+        "repository": "https://hk.gh-proxy.com/https://github.com/magico13/MagiCore"
     },
     "version": "1.3.0",
     "ksp_version_min": "1.2.0",
@@ -18,7 +18,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/magico13/MagiCore/releases/download/1.3.0/MagiCore_1.3.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/magico13/MagiCore/releases/download/1.3.0/MagiCore_1.3.0.zip",
     "download_size": 9202,
     "download_hash": {
         "sha1": "C2A52A4AAD6524FDF0623426B831B53EC77BAD0B",

@@ -7,7 +7,7 @@ import patoolib
 
 EXCEPT_PATH = [".git", ".mypy_cache"]
 TARGET = "https://github.com/KSP-CKAN/CKAN-meta/archive/master.tar.gz"
-GHPROXY = "https://ghproxy.net"
+GHPROXY = "https://hk.gh-proxy.com"
 SKIP_DOWNLOAD = False
 
 

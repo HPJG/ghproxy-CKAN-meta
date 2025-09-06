@@ -10,7 +10,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/145583-*",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/RetractableLiftingSurface"
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/RetractableLiftingSurface"
     },
     "tags": [
         "parts"
@@ -21,7 +21,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/linuxgurugamer/RetractableLiftingSurface/releases/download/0.2.0/RetractableLiftingSurface-1.8.0-0.2.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/RetractableLiftingSurface/releases/download/0.2.0/RetractableLiftingSurface-1.8.0-0.2.0.zip",
     "download_size": 28213,
     "download_hash": {
         "sha1": "882594B7136DF2895DBBCFE4DE9CB4CEC477951B",

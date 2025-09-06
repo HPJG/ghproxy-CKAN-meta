@@ -11,7 +11,7 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/116430-aset/",
         "spacedock": "https://spacedock.info/mod/1180/ASET%20Props%20-%20Community%20Edition",
-        "repository": "https://ghproxy.net/https://github.com/Olympic1/ASET_CE"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Olympic1/ASET_CE"
     },
     "version": "1.4",
     "ksp_version_min": "1.2.0",

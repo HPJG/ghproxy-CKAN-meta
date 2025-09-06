@@ -9,9 +9,9 @@
     "license": "restricted",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/219609-*/",
-        "repository": "https://ghproxy.net/https://github.com/JadeOfMaar/SterlingSystems",
-        "bugtracker": "https://ghproxy.net/https://github.com/JadeOfMaar/SterlingSystems/issues",
-        "discussions": "https://ghproxy.net/https://github.com/JadeOfMaar/SterlingSystems/discussions",
+        "repository": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/SterlingSystems",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/SterlingSystems/issues",
+        "discussions": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/SterlingSystems/discussions",
         "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/SterlingSystems/main/GameData/SterlingSystems/Version/SterlingSystems.version"
     },
     "tags": [
@@ -52,7 +52,7 @@
             "install_to": "GameData/SterlingSystems"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/JadeOfMaar/SterlingSystems/releases/download/0.4.10/SterlingSystems_Tankage_0.4.10.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/SterlingSystems/releases/download/0.4.10/SterlingSystems_Tankage_0.4.10.zip",
     "download_size": 13122453,
     "download_hash": {
         "sha1": "920FA7ACA6F05A6E2075DF2E5490D2A7E1B60EDD",

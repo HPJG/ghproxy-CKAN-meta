@@ -10,9 +10,9 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/",
         "spacedock": "https://spacedock.info/mod/3027/DaMichel%20Ltd%20(DM/L)",
-        "repository": "https://ghproxy.net/https://github.com/zer0Kerbal/DaMichelLtd",
-        "bugtracker": "https://ghproxy.net/https://github.com/zer0Kerbal/DaMichelLtd/issues",
-        "discussions": "https://ghproxy.net/https://github.com/zer0Kerbal/DaMichelLtd/discussions",
+        "repository": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/DaMichelLtd",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/DaMichelLtd/issues",
+        "discussions": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/DaMichelLtd/discussions",
         "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/DaMichelLtd/master/DaMichelLtd.version",
         "x_screenshot": "https://spacedock.info/content/zer0Kerbal_21147/DaMichel_Ltd_DM_L/DaMichel_Ltd_DM_L-1679974897.jpg"
     },

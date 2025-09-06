@@ -12,8 +12,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/175924-*",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/MemGraph",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/MemGraph/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/MemGraph",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/MemGraph/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/MemGraph"
     },
     "tags": [
@@ -28,7 +28,7 @@
             "name": "ClickThroughBlocker"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/linuxgurugamer/MemGraph/releases/download/1.2.0.1/MemGraph-1.12.0-1.2.0.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/MemGraph/releases/download/1.2.0.1/MemGraph-1.12.0-1.2.0.1.zip",
     "download_size": 23310,
     "download_hash": {
         "sha1": "7CB60E394FEFDC6503A884B723126A68D3272621",

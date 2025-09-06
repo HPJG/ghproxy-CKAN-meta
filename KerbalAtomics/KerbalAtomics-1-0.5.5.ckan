@@ -8,7 +8,7 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/130503-10511-kerbal-atomics-fancy-nuclear-engines-initial-11-test/",
         "spacedock": "https://spacedock.info/mod/710/Kerbal%20Atomics",
-        "repository": "https://ghproxy.net/https://github.com/ChrisAdderley/KerbalAtomics",
+        "repository": "https://hk.gh-proxy.com/https://github.com/ChrisAdderley/KerbalAtomics",
         "x_screenshot": "https://spacedock.info/content/Nertea_200/Kerbal_Atomics/Kerbal_Atomics-1463537395.8438432.png"
     },
     "version": "1:0.5.5",

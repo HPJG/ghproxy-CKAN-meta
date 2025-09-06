@@ -6,7 +6,7 @@
     "abstract": "Core Firespitter.dll. Install `Firespitter` for the whole shebang",
     "resources": {
         "homepage": "http://snjo.github.io/",
-        "repository": "https://ghproxy.net/https://github.com/snjo/Firespitter",
+        "repository": "https://hk.gh-proxy.com/https://github.com/snjo/Firespitter",
         "kerbalstuff": "https://kerbalstuff.com/mod/777/Firespitter%20-%20Plugin%20Only"
     },
     "install": [

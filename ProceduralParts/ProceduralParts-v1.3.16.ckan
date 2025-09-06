@@ -10,7 +10,7 @@
     "license": "CC-BY-SA-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/169250-*",
-        "repository": "https://ghproxy.net/https://github.com/Tidal-Stream/ProceduralParts"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Tidal-Stream/ProceduralParts"
     },
     "version": "v1.3.16",
     "ksp_version_min": "1.4.3",
@@ -38,7 +38,7 @@
             "filter": "Source"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Tidal-Stream/ProceduralParts/releases/download/v1.3.16/ProceduralParts-1.3.16.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Tidal-Stream/ProceduralParts/releases/download/v1.3.16/ProceduralParts-1.3.16.zip",
     "download_size": 2580302,
     "download_hash": {
         "sha1": "F26DD31A2B6C5F9BA7D59F9A1A70AC2E2B530A05",

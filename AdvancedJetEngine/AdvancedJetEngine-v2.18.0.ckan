@@ -14,8 +14,8 @@
     "license": "LGPL-2.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?showtopic=139868",
-        "repository": "https://ghproxy.net/https://github.com/KSP-RO/AJE",
-        "bugtracker": "https://ghproxy.net/https://github.com/KSP-RO/AJE/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/AJE",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-RO/AJE/issues",
         "metanetkan": "https://raw.githubusercontent.com/KSP-RO/AJE/master/NetKAN/AdvancedJetEngine.netkan",
         "remote-avc": "https://raw.githubusercontent.com/KSP-RO/AJE/master/GameData/AJE/AJE.version"
     },
@@ -57,7 +57,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSP-RO/AJE/releases/download/v2.18.0/Advanced_Jet_Engine_v2.18.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/AJE/releases/download/v2.18.0/Advanced_Jet_Engine_v2.18.0.zip",
     "download_size": 660021,
     "download_hash": {
         "sha1": "85CAC58EEEB9EDFC00E9128CB1920E5BC74B1DE4",

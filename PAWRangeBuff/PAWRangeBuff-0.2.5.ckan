@@ -10,15 +10,15 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/193572-*",
-        "repository": "https://ghproxy.net/https://github.com/atomontage04/PAWRangeBuff",
-        "bugtracker": "https://ghproxy.net/https://github.com/atomontage04/PAWRangeBuff/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/atomontage04/PAWRangeBuff",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/atomontage04/PAWRangeBuff/issues",
         "remote-avc": "https://raw.githubusercontent.com/atomontage04/PAWRangeBuff/master/1.8.0+/PAWRangeBuff.version"
     },
     "tags": [
         "plugin",
         "convenience"
     ],
-    "download": "https://ghproxy.net/https://github.com/atomontage04/PAWRangeBuff/releases/download/0.2.5/PAWRangeBuff_v0.2.5.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/atomontage04/PAWRangeBuff/releases/download/0.2.5/PAWRangeBuff_v0.2.5.zip",
     "download_size": 62850,
     "download_hash": {
         "sha1": "FF491E9186E75DF1331A9CCB850D0229151981C9",

@@ -9,8 +9,8 @@
     "license": "restricted",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/146171-*",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/KSPLogger",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/KSPLogger/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/KSPLogger",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/KSPLogger/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/KSPLogger"
     },
     "tags": [
@@ -28,7 +28,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/linuxgurugamer/KSPLogger/releases/download/0.6.0.3/KSPLogger-1.8.0-0.6.0.3.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/KSPLogger/releases/download/0.6.0.3/KSPLogger-1.8.0-0.6.0.3.zip",
     "download_size": 31044,
     "download_hash": {
         "sha1": "1958F7B56A6FA1B905A67D1FB706D909F51BA8E0",

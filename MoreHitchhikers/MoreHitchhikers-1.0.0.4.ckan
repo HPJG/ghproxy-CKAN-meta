@@ -10,10 +10,10 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/188246-*",
         "spacedock": "https://spacedock.info/mod/2244/More%20Hitchhikers",
-        "repository": "https://ghproxy.net/https://github.com/zer0Kerbal/KGEx",
-        "bugtracker": "https://ghproxy.net/https://github.com/zer0Kerbal/KGEx/issues",
-        "discussions": "https://ghproxy.net/https://github.com/zer0Kerbal/KGEx/discussions",
-        "remote-avc": "https://ghproxy.net/https://github.com/zer0Kerbal/KGEx/raw/master/KGEx.version",
+        "repository": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/KGEx",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/KGEx/issues",
+        "discussions": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/KGEx/discussions",
+        "remote-avc": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/KGEx/raw/master/KGEx.version",
         "x_screenshot": "https://spacedock.info/content/zer0Kerbal_21147/More_Hitchhikers/More_Hitchhikers-1570269415.8593836.png"
     },
     "tags": [

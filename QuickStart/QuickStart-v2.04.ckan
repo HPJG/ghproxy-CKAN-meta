@@ -8,7 +8,7 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/85834-1",
         "spacedock": "https://spacedock.info/mod/110/QuickStart",
-        "repository": "https://ghproxy.net/https://github.com/malahx/QuickStart"
+        "repository": "https://hk.gh-proxy.com/https://github.com/malahx/QuickStart"
     },
     "version": "v2.04",
     "ksp_version_min": "1.2.0",

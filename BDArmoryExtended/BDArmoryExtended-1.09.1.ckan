@@ -1,0 +1,42 @@
+{
+    "spec_version": "v1.27",
+    "identifier": "BDArmoryExtended",
+    "name": "BDArmory Extended",
+    "abstract": "Semi-official extension of BDArmory with example weapons and parts for all features of BDA not already present in the base mod and a balanced expansion of weapon options",
+    "author": [
+        "BrettRyland",
+        "SuicidalInsanity"
+    ],
+    "version": "1.09.1",
+    "ksp_version_min": "1.9",
+    "license": "CC0",
+    "resources": {
+        "repository": "https://hk.gh-proxy.com/https://github.com/BrettRyland/BDArmory-Extended",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/BrettRyland/BDArmory-Extended/issues"
+    },
+    "tags": [
+        "parts",
+        "combat"
+    ],
+    "localizations": [
+        "en-us"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "BDArmory"
+        }
+    ],
+    "download": "https://hk.gh-proxy.com/https://github.com/BrettRyland/BDArmory-Extended/releases/download/1.09.1/GameData.zip",
+    "download_size": 15983223,
+    "download_hash": {
+        "sha1": "773EB6550513BB337A932E30E5D4BA0F3A9D8F9F",
+        "sha256": "0BA4FCC1F18CB6CAA2587460B9E431A30127F009DB349D491207126D72931490"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 18712230,
+    "release_date": "2022-12-01T20:51:12Z",
+    "x_generated_by": "netkan"
+}

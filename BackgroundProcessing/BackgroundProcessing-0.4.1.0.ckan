@@ -1,0 +1,31 @@
+{
+    "spec_version": "v1.16",
+    "identifier": "BackgroundProcessing",
+    "name": "BackgroundProcessing",
+    "abstract": "Handle resources for vessels when you're not looking at them.",
+    "author": "jamespicone",
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/88777-102-backgroundprocessing/&page=1",
+        "spacedock": "https://spacedock.info/mod/288/BackgroundProcessing",
+        "repository": "https://bitbucket.org/j_picone/background-processing/overview"
+    },
+    "version": "0.4.1.0",
+    "ksp_version_min": "1.0.2",
+    "ksp_version_max": "1.0.5",
+    "install": [
+        {
+            "find_regexp": "BackgroundProcessing.*\\.dll$",
+            "find_matches_files": true,
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/288/BackgroundProcessing/download/0.4.1.0",
+    "download_size": 13296,
+    "download_hash": {
+        "sha1": "2F6DEDAE2E28E58CDC35A89AF8DC3E6200E8D641",
+        "sha256": "EB40B84E883F9ABC64857FF6EABC7C1BA28FF6885BAE07168CCB27752ED51646"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

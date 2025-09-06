@@ -11,8 +11,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/179385-*",
-        "repository": "https://ghproxy.net/https://github.com/yalov/ScienceLabInfo",
-        "bugtracker": "https://ghproxy.net/https://github.com/yalov/ScienceLabInfo/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/yalov/ScienceLabInfo",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/yalov/ScienceLabInfo/issues",
         "remote-avc": "https://raw.githubusercontent.com/yalov/ScienceLabInfo/master/ScienceLabInfo.version"
     },
     "tags": [
@@ -45,7 +45,7 @@
             "name": "SixCrewScienceLab"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/yalov/ScienceLabInfo/releases/download/2.0.0/ScienceLabInfo-v2.0.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/yalov/ScienceLabInfo/releases/download/2.0.0/ScienceLabInfo-v2.0.0.zip",
     "download_size": 379891,
     "download_hash": {
         "sha1": "DD8749DE07CBC000E59FC45B24ABE009F706F07E",

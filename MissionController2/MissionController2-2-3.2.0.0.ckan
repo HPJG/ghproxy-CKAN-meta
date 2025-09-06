@@ -10,8 +10,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/40183-*",
-        "repository": "https://ghproxy.net/https://github.com/malkuth1974/MissionController2",
-        "bugtracker": "https://ghproxy.net/https://github.com/malkuth1974/MissionController2/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/malkuth1974/MissionController2",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/malkuth1974/MissionController2/issues",
         "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=560"
     },
     "tags": [
@@ -32,7 +32,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/malkuth1974/MissionController2/releases/download/3.2.0.0/MissionController2.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/malkuth1974/MissionController2/releases/download/3.2.0.0/MissionController2.zip",
     "download_size": 18147449,
     "download_hash": {
         "sha1": "E3CCE4869442F97B3FED4A269C1D206C4CE7EC4B",

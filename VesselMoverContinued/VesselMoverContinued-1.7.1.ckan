@@ -6,7 +6,7 @@
     "author": "Papa_Joe",
     "license": "MIT",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/PapaJoesSoup/VesselMover"
+        "repository": "https://hk.gh-proxy.com/https://github.com/PapaJoesSoup/VesselMover"
     },
     "version": "1.7.1",
     "ksp_version_min": "1.4.0",
@@ -30,7 +30,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/PapaJoesSoup/VesselMover/releases/download/1.7.1/VesselMover.1.7.1.0_03262018.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/PapaJoesSoup/VesselMover/releases/download/1.7.1/VesselMover.1.7.1.0_03262018.zip",
     "download_size": 27114,
     "download_hash": {
         "sha1": "9BE0837366C5A8B12495C70F812733142EAF0FF6",

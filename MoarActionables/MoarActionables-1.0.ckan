@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/220883-112x-moaractionables-v10-expose-sas-mode-to-action-groups/",
         "spacedock": "https://spacedock.info/mod/3508/MoarActionables",
-        "repository": "https://ghproxy.net/https://github.com/KSPSnark/MoarActionables",
-        "bugtracker": "https://ghproxy.net/https://github.com/KSPSnark/MoarActionables/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSPSnark/MoarActionables",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSPSnark/MoarActionables/issues",
         "x_screenshot": "https://spacedock.info/content/Snark_166/MoarActionables/MoarActionables-1700410366.png"
     },
     "tags": [

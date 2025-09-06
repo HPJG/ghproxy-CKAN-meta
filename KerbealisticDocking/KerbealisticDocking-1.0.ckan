@@ -11,9 +11,9 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/217276-112-kerbealistic-docking-10/",
         "spacedock": "https://spacedock.info/mod/3392/Kerbealistic%20Docking",
-        "repository": "https://ghproxy.net/https://github.com/kurgut/KerbealisticDocking",
-        "bugtracker": "https://ghproxy.net/https://github.com/kurgut/KerbealisticDocking/issues",
-        "remote-avc": "https://ghproxy.net/https://github.com/kurgut/KerbealisticDocking",
+        "repository": "https://hk.gh-proxy.com/https://github.com/kurgut/KerbealisticDocking",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/kurgut/KerbealisticDocking/issues",
+        "remote-avc": "https://hk.gh-proxy.com/https://github.com/kurgut/KerbealisticDocking",
         "x_screenshot": "https://spacedock.info/content/Kurgut_20777/Kerbealistic_Docking/Kerbealistic_Docking-1684573520.png"
     },
     "tags": [

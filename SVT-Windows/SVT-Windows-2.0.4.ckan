@@ -7,7 +7,7 @@
     "license": "CC-BY-NC-ND",
     "release_status": "stable",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/Galileo88/Stock-Visual-Terrain"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Galileo88/Stock-Visual-Terrain"
     },
     "version": "2.0.4",
     "ksp_version": "1.2.2",
@@ -35,7 +35,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Galileo88/Stock-Visual-Terrain/releases/download/2.0.4/SVT.v2.0.4.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Galileo88/Stock-Visual-Terrain/releases/download/2.0.4/SVT.v2.0.4.zip",
     "download_size": 117363033,
     "download_hash": {
         "sha1": "546C13C1F023628D87A311EB31ACEF58360E992E",

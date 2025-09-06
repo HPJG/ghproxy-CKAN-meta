@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/208750-112x-arcaspace-ecorocket-for-ksp/",
         "spacedock": "https://spacedock.info/mod/3050/EcoRocket",
-        "repository": "https://ghproxy.net/https://github.com/cmdrads/kspEcoRocket",
-        "bugtracker": "https://ghproxy.net/https://github.com/cmdrads/kspEcoRocket/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/cmdrads/kspEcoRocket",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/cmdrads/kspEcoRocket/issues",
         "x_screenshot": "https://spacedock.info/content/cmdrads_83894/EcoRocket/EcoRocket-1656424736.png"
     },
     "tags": [

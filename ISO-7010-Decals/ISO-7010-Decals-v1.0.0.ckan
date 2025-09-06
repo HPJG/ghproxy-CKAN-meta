@@ -7,8 +7,8 @@
     "version": "v1.0.0",
     "license": "public-domain",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/DIYLabsED/ksp-iso-7010-decals",
-        "bugtracker": "https://ghproxy.net/https://github.com/DIYLabsED/ksp-iso-7010-decals/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/DIYLabsED/ksp-iso-7010-decals",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/DIYLabsED/ksp-iso-7010-decals/issues"
     },
     "tags": [
         "flags",
@@ -25,7 +25,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/DIYLabsED/ksp-iso-7010-decals/releases/download/v1.0.0/ksp-iso-7010-decals-v1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/DIYLabsED/ksp-iso-7010-decals/releases/download/v1.0.0/ksp-iso-7010-decals-v1.zip",
     "download_size": 18374089,
     "download_hash": {
         "sha1": "87797E626DDEBF23E441ABCDE732BD4554CB617B",

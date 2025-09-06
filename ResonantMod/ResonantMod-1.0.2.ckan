@@ -8,14 +8,14 @@
     "ksp_version": "1.12",
     "license": "MIT",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/BananaMan9572/ResonantMod",
-        "bugtracker": "https://ghproxy.net/https://github.com/BananaMan9572/ResonantMod/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/BananaMan9572/ResonantMod",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/BananaMan9572/ResonantMod/issues"
     },
     "tags": [
         "plugin",
         "information"
     ],
-    "download": "https://ghproxy.net/https://github.com/BananaMan9572/ResonantMod/releases/download/1.0.2/ResonantMod.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/BananaMan9572/ResonantMod/releases/download/1.0.2/ResonantMod.zip",
     "download_size": 9465,
     "download_hash": {
         "sha1": "267F0D47152CC842E07FE593870AF7CCA2F4E98B",

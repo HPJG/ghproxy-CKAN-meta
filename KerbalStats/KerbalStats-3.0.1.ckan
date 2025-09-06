@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/99018",
-        "repository": "https://ghproxy.net/https://github.com/taniwha-qf/KerbalStats"
+        "repository": "https://hk.gh-proxy.com/https://github.com/taniwha-qf/KerbalStats"
     },
     "version": "3.0.1",
     "ksp_version": "1.2.2",

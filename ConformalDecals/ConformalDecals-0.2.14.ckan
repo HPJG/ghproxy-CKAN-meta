@@ -11,10 +11,10 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/194802-*",
         "spacedock": "https://spacedock.info/mod/2451/Conformal%20Decals",
-        "repository": "https://ghproxy.net/https://github.com/drewcassidy/KSP-Conformal-Decals",
-        "bugtracker": "https://ghproxy.net/https://github.com/drewcassidy/KSP-Conformal-Decals/issues",
-        "manual": "https://ghproxy.net/https://github.com/drewcassidy/KSP-Conformal-Decals/wiki",
-        "remote-avc": "https://ghproxy.net/https://github.com/drewcassidy/KSP-Conformal-Decals/releases/latest/download/ConformalDecals.version",
+        "repository": "https://hk.gh-proxy.com/https://github.com/drewcassidy/KSP-Conformal-Decals",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/drewcassidy/KSP-Conformal-Decals/issues",
+        "manual": "https://hk.gh-proxy.com/https://github.com/drewcassidy/KSP-Conformal-Decals/wiki",
+        "remote-avc": "https://hk.gh-proxy.com/https://github.com/drewcassidy/KSP-Conformal-Decals/releases/latest/download/ConformalDecals.version",
         "x_screenshot": "https://spacedock.info/content/drewcassidy_10616/Conformal_Decals/Conformal_Decals-1603613809.4420319.png"
     },
     "tags": [
@@ -47,7 +47,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/drewcassidy/KSP-Conformal-Decals/releases/download/0.2.14/ConformalDecals-0.2.14.zip",
+        "https://hk.gh-proxy.com/https://github.com/drewcassidy/KSP-Conformal-Decals/releases/download/0.2.14/ConformalDecals-0.2.14.zip",
         "https://spacedock.info/mod/2451/Conformal%20Decals/download/0.2.14"
     ],
     "download_size": 2968897,

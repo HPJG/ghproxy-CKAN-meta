@@ -11,7 +11,7 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/201117-18",
         "spacedock": "https://spacedock.info/mod/2659/GPWS%20-%20Warning%20System%20for%20Planes%20Updated",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/KSP_GPWS",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/KSP_GPWS",
         "remote-avc": "http://ksp.spacetux.net/avc/GPWS"
     },
     "tags": [

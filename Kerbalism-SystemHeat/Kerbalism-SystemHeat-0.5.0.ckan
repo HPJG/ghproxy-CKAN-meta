@@ -9,8 +9,8 @@
     "ksp_version_max": "1.12",
     "license": "MIT",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/judicator/KerbalismSystemHeat",
-        "bugtracker": "https://ghproxy.net/https://github.com/judicator/KerbalismSystemHeat/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/judicator/KerbalismSystemHeat",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/judicator/KerbalismSystemHeat/issues"
     },
     "tags": [
         "plugin",
@@ -48,7 +48,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/judicator/KerbalismSystemHeat/releases/download/0.5.0/KerbalismSystemHeat_0.5.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/judicator/KerbalismSystemHeat/releases/download/0.5.0/KerbalismSystemHeat_0.5.0.zip",
     "download_size": 32982,
     "download_hash": {
         "sha1": "6A1576E292863E4C2445A69DE4E94A1589BF0DA7",

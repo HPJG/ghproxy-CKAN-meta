@@ -13,7 +13,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/191914-*",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/ModActions",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ModActions",
         "remote-avc": "http://ksp.spacetux.net/avc/ScienceAlert"
     },
     "tags": [
@@ -37,7 +37,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/linuxgurugamer/ModActions/releases/download/1.7.0.1/ModActions-1.12.0-1.7.0.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ModActions/releases/download/1.7.0.1/ModActions-1.12.0-1.7.0.1.zip",
     "download_size": 63646,
     "download_hash": {
         "sha1": "B6D02EA77123A93A53329ACA3EE870DB50F8AFB3",

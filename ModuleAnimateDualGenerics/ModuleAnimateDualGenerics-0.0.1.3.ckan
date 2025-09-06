@@ -10,8 +10,8 @@
     "license": "CC-BY-NC-SA",
     "resources": {
         "spacedock": "https://spacedock.info/mod/3692/ModuleAnimateDualGenerics",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/ModuleAnimateDualGenerics",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/ModuleAnimateDualGenerics/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ModuleAnimateDualGenerics",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ModuleAnimateDualGenerics/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/ModuleAnimateDualGenerics"
     },
     "tags": [

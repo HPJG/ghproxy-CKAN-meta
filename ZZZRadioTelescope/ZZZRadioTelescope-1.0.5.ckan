@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/160243-12-triple-z-radio-astronomy-telescope/",
         "spacedock": "https://spacedock.info/mod/1358/Triple-Z%20RadioTelescope",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/ZZZ-RadioTelescope",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/ZZZ-RadioTelescope/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ZZZ-RadioTelescope",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ZZZ-RadioTelescope/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/ZZZRadioTelescope",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Triple-Z_RadioTelescope/Triple-Z_RadioTelescope-1494016912.4575171.png"
     },

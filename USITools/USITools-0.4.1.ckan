@@ -7,7 +7,7 @@
     "license": "CC-BY-NC-SA-4.0",
     "release_status": "stable",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/BobPalmer/UmbraSpaceIndustries"
+        "repository": "https://hk.gh-proxy.com/https://github.com/BobPalmer/UmbraSpaceIndustries"
     },
     "version": "0.4.1",
     "ksp_version": "1.0",
@@ -20,7 +20,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/BobPalmer/UmbraSpaceIndustries/releases/download/0.4.1/USITools_0.4.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/BobPalmer/UmbraSpaceIndustries/releases/download/0.4.1/USITools_0.4.1.zip",
     "download_size": 49911,
     "download_hash": {
         "sha1": "5B6F417893D526E0BB9234E35097D986E6A6E444",

@@ -9,8 +9,8 @@
     "license": "restricted",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/154893-*",
-        "repository": "https://ghproxy.net/https://github.com/Angel-125/MOLE",
-        "bugtracker": "https://ghproxy.net/https://github.com/Angel-125/MOLE/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/Angel-125/MOLE",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Angel-125/MOLE/issues",
         "remote-avc": "https://raw.githubusercontent.com/Angel-125/MOLE/master/GameData/WildBlueIndustries/MOLE/MOLE.version"
     },
     "tags": [
@@ -73,7 +73,7 @@
             "find_matches_files": true
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Angel-125/MOLE/releases/download/v1.22.1/MOLE_1_22_1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Angel-125/MOLE/releases/download/v1.22.1/MOLE_1_22_1.zip",
     "download_size": 53280241,
     "download_hash": {
         "sha1": "A3289DE5951D878D550D0FA3C0EB9BBBC7F0A491",

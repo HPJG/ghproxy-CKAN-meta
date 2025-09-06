@@ -13,8 +13,8 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/56643-*",
-        "repository": "https://ghproxy.net/https://github.com/PapaJoesSoup/ShipManifest",
-        "bugtracker": "https://ghproxy.net/https://github.com/PapaJoesSoup/ShipManifest/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/PapaJoesSoup/ShipManifest",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/PapaJoesSoup/ShipManifest/issues",
         "remote-avc": "https://raw.githubusercontent.com/papajoessoup/ShipManifest/master/Distribution/GameData/ShipManifest/ShipManifest.version"
     },
     "tags": [
@@ -48,7 +48,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/PapaJoesSoup/ShipManifest/releases/download/6.0.8.0/ShipManifest-6.0.8.0_20230428190356.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/PapaJoesSoup/ShipManifest/releases/download/6.0.8.0/ShipManifest-6.0.8.0_20230428190356.zip",
     "download_size": 728720,
     "download_hash": {
         "sha1": "7683F83B7EA8C9CD63FB3993044F5E96A2937434",

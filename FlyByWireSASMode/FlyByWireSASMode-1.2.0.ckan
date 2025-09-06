@@ -10,15 +10,15 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/224632-*",
-        "repository": "https://ghproxy.net/https://github.com/gotmachine/FlyByWireSASMode",
-        "bugtracker": "https://ghproxy.net/https://github.com/gotmachine/FlyByWireSASMode/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/gotmachine/FlyByWireSASMode",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/gotmachine/FlyByWireSASMode/issues",
         "remote-avc": "https://raw.githubusercontent.com/gotmachine/FlyByWireSASMode/master/GameData/FlyByWireSASMode/FlyByWireSASMode.version"
     },
     "tags": [
         "plugin",
         "control"
     ],
-    "download": "https://ghproxy.net/https://github.com/gotmachine/FlyByWireSASMode/releases/download/1.2.0/FlyByWireSASMode_1.2.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/gotmachine/FlyByWireSASMode/releases/download/1.2.0/FlyByWireSASMode_1.2.0.zip",
     "download_size": 27542,
     "download_hash": {
         "sha1": "46414E2C8A1916A545D3EDA7E9E6225134AAB96D",

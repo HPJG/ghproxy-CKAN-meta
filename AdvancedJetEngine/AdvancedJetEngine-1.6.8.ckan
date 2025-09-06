@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/70008",
-        "repository": "https://ghproxy.net/https://github.com/camlost2/AJE"
+        "repository": "https://hk.gh-proxy.com/https://github.com/camlost2/AJE"
     },
     "version": "1.6.8",
     "ksp_version": "0.25",
@@ -35,7 +35,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/camlost2/AJE/archive/1.6.8.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/camlost2/AJE/archive/1.6.8.zip",
     "download_size": 1081680,
     "download_hash": {
         "sha1": "8C723F7A70E293490D484721356DC83444851D0A",

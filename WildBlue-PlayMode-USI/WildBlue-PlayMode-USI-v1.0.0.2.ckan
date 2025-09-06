@@ -10,8 +10,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/198964-*",
-        "repository": "https://ghproxy.net/https://github.com/TheDogKSP/WBIPlaymodeUSI",
-        "bugtracker": "https://ghproxy.net/https://github.com/TheDogKSP/WBIPlaymodeUSI/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/TheDogKSP/WBIPlaymodeUSI",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/TheDogKSP/WBIPlaymodeUSI/issues",
         "remote-avc": "https://raw.githubusercontent.com/TheDogKSP/WBIPlaymodeUSI/master/wbiplaymodeusi.version"
     },
     "tags": [

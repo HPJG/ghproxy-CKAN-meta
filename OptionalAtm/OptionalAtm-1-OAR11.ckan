@@ -14,8 +14,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/167316-*",
-        "repository": "https://ghproxy.net/https://github.com/DeltaDizzy/OptionalAtmospheresRevamped",
-        "bugtracker": "https://ghproxy.net/https://github.com/DeltaDizzy/OptionalAtmospheresRevamped/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/DeltaDizzy/OptionalAtmospheresRevamped",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/DeltaDizzy/OptionalAtmospheresRevamped/issues"
     },
     "tags": [
         "config",
@@ -52,7 +52,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/DeltaDizzy/OptionalAtmospheresRevamped/releases/download/OAR11/OptionalAtmospheresRevamped-v1.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/DeltaDizzy/OptionalAtmospheresRevamped/releases/download/OAR11/OptionalAtmospheresRevamped-v1.1.zip",
     "download_size": 324481,
     "download_hash": {
         "sha1": "994CA29F0C8C38E9D4FFBA3771D1FF5AF848C618",

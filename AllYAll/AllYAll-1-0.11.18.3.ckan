@@ -13,7 +13,7 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/155858-ksp-122-all",
         "spacedock": "https://spacedock.info/mod/628/All%20Y'All",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/AllYAll",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/AllYAll",
         "x_screenshot": "https://spacedock.info/content/HMV_4317/All_YAll/All_YAll-1462073929.7322848.jpg"
     },
     "localizations": [
@@ -30,7 +30,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/linuxgurugamer/AllYAll/releases/download/0.11.18.3/AllYAll-1.8.0-0.11.18.3.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/AllYAll/releases/download/0.11.18.3/AllYAll-1.8.0-0.11.18.3.zip",
     "download_size": 53490,
     "download_hash": {
         "sha1": "115C02BC3A7D9525AEE6F415A83EC5372A16BFAB",

@@ -11,8 +11,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/183393-*",
-        "repository": "https://ghproxy.net/https://github.com/yalov/KVASS",
-        "bugtracker": "https://ghproxy.net/https://github.com/yalov/KVASS/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/yalov/KVASS",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/yalov/KVASS/issues",
         "remote-avc": "https://raw.githubusercontent.com/yalov/KVASS/master/KVASS.version"
     },
     "tags": [
@@ -28,7 +28,7 @@
             "name": "KerbalAlarmClock"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/yalov/KVASS/releases/download/2.5.1/KVASS-v2.5.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/yalov/KVASS/releases/download/2.5.1/KVASS-v2.5.1.zip",
     "download_size": 79889,
     "download_hash": {
         "sha1": "059EDE82C71CCB60A701CE34EABFCD720F5F81D9",

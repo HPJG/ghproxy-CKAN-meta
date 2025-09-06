@@ -8,14 +8,14 @@
     "ksp_version": "1.12.5",
     "license": "MIT",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/dazoe/KSP-AutoLoad",
-        "bugtracker": "https://ghproxy.net/https://github.com/dazoe/KSP-AutoLoad/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/dazoe/KSP-AutoLoad",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/dazoe/KSP-AutoLoad/issues"
     },
     "tags": [
         "plugin",
         "convenience"
     ],
-    "download": "https://ghproxy.net/https://github.com/dazoe/KSP-AutoLoad/releases/download/v0.1.0/Release.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/dazoe/KSP-AutoLoad/releases/download/v0.1.0/Release.zip",
     "download_size": 5173,
     "download_hash": {
         "sha1": "027CD61B69765936C6AB26B314535CC7E1DFEAAF",

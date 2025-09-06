@@ -1,0 +1,40 @@
+{
+    "spec_version": 1,
+    "identifier": "CollisionFX",
+    "name": "Collision FX",
+    "abstract": "A KSP mod which adds sound, light and particle effects to collisions.",
+    "author": "pizzaoverhead",
+    "version": "v4.0",
+    "ksp_version_min": "1.2.0",
+    "ksp_version_max": "1.3.99",
+    "license": "GPL-2.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/91537-*",
+        "repository": "https://hk.gh-proxy.com/https://github.com/pizzaoverhead/CollisionFX",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/pizzaoverhead/CollisionFX/issues"
+    },
+    "tags": [
+        "plugin",
+        "graphics"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/CollisionFX",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://hk.gh-proxy.com/https://github.com/pizzaoverhead/CollisionFX/releases/download/v4.0/CollisionFXv4.0.zip",
+    "download_size": 7558984,
+    "download_hash": {
+        "sha1": "A3799E27198C7A248A58AF99AC26EF2696A3EFA0",
+        "sha256": "5A3D543DFEBA72D661C2159053233F48A252D4F914720EB75522DFC191CC92C2"
+    },
+    "download_content_type": "application/zip",
+    "release_date": "2017-03-09T23:14:55Z",
+    "x_generated_by": "netkan"
+}

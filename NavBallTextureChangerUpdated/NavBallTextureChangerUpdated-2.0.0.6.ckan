@@ -8,7 +8,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/200741-1",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/NavBallTextureChanger",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/NavBallTextureChanger",
         "remote-avc": "http://ksp.spacetux.net/avc/NavBallTextureChanger"
     },
     "tags": [
@@ -35,7 +35,7 @@
             ]
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/linuxgurugamer/NavBallTextureChanger/releases/download/2.0.0.6/NavBallTextureChanger-1.10.1-2.0.0.6.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/NavBallTextureChanger/releases/download/2.0.0.6/NavBallTextureChanger-1.10.1-2.0.0.6.zip",
     "download_size": 2038575,
     "download_hash": {
         "sha1": "0FA3CD7F647609F40529441E5100A828E76C8331",

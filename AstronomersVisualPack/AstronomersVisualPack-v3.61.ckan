@@ -7,7 +7,7 @@
     "license": "LGPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/160878-ksp-130-astronomers-visual-pack-updated-and-repackaged-314-duality/",
-        "repository": "https://ghproxy.net/https://github.com/themaster402/AstronomersVisualPack"
+        "repository": "https://hk.gh-proxy.com/https://github.com/themaster402/AstronomersVisualPack"
     },
     "version": "v3.61",
     "ksp_version_min": "1.2.2",
@@ -49,7 +49,7 @@
             "name": "TextureReplacer"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/themaster402/AstronomersVisualPack/releases/download/v3.61/AVP.v.3.61.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/themaster402/AstronomersVisualPack/releases/download/v3.61/AVP.v.3.61.zip",
     "download_size": 73749714,
     "download_hash": {
         "sha1": "45D5CF4A41139998741CA4F7591CAA6533E53690",

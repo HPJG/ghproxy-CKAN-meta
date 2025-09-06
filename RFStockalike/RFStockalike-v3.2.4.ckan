@@ -8,7 +8,7 @@
     "license": "CC-BY-SA",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/73410-stockalike-rf-engine-configs-v323-82317rf-v12/",
-        "repository": "https://ghproxy.net/https://github.com/Raptor831/RFStockalike"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Raptor831/RFStockalike"
     },
     "version": "v3.2.4",
     "provides": [
@@ -39,7 +39,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Raptor831/RFStockalike/releases/download/v3.2.4/RFStockalike_3_2_4.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Raptor831/RFStockalike/releases/download/v3.2.4/RFStockalike_3_2_4.zip",
     "download_size": 228654,
     "download_hash": {
         "sha1": "5CBBDB6569A27457CBBE4C5550986DADA8AF3257",

@@ -14,7 +14,7 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/191422-112x-ixs-warpship-spacedock-redocked/",
         "spacedock": "https://spacedock.info/mod/1585/Spacedocks%20Redeployed",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/SpaceDockReBoxed",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/SpaceDockReBoxed",
         "remote-avc": "http://ksp.spacetux.net/avc/SpaceDockReBoxed"
     },
     "tags": [
@@ -32,7 +32,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/linuxgurugamer/SpaceDockReBoxed/releases/download/0.3.0.4/SpaceDockReBoxed-1.12.0-0.3.0.4.zip",
+        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/SpaceDockReBoxed/releases/download/0.3.0.4/SpaceDockReBoxed-1.12.0-0.3.0.4.zip",
         "https://spacedock.info/mod/1585/Spacedocks%20Redeployed/download/0.3.0.4"
     ],
     "download_size": 2357672,

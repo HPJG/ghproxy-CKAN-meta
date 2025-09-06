@@ -6,12 +6,12 @@
     "author": "mattolenik",
     "license": "GPL-3.0",
     "resources": {
-        "homepage": "https://ghproxy.net/https://github.com/mattolenik/MusicMuteContinued",
-        "repository": "https://ghproxy.net/https://github.com/mattolenik/MusicMuteContinued"
+        "homepage": "https://hk.gh-proxy.com/https://github.com/mattolenik/MusicMuteContinued",
+        "repository": "https://hk.gh-proxy.com/https://github.com/mattolenik/MusicMuteContinued"
     },
     "version": "1.1.1",
     "ksp_version": "1.1",
-    "download": "https://ghproxy.net/https://github.com/mattolenik/MusicMuteContinued/releases/download/1.1.1/MusicMuteContinued.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/mattolenik/MusicMuteContinued/releases/download/1.1.1/MusicMuteContinued.zip",
     "download_size": 3735,
     "download_hash": {
         "sha1": "E6368087620F8A77E1C8EAB8DE11D4E984ED9E43",

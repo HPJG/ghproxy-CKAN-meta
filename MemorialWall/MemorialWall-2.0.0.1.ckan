@@ -10,7 +10,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/182572-*",
-        "repository": "https://ghproxy.net/https://github.com/severedsolo/MemorialWall"
+        "repository": "https://hk.gh-proxy.com/https://github.com/severedsolo/MemorialWall"
     },
     "tags": [
         "plugin",
@@ -22,7 +22,7 @@
             "min_version": "3.0"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/severedsolo/MemorialWall/releases/download/2.0.0.1/MemorialWall.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/severedsolo/MemorialWall/releases/download/2.0.0.1/MemorialWall.zip",
     "download_size": 4262,
     "download_hash": {
         "sha1": "D712EC3DA498B29AAF8CEBD890128847E3298D58",

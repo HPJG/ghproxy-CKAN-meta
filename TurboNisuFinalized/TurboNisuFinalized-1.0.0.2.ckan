@@ -11,15 +11,15 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/226524-10-112-urbonisureloaded-stock-a-like-parts-pack/",
         "spacedock": "https://spacedock.info/mod/3800/TurboNisuFinalized",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/TurboNisuFinalized",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/TurboNisuFinalized/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/TurboNisuFinalized",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/TurboNisuFinalized/issues",
         "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/TurboNisuFinalized/refs/heads/main/TurboNisuFinalized.version"
     },
     "tags": [
         "parts"
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/linuxgurugamer/TurboNisuFinalized/releases/download/1.0.0.2/TurboNisuFinalized-1.12.0-1.0.0.2.zip",
+        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/TurboNisuFinalized/releases/download/1.0.0.2/TurboNisuFinalized-1.12.0-1.0.0.2.zip",
         "https://spacedock.info/mod/3800/TurboNisuFinalized/download/1.0.0.2"
     ],
     "download_size": 2542300,

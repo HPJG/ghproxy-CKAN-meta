@@ -10,8 +10,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/183937-*",
-        "repository": "https://ghproxy.net/https://github.com/yalov/WaterLaunchSites",
-        "bugtracker": "https://ghproxy.net/https://github.com/yalov/WaterLaunchSites/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/yalov/WaterLaunchSites",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/yalov/WaterLaunchSites/issues",
         "remote-avc": "https://raw.githubusercontent.com/yalov/WaterLaunchSites/master/WaterLaunchSites.version"
     },
     "tags": [
@@ -42,7 +42,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/yalov/WaterLaunchSites/releases/download/1.0.0/WaterLaunchSites-v1.0.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/yalov/WaterLaunchSites/releases/download/1.0.0/WaterLaunchSites-v1.0.0.zip",
     "download_size": 33306,
     "download_hash": {
         "sha1": "53D5F9737A50DDF4A027672408DC88CFFE70117E",

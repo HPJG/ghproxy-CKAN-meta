@@ -8,8 +8,8 @@
     "license": "unknown",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/201112-*",
-        "repository": "https://ghproxy.net/https://github.com/KSPModdingLibs/KSPBurst",
-        "bugtracker": "https://ghproxy.net/https://github.com/KSPModdingLibs/KSPBurst/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSPModdingLibs/KSPBurst",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSPModdingLibs/KSPBurst/issues"
     },
     "tags": [
         "library"
@@ -29,7 +29,7 @@
             "comment": "This package is the burst compiler, while KSPBurst-Lite is the plugins that mods interface with. the compiler is wrapped in a zip file that the plugins unpack at runtime. The compiler is rather large and doesn't change often, so it's split out. Further, an automated build system may choose to install just the plugins to save space (but Burst will not be functional).  A mod author may also choose to depend on KSPBurst-Lite to leave the choice up to the user."
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSPModdingLibs/KSPBurst/releases/download/v1.5.5.2/KSPBurst_Compiler_1.5.5.2.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSPModdingLibs/KSPBurst/releases/download/v1.5.5.2/KSPBurst_Compiler_1.5.5.2.zip",
     "download_size": 315574068,
     "download_hash": {
         "sha1": "94EE549EDDB0F62F77D7EE2F3C8B52D6102F9356",

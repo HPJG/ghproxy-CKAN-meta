@@ -8,7 +8,7 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/91869",
         "spacedock": "https://spacedock.info/mod/453/KSPIRC",
-        "repository": "https://ghproxy.net/https://github.com/timmersuk/ksp_irc"
+        "repository": "https://hk.gh-proxy.com/https://github.com/timmersuk/ksp_irc"
     },
     "version": "0.17.0.5",
     "ksp_version_min": "1.1.0",

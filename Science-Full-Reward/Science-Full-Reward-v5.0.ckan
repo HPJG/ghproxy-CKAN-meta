@@ -12,7 +12,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/185199-*",
-        "repository": "https://ghproxy.net/https://github.com/tekaohksp/Science-Full-Reward"
+        "repository": "https://hk.gh-proxy.com/https://github.com/tekaohksp/Science-Full-Reward"
     },
     "tags": [
         "config",
@@ -34,7 +34,7 @@
             "name": "ContractConfigurator-FieldResearch"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/tekaohksp/Science-Full-Reward/releases/download/v5.0/Science-Full-Reward.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/tekaohksp/Science-Full-Reward/releases/download/v5.0/Science-Full-Reward.zip",
     "download_size": 1867,
     "download_hash": {
         "sha1": "F6EB761F378F098B1EEDF6F00280CBA2B1328CCC",

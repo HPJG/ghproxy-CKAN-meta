@@ -9,8 +9,8 @@
     "license": "CC-BY-NC-ND-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/155740-*",
-        "repository": "https://ghproxy.net/https://github.com/Gameslinx/Gameslinx-Planet-Overhaul",
-        "bugtracker": "https://ghproxy.net/https://github.com/Gameslinx/Gameslinx-Planet-Overhaul/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/Gameslinx/Gameslinx-Planet-Overhaul",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Gameslinx/Gameslinx-Planet-Overhaul/issues",
         "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=554"
     },
     "tags": [
@@ -68,7 +68,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Gameslinx/Gameslinx-Planet-Overhaul/releases/download/3.4.0/Gameslinx.s.Planet.Overhaul.3.4.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Gameslinx/Gameslinx-Planet-Overhaul/releases/download/3.4.0/Gameslinx.s.Planet.Overhaul.3.4.zip",
     "download_size": 522718666,
     "download_hash": {
         "sha1": "2D3ECE7F1DCAD6D51698BC50275E76F7F6421098",

@@ -12,8 +12,8 @@
     "license": "restricted",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/104505-11-kerbokatz-smallutilities",
-        "repository": "https://ghproxy.net/https://github.com/KerboKatz/SmallUtilities",
-        "bugtracker": "https://ghproxy.net/https://github.com/KerboKatz/SmallUtilities/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/KerboKatz/SmallUtilities",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KerboKatz/SmallUtilities/issues",
         "metanetkan": "https://raw.githubusercontent.com/KerboKatz/Netkan/master/KerboKatzSmallUtilities-AutoBalancingLandingLeg.netkan"
     },
     "tags": [
@@ -36,7 +36,7 @@
             "install_to": "GameData/KerboKatz/SmallUtilities"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KerboKatz/SmallUtilities/releases/download/1.2.5/SmallUtilities.AutoBalancingLandingLeg.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KerboKatz/SmallUtilities/releases/download/1.2.5/SmallUtilities.AutoBalancingLandingLeg.zip",
     "download_size": 4647,
     "download_hash": {
         "sha1": "E018D3859E43F5FC6F5A5BC8364B0E3414B3D855",

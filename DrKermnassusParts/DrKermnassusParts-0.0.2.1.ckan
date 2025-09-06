@@ -10,8 +10,8 @@
     "license": "CC-BY",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/199068-18x-19x-110x-111x-dr-kermnassus-parts-emporium-resurrected-beta-release/",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/DrKermnassusParts",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/DrKermnassusParts/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/DrKermnassusParts",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/DrKermnassusParts/issues",
         "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/DrKermnassusParts/refs/heads/master/DrKermnassusParts.version"
     },
     "tags": [
@@ -29,7 +29,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/linuxgurugamer/DrKermnassusParts/releases/download/0.0.2.1/DrKermnassusParts-1.12.0-0.0.2.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/DrKermnassusParts/releases/download/0.0.2.1/DrKermnassusParts-1.12.0-0.0.2.1.zip",
     "download_size": 18550043,
     "download_hash": {
         "sha1": "C113A2680CBA6EB651FA7B5D53D31339C4128106",

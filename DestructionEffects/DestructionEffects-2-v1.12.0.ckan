@@ -13,15 +13,15 @@
     "license": "CC0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/154379-*",
-        "repository": "https://ghproxy.net/https://github.com/jrodrigv/DestructionEffects",
-        "bugtracker": "https://ghproxy.net/https://github.com/jrodrigv/DestructionEffects/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/jrodrigv/DestructionEffects",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/jrodrigv/DestructionEffects/issues",
         "remote-avc": "https://raw.githubusercontent.com/jrodrigv/DestructionEffects/master/Distribution/GameData/DestructionEffects/DestructionEffects.version"
     },
     "tags": [
         "plugin",
         "graphics"
     ],
-    "download": "https://ghproxy.net/https://github.com/jrodrigv/DestructionEffects/releases/download/v1.12.0/DestructionEffects.1.12_09232020.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/jrodrigv/DestructionEffects/releases/download/v1.12.0/DestructionEffects.1.12_09232020.zip",
     "download_size": 482265,
     "download_hash": {
         "sha1": "79DC383A2275F90BC0756B3F2A341B30335D97C4",

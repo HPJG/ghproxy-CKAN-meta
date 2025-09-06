@@ -11,7 +11,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/124505-105-kopernicus-kerbol-plus-remade-v11-19nov15-reborn-and-revived/",
-        "repository": "https://ghproxy.net/https://github.com/KillAshley/KPlus"
+        "repository": "https://hk.gh-proxy.com/https://github.com/KillAshley/KPlus"
     },
     "version": "1.1",
     "ksp_version": "1.0.5",
@@ -55,7 +55,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KillAshley/KPlus/releases/download/1.1/KPlus_v1.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KillAshley/KPlus/releases/download/1.1/KPlus_v1.1.zip",
     "download_size": 50528336,
     "download_hash": {
         "sha1": "EAADA3A05F2BF7C67F88FA3240FF0D1194960B96",

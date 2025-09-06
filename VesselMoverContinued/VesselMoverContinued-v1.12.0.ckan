@@ -14,8 +14,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/183963-*",
-        "repository": "https://ghproxy.net/https://github.com/jrodrigv/VesselMover",
-        "bugtracker": "https://ghproxy.net/https://github.com/jrodrigv/VesselMover/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/jrodrigv/VesselMover",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/jrodrigv/VesselMover/issues",
         "remote-avc": "https://raw.githubusercontent.com:443/jrodrigv/VesselMover/master/Distribution/GameData/VesselMover/VesselMover.version"
     },
     "tags": [
@@ -41,7 +41,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/jrodrigv/VesselMover/releases/download/v1.12.0/VesselMover.1.12.0._09042021.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/jrodrigv/VesselMover/releases/download/v1.12.0/VesselMover.1.12.0._09042021.zip",
     "download_size": 94652,
     "download_hash": {
         "sha1": "E6ACFCBD6AEAE889402256F7B69A39240EF25DDE",

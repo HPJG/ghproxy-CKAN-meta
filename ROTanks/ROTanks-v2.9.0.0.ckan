@@ -14,8 +14,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://discordapp.com/invite/ZGbR6nv",
-        "repository": "https://ghproxy.net/https://github.com/KSP-RO/ROTanks",
-        "bugtracker": "https://ghproxy.net/https://github.com/KSP-RO/ROTanks/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ROTanks",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ROTanks/issues",
         "remote-avc": "https://raw.githubusercontent.com/KSP-RO/ROTanks/master/GameData/ROTanks/ROTanks.version"
     },
     "tags": [
@@ -73,7 +73,7 @@
             "name": "TweakableEverythingCont"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSP-RO/ROTanks/releases/download/v2.9.0.0/ROTanks-v2.9.0.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ROTanks/releases/download/v2.9.0.0/ROTanks-v2.9.0.0.zip",
     "download_size": 203142610,
     "download_hash": {
         "sha1": "E398BB4F40A0D3E20D45EED3613867E92FB676C3",

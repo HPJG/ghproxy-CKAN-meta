@@ -9,8 +9,8 @@
     "ksp_version_max": "1.9.9",
     "license": "Unlicense",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/Kerbalism/Kerbalism",
-        "bugtracker": "https://ghproxy.net/https://github.com/Kerbalism/Kerbalism/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Kerbalism/Kerbalism",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Kerbalism/Kerbalism/issues"
     },
     "tags": [
         "config",
@@ -64,7 +64,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Kerbalism/Kerbalism/releases/download/3.9/Kerbalism-Config_v3.9_for_KSP1.5.0-1.9.9.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Kerbalism/Kerbalism/releases/download/3.9/Kerbalism-Config_v3.9_for_KSP1.5.0-1.9.9.zip",
     "download_size": 14946492,
     "download_hash": {
         "sha1": "0719AAC66C571B0980EB127A542143CA7A7BB995",

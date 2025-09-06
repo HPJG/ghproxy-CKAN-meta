@@ -7,7 +7,7 @@
     "license": "BSD-3-clause",
     "resources": {
         "spacedock": "https://spacedock.info/mod/1069/ToadicusToolsContinued",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/ToadicusTools"
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ToadicusTools"
     },
     "version": "0.22.3",
     "ksp_version_min": "1.4.1",

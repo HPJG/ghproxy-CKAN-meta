@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/92434-105",
-        "repository": "https://ghproxy.net/https://github.com/BobPalmer/SoundingRockets"
+        "repository": "https://hk.gh-proxy.com/https://github.com/BobPalmer/SoundingRockets"
     },
     "version": "0.4.3.0",
     "ksp_version_min": "1.1.0",
@@ -29,7 +29,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/BobPalmer/SoundingRockets/releases/download/0.4.3.0/SoundingRockets_0.4.3.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/BobPalmer/SoundingRockets/releases/download/0.4.3.0/SoundingRockets_0.4.3.0.zip",
     "download_size": 801046,
     "download_hash": {
         "sha1": "2E9AE03CD4B3369B84A5E55455187B0B8E2B9E8D",

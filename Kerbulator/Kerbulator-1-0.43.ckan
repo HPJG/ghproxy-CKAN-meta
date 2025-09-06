@@ -7,12 +7,12 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/62988-13-kerbulator-use-your-own-math/",
-        "repository": "https://ghproxy.net/https://github.com/wmvanvliet/Kerbulator"
+        "repository": "https://hk.gh-proxy.com/https://github.com/wmvanvliet/Kerbulator"
     },
     "version": "1:0.43",
     "ksp_version_min": "1.0.4",
     "ksp_version_max": "1.1.3",
-    "download": "https://ghproxy.net/https://github.com/wmvanvliet/Kerbulator/releases/download/0.43/Kerbulator-0.43.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/wmvanvliet/Kerbulator/releases/download/0.43/Kerbulator-0.43.zip",
     "download_size": 537732,
     "download_hash": {
         "sha1": "9E484C29AA1900D435B826D35F67A981397FD4F3",

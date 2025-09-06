@@ -10,8 +10,8 @@
     "license": "restricted",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/193399-*",
-        "repository": "https://ghproxy.net/https://github.com/Arekva/Tilt-Unlocker",
-        "bugtracker": "https://ghproxy.net/https://github.com/Arekva/Tilt-Unlocker/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Arekva/Tilt-Unlocker",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Arekva/Tilt-Unlocker/issues"
     },
     "tags": [
         "plugin",
@@ -22,7 +22,7 @@
             "name": "Kopernicus"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Arekva/Tilt-Unlocker/releases/download/0.4/TiltUnlocker_v0.4.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Arekva/Tilt-Unlocker/releases/download/0.4/TiltUnlocker_v0.4.zip",
     "download_size": 8417,
     "download_hash": {
         "sha1": "E10C260D49E962CAA45DB76407B4E3B204F6A1D3",

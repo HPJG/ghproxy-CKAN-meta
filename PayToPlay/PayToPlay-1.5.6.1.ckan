@@ -10,8 +10,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/193467-*",
-        "repository": "https://ghproxy.net/https://github.com/DarthPointer/PayToPlay",
-        "bugtracker": "https://ghproxy.net/https://github.com/DarthPointer/PayToPlay/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/DarthPointer/PayToPlay",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/DarthPointer/PayToPlay/issues",
         "remote-avc": "https://raw.githubusercontent.com/DarthPointer/PayToPlay/master/GameData/PayToPlay/PayToPlay.version"
     },
     "tags": [
@@ -45,7 +45,7 @@
             "name": "ReStockPlus"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/DarthPointer/PayToPlay/releases/download/1.5.6.1/PayToPlay1.5.6.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/DarthPointer/PayToPlay/releases/download/1.5.6.1/PayToPlay1.5.6.1.zip",
     "download_size": 47100,
     "download_hash": {
         "sha1": "749FC36132C3C137167F9A944C92112D1747FFD9",

@@ -6,8 +6,8 @@
     "author": "QuickBASIC",
     "license": "MIT",
     "resources": {
-        "homepage": "https://ghproxy.net/https://github.com/QuickBASIC/UniversalStorageStockResourceFuelCell",
-        "repository": "https://ghproxy.net/https://github.com/QuickBASIC/UniversalStorageStockResourceFuelCell"
+        "homepage": "https://hk.gh-proxy.com/https://github.com/QuickBASIC/UniversalStorageStockResourceFuelCell",
+        "repository": "https://hk.gh-proxy.com/https://github.com/QuickBASIC/UniversalStorageStockResourceFuelCell"
     },
     "version": "v0.1.2",
     "ksp_version_min": "1.1.3",
@@ -20,7 +20,7 @@
             "name": "UniversalStorage"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/QuickBASIC/UniversalStorageStockResourceFuelCell/releases/download/v0.1.2/UniversalStorageStockResourceFuelCell_v0.1.2.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/QuickBASIC/UniversalStorageStockResourceFuelCell/releases/download/v0.1.2/UniversalStorageStockResourceFuelCell_v0.1.2.zip",
     "download_size": 45504,
     "download_hash": {
         "sha1": "0B725F353B40490677278B56784B10D92D49051D",

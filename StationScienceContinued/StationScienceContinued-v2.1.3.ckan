@@ -9,7 +9,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/154629-122-station-science-contunued-v210/",
-        "repository": "https://ghproxy.net/https://github.com/tomforwood/StationScience",
+        "repository": "https://hk.gh-proxy.com/https://github.com/tomforwood/StationScience",
         "x_screenshot": "http://i.imgur.com/63DTlDLl.png"
     },
     "version": "v2.1.3",
@@ -26,7 +26,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/tomforwood/StationScience/releases/download/v2.1.3/StationScience.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/tomforwood/StationScience/releases/download/v2.1.3/StationScience.zip",
     "download_size": 7479756,
     "download_hash": {
         "sha1": "43025E720B872C468DFB94CF2A8250CB0CA2A4ED",

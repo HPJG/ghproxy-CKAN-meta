@@ -10,8 +10,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/164965-*",
-        "repository": "https://ghproxy.net/https://github.com/GarwelGarwel/SpaceAge",
-        "bugtracker": "https://ghproxy.net/https://github.com/GarwelGarwel/SpaceAge/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/GarwelGarwel/SpaceAge",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/GarwelGarwel/SpaceAge/issues"
     },
     "tags": [
         "plugin",
@@ -25,7 +25,7 @@
             "name": "Toolbar"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/GarwelGarwel/SpaceAge/releases/download/v1.2.0/SpaceAge_1.2.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/GarwelGarwel/SpaceAge/releases/download/v1.2.0/SpaceAge_1.2.0.zip",
     "download_size": 36878,
     "download_hash": {
         "sha1": "E89034F3627E3FBE0C2BD9F669965471DB03BF33",

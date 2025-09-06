@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/151129-12-sxt-continued-beta/",
         "spacedock": "https://spacedock.info/mod/1030/SXTContinued",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/SXTContinued",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/SXTContinued/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/SXTContinued",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/SXTContinued/issues",
         "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/SXTContinued/refs/heads/master/SXTContinued.version",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/SXTContinued/SXTContinued-1477802930.9760618.png"
     },
@@ -44,7 +44,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/linuxgurugamer/SXTContinued/releases/download/0.3.30/SXTContinued-1.12.0-0.3.30.zip",
+        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/SXTContinued/releases/download/0.3.30/SXTContinued-1.12.0-0.3.30.zip",
         "https://spacedock.info/mod/1030/SXTContinued/download/0.3.30"
     ],
     "download_size": 43455164,

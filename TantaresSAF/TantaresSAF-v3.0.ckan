@@ -10,8 +10,8 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/73686-*",
-        "repository": "https://ghproxy.net/https://github.com/Tantares/TantaresSAF",
-        "bugtracker": "https://ghproxy.net/https://github.com/Tantares/TantaresSAF/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/Tantares/TantaresSAF",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Tantares/TantaresSAF/issues",
         "remote-avc": "https://raw.githubusercontent.com/Tantares/TantaresSAF/master/tantaressaf.version"
     },
     "tags": [
@@ -25,7 +25,7 @@
             "name": "SimpleAdjustableFairings"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Tantares/TantaresSAF/releases/download/v3.0/TantaresSAF.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Tantares/TantaresSAF/releases/download/v3.0/TantaresSAF.zip",
     "download_size": 6990250,
     "download_hash": {
         "sha1": "B2BB606E0190C9A50D0CDFF8864155C837497D59",

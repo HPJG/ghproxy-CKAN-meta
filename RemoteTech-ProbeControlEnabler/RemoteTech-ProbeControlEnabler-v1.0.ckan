@@ -7,7 +7,7 @@
     "license": "CC-BY-SA",
     "release_status": "stable",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/Felger/FelgerFixes"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Felger/FelgerFixes"
     },
     "version": "v1.0",
     "ksp_version": "1.0",
@@ -23,7 +23,7 @@
             "install_to": "GameData/ZZZ_FelgerFixes"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Felger/FelgerFixes/releases/download/v1.0/FelgerFixes-1.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Felger/FelgerFixes/releases/download/v1.0/FelgerFixes-1.0.zip",
     "download_size": 906,
     "download_hash": {
         "sha1": "ACA224301EFD892232AC19E0E1E64635FD1C621E",

@@ -6,7 +6,7 @@
     "author": "RP-0 Group",
     "license": "CC-BY-4.0",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/KSP-RO/RP-0"
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RP-0"
     },
     "version": "v0.19",
     "ksp_version": "0.90",
@@ -65,7 +65,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSP-RO/RP-0/releases/download/v0.19/RP-0-v0.19.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RP-0/releases/download/v0.19/RP-0-v0.19.zip",
     "download_size": 48162,
     "download_hash": {
         "sha1": "04046CD88EFB3B0F03DB9B5E24A41DC738BEEC89",

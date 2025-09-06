@@ -13,8 +13,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://krpc.github.io/krpc",
-        "repository": "https://ghproxy.net/https://github.com/krpc/krpc",
-        "bugtracker": "https://ghproxy.net/https://github.com/krpc/krpc/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/krpc/krpc",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/krpc/krpc/issues",
         "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=254"
     },
     "tags": [
@@ -27,7 +27,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/krpc/krpc/releases/download/v0.5.2/krpc-0.5.2.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/krpc/krpc/releases/download/v0.5.2/krpc-0.5.2.zip",
     "download_size": 693393,
     "download_hash": {
         "sha1": "A998C6A5ACD33CD5A08AFC2422DE23CDEA6A043D",

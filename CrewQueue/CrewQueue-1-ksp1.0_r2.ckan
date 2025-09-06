@@ -10,8 +10,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/97702-*",
-        "repository": "https://ghproxy.net/https://github.com/fingerboxes/CrewQueue",
-        "bugtracker": "https://ghproxy.net/https://github.com/fingerboxes/CrewQueue/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/fingerboxes/CrewQueue",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/fingerboxes/CrewQueue/issues"
     },
     "tags": [
         "plugin",
@@ -31,7 +31,7 @@
             "install_to": "GameData/Fingerboxes"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/fingerboxes/CrewQueue/releases/download/ksp1.0_r2/CrewQueue_ksp1.0.4_release2.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/fingerboxes/CrewQueue/releases/download/ksp1.0_r2/CrewQueue_ksp1.0.4_release2.zip",
     "download_size": 66538,
     "download_hash": {
         "sha1": "46F25409F2C583AA896333B3599BCF5280BDEAFB",

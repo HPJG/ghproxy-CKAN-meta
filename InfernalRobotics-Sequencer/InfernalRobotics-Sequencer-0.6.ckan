@@ -12,7 +12,7 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/104547-105-ir-sequencer-v06-add-on-to-infernal-robotics-updated-29122015/",
         "spacedock": "https://spacedock.info/mod/72/Sequencer%20for%20Infernal%20Robotics",
-        "repository": "https://ghproxy.net/https://github.com/MagicSmokeIndustries/IR-Sequencer",
+        "repository": "https://hk.gh-proxy.com/https://github.com/MagicSmokeIndustries/IR-Sequencer",
         "x_screenshot": "https://spacedock.info/content/Ziw_427/Sequencer_for_Infernal_Robotics/Sequencer_for_Infernal_Robotics-1455696342.1214797.png"
     },
     "version": "0.6",

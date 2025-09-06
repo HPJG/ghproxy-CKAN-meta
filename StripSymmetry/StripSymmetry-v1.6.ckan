@@ -11,15 +11,15 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/72894-*",
-        "repository": "https://ghproxy.net/https://github.com/Biotronic/StripSymmetry",
-        "bugtracker": "https://ghproxy.net/https://github.com/Biotronic/StripSymmetry/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Biotronic/StripSymmetry",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Biotronic/StripSymmetry/issues"
     },
     "tags": [
         "plugin",
         "editor",
         "convenience"
     ],
-    "download": "https://ghproxy.net/https://github.com/Biotronic/StripSymmetry/releases/download/v1.6/StripSymmetry_1.6.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Biotronic/StripSymmetry/releases/download/v1.6/StripSymmetry_1.6.zip",
     "download_size": 14995,
     "download_hash": {
         "sha1": "DC4D18CB6349C6CAD65DDE590433F025AED39717",

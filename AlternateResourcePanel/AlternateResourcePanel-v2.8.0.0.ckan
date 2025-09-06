@@ -8,8 +8,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/60227",
-        "repository": "https://ghproxy.net/https://github.com/TriggerAu/AlternateResourcePanel",
-        "license": "https://ghproxy.net/https://github.com/TriggerAu/AlternateResourcePanel/blob/master/LICENSE",
+        "repository": "https://hk.gh-proxy.com/https://github.com/TriggerAu/AlternateResourcePanel",
+        "license": "https://hk.gh-proxy.com/https://github.com/TriggerAu/AlternateResourcePanel/blob/master/LICENSE",
         "manual": "https://sites.google.com/site/kspalternateresourcepanel/",
         "curse": "http://kerbal.curseforge.com/ksp-mods/220649-alternate-resource-panel"
     },
@@ -32,7 +32,7 @@
             "install_to": "GameData/TriggerTech"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/TriggerAu/AlternateResourcePanel/releases/download/v2.8.0.0/KSPAlternateResourcePanel_2.8.0.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/TriggerAu/AlternateResourcePanel/releases/download/v2.8.0.0/KSPAlternateResourcePanel_2.8.0.0.zip",
     "download_size": 302467,
     "download_hash": {
         "sha1": "CD1318C234EFA94EF28C2E87E7555A88FDC28BF6",

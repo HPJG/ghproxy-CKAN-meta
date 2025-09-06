@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/182906-engine-lighting-relit/",
         "spacedock": "https://spacedock.info/mod/2111/Engine%20Lighting%20Relit",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/EngineLightRelit",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/EngineLightRelit/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/EngineLightRelit",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/EngineLightRelit/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/EngineLightRelit",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Engine_Lighting_Relit/Engine_Lighting_Relit-1552764686.3158028.png"
     },

@@ -1,0 +1,63 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "BehemothAerospaceEngineeringLargeParts",
+    "name": "Behemoth Aerospace Engineering Large Parts",
+    "abstract": "This parts pack contains engines, tanks, and other part categories in three sizes that do not exist in stock KSP, namely 5m, 7.5m, and 10m.",
+    "author": [
+        "greystork",
+        "Comwarrior"
+    ],
+    "version": "1.6.1",
+    "ksp_version": "1.6.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/182825-161-behemoth-aerospace-engineering-large-part/",
+        "spacedock": "https://spacedock.info/mod/2109/Behemoth%20Aerospace%20Engineering%20Large%20Parts",
+        "remote-avc": "http://www.storxoft.com/BAE/BAE.version",
+        "x_screenshot": "https://spacedock.info/content/Comwarrior_26484/Behemoth_Aerospace_Engineering_Large_Parts/Behemoth_Aerospace_Engineering_Large_Parts-1552407173.4804692.png"
+    },
+    "tags": [
+        "parts"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "FirespitterCore"
+        },
+        {
+            "name": "InterstellarFuelSwitch"
+        },
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "KerbalJointReinforcement"
+        },
+        {
+            "name": "KSP-AVC"
+        }
+    ],
+    "install": [
+        {
+            "file": "BAE",
+            "install_to": "GameData",
+            "filter": [
+                "Flags",
+                "Agencies"
+            ]
+        }
+    ],
+    "download": "https://spacedock.info/mod/2109/Behemoth%20Aerospace%20Engineering%20Large%20Parts/download/1.6.1",
+    "download_size": 12445901,
+    "download_hash": {
+        "sha1": "EA7DAE512247D09951C51958DD75EFB8B616E1AE",
+        "sha256": "9FA3621F52DBB0AF55629ED6FF41DC36507874CE5821BA5D2071B1EA99D761F4"
+    },
+    "download_content_type": "application/zip",
+    "release_date": "2019-03-12T17:09:39.242079+00:00",
+    "x_generated_by": "netkan"
+}

@@ -9,7 +9,7 @@
     "license": "CC0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/113949-105-asclepius-a-kopernicus-planet-ssto-playground/",
-        "repository": "https://ghproxy.net/https://github.com/MrChumley/FarOut"
+        "repository": "https://hk.gh-proxy.com/https://github.com/MrChumley/FarOut"
     },
     "version": "2:v2.0",
     "ksp_version": "1.3",
@@ -43,7 +43,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/MrChumley/FarOut/releases/download/v2.0/FarOutV2.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/MrChumley/FarOut/releases/download/v2.0/FarOutV2.zip",
     "download_size": 114330,
     "download_hash": {
         "sha1": "FBBC2CFE0C05780452C155320400ED0B32BBFEEF",

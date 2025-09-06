@@ -10,9 +10,9 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/193909-1",
-        "repository": "https://ghproxy.net/https://github.com/post-kerbin-mining-corporation/SystemHeat",
-        "bugtracker": "https://ghproxy.net/https://github.com/post-kerbin-mining-corporation/SystemHeat/issues",
-        "metanetkan": "https://ghproxy.net/https://github.com/post-kerbin-mining-corporation/SystemHeat/raw/master/CKAN/SystemHeat-FissionReactors.netkan",
+        "repository": "https://hk.gh-proxy.com/https://github.com/post-kerbin-mining-corporation/SystemHeat",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/post-kerbin-mining-corporation/SystemHeat/issues",
+        "metanetkan": "https://hk.gh-proxy.com/https://github.com/post-kerbin-mining-corporation/SystemHeat/raw/master/CKAN/SystemHeat-FissionReactors.netkan",
         "remote-avc": "https://raw.githubusercontent.com/post-kerbin-mining-corporation/SystemHeat/master/GameData/SystemHeat/Versioning/SystemHeat.version"
     },
     "tags": [
@@ -52,7 +52,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/post-kerbin-mining-corporation/SystemHeat/releases/download/0.8.2/SystemHeat_0_8_2.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/post-kerbin-mining-corporation/SystemHeat/releases/download/0.8.2/SystemHeat_0_8_2.zip",
     "download_size": 1328750,
     "download_hash": {
         "sha1": "22BB8F67D37554F49ED73F6656B188A82F91C003",

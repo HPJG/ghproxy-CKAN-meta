@@ -22,14 +22,14 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/204210-*",
-        "repository": "https://ghproxy.net/https://github.com/KSP-RO/CustomPreLaunchChecks",
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/CustomPreLaunchChecks",
         "remote-avc": "https://raw.githubusercontent.com/KSP-RO/CustomPreLaunchChecks/master/GameData/CustomPreLaunchChecks/CustomPreLaunchChecks.version"
     },
     "tags": [
         "plugin",
         "library"
     ],
-    "download": "https://ghproxy.net/https://github.com/KSP-RO/CustomPreLaunchChecks/releases/download/1.8.1.1/CustomPreLaunchChecks-1.8.1.1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/CustomPreLaunchChecks/releases/download/1.8.1.1/CustomPreLaunchChecks-1.8.1.1.zip",
     "download_size": 10227,
     "download_hash": {
         "sha1": "1AA8DBD4979A3386016DAB61F3EF75FE01C0B95A",

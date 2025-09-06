@@ -7,7 +7,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/164870-planetary-diversity",
-        "repository": "https://ghproxy.net/https://github.com/StollD/Planetary-Diversity"
+        "repository": "https://hk.gh-proxy.com/https://github.com/StollD/Planetary-Diversity"
     },
     "version": "1.3.0-4",
     "ksp_version": "1.3",
@@ -17,7 +17,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/StollD/Planetary-Diversity/releases/download/1.3.0-4/Planetary-Diversity-1.3.0-4.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/StollD/Planetary-Diversity/releases/download/1.3.0-4/Planetary-Diversity-1.3.0-4.zip",
     "download_size": 54135,
     "download_hash": {
         "sha1": "993756E016B6537284D27C6072285A71D344C5E1",

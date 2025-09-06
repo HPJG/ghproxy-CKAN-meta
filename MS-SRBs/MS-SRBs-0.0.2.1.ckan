@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/188482-*",
         "spacedock": "https://spacedock.info/mod/2297/Modular%20Segmented%20SRBs",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/ModularSegmentedSRBs",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/ModularSegmentedSRBs/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ModularSegmentedSRBs",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ModularSegmentedSRBs/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/ModularSegmentedSRBs"
     },
     "tags": [

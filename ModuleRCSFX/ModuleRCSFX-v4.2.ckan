@@ -14,13 +14,13 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/83259-*",
-        "repository": "https://ghproxy.net/https://github.com/NathanKell/ModuleRCSFX",
-        "bugtracker": "https://ghproxy.net/https://github.com/NathanKell/ModuleRCSFX/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/NathanKell/ModuleRCSFX",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/NathanKell/ModuleRCSFX/issues"
     },
     "tags": [
         "plugin"
     ],
-    "download": "https://ghproxy.net/https://github.com/NathanKell/ModuleRCSFX/releases/download/v4.2/ModuleRCSFX_v4.2.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/NathanKell/ModuleRCSFX/releases/download/v4.2/ModuleRCSFX_v4.2.zip",
     "download_size": 6915,
     "download_hash": {
         "sha1": "AA797E4626DDACC4D956A8D5306EDB19FF0A956F",

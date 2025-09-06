@@ -7,8 +7,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/115192-/",
-        "repository": "https://ghproxy.net/https://github.com/iPeer/InFlightFlagSwitcher",
-        "bugtracker": "https://ghproxy.net/https://github.com/iPeer/InFlightFlagSwitcher/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/iPeer/InFlightFlagSwitcher",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/iPeer/InFlightFlagSwitcher/issues"
     },
     "version": "1.0.2-rel",
     "ksp_version_min": "1.1.0",
@@ -24,7 +24,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/iPeer/InFlightFlagSwitcher/releases/download/1.0.2-rel/InFlightFlagSwitcher1.0.2-rel.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/iPeer/InFlightFlagSwitcher/releases/download/1.0.2-rel/InFlightFlagSwitcher1.0.2-rel.zip",
     "download_size": 112174,
     "download_hash": {
         "sha1": "62F29C48FECBF8F81879D7C4E1E7D6F71383DF08",

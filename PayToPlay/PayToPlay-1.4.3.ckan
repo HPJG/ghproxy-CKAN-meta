@@ -10,8 +10,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/193467-*",
-        "repository": "https://ghproxy.net/https://github.com/DarthPointer/PayToPlay",
-        "bugtracker": "https://ghproxy.net/https://github.com/DarthPointer/PayToPlay/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/DarthPointer/PayToPlay",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/DarthPointer/PayToPlay/issues"
     },
     "tags": [
         "plugin",
@@ -38,7 +38,7 @@
             "name": "EngineIgnitorReignited"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/DarthPointer/PayToPlay/releases/download/1.4.3/PayToPlay1-4-3.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/DarthPointer/PayToPlay/releases/download/1.4.3/PayToPlay1-4-3.zip",
     "download_size": 80271,
     "download_hash": {
         "sha1": "2458AA63CCCC0AA0C207B7E12B8EF49F6804A2DB",

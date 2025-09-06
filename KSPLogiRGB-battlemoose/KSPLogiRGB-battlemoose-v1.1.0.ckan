@@ -7,7 +7,7 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/169895-*",
-        "repository": "https://ghproxy.net/https://github.com/battlemoose/ksp-logirgb"
+        "repository": "https://hk.gh-proxy.com/https://github.com/battlemoose/ksp-logirgb"
     },
     "version": "v1.1.0",
     "ksp_version": "1.4.1",
@@ -17,7 +17,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/battlemoose/ksp-logirgb/releases/download/v1.1.0/ksp-logirgb-1.1.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/battlemoose/ksp-logirgb/releases/download/v1.1.0/ksp-logirgb-1.1.0.zip",
     "download_size": 67504,
     "download_hash": {
         "sha1": "E0504C3A0A31E1AA791C7C5D652D2219DDA37FA6",

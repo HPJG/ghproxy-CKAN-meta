@@ -13,8 +13,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/179445-*",
-        "repository": "https://ghproxy.net/https://github.com/dkavolis/Ferram-Aerospace-Research",
-        "bugtracker": "https://ghproxy.net/https://github.com/dkavolis/Ferram-Aerospace-Research/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/dkavolis/Ferram-Aerospace-Research",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/dkavolis/Ferram-Aerospace-Research/issues"
     },
     "tags": [
         "plugin",
@@ -55,7 +55,7 @@
             "comment": "FAR example craft"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/dkavolis/Ferram-Aerospace-Research/releases/download/v0.15.11.4_Mach_/FAR_0_15_11_4_Mach.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/dkavolis/Ferram-Aerospace-Research/releases/download/v0.15.11.4_Mach_/FAR_0_15_11_4_Mach.zip",
     "download_size": 831002,
     "download_hash": {
         "sha1": "3730D8A113675D49D81597EFF5E6E890EED300D2",

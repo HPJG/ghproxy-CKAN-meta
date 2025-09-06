@@ -10,12 +10,12 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/173126-141-ksp-avc-add-on-version-checker-plugin-120-miniavc/",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/KSPAddonVersionChecker"
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/KSPAddonVersionChecker"
     },
     "version": "1.2.0.3",
     "ksp_version_min": "1.4.1",
     "ksp_version_max": "1.4.99",
-    "download": "https://ghproxy.net/https://github.com/linuxgurugamer/KSPAddonVersionChecker/releases/download/1.2.0.3/KSP-AVC-1.2.0.3.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/KSPAddonVersionChecker/releases/download/1.2.0.3/KSP-AVC-1.2.0.3.zip",
     "download_size": 80888,
     "download_hash": {
         "sha1": "C9741264962A8F260B8660D411A5B2C2DC4DAD5F",

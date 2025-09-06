@@ -8,7 +8,7 @@
     "license": "CC-BY-SA",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/22888-105-fasa-544",
-        "repository": "https://ghproxy.net/https://github.com/KSP-RO/FASA-RO"
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/FASA-RO"
     },
     "version": "1:v7.0",
     "ksp_version_min": "1.2.0",
@@ -37,7 +37,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KSP-RO/FASA-RO/releases/download/v7.0/FASA_v7.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/FASA-RO/releases/download/v7.0/FASA_v7.0.zip",
     "download_size": 93321431,
     "download_hash": {
         "sha1": "1D128D1EC3EFA6D7EC4B2481589A84E13AF565B3",

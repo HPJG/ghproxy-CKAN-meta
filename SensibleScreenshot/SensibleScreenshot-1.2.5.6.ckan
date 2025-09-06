@@ -14,8 +14,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/178484-14x-",
         "spacedock": "https://spacedock.info/mod/642/Sensible%20Screenshot",
-        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/Magico13_Modlets",
-        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/Magico13_Modlets/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/Magico13_Modlets",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/Magico13_Modlets/issues",
         "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/Magico13_Modlets/refs/heads/master/SensibleScreenshot.version"
     },
     "tags": [
@@ -34,7 +34,7 @@
         }
     ],
     "download": [
-        "https://ghproxy.net/https://github.com/linuxgurugamer/Magico13_Modlets/releases/download/1.5.4/SensibleScreenshot-1.12.0-1.2.5.6.zip",
+        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/Magico13_Modlets/releases/download/1.5.4/SensibleScreenshot-1.12.0-1.2.5.6.zip",
         "https://spacedock.info/mod/642/Sensible%20Screenshot/download/1.2.5.6"
     ],
     "download_size": 20416,

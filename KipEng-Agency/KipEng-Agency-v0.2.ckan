@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?showtopic=194930",
         "spacedock": "https://spacedock.info/mod/2454/KipDockingPorts",
-        "repository": "https://ghproxy.net/https://github.com/mwerle/KipDockingPorts",
-        "bugtracker": "https://ghproxy.net/https://github.com/mwerle/KipDockingPorts/issues",
+        "repository": "https://hk.gh-proxy.com/https://github.com/mwerle/KipDockingPorts",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/mwerle/KipDockingPorts/issues",
         "x_screenshot": "https://spacedock.info/content/micha_8295/KipDockingPorts/KipDockingPorts-1593005870.1450794.png"
     },
     "tags": [

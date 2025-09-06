@@ -7,7 +7,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/83821-140-gcmonitor-1480-a-graphic-memory-monitor-marsh-9th-2018/",
-        "repository": "https://ghproxy.net/https://github.com/sarbian/GCMonitor",
+        "repository": "https://hk.gh-proxy.com/https://github.com/sarbian/GCMonitor",
         "ci": "https://ksp.sarbian.com/jenkins/job/GCMonitor/"
     },
     "version": "1.4.8.0",

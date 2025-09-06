@@ -10,8 +10,8 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/200334-*",
-        "repository": "https://ghproxy.net/https://github.com/KnightofStJohn/StockWaterfallEffects",
-        "bugtracker": "https://ghproxy.net/https://github.com/KnightofStJohn/StockWaterfallEffects/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/KnightofStJohn/StockWaterfallEffects",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KnightofStJohn/StockWaterfallEffects/issues"
     },
     "tags": [
         "config",
@@ -30,7 +30,7 @@
             "name": "ReStock"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/KnightofStJohn/StockWaterfallEffects/releases/download/0.3.1/StockWaterfallEffects_0_3_1.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/KnightofStJohn/StockWaterfallEffects/releases/download/0.3.1/StockWaterfallEffects_0_3_1.zip",
     "download_size": 106210,
     "download_hash": {
         "sha1": "2B2C289351376F8471AD13C8B3172320839195E7",

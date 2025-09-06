@@ -8,7 +8,7 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/69313",
         "kerbalstuff": "https://kerbalstuff.com/mod/636/kRPC:%20Remote%20Procedure%20Call%20Server",
-        "repository": "https://ghproxy.net/https://github.com/djungelorm/krpc",
+        "repository": "https://hk.gh-proxy.com/https://github.com/djungelorm/krpc",
         "x_screenshot": "https://kerbalstuff.com/content/djungelorm_376/kRPC_Remote_Procedure_Call_Server/kRPC_Remote_Procedure_Call_Server-1425931909.4056554.png"
     },
     "version": "v0.1.11",

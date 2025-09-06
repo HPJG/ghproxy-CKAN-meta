@@ -1,0 +1,59 @@
+{
+    "spec_version": 1,
+    "identifier": "CanaveralPads",
+    "name": "CanaveralPads",
+    "abstract": "Custom Launch sites for Cape Canaveral in RSS",
+    "author": [
+        "al2me6",
+        "blowfishpro",
+        "Capkirk123",
+        "NathanKell",
+        "pjf",
+        "rsparkyc",
+        "SirKeplan",
+        "StollD",
+        "StonesmileGit",
+        "stratochief66",
+        "zorg2044"
+    ],
+    "version": "v1.1.0.0",
+    "ksp_version_min": "1.8.0",
+    "ksp_version_max": "1.12.99",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "https://hk.gh-proxy.com/https://github.com/KSP-RO/CanaveralPads/tree/main/GameData/CanaveralPads",
+        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/CanaveralPads",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-RO/CanaveralPads/issues",
+        "remote-avc": "https://hk.gh-proxy.com/https://github.com/KSP-RO/CanaveralPads/raw/main/GameData/CanaveralPads/CanaveralPads.version"
+    },
+    "tags": [
+        "graphics"
+    ],
+    "depends": [
+        {
+            "name": "RSS-CanaveralHD"
+        },
+        {
+            "name": "KerbalKonstructs",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "StockalikeStructures",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TundraSpaceCenter",
+            "suppress_recommendations": true
+        }
+    ],
+    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/CanaveralPads/releases/download/v1.1.0.0/CanaveralPads-v1.1.0.0.zip",
+    "download_size": 53477147,
+    "download_hash": {
+        "sha1": "CBC3D245E22E0A6DC62F87ED0550FAFCC068CAD7",
+        "sha256": "C550797EBC50D59001EE73730F9F30CA8C035FF407315198652E5ACFCCF21D58"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 56389660,
+    "release_date": "2021-08-10T02:43:10Z",
+    "x_generated_by": "netkan"
+}

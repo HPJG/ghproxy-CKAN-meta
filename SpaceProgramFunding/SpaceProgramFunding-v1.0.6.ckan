@@ -9,9 +9,9 @@
     "ksp_version_max": "1.7.99",
     "license": "MIT",
     "resources": {
-        "homepage": "https://ghproxy.net/https://github.com/JoeBostic/SpaceProgramFunding/wiki",
-        "repository": "https://ghproxy.net/https://github.com/JoeBostic/SpaceProgramFunding",
-        "bugtracker": "https://ghproxy.net/https://github.com/JoeBostic/SpaceProgramFunding/issues",
+        "homepage": "https://hk.gh-proxy.com/https://github.com/JoeBostic/SpaceProgramFunding/wiki",
+        "repository": "https://hk.gh-proxy.com/https://github.com/JoeBostic/SpaceProgramFunding",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/JoeBostic/SpaceProgramFunding/issues",
         "remote-avc": "https://raw.githubusercontent.com/JoeBostic/SpaceProgramFunding/master/GameData/SpaceProgramFunding/SpaceProgramFunding.version"
     },
     "tags": [
@@ -28,7 +28,7 @@
             "name": "MonthlyBudgets"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/JoeBostic/SpaceProgramFunding/releases/download/v1.0.6/SpaceProgramFunding-1.0.6.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/JoeBostic/SpaceProgramFunding/releases/download/v1.0.6/SpaceProgramFunding-1.0.6.zip",
     "download_size": 44800,
     "download_hash": {
         "sha1": "4FB475F286E4A596C0F25D987DB381EA5D42354A",

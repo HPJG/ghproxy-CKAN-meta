@@ -1,0 +1,30 @@
+{
+    "spec_version": 1,
+    "identifier": "CameraFocusChanger",
+    "name": "Camera Focus Changer",
+    "abstract": "A plugin that lets you change the focus of the camera by pressing 'o' when hovering a part.",
+    "author": "linuxgurugamer",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/169044-*",
+        "spacedock": "https://spacedock.info/mod/1625/Refocused%20Camera%20Focus%20Changer",
+        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/camerafocuschanger",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Refocused_Camera_Focus_Changer/Refocused_Camera_Focus_Changer-1514602784.3345923.jpg"
+    },
+    "version": "1:1.0.4.2",
+    "ksp_version_min": "1.5.1",
+    "ksp_version_max": "1.6.1",
+    "suggests": [
+        {
+            "name": "KSP-AVC"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1625/Refocused%20Camera%20Focus%20Changer/download/1.0.4.2",
+    "download_size": 26747,
+    "download_hash": {
+        "sha1": "FF5A47BBB739C8F78660847AD4906DF787F200AD",
+        "sha256": "1B4F245BF03368A8DD31B366BDEBCAE79549A2CD14B0830B7C2AD62D1ECFA5BB"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

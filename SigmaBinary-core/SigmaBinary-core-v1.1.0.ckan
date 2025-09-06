@@ -6,7 +6,7 @@
     "author": "Sigma88",
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/Sigma88/Sigma-Binary"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Sigma88/Sigma-Binary"
     },
     "version": "v1.1.0",
     "ksp_version": "1.0.4",
@@ -29,7 +29,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Sigma88/Sigma-Binary/releases/download/v1.1.0/SigmaBinary.v1.1.0.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Sigma88/Sigma-Binary/releases/download/v1.1.0/SigmaBinary.v1.1.0.zip",
     "download_size": 16975,
     "download_hash": {
         "sha1": "D522D8AE83D63C021D428AD86C1308DF4605DE74",

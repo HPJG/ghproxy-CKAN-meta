@@ -9,9 +9,9 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/184875-*/",
-        "repository": "https://ghproxy.net/https://github.com/JadeOfMaar/RationalResources",
-        "bugtracker": "https://ghproxy.net/https://github.com/JadeOfMaar/RationalResources/issues",
-        "discussions": "https://ghproxy.net/https://github.com/JadeOfMaar/RationalResources/discussions",
+        "repository": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/RationalResources",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/RationalResources/issues",
+        "discussions": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/RationalResources/discussions",
         "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/RationalResources/master/GameData/RationalResources/Version/RationalResources.version"
     },
     "tags": [
@@ -35,7 +35,7 @@
             "name": "RealFuels"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/JadeOfMaar/RationalResources/releases/download/3.3.2/RationalResources-3.3.2.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/RationalResources/releases/download/3.3.2/RationalResources-3.3.2.zip",
     "download_size": 38997723,
     "download_hash": {
         "sha1": "81AF337C2AA74F9B3DC29EAF19D1A3DAC119A610",

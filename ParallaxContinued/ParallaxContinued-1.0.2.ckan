@@ -9,8 +9,8 @@
     "license": "restricted",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/227476-*",
-        "repository": "https://ghproxy.net/https://github.com/Gameslinx/Parallax-Continued",
-        "bugtracker": "https://ghproxy.net/https://github.com/Gameslinx/Parallax-Continued/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Gameslinx/Parallax-Continued",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Gameslinx/Parallax-Continued/issues"
     },
     "tags": [
         "plugin",
@@ -59,7 +59,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Gameslinx/Parallax-Continued/releases/download/1.0.2/ParallaxContinued-1.0.2.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Gameslinx/Parallax-Continued/releases/download/1.0.2/ParallaxContinued-1.0.2.zip",
     "download_size": 24932791,
     "download_hash": {
         "sha1": "E0F52369F2F03979331D1BD4E6789274544E79B4",

@@ -8,8 +8,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/224480-181-1122-rss-adapter/",
-        "repository": "https://ghproxy.net/https://github.com/Globul-Art/RSS_Adapter",
-        "bugtracker": "https://ghproxy.net/https://github.com/Globul-Art/RSS_Adapter/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/Globul-Art/RSS_Adapter",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Globul-Art/RSS_Adapter/issues"
     },
     "tags": [
         "config",
@@ -83,7 +83,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/Globul-Art/RSS_Adapter/releases/download/v0.3.9/RSS_Adapter_0.3.9.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/Globul-Art/RSS_Adapter/releases/download/v0.3.9/RSS_Adapter_0.3.9.zip",
     "download_size": 42209,
     "download_hash": {
         "sha1": "81C85C65B6F28DD64A1996257FC3DC13ADA078EC",

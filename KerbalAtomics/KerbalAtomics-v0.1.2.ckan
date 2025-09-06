@@ -6,7 +6,7 @@
     "author": "ChrisAdderley",
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
-        "repository": "https://ghproxy.net/https://github.com/ChrisAdderley/KerbalAtomics"
+        "repository": "https://hk.gh-proxy.com/https://github.com/ChrisAdderley/KerbalAtomics"
     },
     "version": "v0.1.2",
     "ksp_version": "1.0.5",
@@ -58,7 +58,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://ghproxy.net/https://github.com/ChrisAdderley/KerbalAtomics/releases/download/0.1.2/KerbalAtomics0_1_2.zip",
+    "download": "https://hk.gh-proxy.com/https://github.com/ChrisAdderley/KerbalAtomics/releases/download/0.1.2/KerbalAtomics0_1_2.zip",
     "download_size": 19964067,
     "download_hash": {
         "sha1": "BAD637C5FEEE2C1EB30A1FFF0E7A258A39C21C0F",

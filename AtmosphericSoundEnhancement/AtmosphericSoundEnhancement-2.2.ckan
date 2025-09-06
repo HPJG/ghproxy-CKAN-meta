@@ -10,8 +10,8 @@
     "license": "GPL-2.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/51558-*",
-        "repository": "https://ghproxy.net/https://github.com/pizzaoverhead/AtmosphericSoundEnhancement",
-        "bugtracker": "https://ghproxy.net/https://github.com/pizzaoverhead/AtmosphericSoundEnhancement/issues"
+        "repository": "https://hk.gh-proxy.com/https://github.com/pizzaoverhead/AtmosphericSoundEnhancement",
+        "bugtracker": "https://hk.gh-proxy.com/https://github.com/pizzaoverhead/AtmosphericSoundEnhancement/issues"
     },
     "tags": [
         "plugin",
