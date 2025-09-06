@@ -1,0 +1,23 @@
+{
+    "spec_version": 1,
+    "identifier": "SpiceLaunchSystem",
+    "name": "Spice Launch System",
+    "abstract": "Spice Launch System",
+    "author": "maccollo",
+    "license": "WTFPL",
+    "resources": {
+        "kerbalstuff": "https://kerbalstuff.com/mod/635/Spice%20Launch%20System",
+        "x_screenshot": "https://kerbalstuff.com/content/maccollo_7896/Spice_Launch_System/Spice_Launch_System-1439517533.9617918.png"
+    },
+    "version": "0.6",
+    "ksp_version": "1.0.4",
+    "download": "https://archive.org/download/SpiceLaunchSystem-0.6/BD937426-SpiceLaunchSystem-0.6.zip",
+    "download_size": 20032584,
+    "download_hash": {
+        "sha1": "BD937426E1B33D05B3E8652463D270E9270D01DE",
+        "sha256": "92831C559EFD81A2B714E613FCB9BE32DFF5CAA686941D2487A0A2DD9B353A2E"
+    },
+    "download_content_type": "application/zip",
+    "x_via": "Automated KerbalStuff CKAN submission",
+    "x_generated_by": "netkan"
+}

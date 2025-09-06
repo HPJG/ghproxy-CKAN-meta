@@ -1,0 +1,34 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "Sentinel",
+    "name": "Sentinel Memory Monitoring Utility",
+    "abstract": "Lightweight utility for monitoring memory and producing internal and user notifications at custom usage levels.",
+    "author": "Zeenobit",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/118928",
+        "repository": "https://ghproxy.net/https://github.com/Zeenobit/Sentinel",
+        "kerbalstuff": "https://kerbalstuff.com/mod/736/Sentinel%20Memory%20Monitoring%20Utility"
+    },
+    "version": "0.3",
+    "ksp_version": "1.0.2",
+    "conflicts": [
+        {
+            "name": "GCMonitor"
+        }
+    ],
+    "install": [
+        {
+            "find": "KSEA",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/Sentinel-0.3/B425B297-Sentinel-0.3.zip",
+    "download_size": 52180,
+    "download_hash": {
+        "sha1": "B425B297936CDD2F2EBFF36CF30D31897F59BB5C",
+        "sha256": "46C1C16AA43B8BBBF2B60FE63BE32ED077A4DB37585A2D2124083B60F0D4251E"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

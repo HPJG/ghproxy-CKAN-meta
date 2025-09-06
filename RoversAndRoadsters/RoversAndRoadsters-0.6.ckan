@@ -1,0 +1,38 @@
+{
+    "spec_version": "v1.4",
+    "comment": "Common assets in KashCorpSA virtual mod, based off KAP zip",
+    "identifier": "RoversAndRoadsters",
+    "name": "Rovers And Roadsters",
+    "abstract": "New parts for rovers and other ground vehicles.",
+    "author": "AlphaAsh",
+    "license": "BSD-3-clause",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/87546-0-24-Rovers-And-Roadsters-v0-1-New-Parts-for-Small-Ground-Vehicles",
+        "kerbalstuff": "https://kerbalstuff.com/mod/94/Rovers%20And%20Roadsters"
+    },
+    "version": "0.6",
+    "ksp_version": "1.0.4",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "KashCorpSA"
+        }
+    ],
+    "install": [
+        {
+            "find": "RoversAndRoadsters",
+            "install_to": "GameData/KashCorp"
+        }
+    ],
+    "download": "https://archive.org/download/RoversAndRoadsters-0.6/DC4EE80C-RoversAndRoadsters-0.6.zip",
+    "download_size": 1442886,
+    "download_hash": {
+        "sha1": "DC4EE80CCA80A9FF975EC2BF0CBCB9A07BB6C099",
+        "sha256": "6C113CA4F233D578737E2845D6B7595D394C7DC96C261D6B9627166F41E57F19"
+    },
+    "download_content_type": "application/zip",
+    "x_screenshot": "https://kerbalstuff.com/content/AlphaAsh_302/Rovers_And_Roadsters/Rovers_And_Roadsters.jpg",
+    "x_generated_by": "netkan"
+}

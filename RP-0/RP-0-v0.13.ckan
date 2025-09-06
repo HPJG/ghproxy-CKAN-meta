@@ -1,0 +1,80 @@
+{
+    "spec_version": 1,
+    "identifier": "RP-0",
+    "name": "Realistic Progression Zero",
+    "abstract": "Realistic Progression Zero - The lightweight Realism Overhaul tech tree",
+    "author": "RP-0 Group",
+    "license": "CC-BY-4.0",
+    "resources": {
+        "repository": "https://ghproxy.net/https://github.com/KSP-RO/RP-0"
+    },
+    "version": "v0.13",
+    "ksp_version": "0.90",
+    "provides": [
+        "FinePrint-Config"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RealismOverhaul",
+            "max_version": "v15.99.0.0"
+        },
+        {
+            "name": "SXT"
+        },
+        {
+            "name": "ProceduralFairings"
+        },
+        {
+            "name": "CommunityTechTree"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "ProceduralDynamics"
+        },
+        {
+            "name": "TweakScale"
+        },
+        {
+            "name": "ProceduralParts"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "FinePrint-Config"
+        },
+        {
+            "name": "ROCapsules",
+            "min_version": "v2.0.0.0"
+        },
+        {
+            "name": "ROEngines",
+            "min_version": "v2.0.0.0"
+        },
+        {
+            "name": "ROSolar",
+            "min_version": "v2.0.0.0"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/RP-0",
+            "install_to": "GameData"
+        },
+        {
+            "file": "GameData/FinePrint",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/KSP-RO/RP-0/releases/download/v0.13/RP-0-v0.13.zip",
+    "download_size": 40798,
+    "download_hash": {
+        "sha1": "3093E2E986B191CDB39342C65205CE02415948A2",
+        "sha256": "9A334304373A6B79442B89B6D6F560BA28A05CBABDC925DA1918D373AF4483E1"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

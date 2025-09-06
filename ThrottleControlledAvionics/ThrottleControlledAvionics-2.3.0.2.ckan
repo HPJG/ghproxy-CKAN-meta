@@ -1,0 +1,34 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "ThrottleControlledAvionics",
+    "name": "Throttle Controlled Avionics",
+    "abstract": "Realtime engine balancing, precise hovering control and VTOL autopiloting.",
+    "author": "allista",
+    "license": "CC-BY-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/97154-throttle-controlled-avionics-2302-105-continued",
+        "spacedock": "https://spacedock.info/mod/198/Throttle%20Controlled%20Avionics",
+        "repository": "https://ghproxy.net/https://github.com/qfeys/ThrottleControlledAvionics",
+        "bugtracker": "https://ghproxy.net/https://github.com/qfeys/ThrottleControlledAvionics/issues",
+        "x_screenshot": "https://spacedock.info/content/allista_931/Throttle_Controlled_Avionics/Throttle_Controlled_Avionics-1455987208.8846784.png"
+    },
+    "version": "2.3.0.2",
+    "ksp_version_min": "1.0.4",
+    "ksp_version_max": "1.0.5",
+    "suggests": [
+        {
+            "name": "KSP-AVC"
+        },
+        {
+            "name": "Toolbar"
+        }
+    ],
+    "download": "https://spacedock.info/mod/198/Throttle%20Controlled%20Avionics/download/2.3.0.2",
+    "download_size": 41187,
+    "download_hash": {
+        "sha1": "87970DDDC830E34519FF45A1C0085B6CA8D7B0CF",
+        "sha256": "93013F0A12839A09CD4BA070A406D837E9FED32551F806D85036A4FE922188A0"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

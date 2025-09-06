@@ -1,0 +1,58 @@
+{
+    "spec_version": 1,
+    "identifier": "NAS",
+    "name": "NAS - Naval Artillery System",
+    "abstract": "A BDArmory addon, replicas of WWII naval & anti-naval weapons.",
+    "author": "Acea",
+    "version": "1:v0.7.0",
+    "ksp_version_min": "1.2.9",
+    "ksp_version_max": "1.4.3",
+    "license": "CC-BY-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/118521-*",
+        "spacedock": "https://spacedock.info/mod/83/NAS%20-%20Naval%20Artillery%20System",
+        "repository": "https://ghproxy.net/https://github.com/SummerFirefly/ASW",
+        "remote-avc": "https://raw.githubusercontent.com/snjo/Firespitter/master/For%20release/Firespitter/Firespitter.version",
+        "x_screenshot": "https://spacedock.info/content/Acea_282/NAS_-_Naval_Artillery_System/NAS_-_Naval_Artillery_System-1524923799.0690284.png"
+    },
+    "tags": [
+        "parts",
+        "combat"
+    ],
+    "localizations": [
+        "zh-cn",
+        "en-us",
+        "es-es",
+        "es-mx",
+        "ja",
+        "ru"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "BDArmoryContinued"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "HangarExtender"
+        },
+        {
+            "name": "KerbalJointReinforcement"
+        },
+        {
+            "name": "LargeBoatPartsPack"
+        }
+    ],
+    "download": "https://spacedock.info/mod/83/NAS%20-%20Naval%20Artillery%20System/download/0.7.0",
+    "download_size": 64781203,
+    "download_hash": {
+        "sha1": "D8627DCFE0DFFF21E818147FDCEAFB072C639ACA",
+        "sha256": "94BD6789B82A8E28E09107D4177B28BAD8E2FBA3D346BCBD86B2A6483EECF1A5"
+    },
+    "download_content_type": "application/zip",
+    "release_date": "2018-04-28T15:52:25.849683+00:00",
+    "x_generated_by": "netkan"
+}

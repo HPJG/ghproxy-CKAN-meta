@@ -1,0 +1,42 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "NetherdyneRnD",
+    "name": "Netherdyne Research and Development",
+    "abstract": "Preview the future of Kerbal kind",
+    "author": "MichaelHester07",
+    "license": "CC-BY-4.0",
+    "resources": {
+        "kerbalstuff": "https://kerbalstuff.com/mod/659/Netherdyne%20Research%20and%20Development",
+        "x_screenshot": "https://kerbalstuff.com/content/MichaelHester07_7729/Netherdyne_Research_and_Development/Netherdyne_Research_and_Development-1427413513.3736691.png"
+    },
+    "version": "0.11.1",
+    "ksp_version": "0.90.0",
+    "depends": [
+        {
+            "name": "CivilianPopulation"
+        },
+        {
+            "name": "Regolith"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "HangarExtender"
+        }
+    ],
+    "install": [
+        {
+            "file": "NetherdyneRnD/GameData/NetherdyneRnD",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/NetherdyneRnD-0.11.1/2E8F7340-NetherdyneRnD-0.11.1.zip",
+    "download_size": 23359990,
+    "download_hash": {
+        "sha1": "2E8F7340BA33B024FA1DB67072D5F16B392367AE",
+        "sha256": "002935BEFAC282B3B808AD5005AE03C21923DEEC503553DF40B209F7CE5ABA25"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

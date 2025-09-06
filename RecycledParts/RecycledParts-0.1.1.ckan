@@ -1,0 +1,93 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "RecycledParts",
+    "name": "Recycled Parts",
+    "abstract": "Old mods recycled",
+    "author": "linuxgurugamer",
+    "license": "restricted",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/164829-13-spacetux-industries-recycled-parts/",
+        "spacedock": "https://spacedock.info/mod/1507/Recycled%20Parts",
+        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/RecycledParts"
+    },
+    "version": "0.1.1",
+    "ksp_version": "1.3.1",
+    "provides": [
+        "RecycledPartsAtomicAge",
+        "RecycledPartsMk2Lightning",
+        "RecycledPartsSpareParts",
+        "RecycledPartskal9000",
+        "RecycledPartsFarscape",
+        "RecycledPartsMk2KISContainers",
+        "RecycledPartsMk2Essentials"
+    ],
+    "depends": [
+        {
+            "name": "B9-props"
+        },
+        {
+            "name": "KSPWheel"
+        },
+        {
+            "name": "PatchManager"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "CommunityTechTree"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "JanitorsCloset"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "AtomicAge"
+        },
+        {
+            "name": "RecycledPartsAtomicAge"
+        },
+        {
+            "name": "RecycledPartsMk2Lightning"
+        },
+        {
+            "name": "kal9000"
+        },
+        {
+            "name": "RecycledPartskal9000"
+        },
+        {
+            "name": "Farscape"
+        },
+        {
+            "name": "RecycledPartsFarscape"
+        },
+        {
+            "name": "Mk2Essentials"
+        }
+    ],
+    "install": [
+        {
+            "install_to": "GameData",
+            "find": "SpaceTuxIndustries"
+        },
+        {
+            "install_to": "Ships",
+            "find": "SPH"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1507/Recycled%20Parts/download/0.1.1",
+    "download_size": 13077464,
+    "download_hash": {
+        "sha1": "B1E094DEF030CCE1C3B2C749980CD8E4B1C49F37",
+        "sha256": "2758ABEE02C5EA7FD358EE304280306D03ADFBDABF1B070D6D2B7940242B7999"
+    },
+    "download_content_type": "application/zip",
+    "x_via": "Automated Linuxgurugamer CKAN script",
+    "x_generated_by": "netkan"
+}

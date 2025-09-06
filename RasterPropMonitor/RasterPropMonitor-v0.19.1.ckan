@@ -1,0 +1,53 @@
+{
+    "spec_version": 1,
+    "comment": "This package contains the stock IVA patches and the JSI agency.",
+    "identifier": "RasterPropMonitor",
+    "name": "RasterPropMonitor",
+    "abstract": "Makes Stock IVAs more interactive.",
+    "author": [
+        "MOARdV",
+        "Mihara"
+    ],
+    "license": "GPL-3.0",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/117471",
+        "repository": "https://ghproxy.net/https://github.com/Mihara/RasterPropMonitor",
+        "manual": "https://ghproxy.net/https://github.com/Mihara/RasterPropMonitor/wiki"
+    },
+    "version": "v0.19.1",
+    "ksp_version": "1.0.0",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RasterPropMonitor-Core"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "VesselView-RasterPropMonitor"
+        },
+        {
+            "name": "SCANsat"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/JSI",
+            "filter": [
+                "RasterPropMonitor"
+            ],
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/Mihara/RasterPropMonitor/releases/download/v0.19.1/RasterPropMonitor.0.19.1.zip",
+    "download_size": 593566,
+    "download_hash": {
+        "sha1": "4A0E6B86E3CAD11983B3A1AF9AC2C4FC534C49C0",
+        "sha256": "284932C9A3E8B6E7200557F5B8E2820EABAF72B16507E80D8868A3FBAF974962"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

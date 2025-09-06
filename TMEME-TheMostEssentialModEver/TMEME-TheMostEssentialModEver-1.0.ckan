@@ -1,0 +1,38 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "TMEME-TheMostEssentialModEver",
+    "name": "T-MEME (The most essential mod ever)",
+    "abstract": "Adds spectacular and awe-inspiring vapor, gently trailing from your vessel while you wait for launch. Must-have for screenshots.",
+    "author": "peterbrucegoddard",
+    "version": "1.0",
+    "ksp_version": "1.0.5",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/132790-t-meme-wispy-vapour-trails-now-with-added-ambiance/",
+        "spacedock": "https://spacedock.info/mod/250/T-MEME%20(The%20most%20essential%20mod%20ever)",
+        "x_screenshot": "https://spacedock.info/content/peterbrucegoddard_690/T-MEME_The_most_essential_mod_ever/T-MEME_The_most_essential_mod_ever-1456251988.827793.png"
+    },
+    "tags": [
+        "plugin",
+        "graphics"
+    ],
+    "install": [
+        {
+            "file": "PGParts",
+            "install_to": "GameData",
+            "filter": [
+                "source",
+                ".DS_Store"
+            ]
+        }
+    ],
+    "download": "https://spacedock.info/mod/250/T-MEME%20%28The%20most%20essential%20mod%20ever%29/download/1.0",
+    "download_size": 315636,
+    "download_hash": {
+        "sha1": "C0E7B4E52D434B8234F884B29F901FEB58A053F9",
+        "sha256": "9E8F0305F8FFA975497680C3EAE7C8CB803AC5A999F9D7F855CF90432FE15EB7"
+    },
+    "download_content_type": "application/zip",
+    "release_date": "2016-02-23T19:19:37.618787+00:00",
+    "x_generated_by": "netkan"
+}

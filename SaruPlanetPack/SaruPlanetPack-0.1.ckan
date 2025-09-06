@@ -1,0 +1,50 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "SaruPlanetPack",
+    "name": "Saru Planet Pack",
+    "abstract": "This mod adds 1 new planet with 4 interesting moons.",
+    "author": "tygoo7",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/119263-wip105-saru-planet-pack-v01/",
+        "spacedock": "https://spacedock.info/mod/224/Saru%20Planet%20Pack",
+        "x_screenshot": "https://spacedock.info/content/tygoo7_912/Saru_Planet_Pack/Saru_Planet_Pack-1456100143.543848.png"
+    },
+    "version": "0.1",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus",
+            "min_version": "1:beta-05-2"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "BilliardsPlanetPack"
+        },
+        {
+            "name": "RealSolarSystem"
+        },
+        {
+            "name": "ToySolarSystem"
+        }
+    ],
+    "install": [
+        {
+            "find": "SaruPack",
+            "install_to": "GameData",
+            "filter": "Thumbs.db"
+        }
+    ],
+    "download": "https://spacedock.info/mod/224/Saru%20Planet%20Pack/download/0.1",
+    "download_size": 42584348,
+    "download_hash": {
+        "sha1": "7E07BB34390065C5F43E79BE362A71F22BE6DA40",
+        "sha256": "4FD48F26B0CEFCF2A53106E602C018839F54167DB443871F1DC64187576DFBA3"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,38 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "USI-NuclearRockets",
+    "name": "Nuclear Rockets",
+    "abstract": "A set of Nuclear Pulse Engines including the Orion and Medusa",
+    "author": "Roverdude",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/135061",
+        "kerbalstuff": "https://kerbalstuff.com/mod/1175/Nuclear%20Rockets",
+        "x_screenshot": "https://kerbalstuff.com/content/Roverdude_9553/Nuclear_Rockets/Nuclear_Rockets-1443379056.8854012.png"
+    },
+    "version": "0.1.0.1",
+    "ksp_version_min": "1.0.0",
+    "ksp_version_max": "1.0.4",
+    "depends": [
+        {
+            "name": "USI-Tools"
+        },
+        {
+            "name": "USI-Core"
+        }
+    ],
+    "install": [
+        {
+            "find": "UmbraSpaceIndustries/Orion",
+            "install_to": "GameData/UmbraSpaceIndustries"
+        }
+    ],
+    "download": "https://archive.org/download/USI-NuclearRockets-0.1.0.1/580B036A-USI-NuclearRockets-0.1.0.1.zip",
+    "download_size": 6816138,
+    "download_hash": {
+        "sha1": "580B036AAED86E47209281D3EC04E9C754A70A95",
+        "sha256": "CCB1C5A2BD39D4908A789DAA58E2917439338B16ABA3101923ED44A5AD8132B4"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,30 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "SpecialMissionProjects",
+    "name": "Special Mission Projects",
+    "abstract": "This mod is made up with tweaked parts to be more useful such as adding more fuel in tanks, more powerful batteries, self refueling parts that are faster and use alot less resources than the stock parts, new types of fuel. In SMP you get new ships with each update that use SMP parts.",
+    "author": "Reason",
+    "license": "unrestricted",
+    "resources": {
+        "homepage": "https://www.youtube.com/channel/UCF-8rQVemoyDN8HdNZ908YA?view_as=subscriber",
+        "spacedock": "https://spacedock.info/mod/1238/Special%20Mission%20Projects",
+        "x_screenshot": "https://spacedock.info/content/Reason_7535/Special_Mission_Projects/Special_Mission_Projects-1488685248.1649742.png"
+    },
+    "version": "8.0",
+    "ksp_version": "1.5.1",
+    "install": [
+        {
+            "install_to": "GameData",
+            "find": "SMP"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1238/Special%20Mission%20Projects/download/V8.0",
+    "download_size": 8361294,
+    "download_hash": {
+        "sha1": "2F647E5E0E01FE0939167249F721268C55E38F0E",
+        "sha256": "FD39A1F2DBF51DC604C7C7F21371A5EA60BF6D61A0BACCB18720009B586A9712"
+    },
+    "download_content_type": "application/zip",
+    "x_via": "Automated Linuxgurugamer CKAN script",
+    "x_generated_by": "netkan"
+}

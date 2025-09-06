@@ -1,0 +1,42 @@
+{
+    "spec_version": 1,
+    "identifier": "WernhersOldBits",
+    "name": "Wernher's Old Bits",
+    "abstract": "Old rocket parts from the dawn of the rocket age, back during kerbals Komplete Konflict II.  Wernher von Kerben's legacy.",
+    "author": "TiktaalikDreaming",
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/127413-wip-german-wwii-rockets-including-never-built-absurdities/",
+        "kerbalstuff": "https://kerbalstuff.com/mod/1345/Wernher's%20Old%20Bits",
+        "x_screenshot": "https://kerbalstuff.com/content/TiktaalikDreaming_7164/Wernhers_Old_Bits/Wernhers_Old_Bits-1450213451.1508806.png"
+    },
+    "version": "0.5",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "RealPlume"
+        }
+    ],
+    "install": [
+        {
+            "file": "WernhersOldStuff",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/WernhersOldBits-0.5/C3184EA1-WernhersOldBits-0.5.zip",
+    "download_size": 1144768,
+    "download_hash": {
+        "sha1": "C3184EA19273546E2171949B34AE4388F4F1ECC3",
+        "sha256": "60AC0AB2F2D5845D06B6DCC463A9F9A965DA1FC50A9DD6A24532A44EAD56A892"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

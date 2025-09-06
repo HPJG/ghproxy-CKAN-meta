@@ -1,0 +1,31 @@
+{
+    "spec_version": 1,
+    "identifier": "NavBallTextureExport",
+    "name": "Navball Texture Changer",
+    "abstract": "Replace stock navball texture with something better!",
+    "description": "You can replace default navball texture (GameData/NavBallTextureExport/navball.png) with one of this: http://bit.ly/navballs",
+    "author": "xEvilReeperx",
+    "license": "MIT",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/63113-making-high-contrast-nav-ball/&do=findComment&comment=959807",
+        "repository": "https://bitbucket.org/xEvilReeperx/ksp_navballtexturechanger"
+    },
+    "version": "1.3",
+    "ksp_version_min": "0.24",
+    "ksp_version_max": "1.0.99",
+    "install": [
+        {
+            "file": "GameData/NavBallTextureExport",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://bitbucket.org/xEvilReeperx/ksp_navballtexturechanger/downloads/KSP-0.24-NavballChanger-v.1.3.zip",
+    "download_size": 86852,
+    "download_hash": {
+        "sha1": "CE83304A0DC1A3B6EB99BF70BFAD70B946CA9843",
+        "sha256": "614631208D0AFDDB605D3775E4941BC67310B1FC2D118B6BA713E8EBD6E11332"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

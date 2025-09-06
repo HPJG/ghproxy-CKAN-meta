@@ -1,0 +1,36 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "SigmaPluronKhato",
+    "name": "Sigma: PluronKhato",
+    "abstract": "This mod will add a Kerbal analogue to the Pluto-Charon system.",
+    "author": "Sigma88",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/112095",
+        "repository": "https://ghproxy.net/https://github.com/Sigma88/Sigma-PluronKhato"
+    },
+    "version": "v1.1.0",
+    "ksp_version": "1.0.4",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "install": [
+        {
+            "find": "PluronKhato",
+            "install_to": "GameData/Sigma"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/Sigma88/Sigma-PluronKhato/releases/download/v1.1.0/Sigma-PluronKhato.v1.1.0.zip",
+    "download_size": 2752224,
+    "download_hash": {
+        "sha1": "383FB4E149349CED06F60E630A35A616188FA504",
+        "sha256": "EBB6642FC390CCAAAB8A0E6135B92D13F52F58DDF629DF3EF0D3BD4BB89CA012"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

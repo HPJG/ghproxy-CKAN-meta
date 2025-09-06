@@ -1,0 +1,30 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "ShipEffects",
+    "name": "ShipEffects Sound Mod",
+    "abstract": "Dynamic IVA Sound Effects, add drama to your IVAs and hear your ship's fuselage Shake, Rattle and Rumble !",
+    "author": "ensouensou",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/114618-0-90-ShipEffects-Sound-Mod-Dynamic-IVA-Sound-Effects-v0-1-2?p=1817770#post1817770",
+        "kerbalstuff": "https://kerbalstuff.com/mod/680/ShipEffects%20Sound%20Mod",
+        "x_screenshot": "https://kerbalstuff.com/content/ensouensou_8502/ShipEffects_Sound_Mod/ShipEffects_Sound_Mod-1428066483.69439.png"
+    },
+    "version": "0.2.6-hotfix",
+    "ksp_version": "0.90.0",
+    "install": [
+        {
+            "find": "ShipEffects",
+            "install_to": "GameData",
+            "filter": "Source"
+        }
+    ],
+    "download": "https://archive.org/download/ShipEffects-0.2.6-hotfix/1D013FC3-ShipEffects-0.2.6-hotfix.zip",
+    "download_size": 13112431,
+    "download_hash": {
+        "sha1": "1D013FC33B182C8B643E9111BE1C1AA3A62F8CFE",
+        "sha256": "8C44BC532DE9BE1CF3F86B15C79CCA3FE71DF939132300CAC37CD99272C4AEF6"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

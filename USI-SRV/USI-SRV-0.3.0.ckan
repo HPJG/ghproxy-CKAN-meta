@@ -1,0 +1,47 @@
+{
+    "spec_version": 1,
+    "identifier": "USI-SRV",
+    "name": "USI Survival Pack",
+    "abstract": "Deployable Emergency Reentry Pod (DERP)",
+    "author": "RoverDude",
+    "license": "CC-BY-NC-SA",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/84359",
+        "repository": "https://ghproxy.net/https://github.com/UmbraSpaceIndustries/SrvPack"
+    },
+    "version": "0.3.0",
+    "ksp_version": "1.0",
+    "depends": [
+        {
+            "name": "FirespitterCore",
+            "min_version": "7.0.5398.27328"
+        },
+        {
+            "name": "ModuleManager",
+            "min_version": "2.5.1"
+        },
+        {
+            "name": "USITools",
+            "min_version": "0.3.0"
+        },
+        {
+            "name": "CommunityResourcePack",
+            "min_version": "0.3.1"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/UmbraSpaceIndustries",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/UmbraSpaceIndustries/SrvPack/releases/download/0.3.0/SrvPack_0.3.0.zip",
+    "download_size": 2866882,
+    "download_hash": {
+        "sha1": "5F4B6DB9418D1847773350EFBAC5E40EA05C2EF6",
+        "sha256": "36B89EDB09F1A9E4E835316CA17E7604A0807EE0FE899A256BF3DFFC1042D366"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

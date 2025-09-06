@@ -1,0 +1,42 @@
+{
+    "spec_version": "v1.34",
+    "identifier": "PlanesWithPurposes",
+    "name": "PWP",
+    "abstract": "Planes With Purposes",
+    "author": "TudorAerospace",
+    "version": "1.5.2",
+    "license": "MIT",
+    "resources": {
+        "repository": "https://ghproxy.net/https://github.com/TudorAerospace/PWP",
+        "bugtracker": "https://ghproxy.net/https://github.com/TudorAerospace/PWP/issues"
+    },
+    "tags": [
+        "career",
+        "flags",
+        "agency"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ContractConfigurator"
+        }
+    ],
+    "install": [
+        {
+            "find": "ContractPacks",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/TudorAerospace/PWP/releases/download/1.5.2/PWP.1.5.2.zip",
+    "download_size": 214430,
+    "download_hash": {
+        "sha1": "6739470FE2E26FDA9C14A95B027D70AED8AB0685",
+        "sha256": "3A8D965D7B1EAA63B8C28452A63192F923C0E33008311B5FF4768EF535C1B35F"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 250793,
+    "release_date": "2024-04-15T20:33:31Z",
+    "x_generated_by": "netkan"
+}

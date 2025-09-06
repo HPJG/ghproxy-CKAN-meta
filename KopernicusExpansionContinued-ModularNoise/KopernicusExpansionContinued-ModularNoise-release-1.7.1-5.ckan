@@ -1,0 +1,42 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "KopernicusExpansionContinued-ModularNoise",
+    "name": "Kopernicus Expansion Continued - Modular Noise",
+    "abstract": "A partially continuation of KopernicusExpansion by Mr. HappyFace",
+    "author": [
+        "MrHappyFace",
+        "StollD"
+    ],
+    "version": "release-1.7.1-5",
+    "ksp_version": "1.7",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/119211-*",
+        "repository": "https://ghproxy.net/https://github.com/StollD/KopernicusExpansion-Continued",
+        "bugtracker": "https://ghproxy.net/https://github.com/StollD/KopernicusExpansion-Continued/issues"
+    },
+    "tags": [
+        "plugin",
+        "graphics"
+    ],
+    "depends": [
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "install": [
+        {
+            "find": "KopernicusExpansion",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/StollD/KopernicusExpansion-Continued/releases/download/release-1.7.1-5/KEX-ModularNoise-1.7.1-5.zip",
+    "download_size": 5094,
+    "download_hash": {
+        "sha1": "78BB8F4300B50422E489BDB3910D552C81161082",
+        "sha256": "FE675E3801507E4282498CD92D3B17074C4197AE38C5B08A1F0D6EE7CC18AA5B"
+    },
+    "download_content_type": "application/zip",
+    "release_date": "2019-06-08T18:04:18Z",
+    "x_generated_by": "netkan"
+}

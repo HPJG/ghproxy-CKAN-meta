@@ -1,0 +1,33 @@
+{
+    "spec_version": 1,
+    "identifier": "NanoGauges",
+    "name": "NanoGauges",
+    "abstract": "tiny analog gauges",
+    "author": "Nereid",
+    "license": "CC-BY-SA-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/84409-0-90-0-NanoGauges-tiny-ana1og-gauges-for-kerbalnauts-0-5-21-236",
+        "kerbalstuff": "https://kerbalstuff.com/mod/429/NanoGauges"
+    },
+    "version": "0.5.27-682",
+    "ksp_version": "0.90",
+    "recommends": [
+        {
+            "name": "Toolbar"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/Nereid",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/NanoGauges-0.5.27-682/D0EE5F8D-NanoGauges-0.5.27-682.zip",
+    "download_size": 1279768,
+    "download_hash": {
+        "sha1": "D0EE5F8DF7368D8F4AA72ADD8E4654604E8C98AF",
+        "sha256": "72B9FBC71143EFE3FEFE076858EE1368DCE950C8617384971F61CE9E017AC9EA"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

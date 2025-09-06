@@ -1,0 +1,62 @@
+{
+    "spec_version": "v1.31",
+    "identifier": "RP-1-ExpressInstall",
+    "name": "Realistic Progression One (RP-1) Express Install",
+    "abstract": "Express Installation for RP-1, Realism Overhaul, Real Solar System etc. Select only this mod and hit apply, CKAN will guide you through the rest.",
+    "author": "KSP-RO Group",
+    "version": "v1.0",
+    "ksp_version_min": "1.10.1",
+    "ksp_version_max": "1.12.99",
+    "license": "CC-BY-NC-SA",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/190040-*",
+        "repository": "https://ghproxy.net/https://github.com/KSP-RO/RP-0",
+        "bugtracker": "https://ghproxy.net/https://github.com/KSP-RO/RP-0/issues",
+        "manual": "https://ghproxy.net/https://github.com/KSP-RO/RP-0/wiki",
+        "metanetkan": "https://ghproxy.net/https://github.com/KSP-RO/RP-1-ExpressInstall/raw/main/RP-1-ExpressInstall.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/KSP-RO/RP-1-ExpressInstall/main/GameData/RP-1-ExpressInstall/RP-1-ExpressInstall.version"
+    },
+    "tags": [
+        "plugin",
+        "config",
+        "parts",
+        "career",
+        "science",
+        "planet-pack",
+        "resources",
+        "graphics"
+    ],
+    "depends": [
+        {
+            "name": "RP-1-ExpressInstall-Graphics",
+            "choice_help_text": "Select your graphics level. Low graphics will function on 8GB of RAM and requires the least powerful computer. Medium graphics looks better, but needs 16GB of RAM and a GTX 970/R9 390 or better. High graphics is best with 24GB+ (but might function on 16GB) and needs more modern graphics hardware (GTX 1070+/RX 5600+)."
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "EditorExtensionsRedux"
+        },
+        {
+            "name": "KerbalAlarmClock"
+        },
+        {
+            "name": "TransferWindowPlannerFork"
+        },
+        {
+            "name": "LunarTransferPlanner"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/KSP-RO/RP-1-ExpressInstall/releases/download/v1.0/RP-1-ExpressInstall.zip",
+    "download_size": 1153,
+    "download_hash": {
+        "sha1": "5BEDF5EBC2DC485B3C0E3CDB39767156BD674B07",
+        "sha256": "713E0713A628987DC0AEFEDF28DD1834A02F90E63480E6A7225D6A97CDEE8733"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 939,
+    "release_date": "2021-08-08T06:13:46Z",
+    "x_generated_by": "netkan"
+}

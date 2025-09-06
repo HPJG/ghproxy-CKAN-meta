@@ -1,0 +1,45 @@
+{
+    "spec_version": 1,
+    "identifier": "UtilityWeight",
+    "name": "Utility Weight",
+    "abstract": "Want to create an rocket family and need some standard masses as payloads? There is a part, that allows to set mass, using 2 new \"resources\": kilograms and tons",
+    "author": "flart",
+    "version": "2.0.0",
+    "ksp_version_min": "1.9.1",
+    "ksp_version_max": "1.12.9",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/189536-*",
+        "repository": "https://ghproxy.net/https://github.com/yalov/UtilityWeight",
+        "bugtracker": "https://ghproxy.net/https://github.com/yalov/UtilityWeight/issues",
+        "discussions": "https://ghproxy.net/https://github.com/yalov/UtilityWeight/discussions",
+        "remote-avc": "https://raw.githubusercontent.com/yalov/UtilityWeight/master/UtilityWeight.version"
+    },
+    "tags": [
+        "parts"
+    ],
+    "localizations": [
+        "en-us",
+        "ru"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "B9PartSwitch"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/yalov/UtilityWeight/releases/download/2.0.0/UtilityWeight-v2.0.0.zip",
+    "download_size": 217302,
+    "download_hash": {
+        "sha1": "615DE870100994FF7794C4E3D05BDD69E3CD5ACB",
+        "sha256": "868549F7C6B2A39BFA0A965879317CE0D67DD0C840E14E1D9356269DFBE8B96A"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 722733,
+    "release_date": "2021-09-12T19:20:42Z",
+    "x_generated_by": "netkan"
+}

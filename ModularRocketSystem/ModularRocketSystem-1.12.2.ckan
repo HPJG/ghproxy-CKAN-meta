@@ -1,0 +1,34 @@
+{
+    "spec_version": 1,
+    "identifier": "ModularRocketSystem",
+    "name": "Modular Rocket Systems",
+    "abstract": "A stock-alike parts pack that fills in a variety of gaps in the stock lineup of rocketry parts.",
+    "author": "NecroBones",
+    "license": "CC-BY-NC-SA",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/83959-ModularRocketSystems",
+        "spacedock": "https://spacedock.info/mod/86/Modular%20Rocket%20Systems",
+        "x_screenshot": "https://spacedock.info/content/NecroBones_209/Modular_Rocket_Systems/Modular_Rocket_Systems-1455805044.8633614.jpg"
+    },
+    "version": "1.12.2",
+    "ksp_version": "1.0.5",
+    "conflicts": [
+        {
+            "name": "ModularRocketSystemsLITE"
+        }
+    ],
+    "install": [
+        {
+            "file": "ModRocketSys",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/86/Modular%20Rocket%20Systems/download/1.12.2",
+    "download_size": 11241672,
+    "download_hash": {
+        "sha1": "D3FA9C98B7316EFF7248A82707EBD69E3225132B",
+        "sha256": "F757AABAA67B03A96B23788D4F952172442B922E6C9FAB1AE87BF7BF2D5753A9"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

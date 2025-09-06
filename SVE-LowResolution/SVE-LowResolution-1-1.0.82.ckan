@@ -1,0 +1,71 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "SVE-LowResolution",
+    "name": "Stock Visual Enhancements",
+    "abstract": "Stock Visual Enhancements",
+    "author": "Galileo88",
+    "license": "CC-BY-NC-SA",
+    "release_status": "stable",
+    "resources": {
+        "repository": "https://ghproxy.net/https://github.com/Galileo88/StockVisualEnhancements"
+    },
+    "version": "1:1.0.82",
+    "ksp_version": "1.1.3",
+    "provides": [
+        "StockVisualEnhancements",
+        "Scatterer"
+    ],
+    "depends": [
+        {
+            "name": "Scatterer-sunflare"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "DistantObject"
+        },
+        {
+            "name": "SVE-Terrain"
+        },
+        {
+            "name": "PlanetShine"
+        },
+        {
+            "name": "TextureReplacer"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "StockVisualEnhancements"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        }
+    ],
+    "install": [
+        {
+            "find": "GameData/StockVisualEnhancements",
+            "install_to": "GameData"
+        },
+        {
+            "find": "GameData/scatterer",
+            "install_to": "GameData",
+            "filter": "sunflare"
+        },
+        {
+            "find": "GameData/EnvironmentalVisualEnhancements",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/Galileo88/StockVisualEnhancements/releases/download/1.0.82/Low.Resolutionzip.zip",
+    "download_size": 116211003,
+    "download_hash": {
+        "sha1": "898BF00A4C86DAB344032F4A64E52063687511EC",
+        "sha256": "825EDBCAE7B7C63C18590B687EF8FBB8E673EBEB0AF78082DF92240C8EB2BACB"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

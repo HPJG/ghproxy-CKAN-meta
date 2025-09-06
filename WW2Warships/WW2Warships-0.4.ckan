@@ -1,0 +1,45 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "WW2Warships",
+    "name": "WW2 Warships",
+    "abstract": "Gives you the ability to build enormous naval vessels for use with BDArmory and Naval Artillery System (NAS), and sink them.",
+    "author": "Azimech",
+    "license": "CC-BY-SA-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/139625-WW2-Warships-0-1-They-really-sink",
+        "kerbalstuff": "https://kerbalstuff.com/mod/1308/WW2%20Warships",
+        "x_screenshot": "https://kerbalstuff.com/content/Azimech_2742/WW2_Warships/WW2_Warships-1452855233.8922098.png"
+    },
+    "version": "0.4",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "BDArmory"
+        },
+        {
+            "name": "NAS"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "Hyperedit"
+        },
+        {
+            "name": "HangarExtender"
+        }
+    ],
+    "install": [
+        {
+            "find": "77Industries",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/WW2Warships-0.4/9103B0E6-WW2Warships-0.4.zip",
+    "download_size": 2127278,
+    "download_hash": {
+        "sha1": "9103B0E6C9857AB881CECE6D44CB4475E1F095BB",
+        "sha256": "7D436F0C7BC1332038274112F3D9963CAFFAA3288F79D287A8527B67B60D0E85"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

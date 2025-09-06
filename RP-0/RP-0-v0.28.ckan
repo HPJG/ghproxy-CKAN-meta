@@ -1,0 +1,88 @@
+{
+    "spec_version": 1,
+    "identifier": "RP-0",
+    "name": "Realistic Progression Zero",
+    "abstract": "Realistic Progression Zero - The lightweight Realism Overhaul tech tree",
+    "author": "RP-0 Group",
+    "license": "CC-BY-4.0",
+    "resources": {
+        "repository": "https://ghproxy.net/https://github.com/KSP-RO/RP-0"
+    },
+    "version": "v0.28",
+    "ksp_version": "0.90",
+    "provides": [
+        "FinePrint-Config"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RealismOverhaul",
+            "max_version": "v15.99.0.0"
+        },
+        {
+            "name": "SXT"
+        },
+        {
+            "name": "ProceduralFairings"
+        },
+        {
+            "name": "CommunityTechTree"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "KerbalConstructionTime"
+        },
+        {
+            "name": "KerbalConstructionTime-RP-0-Config"
+        },
+        {
+            "name": "ProceduralDynamics"
+        },
+        {
+            "name": "TweakScale"
+        },
+        {
+            "name": "ProceduralParts"
+        },
+        {
+            "name": "TestFlight"
+        },
+        {
+            "name": "VenStockRevamp"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "FinePrint-Config"
+        },
+        {
+            "name": "ROCapsules",
+            "min_version": "v2.0.0.0"
+        },
+        {
+            "name": "ROEngines",
+            "min_version": "v2.0.0.0"
+        },
+        {
+            "name": "ROSolar",
+            "min_version": "v2.0.0.0"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/RP-0",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/KSP-RO/RP-0/releases/download/v0.28/RP-0-v0.28.zip",
+    "download_size": 55878,
+    "download_hash": {
+        "sha1": "CFCDD7F9B587CA225EC9468184D83000BE50FE02",
+        "sha256": "0D0A47EB1BB4D2CDCE7D5F3A06606E72608D5F1666A0D0A04F25AA9A27626DAF"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

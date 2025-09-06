@@ -1,0 +1,94 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "RP-0",
+    "name": "Realistic Progression Zero",
+    "abstract": "Realistic Progression Zero - The lightweight Realism Overhaul tech tree",
+    "author": "RP-0 Group",
+    "license": "CC-BY-4.0",
+    "resources": {
+        "repository": "https://ghproxy.net/https://github.com/KSP-RO/RP-0"
+    },
+    "version": "v0.00000-testKSP105_4",
+    "ksp_version": "0.90",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RealismOverhaul",
+            "max_version": "v15.99.0.0"
+        },
+        {
+            "name": "SXT"
+        },
+        {
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "CustomBarnKit"
+        },
+        {
+            "name": "DeadlyReentry"
+        },
+        {
+            "name": "VenStockRevamp"
+        },
+        {
+            "name": "CommunityTechTree"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "KerbalConstructionTime"
+        },
+        {
+            "name": "KerbalConstructionTime-RP-0-Config"
+        },
+        {
+            "name": "B9-PWings-Fork"
+        },
+        {
+            "name": "ProceduralFairings"
+        },
+        {
+            "name": "ProceduralParts"
+        },
+        {
+            "name": "Taerobee"
+        },
+        {
+            "name": "KerbalRenamer"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "CrowdSourcedScience"
+        },
+        {
+            "name": "ROCapsules",
+            "min_version": "v2.0.0.0"
+        },
+        {
+            "name": "ROEngines",
+            "min_version": "v2.0.0.0"
+        },
+        {
+            "name": "ROSolar",
+            "min_version": "v2.0.0.0"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/RP-0",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/KSP-RO/RP-0/releases/download/v0.00000-testKSP105_4/RP-0-v0.00000-testKSP105_4.zip",
+    "download_size": 171903,
+    "download_hash": {
+        "sha1": "C50CAFFE26D711A83A5C617103EA114BDBCC347B",
+        "sha256": "B499EEEDAFCBD62FB404E7F7E92D65BD1FBA8EADED5FBA4BBD22DA2DF0DC1D5B"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,57 @@
+{
+    "spec_version": 1,
+    "comment": "Indexed by author. Please report any problems at the repository bugtracker.",
+    "identifier": "SmartTank",
+    "name": "SmartTank",
+    "abstract": "Automatically resizes ProceduralParts fuel tanks to fit a specified thrust to weight ratio",
+    "description": "Uses an embedded copy of Kerbal Engineer's vessel simulator to determine the TWR of each stage, then adjusts the sizes of tanks from Procedural Parts to fit a user-specified TWR. Also sets top and bottom diameters to match attached parts, matches the fuel tank type to the attached engine, and allows the user to change the default texture. All such features can be toggled at the part level with tweakables or at the system level via a button in the stock toolbar.",
+    "author": "HebaruSan",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/162743-130-smarttank/",
+        "repository": "https://ghproxy.net/https://github.com/HebaruSan/SmartTank",
+        "bugtracker": "https://ghproxy.net/https://github.com/HebaruSan/SmartTank/issues"
+    },
+    "version": "v0.1.2",
+    "ksp_version_min": "1.3.0",
+    "ksp_version_max": "1.4.8",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ProceduralParts"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "LoadingTipsPlus"
+        },
+        {
+            "name": "ProceduralParts-Textures-BattleTechAerospace"
+        },
+        {
+            "name": "ProceduralParts-Textures-SCCKSCS"
+        },
+        {
+            "name": "ProceduralParts-Textures-SaturnNova"
+        },
+        {
+            "name": "VensStylePPTextures"
+        },
+        {
+            "name": "MainSailorTextures-Complete"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/HebaruSan/SmartTank/releases/download/v0.1.2/SmartTank.zip",
+    "download_size": 85738,
+    "download_hash": {
+        "sha1": "BB15302FB8085FA25F04407CF0964C4832AB113F",
+        "sha256": "CBE25846ED379D0303E0D665C83C9F00F681B7A833CEF25C4572D351955D69C0"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 198638,
+    "release_date": "2018-03-08T03:33:52Z",
+    "kind": "package",
+    "x_generated_by": "netkan"
+}

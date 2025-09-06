@@ -1,0 +1,79 @@
+{
+    "spec_version": 1,
+    "identifier": "RP-0",
+    "name": "Realistic Progression Zero",
+    "abstract": "Realistic Progression Zero - The lightweight Realism Overhaul tech tree",
+    "author": "RP-0 Group",
+    "license": "CC-BY-4.0",
+    "resources": {
+        "repository": "https://ghproxy.net/https://github.com/KSP-RO/RP-0"
+    },
+    "version": "v0.23",
+    "ksp_version": "0.90",
+    "provides": [
+        "FinePrint-Config"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RealismOverhaul",
+            "max_version": "v15.99.0.0"
+        },
+        {
+            "name": "SXT"
+        },
+        {
+            "name": "ProceduralFairings"
+        },
+        {
+            "name": "CommunityTechTree"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "ProceduralDynamics"
+        },
+        {
+            "name": "TweakScale"
+        },
+        {
+            "name": "ProceduralParts"
+        },
+        {
+            "name": "TestFlight"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "FinePrint-Config"
+        },
+        {
+            "name": "ROCapsules",
+            "min_version": "v2.0.0.0"
+        },
+        {
+            "name": "ROEngines",
+            "min_version": "v2.0.0.0"
+        },
+        {
+            "name": "ROSolar",
+            "min_version": "v2.0.0.0"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/RP-0",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/KSP-RO/RP-0/releases/download/v0.23/RP-0-v0.23.zip",
+    "download_size": 51255,
+    "download_hash": {
+        "sha1": "2DD5EFFC000E7294D6556147B4344B6F58886CF9",
+        "sha256": "E5598BF6EA6C130CCF22D27BBF11E4943E763FACB01DABBA1E252C92B23B927B"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

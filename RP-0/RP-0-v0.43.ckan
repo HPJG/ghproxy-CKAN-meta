@@ -1,0 +1,139 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "RP-0",
+    "name": "Realistic Progression Zero",
+    "abstract": "Realistic Progression Zero - The lightweight Realism Overhaul tech tree",
+    "author": "RP-0 Group",
+    "license": "CC-BY-4.0",
+    "resources": {
+        "repository": "https://ghproxy.net/https://github.com/KSP-RO/RP-0"
+    },
+    "version": "v0.43",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RealismOverhaul",
+            "max_version": "v15.99.0.0"
+        },
+        {
+            "name": "SXT"
+        },
+        {
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "CustomBarnKit"
+        },
+        {
+            "name": "DeadlyReentry"
+        },
+        {
+            "name": "VenStockRevamp"
+        },
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "AsteroidDay"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "KerbalConstructionTime"
+        },
+        {
+            "name": "Taerobee"
+        },
+        {
+            "name": "KerbalRenamer"
+        },
+        {
+            "name": "ConnectedLivingSpace"
+        },
+        {
+            "name": "FilterExtensions"
+        },
+        {
+            "name": "HangarExtender"
+        },
+        {
+            "name": "KSP-AVC"
+        },
+        {
+            "name": "MechJeb2"
+        },
+        {
+            "name": "B9-PWings-Fork"
+        },
+        {
+            "name": "ProceduralFairings"
+        },
+        {
+            "name": "ProceduralFairings-ForEverything"
+        },
+        {
+            "name": "ProceduralParts"
+        },
+        {
+            "name": "RCSBuildAid"
+        },
+        {
+            "name": "RealSolarSystem"
+        },
+        {
+            "name": "KSCSwitcher"
+        },
+        {
+            "name": "RemoteTech"
+        },
+        {
+            "name": "SemiSaturatableRW"
+        },
+        {
+            "name": "TACLS"
+        },
+        {
+            "name": "TACLS-Config-RealismOverhaul"
+        },
+        {
+            "name": "TextureReplacer"
+        },
+        {
+            "name": "Toolbar"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "CrowdSourcedScience"
+        },
+        {
+            "name": "ROCapsules",
+            "min_version": "v2.0.0.0"
+        },
+        {
+            "name": "ROEngines",
+            "min_version": "v2.0.0.0"
+        },
+        {
+            "name": "ROSolar",
+            "min_version": "v2.0.0.0"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/RP-0",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/KSP-RO/RP-0/releases/download/v0.43/RP-0-v0.43.zip",
+    "download_size": 176902,
+    "download_hash": {
+        "sha1": "8EEE59E87A7065D0DD79430505F46C1033B5B6D4",
+        "sha256": "5FBA5FD2D8501E2624826FD382853D4BA8BA266F550AE0558B21BCC15D003D93"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

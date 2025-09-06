@@ -1,0 +1,34 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "SimpleRealism",
+    "name": "Simple Realism",
+    "abstract": "A simpler, less cluttered Realism Overhaul, for use with Real Solar System.",
+    "author": "Krakenfour",
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/135782",
+        "kerbalstuff": "https://kerbalstuff.com/mod/1205/Simple%20Realism",
+        "x_screenshot": "https://kerbalstuff.com/content/Krakenfour_15330/Simple_Realism/Simple_Realism-1444606151.6414797.png"
+    },
+    "version": "4",
+    "ksp_version": "1.0.4",
+    "depends": [
+        {
+            "name": "RealismOverhaul"
+        }
+    ],
+    "install": [
+        {
+            "find": "GameData/SimpleRealism",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/SimpleRealism-4/373A2DE2-SimpleRealism-4.zip",
+    "download_size": 3460,
+    "download_hash": {
+        "sha1": "373A2DE239D0070A6FACCEB1DA0C7598ACA659BD",
+        "sha256": "4B242641DA48068D6C0E6DE2130BDA4C18797BF8A5B24D232BA3C281752A2787"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

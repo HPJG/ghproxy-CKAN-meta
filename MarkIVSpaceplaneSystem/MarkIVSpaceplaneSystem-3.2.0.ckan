@@ -1,0 +1,71 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "MarkIVSpaceplaneSystem",
+    "name": "Mark IV Spaceplane System",
+    "abstract": "Large fuselage system for spaceplanes. Based on an iconic 60s TV show ",
+    "author": "Nertea (Chris Adderley)",
+    "version": "3.2.0",
+    "ksp_version_min": "1.8.0",
+    "ksp_version_max": "1.10.99",
+    "license": "restricted",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/91713-16x-mark-iv-spaceplane-system-january-21-2019/",
+        "spacedock": "https://spacedock.info/mod/809/Mark%20IV%20Spaceplane%20System",
+        "repository": "https://ghproxy.net/https://github.com/post-kerbin-mining-corporation/MkIVSystem",
+        "bugtracker": "https://ghproxy.net/https://github.com/post-kerbin-mining-corporation/MkIVSystem/issues",
+        "metanetkan": "https://ghproxy.net/https://github.com/post-kerbin-mining-corporation/MkIVSystem/raw/master/CKAN/MarkIVSpaceplaneSystem.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/ChrisAdderley/MkIVSystem/master/GameData/MarkIVSystem/Versioning/MarkIVSystem.version",
+        "x_screenshot": "https://spacedock.info/content/Nertea_200/Mark_IV_Spaceplane_System/Mark_IV_Spaceplane_System-1467302860.809514.png"
+    },
+    "tags": [
+        "parts"
+    ],
+    "localizations": [
+        "en-us",
+        "zh-cn"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "NearFutureProps"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "NearFutureAeronautics"
+        }
+    ],
+    "supports": [
+        {
+            "name": "ConnectedLivingSpace"
+        },
+        {
+            "name": "FerramAerospaceResearch"
+        }
+    ],
+    "install": [
+        {
+            "find": "MarkIVSystem",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/809/Mark%20IV%20Spaceplane%20System/download/3.2.0",
+    "download_size": 51083269,
+    "download_hash": {
+        "sha1": "035C45DE3613783BB3A830BF5C835859AFE6D250",
+        "sha256": "DACF96835166E90040EABFAF9186DDF3F91AA03212CE9C08648D15180575147F"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 70546898,
+    "release_date": "2020-12-27T17:01:20.780275+00:00",
+    "x_generated_by": "netkan"
+}

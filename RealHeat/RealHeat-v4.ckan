@@ -1,0 +1,33 @@
+{
+    "spec_version": 1,
+    "identifier": "RealHeat",
+    "name": "RealHeat",
+    "abstract": "Improves the realism of KSP's thermodynamics.",
+    "author": "NathanKell",
+    "license": "CC-BY-SA",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/127769",
+        "repository": "https://ghproxy.net/https://github.com/KSP-RO/RealHeat"
+    },
+    "version": "v4",
+    "ksp_version": "1.1",
+    "depends": [
+        {
+            "name": "ModularFlightIntegrator"
+        }
+    ],
+    "install": [
+        {
+            "file": "RealHeat",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/KSP-RO/RealHeat/releases/download/v4/RealHeat_v4.zip",
+    "download_size": 22896,
+    "download_hash": {
+        "sha1": "E04BCF5F641BC080AD4D994BE161F7A42B5286A7",
+        "sha256": "E3113ADC5463F5AB7D896CF441E8D91BC7ED66FB01CF61AD599FFC2CB7D4D9DB"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

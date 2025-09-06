@@ -1,0 +1,30 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "MissionController2",
+    "name": "Mission Controller 2",
+    "abstract": "Mission Controller 2 Adds New Economy Adjustments and Contracts to Kerbal Space Program.",
+    "author": "Malkuth74",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/43645-Mission-Controller-2-Preview-Version-3-(KSP-24-2)-(New-Agena-Mini-Story)",
+        "repository": "https://ghproxy.net/https://github.com/malkuth1974/MissionController2",
+        "kerbalstuff": "https://kerbalstuff.com/mod/93/Mission%20Controller%202",
+        "x_screenshot": "https://kerbalstuff.com/content/Malkuth74_587/Mission_Controller_2/Mission_Controller_2.jpg"
+    },
+    "version": "1.24",
+    "ksp_version": "1.0.5",
+    "install": [
+        {
+            "find": "MissionControllerEC",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/MissionController2-1.24/66BE02AC-MissionController2-1.24.zip",
+    "download_size": 3210439,
+    "download_hash": {
+        "sha1": "66BE02ACEF425F778C12793A7EFE62623950DBE6",
+        "sha256": "E69A1AC789917954375F2C293C223E347FD9E493FE008FF2F8FC73144808C5CF"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

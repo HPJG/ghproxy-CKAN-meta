@@ -1,0 +1,25 @@
+{
+    "spec_version": 1,
+    "identifier": "SafeChute",
+    "name": "SafeChute",
+    "abstract": "SafeChute takes you out of time warp when your parachutes deploy, and also just above landing. You can restart time warp manually after SafeChute stops it.",
+    "author": "hab136",
+    "license": "BSD-3-clause",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/100855",
+        "repository": "https://ghproxy.net/https://github.com/henrybauer/SafeChute",
+        "bugtracker": "https://ghproxy.net/https://github.com/henrybauer/SafeChute/issues",
+        "kerbalstuff": "https://kerbalstuff.com/mod/360/SafeChute"
+    },
+    "version": "1.7",
+    "ksp_version": "1.0.2",
+    "download": "https://archive.org/download/SafeChute-1.7/5C9BF672-SafeChute-1.7.zip",
+    "download_size": 6270,
+    "download_hash": {
+        "sha1": "5C9BF672B23E92B29A8B3967F3A40B65B9811A58",
+        "sha256": "FCE76BC77E1B3FA3A89370CAF3DAB76B02594113888E7D17A962D7FFC972CBFB"
+    },
+    "download_content_type": "application/zip",
+    "x_screenshot": "https://kerbalstuff.com/content/hab136_82/SafeChute/SafeChute.jpg",
+    "x_generated_by": "netkan"
+}

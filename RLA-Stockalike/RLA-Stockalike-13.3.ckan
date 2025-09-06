@@ -1,0 +1,29 @@
+{
+    "spec_version": 1,
+    "identifier": "RLA-Stockalike",
+    "name": "RLA Stockalike",
+    "abstract": "Parts to fill stock niches, including 0.625m parts, monopropellant engines, probe cores and structural components.",
+    "author": "hoojiwana",
+    "license": "CC-BY-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/81386-rla-stockalike",
+        "spacedock": "https://spacedock.info/mod/178/RLA%20Stockalike",
+        "x_screenshot": "https://spacedock.info/content/hoojiwana_844/RLA_Stockalike/RLA_Stockalike-1455895197.348799.jpg"
+    },
+    "version": "13.3",
+    "ksp_version": "1.0.5",
+    "install": [
+        {
+            "file": "GameData/RLA_Stockalike",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/178/RLA%20Stockalike/download/13.3",
+    "download_size": 7301383,
+    "download_hash": {
+        "sha1": "E76904F686A32DE4BF9487066B3A7D88BEC1641E",
+        "sha256": "1081CEFF9D08CD6D813311393C315BF831B4873A492090E83101C0CBE82495AE"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

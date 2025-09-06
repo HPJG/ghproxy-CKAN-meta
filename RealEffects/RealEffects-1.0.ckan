@@ -1,0 +1,36 @@
+{
+    "spec_version": 1,
+    "identifier": "RealEffects",
+    "name": "Real Effects",
+    "abstract": "Realistic effects mod for Realism Overhaul",
+    "author": "Dragon01",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/100519-Real-Effects-An-FX-mod-for-Realism-Overhaul-DEV",
+        "kerbalstuff": "https://kerbalstuff.com/mod/375/Real%20Effects",
+        "x_screenshot": "https://kerbalstuff.com/content/Dragon01_4458/Real_Effects/Real_Effects.png"
+    },
+    "version": "1.0",
+    "ksp_version": "0.25.0",
+    "depends": [
+        {
+            "name": "ModuleManager",
+            "min_version": "2.5.1"
+        },
+        {
+            "name": "SmokeScreen",
+            "min_version": "2.5.0"
+        },
+        {
+            "name": "RealismOverhaul"
+        }
+    ],
+    "download": "https://archive.org/download/RealEffects-1.0/CDF32EDF-RealEffects-1.0.zip",
+    "download_size": 12485857,
+    "download_hash": {
+        "sha1": "CDF32EDF282103D8B96212493AF0231BDF3310E4",
+        "sha256": "5832FDA3B105A25FE8ADDF84A3D336F0DAEA818A1D94441B28BFCF2AE6355E01"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

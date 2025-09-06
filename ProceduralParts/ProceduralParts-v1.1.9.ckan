@@ -1,0 +1,35 @@
+{
+    "spec_version": 1,
+    "identifier": "ProceduralParts",
+    "name": "Procedural Parts",
+    "abstract": "ProceduralParts allows you to procedurally generate a number of different parts in a range of sizes and shapes.",
+    "author": "ItMustBeACamel",
+    "license": "CC-BY-SA-3.0",
+    "resources": {
+        "homepage": "https://ghproxy.net/https://github.com/Swamp-Ig/ProceduralParts",
+        "repository": "https://ghproxy.net/https://github.com/Swamp-Ig/ProceduralParts"
+    },
+    "version": "v1.1.9",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "PPTextures"
+        },
+        {
+            "name": "FreedomTex"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/Swamp-Ig/ProceduralParts/releases/download/v1.1.9/ProceduralParts-1.1.9.zip",
+    "download_size": 5115749,
+    "download_hash": {
+        "sha1": "2A4865724EE425EA6788371902504A6DBFC15443",
+        "sha256": "BD8E97B17B313891D29D0DCEFE6EECC0933B184BAF896CC6669A68E8CC622C06"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

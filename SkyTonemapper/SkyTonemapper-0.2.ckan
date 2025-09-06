@@ -1,0 +1,31 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "SkyTonemapper",
+    "name": "SkyTonemapper",
+    "abstract": "Improves the stock sky",
+    "author": "blackrack",
+    "license": "WTFPL",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/124737-104-skytonemapper-improves-the-stock-sky",
+        "spacedock": "https://spacedock.info/mod/323/SkyTonemapper",
+        "repository": "https://ghproxy.net/https://github.com/LGhassen/SkyTonemapper",
+        "x_screenshot": "https://spacedock.info/content/blackrack_378/SkyTonemapper/SkyTonemapper-1456808048.688414.jpg"
+    },
+    "version": "0.2",
+    "ksp_version": "1.0.5",
+    "install": [
+        {
+            "find": "SkyTonemapper",
+            "install_to": "GameData",
+            "filter": "source"
+        }
+    ],
+    "download": "https://spacedock.info/mod/323/SkyTonemapper/download/0.2",
+    "download_size": 26181,
+    "download_hash": {
+        "sha1": "3CF6374F65EC728901038A460244CE59E1B54C9F",
+        "sha256": "B2A809FB5A544C85B181C3824F22B6562DECC3FC844A2902BB0339376E9B0F57"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

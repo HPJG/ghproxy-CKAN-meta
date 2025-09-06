@@ -1,0 +1,66 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "NearFutureConstruction",
+    "name": "Near Future Construction",
+    "abstract": "Construction parts for large craft including trusses, docking ports and adapters. ",
+    "author": "Nertea",
+    "license": "CC-BY-NC-SA-4.0",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/52042-0-21",
+        "kerbalstuff": "https://kerbalstuff.com/mod/348/Near%20Future%20Construction",
+        "x_screenshot": "https://kerbalstuff.com/content/Nertea_3884/Near_Future_Construction/Near_Future_Construction.png"
+    },
+    "version": "0.5.5",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "InterstellarFuelSwitch-Core"
+        },
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "NearFutureElectrical"
+        },
+        {
+            "name": "NearFuturePropulsion"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        },
+        {
+            "name": "StationPartsExpansion"
+        }
+    ],
+    "supports": [
+        {
+            "name": "ConnectedLivingSpace"
+        }
+    ],
+    "install": [
+        {
+            "find": "NearFutureConstruction",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/NearFutureConstruction-0.5.5/B0E4058B-NearFutureConstruction-0.5.5.zip",
+    "download_size": 7696703,
+    "download_hash": {
+        "sha1": "B0E4058BCC7F1DAC49CA116E97C2B2F7A815407C",
+        "sha256": "9AFF7A4E8B375A8DC1FBE622F9CE855D9171A7A1B19C7FF9FA010A8E74CDF0B0"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

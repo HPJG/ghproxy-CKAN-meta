@@ -1,0 +1,52 @@
+{
+    "spec_version": 1,
+    "identifier": "RasterPropMonitor",
+    "name": "RasterPropMonitor",
+    "abstract": "RasterPropMonitor is a plugin and toolkit that provides functional props within your IVA.",
+    "author": [
+        "MOARdV",
+        "Mihara"
+    ],
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/117471",
+        "repository": "https://ghproxy.net/https://github.com/Mihara/RasterPropMonitor",
+        "kerbalstuff": "https://kerbalstuff.com/mod/734/RasterPropMonitor",
+        "x_screenshot": "https://kerbalstuff.com/content/MOARdV_3078/RasterPropMonitor/RasterPropMonitor-1430598635.6151521.png"
+    },
+    "version": "v0.22.1",
+    "ksp_version": "1.0.4",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RasterPropMonitor-Core"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "VesselView"
+        },
+        {
+            "name": "SCANsat"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/JSI",
+            "filter": [
+                "RasterPropMonitor"
+            ],
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/RasterPropMonitor-v0.22.1/1BF43C60-RasterPropMonitor-v0.22.1.zip",
+    "download_size": 714043,
+    "download_hash": {
+        "sha1": "1BF43C60ACF9846982F21A15E75128B922DFFF30",
+        "sha256": "848A35D8CA530FA29940EA3F0CA26DC93C636F2D99531CBEE37413F837ECEB6E"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

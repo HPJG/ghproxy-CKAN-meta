@@ -1,0 +1,24 @@
+{
+    "spec_version": 1,
+    "identifier": "PortraitStats",
+    "name": "Portrait Stats",
+    "abstract": "Displays the type and level of each Kerbal over their portrait in the lower-right corner during flight.",
+    "author": "DMagic",
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/108704-1",
+        "spacedock": "https://spacedock.info/mod/133/Portrait%20Stats",
+        "repository": "https://ghproxy.net/https://github.com/DMagic1/KSP-Portrait-Stats",
+        "x_screenshot": "https://spacedock.info/content/DMagic_247/Portrait_Stats/Portrait_Stats-1455816110.884348.png"
+    },
+    "version": "8.0",
+    "ksp_version": "1.1.0",
+    "download": "https://spacedock.info/mod/133/Portrait%20Stats/download/8.0",
+    "download_size": 14218,
+    "download_hash": {
+        "sha1": "FC72B97806D48FCE33E567F84F3088C196B2E10D",
+        "sha256": "C78C45275F380D93E56C2A943E1F30BB17D690C8FFFCB24E961D517BB8EA3CC8"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

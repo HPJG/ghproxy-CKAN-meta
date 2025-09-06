@@ -1,0 +1,55 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "RN-SovietRockets",
+    "name": "Soviet Rockets",
+    "abstract": "This mod contains my rockets that were originally part of the Soviet Probes mod. I split them off into their own mod for people who only want to use the rockets.",
+    "author": "Raidernick",
+    "license": "CC-BY-NC-ND-3.0",
+    "resources": {
+        "homepage": "https://ghproxy.net/https://github.com/KSP-RO/SovietRockets",
+        "repository": "https://ghproxy.net/https://github.com/KSP-RO/SovietRockets"
+    },
+    "version": "v1.5",
+    "ksp_version": "1.0",
+    "depends": [
+        {
+            "name": "FirespitterCore"
+        },
+        {
+            "name": "ReflectionPlugin"
+        },
+        {
+            "name": "KlockheedMartian-Gimbal"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "RN-SalyutStations-SoyuzFerries"
+        },
+        {
+            "name": "RN-SovietProbes"
+        }
+    ],
+    "install": [
+        {
+            "find": "RN_Proton",
+            "install_to": "GameData"
+        },
+        {
+            "find": "RN_R7",
+            "install_to": "GameData"
+        },
+        {
+            "file": "GameData/Soviet_Rockets_TR.cfg",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/KSP-RO/SovietRockets/releases/download/v1.5/RN_Soviet_Rockets_v1.5.zip",
+    "download_size": 28542089,
+    "download_hash": {
+        "sha1": "F54840C83CA10EA0D14640557B6D8C828EF3DE98",
+        "sha256": "26835B4797FAD56FE54ED82808084B56E40DC7B549AF09D89CCE6D24C66B7884"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,33 @@
+{
+    "spec_version": 1,
+    "identifier": "ModuleManager",
+    "name": "Module Manager",
+    "abstract": "Modify KSP configs without conflict",
+    "author": [
+        "ialdabaoth",
+        "Sarbian"
+    ],
+    "license": "CC-BY-SA",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/55219",
+        "repository": "https://ghproxy.net/https://github.com/sarbian/ModuleManager",
+        "ci": "https://ksp.sarbian.com/jenkins/job/ModuleManager/"
+    },
+    "version": "2.6.2",
+    "ksp_version": "1.0",
+    "install": [
+        {
+            "file": "ModuleManager.2.6.2.dll",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ksp.sarbian.com/jenkins/job/ModuleManager/88/artifact/ModuleManager-2.6.2.zip",
+    "download_size": 26105,
+    "download_hash": {
+        "sha1": "0198D3F14FDCA6F94D9DA0A1454F39F79871A392",
+        "sha256": "6B232493AA241DABAFF8B7B72A7317997E6F91280716FD6845F7262621BDBBFC"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

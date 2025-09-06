@@ -1,0 +1,33 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "ToggleFuelCells",
+    "name": "ToggleFuelCells",
+    "abstract": "Adds an action group item to toggle fuel cells.",
+    "author": "Alshain",
+    "license": "unrestricted",
+    "resources": {
+        "kerbalstuff": "https://kerbalstuff.com/mod/1046/ToggleFuelCells",
+        "x_screenshot": "https://kerbalstuff.com/content/Alshain_323/ToggleFuelCells/ToggleFuelCells-1438399239.3136811.jpg"
+    },
+    "version": "1.0",
+    "ksp_version": "1.0.4",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "AquilaEnterprises",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/ToggleFuelCells-1.0/52BFD14B-ToggleFuelCells-1.0.zip",
+    "download_size": 29807,
+    "download_hash": {
+        "sha1": "52BFD14B87C2C16E247C199722F112699F94C4AC",
+        "sha256": "B97C4FC15CD5765274C9D3B3521443937BBC918E2CE019AF03F60F5200CFD90F"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

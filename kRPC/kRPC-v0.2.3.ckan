@@ -1,0 +1,22 @@
+{
+    "spec_version": 1,
+    "identifier": "kRPC",
+    "name": "kRPC: Remote Procedure Call Server",
+    "abstract": "kRPC allows you to control the game from external programs. It comes with client libraries for several popular languages including Python, C++, C#, Java and Lua. Programs communicate with the game over a TCP/IP connection, and can be configured to work on just the local machine or even over the wider internet.",
+    "author": "djungelorm",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://krpc.github.io/krpc",
+        "repository": "https://ghproxy.net/https://github.com/krpc/krpc"
+    },
+    "version": "v0.2.3",
+    "ksp_version": "1.0.5",
+    "download": "https://ghproxy.net/https://github.com/krpc/krpc/releases/download/v0.2.3/krpc-0.2.3.zip",
+    "download_size": 4256784,
+    "download_hash": {
+        "sha1": "FD0A1B2CCAC6239AA417D9A3B2C85326DE6F8729",
+        "sha256": "A3E486F18C1850D6BC44E96CB6B88D8ED38F2BBA75E80040050BA97F4B9E6C7B"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,23 @@
+{
+    "spec_version": 1,
+    "identifier": "TechManager",
+    "name": "TechManager",
+    "abstract": "This mod will allow you to change the tech tree, including the creation of new tech nodes. ",
+    "author": "anonish",
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/98293-0-25-TechManager-Version-1-0",
+        "kerbalstuff": "https://kerbalstuff.com/mod/297/TechManager",
+        "x_screenshot": "https://kerbalstuff.com/content/anonish_3431/TechManager/TechManager.jpg"
+    },
+    "version": "1.5",
+    "ksp_version": "0.25.0",
+    "download": "https://s3-us-west-2.amazonaws.com/ksp-ckan/DD419605.zip",
+    "download_size": 39956,
+    "download_hash": {
+        "sha1": "930B36B422E5CE3327BDE59AC372C6B5D54A7802",
+        "sha256": "F78CDEFBC5CE15A22BC64137CD5A4EF2554EA705E7F1AD7B403C359A95F4F80B"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

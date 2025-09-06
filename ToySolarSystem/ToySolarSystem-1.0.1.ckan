@@ -1,0 +1,79 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "ToySolarSystem",
+    "name": "Toy Solar System",
+    "abstract": "Have you ever wanted planets to be far too tiny? No? Then get out of here! This mod makes planets 1/10 stock scale, in other words 1/100 Earth scale.",
+    "author": "GregroxMun",
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/138640-Kopernicus-1-0-4-Toy-Solar-System-v1-0?p=2281374#post2281374",
+        "kerbalstuff": "https://kerbalstuff.com/mod/1222/Toy%20Solar%20System",
+        "x_screenshot": "https://kerbalstuff.com/content/GregroxMun_8555/Toy_Solar_System/Toy_Solar_System-1446941749.8494794.png"
+    },
+    "version": "1.0.1",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "Kopernicus",
+            "min_version": "1:beta-05-2"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "AlternisKerbolRekerjiggered"
+        },
+        {
+            "name": "Asclepius"
+        },
+        {
+            "name": "BilliardsPlanetPack"
+        },
+        {
+            "name": "KPlus"
+        },
+        {
+            "name": "NewHorizons"
+        },
+        {
+            "name": "OtherWorlds"
+        },
+        {
+            "name": "OuterPlanetsMod"
+        },
+        {
+            "name": "RealSolarSystem"
+        },
+        {
+            "name": "SaruPlanetPack"
+        },
+        {
+            "name": "SigmaBinary-core"
+        },
+        {
+            "name": "SigmaJoolRecolor"
+        },
+        {
+            "name": "SigmaPluronKhato"
+        },
+        {
+            "name": "SigmaStockRecolor"
+        },
+        {
+            "name": "SmallSolarSystem"
+        },
+        {
+            "name": "UnchartedLands"
+        },
+        {
+            "name": "WinterKerbol"
+        }
+    ],
+    "download": "https://archive.org/download/ToySolarSystem-1.0.1/C40D50A7-ToySolarSystem-1.0.1.zip",
+    "download_size": 9959485,
+    "download_hash": {
+        "sha1": "C40D50A737FBE02F411B19465CD0D83177B60DDC",
+        "sha256": "AE5B6CC5FE5AB45009D326A9EC5B523946F2AA9BD526878977CB45BF016D4C6E"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

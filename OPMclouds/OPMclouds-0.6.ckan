@@ -1,0 +1,41 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "OPMclouds",
+    "name": "OPM clouds",
+    "abstract": "Adds clouds to the Outer Planets.",
+    "author": "EleusisLaArwall",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/113866",
+        "kerbalstuff": "https://kerbalstuff.com/mod/1065/OPM%20clouds",
+        "x_screenshot": "https://kerbalstuff.com/content/EleusisLaArwall_8268/OPM_clouds/OPM_clouds-1439144152.5350745.jpg"
+    },
+    "version": "0.6",
+    "ksp_version": "1.0.4",
+    "depends": [
+        {
+            "name": "OuterPlanetsMod"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "BoulderCo",
+            "install_to": "GameData"
+        },
+        {
+            "find": "OPMclouds",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/OPMclouds-0.6/20732459-OPMclouds-0.6.zip",
+    "download_size": 25748,
+    "download_hash": {
+        "sha1": "20732459E8D2C4DFD9E1E27595B135BFCC9928E1",
+        "sha256": "295B3FFCAF92C2561FDE9751A15F4802AA6755AF5ED0FBBB08AE7108FB5B9D4D"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

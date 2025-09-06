@@ -1,0 +1,37 @@
+{
+    "spec_version": 1,
+    "identifier": "ProbeSASUpgrades",
+    "name": "Probe SAS Upgrades",
+    "abstract": "Unlock SAS attitude modes on unmanned probes with tech, not parts!",
+    "author": "albany_",
+    "license": "CC-BY-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/130540",
+        "kerbalstuff": "https://kerbalstuff.com/mod/1054/Probe%20SAS%20Upgrades",
+        "x_screenshot": "https://kerbalstuff.com/content/albany_13458/Probe_SAS_Upgrades/Probe_SAS_Upgrades-1438626399.0427678.jpg"
+    },
+    "version": "1.0.0",
+    "ksp_version": "1.0.4",
+    "depends": [
+        {
+            "name": "PartUpgrade"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "file": "ProbeSASUpgrade",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/ProbeSASUpgrades-1.0.0/2F37AF2F-ProbeSASUpgrades-1.0.0.zip",
+    "download_size": 68895,
+    "download_hash": {
+        "sha1": "2F37AF2FB460758352AAB7099FDFC26CD58337AF",
+        "sha256": "AA13ADD348E747E5472A3E3AF7F4CA1E17D0FFCE923491CC579F5D4DCE0F71A4"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

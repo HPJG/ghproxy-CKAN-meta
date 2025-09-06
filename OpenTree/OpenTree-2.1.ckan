@@ -1,0 +1,27 @@
+{
+    "spec_version": 1,
+    "identifier": "OpenTree",
+    "name": "OpenTree",
+    "abstract": "A rebalanced tech tree with more freedom and mod support",
+    "author": "Oneiros",
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/122571-1-02-OpenTree-A-tech-tree-with-more-freedom-and-accessibility-(v1-0)",
+        "kerbalstuff": "https://kerbalstuff.com/mod/829/OpenTree"
+    },
+    "version": "2.1",
+    "ksp_version": "1.0.2",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://archive.org/download/OpenTree-2.1/62D2201D-OpenTree-2.1.zip",
+    "download_size": 14693,
+    "download_hash": {
+        "sha1": "62D2201D0AA7022587E1A5DDC921D9728EC0048D",
+        "sha256": "1031A3FA2A1B99D4A7FE35C3C00A2259022F5760D14AB9C8F6079F12D4ED68B3"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,94 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "RP-0",
+    "name": "Realistic Progression Zero",
+    "abstract": "Realistic Progression Zero - The lightweight Realism Overhaul tech tree",
+    "author": "RP-0 Group",
+    "license": "CC-BY-4.0",
+    "resources": {
+        "repository": "https://ghproxy.net/https://github.com/KSP-RO/RP-0"
+    },
+    "version": "v0.40",
+    "ksp_version": "1.0.4",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RealismOverhaul",
+            "max_version": "v15.99.0.0"
+        },
+        {
+            "name": "SXT"
+        },
+        {
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "CustomBarnKit"
+        },
+        {
+            "name": "DeadlyReentry"
+        },
+        {
+            "name": "VenStockRevamp"
+        },
+        {
+            "name": "CommunityTechTree"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "KerbalConstructionTime"
+        },
+        {
+            "name": "KerbalConstructionTime-RP-0-Config"
+        },
+        {
+            "name": "B9AerospaceProceduralParts"
+        },
+        {
+            "name": "ProceduralFairings"
+        },
+        {
+            "name": "ProceduralParts"
+        },
+        {
+            "name": "Taerobee"
+        },
+        {
+            "name": "KerbalRenamer"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "CrowdSourcedScience"
+        },
+        {
+            "name": "ROCapsules",
+            "min_version": "v2.0.0.0"
+        },
+        {
+            "name": "ROEngines",
+            "min_version": "v2.0.0.0"
+        },
+        {
+            "name": "ROSolar",
+            "min_version": "v2.0.0.0"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/RP-0",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/KSP-RO/RP-0/releases/download/v0.40/RP-0-v0.40.zip",
+    "download_size": 150803,
+    "download_hash": {
+        "sha1": "F1602FB51AE6CD4ED1E56849C867C0CD69824F1F",
+        "sha256": "B281077347BF28425334C9843415CD1972D1D2C1C362A5B9D3DDF0D238DE126E"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,33 @@
+{
+    "spec_version": 1,
+    "identifier": "Kronkus",
+    "name": "Kronkus",
+    "abstract": "Kronkus - A Kopernicus planet pack",
+    "author": "MrChumley",
+    "license": "CC0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/132379",
+        "repository": "http://github.com/MrChumley/Kronkus",
+        "kerbalstuff": "https://kerbalstuff.com/mod/1152/Kronkus",
+        "x_screenshot": "https://kerbalstuff.com/content/MrChumley_12762/Kronkus/Kronkus-1442199859.1548715.png"
+    },
+    "version": "v1.0",
+    "ksp_version": "1.0.4",
+    "depends": [
+        {
+            "name": "Kopernicus",
+            "version": "1:beta-04"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://s3-us-west-2.amazonaws.com/ksp-ckan/A718222E.zip",
+    "download_size": 31505429,
+    "download_hash": {
+        "sha1": "EB41ED1DC5CDA7F036C51541A827847C9957AC88",
+        "sha256": "755F3D957A9B78101612B00BBB5B5D8465299CB2579203D585637548EFF929A2"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

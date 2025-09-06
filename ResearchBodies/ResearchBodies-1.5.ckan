@@ -1,0 +1,26 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "ResearchBodies",
+    "name": "ResearchBodies",
+    "abstract": "Track celestial bodies before you can explore them",
+    "author": "simon56modder",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "kerbalstuff": "https://kerbalstuff.com/mod/1203/ResearchBodies"
+    },
+    "version": "1.5",
+    "ksp_version": "1.0.4",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://s3-us-west-2.amazonaws.com/ksp-ckan/795014AA.zip",
+    "download_size": 987666,
+    "download_hash": {
+        "sha1": "E105CC0289BDD6A0FE5FD643473233BFE8511BF7",
+        "sha256": "8E9E2072C97E04F9D4EB633920721D083BBF589FCAE1D061AF6DF85DB6D2116A"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,33 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "RhatssPlanetpack",
+    "name": "Rhats's Planet pack",
+    "abstract": "RPM is a planet pack. take a look",
+    "author": "Roberthasalltehswag",
+    "license": "MIT",
+    "resources": {
+        "kerbalstuff": "https://kerbalstuff.com/mod/1074/Rhats's%20Planet%20pack",
+        "x_screenshot": "https://kerbalstuff.com/content/Roberthasalltehswag_11107/Rhatss_Planet_pack/Rhatss_Planet_pack-1439407601.2785337.png"
+    },
+    "version": "0.1",
+    "ksp_version": "1.0.4",
+    "depends": [
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "install": [
+        {
+            "find": "RPM",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/RhatssPlanetpack-0.1/E7C94450-RhatssPlanetpack-0.1.zip",
+    "download_size": 11093432,
+    "download_hash": {
+        "sha1": "E7C944500F9583A3041FECC54B01A7AC48363BF0",
+        "sha256": "7E4AB71C893E0D26CE9C3495E9CE77A5ED2B48A3225EC1ADF75EAE71C4D522C4"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,34 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "Super67LittleStarCommandPod",
+    "name": "Super 67 Little Star Command Pod",
+    "abstract": "2.5 meter Command pod capable of accommodating a crew of three.",
+    "author": "RaptorHunter",
+    "license": "CC-BY-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/editpost.php?do=updatepost&postid=2012036",
+        "kerbalstuff": "https://kerbalstuff.com/mod/923/Super%2067%20Little%20Star%20Command%20Pod",
+        "x_screenshot": "https://kerbalstuff.com/content/RaptorHunter_11552/Super_67_Little_Star_Command_Pod/Super_67_Little_Star_Command_Pod-1434598098.9389892.png"
+    },
+    "version": "1.0",
+    "ksp_version": "1.0.4",
+    "recommends": [
+        {
+            "name": "Super67LittleStarCommandPod-heatshield"
+        }
+    ],
+    "install": [
+        {
+            "find": "Super 67",
+            "install_to": "GameData/RaptorAerospacial"
+        }
+    ],
+    "download": "https://archive.org/download/Super67LittleStarCommandPod-1.0/90C3E3E1-Super67LittleStarCommandPod-1.0.zip",
+    "download_size": 635032,
+    "download_hash": {
+        "sha1": "90C3E3E1F62AB3B7AB3C85F724DCAA31A2ACA996",
+        "sha256": "FE3970B81D114DDE9F94BC9E6BD551F191F4A7524419B32D4B1A714CBECE7B53"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

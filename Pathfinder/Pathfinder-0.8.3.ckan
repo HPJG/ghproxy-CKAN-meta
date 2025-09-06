@@ -1,0 +1,49 @@
+{
+    "spec_version": "v1.2",
+    "identifier": "Pathfinder",
+    "name": "Pathfinder",
+    "abstract": "Geoscience for better resource extraction. Move in, look around, move out",
+    "author": "Angel125",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/134835-1-0-4-BETA-Pathfinder-0-8-1-KSP-Meets-The-Martian",
+        "repository": "https://ghproxy.net/https://github.com/Angel-125/Pathfinder",
+        "kerbalstuff": "https://kerbalstuff.com/mod/933/Pathfinder",
+        "x_screenshot": "https://kerbalstuff.com/content/Angel125_11824/Pathfinder/Pathfinder-1435207719.3211224.jpg"
+    },
+    "version": "0.8.3",
+    "ksp_version": "1.0.4",
+    "depends": [
+        {
+            "name": "CommunityResourcePack",
+            "min_version": "0.4.2"
+        },
+        {
+            "name": "WildBlueTools",
+            "min_version": "1.0.4"
+        },
+        {
+            "name": "ModuleManager",
+            "min_version": "2.6.5"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "Pathfinder-AntennarangePatch"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/WildBlueIndustries/Pathfinder",
+            "install_to": "GameData/WildBlueIndustries"
+        }
+    ],
+    "download": "https://archive.org/download/Pathfinder-0.8.3/D8362450-Pathfinder-0.8.3.zip",
+    "download_size": 14578647,
+    "download_hash": {
+        "sha1": "D836245071ADC2351820D3F348052E9965DA9F9B",
+        "sha256": "049BA469E3A38ADC0D1EE795FB0C11CE7B33647306BD2CEB48BFC0D394FF772B"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

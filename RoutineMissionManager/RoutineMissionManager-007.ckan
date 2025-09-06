@@ -1,0 +1,22 @@
+{
+    "spec_version": 1,
+    "identifier": "RoutineMissionManager",
+    "name": "Routine Mission Manager",
+    "abstract": "This mod allows a player to track flights to stations in orbit of Kerbin and to then have these missions automatically repeated with the original mission vehicle ending up docked at the station.",
+    "author": "PrivateFlip",
+    "license": "BSD-2-clause",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/85630-Plugin-0-90-Routine-Mission-Manager-v002-(alpha)?p=1260437&viewfull=1#post1260437",
+        "kerbalstuff": "https://kerbalstuff.com/mod/463/Routine%20Mission%20Manager"
+    },
+    "version": "007",
+    "ksp_version": "0.90",
+    "download": "https://archive.org/download/RoutineMissionManager-007/A39ACC34-RoutineMissionManager-007.zip",
+    "download_size": 68884,
+    "download_hash": {
+        "sha1": "A39ACC349A473025D9222E45E59FFCE0CDB3F525",
+        "sha256": "A9472407CF3A09D7F716028EEA446C12197FC680752C48DC0294B2B6AC1AA7CB"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

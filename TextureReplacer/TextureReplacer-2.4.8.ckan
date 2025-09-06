@@ -1,0 +1,25 @@
+{
+    "spec_version": 1,
+    "comment": "Plugin is MIT, but some parts CC-BY-NC-SA, and we always specify most restrictive in metadata.",
+    "identifier": "TextureReplacer",
+    "name": "TextureReplacer",
+    "abstract": "Kerbal personalisation, IVA suits on Kerbin and texture replacement and improvements.",
+    "author": "shaw",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/107471",
+        "repository": "https://ghproxy.net/https://github.com/ducakar/TextureReplacer",
+        "kerbalstuff": "https://kerbalstuff.com/mod/150/TextureReplacer",
+        "x_screenshot": "https://kerbalstuff.com/content/shaw_1038/TextureReplacer/TextureReplacer.jpg"
+    },
+    "version": "2.4.8",
+    "ksp_version": "1.0.4",
+    "download": "https://archive.org/download/TextureReplacer-2.4.8/89386A06-TextureReplacer-2.4.8.zip",
+    "download_size": 46258,
+    "download_hash": {
+        "sha1": "89386A0638BB19167944DB6C2F52FC6DF4AF0FCC",
+        "sha256": "73B25ABC24F755736BB88E2550006FC9AED6A761483D87D513E2F29B2744FBB8"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

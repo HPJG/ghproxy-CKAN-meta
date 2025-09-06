@@ -1,0 +1,44 @@
+{
+    "spec_version": "v1.2",
+    "identifier": "TestFlight",
+    "name": "TestFlight",
+    "abstract": "Flight Testing of your space hardware in KSP!  Fly your parts to gain flight data and make them more reliable and less likely to fail.",
+    "author": "jwvanderbeck",
+    "license": "CC-BY-NC-SA-4.0",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/88187",
+        "repository": "https://ghproxy.net/https://github.com/jwvanderbeck/TestFlight",
+        "bugtracker": "https://ghproxy.net/https://github.com/jwvanderbeck/TestFlight/issues"
+    },
+    "version": "1.2.1.0",
+    "ksp_version": "0.90",
+    "depends": [
+        {
+            "name": "ModuleManager",
+            "min_version": "2.5.8"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "RP-0"
+        },
+        {
+            "name": "RealismOverhaul"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/TestFlight",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/jwvanderbeck/TestFlight/releases/download/1.2.1.0/TestFlight-1.2.1.0.zip",
+    "download_size": 120875,
+    "download_hash": {
+        "sha1": "31B4285DE4D0025A7E0E4A0014CD756E0228F7ED",
+        "sha256": "9AD82BA72504A5AE92FDE0B2C4E9801296C2228C4C3F51D3F67FFD3524713489"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

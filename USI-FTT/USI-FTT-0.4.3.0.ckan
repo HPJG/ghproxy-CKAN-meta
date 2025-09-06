@@ -1,0 +1,48 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "USI-FTT",
+    "name": "USI Freight Transport Technologies",
+    "abstract": "A series of modular parts for all of your hauling, mining, and exploration needs!",
+    "author": "RoverDude",
+    "license": "CC-BY-NC-SA-4.0",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/91706",
+        "repository": "https://ghproxy.net/https://github.com/UmbraSpaceIndustries/FTT"
+    },
+    "version": "0.4.3.0",
+    "ksp_version_min": "1.0",
+    "ksp_version_max": "1.0.5",
+    "depends": [
+        {
+            "name": "FirespitterCore",
+            "min_version": "7.0.5398.27328"
+        },
+        {
+            "name": "ModuleManager",
+            "min_version": "2.5.1"
+        },
+        {
+            "name": "USITools",
+            "min_version": "0.4.0"
+        },
+        {
+            "name": "CommunityResourcePack",
+            "min_version": "0.2.3"
+        }
+    ],
+    "install": [
+        {
+            "find": "UmbraSpaceIndustries/FTT",
+            "install_to": "GameData/UmbraSpaceIndustries"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/UmbraSpaceIndustries/FTT/releases/download/0.4.3.0/FTT_0.4.3.0.zip",
+    "download_size": 23733780,
+    "download_hash": {
+        "sha1": "A13590C5A46D82939708F614193B2331240544FA",
+        "sha256": "6DD58372BE949AD5A41BC58FC22EA70B4BB3CCC9E2B9810E6F395F4B5CF29033"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

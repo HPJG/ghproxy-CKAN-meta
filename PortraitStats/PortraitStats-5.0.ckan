@@ -1,0 +1,25 @@
+{
+    "spec_version": 1,
+    "identifier": "PortraitStats",
+    "name": "Portrait Stats",
+    "abstract": "Displays the type and level of each Kerbal over their portrait in the lower-right corner during flight",
+    "author": "DMagic",
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/120731",
+        "repository": "https://ghproxy.net/https://github.com/DMagic1/KSP-Portrait-Stats",
+        "kerbalstuff": "https://kerbalstuff.com/mod/899/Portrait%20Stats",
+        "x_screenshot": "https://kerbalstuff.com/content/DMagic_6/Portrait_Stats/Portrait_Stats-1433953116.7958252.png"
+    },
+    "version": "5.0",
+    "ksp_version": "1.0.4",
+    "download": "https://archive.org/download/PortraitStats-5.0/1E45A45F-PortraitStats-5.0.zip",
+    "download_size": 17436,
+    "download_hash": {
+        "sha1": "1E45A45F0AF74DBBF521EDE077244452DE9A1F6D",
+        "sha256": "4717D914E90256404C61FC36B2F4A26F729753BA0DFB3F05CCC31280D3CF0834"
+    },
+    "download_content_type": "application/zip",
+    "x_via": "Automated KerbalStuff CKAN submission",
+    "x_generated_by": "netkan"
+}

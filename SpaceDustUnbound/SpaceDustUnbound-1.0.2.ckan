@@ -1,0 +1,61 @@
+{
+    "spec_version": "v1.34",
+    "identifier": "SpaceDustUnbound",
+    "name": "Space Dust Unbound",
+    "abstract": "Expand your resource harvesting capabilities of celestial bodies from Galaxies Unbound, OPM, and even stock with your favorite (now larger!) list of resources from base Space Dust and common ones from the Community Resource Pack.",
+    "author": "Vexxel",
+    "version": "1.0.2",
+    "ksp_version_min": "1.12.3",
+    "ksp_version_max": "1.12.9",
+    "license": "MIT",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/2970/Space%20Dust%20Unbound",
+        "repository": "https://ghproxy.net/https://github.com/Vexxel/SpaceDustUnbound",
+        "bugtracker": "https://ghproxy.net/https://github.com/Vexxel/SpaceDustUnbound/issues",
+        "remote-avc": "https://raw.githubusercontent.com:443/Vexxel/SpaceDustUnbound/main/Version/SpaceDustUnbound.version",
+        "x_screenshot": "https://spacedock.info/content/Vexxel_76203/SpaceDustUnbound/SpaceDustUnbound-1643969459.png"
+    },
+    "tags": [
+        "config"
+    ],
+    "localizations": [
+        "en-us"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "SpaceDust"
+        },
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "GalaxiesUnbound-Core"
+        },
+        {
+            "name": "OuterPlanetsMod"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "Blueshift"
+        }
+    ],
+    "download": [
+        "https://ghproxy.net/https://github.com/Vexxel/SpaceDustUnbound/releases/download/v1.0.2/SpaceDustUnbound.v1.0.2.zip",
+        "https://spacedock.info/mod/2970/Space%20Dust%20Unbound/download/1.0.2"
+    ],
+    "download_size": 143260,
+    "download_hash": {
+        "sha1": "60F7E5CD7296DC065E0203B38464FB312AC4201C",
+        "sha256": "03AF903CEE0925AE9FF2F27E7A16AE57BE6222B7E8BB1989152E5E161B17919A"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 626693,
+    "release_date": "2022-05-11T22:31:10.037262+00:00",
+    "x_generated_by": "netkan"
+}

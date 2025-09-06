@@ -1,0 +1,36 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "RealisticHeatMgmt",
+    "name": "Realistic Heat Managment",
+    "abstract": "A Kerbal Space Program mod which replaces heatshield materials with a realistic one",
+    "author": "BottleRocketeer",
+    "version": "1.1",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/162255-*",
+        "repository": "https://ghproxy.net/https://github.com/BottleRocketeer/RealisticHeatManagment"
+    },
+    "tags": [
+        "config",
+        "resources"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "Realistic Heat Managment",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/BottleRocketeer/RealisticHeatManagment/releases/download/1.1/Realistic.Heat.Managment.1.1.zip",
+    "download_size": 1618,
+    "download_hash": {
+        "sha1": "28E6FC6BDE0110DDC45B771B20B62FED4C5C0992",
+        "sha256": "52427065A0946BEEEC466A14B83C3FF570F1CFD25C4B6F24F6065B46BC0D6140"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,36 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "RacingWheels77",
+    "name": "77 Racing Wheels",
+    "abstract": "Adjusted wheels with a powerful racing sound for getting somewhere in a hurry.",
+    "author": "Azimech",
+    "license": "LGPL-3.0",
+    "resources": {
+        "kerbalstuff": "https://kerbalstuff.com/mod/1369/77%20Racing%20Wheels",
+        "x_screenshot": "https://kerbalstuff.com/content/Azimech_2742/77_Racing_Wheels/77_Racing_Wheels-1451313383.1926804.png"
+    },
+    "version": "1.0",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "RoverWheelSounds"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "77Industries",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/RacingWheels77-1.0/D20D8443-RacingWheels77-1.0.zip",
+    "download_size": 819086,
+    "download_hash": {
+        "sha1": "D20D8443C1BC5CEAF63DF3F05747A5FED82A309D",
+        "sha256": "4577AE2C535829C024AB9F2AC7B534C7B92070C186931A04FBF39B8D8EBFA56D"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

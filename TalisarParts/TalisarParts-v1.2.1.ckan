@@ -1,0 +1,33 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "TalisarParts",
+    "name": "Talisar Parts",
+    "abstract": "Update of Talisar's Spherical and Toroidal Tanks pack",
+    "author": [
+        "Talisar",
+        "Olympic1",
+        "taniwha"
+    ],
+    "version": "v1.2.1",
+    "ksp_version_min": "1.4",
+    "ksp_version_max": "1.7",
+    "license": "CC-BY-SA-3.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/116849-*"
+    },
+    "localizations": [
+        "es-es",
+        "zh-cn",
+        "ru",
+        "en-us",
+        "ja"
+    ],
+    "download": "https://archive.org/download/TalisarParts-v1.2.1/044771FC-TalisarParts-v1.2.1.zip",
+    "download_size": 7723945,
+    "download_hash": {
+        "sha1": "044771FCE912D94FEAD679268A1F76DBDF0FA138",
+        "sha256": "69CD8C9254A8755DF47AF805835EFAD0DD3DAEA3503A84425AAA9E41DF2056D3"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

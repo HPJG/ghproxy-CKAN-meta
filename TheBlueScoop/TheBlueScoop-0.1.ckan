@@ -1,0 +1,38 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "TheBlueScoop",
+    "name": "The Blue Scoop",
+    "abstract": "Add a scoop for Argon, Xenon and Hydrogen",
+    "author": "silversliver",
+    "license": "MIT",
+    "resources": {
+        "kerbalstuff": "https://kerbalstuff.com/mod/1089/The%20Blue%20Scoop",
+        "x_screenshot": "https://kerbalstuff.com/content/silversliver_13658/The_Blue_Scoop/The_Blue_Scoop-1439929212.230611.png"
+    },
+    "version": "0.1",
+    "ksp_version": "1.0.4",
+    "depends": [
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "NearFuturePropulsion"
+        }
+    ],
+    "install": [
+        {
+            "find": "BlueTech",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/TheBlueScoop-0.1/A8A84CEF-TheBlueScoop-0.1.zip",
+    "download_size": 439615,
+    "download_hash": {
+        "sha1": "A8A84CEF276D9F8C56B5DC8F134A8622ED01FA5A",
+        "sha256": "6447FC59B02D3650AFAAD923BCEBD274E967DB7207E527333C709948624F64B2"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

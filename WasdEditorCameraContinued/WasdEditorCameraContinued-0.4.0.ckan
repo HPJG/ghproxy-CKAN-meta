@@ -1,0 +1,33 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "WasdEditorCameraContinued",
+    "name": "WASDEditorCameraContinued",
+    "abstract": "More flexible controls in the editor windows",
+    "author": "linuxgurugamer",
+    "license": "MIT",
+    "resources": {
+        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/WasdEditorCameraContinued",
+        "kerbalstuff": "https://kerbalstuff.com/mod/1157/WASDEditorCameraContinued"
+    },
+    "version": "0.4.0",
+    "ksp_version": "1.0.4",
+    "conflicts": [
+        {
+            "name": "WasdEditorCamera"
+        }
+    ],
+    "install": [
+        {
+            "find": "WasdEditorCamera",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/WasdEditorCameraContinued-0.4.0/BD7C8B63-WasdEditorCameraContinued-0.4.0.zip",
+    "download_size": 22448,
+    "download_hash": {
+        "sha1": "BD7C8B638297ABC5749C43C7EF5BE1C7833F8067",
+        "sha256": "2C7E49F13E99B844F2086750C5FE59161EF92B3E3AE250B3501739225CA00999"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

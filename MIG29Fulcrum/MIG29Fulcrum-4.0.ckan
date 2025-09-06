@@ -1,0 +1,46 @@
+{
+    "spec_version": "v1.2",
+    "identifier": "MIG29Fulcrum",
+    "name": "MIG 29 Fulcrum",
+    "abstract": "From Behind the Iron Curtain, ",
+    "author": "LuizChacon",
+    "license": "WTFPL",
+    "resources": {
+        "homepage": "http://starbaseone.freeforums.net/",
+        "kerbalstuff": "https://kerbalstuff.com/mod/876/MIG%2029%20Fulcrum",
+        "x_screenshot": "https://kerbalstuff.com/content/LuizChacon_128/MIG_29_Fulcrum/MIG_29_Fulcrum-1433193345.1579986.png"
+    },
+    "version": "4.0",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "FirespitterCore"
+        },
+        {
+            "name": "BahamutoDynamicsPartsPack"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "BDArmory"
+        },
+        {
+            "name": "AdjustableLandingGear"
+        }
+    ],
+    "install": [
+        {
+            "file": "Mig 29 Fulcrum",
+            "install_to": "GameData/Skunk_Works",
+            "filter": "Thumbs.db"
+        }
+    ],
+    "download": "https://archive.org/download/MIG29Fulcrum-4.0/90835CCD-MIG29Fulcrum-4.0.zip",
+    "download_size": 9867162,
+    "download_hash": {
+        "sha1": "90835CCD8AF8D5E5E5F19AEEC3A63F01A3131245",
+        "sha256": "C84D959F5F5B357BE56CFEE2CA1D1A73EFDB9439050696419C9108314838D60E"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

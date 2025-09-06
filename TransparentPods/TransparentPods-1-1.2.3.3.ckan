@@ -1,0 +1,70 @@
+{
+    "spec_version": 1,
+    "identifier": "TransparentPods",
+    "name": "Transparent Pods",
+    "abstract": "Continuation of Transparent Command Pods by (first by nli2work), 3 pods, 2 legs, 2 eva-rails, 1 Mini Klaw, all with modcons!",
+    "author": "zer0Kerbal",
+    "version": "1:1.2.3.3",
+    "ksp_version_min": "1.6.1",
+    "ksp_version_max": "1.7.3",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/187495-*/",
+        "spacedock": "https://spacedock.info/mod/2212/Transparent%20Pods",
+        "repository": "https://ghproxy.net/https://github.com/zer0Kerbal/TransparentPods",
+        "bugtracker": "https://ghproxy.net/https://github.com/zer0Kerbal/TransparentPods/issues",
+        "discussions": "https://ghproxy.net/https://github.com/zer0Kerbal/TransparentPods/discussions",
+        "remote-avc": "https://ghproxy.net/https://github.com/zer0Kerbal/TransparentPods/raw/master/TransparentPods.version",
+        "x_screenshot": "https://spacedock.info/content/zer0Kerbal_21147/Transparent_Pods/Transparent_Pods-1652848957.png"
+    },
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "RasterPropMonitor"
+        },
+        {
+            "name": "JSIAdvancedTransparentPods"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "AllYAll"
+        },
+        {
+            "name": "DockingCamKURS"
+        },
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "KAS"
+        },
+        {
+            "name": "InfernalRoboticsNext"
+        },
+        {
+            "name": "KerbalJointReinforcementNext"
+        },
+        {
+            "name": "KerbalChangelog"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2212/Transparent%20Pods/download/1.2.3.3",
+    "download_size": 5513421,
+    "download_hash": {
+        "sha1": "2E8FB1007B0610DFAF984235A2B36FEB64F8CE51",
+        "sha256": "36E74AF85322C13DDC782F66C4767322268F5513A15FB0E4A25D6F4F7DD242A6"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 7510855,
+    "release_date": "2019-10-16T18:47:52.723194+00:00",
+    "x_generated_by": "netkan"
+}

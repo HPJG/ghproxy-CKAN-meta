@@ -1,0 +1,43 @@
+{
+    "spec_version": 1,
+    "comment": "This package contains the plugin, and the standard parts library.",
+    "identifier": "RasterPropMonitor-Core",
+    "name": "RasterPropMonitor Core",
+    "abstract": "A toolkit for creating interactive IVA experiences.",
+    "author": [
+        "MOARdV",
+        "Mihara"
+    ],
+    "license": "GPL-3.0",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/117471",
+        "repository": "https://ghproxy.net/https://github.com/Mihara/RasterPropMonitor",
+        "manual": "https://ghproxy.net/https://github.com/Mihara/RasterPropMonitor/wiki"
+    },
+    "version": "v0.19.0",
+    "ksp_version": "1.0.0",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/JSI",
+            "filter": [
+                "Agencies",
+                "RPMPodPatches"
+            ],
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/Mihara/RasterPropMonitor/releases/download/v0.19/RasterPropMonitor-dev19.zip",
+    "download_size": 586836,
+    "download_hash": {
+        "sha1": "D501770F713C153D0B35BBFB3D14F3FD500D1E72",
+        "sha256": "0406086FC3FC4E28FDD092CF892071ECD0D3C085553BF59C49C422196E5891D2"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

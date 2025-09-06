@@ -1,0 +1,35 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "PersistentRotation",
+    "name": "PersistentRotation",
+    "abstract": "Persistent rotation, momentum and much more!",
+    "author": "MarkusA380",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/102277-10x-persistentrotation-102/",
+        "spacedock": "https://spacedock.info/mod/447/PersistentRotation",
+        "repository": "https://ghproxy.net/https://github.com/MarkusA380/PersistentRotation",
+        "x_screenshot": "https://spacedock.info/content/MarkusA380_985/PersistentRotation/PersistentRotation-1459174738.8231518.jpg"
+    },
+    "version": "1.0.2",
+    "ksp_version": "1.0.5",
+    "suggests": [
+        {
+            "name": "Toolbar"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/PersistentRotation",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/447/PersistentRotation/download/1.0.2",
+    "download_size": 36793,
+    "download_hash": {
+        "sha1": "AB74495C11CEE0610BCF373F517D49CC3880F299",
+        "sha256": "BC9247948744237D969EFAFE6F60DA93FAFF331B9362049AA3F4E563C2C163E5"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

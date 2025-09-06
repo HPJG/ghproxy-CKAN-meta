@@ -1,0 +1,29 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "PorkalikeRapier",
+    "name": "Porkalike Rapier",
+    "abstract": "A re-imagining of the stock R.A.P.I.E.R. engine, with brand new art to match Porkjets fantastic style. It's a separate part from the stock version, but it has the same stats and is the same size. ",
+    "author": "hoojiwana",
+    "license": "CC-BY-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/128224-porkalike-rapier/",
+        "kerbalstuff": "https://kerbalstuff.com/mod/1353/Porkalike%20Rapier",
+        "x_screenshot": "https://kerbalstuff.com/content/hoojiwana_648/Porkalike_Rapier/Porkalike_Rapier-1450572832.635878.jpg"
+    },
+    "version": "1",
+    "ksp_version": "1.0.5",
+    "install": [
+        {
+            "find": "Porkalike_Rapier",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/PorkalikeRapier-1/2FF38264-PorkalikeRapier-1.zip",
+    "download_size": 268982,
+    "download_hash": {
+        "sha1": "2FF382647E8CF555A10E093430FB7F2B3553CCDA",
+        "sha256": "9424671A8CAE6606FBCC21D7B5D0F47714198353B793EF3D999248B8094D3A9C"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

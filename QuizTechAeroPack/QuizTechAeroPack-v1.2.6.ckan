@@ -1,0 +1,49 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "QuizTechAeroPack",
+    "name": "QuizTech Aero Pack",
+    "abstract": "An expansion of existing spaceplane part profiles!",
+    "author": "Quiznos323",
+    "license": "CC-BY-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/111691-WIP-90-QuizTech-Aero-Pack-v1-0-2-24-15",
+        "kerbalstuff": "https://kerbalstuff.com/mod/612/QuizTech%20Aero%20Pack"
+    },
+    "version": "v1.2.6",
+    "ksp_version": "1.0.2",
+    "depends": [
+        {
+            "name": "FirespitterCore"
+        },
+        {
+            "name": "ModuleRCSFX"
+        },
+        {
+            "name": "BDAnimationModules"
+        },
+        {
+            "name": "RasterPropMonitor-Core"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "QuizTechAero",
+            "install_to": "GameData"
+        },
+        {
+            "find": "Ships/SPH",
+            "install_to": "Ships"
+        }
+    ],
+    "download": "https://archive.org/download/QuizTechAeroPack-v1.2.6/253D5F60-QuizTechAeroPack-v1.2.6.zip",
+    "download_size": 41678480,
+    "download_hash": {
+        "sha1": "253D5F601D8CF630F928716A91D9FBE155D6050C",
+        "sha256": "CE6B2BB1A8077F2F444F2F48954B8A938F6BB501A5F47E5A54DEC89AC744608F"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

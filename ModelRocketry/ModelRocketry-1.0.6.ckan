@@ -1,0 +1,26 @@
+{
+    "spec_version": "v1.8",
+    "identifier": "ModelRocketry",
+    "name": "Model Rocketry",
+    "abstract": "Scaled up model rocket parts, some with customizable colors.",
+    "author": "SuperRedNova",
+    "license": [
+        "MIT",
+        "CC-BY-SA-4.0"
+    ],
+    "resources": {
+        "repository": "https://ghproxy.net/https://github.com/SuperRedNova/KSPModelRocketry",
+        "kerbalstuff": "https://kerbalstuff.com/mod/655/Model%20Rocketry",
+        "x_screenshot": "https://kerbalstuff.com/content/SuperRedNova_8238/Model_Rocketry/Model_Rocketry-1430523814.388013.png"
+    },
+    "version": "1.0.6",
+    "ksp_version": "1.0.4",
+    "download": "https://archive.org/download/ModelRocketry-1.0.6/F9EC910F-ModelRocketry-1.0.6.zip",
+    "download_size": 2714302,
+    "download_hash": {
+        "sha1": "F9EC910F7C45C06BFCB987C76DD1E552B09917B1",
+        "sha256": "2603A023BBF77DA47BF37DC21379CCD304D5318563C32FFEACCF9EF1F1F25ABB"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

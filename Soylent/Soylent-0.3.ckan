@@ -1,0 +1,39 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "Soylent",
+    "name": "Soylent",
+    "abstract": "Soylent closes the life support cycle with an alagal microbiome - works with TAC & USI life support if they are installed.",
+    "author": "UDA",
+    "license": "BSD-2-clause",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/112127-105-soylent-closing-the-life-support-cycle-with-algae-v02-20151231/",
+        "spacedock": "https://spacedock.info/mod/355/Soylent",
+        "x_screenshot": "https://spacedock.info/content/UDA_1502/Soylent/Soylent-1457237319.544962.png"
+    },
+    "version": "0.3",
+    "ksp_version": "1.1.3",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "TACLS"
+        }
+    ],
+    "install": [
+        {
+            "file": "UberDyneAstronautics",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/355/Soylent/download/0.3",
+    "download_size": 827177,
+    "download_hash": {
+        "sha1": "190CE6F6C4631FD132F8572674081A0E17912D1F",
+        "sha256": "340467F85B489B817369502639C5A85410B53F94CFEDA819E7025C96DB63349D"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

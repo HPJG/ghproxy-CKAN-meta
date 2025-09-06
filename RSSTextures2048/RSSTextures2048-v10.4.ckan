@@ -1,0 +1,37 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "RSSTextures2048",
+    "name": "Real Solar System Textures - 2048 x 1024",
+    "abstract": "Textures for Real Solar Systems",
+    "author": "NathanKell",
+    "license": "CC-BY-NC-SA",
+    "release_status": "stable",
+    "resources": {
+        "repository": "https://ghproxy.net/https://github.com/KSP-RO/RSS-Textures"
+    },
+    "version": "v10.4",
+    "ksp_version_min": "1.0.0",
+    "ksp_version_max": "1.2.999",
+    "provides": [
+        "RSSTextures"
+    ],
+    "conflicts": [
+        {
+            "name": "RSSTextures"
+        }
+    ],
+    "install": [
+        {
+            "find": "RSS-Textures",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/KSP-RO/RSS-Textures/releases/download/v10.4/2048.zip",
+    "download_size": 73213019,
+    "download_hash": {
+        "sha1": "384DA60B60FD3C1333E75185CED0099CDB65365F",
+        "sha256": "73857474C5939141CADA013392D52D593558EB11B92CB6ADECA67A8CFA8A3491"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

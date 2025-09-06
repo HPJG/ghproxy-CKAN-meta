@@ -1,0 +1,48 @@
+{
+    "spec_version": "v1.2",
+    "identifier": "RealPlume",
+    "name": "Real Plume",
+    "abstract": "Option install for Realism Overhaul, adds realistic plume expansion to engines.  See thread for currently configured engines.",
+    "author": "NathanKell",
+    "license": "CC-BY-SA",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/99966",
+        "repository": "https://ghproxy.net/https://github.com/KSP-RO/RealismOverhaul"
+    },
+    "version": "v8.1.1",
+    "ksp_version": "0.90.0",
+    "depends": [
+        {
+            "name": "RealismOverhaul"
+        },
+        {
+            "name": "SmokeScreen"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "file": "RealismOverhaul/SmokeScreen_EffectCfgs",
+            "install_to": "GameData/RealismOverhaul"
+        },
+        {
+            "file": "RealismOverhaul/SmokeScreen_MP_Nazari_FX",
+            "install_to": "GameData/RealismOverhaul"
+        },
+        {
+            "file": "RealismOverhaul/SmokeScreen_RE_Sounds",
+            "install_to": "GameData/RealismOverhaul"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/KSP-RO/RealismOverhaul/releases/download/v8.1.1/RealismOverhaul_8.1.1.zip",
+    "download_size": 17713047,
+    "download_hash": {
+        "sha1": "DD67C430500FAB87AE6CF123F5A3EF8BFAB55147",
+        "sha256": "3EF45848FF49E0CBE4C50063661FE06ED6E89D5531C06265FAEB0D02D680A0AA"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

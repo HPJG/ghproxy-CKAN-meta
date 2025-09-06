@@ -1,0 +1,34 @@
+{
+    "spec_version": 1,
+    "identifier": "KineticPenetratorbyVanguardAstrodynamics",
+    "name": "Kinetic Penetrator by Vanguard Astrodynamics",
+    "abstract": "A unique method for gathering SCIENCE! [BETA]",
+    "author": "Randazzo",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/128617",
+        "kerbalstuff": "https://kerbalstuff.com/mod/996/Kinetic%20Penetrator%20by%20Vanguard%20Astrodynamics",
+        "x_screenshot": "https://kerbalstuff.com/content/Randazzo_9223/Kinetic_Penetrator_by_Vanguard_Astrodynamics/Kinetic_Penetrator_by_Vanguard_Astrodynamics-1436830419.6926706.png"
+    },
+    "version": "0.10",
+    "ksp_version": "1.0.4",
+    "depends": [
+        {
+            "name": "KAS"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/VanguardAstrodynamics",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/KineticPenetratorbyVanguardAstrodynamics-0.10/8719B11A-KineticPenetratorbyVanguardAstrodynamics-0.10.zip",
+    "download_size": 394022,
+    "download_hash": {
+        "sha1": "8719B11AB68E64E68DE301CF56A22157D8AC91DC",
+        "sha256": "EBA0107A48DB52A04355FE31DF10193F59959A2C0604451A430908986830DD81"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

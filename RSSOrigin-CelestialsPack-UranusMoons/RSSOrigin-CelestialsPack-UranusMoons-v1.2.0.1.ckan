@@ -1,0 +1,41 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "RSSOrigin-CelestialsPack-UranusMoons",
+    "name": "RSS-Origin CelestialsPack UranusMoons",
+    "abstract": "Exclusive add-ons with hundreds of asteroids, comets, moons and overhauls RSS",
+    "author": "CharonSSS",
+    "version": "v1.2.0.1",
+    "ksp_version": "1.12",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "repository": "https://ghproxy.net/https://github.com/CharonSSS/RSS-Origin",
+        "bugtracker": "https://ghproxy.net/https://github.com/CharonSSS/RSS-Origin/issues"
+    },
+    "tags": [
+        "planet-pack"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RSSOrigin"
+        }
+    ],
+    "install": [
+        {
+            "find": "RSSOrigin",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/CharonSSS/RSS-Origin/releases/download/v1.2.0.1/RSS-Origin.CelestialsPack.UranusMoons.zip",
+    "download_size": 58366990,
+    "download_hash": {
+        "sha1": "F00C90B58FA7D724E25966C9CE34ED19A1C71E07",
+        "sha256": "712F40AC1DA8B848EEB4E8A0BAD386F89794C17DF2F269EA4D5F4C105031F06C"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 138071562,
+    "release_date": "2025-08-27T05:36:14Z",
+    "x_generated_by": "netkan"
+}

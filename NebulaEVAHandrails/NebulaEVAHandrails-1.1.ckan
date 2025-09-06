@@ -1,0 +1,29 @@
+{
+    "spec_version": 1,
+    "identifier": "NebulaEVAHandrails",
+    "name": "NEBULA EVA handrails pack.",
+    "abstract": "This pack adds 5 EVA handrails for space stations and science vessels, more suitable than ladders in weightlessness.  Handrails are usable and can be grabbed by a kerbal while on EVA and used to walk around your space station/spaceship.",
+    "author": "Krasimir",
+    "license": "CC-BY-NC-ND-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/100531",
+        "kerbalstuff": "https://kerbalstuff.com/mod/353/NEBULA%20EVA%20handrails%20pack.",
+        "x_screenshot": "https://kerbalstuff.com/content/Krasimir_4163/NEBULA_EVA_handrails_pack/NEBULA_EVA_handrails_pack.jpg"
+    },
+    "version": "1.1",
+    "ksp_version": "0.90",
+    "install": [
+        {
+            "file": "NEBULA",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/NebulaEVAHandrails-1.1/510FD527-NebulaEVAHandrails-1.1.zip",
+    "download_size": 117665,
+    "download_hash": {
+        "sha1": "510FD527B5178634BF5DD7C31D3AA578709C28F6",
+        "sha256": "8F893DA37E618DB18CFDB2235BF0C8A762EF89EAC5FE4A3E6DDDF9C1B71D2B07"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,42 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "SubmarineSystems",
+    "name": "Submarine Systems",
+    "abstract": "Duplicates and modifies some stock parts to use them in submarines.",
+    "author": "Angorek",
+    "license": "MIT",
+    "resources": {
+        "kerbalstuff": "https://kerbalstuff.com/mod/1261/Submarine%20Systems",
+        "x_screenshot": "https://kerbalstuff.com/content/Angorek_8769/Submarine_Systems/Submarine_Systems-1447437515.5106254.jpg"
+    },
+    "version": "1.0",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "FirespitterCore"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "StockFuelSwitch"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "Sub Systems",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/SubmarineSystems-1.0/C1DFE5F9-SubmarineSystems-1.0.zip",
+    "download_size": 1145974,
+    "download_hash": {
+        "sha1": "C1DFE5F96058974005C64C2E38E13388A7DC629B",
+        "sha256": "2D5FF16FDC12EE61F20343781D311B88080A41529874C8A082FE059F24A233F5"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

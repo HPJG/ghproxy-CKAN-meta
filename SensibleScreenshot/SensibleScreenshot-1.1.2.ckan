@@ -1,0 +1,30 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "SensibleScreenshot",
+    "name": "Sensible Screenshot",
+    "abstract": "Screenshots with a unique and sensible naming scheme",
+    "author": "magico13",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/107663-Magico13-s-Modlets",
+        "kerbalstuff": "https://kerbalstuff.com/mod/716/Sensible%20Screenshot",
+        "x_screenshot": "https://kerbalstuff.com/content/magico13_568/Sensible_Screenshot/Sensible_Screenshot-1430276974.7370713.png"
+    },
+    "version": "1.1.2",
+    "ksp_version": "1.0.4",
+    "install": [
+        {
+            "find": "SensibleScreenshot",
+            "install_to": "GameData",
+            "filter": "SensibleScreenshot.cs"
+        }
+    ],
+    "download": "https://archive.org/download/SensibleScreenshot-1.1.2/EB97BB97-SensibleScreenshot-1.1.2.zip",
+    "download_size": 16059,
+    "download_hash": {
+        "sha1": "EB97BB9743FFE0CB1555558D2FA8AB4897184486",
+        "sha256": "81FDA5D8572A290CFE65336D6D4B18EDD5CB5DC8E16C8D128CEE7422F6E52CC6"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

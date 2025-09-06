@@ -1,0 +1,52 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "SETI-BalanceMod",
+    "name": "SETI-Rebalance",
+    "abstract": "Former SETI-BalanceMod. Introduces (non realism overhaul) balance to KSP. Best installed via CKAN, just select it there and it will recommend all the other mods which are supported by it.",
+    "author": [
+        "Y3mo",
+        "Yemo"
+    ],
+    "version": "1.3.0.2",
+    "ksp_version": "1.3.0",
+    "license": "restricted",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/95645-*",
+        "spacedock": "https://spacedock.info/mod/14/SETI-Rebalance",
+        "x_screenshot": "https://spacedock.info/content/Y3mo_158/SETI-Rebalance/SETI-Rebalance-1455815229.1514788.jpg"
+    },
+    "tags": [
+        "config",
+        "science",
+        "career"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "KSP-AVC"
+        }
+    ],
+    "install": [
+        {
+            "find": "SETIrebalance",
+            "install_to": "GameData"
+        },
+        {
+            "find": "SETIrebalanceReactionWheels",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/14/SETI-Rebalance/download/1.3.0.2",
+    "download_size": 1059137,
+    "download_hash": {
+        "sha1": "6B42471C07EB11BF96DDAB4F749A9687B30F82AD",
+        "sha256": "036C10B7858729CA23B956E69E81BB00F81E704CF6BC47AAC560E886547D4FA5"
+    },
+    "download_content_type": "application/zip",
+    "release_date": "2017-07-07T17:15:58.338604+00:00",
+    "x_generated_by": "netkan"
+}

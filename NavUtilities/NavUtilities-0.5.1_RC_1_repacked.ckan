@@ -1,0 +1,23 @@
+{
+    "spec_version": 1,
+    "identifier": "NavUtilities",
+    "name": "NavUtilites",
+    "abstract": "Adds an HSI with ADI and ILS to KSP. Works as a popup window and inside RPM.",
+    "author": "kujuman",
+    "license": "restricted",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/85353",
+        "repository": "https://ghproxy.net/https://github.com/kujuman/NavInstruments"
+    },
+    "version": "0.5.1_RC_1_repacked",
+    "ksp_version_min": "1.0.2",
+    "ksp_version_max": "1.0.5",
+    "install": [
+        {
+            "file": "GameData/KerbalScienceFoundation",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://raw.githubusercontent.com/kujuman/NavInstruments/master/NavUtilities%200.5.1%20RC%201.zip",
+    "download_size": 821514
+}

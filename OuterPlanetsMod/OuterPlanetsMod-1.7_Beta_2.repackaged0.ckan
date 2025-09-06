@@ -1,0 +1,110 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "OuterPlanetsMod",
+    "name": "Outer Planets Mod",
+    "abstract": "Expands the Kerbol system with new planets and moons based on Saturn, Uranus, Neptune and their moons",
+    "author": "CaptRobau",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/104280-0-90-Outer-Planet-Mods-Expands-the-Kerbol-system-with-new-planets-based-on-Saturn",
+        "kerbalstuff": "https://kerbalstuff.com/mod/437/Outer%20Planets%20Mod"
+    },
+    "version": "1.7_Beta_2.repackaged0",
+    "ksp_version": "1.0.2",
+    "provides": [
+        "PlanetPack"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "JDiminishingRTG"
+        },
+        {
+            "name": "NearFuturePropulsion"
+        },
+        {
+            "name": "NearFutureElectrical"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "NearFutureConstruction"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        },
+        {
+            "name": "TransferWindowPlanner"
+        }
+    ],
+    "supports": [
+        {
+            "name": "PlanetShine"
+        },
+        {
+            "name": "DistantObjectEnhancement"
+        },
+        {
+            "name": "FinalFrontier"
+        },
+        {
+            "name": "AntennaRange"
+        },
+        {
+            "name": "RemoteTech"
+        },
+        {
+            "name": "SCANsat"
+        },
+        {
+            "name": "DeadlyReentry"
+        },
+        {
+            "name": "MunarSurfaceExperimentPackage"
+        },
+        {
+            "name": "Karbonite"
+        },
+        {
+            "name": "TextureReplacer"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "CustomBiomes"
+        },
+        {
+            "name": "PlanetPack"
+        },
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "install": [
+        {
+            "find": "OPM",
+            "install_to": "GameData"
+        },
+        {
+            "find": "Kopernicus",
+            "install_to": "GameData"
+        },
+        {
+            "find": "TextureReplacer",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/OuterPlanetsMod-1.7_Beta_2.repackaged0/D259468A-OuterPlanetsMod-1.7_Beta_2.repackaged0.zip",
+    "download_size": 67915118,
+    "download_hash": {
+        "sha1": "D259468A9C946DC2A617812AE396213DF3D39E92",
+        "sha256": "A4277F82AFBDBFEC6E0CA0E62555DF40C9D1247655E213D40F1CCF929A48757A"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

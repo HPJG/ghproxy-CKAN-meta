@@ -1,0 +1,75 @@
+{
+    "spec_version": "v0.1",
+    "identifier": "RoadToCosmosCore",
+    "name": "Road To Kosmos Core",
+    "abstract": "Soviet and American-style tech trees",
+    "author": "Niemand303",
+    "license": "CC-BY-NC-SA-4.0",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/115671",
+        "kerbalstuff": "https://kerbalstuff.com/mod/698/Road%20To%20Cosmos%20[Core]"
+    },
+    "version": "04",
+    "ksp_version": "0.90.0",
+    "depends": [
+        {
+            "name": "DMagicOrbitalScience"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "TechManager"
+        },
+        {
+            "name": "ProceduralFairings"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "Tantares"
+        },
+        {
+            "name": "TantaresLV"
+        },
+        {
+            "name": "SXT"
+        },
+        {
+            "name": "SpaceY-Lifters"
+        },
+        {
+            "name": "MechJeb2"
+        },
+        {
+            "name": "PartCatalog"
+        },
+        {
+            "name": "VenStockRevamp"
+        },
+        {
+            "name": "SDHI-ServiceModuleSystem"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "KAS"
+        }
+    ],
+    "install": [
+        {
+            "file": "RoadToKosmos",
+            "install_to": "GameData",
+            "comment": "Core"
+        },
+        {
+            "file": "TechManager",
+            "install_to": "GameData",
+            "comment": "Tech tree data"
+        }
+    ],
+    "download": "https://kerbalstuff.com/mod/698/Road%20To%20Cosmos%20%5BCore%5D/download/04",
+    "download_size": 2383053,
+    "x_generated_by": "netkan"
+}

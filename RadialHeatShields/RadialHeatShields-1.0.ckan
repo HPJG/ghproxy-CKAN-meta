@@ -1,0 +1,40 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "RadialHeatShields",
+    "name": "Radial Heat Shields",
+    "abstract": "Tired of blowing up?  Use RHS!",
+    "author": "CliftonM",
+    "license": "unrestricted",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/130057-Radial-Heat-Shields",
+        "repository": "https://ghproxy.net/https://github.com/clintmm/RadialHeatShields"
+    },
+    "version": "1.0",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "TweakScale"
+        }
+    ],
+    "install": [
+        {
+            "find": "OrionSpaceIndustries",
+            "install_to": "GameData",
+            "filter": [
+                ".DS_Store",
+                "Plugins"
+            ]
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/CliftonMarien/RadialHeatShields/releases/download/1.0/GameData.zip",
+    "download_size": 704358,
+    "download_hash": {
+        "sha1": "3E6CFE565AA73AB754B4137E0A69229308870B97",
+        "sha256": "43077D8863D841EB0AD0C51077B35FA6B4A6E82D7BA9C93240A7F481A3142605"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

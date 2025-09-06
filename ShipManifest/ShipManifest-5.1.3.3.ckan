@@ -1,0 +1,42 @@
+{
+    "spec_version": "v1.20",
+    "identifier": "ShipManifest",
+    "name": "Ship Manifest",
+    "abstract": "Manages Crew, Science, & Resources on a given vessel.",
+    "author": "Papa_Joe",
+    "license": "CC-BY-NC-SA-4.0",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/56643-/",
+        "repository": "https://ghproxy.net/https://github.com/PapaJoesSoup/ShipManifest",
+        "curse": "http://kerbal.curseforge.com/plugins/220357-ship-manifest"
+    },
+    "version": "5.1.3.3",
+    "ksp_version_min": "1.2.0",
+    "ksp_version_max": "1.2.2",
+    "suggests": [
+        {
+            "name": "ConnectedLivingSpace"
+        },
+        {
+            "name": "Toolbar"
+        },
+        {
+            "name": "DeepFreeze"
+        },
+        {
+            "name": "RemoteTech"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/PapaJoesSoup/ShipManifest/releases/download/5.1.3.3/ShipManifest.5.1.3.3_01292017.zip",
+    "download_size": 639770,
+    "download_hash": {
+        "sha1": "A9B8EFA3895E7412CAAC422EC29FF16DDCBD8FB8",
+        "sha256": "83A1F8D834F3DF3E472A36D8FB8B5145FA1A69D9016983261DC6D261D399BE99"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

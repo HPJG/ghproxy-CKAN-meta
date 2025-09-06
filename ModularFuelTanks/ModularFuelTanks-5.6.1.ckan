@@ -1,0 +1,91 @@
+{
+    "spec_version": "v1.2",
+    "identifier": "ModularFuelTanks",
+    "name": "Modular Fuel Tanks",
+    "abstract": "Refit tank with different fuel or other contents",
+    "description": "Modular Fuel Tanks allows any supported tank to be filled with exactly how much or how little fuel you want, of whatever type you want (though different tanks may allow or disallow certain fuels; jet fuel tanks won't take oxidizer for instance).",
+    "author": [
+        "taniwha",
+        "NathanKell",
+        "Swamp Ig",
+        "ChestBurster",
+        "ialdabaoth"
+    ],
+    "license": "CC-BY-SA",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/64117",
+        "repository": "https://ghproxy.net/https://github.com/NathanKell/ModularFuelSystem"
+    },
+    "version": "5.6.1",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "supports": [
+        {
+            "name": "AIESAerospace-Unofficial"
+        },
+        {
+            "name": "AIESAerospace"
+        },
+        {
+            "name": "FASA"
+        },
+        {
+            "name": "Firespitter"
+        },
+        {
+            "name": "KOSMOS"
+        },
+        {
+            "name": "KSPX"
+        },
+        {
+            "name": "KWRocketry"
+        },
+        {
+            "name": "MFSSettings"
+        },
+        {
+            "name": "NASAmission"
+        },
+        {
+            "name": "NovaPunch"
+        },
+        {
+            "name": "RLA-Stockalike"
+        },
+        {
+            "name": "SDHI"
+        },
+        {
+            "name": "SpaceShuttleEngines"
+        },
+        {
+            "name": "Squad"
+        },
+        {
+            "name": "Stretchy"
+        },
+        {
+            "name": "THHS"
+        },
+        {
+            "name": "TT"
+        },
+        {
+            "name": "TVPP"
+        }
+    ],
+    "download": "https://archive.org/download/ModularFuelTanks-5.6.1/9D1771A3-ModularFuelTanks-5.6.1.zip",
+    "download_size": 86987,
+    "download_hash": {
+        "sha1": "9D1771A380EDCF4F4BE7006FCBD84CEBDA932DC7",
+        "sha256": "03D9809C9779FDAB024E6F7E302BE538B08064E21F9F9F288382CDC7B96BD56D"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

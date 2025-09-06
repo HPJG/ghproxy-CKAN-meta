@@ -1,0 +1,28 @@
+{
+    "spec_version": 1,
+    "identifier": "KopernicusExpansion",
+    "name": "Kopernicus Expansion",
+    "abstract": "KopernicusExpansion is an expansion mod for Kopernicus so that planet creators can have more fancy features and effects for their planets.",
+    "author": "MrHappyFace",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/119211-KopernicusExpansion",
+        "repository": "https://ghproxy.net/https://github.com/HappyFaceIndustries/KopernicusExpansion"
+    },
+    "version": "0.2.0",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "Kopernicus",
+            "min_version": "1:beta-06-3"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/HappyFaceIndustries/KopernicusExpansion/releases/download/0.2.0/KopernicusExpansion_0.2.0.zip",
+    "download_size": 858230,
+    "download_hash": {
+        "sha1": "168A5727753DB77EAA6D40511312E0AEAFB7980C",
+        "sha256": "3D0CFB78193F811F3B13D602BC44680A43F55E6FB2CACF86FF04C338D3EFD037"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

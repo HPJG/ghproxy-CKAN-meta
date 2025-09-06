@@ -1,0 +1,49 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "KopernicusExpansionContinued-EVAFootprints",
+    "name": "Kopernicus Expansion Continued - EVA Footprints",
+    "abstract": "A partially continuation of KopernicusExpansion by Mr. HappyFace",
+    "author": [
+        "MrHappyFace",
+        "StollD"
+    ],
+    "version": "release-1.7.1-5",
+    "ksp_version": "1.7",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/119211-*",
+        "repository": "https://ghproxy.net/https://github.com/StollD/KopernicusExpansion-Continued",
+        "bugtracker": "https://ghproxy.net/https://github.com/StollD/KopernicusExpansion-Continued/issues"
+    },
+    "tags": [
+        "plugin",
+        "graphics",
+        "crewed"
+    ],
+    "depends": [
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "KopernicusExpansionContinued-Common"
+        }
+    ],
+    "install": [
+        {
+            "find": "KopernicusExpansion",
+            "install_to": "GameData",
+            "filter": [
+                "KEX-Common.dll"
+            ]
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/StollD/KopernicusExpansion-Continued/releases/download/release-1.7.1-5/KEX-EVAFootprints-1.7.1-5.zip",
+    "download_size": 77176,
+    "download_hash": {
+        "sha1": "97B7690158BF856360933390723A067AF7DFF02D",
+        "sha256": "B4983FAB919021435302ACECDC164D248769833E07CCCC2D904D9DE96D870253"
+    },
+    "download_content_type": "application/zip",
+    "release_date": "2019-06-08T18:04:19Z",
+    "x_generated_by": "netkan"
+}

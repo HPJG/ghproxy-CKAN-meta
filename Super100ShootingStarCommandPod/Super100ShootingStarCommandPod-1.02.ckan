@@ -1,0 +1,43 @@
+{
+    "spec_version": "v1.2",
+    "identifier": "Super100ShootingStarCommandPod",
+    "name": "Super 100 Shooting Star Command Pod",
+    "abstract": "3.75m Command pod capable of accommodating a crew of six.",
+    "author": "RaptorHunter",
+    "license": "CC-BY-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/125114-1-0-2-Super-100-Shooting-Star-Command-Pod?p=2012036#post2012036",
+        "kerbalstuff": "https://kerbalstuff.com/mod/904/Super%20100%20Shooting%20Star%20Command%20Pod",
+        "x_screenshot": "https://kerbalstuff.com/content/RaptorHunter_11552/Super_100_Shooting_Star_Command_Pod/Super_100_Shooting_Star_Command_Pod-1434041540.5252097.png"
+    },
+    "version": "1.02",
+    "ksp_version": "1.0.4",
+    "depends": [
+        {
+            "name": "RasterPropMonitor"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "Super100ShootingStarCommandPod-heatshield"
+        }
+    ],
+    "install": [
+        {
+            "file": "Super100/RaptorAerospacial/Super100",
+            "install_to": "GameData/RaptorAerospacial"
+        },
+        {
+            "file": "Super100/RaptorAerospacial/Spaces",
+            "install_to": "GameData/RaptorAerospacial"
+        }
+    ],
+    "download": "https://archive.org/download/Super100ShootingStarCommandPod-1.02/1E848BE8-Super100ShootingStarCommandPod-1.02.zip",
+    "download_size": 961865,
+    "download_hash": {
+        "sha1": "1E848BE8FB318143865DE60D445F8204C56B0533",
+        "sha256": "DF9DE5714FA3BB0AB1B9343B1041CD82376CC82005E15AA9D873B4982EBE4ACE"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

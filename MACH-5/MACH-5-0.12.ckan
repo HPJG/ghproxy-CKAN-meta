@@ -1,0 +1,29 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "MACH-5",
+    "name": "MACH_5",
+    "abstract": "a small mod for those who feel the need. the need for kerbal pudding in their space capsules",
+    "author": "Mach_966784356",
+    "license": "MIT",
+    "resources": {
+        "kerbalstuff": "https://kerbalstuff.com/mod/587/MACH_5",
+        "x_screenshot": "https://kerbalstuff.com/content/Mach_966784356_7180/MACH_5/MACH_5-1423785912.8855026.png"
+    },
+    "version": "0.12",
+    "ksp_version": "1.0.5",
+    "install": [
+        {
+            "file": "CrazyFuelTank",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://s3-us-west-2.amazonaws.com/ksp-ckan/57AAE784.zip",
+    "download_size": 405350,
+    "download_hash": {
+        "sha1": "F87F25F1D7558C7FCEA42754B392ED6EA063955B",
+        "sha256": "11AD1DFD524125D47716BA7B3C92E4C33EF98FCCF9335F272DD2AB084A735C1D"
+    },
+    "download_content_type": "application/zip",
+    "x_via": "Automated KerbalStuff CKAN submission",
+    "x_generated_by": "netkan"
+}

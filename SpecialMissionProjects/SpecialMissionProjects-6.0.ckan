@@ -1,0 +1,30 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "SpecialMissionProjects",
+    "name": "Special Mission Projects",
+    "abstract": "This mod is made up with tweaked parts to be more useful such as adding more fuel in tanks, more powerful batteries, self refueling parts that are faster and use alot less resources than the stock parts, new types of fuel. In SMP you get new ships with each update that use SMP parts.",
+    "author": "Reason",
+    "license": "unrestricted",
+    "resources": {
+        "homepage": "http://novascotiatrainz.weebly.com/ksp.html",
+        "spacedock": "https://spacedock.info/mod/1238/Special%20Mission%20Projects",
+        "x_screenshot": "https://spacedock.info/content/Reason_7535/Special_Mission_Projects/Special_Mission_Projects-1488685248.1649742.png"
+    },
+    "version": "6.0",
+    "ksp_version": "1.3.1",
+    "install": [
+        {
+            "install_to": "GameData",
+            "find": "SMP"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1238/Special%20Mission%20Projects/download/V6.0",
+    "download_size": 9187528,
+    "download_hash": {
+        "sha1": "D054CC203D62CB6A4E6ED2E180BE95D1BA60575A",
+        "sha256": "7EC22D06C039EC3252CC1FBF2BE9A45AAC05F5B49A66B364333D407052DBF2F6"
+    },
+    "download_content_type": "application/zip",
+    "x_via": "Automated Linuxgurugamer CKAN script",
+    "x_generated_by": "netkan"
+}

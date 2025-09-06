@@ -1,0 +1,38 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "NehemiahScienceCommon",
+    "name": "Nehemiah Science Common",
+    "abstract": "Science and money from experiments based on real space science.",
+    "description": "Common components for N3h3mia's mods",
+    "author": "N3h3mia",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/112336",
+        "repository": "https://ghproxy.net/https://github.com/N3h3miah/OrbitalMaterialScience",
+        "kerbalstuff": "https://kerbalstuff.com/mod/625/Kerbal%20Environmental%20Effects%20Study",
+        "x_screenshot": "https://kerbalstuff.com/content/N3h3mia_5677/Kerbal_Environmental_Effects_Study/Kerbal_Environmental_Effects_Study-1425472785.111337.jpg"
+    },
+    "version": "1.0",
+    "ksp_version": "0.90.0",
+    "depends": [
+        {
+            "name": "ModuleManager",
+            "min_version": "2.5.9"
+        }
+    ],
+    "install": [
+        {
+            "file": "NehemiahInc/NE_Science_Common",
+            "install_to": "GameData/NehemiahInc"
+        }
+    ],
+    "download": "https://archive.org/download/NehemiahScienceCommon-1.0/54234EC4-NehemiahScienceCommon-1.0.zip",
+    "download_size": 1732026,
+    "download_hash": {
+        "sha1": "54234EC48BAB6470A308786856A261EBA0FB0B9F",
+        "sha256": "34732DA5D43F33F70878D73DBC62EBB71BA053BA5964EB5FBDFA6215B63E0CA6"
+    },
+    "download_content_type": "application/zip",
+    "x_via": "Automated KerbalStuff CKAN submission",
+    "x_generated_by": "netkan"
+}

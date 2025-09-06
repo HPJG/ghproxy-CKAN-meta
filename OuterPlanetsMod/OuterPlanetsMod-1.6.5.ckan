@@ -1,0 +1,99 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "OuterPlanetsMod",
+    "name": "Outer Planets Mod",
+    "abstract": "Expands the Kerbol system with new planets and moons based on Saturn, Uranus, Neptune and their moons",
+    "author": "CaptRobau",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/104280-0-90-Outer-Planet-Mods-Expands-the-Kerbol-system-with-new-planets-based-on-Saturn",
+        "kerbalstuff": "https://kerbalstuff.com/mod/437/Outer%20Planets%20Mod"
+    },
+    "version": "1.6.5",
+    "ksp_version": "1.0.0",
+    "provides": [
+        "PlanetPack"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "KopernicusTech"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "NearFuturePropulsion"
+        },
+        {
+            "name": "NearFutureElectrical"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "TransferWindowPlanner"
+        },
+        {
+            "name": "TimeControl"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "SCANsat"
+        },
+        {
+            "name": "FinalFrontier"
+        },
+        {
+            "name": "Karbonite"
+        },
+        {
+            "name": "CustomAsteroids"
+        },
+        {
+            "name": "TextureReplacer"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "PlanetPack"
+        },
+        {
+            "name": "KSPInterstellar",
+            "comment": "Thread specificies compatibility with KSPI-Extended but warns for KSPI"
+        }
+    ],
+    "install": [
+        {
+            "find": "OPM",
+            "install_to": "GameData"
+        },
+        {
+            "find": "CustomAsteroids",
+            "install_to": "GameData"
+        },
+        {
+            "find": "TextureReplacer",
+            "install_to": "GameData"
+        },
+        {
+            "find": "KittopiaSpace",
+            "install_to": "GameData",
+            "filter": [
+                "StarFix.cfg",
+                "Help.cr_help",
+                "Plugins"
+            ]
+        }
+    ],
+    "download": "https://archive.org/download/OuterPlanetsMod-1.6.5/8138B8AD-OuterPlanetsMod-1.6.5.zip",
+    "download_size": 53975255,
+    "download_hash": {
+        "sha1": "8138B8ADACFA50AE6A35748CD704528F8619CBBC",
+        "sha256": "ADE80C32809AF018BAFFB6CCB74DACB5CAB20F884EDF1C2B4999425CC78A8A1D"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

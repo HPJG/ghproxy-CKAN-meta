@@ -1,0 +1,32 @@
+{
+    "spec_version": 1,
+    "identifier": "TweakScale",
+    "name": "TweakScale - Rescale Everything!",
+    "abstract": "TweakScale lets you change the size of a part. Not just that, but it will figure out how much fuel is in the resized part. And if it's an engine, it will become more powerful by scaling it bigger, or weaker by scaling it smaller.",
+    "author": [
+        "Biotronic",
+        "pellinor"
+    ],
+    "license": "WTFPL",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/112693",
+        "repository": "https://ghproxy.net/https://github.com/pellinor0/TweakScale"
+    },
+    "version": "v2.2.7.2",
+    "ksp_version": "1.1.0",
+    "depends": [
+        {
+            "name": "ModuleManager",
+            "min_version": "2.5.1"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/pellinor0/TweakScale/releases/download/v2.2.7.2/TweakScale-v2.2.7.2.zip",
+    "download_size": 107100,
+    "download_hash": {
+        "sha1": "7D6FCF24606FE9B10473E37AFECA951599EFF22E",
+        "sha256": "F611AF716304BB71FB642D5D6E89AF712DBB33E9A48D61EA7A39594CF280714F"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

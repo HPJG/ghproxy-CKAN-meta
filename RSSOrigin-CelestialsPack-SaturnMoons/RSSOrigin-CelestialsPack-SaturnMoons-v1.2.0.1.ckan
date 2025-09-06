@@ -1,0 +1,41 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "RSSOrigin-CelestialsPack-SaturnMoons",
+    "name": "RSS-Origin CelestialsPack SaturnMoons",
+    "abstract": "Exclusive add-ons with hundreds of asteroids, comets, moons and overhauls RSS",
+    "author": "CharonSSS",
+    "version": "v1.2.0.1",
+    "ksp_version": "1.12",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "repository": "https://ghproxy.net/https://github.com/CharonSSS/RSS-Origin",
+        "bugtracker": "https://ghproxy.net/https://github.com/CharonSSS/RSS-Origin/issues"
+    },
+    "tags": [
+        "planet-pack"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RSSOrigin"
+        }
+    ],
+    "install": [
+        {
+            "find": "RSSOrigin",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/CharonSSS/RSS-Origin/releases/download/v1.2.0.1/RSS-Origin.CelestialsPack.SaturnMoons.zip",
+    "download_size": 70839341,
+    "download_hash": {
+        "sha1": "C8314890D2A0EAA3D49C6558B9F7930DD9475F5C",
+        "sha256": "61C541172A83687771A734EE32778E22F5FB5C0D3B8DF5E004DF573268A63425"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 121749729,
+    "release_date": "2025-08-27T05:36:50Z",
+    "x_generated_by": "netkan"
+}

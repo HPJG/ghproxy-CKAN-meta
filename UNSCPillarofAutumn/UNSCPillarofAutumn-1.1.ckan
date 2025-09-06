@@ -1,0 +1,28 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "UNSCPillarofAutumn",
+    "name": "UNSC Pillar of Autumn",
+    "abstract": "this is the UNSC Pillar of Autumn, a halcyon class light cruser",
+    "author": "amankduffers",
+    "license": "MIT",
+    "resources": {
+        "kerbalstuff": "https://kerbalstuff.com/mod/1138/UNSC%20Pillar%20of%20Autumn",
+        "x_screenshot": "https://kerbalstuff.com/content/amankduffers_8935/UNSC_Pillar_of_Autumn/UNSC_Pillar_of_Autumn-1441318960.8315694.png"
+    },
+    "version": "1.1",
+    "ksp_version": "1.0.5",
+    "install": [
+        {
+            "file": "pilla of autumn",
+            "install_to": "GameData/kdufferskorp"
+        }
+    ],
+    "download": "https://archive.org/download/UNSCPillarofAutumn-1.1/064D31D1-UNSCPillarofAutumn-1.1.zip",
+    "download_size": 2617393,
+    "download_hash": {
+        "sha1": "064D31D1B672BCD32A25470276F22F7428FC6FFE",
+        "sha256": "5350606E11A7D74D4478B361064F883DD86682641F231703848BF0F6C7EE8C6A"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

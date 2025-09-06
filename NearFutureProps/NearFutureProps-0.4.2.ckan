@@ -1,0 +1,39 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "NearFutureProps",
+    "name": "Near Future IVA Props",
+    "abstract": "Props used to build IVA spaces in various mods by Nertea. This package is merely a resource and does nothing by itself.",
+    "author": "Nertea",
+    "license": "CC-BY-NC-SA-4.0",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/52042-0-21",
+        "kerbalstuff": "https://kerbalstuff.com/mod/350/Near%20Future%20Spacecraft%20Parts"
+    },
+    "version": "0.4.2",
+    "ksp_version_min": "1.0.2",
+    "ksp_version_max": "1.0.4",
+    "supports": [
+        {
+            "name": "NearFutureSpacecraft"
+        },
+        {
+            "name": "StationPartsExpansion"
+        }
+    ],
+    "install": [
+        {
+            "find": "NearFutureProps",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/NearFutureProps-0.4.2/49DB378A-NearFutureProps-0.4.2.zip",
+    "download_size": 16194684,
+    "download_hash": {
+        "sha1": "49DB378A8E6A29E578FAE9334F45D0B1EC672040",
+        "sha256": "19821ADBC96FB5FCE431E630F9EFDF204AB73FACB6CA68A3C5895B9EBB352F51"
+    },
+    "download_content_type": "application/zip",
+    "x_screenshot": "https://kerbalstuff.com/content/Nertea_3884/Near_Future_Spacecraft_Parts/Near_Future_Spacecraft_Parts.png",
+    "x_generated_by": "netkan"
+}

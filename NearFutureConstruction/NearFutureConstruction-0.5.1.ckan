@@ -1,0 +1,38 @@
+{
+    "spec_version": 1,
+    "identifier": "NearFutureConstruction",
+    "name": "Near Future Construction",
+    "abstract": "Construction parts for large craft including trusses, docking ports and adapters. ",
+    "author": "Nertea",
+    "license": "CC-BY-NC-SA-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/52042-0-21",
+        "kerbalstuff": "https://kerbalstuff.com/mod/348/Near%20Future%20Construction"
+    },
+    "version": "0.5.1",
+    "ksp_version": "1.0.0",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "InterstellarFuelSwitch"
+        },
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "CommunityTechTree"
+        }
+    ],
+    "download": "https://archive.org/download/NearFutureConstruction-0.5.1/A7C89C17-NearFutureConstruction-0.5.1.zip",
+    "download_size": 7624410,
+    "download_hash": {
+        "sha1": "A7C89C172CD26B896D703C3D872CE409C73C59A1",
+        "sha256": "F166679AB7CE0AA4CF5731EBB53CBA5F7D185E3E194B0E1E8F82EB95BFC0732F"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

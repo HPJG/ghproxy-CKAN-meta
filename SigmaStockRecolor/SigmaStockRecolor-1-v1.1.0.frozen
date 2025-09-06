@@ -1,0 +1,52 @@
+{
+    "spec_version": "v1.4",
+    "comment": "This mod used to be packaged differently but is now repackaged to allow an upgrade path.",
+    "identifier": "SigmaStockRecolor",
+    "name": "Sigma: Eve Recolor",
+    "abstract": "This mod changes the color of Eve to make it more similar to Venus.",
+    "author": "Sigma88",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/112095",
+        "repository": "https://ghproxy.net/https://github.com/Sigma88/Sigma-EveRecolor"
+    },
+    "version": "1:v1.1.0",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus",
+            "min_version": "1:beta-05-2"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "BilliardsPlanetPack"
+        },
+        {
+            "name": "NewHorizons"
+        },
+        {
+            "name": "RealSolarSystem"
+        },
+        {
+            "name": "ToySolarSystem"
+        }
+    ],
+    "install": [
+        {
+            "find": "EveRecolor",
+            "install_to": "GameData/Sigma"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/Sigma88/Sigma-EveRecolor/releases/download/v1.1.0/Sigma-EveRecolor.v1.1.0.zip",
+    "download_size": 1145317,
+    "download_hash": {
+        "sha1": "825DC0745A0D3BC6FAA41962A5B184AE4D13C62E",
+        "sha256": "800BF97DCF4EBFD8E14EF3FC87E1000432B094FAF8A846422D0D2F6B184A13AE"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

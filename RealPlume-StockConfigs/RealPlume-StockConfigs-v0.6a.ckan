@@ -1,0 +1,80 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "RealPlume-StockConfigs",
+    "name": "Real Plume - Stock Configs",
+    "abstract": "A set of effects and basic configs that can be attached to any engine as appropriate.  Requires secondary configs to function correctly.",
+    "author": "Felger",
+    "license": "CC-BY-NC-SA",
+    "resources": {
+        "homepage": "https://ghproxy.net/https://github.com/KSP-RO/RealPlume/wiki",
+        "repository": "https://ghproxy.net/https://github.com/KSP-RO/RealPlume-StockConfigs"
+    },
+    "version": "v0.6a",
+    "ksp_version": "1.0.4",
+    "provides": [
+        "RealPlumeConfigs"
+    ],
+    "depends": [
+        {
+            "name": "RealPlume"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "ABLaunchers"
+        },
+        {
+            "name": "AIESAerospace-Unofficial"
+        },
+        {
+            "name": "AtomicAge"
+        },
+        {
+            "name": "FASA"
+        },
+        {
+            "name": "KSPX"
+        },
+        {
+            "name": "KWRocketry"
+        },
+        {
+            "name": "ModularRocketSystem"
+        },
+        {
+            "name": "ProceduralParts"
+        },
+        {
+            "name": "SpaceY-Lifters"
+        },
+        {
+            "name": "SXT"
+        },
+        {
+            "name": "Tantares"
+        },
+        {
+            "name": "TantaresLV"
+        },
+        {
+            "name": "TundraExploration"
+        },
+        {
+            "name": "VenStockRevamp"
+        }
+    ],
+    "install": [
+        {
+            "find": "RealPlume-Stock",
+            "install_to": "GameData/RealPlume"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/KSP-RO/RealPlume-StockConfigs/releases/download/v0.6a/RealPlume-StockConfigs_v0.6a.zip",
+    "download_size": 102997,
+    "download_hash": {
+        "sha1": "E97C1F01480B6C57D9DD709911A9C29CBA4D5145",
+        "sha256": "1E950D985B74FDD481FC0E67B9A3467230DF286F2215C5541B3711F56949E264"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,28 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "PhysicsRangeExtender",
+    "name": "Physics Range Extender",
+    "abstract": "This is a KSP mod that will extend the physics range",
+    "author": "jrodrigv",
+    "license": "Unlicense",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/158344-*",
+        "repository": "https://ghproxy.net/https://github.com/jrodrigv/PhysicsRangeExtender"
+    },
+    "version": "1.6.0",
+    "ksp_version_min": "1.4.0",
+    "ksp_version_max": "1.4.99",
+    "suggests": [
+        {
+            "name": "KerbalJointReinforcement"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/jrodrigv/PhysicsRangeExtender/releases/download/1.6.0/PhysicsRangeExtender.1.6_03182018.zip",
+    "download_size": 14542,
+    "download_hash": {
+        "sha1": "4AF6176E1C72181134141F325C8E37624A583774",
+        "sha256": "1AE8897A5DDE10A2F1C8AAE7AF67CFE3027DFE51303543E08FD0A34CA822C189"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

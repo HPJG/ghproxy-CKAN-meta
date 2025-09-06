@@ -1,0 +1,37 @@
+{
+    "spec_version": 1,
+    "identifier": "PartMapper",
+    "name": "KerbalX Part Mapper",
+    "abstract": "Mapping tool for craft sharing site with Auto Mod Detection and Search-By-Mod feature. Not the primary KerbalX Mod",
+    "author": "katateochi",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/150441-140-kerbalx-mod-upload-to-kerbalx-direct-from-ksp/",
+        "repository": "https://ghproxy.net/https://github.com/Sujimichi/KerbalX",
+        "bugtracker": "https://ghproxy.net/https://github.com/Sujimichi/KerbalX/issues"
+    },
+    "tags": [
+        "plugin",
+        "app"
+    ],
+    "version": "0.4.2",
+    "ksp_version": "any",
+    "install": [
+        {
+            "file": "PartMapper.exe",
+            "install_to": "GameRoot"
+        },
+        {
+            "file": "ignore_mods.txt",
+            "install_to": "GameRoot"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/Sujimichi/KerbalX/releases/download/0.4.2/PartMapper.zip",
+    "download_size": 2364774,
+    "download_hash": {
+        "sha1": "B427EC1C84C94C0CB252C2BF36263519B31A7593",
+        "sha256": "5664A2EA5C2C6D0C3CEE639196B7B2D07FBF8962C3D163D2E3C20F1AF782B369"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

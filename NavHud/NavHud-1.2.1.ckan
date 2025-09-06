@@ -1,0 +1,28 @@
+{
+    "spec_version": 1,
+    "identifier": "NavHud",
+    "name": "NavHud",
+    "abstract": "a NavBall inspired Heads Up Display",
+    "author": "Ninenium",
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/81543",
+        "repository": "https://ghproxy.net/https://github.com/Ninenium/NavHud"
+    },
+    "version": "1.2.1",
+    "ksp_version": "1.0",
+    "install": [
+        {
+            "file": "GameData/NavHud",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/Ninenium/NavHud/releases/download/1.2.1/NavHud_1.2.1.zip",
+    "download_size": 59522,
+    "download_hash": {
+        "sha1": "3EE04DFAC1576FFAD2419D3251CD92A45294692E",
+        "sha256": "FBD9ABD862F470210F72996F0B3AFB15449AF41EB6E3099084D9796A933D0F9F"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

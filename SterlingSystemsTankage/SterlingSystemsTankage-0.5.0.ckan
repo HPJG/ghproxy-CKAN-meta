@@ -1,0 +1,65 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "SterlingSystemsTankage",
+    "name": "Sterling Tankage",
+    "abstract": "Tank you very much. Do come again",
+    "author": "JadeOfMaar",
+    "version": "0.5.0",
+    "ksp_version": "1.12.5",
+    "license": "restricted",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/219609-*/",
+        "repository": "https://ghproxy.net/https://github.com/JadeOfMaar/SterlingSystems",
+        "bugtracker": "https://ghproxy.net/https://github.com/JadeOfMaar/SterlingSystems/issues",
+        "discussions": "https://ghproxy.net/https://github.com/JadeOfMaar/SterlingSystems/discussions",
+        "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/SterlingSystems/main/GameData/SterlingSystems/Version/SterlingSystems.version"
+    },
+    "tags": [
+        "parts",
+        "resources"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "SterlingSystemsAgency"
+        },
+        {
+            "name": "WildBlueTools"
+        }
+    ],
+    "supports": [
+        {
+            "name": "CryoTanks"
+        },
+        {
+            "name": "ExtraPlanetaryLaunchpads"
+        },
+        {
+            "name": "FarFutureTechnologies"
+        },
+        {
+            "name": "RationalResources"
+        }
+    ],
+    "install": [
+        {
+            "find": "Tankage",
+            "install_to": "GameData/SterlingSystems"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/JadeOfMaar/SterlingSystems/releases/download/0.5.0/SterlingSystems_Tankage_0.5.0.zip",
+    "download_size": 13127581,
+    "download_hash": {
+        "sha1": "6D0828E743F5632683260B061A0A691DEDDDD60E",
+        "sha256": "5A68576416A824034556A3130762ED966F1FBA84FF79A1D2BD69EA7636F2F399"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 99897537,
+    "release_date": "2025-07-19T23:14:26Z",
+    "x_generated_by": "netkan"
+}

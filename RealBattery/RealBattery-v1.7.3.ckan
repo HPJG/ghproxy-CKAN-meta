@@ -1,0 +1,42 @@
+{
+    "spec_version": 1,
+    "identifier": "RealBattery",
+    "name": "Real Battery",
+    "abstract": "Realistic behaving electrical storage. Including state of the art Li-Ion rechargeable batteries!",
+    "author": "blackliner",
+    "version": "v1.7.3",
+    "ksp_version": "1.7.3",
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/151164-*",
+        "repository": "https://ghproxy.net/https://github.com/blackliner/RealBattery",
+        "bugtracker": "https://ghproxy.net/https://github.com/blackliner/RealBattery/issues",
+        "remote-avc": "https://ghproxy.net/https://github.com/blackliner/RealBattery/raw/master/RealBattery/GameData/RealBattery/RealBattery.version"
+    },
+    "tags": [
+        "plugin",
+        "physics"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "DynamicBatteryStorage"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/blackliner/RealBattery/releases/download/v1.7.3/RealBattery.zip",
+    "download_size": 7677,
+    "download_hash": {
+        "sha1": "92708C3236B4676A89F30650DB46CCF14B432A4B",
+        "sha256": "ACFB2CC557A313CC8F653A422C1B84C194D5BEE440B705A46E8A2EEE5CFD04B1"
+    },
+    "download_content_type": "application/zip",
+    "release_date": "2019-07-29T20:07:48Z",
+    "x_generated_by": "netkan"
+}

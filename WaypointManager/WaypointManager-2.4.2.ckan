@@ -1,0 +1,33 @@
+{
+    "spec_version": 1,
+    "identifier": "WaypointManager",
+    "name": "Waypoint Manager",
+    "abstract": "Display waypoints while in flight, create custom waypoints.",
+    "description": "Display waypoints while in flight, create custom waypoints.",
+    "author": "nightingale",
+    "license": "MIT",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/104758",
+        "repository": "https://ghproxy.net/https://github.com/jrossignol/WaypointManager",
+        "bugtracker": "https://ghproxy.net/https://github.com/jrossignol/WaypointManager/issues",
+        "license": "https://raw.githubusercontent.com/jrossignol/WaypointManager/master/LICENSE.txt"
+    },
+    "version": "2.4.2",
+    "ksp_version_min": "1.0.0",
+    "ksp_version_max": "1.0.4",
+    "install": [
+        {
+            "file": "GameData/WaypointManager",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/jrossignol/WaypointManager/releases/download/2.4.2/WaypointManager_2.4.2.zip",
+    "download_size": 77499,
+    "download_hash": {
+        "sha1": "A172152A3A1925125180DC2674D071DEA90F4B40",
+        "sha256": "B86F9D3025D13549CCE14C49D569206CB628E94FEEFA428E439DF6875289A587"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,28 @@
+{
+    "spec_version": 1,
+    "identifier": "superspaceparts",
+    "name": "super space parts!",
+    "abstract": "add economic fuel tank ;)",
+    "author": "niky83160",
+    "license": "unrestricted",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/122462",
+        "kerbalstuff": "https://kerbalstuff.com/mod/846/super%20space%20parts!"
+    },
+    "version": "1.x",
+    "ksp_version": "1.0.2",
+    "install": [
+        {
+            "file": "Super space co",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/superspaceparts-1.x/DBD25293-superspaceparts-1.x.zip",
+    "download_size": 572012,
+    "download_hash": {
+        "sha1": "DBD2529321BF49E74EB318AAF356372A5F642D6D",
+        "sha256": "CBE05C1F59A38166C3E46691A19EC7D3F81ACA08EE120F612C670F9DB249DDCB"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

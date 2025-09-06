@@ -1,0 +1,43 @@
+{
+    "spec_version": "v1.20",
+    "identifier": "ShipManifest",
+    "name": "ShipManifest",
+    "abstract": "Ship Manifest is a tool to manage your ship's \"things\".",
+    "author": "Papa_Joe",
+    "license": "CC-BY-NC-SA-4.0",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/56643-/",
+        "spacedock": "https://spacedock.info/mod/189/ShipManifest",
+        "repository": "https://ghproxy.net/https://github.com/PapaJoesSoup/ShipManifest",
+        "curse": "http://kerbal.curseforge.com/plugins/220357-ship-manifest",
+        "x_screenshot": "https://spacedock.info/content/Papa_Joe_926/ShipManifest/ShipManifest-1455928385.1139288.png"
+    },
+    "version": "4.4.2.0",
+    "ksp_version": "1.0.5",
+    "suggests": [
+        {
+            "name": "ConnectedLivingSpace"
+        },
+        {
+            "name": "Toolbar"
+        },
+        {
+            "name": "DeepFreeze"
+        },
+        {
+            "name": "RemoteTech"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/189/ShipManifest/download/4.4.2.0",
+    "download_size": 630306,
+    "download_hash": {
+        "sha1": "C73EA3E20B11F8CA6D9B4A79A62F2073E06E88AB",
+        "sha256": "9305684232094181AE075BAE38C1B30BBC736EC9FCAFAD163A007D6613C2E2F1"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,29 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "MasterTechAerospace",
+    "name": "Master Tech Aerospace",
+    "abstract": "Pack containing parts for tactical fighter jets and other military aircraft.",
+    "author": "TMasterson5",
+    "license": "CC-BY-SA-2.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/131460-(WIP)-Master-Tech-Aerospace-Mod-development",
+        "kerbalstuff": "https://kerbalstuff.com/mod/1079/Master%20Tech%20Aerospace",
+        "x_screenshot": "https://kerbalstuff.com/content/TMasterson5_13720/Master_Tech_Aerospace/Master_Tech_Aerospace-1443641694.7160928.png"
+    },
+    "version": "2.2",
+    "ksp_version": "1.0.4",
+    "install": [
+        {
+            "find": "MTA",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/MasterTechAerospace-2.2/BE9F495A-MasterTechAerospace-2.2.zip",
+    "download_size": 2121058,
+    "download_hash": {
+        "sha1": "BE9F495A23D53A8B3696E0D778A270F3F4EF6809",
+        "sha256": "8804F39849D6374AD673D8C16E7B26D59B40AD7ED5C330D0086E1C26BF473A26"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

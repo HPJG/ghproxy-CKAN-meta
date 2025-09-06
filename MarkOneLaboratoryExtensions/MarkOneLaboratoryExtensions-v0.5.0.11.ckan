@@ -1,0 +1,42 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "MarkOneLaboratoryExtensions",
+    "name": "Mark One Laboratory Extensions",
+    "abstract": "Build spacecraft inspired by the Manned Orbiting Laboratory (MOL)",
+    "author": "Angel125",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/94352-alpha-105-mark-one-laboratory-extensions-mole-v042/&page=1",
+        "repository": "https://ghproxy.net/https://github.com/Angel-125/MOLE"
+    },
+    "version": "v0.5.0.11",
+    "ksp_version": "1.1.1",
+    "depends": [
+        {
+            "name": "CommunityResourcePack",
+            "min_version": "0.4.9"
+        },
+        {
+            "name": "WildBlueTools",
+            "min_version": "1.0.32"
+        },
+        {
+            "name": "ModuleManager",
+            "min_version": "2.6.18"
+        }
+    ],
+    "install": [
+        {
+            "find": "GameData/WildBlueIndustries/MOLE",
+            "install_to": "GameData/WildBlueIndustries"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/Angel-125/MOLE/releases/download/v0.5.0.11/MOLE_0_5_0_11.zip",
+    "download_size": 7952986,
+    "download_hash": {
+        "sha1": "FC0E08389CF9B56CBDF21E5E6F63958AE97041C4",
+        "sha256": "F5C3197B42EDB9CF5CAFB2A0F9A27E72081AF1EAD0A4AFB29D1784D2DC78DA79"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

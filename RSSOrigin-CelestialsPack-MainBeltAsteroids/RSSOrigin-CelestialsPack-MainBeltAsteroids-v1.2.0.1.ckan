@@ -1,0 +1,41 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "RSSOrigin-CelestialsPack-MainBeltAsteroids",
+    "name": "RSS-Origin CelestialsPack MainBeltAsteroids",
+    "abstract": "Exclusive add-ons with hundreds of asteroids, comets, moons and overhauls RSS",
+    "author": "CharonSSS",
+    "version": "v1.2.0.1",
+    "ksp_version": "1.12",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "repository": "https://ghproxy.net/https://github.com/CharonSSS/RSS-Origin",
+        "bugtracker": "https://ghproxy.net/https://github.com/CharonSSS/RSS-Origin/issues"
+    },
+    "tags": [
+        "planet-pack"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RSSOrigin"
+        }
+    ],
+    "install": [
+        {
+            "find": "RSSOrigin",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/CharonSSS/RSS-Origin/releases/download/v1.2.0.1/RSS-Origin.CelestialsPack.MainBeltAsteroids.zip",
+    "download_size": 262215358,
+    "download_hash": {
+        "sha1": "04C14F68F1794ECC1681B377FAE3D861309CD274",
+        "sha256": "FF1C886C962B26F23EFDB1C3D2787DA92F4546C3EE6AA77A1405D5C8D1D72CF7"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 460548464,
+    "release_date": "2025-08-27T05:37:35Z",
+    "x_generated_by": "netkan"
+}

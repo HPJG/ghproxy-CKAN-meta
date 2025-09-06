@@ -1,0 +1,29 @@
+{
+    "spec_version": 1,
+    "identifier": "QuickScroll",
+    "name": "QuickScroll",
+    "abstract": "QuickScroll is a small plugin which adds the possibility to scroll the parts pages, the categories and the filters on the editor with the mouse wheel and with keyboard shortcuts.",
+    "author": "malah",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/95168",
+        "repository": "https://ghproxy.net/https://github.com/malahx/QuickScroll",
+        "kerbalstuff": "https://kerbalstuff.com/mod/436/QuickScroll",
+        "x_screenshot": "https://kerbalstuff.com/content/malah_88/QuickScroll/QuickScroll.png"
+    },
+    "version": "v1.31",
+    "ksp_version": "1.0.4",
+    "conflicts": [
+        {
+            "name": "PartCatalog"
+        }
+    ],
+    "download": "https://archive.org/download/QuickScroll-v1.31/66CF9ADC-QuickScroll-v1.31.zip",
+    "download_size": 107640,
+    "download_hash": {
+        "sha1": "66CF9ADC3A0CB254B2B29BEBB67D19FED407B372",
+        "sha256": "F1EC4F65D81D10448A021EDE800E38B9A60B578614BEAAAA18336B2C45403F12"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,50 @@
+{
+    "spec_version": 1,
+    "identifier": "UKS-Kerbalism-Patch",
+    "name": "UKS-Kerbalism Patch",
+    "abstract": "Makes UKS parts work with Kerbalism!",
+    "author": "N70",
+    "license": "MIT",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/730/UKS-Kerbalism%20Patch"
+    },
+    "version": "2.0",
+    "ksp_version_min": "1.1.2",
+    "ksp_version_max": "1.1.99",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "UKS"
+        },
+        {
+            "name": "Kerbalism",
+            "min_version": "1.0.0"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "KSP-AVC"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "USI-LS"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/UKS-KerbalismPatch",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/730/UKS-Kerbalism%20Patch/download/2.0",
+    "download_size": 18964,
+    "download_hash": {
+        "sha1": "5C923F97A4744C01476EA7A334851004580F7E45",
+        "sha256": "D46A8B5AB9CB8B099F50C8A200F45920F55D3D9538776789BCD17E7D2EB3013F"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

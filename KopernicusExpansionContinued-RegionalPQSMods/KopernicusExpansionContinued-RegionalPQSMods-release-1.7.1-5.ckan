@@ -1,0 +1,42 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "KopernicusExpansionContinued-RegionalPQSMods",
+    "name": "Kopernicus Expansion Continued - Regional PQSMods",
+    "abstract": "A partially continuation of KopernicusExpansion by Mr. HappyFace",
+    "author": [
+        "MrHappyFace",
+        "StollD"
+    ],
+    "version": "release-1.7.1-5",
+    "ksp_version": "1.7",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/119211-*",
+        "repository": "https://ghproxy.net/https://github.com/StollD/KopernicusExpansion-Continued",
+        "bugtracker": "https://ghproxy.net/https://github.com/StollD/KopernicusExpansion-Continued/issues"
+    },
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "depends": [
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "install": [
+        {
+            "find": "KopernicusExpansion",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/StollD/KopernicusExpansion-Continued/releases/download/release-1.7.1-5/KEX-RegionalPQSMods-1.7.1-5.zip",
+    "download_size": 87003,
+    "download_hash": {
+        "sha1": "434D843B1681D3209CFFDAE78C1B0B30367D4BD9",
+        "sha256": "EADDE493756FA238AF41A1A021C5B793F7EECE02CC6677AAA48E34F34C0F14C5"
+    },
+    "download_content_type": "application/zip",
+    "release_date": "2019-06-08T18:04:17Z",
+    "x_generated_by": "netkan"
+}

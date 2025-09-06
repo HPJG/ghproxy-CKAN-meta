@@ -1,0 +1,30 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "TreeToppler",
+    "name": "Tree Toppler",
+    "abstract": "Topple the Tech Tree in One Fell Swoop.",
+    "author": "magico13",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/107663-1-0-Magico13-s-Modlets-(Field-Experience-Sensible-Screenshot-etc-)?p=1676818#post1676818",
+        "kerbalstuff": "https://kerbalstuff.com/mod/739/Tree%20Toppler",
+        "x_screenshot": "https://kerbalstuff.com/content/magico13_568/Tree_Toppler/Tree_Toppler-1430673919.8365571.png"
+    },
+    "version": "1.0.0",
+    "ksp_version": "1.0.5",
+    "install": [
+        {
+            "file": "GameData/TreeToppler",
+            "install_to": "GameData",
+            "filter": "TreeToppler.cs"
+        }
+    ],
+    "download": "https://archive.org/download/TreeToppler-1.0.0/F0CCBE1D-TreeToppler-1.0.0.zip",
+    "download_size": 13363,
+    "download_hash": {
+        "sha1": "F0CCBE1DAA9D764259C35C37B9D45D40E24357F2",
+        "sha256": "374C82D843D92A7F7DC1B51892964F2D93FCAF6CEFF32629BBC3438E415B97DC"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

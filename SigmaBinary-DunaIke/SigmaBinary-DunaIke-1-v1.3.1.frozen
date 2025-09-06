@@ -1,0 +1,34 @@
+{
+    "spec_version": "v1.4",
+    "comment": "This mod used to be packaged differently but is now repackaged to allow an upgrade path.",
+    "identifier": "SigmaBinary-DunaIke",
+    "name": "Sigma Binary - Duna + Ike Binary",
+    "abstract": "Contains a Duna + Ike binary system.",
+    "author": "Sigma88",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/127820",
+        "repository": "https://ghproxy.net/https://github.com/Sigma88/Sigma-Binary"
+    },
+    "version": "1:v1.3.1",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "SigmaBinary-core"
+        }
+    ],
+    "install": [
+        {
+            "file": "SigmaDunaIke/DunaIke.cfg",
+            "install_to": "GameData/Sigma"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/Sigma88/Sigma-Binary/releases/download/v1.3.1/SigmaDunaIke.zip",
+    "download_size": 1957,
+    "download_hash": {
+        "sha1": "1E8DA0FA4B6C87B8466F5F9D383164381E215D9B",
+        "sha256": "65FAA683774B99288677C038954F88E73F6C2A65048C1D083F04DBC00B250CC1"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

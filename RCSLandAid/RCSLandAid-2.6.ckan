@@ -1,0 +1,40 @@
+{
+    "spec_version": 1,
+    "identifier": "RCSLandAid",
+    "name": "Horizontal Landing Aid",
+    "abstract": "Kill your horizontal velocity to land, or hover over a specific point on the ground",
+    "author": "Diazo",
+    "license": "GPL-3.0",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/85838",
+        "repository": "https://ghproxy.net/https://github.com/SirDiazo/RCSLandAid",
+        "kerbalstuff": "https://kerbalstuff.com/mod/460/Horizontal%20Landing%20Aid"
+    },
+    "version": "2.6",
+    "ksp_version": "1.0",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "Toolbar"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/Diazo",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/SirDiazo/RCSLandAid/releases/download/2.6/RCSLandAid26.zip",
+    "download_size": 21245,
+    "download_hash": {
+        "sha1": "BF42A7A10BA150C322BBB3485DE20ADE54750361",
+        "sha256": "538A92A6D26688116D4A4425D8A1CE3346EF2C35ADC3E60CEF2733A9CDA34AAC"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

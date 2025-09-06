@@ -1,0 +1,29 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "TheSeparon",
+    "name": "The Separon",
+    "abstract": "A sepatron fueled with monopropellant",
+    "author": "TheCardinal",
+    "license": "BSD-2-clause",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/136793-The-Separon-an-RCS-Sepatron",
+        "kerbalstuff": "https://kerbalstuff.com/mod/1209/The%20Separon",
+        "x_screenshot": "https://kerbalstuff.com/content/TheCardinal_4807/The_Separon/The_Separon-1444916227.5828269.png"
+    },
+    "version": "1.0.0",
+    "ksp_version": "1.0.5",
+    "install": [
+        {
+            "file": "The Separon",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/TheSeparon-1.0.0/42EF54CF-TheSeparon-1.0.0.zip",
+    "download_size": 1609,
+    "download_hash": {
+        "sha1": "42EF54CF52A531052F5C1508CABEAB3A95B2888C",
+        "sha256": "59441ECB7A74FFAA06445C8BB6A1649B8B80FFFEBE6845DA37B423A9A012032F"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,47 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "QuarterRSS-Textures4096",
+    "name": "Quarter Size Real Solar System Textures - 4096 x 2048",
+    "abstract": "QuarterRSS textures for QuarterRSS",
+    "author": "pap1723",
+    "version": "1.4",
+    "ksp_version": "any",
+    "license": "CC-BY-NC-SA",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/160191-*",
+        "repository": "https://ghproxy.net/https://github.com/KSP-RO/ScaledRSS-Textures",
+        "bugtracker": "https://ghproxy.net/https://github.com/KSP-RO/ScaledRSS-Textures/issues"
+    },
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "provides": [
+        "QuarterRSS-Textures"
+    ],
+    "depends": [
+        {
+            "name": "QuarterRSS"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "QuarterRSS-Textures"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/RSS-Textures",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/KSP-RO/ScaledRSS-Textures/releases/download/1.4/ScaledRSS-4096.zip",
+    "download_size": 235815921,
+    "download_hash": {
+        "sha1": "6A228EE1BD9E09E30638ECEF7C0EA1D2DCD17338",
+        "sha256": "75BA2A8FA2053F2CD4FDB6A04501E0A5E2F2792536AAC47DFE87C4D687DA8504"
+    },
+    "download_content_type": "application/zip",
+    "release_date": "2017-08-22T21:04:36Z",
+    "x_generated_by": "netkan"
+}

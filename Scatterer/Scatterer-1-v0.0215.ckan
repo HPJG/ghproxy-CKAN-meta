@@ -1,0 +1,30 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "Scatterer",
+    "name": "Scatterer",
+    "abstract": "Atmospheric scattering shaders",
+    "author": "blackrack",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/115408",
+        "repository": "https://ghproxy.net/https://github.com/blackrack/Scatterer",
+        "kerbalstuff": "https://kerbalstuff.com/mod/700/Scatterer",
+        "x_screenshot": "https://kerbalstuff.com/content/blackrack_8817/Scatterer/Scatterer-1449117795.1947002.jpg"
+    },
+    "version": "1:v0.0215",
+    "ksp_version": "1.0.5",
+    "install": [
+        {
+            "find": "scatterer",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://s3-us-west-2.amazonaws.com/ksp-ckan/CEA34239.zip",
+    "download_size": 67483453,
+    "download_hash": {
+        "sha1": "3FB2074A07069151D6DE1F37B60E571DC222314C",
+        "sha256": "9B5E5AB3E82049E8987314151A0DF466672BE56E4B0306CE3A60E73B202ACA22"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

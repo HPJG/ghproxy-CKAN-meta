@@ -1,0 +1,28 @@
+{
+    "spec_version": 1,
+    "identifier": "Trajectories",
+    "name": "Trajectories",
+    "abstract": "Displays atmospheric trajectory of the vessel, landing site, trajectory after aerobraking, etc. Compatible with FAR, NEAR, and stock aerodynamic model",
+    "author": "Youen",
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/104694",
+        "repository": "https://ghproxy.net/https://github.com/neuoy/KSPTrajectories",
+        "kerbalstuff": "https://kerbalstuff.com/mod/238/Trajectories"
+    },
+    "version": "v1.4.1",
+    "ksp_version": "1.0.4",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://archive.org/download/Trajectories-v1.4.1/23776BE0-Trajectories-v1.4.1.zip",
+    "download_size": 65080,
+    "download_hash": {
+        "sha1": "23776BE06208691B7D5F5551FBEB899AF2263512",
+        "sha256": "54343CFB3BA50BBED27AD8F1B41C8EC9BC568A3259D995AF7AF5820F515CA211"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

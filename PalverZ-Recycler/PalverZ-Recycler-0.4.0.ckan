@@ -1,0 +1,30 @@
+{
+    "spec_version": 1,
+    "identifier": "PalverZ-Recycler",
+    "name": "PalverZ Exhaust Recyclers",
+    "abstract": "Adds support for and an examaple of exhaust recycling parts",
+    "author": "PalverZ",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/130655-wip105-exhaust-recycling/",
+        "repository": "https://ghproxy.net/https://github.com/PalverZ/PalverZExhaustRecycler/releases",
+        "kerbalstuff": "https://kerbalstuff.com/mod/1432/PalverZ%20Exhaust%20Recyclers"
+    },
+    "version": "0.4.0",
+    "ksp_version": "1.0.5",
+    "install": [
+        {
+            "file": "GameData/PalverZ",
+            "install_to": "GameData",
+            "comment": "This is hard to work with"
+        }
+    ],
+    "download": "https://archive.org/download/PalverZ-Recycler-0.4.0/29705403-PalverZ-Recycler-0.4.0.zip",
+    "download_size": 112167,
+    "download_hash": {
+        "sha1": "297054035DAA52B051D289BF0F55A3A4F25B5309",
+        "sha256": "9A9CF6CBF14F7FD9B1257BFFD2F711003BAE6FF5FA48100BD57467B7E26CD020"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

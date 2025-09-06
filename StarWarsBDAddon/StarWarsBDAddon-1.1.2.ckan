@@ -1,0 +1,34 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "StarWarsBDAddon",
+    "name": "Star Wars BD Addon",
+    "abstract": "Red, Green, and Blue lasers for you Star Wars fans!",
+    "author": "KSP_Bros",
+    "license": "restricted",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/134355-wip105star-wars-mod/",
+        "spacedock": "https://spacedock.info/mod/298/Star%20Wars%20BD%20Addon",
+        "x_screenshot": "https://spacedock.info/content/KSP_Bros_1340/Star_Wars_BD_Addon/Star_Wars_BD_Addon-1457403278.691323.png"
+    },
+    "version": "1.1.2",
+    "ksp_version": "1.1.2",
+    "depends": [
+        {
+            "name": "BDArmory"
+        }
+    ],
+    "install": [
+        {
+            "find": "StarWarsMod",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/298/Star%20Wars%20BD%20Addon/download/1.1.2",
+    "download_size": 413489,
+    "download_hash": {
+        "sha1": "5D80D049A7B188D2C36C9D75067E772C5792595E",
+        "sha256": "8CBA5EACB303BFDCE0EB85FB92347EAA5B2D66FD1236D3A4316D499363F95F53"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

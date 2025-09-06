@@ -1,0 +1,27 @@
+{
+    "spec_version": 1,
+    "identifier": "OrbitalSurveyPlus",
+    "name": "Orbital Survey Plus",
+    "abstract": "A small tweak to the stock survey scanner that perhaps adds a bit more realism and challenge.",
+    "author": "Wheffle",
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/121298-1-0-2-Stock-Survey-Scanner-Tweak",
+        "kerbalstuff": "https://kerbalstuff.com/mod/794/Orbital%20Survey%20Plus"
+    },
+    "version": "1.1.1",
+    "ksp_version": "1.0.2",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://archive.org/download/OrbitalSurveyPlus-1.1.1/793ADF30-OrbitalSurveyPlus-1.1.1.zip",
+    "download_size": 40600,
+    "download_hash": {
+        "sha1": "793ADF300A14A4A0C372AA9782465236AE706947",
+        "sha256": "6958CCFCCCDE2BA5C5770C1777F2411A6221FC3E5C880DD2A07B824DB26A61D1"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

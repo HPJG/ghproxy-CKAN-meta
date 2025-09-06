@@ -1,0 +1,43 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "ModeratelyPlaneRelated",
+    "name": "Moderately Plane Related",
+    "abstract": "MPR is an aircraft parts mod that follows the Stock/AirplanePlus art style with no specific enforced category of planned parts",
+    "author": [
+        "Drag0n",
+        "Stardust_Rapture",
+        "SuicidalInsanity"
+    ],
+    "version": "v0.2.6.1",
+    "ksp_version": "1.12.5",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "https://ghproxy.net/https://github.com/Drag0nD3str0yer/Moderately-Plane-Related",
+        "spacedock": "https://spacedock.info/mod/3104/Moderately%20Plane%20Related",
+        "repository": "https://ghproxy.net/https://github.com/Drag0nD3str0yer/Moderately-Plane-Related",
+        "bugtracker": "https://ghproxy.net/https://github.com/Drag0nD3str0yer/Moderately-Plane-Related/issues",
+        "x_screenshot": "https://spacedock.info/content/Drag0n_80740/Moderately_Plane_Related/Moderately_Plane_Related-1661984761.jpg"
+    },
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3104/Moderately%20Plane%20Related/download/v0.2.6.1",
+    "download_size": 54401821,
+    "download_hash": {
+        "sha1": "D8E6D05BA2DD29BE9BD45F1FA9FFC32D63F3E090",
+        "sha256": "49195F6A20E0EE4D2A7B6A73EFA81E8D8D346F074E13CE621279660B6B616FB2"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 168864607,
+    "release_date": "2023-01-21T03:38:18.938835+00:00",
+    "x_generated_by": "netkan"
+}

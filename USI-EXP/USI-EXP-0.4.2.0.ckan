@@ -1,0 +1,51 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "USI-EXP",
+    "name": "USI Exploration Pack",
+    "abstract": "PackRat Rover and parts geared towards planetary exploration",
+    "author": "RoverDude",
+    "license": "CC-BY-NC-SA-4.0",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/86695",
+        "repository": "https://ghproxy.net/https://github.com/UmbraSpaceIndustries/ExplorationPack"
+    },
+    "version": "0.4.2.0",
+    "ksp_version_min": "1.0.0",
+    "ksp_version_max": "1.0.4",
+    "depends": [
+        {
+            "name": "FirespitterCore",
+            "min_version": "7.0.5398.27328"
+        },
+        {
+            "name": "ModuleManager",
+            "min_version": "2.5.1"
+        },
+        {
+            "name": "USITools",
+            "min_version": "0.4.0"
+        },
+        {
+            "name": "CommunityResourcePack",
+            "min_version": "0.2.3"
+        },
+        {
+            "name": "ModuleRCSFX"
+        }
+    ],
+    "install": [
+        {
+            "find": "UmbraSpaceIndustries/ExpPack",
+            "install_to": "GameData/UmbraSpaceIndustries"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/UmbraSpaceIndustries/ExplorationPack/releases/download/0.4.2.0/ExpPack_0.4.2.0.zip",
+    "download_size": 3596165,
+    "download_hash": {
+        "sha1": "0109DBE96A10B2BF92CCEA61E026EE65F6B5D2EC",
+        "sha256": "331739D97C2D71CD50A820AC4B3C828BA33C8981444FD9D60DED233EFDAC9583"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

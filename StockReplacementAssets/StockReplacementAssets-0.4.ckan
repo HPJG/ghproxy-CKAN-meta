@@ -1,0 +1,39 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "StockReplacementAssets",
+    "name": "Stock Replacement Assets",
+    "abstract": "A Work-In-Progress set of parts to replace various rocketry art assets with improved models and textures, intended to look at home with the fantastic aircraft assets that Porkjet has created.",
+    "author": "hoojiwana",
+    "license": "CC-BY-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/119373-stock-replacement-assets",
+        "spacedock": "https://spacedock.info/mod/183/Stock%20Replacement%20Assets",
+        "x_screenshot": "https://spacedock.info/content/hoojiwana_844/Stock_Replacement_Assets/Stock_Replacement_Assets-1455901297.1854622.jpg"
+    },
+    "version": "0.4",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "supports": [
+        {
+            "name": "VenStockRevamp"
+        }
+    ],
+    "install": [
+        {
+            "find": "GameData/StockReplacementAssets",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/183/Stock%20Replacement%20Assets/download/0.4",
+    "download_size": 4397549,
+    "download_hash": {
+        "sha1": "9203D7FAF43DC81BA06E6B6CED841D83B6137E3B",
+        "sha256": "C124235BA22B8330077F45247A324AC30DC67F535C9E81DD8BE7686064D0935E"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

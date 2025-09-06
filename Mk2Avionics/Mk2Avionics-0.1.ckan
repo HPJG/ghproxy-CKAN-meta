@@ -1,0 +1,29 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "Mk2Avionics",
+    "name": "Mk2 Avionics",
+    "abstract": "Adds a Mk2 avionics package",
+    "author": "H98",
+    "license": "CC-BY-SA-4.0",
+    "resources": {
+        "kerbalstuff": "https://kerbalstuff.com/mod/605/Mk2%20Avionics",
+        "x_screenshot": "https://kerbalstuff.com/content/H98_586/Mk2_Avionics/Mk2_Avionics-1424340071.7770047.png"
+    },
+    "version": "0.1",
+    "ksp_version": "0.90.0",
+    "install": [
+        {
+            "file": "H98",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/Mk2Avionics-0.1/1BB15F3E-Mk2Avionics-0.1.zip",
+    "download_size": 430078,
+    "download_hash": {
+        "sha1": "1BB15F3E6AFE5600D9EAC38E15AE0370BAADAF89",
+        "sha256": "7283044CA0A7CE7AF80C18CFA19A3473058DCF4CCF1557EDC9A79CB5DE06CACD"
+    },
+    "download_content_type": "application/zip",
+    "x_via": "Automated KerbalStuff CKAN submission",
+    "x_generated_by": "netkan"
+}

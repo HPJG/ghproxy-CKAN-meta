@@ -1,0 +1,39 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "MidweeksTUFXConfig",
+    "name": "Midweeks TUFX Config",
+    "abstract": "This is a blue tufx config that works on most planets ",
+    "author": "Midweekmouse505",
+    "version": "1.0",
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/2746/Midweeks%20TUFX%20Config",
+        "x_screenshot": "https://spacedock.info/content/Midweekmouse505_48512/Midweeks_tufx_config/Midweeks_tufx_config-1620748140.6759024.png"
+    },
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "depends": [
+        {
+            "name": "TUFX"
+        }
+    ],
+    "install": [
+        {
+            "file": "midweek.cfg",
+            "install_to": "GameData/Midweek"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2746/Midweeks%20TUFX%20Config/download/1.0",
+    "download_size": 1047,
+    "download_hash": {
+        "sha1": "E7F25A151D65B74608363D0BAE948D440AD5166F",
+        "sha256": "92AC984AED3DB4A8C50970CA1D39A8FF641CEA7E0F63CC282A8DDFC970F0A8AD"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 1482,
+    "release_date": "2021-05-10T00:17:57.28824+00:00",
+    "x_generated_by": "netkan"
+}

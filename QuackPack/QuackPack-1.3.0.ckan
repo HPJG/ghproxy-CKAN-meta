@@ -1,0 +1,71 @@
+{
+    "spec_version": 1,
+    "identifier": "QuackPack",
+    "name": "Quack Pack",
+    "abstract": "KSP: Planet expansion pack for the stock system",
+    "author": "jamespglaze",
+    "version": "1.3.0",
+    "ksp_version": "1.12",
+    "license": "CC-BY-NC-ND-3.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/210155-112x-kopernicus-quackpack-v130-an-inner-system-expansion/",
+        "repository": "https://ghproxy.net/https://github.com/jamespglaze/QuackPack",
+        "bugtracker": "https://ghproxy.net/https://github.com/jamespglaze/QuackPack/issues"
+    },
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "CommunityTerrainTexturePack"
+        },
+        {
+            "name": "VertexMitchellNetravaliHeightMap"
+        },
+        {
+            "name": "VertexColorMapEmissive"
+        },
+        {
+            "name": "VertexHeightOblateAdvanced"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "BetterKerbol"
+        },
+        {
+            "name": "OuterPlanetsMod"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "DistantObject"
+        },
+        {
+            "name": "PlanetShine"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/jamespglaze/QuackPack/releases/download/v1.3.0/QuackPack.1.3.0.zip",
+    "download_size": 125947705,
+    "download_hash": {
+        "sha1": "6D245876D4B6B98E3EAEEE7B6AFA33F4D1DDB9D4",
+        "sha256": "7E7055289097652E671100381F5B1B4A3EDB9EEB742F7D8CCD32BA36A1F88E95"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 312130861,
+    "release_date": "2025-03-02T06:16:01Z",
+    "x_generated_by": "netkan"
+}

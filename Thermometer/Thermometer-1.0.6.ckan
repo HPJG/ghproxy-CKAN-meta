@@ -1,0 +1,34 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "Thermometer",
+    "name": "Thermometer",
+    "abstract": "Display the Temperature of parts in their right click menu.",
+    "author": "rreeggkk",
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/118087-Thermometer",
+        "kerbalstuff": "https://kerbalstuff.com/mod/719/Thermometer"
+    },
+    "version": "1.0.6",
+    "ksp_version": "1.0.2",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "Thermometer",
+            "install_to": "GameData",
+            "filter": ".DS_Store"
+        }
+    ],
+    "download": "https://archive.org/download/Thermometer-1.0.6/94972BD9-Thermometer-1.0.6.zip",
+    "download_size": 45297,
+    "download_hash": {
+        "sha1": "94972BD992B41CACC0DBFACB79B233B6974CDC78",
+        "sha256": "C2F783B48368FABD4937A936E45C0328BC891732573879EDFCD01DF6A19F6E33"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

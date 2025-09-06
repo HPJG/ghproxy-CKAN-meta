@@ -1,0 +1,54 @@
+{
+    "spec_version": 1,
+    "identifier": "ProceduralFairings-ForEverything",
+    "name": "Procedural Fairings - For Everything!",
+    "abstract": "Add those awesome Procedural Fairings to everything with a fairing! Supported mods shown in suggestions.",
+    "author": "Felger",
+    "license": "CC-BY-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/126788",
+        "repository": "https://ghproxy.net/https://github.com/KSP-RO/ProceduralFairings-ForEverything"
+    },
+    "version": "v0.1.1",
+    "ksp_version_min": "1.0",
+    "ksp_version_max": "1.1",
+    "provides": [
+        "PFTextures"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "FirespitterCore"
+        },
+        {
+            "name": "ProceduralFairings"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "KWRocketry"
+        },
+        {
+            "name": "NovaPunch"
+        },
+        {
+            "name": "VenStockRevamp"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/ProceduralFairings-ForEverything",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/KSP-RO/ProceduralFairings-ForEverything/releases/download/v0.1.1/ProceduralFairings-ForEverything_v0.1.1.zip",
+    "download_size": 4864923,
+    "download_hash": {
+        "sha1": "6ED9562EE329AA0001E0C0BAD2B3C38F842012A8",
+        "sha256": "0AF6BA34B174CF241800DC066CB13782C4B47264E9C5D79EFFD244BC2A7B38F0"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,47 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "PhoenixIndustriesCargoResupplySystem",
+    "name": "Phoenix Industries Cargo Resupply System",
+    "abstract": "A four part mod containing a probe capsule, storage trunk, solar panels, and heat shield. KIS and MechJeb compatible.",
+    "author": "MoviesColin",
+    "license": "CC-BY-NC-SA-4.0",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/122510-Phoenix-Industries-Cargo-Resupply-System-(KIS-MechJeb-Compatible)",
+        "kerbalstuff": "https://kerbalstuff.com/mod/831/Phoenix%20Industries%20Cargo%20Resupply%20System",
+        "x_screenshot": "https://kerbalstuff.com/content/MoviesColin_10247/Phoenix_Industries_Cargo_Resupply_System/Phoenix_Industries_Cargo_Resupply_System-1432357063.4153535.jpg"
+    },
+    "version": "v1.5.1",
+    "ksp_version": "1.0.4",
+    "depends": [
+        {
+            "name": "PhoenixIndustriesFlags"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "MechJeb2"
+        }
+    ],
+    "install": [
+        {
+            "find": "CTN",
+            "install_to": "GameData",
+            "filter": [
+                "Thumds.db",
+                "flags"
+            ]
+        }
+    ],
+    "download": "https://archive.org/download/PhoenixIndustriesCargoResupplySystem-v.1.5.1/F8E03ABF-PhoenixIndustriesCargoResupplySystem-v.1.5.1.zip",
+    "download_size": 1523235,
+    "download_hash": {
+        "sha1": "F8E03ABFAE9C8E114C728C4B67B01E8B0B22E103",
+        "sha256": "929740AE0D34AE835BCC80DC27E26D90C18F27F55FA38B6AF4E9F3E5A302345C"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

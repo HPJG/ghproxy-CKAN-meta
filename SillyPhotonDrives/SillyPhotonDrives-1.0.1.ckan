@@ -1,0 +1,70 @@
+{
+    "spec_version": "v1.2",
+    "identifier": "SillyPhotonDrives",
+    "name": "Silly Photon Drives",
+    "abstract": "A mod that adds some engines that rely on only electricity to produce thrust via photons.",
+    "author": "Triplchii",
+    "version": "1.0.1",
+    "ksp_version": "1.12.5",
+    "license": "CC-BY-SA",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/220997-1125-silly-photon-drives",
+        "spacedock": "https://spacedock.info/mod/3513/Silly%20Photon%20Drives",
+        "x_screenshot": "https://spacedock.info/content/Triplchii_117384/Silly_Photon_Drives/Silly_Photon_Drives-1701097081.png"
+    },
+    "tags": [
+        "parts"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "NearFutureElectrical"
+        },
+        {
+            "name": "Waterfall"
+        },
+        {
+            "name": "PersistentThrust"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "FarFutureTechnologies"
+        },
+        {
+            "name": "CryoTanks"
+        }
+    ],
+    "supports": [
+        {
+            "name": "CommunityTechTree"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3513/Silly%20Photon%20Drives/download/1.0.1",
+    "download_size": 5025410,
+    "download_hash": {
+        "sha1": "37A3BC1B1D1EC3D3253F618F081118AD4D94FB2D",
+        "sha256": "49B515F7BD084F47AD3A6F4E00F95D60E608096AD839C7816B071511753C8899"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 73216019,
+    "release_date": "2023-12-02T01:22:58.099645+00:00",
+    "x_via": "Automated SpaceDock CKAN submission",
+    "x_generated_by": "netkan"
+}

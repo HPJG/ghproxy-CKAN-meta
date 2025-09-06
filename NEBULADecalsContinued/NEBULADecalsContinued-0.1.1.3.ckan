@@ -1,0 +1,44 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "NEBULADecalsContinued",
+    "name": "NEBULA Decals Continued",
+    "abstract": " STDdM3y.jpg This mod allows to place decals on your crafts!",
+    "author": "linuxgurugamer",
+    "license": "CC-BY-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/154127-122-nebula-space-engineering-decals-continued/",
+        "spacedock": "https://spacedock.info/mod/1132/NEBULA%20Decals%20Continued",
+        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/NEBULA_Decals",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/NEBULA_Decals_Continued/NEBULA_Decals_Continued-1482941744.807295.jpg"
+    },
+    "version": "0.1.1.3",
+    "ksp_version_min": "1.2.0",
+    "ksp_version_max": "1.2.99",
+    "depends": [
+        {
+            "name": "FirespitterCore"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "TweakScale"
+        },
+        {
+            "name": "JanitorsCloset"
+        }
+    ],
+    "install": [
+        {
+            "find": "NEBULA",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1132/NEBULA%20Decals%20Continued/download/0.1.1.3",
+    "download_size": 1003891,
+    "download_hash": {
+        "sha1": "27E2DF5CC94074816C555FA992B5E54B6324B61F",
+        "sha256": "2D46A990E89FF77B00130DC897C5638A7A10F3F29C33B73754DE6CE581C0D024"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

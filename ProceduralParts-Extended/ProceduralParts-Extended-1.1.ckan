@@ -1,0 +1,42 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "ProceduralParts-Extended",
+    "name": "Procedural Parts Extended",
+    "abstract": "Some extra parts and a new texture, to expand the awesome mod Procedural Parts",
+    "author": "Azimech",
+    "license": "GPL-3.0",
+    "resources": {
+        "kerbalstuff": "https://kerbalstuff.com/mod/662/Procedural%20Parts%20Extended",
+        "x_screenshot": "https://kerbalstuff.com/content/Azimech_2742/Procedural_Parts_Extended/Procedural_Parts_Extended-1427479764.7839632.png"
+    },
+    "version": "1.1",
+    "ksp_version": "0.90.0",
+    "depends": [
+        {
+            "name": "ProceduralParts"
+        }
+    ],
+    "install": [
+        {
+            "find": "77Industries",
+            "install_to": "GameData"
+        },
+        {
+            "find": "ProceduralParts",
+            "install_to": "GameData",
+            "filter": [
+                "Licence.txt",
+                "Optional texture-put in Parts folder"
+            ],
+            "comment": "The optional texture requires overwriting an already existing PP texture and is therefore excluded"
+        }
+    ],
+    "download": "https://archive.org/download/ProceduralParts-Extended-1.1/083B81D7-ProceduralParts-Extended-1.1.zip",
+    "download_size": 253360,
+    "download_hash": {
+        "sha1": "083B81D76D49AF0FBDEB5F91E55299636311ECA8",
+        "sha256": "E7408F782B515D94A9DC22B56C9DDC0D278ABE1F27DC6D1CE75938D6B0188A43"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

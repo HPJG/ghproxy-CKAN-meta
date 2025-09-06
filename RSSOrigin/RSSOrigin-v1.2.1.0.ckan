@@ -1,0 +1,149 @@
+{
+    "spec_version": 1,
+    "identifier": "RSSOrigin",
+    "name": "RSS-Origin Core",
+    "abstract": "The major part of RSS-Origin, which adds plenty of asteroids, asteroid moons, comets, moons of gas/ice giants, dwarf planets, dwarf planet moons, and interstellar objects into real solar system, currently 200 in total. (dozens more in the future). This is the core pack",
+    "author": "CharonSSS",
+    "version": "v1.2.1.0",
+    "ksp_version": "1.12",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "repository": "https://ghproxy.net/https://github.com/CharonSSS/RSS-Origin",
+        "bugtracker": "https://ghproxy.net/https://github.com/CharonSSS/RSS-Origin/issues"
+    },
+    "tags": [
+        "planet-pack"
+    ],
+    "localizations": [
+        "en-us"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "VertexMitchellNetravaliHeightMap"
+        },
+        {
+            "name": "KSPCommunityFixes"
+        },
+        {
+            "name": "AdvancedPQSTools"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "TooManyOrbits"
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "RealSolarSystem"
+        },
+        {
+            "name": "RealismOverhaul"
+        },
+        {
+            "name": "RSSOrigin-GalaxyTex"
+        },
+        {
+            "name": "RSSOrigin-JSUNrings"
+        },
+        {
+            "name": "RSSOrigin-TopoRevampConfigs"
+        },
+        {
+            "name": "RSSOrigin-CelestialsPack-Centaurs"
+        },
+        {
+            "name": "RSSOrigin-CelestialsPack-Comets"
+        },
+        {
+            "name": "RSSOrigin-CelestialsPack-InterstellarObjects"
+        },
+        {
+            "name": "RSSOrigin-CelestialsPack-JupiterMoons"
+        },
+        {
+            "name": "RSSOrigin-CelestialsPack-JupiterTrojans"
+        },
+        {
+            "name": "RSSOrigin-CelestialsPack-MainBeltAsteroids"
+        },
+        {
+            "name": "RSSOrigin-CelestialsPack-MarsCrossers"
+        },
+        {
+            "name": "RSSOrigin-CelestialsPack-NearEarthObjects"
+        },
+        {
+            "name": "RSSOrigin-CelestialsPack-NeptuneMoons"
+        },
+        {
+            "name": "RSSOrigin-CelestialsPack-PlutoMoons"
+        },
+        {
+            "name": "RSSOrigin-CelestialsPack-SaturnMoons"
+        },
+        {
+            "name": "RSSOrigin-CelestialsPack-TransNeptunianObjects"
+        },
+        {
+            "name": "RSSOrigin-CelestialsPack-UranusMoons"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "Parallax"
+        },
+        {
+            "name": "TUFX"
+        },
+        {
+            "name": "KopernicusExpansionContinueder"
+        },
+        {
+            "name": "PlanetShine"
+        },
+        {
+            "name": "FinalFrontier"
+        },
+        {
+            "name": "DistantObject"
+        },
+        {
+            "name": "KSCSwitcher"
+        },
+        {
+            "name": "RSSDateTimeFormatter"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "Asteroid-33434-scottmanley-RSS"
+        },
+        {
+            "name": "RSS-Expansion"
+        },
+        {
+            "name": "RealSolarSystemExpanded"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/CharonSSS/RSS-Origin/releases/download/v1.2.1.0/RSS-Origin.Core.zip",
+    "download_size": 222313879,
+    "download_hash": {
+        "sha1": "FD8987522CD4812596D6C3E0E6064E6552B32E59",
+        "sha256": "B09E4AE7666320AC8864F542C7F79257EC13AE34005CE74C06AF17AA7E9F47CB"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 290480221,
+    "release_date": "2025-08-27T05:32:50Z",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,42 @@
+{
+    "spec_version": "v1.16",
+    "identifier": "USI-SubPack",
+    "name": "'Otter' Submersible",
+    "abstract": "Explore the oceans in KSP with USI's set of submarine parts!",
+    "author": "RoverDude",
+    "license": "restricted",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/128491-wip-otter-submersible-usi-submarine-parts/",
+        "repository": "https://ghproxy.net/https://github.com/BobPalmer/SubPack"
+    },
+    "version": "0.1.1.0",
+    "ksp_version": "1.1.0",
+    "depends": [
+        {
+            "name": "USITools"
+        },
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "SETI-CommunityTechTree"
+        }
+    ],
+    "install": [
+        {
+            "find": "UmbraSpaceIndustries/SubPack",
+            "install_to": "GameData/UmbraSpaceIndustries"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/BobPalmer/SubPack/releases/download/0.1.1.0/SubPack_0.1.1.0.zip",
+    "download_size": 4091894,
+    "download_hash": {
+        "sha1": "7446A388CC0ACCDD00AD1F3B351C5B5371961A5B",
+        "sha256": "225CBAE1AF7ACFEE0AF34F6D7DF99A86E6FF1D3C2B776C92B258D2EC999968E9"
+    },
+    "download_content_type": "application/zip",
+    "x_last_revision_by": "harryyoung",
+    "x_generated_by": "netkan"
+}

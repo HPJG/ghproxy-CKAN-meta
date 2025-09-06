@@ -1,0 +1,73 @@
+{
+    "spec_version": "v1.2",
+    "identifier": "Pathfinder",
+    "name": "Pathfinder",
+    "abstract": "Space camping & geoscience",
+    "author": "Angel125",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/121397-105-beta-pathfinder-0910-space-camping-geoscience/&page=1",
+        "repository": "https://ghproxy.net/https://github.com/Angel-125/Pathfinder"
+    },
+    "version": "v0.9.11",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "CommunityResourcePack",
+            "min_version": "0.4.9"
+        },
+        {
+            "name": "WildBlueTools",
+            "min_version": "1.0.32"
+        },
+        {
+            "name": "ModuleManager",
+            "min_version": "2.6.18"
+        },
+        {
+            "name": "Buffalo",
+            "min_version": "0.2.7"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "KAS"
+        },
+        {
+            "name": "KIS"
+        }
+    ],
+    "supports": [
+        {
+            "name": "ConnectedLivingSpace"
+        },
+        {
+            "name": "TACLS"
+        },
+        {
+            "name": "USI-LS"
+        },
+        {
+            "name": "Snacks"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "Pathfinder-AntennarangePatch"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/WildBlueIndustries/Pathfinder",
+            "install_to": "GameData/WildBlueIndustries"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/Angel-125/Pathfinder/releases/download/v0.9.11/Pathfinder_0_9_11.zip",
+    "download_size": 18630767,
+    "download_hash": {
+        "sha1": "53E04907043195938843ADF2551CDC40904408CF",
+        "sha256": "DA7C6BF3ACDB0A587A3E4CE1EE5F7851F4F7966739F83C136B6638BE8E629ECB"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

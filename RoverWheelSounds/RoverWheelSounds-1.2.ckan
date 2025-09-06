@@ -1,0 +1,37 @@
+{
+    "spec_version": 1,
+    "identifier": "RoverWheelSounds",
+    "name": "Rover Wheel Sounds",
+    "abstract": "Adds motor sound effects to the four stock motorised rover wheels.",
+    "author": "pizzaoverhead",
+    "license": "GPL-2.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/55104",
+        "repository": "https://ghproxy.net/https://github.com/pizzaoverhead/WheelSounds",
+        "kerbalstuff": "https://kerbalstuff.com/mod/224/Rover%20Wheel%20Sounds",
+        "x_screenshot": "https://kerbalstuff.com/content/pizzaoverhead_509/Rover_Wheel_Sounds/Rover_Wheel_Sounds.png"
+    },
+    "version": "1.2",
+    "ksp_version_min": "0.25",
+    "ksp_version_max": "1.0.4",
+    "depends": [
+        {
+            "name": "ModuleManager",
+            "min_version": "2.5.1"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/WheelSounds",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/RoverWheelSounds-1.2/F1486F5C-RoverWheelSounds-1.2.zip",
+    "download_size": 2045797,
+    "download_hash": {
+        "sha1": "F1486F5C985AB1E1737030D41D9D45F74D03A956",
+        "sha256": "CDB4F3DDF72EA9CCC074380F0D2E091D89121F364BD008F5AC8367CC7F349E53"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

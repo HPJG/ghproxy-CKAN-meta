@@ -1,0 +1,46 @@
+{
+    "spec_version": "v1.4",
+    "comment": "Ships explicitly not installed by author request (he no longer maintains them)",
+    "identifier": "RN-SovietProbes",
+    "name": "Soviet Probes",
+    "abstract": "So here is yet another project. This time I am working on the series of soviet probes, focusing on the luna and sputnik probes. I will also do Molniya and Polyot probes.",
+    "author": "Raidernick",
+    "license": "CC-BY-NC-ND-3.0",
+    "resources": {
+        "homepage": "https://ghproxy.net/https://github.com/KSP-RO/SovietProbes",
+        "repository": "https://ghproxy.net/https://github.com/KSP-RO/SovietProbes"
+    },
+    "version": "v1.8",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "FirespitterCore"
+        },
+        {
+            "name": "ReflectionPlugin"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "RN-SovietRockets"
+        }
+    ],
+    "install": [
+        {
+            "find": "RN_Soviet_Probes",
+            "install_to": "GameData"
+        },
+        {
+            "file": "GameData/Soviet_Probes_TR.cfg",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/KSP-RO/SovietProbes/releases/download/v1.8/RN_Soviet_Probes_v1.8.zip",
+    "download_size": 21977525,
+    "download_hash": {
+        "sha1": "E793C13D00AA6CC39758228812626FAB65EC5560",
+        "sha256": "6C687BA9C27B36659A3A7CB924FF924309B40D5BCB0EF4BF8DBB4BC251EC9E7D"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,34 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "OrbitalDecay",
+    "name": "Orbital Decay",
+    "abstract": "This mod adds Orbital Decay to KSP for active and background vessels, in or out of time warp. Station Keeping is now also a feature.",
+    "author": "Whitecat106",
+    "license": "CC-BY-NC-SA-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/129734-1-0-4-Orbital-Decay-V1-0-0-Full-Release-(06-08-2015)?p=2101142#post2101142",
+        "kerbalstuff": "https://kerbalstuff.com/mod/1059/Orbital%20Decay",
+        "x_screenshot": "https://kerbalstuff.com/content/Whitecat106_11787/Orbital_Decay/Orbital_Decay-1438819469.7763367.png"
+    },
+    "version": "1.0.3",
+    "ksp_version": "1.0.4",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "WhitecatIndustries",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/OrbitalDecay-1.0.3/BF324394-OrbitalDecay-1.0.3.zip",
+    "download_size": 92601,
+    "download_hash": {
+        "sha1": "BF324394F28E65AFA2822FC8AD56E3D9BDDDE9AB",
+        "sha256": "E8AF28DDA7A59F811A97E5FFFE578218F676BC5FE9EC95AB18E72E2466DD5050"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

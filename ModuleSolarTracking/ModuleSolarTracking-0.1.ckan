@@ -1,0 +1,28 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "ModuleSolarTracking",
+    "name": "ModuleSolarTracking",
+    "abstract": "fixes minor glitches for dual axis solar panels",
+    "author": "Scientist",
+    "license": "unrestricted",
+    "resources": {
+        "kerbalstuff": "https://kerbalstuff.com/mod/1004/ModuleSolarTracking"
+    },
+    "version": "0.1",
+    "ksp_version": "1.0.4",
+    "install": [
+        {
+            "find": "ModuleSolarTracking",
+            "install_to": "GameData",
+            "filter": "ModuleSolarTracking.cs"
+        }
+    ],
+    "download": "https://s3-us-west-2.amazonaws.com/ksp-ckan/3CC32C89.zip",
+    "download_size": 2682,
+    "download_hash": {
+        "sha1": "BBAB1667E249C0E2161A0A9926DFB7EC58B66D75",
+        "sha256": "0013CA9E9FA352207AF4471F357842C2D81816ACF0EA3306BFF19C119E2B5B1D"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

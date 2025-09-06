@@ -1,0 +1,135 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "SimpleConstruction",
+    "name": "SimpleConstruction! (SCON) by matterbeam",
+    "abstract": " This mod aims to provide simple craft building capability in flight mode to stock parts. ",
+    "author": [
+        "matterbeam",
+        "zer0Kerbal",
+        "RealGecko"
+    ],
+    "version": "1:4.0.2.7",
+    "ksp_version_min": "1.9.1",
+    "ksp_version_max": "1.11.9999",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "https://curseforge.com/kerbal/ksp-mods/simpleconstruction",
+        "spacedock": "https://spacedock.info/mod/59/SimpleConstruction!%20(SCON)%20by%20matterbeam",
+        "repository": "https://zer0kerbal.github.io/SimpleConstruction",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/SimpleConstruction.version",
+        "x_screenshot": "https://spacedock.info/content/matterbeam_328/SimpleConstruction_SCON_by_matterbeam/SimpleConstruction_SCON_by_matterbeam-1687144432.png"
+    },
+    "tags": [
+        "plugin",
+        "resources"
+    ],
+    "localizations": [
+        "en-us",
+        "zh-cn"
+    ],
+    "provides": [
+        "ExtraPlanetaryLaunchpads"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "KerbalStats"
+        },
+        {
+            "name": "Toolbar"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "KeridianDynamicsVesselAssembly"
+        },
+        {
+            "name": "GPOSpeedPump"
+        },
+        {
+            "name": "NotSoSimpleConstruction"
+        },
+        {
+            "name": "OnDemandFuelCells"
+        },
+        {
+            "name": "SimpleLogistics"
+        },
+        {
+            "name": "StockalikeMiningExtension"
+        },
+        {
+            "name": "ISRUThanksButNoTanks"
+        },
+        {
+            "name": "KerbalJointReinforcementNext"
+        },
+        {
+            "name": "B9PartSwitch"
+        }
+    ],
+    "supports": [
+        {
+            "name": "CommunityCategoryKit"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "InterstellarFuelSwitch"
+        },
+        {
+            "name": "KAS"
+        },
+        {
+            "name": "Kerbalism"
+        },
+        {
+            "name": "KerbalPlanetaryBaseSystems"
+        },
+        {
+            "name": "Kethane"
+        },
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "StationPartsExpansionRedux"
+        },
+        {
+            "name": "TweakScale"
+        },
+        {
+            "name": "USI-FTT"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "ExtraPlanetaryLaunchpads"
+        }
+    ],
+    "install": [
+        {
+            "find": "SimpleConstruction",
+            "install_to": "GameData"
+        },
+        {
+            "find": "ExtraplanetaryLaunchpads",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/59/SimpleConstruction!%20(SCON)%20by%20matterbeam/download/4.0.2.7",
+    "download_size": 67856,
+    "download_hash": {
+        "sha1": "019FAC2C92E5303287225A0F83D2735ABCCA6809",
+        "sha256": "07C22C83EC156C4958434E942C1412BA3B6E043B3A872E0D2C5D266AFF37D101"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 174471,
+    "release_date": "2021-08-25T22:21:05.038682+00:00",
+    "x_generated_by": "netkan"
+}

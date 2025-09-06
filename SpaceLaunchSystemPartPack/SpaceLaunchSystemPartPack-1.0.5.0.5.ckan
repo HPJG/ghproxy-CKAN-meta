@@ -1,0 +1,29 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "SpaceLaunchSystemPartPack",
+    "name": "Space Launch System Part Pack",
+    "abstract": "Space Launch System Parts Pack is a modification that adds to the basic game section dedicated to the SLS program. ",
+    "author": "SoBoL",
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/140176-Space-Launch-System-Part-Pack",
+        "kerbalstuff": "https://kerbalstuff.com/mod/1278/Space%20Launch%20System%20Part%20Pack",
+        "x_screenshot": "https://kerbalstuff.com/content/SoBoL_16894/Space_Launch_System_Part_Pack/Space_Launch_System_Part_Pack-1448986617.5641353.png"
+    },
+    "version": "1.0.5.0.5",
+    "ksp_version": "1.0.5",
+    "install": [
+        {
+            "find": "SpaceLaunchSystem",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/SpaceLaunchSystemPartPack-1.0.5.0.5/B83C2963-SpaceLaunchSystemPartPack-1.0.5.0.5.zip",
+    "download_size": 31433742,
+    "download_hash": {
+        "sha1": "B83C2963F9672823A2181CF8EF6C634E524FDABA",
+        "sha256": "0C1F01CC86243719633CF7F6C920FE88578903DA6AD5D131349B14477E80A6C4"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

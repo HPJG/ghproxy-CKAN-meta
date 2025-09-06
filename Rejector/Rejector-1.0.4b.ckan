@@ -1,0 +1,23 @@
+{
+    "spec_version": 1,
+    "identifier": "Rejector",
+    "name": "Rejector",
+    "abstract": "A simple plugin to automatically reject contracts that you do not like (specified in the in game window).",
+    "author": "rreeggkk",
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/108316-Rejector",
+        "kerbalstuff": "https://kerbalstuff.com/mod/531/Rejector"
+    },
+    "version": "1.0.4b",
+    "ksp_version": "0.90",
+    "download": "https://archive.org/download/Rejector-1.0.4b/AE4DD722-Rejector-1.0.4b.zip",
+    "download_size": 11263,
+    "download_hash": {
+        "sha1": "AE4DD7224F1A7BC1E1A8EC8207DEE7A4E6625C52",
+        "sha256": "064D736FC7C2EEA0FC172B9F281D7D3F59B3B108D5D90BA6E181C6BA66F606CB"
+    },
+    "download_content_type": "application/zip",
+    "x_via": "Automated KerbalStuff CKAN submission",
+    "x_generated_by": "netkan"
+}

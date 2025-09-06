@@ -1,0 +1,34 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "SixSeatMk3cockpit",
+    "name": "6 Seat Mk3 Cockpit",
+    "abstract": "Enables the 2 rear seats in the Mk3 cockpit",
+    "author": "Ruben",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://www.youtube.com/c/kerbalspacecommand",
+        "spacedock": "https://spacedock.info/mod/252/6%20Seat%20Mk3%20Cockpit",
+        "x_screenshot": "https://spacedock.info/content/Ruben_419/6_Seat_Mk3_Cockpit/6_Seat_Mk3_Cockpit-1456257568.778023.png"
+    },
+    "version": "1.0.4.2",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "KSC",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/252/6%20Seat%20Mk3%20Cockpit/download/1.0.4.2",
+    "download_size": 29873,
+    "download_hash": {
+        "sha1": "46DD13A5FBD7E30CB324E4DC32F461C765069357",
+        "sha256": "E81AE967AB6F573E0BDABA138FD1EAA027CA972E50EF671A46D5ED9779E804FD"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

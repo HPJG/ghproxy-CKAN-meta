@@ -1,0 +1,29 @@
+{
+    "spec_version": 1,
+    "identifier": "ThermalHelper",
+    "name": "Thermal Helper",
+    "abstract": "Adds an Application Launcher button to enable/disable the thermal debug options.",
+    "author": "regex",
+    "license": "BSD-2-clause",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/117893",
+        "kerbalstuff": "https://kerbalstuff.com/mod/728/Thermal%20Helper",
+        "x_screenshot": "https://kerbalstuff.com/content/regex_94/Thermal_Helper/Thermal_Helper-1430513980.449461.png"
+    },
+    "version": "0.2",
+    "ksp_version": "1.0.5",
+    "install": [
+        {
+            "file": "ThermalHelp/GameData/ThermalHelper",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/ThermalHelper-0.2/BF725CCA-ThermalHelper-0.2.zip",
+    "download_size": 8827,
+    "download_hash": {
+        "sha1": "BF725CCAD7214D9FA6B54ECFC0674A4E1A36C7E1",
+        "sha256": "9562C101C353BBC1C16EB91B8E5F1A20DDDDFBFB8C68064F316B1FB099407FB5"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

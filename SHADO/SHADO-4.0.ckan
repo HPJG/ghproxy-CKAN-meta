@@ -1,0 +1,35 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "SHADO",
+    "name": "SHADO",
+    "abstract": "From a hit British TV Series in the 70's",
+    "author": "LuizChacon",
+    "license": "WTFPL",
+    "resources": {
+        "homepage": "http://skunkworks.freeforums.org/index.php?sid=57c740bb69c5b8d6eaced559427e2326",
+        "kerbalstuff": "https://kerbalstuff.com/mod/1168/SHADO",
+        "x_screenshot": "https://kerbalstuff.com/content/LuizChacon_128/SHADO/SHADO-1443031632.6071134.png"
+    },
+    "version": "4.0",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "KerbalFoundries"
+        }
+    ],
+    "install": [
+        {
+            "file": "SHADO",
+            "install_to": "GameData/Skunk_Works",
+            "filter": "Thumbs.db"
+        }
+    ],
+    "download": "https://s3-us-west-2.amazonaws.com/ksp-ckan/7EAE5888.zip",
+    "download_size": 18225123,
+    "download_hash": {
+        "sha1": "36324300A3D053832BBBEC0DFB0AE5447E833060",
+        "sha256": "17D8B61818BDDABBE85FB0C1488EE1A7D97784288E1D0A6377263DCA964B7C4C"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

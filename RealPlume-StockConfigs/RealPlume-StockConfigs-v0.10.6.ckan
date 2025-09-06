@@ -1,0 +1,105 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "RealPlume-StockConfigs",
+    "name": "Real Plume - Stock Configs",
+    "abstract": "A set of effects and basic configs that can be attached to any engine as appropriate.  Requires secondary configs to function correctly.",
+    "author": "Nhawks1717",
+    "license": "CC-BY-NC-SA",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/130576-11-realplume-stock-configs-continued-v0102-201649/",
+        "repository": "https://ghproxy.net/https://github.com/KSP-RO/RealPlume-StockConfigs"
+    },
+    "version": "v0.10.6",
+    "ksp_version_min": "1.0.5",
+    "ksp_version_max": "1.1",
+    "provides": [
+        "RealPlumeConfigs"
+    ],
+    "depends": [
+        {
+            "name": "RealPlume"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "ABLaunchers"
+        },
+        {
+            "name": "AIESAerospace-Unofficial"
+        },
+        {
+            "name": "AtomicAge"
+        },
+        {
+            "name": "CustomClusters"
+        },
+        {
+            "name": "CryoEngines"
+        },
+        {
+            "name": "FASA"
+        },
+        {
+            "name": "KSPX"
+        },
+        {
+            "name": "KSO"
+        },
+        {
+            "name": "KWRocketry"
+        },
+        {
+            "name": "ModularRocketSystem"
+        },
+        {
+            "name": "ProceduralParts"
+        },
+        {
+            "name": "PhoenixIndustriesBoosters"
+        },
+        {
+            "name": "RealScaleBoosters"
+        },
+        {
+            "name": "RLA-Stockalike"
+        },
+        {
+            "name": "SpaceY-Expanded"
+        },
+        {
+            "name": "SpaceY-Lifters"
+        },
+        {
+            "name": "SXT"
+        },
+        {
+            "name": "Taerobee"
+        },
+        {
+            "name": "Tantares"
+        },
+        {
+            "name": "TantaresLV"
+        },
+        {
+            "name": "TundraExploration"
+        },
+        {
+            "name": "VenStockRevamp"
+        }
+    ],
+    "install": [
+        {
+            "find": "RealPlume-Stock",
+            "install_to": "GameData/RealPlume"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/KSP-RO/RealPlume-StockConfigs/releases/download/v0.10.6/RealPlume-StockConfigs_v0.10.6.zip",
+    "download_size": 25356166,
+    "download_hash": {
+        "sha1": "4C3F63CE9A19B721EA609D7FC33C7218729F985C",
+        "sha256": "BF79A3DF0C499772B6880947E706755F2B974C45405EC368433E801075CCD070"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

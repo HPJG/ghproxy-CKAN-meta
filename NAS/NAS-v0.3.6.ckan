@@ -1,0 +1,37 @@
+{
+    "spec_version": 1,
+    "identifier": "NAS",
+    "name": "NAS - Naval Artillery System",
+    "abstract": "A BDArmory addon, replicas of WWII naval & anti-naval weapons.",
+    "author": "Acea",
+    "license": "CC-BY-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/118521-nas-naval-artillery-system/",
+        "spacedock": "https://spacedock.info/mod/83/NAS%20-%20Naval%20Artillery%20System",
+        "repository": "http://N/A",
+        "x_screenshot": "https://spacedock.info/content/Acea_282/NAS_-_Naval_Artillery_System/NAS_-_Naval_Artillery_System-1455805975.2512803.png"
+    },
+    "version": "v0.3.6",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "BDArmory"
+        },
+        {
+            "name": "CommunityAmmunitionLibrary"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "KerbalJointReinforcement"
+        }
+    ],
+    "download": "https://spacedock.info/mod/83/NAS%20-%20Naval%20Artillery%20System/download/0.3.6",
+    "download_size": 35374301,
+    "download_hash": {
+        "sha1": "90B352D9E736B7A5C999C75320FAA00AE2F852CD",
+        "sha256": "1C5086D65FAA8FB3C55333DF1D045B470E1202E607853884422812656D4FB5F6"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

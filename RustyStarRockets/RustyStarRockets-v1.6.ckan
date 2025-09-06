@@ -1,0 +1,23 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "RustyStarRockets",
+    "name": "Rusty Star Rockets",
+    "abstract": "This mod adds parts made of rusty metal.",
+    "author": "Gaga_X",
+    "license": "CC-BY-NC-ND-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/124362-105-rusty-star-rockets-v15-25012016/",
+        "spacedock": "https://spacedock.info/mod/207/Rusty%20Star%20Rockets",
+        "x_screenshot": "https://spacedock.info/content/Gaga_X_1051/Rusty_Star_Rockets/Rusty_Star_Rockets-1456056163.1980522.jpg"
+    },
+    "version": "v1.6",
+    "ksp_version": "1.1.0",
+    "download": "https://spacedock.info/mod/207/Rusty%20Star%20Rockets/download/1.6",
+    "download_size": 77548325,
+    "download_hash": {
+        "sha1": "94E7A1F170E3E018B2FFC91D51E7DF047D0E8E5F",
+        "sha256": "4CAD63A6C6BA58EC9754F0894333B961E2BBB909E0255861AFB9D775757D1D4A"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

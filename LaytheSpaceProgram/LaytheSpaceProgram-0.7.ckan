@@ -1,0 +1,41 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "LaytheSpaceProgram",
+    "name": "Laythe Space Program",
+    "abstract": "This mod places KSC on Laythe.",
+    "author": [
+        "GregroxMun",
+        "Sigma88"
+    ],
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/130318-alien-space-programs",
+        "repository": "https://ghproxy.net/https://github.com/GregroxMun/Alien-Space-Programs"
+    },
+    "version": "0.7",
+    "ksp_version": "1.0.5",
+    "provides": [
+        "AlienSpaceProgram"
+    ],
+    "depends": [
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "AlienSpaceProgram"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/GregroxMun/Alien-Space-Programs/releases/download/0.7/LaytheSpaceProgram0.7.zip",
+    "download_size": 446648,
+    "download_hash": {
+        "sha1": "2F1D1917C61150F8F30F32B49F84DB0546C3DC88",
+        "sha256": "E8F8E8A208110C644D5C368D5485CF9787E764603604EDF811242A694323BC31"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

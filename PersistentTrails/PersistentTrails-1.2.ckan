@@ -1,0 +1,29 @@
+{
+    "spec_version": 1,
+    "identifier": "PersistentTrails",
+    "name": "PersistentTrails",
+    "abstract": "Record, playback and annotate vessel tracks",
+    "author": "SirJodelstein",
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/49216-0-24-2-Persistent-Trails-record-share-and-replay-track-data!-(Aug-1-V1-1)",
+        "repository": "https://ghproxy.net/https://github.com/GrJo/KSPPersistentTrails",
+        "kerbalstuff": "https://kerbalstuff.com/mod/796/PersistentTrails",
+        "x_screenshot": "https://kerbalstuff.com/content/SirJodelstein_1597/PersistentTrails/PersistentTrails-1431626919.5744565.png"
+    },
+    "version": "1.2",
+    "ksp_version": "1.0.2",
+    "depends": [
+        {
+            "name": "Toolbar"
+        }
+    ],
+    "download": "https://s3-us-west-2.amazonaws.com/ksp-ckan/F3FDBD30.zip",
+    "download_size": 71313,
+    "download_hash": {
+        "sha1": "A95AED5A1C595EE80F23EF7C1EAD5A582504A72A",
+        "sha256": "4F8460226F4CEA390200231D429E822E498793D59CE136E0744F6759DDE120E3"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

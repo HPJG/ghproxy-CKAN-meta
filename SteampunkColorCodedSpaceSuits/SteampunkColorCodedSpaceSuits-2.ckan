@@ -1,0 +1,42 @@
+{
+    "spec_version": "v1.2",
+    "identifier": "SteampunkColorCodedSpaceSuits",
+    "name": "Steampunk Color-Coded Space Suits",
+    "abstract": "Based upon work by GreenSkull and Proot, this is merely a bit of a color change to allow for identifying your aethernauts' skills",
+    "author": "GregroxMun",
+    "license": "MIT",
+    "version": "2",
+    "ksp_version_min": "1.0.4",
+    "ksp_version_max": "1.0.5",
+    "depends": [
+        {
+            "name": "TextureReplacer"
+        }
+    ],
+    "install": [
+        {
+            "file": "SteamSuitCommand",
+            "install_to": "GameData/TextureReplacer/suits"
+        },
+        {
+            "file": "SteamSuitEngineer",
+            "install_to": "GameData/TextureReplacer/suits"
+        },
+        {
+            "file": "SteamSuitScience",
+            "install_to": "GameData/TextureReplacer/suits"
+        },
+        {
+            "file": "SteampunkStarTrekSuits.cfg",
+            "install_to": "GameData/TextureReplacer"
+        }
+    ],
+    "download": "https://archive.org/download/SteampunkColorCodedSpaceSuits-2/A578434E-SteampunkColorCodedSpaceSuits-2.zip",
+    "download_size": 23730197,
+    "download_hash": {
+        "sha1": "A578434EE365B87D844929A77484B871079BEFF7",
+        "sha256": "C2E7E255C0D577D8B5471BFB1FACDBC4056C6AB2BD0F9DF2E60D344F2AE51FAF"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

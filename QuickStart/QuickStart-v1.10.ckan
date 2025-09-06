@@ -1,0 +1,29 @@
+{
+    "spec_version": "v1.01",
+    "identifier": "QuickStart",
+    "name": "QuickStart",
+    "abstract": "QuickStart is a small plugin which adds the possibility to go to the last game saved after the loading of KSP.",
+    "author": "malah",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/95168#QuickStart",
+        "kerbalstuff": "https://kerbalstuff.com/mod/763/QuickStart"
+    },
+    "version": "v1.10",
+    "ksp_version": "1.0.4",
+    "install": [
+        {
+            "file": "GameData/QuickStart",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/QuickStart-v1.10/8BB36E96-QuickStart-v1.10.zip",
+    "download_size": 31648,
+    "download_hash": {
+        "sha1": "8BB36E965B18E52A736EA77CB67C25CD296037C1",
+        "sha256": "2307FECBFD89E7304915EE76ED1CD394169924F653D2EEE0517B96CE433944C2"
+    },
+    "download_content_type": "application/zip",
+    "x_via": "Automated KerbalStuff CKAN submission",
+    "x_generated_by": "netkan"
+}

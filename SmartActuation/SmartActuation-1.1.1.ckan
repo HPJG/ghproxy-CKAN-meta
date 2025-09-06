@@ -1,0 +1,36 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "SmartActuation",
+    "name": "Smart Actuation",
+    "abstract": "Prevents control surfaces from moving when out of atmo",
+    "author": "nagleaidan",
+    "version": "1.1.1",
+    "ksp_version": "1.4.5",
+    "license": "CC-BY-NC-SA",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/160109-*",
+        "repository": "https://ghproxy.net/https://github.com/nagleaidan/SmartActuation",
+        "bugtracker": "https://ghproxy.net/https://github.com/nagleaidan/SmartActuation/issues",
+        "remote-avc": "https://raw.githubusercontent.com/theRagingIrishman/SmartActuation/master/SmartActuation.version"
+    },
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "install": [
+        {
+            "find": "SmartActuation",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/nagleaidan/SmartActuation/releases/download/1.1.1/SmartActuation_1.1.1.zip",
+    "download_size": 13973,
+    "download_hash": {
+        "sha1": "F217C6BD79AE099DDF1A53278986D7A689002BEC",
+        "sha256": "398F8BF35A8AA1C2DE8306433EA2D4B57EC091E01350EC4669FE061E5900C713"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 33823,
+    "release_date": "2018-08-02T02:04:25Z",
+    "x_generated_by": "netkan"
+}

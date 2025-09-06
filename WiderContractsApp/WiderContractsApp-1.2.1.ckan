@@ -1,0 +1,26 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "WiderContractsApp",
+    "name": "Wider Contracts App",
+    "abstract": "The stock contracts app, but 60% wider.",
+    "author": "nightingale",
+    "license": "CC-BY-NC-SA-4.0",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/106892",
+        "repository": "https://ghproxy.net/https://github.com/jrossignol/WiderContractsApp",
+        "bugtracker": "https://ghproxy.net/https://github.com/jrossignol/WiderContractsApp/issues",
+        "license": "https://raw.githubusercontent.com/jrossignol/WiderContractsApp/master/GameData/WiderContractsApp/LICENSE.txt"
+    },
+    "version": "1.2.1",
+    "ksp_version_min": "1.0.0",
+    "ksp_version_max": "1.0.5",
+    "download": "https://ghproxy.net/https://github.com/jrossignol/WiderContractsApp/releases/download/1.2.1/WiderContractsApp_1.2.1.zip",
+    "download_size": 8833,
+    "download_hash": {
+        "sha1": "70C7A562C3A005C6C5CC294038E7F8E02CF4CE23",
+        "sha256": "73326DB71C3707B39B6D9C8D47C6B707337F843430E6771F857CDF7E1D8B134F"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

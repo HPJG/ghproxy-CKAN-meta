@@ -1,0 +1,35 @@
+{
+    "spec_version": "v1.20",
+    "identifier": "PartWizard",
+    "name": "Part Wizard",
+    "abstract": "Part Wizard is a vehicle design utility plugin that adds a few conveniences when building your next strut/booster carrier.  It provides a list of parts with part highlighting for easier identification, allows deleting of parts from the list on eligible parts, allows complete control of symmetry on eligible parts, allows selecting parts for Action Group assignment, shows either all parts or only those that are hidden from the editor's Parts List. (Helpful in finding obsolete parts when mod authors make updates.) and shows unavailable parts in career modes with options to buy one or all necessary parts for launch.",
+    "author": "ozraven",
+    "license": "BSD-3-clause",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/72468-11-part-wizard-124-20-apr-2016/",
+        "repository": "https://ghproxy.net/https://github.com/ozraven/PartWizard",
+        "curse": "http://kerbal.curseforge.com/projects/part-wizard"
+    },
+    "version": "v1.2.4.0",
+    "ksp_version": "1.1.0",
+    "suggests": [
+        {
+            "name": "Toolbar"
+        }
+    ],
+    "install": [
+        {
+            "find": "PartWizard",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/ozraven/PartWizard/releases/download/v1.2.4.0/PartWizard_1.2.4.zip",
+    "download_size": 38266,
+    "download_hash": {
+        "sha1": "AE7DA6332AC5BE2453CA36577C328CB605B0DCE8",
+        "sha256": "C81D9F6C9360643CB987E404D00058C31CA04181D97548C8E8766F8C5DC27171"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

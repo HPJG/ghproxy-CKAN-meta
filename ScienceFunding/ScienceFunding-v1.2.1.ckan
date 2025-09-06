@@ -1,0 +1,22 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "ScienceFunding",
+    "name": "Science Funding",
+    "abstract": "Adds a new funding mechanism based on science points allowing you to play career without the need to accept contracts",
+    "author": "Ippo",
+    "license": "public-domain",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/554/Science%20Funding"
+    },
+    "version": "v1.2.1",
+    "ksp_version": "1.1.0",
+    "download": "https://spacedock.info/mod/554/Science%20Funding/download/v1.2.1",
+    "download_size": 7177,
+    "download_hash": {
+        "sha1": "F47C0440DA0A80FD665256AB9A9FBA83D9105C72",
+        "sha256": "EE550919EB0DC5A0140A530B4B6FDEFF4B1DADAB36D587339CE9A018DE294B82"
+    },
+    "download_content_type": "application/zip",
+    "x_via": "Automated SpaceDock CKAN submission",
+    "x_generated_by": "netkan"
+}

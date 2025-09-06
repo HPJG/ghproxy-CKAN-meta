@@ -1,0 +1,41 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "RSSOrigin-CelestialsPack-PlutoMoons",
+    "name": "RSS-Origin CelestialsPack PlutoMoons",
+    "abstract": "Exclusive add-ons with hundreds of asteroids, comets, moons and overhauls RSS",
+    "author": "CharonSSS",
+    "version": "v1.2.0.1",
+    "ksp_version": "1.12",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "repository": "https://ghproxy.net/https://github.com/CharonSSS/RSS-Origin",
+        "bugtracker": "https://ghproxy.net/https://github.com/CharonSSS/RSS-Origin/issues"
+    },
+    "tags": [
+        "planet-pack"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RSSOrigin"
+        }
+    ],
+    "install": [
+        {
+            "find": "RSSOrigin",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/CharonSSS/RSS-Origin/releases/download/v1.2.0.1/RSS-Origin.CelestialsPack.PlutoMoons.zip",
+    "download_size": 7168030,
+    "download_hash": {
+        "sha1": "ED6F85038F97BFD2381B48DC2DD3AD24458E6A23",
+        "sha256": "B76E2A037A9D60B8824E61F8F0B4BDCF0CBCAC4B192FB065DAE1A062D239A8DE"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 10967523,
+    "release_date": "2025-08-27T05:37:55Z",
+    "x_generated_by": "netkan"
+}

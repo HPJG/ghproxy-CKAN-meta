@@ -1,0 +1,49 @@
+{
+    "spec_version": 1,
+    "identifier": "OPX-UrlumPlus",
+    "name": "OPX: UrlumPlus",
+    "abstract": "Outer Planets Expansion's additions and modifications to the Urlum System",
+    "author": "TheMinmusDerp",
+    "version": "v0.6.2 beta",
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/225300-112x-planet-pack-outer-planets-expansion-opx/",
+        "spacedock": "https://spacedock.info/mod/3675/OPX:%20UrlumPlus",
+        "repository": "https://ghproxy.net/https://github.com/TheMinmusDerp/OPX-UrlumPlus",
+        "bugtracker": "https://ghproxy.net/https://github.com/TheMinmusDerp/OPX-UrlumPlus/issues",
+        "x_screenshot": "https://spacedock.info/content/TheMinmusDerp_137781/OPX_UrlumPlus/OPX_UrlumPlus-1722152667.png"
+    },
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "localizations": [
+        "en-us",
+        "ru"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "VertexMitchellNetravaliHeightMap"
+        },
+        {
+            "name": "OuterPlanetsMod"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3675/OPX:%20UrlumPlus/download/v0.6.2%20beta",
+    "download_size": 79063755,
+    "download_hash": {
+        "sha1": "86EB9D57AE0A767BC09F98D8DD1C878C1F2DBF15",
+        "sha256": "345FBC031D32D6E573F808CF089DA63B14F490F50A742A9588F6B22597EF448D"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 188476374,
+    "release_date": "2025-08-11T05:53:16.97438+00:00",
+    "x_generated_by": "netkan"
+}

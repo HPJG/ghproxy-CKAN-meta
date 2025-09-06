@@ -1,0 +1,23 @@
+{
+    "spec_version": 1,
+    "identifier": "TemperatureGaugeKiller",
+    "name": "Temperature Gauge Killer",
+    "abstract": "Automatically turns off the broken temperature overlay",
+    "author": "DMagic",
+    "license": "public-domain",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/120731",
+        "kerbalstuff": "https://kerbalstuff.com/mod/775/Temperature%20Gauge%20Killer"
+    },
+    "version": "2.0",
+    "ksp_version": "1.0.2",
+    "download": "https://archive.org/download/TemperatureGaugeKiller-2.0/1FA7B7C2-TemperatureGaugeKiller-2.0.zip",
+    "download_size": 2399,
+    "download_hash": {
+        "sha1": "1FA7B7C22F8D31894E3130D60C15B843D003FF7E",
+        "sha256": "74640810A865B23863D3DB18E72086B002B9E85692FF38F1C891CFF89CFC6913"
+    },
+    "download_content_type": "application/zip",
+    "x_via": "Automated KerbalStuff CKAN submission",
+    "x_generated_by": "netkan"
+}

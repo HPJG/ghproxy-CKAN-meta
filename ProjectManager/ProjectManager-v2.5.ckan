@@ -1,0 +1,31 @@
+{
+    "spec_version": 1,
+    "identifier": "ProjectManager",
+    "name": "Project Manager",
+    "abstract": "Kerbal Space Program Mod",
+    "author": "Tantares",
+    "version": "v2.5",
+    "ksp_version_min": "1.10.1",
+    "ksp_version_max": "1.12.99",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/184785-*",
+        "repository": "https://ghproxy.net/https://github.com/Tantares/ProjectManager",
+        "bugtracker": "https://ghproxy.net/https://github.com/Tantares/ProjectManager/issues",
+        "remote-avc": "https://raw.githubusercontent.com/Tantares/ProjectManager/master/project_manager.version"
+    },
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "download": "https://ghproxy.net/https://github.com/Tantares/ProjectManager/releases/download/v2.5/ProjectManager.zip",
+    "download_size": 5038,
+    "download_hash": {
+        "sha1": "51AAB3133211550F3D49D8DADCCE2A7B79B038D9",
+        "sha256": "1744E672438339D89E20C3352A23E758FFDE519F33A70FB7E7DCD4A18E0D0790"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 8704,
+    "release_date": "2024-05-22T21:03:42Z",
+    "x_generated_by": "netkan"
+}

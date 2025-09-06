@@ -1,0 +1,29 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "MapviewMonoSound",
+    "name": "Mapview Mono Sound",
+    "abstract": "Does it annoy you that those enginesounds come 100% out of your left or right speaker in the mapview?, no more worries!, this fixes that :)",
+    "author": "LemonGrass",
+    "version": "1.0.1",
+    "ksp_version": "1.4.1",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/171141-131-mapview-mono-sound/",
+        "spacedock": "https://spacedock.info/mod/1702/Mapview%20Mono%20Sound",
+        "repository": "https://ghproxy.net/https://github.com/Centens/Mapview-Mono-Sound",
+        "x_screenshot": "https://spacedock.info/content/LemonGrass_18575/Mapview_Mono_Sound/Mapview_Mono_Sound-1519143032.9840696.jpg"
+    },
+    "tags": [
+        "plugin",
+        "sound"
+    ],
+    "download": "https://spacedock.info/mod/1702/Mapview%20Mono%20Sound/download/1.0.1",
+    "download_size": 2666,
+    "download_hash": {
+        "sha1": "322507DA3364B336E898C90457B9954F2F4460CD",
+        "sha256": "B30098EC4847D2E5A23BAA206C9CF081C2BC235AD422C306819AC454B397BE05"
+    },
+    "download_content_type": "application/zip",
+    "release_date": "2018-02-20T15:22:19.028262+00:00",
+    "x_generated_by": "netkan"
+}

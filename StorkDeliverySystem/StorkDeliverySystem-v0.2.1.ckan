@@ -1,0 +1,33 @@
+{
+    "spec_version": 1,
+    "identifier": "StorkDeliverySystem",
+    "name": "Stork Delivery System",
+    "abstract": "Deliver your big cargo to the planet surface without flipping!",
+    "author": "riocrokite",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/112526",
+        "repository": "https://ghproxy.net/https://github.com/riocrokite/StorkDeliverySystem"
+    },
+    "version": "v0.2.1",
+    "ksp_version": "0.90",
+    "suggests": [
+        {
+            "name": "MFS"
+        }
+    ],
+    "install": [
+        {
+            "file": "KermangeddonIndustries",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/riocrokite/StorkDeliverySystem/releases/download/v0.2.1/stork.0.21.zip",
+    "download_size": 457808,
+    "download_hash": {
+        "sha1": "50DCF9D28707B28950403542384BDC630251ACC4",
+        "sha256": "A315331884DC0040AA112ABB96233E73E586B42F6009DB1AEDECAE175BD66740"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

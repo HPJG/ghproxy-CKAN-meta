@@ -1,0 +1,28 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "ToySolarSystem",
+    "name": "Toy Solar System",
+    "abstract": "Have you ever wanted planets to be far too tiny? No? Then get out of here! This mod makes planets 1/10 stock scale, and 1/100 Earth scale.",
+    "author": "GregroxMun",
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/137234-WIP-Toy-Solar-System?p=2254394#post2254394",
+        "kerbalstuff": "https://kerbalstuff.com/mod/1222/Toy%20Solar%20System",
+        "x_screenshot": "https://kerbalstuff.com/content/GregroxMun_8555/Toy_Solar_System/Toy_Solar_System-1445395093.703258.png"
+    },
+    "version": "0.01",
+    "ksp_version": "1.0.4",
+    "depends": [
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://archive.org/download/ToySolarSystem-0.01/50BD0688-ToySolarSystem-0.01.zip",
+    "download_size": 7769270,
+    "download_hash": {
+        "sha1": "50BD0688DDC7BED9D5252BDDE78F9B93B36BFCDA",
+        "sha256": "D8962D06EA505E5CA669CFDE19D96D3E29D20FB61B83C0F681F9BA40548B064C"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

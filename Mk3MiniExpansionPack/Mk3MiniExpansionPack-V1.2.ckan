@@ -1,0 +1,33 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "Mk3MiniExpansionPack",
+    "name": "Mk3 Mini Expansion Pack",
+    "abstract": "Adds 2 parts for the stock mk3 system : RCS shuttle NoseCone, mk3 Airliner cockpit",
+    "author": "kyeon",
+    "license": "CC-BY-NC-SA",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/105063-0-90-Mk3-Mini-Expansion-Pack?p=1632752#post1632752",
+        "kerbalstuff": "https://kerbalstuff.com/mod/449/Mk3%20Mini%20Expansion%20Pack",
+        "x_screenshot": "https://kerbalstuff.com/content/kyeon_4065/Mk3_Mini_Expansion_Pack/Mk3_Mini_Expansion_Pack-1436156915.755908.png"
+    },
+    "version": "V1.2",
+    "ksp_version": "1.0.4",
+    "install": [
+        {
+            "find": "Mk3MiniExpansion",
+            "install_to": "GameData"
+        },
+        {
+            "find": "SPH",
+            "install_to": "Ships"
+        }
+    ],
+    "download": "https://archive.org/download/Mk3MiniExpansionPack-V1.2/1A886F14-Mk3MiniExpansionPack-V1.2.zip",
+    "download_size": 1110509,
+    "download_hash": {
+        "sha1": "1A886F1493A19D0CB37D38B85C34BBC8FBA78F5D",
+        "sha256": "E1AAF12468C3A19D7A69943431847F8E4DE2571B1505F43F93C2381DEAA3F20A"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

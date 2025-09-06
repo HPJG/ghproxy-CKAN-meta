@@ -1,0 +1,28 @@
+{
+    "spec_version": 1,
+    "identifier": "SemiSaturatableRW",
+    "name": "(Semi)Saturatable Reaction Wheels",
+    "abstract": "Torque from reaction wheels decays with use and slowly recovers when idle",
+    "author": "Crzyrndm",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/116888",
+        "repository": "https://ghproxy.net/https://github.com/Crzyrndm/RW-Saturatable"
+    },
+    "version": "1.10.2",
+    "ksp_version": "1.0.4",
+    "install": [
+        {
+            "file": "GameData/RW Saturatable",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/Crzyrndm/RW-Saturatable/releases/download/1.10.2/Saturatable.RW.v1.10.2.zip",
+    "download_size": 11076,
+    "download_hash": {
+        "sha1": "CDFD9F95F78C189F95D31CF2678C41A71EA932E7",
+        "sha256": "D45FC042302D342FE39B747AB1372ADED81F08741581271D633FE4FEFDD4409F"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

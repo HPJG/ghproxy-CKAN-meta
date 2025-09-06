@@ -1,0 +1,31 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "RealHumans",
+    "name": "Real Humans",
+    "abstract": "Tired of little green men?  Maybe you'll actually feel bad for a death.",
+    "author": "CliftonM",
+    "license": "CC-BY-4.0",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/13/Real%20Humans"
+    },
+    "version": "1.0.1",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "TextureReplacer"
+        }
+    ],
+    "install": [
+        {
+            "find": "TextureReplacer",
+            "install_to": "GameData",
+            "filter": [
+                ".DS_Store",
+                "license"
+            ]
+        }
+    ],
+    "download": "https://spacedock.info/mod/13/Real%20Humans/download/1.0.1",
+    "download_size": 3835859,
+    "x_generated_by": "netkan"
+}

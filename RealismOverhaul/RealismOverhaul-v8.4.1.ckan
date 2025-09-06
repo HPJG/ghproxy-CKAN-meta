@@ -1,0 +1,248 @@
+{
+    "spec_version": "v1.2",
+    "identifier": "RealismOverhaul",
+    "name": "Realism Overhaul",
+    "abstract": "Multipatch to KSP to give things realistic stats and sizes",
+    "author": "NathanKell",
+    "license": "CC-BY-SA",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/99966",
+        "repository": "https://ghproxy.net/https://github.com/KSP-RO/RealismOverhaul"
+    },
+    "version": "v8.4.1",
+    "ksp_version": "0.90",
+    "provides": [
+        "RealFuels-Engine-Configs"
+    ],
+    "depends": [
+        {
+            "name": "AdvancedJetEngine"
+        },
+        {
+            "name": "CrossFeedEnabler"
+        },
+        {
+            "name": "DDSLoader"
+        },
+        {
+            "name": "FerramAerospaceResearch"
+        },
+        {
+            "name": "KerbalJointReinforcement"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ModuleRCSFX"
+        },
+        {
+            "name": "RealFuels"
+        },
+        {
+            "name": "RealSolarSystem"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "ActiveTextureManagement"
+        },
+        {
+            "name": "BetterBuoyancy"
+        },
+        {
+            "name": "ConnectedLivingSpace"
+        },
+        {
+            "name": "DeadlyReentry"
+        },
+        {
+            "name": "EngineIgnitor"
+        },
+        {
+            "name": "FilterExtensions"
+        },
+        {
+            "name": "HangarExtender"
+        },
+        {
+            "name": "KSP-AVC"
+        },
+        {
+            "name": "MechJeb2"
+        },
+        {
+            "name": "ModuleFixer"
+        },
+        {
+            "name": "NBody"
+        },
+        {
+            "name": "PartCatalog"
+        },
+        {
+            "name": "ProceduralDynamics"
+        },
+        {
+            "name": "ProceduralFairings"
+        },
+        {
+            "name": "ProceduralParts"
+        },
+        {
+            "name": "RealChute"
+        },
+        {
+            "name": "RealPlume"
+        },
+        {
+            "name": "RealHeat"
+        },
+        {
+            "name": "RemoteTech"
+        },
+        {
+            "name": "RemoteTech-Config-RSS"
+        },
+        {
+            "name": "TACLS"
+        },
+        {
+            "name": "TACLS-Config-RealismOverhaul"
+        },
+        {
+            "name": "TextureReplacer"
+        },
+        {
+            "name": "Toolbar"
+        },
+        {
+            "name": "TweakScale"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "Service-Compartments-6S"
+        },
+        {
+            "name": "AIESAerospace-Unofficial"
+        },
+        {
+            "name": "ALCOR"
+        },
+        {
+            "name": "DMagicOrbitalScience"
+        },
+        {
+            "name": "FASA"
+        },
+        {
+            "name": "KAS"
+        },
+        {
+            "name": "KWRocketry"
+        },
+        {
+            "name": "LazTekSpaceXExploration"
+        },
+        {
+            "name": "LazTekSpaceXHistoric"
+        },
+        {
+            "name": "LazTekSpaceXLaunch"
+        },
+        {
+            "name": "NearFutureConstruction"
+        },
+        {
+            "name": "NearFutureElectric"
+        },
+        {
+            "name": "NearFuturePropulsion"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        },
+        {
+            "name": "PorkjetHabitats"
+        },
+        {
+            "name": "Proton-Bobcat"
+        },
+        {
+            "name": "Proton-OLDD"
+        },
+        {
+            "name": "RLA-Stockalike"
+        },
+        {
+            "name": "RocketdyneF-1"
+        },
+        {
+            "name": "SCANsat"
+        },
+        {
+            "name": "SovietEngines"
+        },
+        {
+            "name": "SpaceFactory-Voskhod-unofficial"
+        },
+        {
+            "name": "SpaceFactory-Vostok-unofficial"
+        },
+        {
+            "name": "SXT"
+        },
+        {
+            "name": "UniversalStorage"
+        },
+        {
+            "name": "VenStockRevamp"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "TweakableEverything"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/RealismOverhaul",
+            "install_to": "GameData",
+            "comment": "This regexp skips the Smokescreen folders",
+            "filter_regexp": "SmokeScreen_"
+        },
+        {
+            "file": "GameData/KAS",
+            "install_to": "GameData",
+            "comment": "KAS config, does not overwrite"
+        },
+        {
+            "file": "GameData/EngineGroupController",
+            "install_to": "GameData",
+            "comment": "Engine Group Controller, unique to RO."
+        },
+        {
+            "file": "Ships/VAB",
+            "install_to": "Ships",
+            "comment": "VAB craft files"
+        },
+        {
+            "file": "Ships/SPH",
+            "install_to": "Ships",
+            "comment": "SPH craft files"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/KSP-RO/RealismOverhaul/releases/download/v8.4.1/RealismOverhaul-v8.4.1.zip",
+    "download_size": 17539101,
+    "download_hash": {
+        "sha1": "7057F03FF61DC7ADF24FCDCF97ACA62936E7C8A2",
+        "sha256": "F8E3CB81D15AC8FA929F3FFA04411809CA4DEDF6906DE391E6590369FB1D99BA"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

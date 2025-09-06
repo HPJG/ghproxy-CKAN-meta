@@ -1,0 +1,29 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "SpacetuxSA",
+    "name": "Spacetux Shared Assets",
+    "abstract": "Shared assets (flags & agency) for use with various Spacetux mods",
+    "author": "Linuxgurugamer",
+    "license": "CC-BY-NC-SA-4.0",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/113417-Spacetux-Unmanned-Missions",
+        "kerbalstuff": "https://kerbalstuff.com/mod/656/Spacetux%20Shared%20Assets"
+    },
+    "version": "0.1.0",
+    "ksp_version": "0.90",
+    "install": [
+        {
+            "find": "spacetux",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/SpacetuxSA-0.1.0/7D1554CB-SpacetuxSA-0.1.0.zip",
+    "download_size": 142966,
+    "download_hash": {
+        "sha1": "7D1554CBD967871DE0618B63178E02EB22CDA015",
+        "sha256": "D5F46A865C81629FD765975C096FAF2572DBF06FAC60BF9E176B0A83EDB5375A"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

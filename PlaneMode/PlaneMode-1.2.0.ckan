@@ -1,0 +1,29 @@
+{
+    "spec_version": 1,
+    "identifier": "PlaneMode",
+    "name": "Plane Mode",
+    "abstract": "Swap Yaw/Roll in Flight",
+    "author": "Dwayne Bent",
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/106934",
+        "repository": "https://ghproxy.net/https://github.com/Apokee/PlaneMode",
+        "kerbalstuff": "https://kerbalstuff.com/mod/493/Plane%20Mode",
+        "x_screenshot": "https://kerbalstuff.com/content/dbb_49/Plane_Mode/Plane_Mode.png"
+    },
+    "version": "1.2.0",
+    "ksp_version": "1.0.4",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://archive.org/download/PlaneMode-1.2.0/5F8E3EB9-PlaneMode-1.2.0.zip",
+    "download_size": 17285,
+    "download_hash": {
+        "sha1": "5F8E3EB989391ADFBDECB703D216B78ED67DA0EA",
+        "sha256": "957DA88E04899BD0FE8F78963597677AB5638AEFDF78A4C5273AB0E7351EB0BA"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,32 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "StockalikeExpendableLaunchVehicles",
+    "name": "Stockalike Expendable Launch Vehicles",
+    "abstract": "Some stockalike rockets, based on real world launch vehicles, mixed with the KSP Style",
+    "author": "Kartoffelkuchen",
+    "license": "CC-BY-NC-ND",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/122576",
+        "kerbalstuff": "https://kerbalstuff.com/mod/830/Stockalike%20Expendable%20Launch%20Vehicles"
+    },
+    "version": "1.1",
+    "ksp_version": "1.0.2",
+    "install": [
+        {
+            "find": "SELV",
+            "install_to": "GameData"
+        },
+        {
+            "find": "VAB",
+            "install_to": "Ships"
+        }
+    ],
+    "download": "https://archive.org/download/StockalikeExpendableLaunchVehicles-1.1/DC2C49F5-StockalikeExpendableLaunchVehicles-1.1.zip",
+    "download_size": 6836089,
+    "download_hash": {
+        "sha1": "DC2C49F5596752A4CEAAB4A08893A3C488282152",
+        "sha256": "89A668470BFA153DEC2551577916014C8079163A20F0015DBFD40E92F5DC29EA"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,34 @@
+{
+    "spec_version": 1,
+    "identifier": "MemoryUsage",
+    "name": "MemoryUsage",
+    "abstract": "MemoryUsage is a plugin which adds the possibility to see the memory usage, the cpu usage and the count of threads used by KSP.",
+    "author": "malah",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/99494",
+        "repository": "https://ghproxy.net/https://github.com/malahx/MemoryUsage",
+        "kerbalstuff": "https://kerbalstuff.com/mod/317/MemoryUsage",
+        "x_screenshot": "https://kerbalstuff.com/content/malah_88/MemoryUsage/MemoryUsage-1424351189.8079877.png"
+    },
+    "version": "v1.20",
+    "ksp_version": "0.90.0",
+    "install": [
+        {
+            "file": "Kerbal Space Program/GameData/MemoryUsage",
+            "install_to": "GameData"
+        },
+        {
+            "file": "Kerbal Space Program/MemoryUsage.exe",
+            "install_to": "GameRoot"
+        }
+    ],
+    "download": "https://s3-us-west-2.amazonaws.com/ksp-ckan/D583E347.zip",
+    "download_size": 46017,
+    "download_hash": {
+        "sha1": "BB6B9244E2EA2A8CF4C9B85715A52006962717C8",
+        "sha256": "40B92BF604C5754599B9D1E5B1C6100EA1950ABB7A5488B5FC172E74B329D406"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

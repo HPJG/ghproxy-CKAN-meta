@@ -1,0 +1,35 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "ModularRocketSystemsLITE",
+    "name": "Modular Rocket Systems LITE",
+    "abstract": "Reduced version of MRS containing only the more unique/interesting parts.",
+    "author": "NecroBones",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/93067",
+        "kerbalstuff": "https://kerbalstuff.com/mod/584/Modular%20Rocket%20Systems%20LITE",
+        "x_screenshot": "https://kerbalstuff.com/content/NecroBones_1035/Modular_Rocket_Systems_LITE/Modular_Rocket_Systems_LITE-1423603057.5492907.jpg"
+    },
+    "version": "1.10",
+    "ksp_version": "1.0.5",
+    "conflicts": [
+        {
+            "name": "ModularRocketSystem"
+        }
+    ],
+    "install": [
+        {
+            "file": "ModRocketSysLite",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/ModularRocketSystemsLITE-1.10/B2D9BAB1-ModularRocketSystemsLITE-1.10.zip",
+    "download_size": 4980437,
+    "download_hash": {
+        "sha1": "B2D9BAB14B9047B68070EC62D3A11C493F91405C",
+        "sha256": "F4AA972B711196D86C62C7DE9089BDF4A599A9B6398680E172E69D6B923EC9B6"
+    },
+    "download_content_type": "application/zip",
+    "x_via": "Automated KerbalStuff CKAN submission",
+    "x_generated_by": "netkan"
+}

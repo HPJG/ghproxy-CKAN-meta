@@ -1,0 +1,43 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "RocketSoundEnhancement-Config-Default",
+    "name": "Rocket Sound Enhancement - Default",
+    "abstract": "RSE sounds for stock engines, wheels, decouplers, and more",
+    "author": "ensou04",
+    "version": "0.5.2",
+    "ksp_version_min": "1.10.1",
+    "ksp_version_max": "1.10.99",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/179579-wip15x-rocket-sound-enhancement-pre-v100/",
+        "repository": "https://ghproxy.net/https://github.com/ensou04/RocketSoundEnhancement",
+        "bugtracker": "https://ghproxy.net/https://github.com/ensou04/RocketSoundEnhancement/issues"
+    },
+    "tags": [
+        "config",
+        "sound"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RocketSoundEnhancement"
+        }
+    ],
+    "install": [
+        {
+            "find": "RocketSoundEnhancement",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/ensou04/RocketSoundEnhancement/releases/download/0.5.2/RocketSoundEnhancement-v0.5.2-Configs.zip",
+    "download_size": 82762756,
+    "download_hash": {
+        "sha1": "4FB9EC213ADA626ADCED2016A5696E1B8BEBEC4E",
+        "sha256": "EF8B7E223E071D4609FE73946C71AC3690E0C60CB7BB75A105E728710CE4160C"
+    },
+    "download_content_type": "application/zip",
+    "release_date": "2020-11-22T04:46:08Z",
+    "x_generated_by": "netkan"
+}

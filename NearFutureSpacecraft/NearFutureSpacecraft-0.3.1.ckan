@@ -1,0 +1,41 @@
+{
+    "spec_version": 1,
+    "identifier": "NearFutureSpacecraft",
+    "name": "Near Future Spacecraft Parts",
+    "abstract": "Stockalike parts for constructing futuristic spacecraft",
+    "author": "Nertea",
+    "license": "CC-BY-NC-SA-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/52042-0-21",
+        "kerbalstuff": "https://kerbalstuff.com/mod/350/Near%20Future%20Spacecraft%20Parts"
+    },
+    "version": "0.3.1",
+    "ksp_version": "0.25",
+    "depends": [
+        {
+            "name": "RasterPropMonitor-Core"
+        },
+        {
+            "name": "NearFutureProps"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "CommunityTechTree"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/NearFutureSpacecraft",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/NearFutureSpacecraft-0.3.1/51FC6BAA-NearFutureSpacecraft-0.3.1.zip",
+    "download_size": 11347625,
+    "download_hash": {
+        "sha1": "51FC6BAA5F0FDE2E3E625E4FFBC45D4AA4B9C6BC",
+        "sha256": "F5B9D0F70F427E686D0DBD8D9BF8C2F270AE73E311DD5338C45D92928CF00BD2"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

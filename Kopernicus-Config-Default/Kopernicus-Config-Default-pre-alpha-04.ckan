@@ -1,0 +1,35 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "Kopernicus-Config-Default",
+    "name": "Kopernicus default system configuration",
+    "abstract": "Kopernicus default system configuration",
+    "description": "Kopernicus default system configuration",
+    "author": "BryceSchroeder",
+    "license": "LGPL-2.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/88168",
+        "repository": "http://github.com/BryceSchroeder/Kopernicus"
+    },
+    "version": "pre-alpha-04",
+    "ksp_version": "0.90",
+    "provides": [
+        "Kopernicus-Config"
+    ],
+    "install": [
+        {
+            "find": "Kopernicus",
+            "install_to": "GameData",
+            "filter": [
+                "Kopernicus.dll"
+            ]
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/BryceSchroeder/Kopernicus/releases/download/pre-alpha-04/Kopernicus.0.0.4.zip",
+    "download_size": 56884,
+    "download_hash": {
+        "sha1": "E8984A204A85C30014D3E88C4F4AC56D67F513C7",
+        "sha256": "BBA997DC4EC2D3457DC8FADC2C12352CB6012912FE9E5BD2BDBBF3015763F0CC"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

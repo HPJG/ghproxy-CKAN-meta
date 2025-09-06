@@ -1,0 +1,44 @@
+{
+    "spec_version": 1,
+    "identifier": "RealScaleBoosters",
+    "name": "Real Scale Boosters",
+    "abstract": "Realistically sized rocket parts, with realistic stats and performance, heavily based on real world rockets. ",
+    "author": "NecroBones",
+    "license": "CC-BY-NC-SA",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/129134-RSB",
+        "kerbalstuff": "https://kerbalstuff.com/mod/1435/Real%20Scale%20Boosters",
+        "x_screenshot": "https://kerbalstuff.com/content/NecroBones_1035/Real_Scale_Boosters/Real_Scale_Boosters-1454260232.24685.jpg"
+    },
+    "version": "0.3.3",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "HangarExtender"
+        },
+        {
+            "name": "KerbalJointReinforcement"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "RealSolarSystem"
+        },
+        {
+            "name": "CommunityTechTree"
+        }
+    ],
+    "download": "https://archive.org/download/RealScaleBoosters-0.3.3/71EDF153-RealScaleBoosters-0.3.3.zip",
+    "download_size": 13892158,
+    "download_hash": {
+        "sha1": "71EDF15391D314C9EDC04812CCE416B788A26F1F",
+        "sha256": "ADC08E7B6E6394FCFDE539D31DEDC17533691FF5C6F848DD746680B4B5B30749"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

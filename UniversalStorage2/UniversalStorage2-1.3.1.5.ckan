@@ -1,0 +1,37 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "UniversalStorage2",
+    "name": "Universal Storage II",
+    "abstract": "Universal Storage is a modular parts mod, allowing you to build custom service modules.  It is highly integrated with 3rd part life support mods, DMagic Orbital Science and Kerbal Inventory System.",
+    "author": [
+        "Paul_Kingtiger",
+        "DMagic",
+        "Daishi"
+    ],
+    "license": "restricted",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/177385-universal-storage-ii/",
+        "spacedock": "https://spacedock.info/mod/1933/Universal%20Storage%20II",
+        "repository": "https://1drv.ms/f/s!AvmqbLkW8UIH2PsfIYBmSwhNfYG-pw",
+        "x_screenshot": "https://spacedock.info/content/Paul_Kingtiger_1707/Universal_Storage_II/Universal_Storage_II-1545589673.8555577.png"
+    },
+    "version": "1.3.1.5",
+    "ksp_version_min": "1.3.1",
+    "ksp_version_max": "1.5.9",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1933/Universal%20Storage%20II/download/1.3.1.5",
+    "download_size": 36854894,
+    "download_hash": {
+        "sha1": "9493917BA3D6D8A420B32D0092EE3076084CF415",
+        "sha256": "917726C7F0D0476BE01E23374DE81DD4CE3AB91D87D750C208C9A8C9B02B9B4B"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

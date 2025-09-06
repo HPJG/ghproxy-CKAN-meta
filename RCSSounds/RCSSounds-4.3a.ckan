@@ -1,0 +1,34 @@
+{
+    "spec_version": 1,
+    "identifier": "RCSSounds",
+    "name": "RCS Sounds",
+    "abstract": "Adds a sound effect when firing RCS engines.",
+    "author": "pizzaoverhead",
+    "license": "GPL-2.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/52896",
+        "repository": "https://ghproxy.net/https://github.com/pizzaoverhead/RcsSounds"
+    },
+    "version": "4.3a",
+    "ksp_version_min": "0.25.0",
+    "ksp_version_max": "1.0.4",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/RcsSounds",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "http://addons-origin.cursecdn.com/files/2252/83/RcsSoundsV4.3a.zip",
+    "download_size": 718762,
+    "download_hash": {
+        "sha1": "7465B6E69B2858C4D7B5508D441273BA164221DE",
+        "sha256": "B62F33CF66C8EABF84190D01CC7CE0F6BA163B97BBBE5170B052D749F2F8E013"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

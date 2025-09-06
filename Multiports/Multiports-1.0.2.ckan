@@ -1,0 +1,33 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "Multiports",
+    "name": "Multiports",
+    "abstract": "Some dockingports which enable to dock multiple sizes",
+    "author": "TheCardinal",
+    "version": "1.0.2",
+    "ksp_version": "1.4.5",
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/119261-multiports",
+        "spacedock": "https://spacedock.info/mod/360/Multiports",
+        "x_screenshot": "https://spacedock.info/content/TheCardinal_1913/Multiports/Multiports-1457272422.6131358.png"
+    },
+    "tags": [
+        "parts"
+    ],
+    "install": [
+        {
+            "find": "Multiports",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/360/Multiports/download/1.0.2",
+    "download_size": 2097,
+    "download_hash": {
+        "sha1": "E01FC135EA3FE573A598A79A54D14752D4112FE8",
+        "sha256": "B731308EC831C065825749501A0A4460FDB53B78464BCA9AA509691FFF8C058B"
+    },
+    "download_content_type": "application/zip",
+    "release_date": "2016-03-06T14:51:21.791459+00:00",
+    "x_generated_by": "netkan"
+}

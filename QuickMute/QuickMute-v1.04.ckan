@@ -1,0 +1,33 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "QuickMute",
+    "name": "QuickMute",
+    "abstract": "QuickMute is a plugin which adds the possibility to mute all the KSP sounds.",
+    "author": "malah",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/95168#QuickMute",
+        "kerbalstuff": "https://kerbalstuff.com/mod/509/QuickMute"
+    },
+    "version": "v1.04",
+    "ksp_version": "1.0.2",
+    "suggests": [
+        {
+            "name": "Toolbar"
+        }
+    ],
+    "install": [
+        {
+            "find": "QuickMute",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/QuickMute-v1.04/F7F3E39C-QuickMute-v1.04.zip",
+    "download_size": 44545,
+    "download_hash": {
+        "sha1": "F7F3E39C42D63C92F36F659DD00570BCF4D7D96D",
+        "sha256": "9095CFB79ED9F6BC0B237F13654FADCFA192DEB3774A03CDBB4114AE87306D3C"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

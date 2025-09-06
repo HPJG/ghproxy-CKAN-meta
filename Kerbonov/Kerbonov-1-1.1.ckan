@@ -1,0 +1,33 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "Kerbonov",
+    "name": "Kerbonov Kn2",
+    "abstract": "Sam Hall's Kerbonov Kn2 capsule mod config-file and directory based update for KSP 1.0.5",
+    "author": [
+        "Sam Hall",
+        "aristurtle",
+        "Darkona"
+    ],
+    "license": "CC-BY-SA-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/130046-105-darkonas-resurrection-project-old-mods-new-life/#comment-2365156",
+        "kerbalstuff": "https://kerbalstuff.com/mod/1402/Kerbonov%20Kn2",
+        "x_screenshot": "https://kerbalstuff.com/content/Darkona_19041/Kerbonov_Kn2/Kerbonov_Kn2-1452647120.873465.jpg"
+    },
+    "version": "1:1.1",
+    "ksp_version": "1.0.5",
+    "install": [
+        {
+            "find": "Kerbonov",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/Kerbonov-1-1.1/4EBD4A3F-Kerbonov-1-1.1.zip",
+    "download_size": 7812513,
+    "download_hash": {
+        "sha1": "4EBD4A3FA5E5879D2F15A801FDA5C089014DFC31",
+        "sha256": "F0F8265FB3155C317B60A60A6C80432D3BAFBA9937043B374AF33C37196FF5BF"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

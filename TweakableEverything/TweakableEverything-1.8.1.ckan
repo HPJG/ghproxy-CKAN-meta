@@ -1,0 +1,36 @@
+{
+    "spec_version": 1,
+    "identifier": "TweakableEverything",
+    "name": "TweakableEverything",
+    "abstract": "For all your part tweaking needs",
+    "author": "toadicus",
+    "license": "BSD-3-clause",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/64711",
+        "kerbalstuff": "https://kerbalstuff.com/mod/255/TweakableEverything"
+    },
+    "version": "1.8.1",
+    "ksp_version": "0.90",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ToadicusTools"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/TweakableEverything",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/TweakableEverything-1.8.1/BFE3FF5D-TweakableEverything-1.8.1.zip",
+    "download_size": 299434,
+    "download_hash": {
+        "sha1": "BFE3FF5DFF292C36846DD2C24DD398674218E30B",
+        "sha256": "9452FE102389F21902D2D1D223B446C0DF93A037FCD121CE1A2C9421F8E235A1"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,51 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "SigmaJoolRecolor",
+    "name": "Sigma: Jool Recolor",
+    "abstract": "This mod changes the color of Jool to make it more similar to Jupiter.",
+    "author": "Sigma88",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/112095",
+        "repository": "https://ghproxy.net/https://github.com/Sigma88/Sigma-JoolRecolor"
+    },
+    "version": "v1.1.0",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus",
+            "min_version": "1:beta-05-2"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "BilliardsPlanetPack"
+        },
+        {
+            "name": "NewHorizons"
+        },
+        {
+            "name": "RealSolarSystem"
+        },
+        {
+            "name": "ToySolarSystem"
+        }
+    ],
+    "install": [
+        {
+            "find": "JoolRecolor",
+            "install_to": "GameData/Sigma"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/Sigma88/Sigma-JoolRecolor/releases/download/v1.1.0/Sigma-JoolRecolor.v1.1.0.zip",
+    "download_size": 277450,
+    "download_hash": {
+        "sha1": "03D9B11F372EBBC543DE7F2FB86ECE8996A9579D",
+        "sha256": "071D5E29682E6B03EBCD1E918D3B429F37707C4FD28C26B3B726D48A79E41517"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

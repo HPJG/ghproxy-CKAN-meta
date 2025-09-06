@@ -1,0 +1,29 @@
+{
+    "spec_version": "v1.10",
+    "identifier": "TrizzleAeroSpaceCompany",
+    "name": "Trizzle AeroSpace Company",
+    "abstract": "Part Pack based on streamlining builds, and adding engine configurations",
+    "author": "TrizzleAeroSpaceCo",
+    "license": "MIT",
+    "resources": {
+        "kerbalstuff": "https://kerbalstuff.com/mod/887/Trizzle%20AeroSpace%20Company",
+        "x_screenshot": "https://kerbalstuff.com/content/TrizzleAeroSpaceCo_11172/Trizzle_AeroSpace_Company/Trizzle_AeroSpace_Company-1433450031.7834775.png"
+    },
+    "version": "0.3",
+    "ksp_version": "1.0.2",
+    "install": [
+        {
+            "find_regexp": "TrizzleAeroSpace_v\\d\\d*\\.\\d\\d*",
+            "install_to": "GameData/TrizzleAeroSpace",
+            "filter": ".DS_Store"
+        }
+    ],
+    "download": "https://archive.org/download/TrizzleAeroSpaceCompany-0.3/79657D75-TrizzleAeroSpaceCompany-0.3.zip",
+    "download_size": 4232034,
+    "download_hash": {
+        "sha1": "79657D75DE463A57D4E8C26FA89227E141E2EA08",
+        "sha256": "AAADCA8387BA7B5986F56AB3F182A6809B728615743FB1BF485CEB936D74BBF7"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

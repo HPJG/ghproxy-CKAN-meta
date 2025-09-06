@@ -1,0 +1,29 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "MoarMk1",
+    "name": "Moar Mk1",
+    "abstract": "Pork-a-like Mk1 parts and other low hanging fruit.",
+    "author": "passinglurker",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/136987-passinglurkers-random-dev",
+        "spacedock": "https://spacedock.info/mod/526/Moar%20Mk1",
+        "x_screenshot": "https://spacedock.info/content/passinglurker_3451/Moar_Mk1/Moar_Mk1-1460667224.3154242.png"
+    },
+    "version": "0.1",
+    "ksp_version": "1.1.0",
+    "install": [
+        {
+            "find": "GameData/MoarMk1",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/526/Moar%20Mk1/download/0.1",
+    "download_size": 245553,
+    "download_hash": {
+        "sha1": "34406252C504350E689197ACB0DCB17588124488",
+        "sha256": "B268ED4CA1ED1813538EDD173836BC84636888FE20F9B2ADC3E89C4FB8E4F404"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

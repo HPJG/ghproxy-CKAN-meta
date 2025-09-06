@@ -1,0 +1,24 @@
+{
+    "spec_version": 1,
+    "identifier": "PartCommander",
+    "name": "Part Commander",
+    "abstract": "Access the right-click action menus from all parts on the current vessel in a single consolidated interface.",
+    "author": "seanmcdougall",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/127575",
+        "repository": "https://ghproxy.net/https://github.com/seanmcdougall/PartCommander",
+        "kerbalstuff": "https://kerbalstuff.com/mod/965/Part%20Commander"
+    },
+    "version": "1.0.2",
+    "ksp_version": "1.0.4",
+    "download": "https://archive.org/download/PartCommander-1.0.2/C86E713D-PartCommander-1.0.2.zip",
+    "download_size": 60480,
+    "download_hash": {
+        "sha1": "C86E713DC6F3078A48B60E525E1F5B32448CD8CC",
+        "sha256": "17CD1CD9B19ADB30F2CAA407DA8F8C559CF335EC515B92B18142F22DBDCE7BE1"
+    },
+    "download_content_type": "application/zip",
+    "x_screenshot": "https://kerbalstuff.com/content/seanmcdougall_10038/Part_Commander/Part_Commander-1435884806.3209047.png",
+    "x_generated_by": "netkan"
+}

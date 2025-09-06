@@ -1,0 +1,29 @@
+{
+    "spec_version": 1,
+    "identifier": "WildBlueTools",
+    "name": "WildBlueTools",
+    "abstract": "A collection of modules, agencies, flags, and resources for mod makers to use.",
+    "author": "Angel125",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "repository": "https://ghproxy.net/https://github.com/Angel-125/WildBlueTools",
+        "kerbalstuff": "https://kerbalstuff.com/mod/947/WildBlueTools",
+        "x_screenshot": "https://kerbalstuff.com/content/Angel125_11824/WildBlueTools/WildBlueTools-1435365836.9493759.jpg"
+    },
+    "version": "1.0.12",
+    "ksp_version": "1.0.4",
+    "install": [
+        {
+            "file": "GameData/WildBlueIndustries",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/WildBlueTools-1.0.12/6BBDB73D-WildBlueTools-1.0.12.zip",
+    "download_size": 397845,
+    "download_hash": {
+        "sha1": "6BBDB73D89D4BE4A952F3A732EC82F2F91BCC7C2",
+        "sha256": "897C009C565AA9F72DAFEDD4A67A7721479FD55A03B0DDE38770364198B7A3B2"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,24 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "RustyStarRockets",
+    "name": "Rusty Star Rockets",
+    "abstract": "It is better to rust out than wear out.",
+    "author": "GagaX",
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/138268-1-0-4-Rusty-Star-Rockets",
+        "kerbalstuff": "https://kerbalstuff.com/mod/1240/Rusty%20Star%20Rockets",
+        "x_screenshot": "https://kerbalstuff.com/content/GagaX_16227/Rusty_Star_Rockets/Rusty_Star_Rockets-1446563335.764833.png"
+    },
+    "version": "v1.3",
+    "ksp_version": "1.0.5",
+    "download": "https://archive.org/download/RustyStarRockets-v1.3/44C8AC92-RustyStarRockets-v1.3.zip",
+    "download_size": 63010174,
+    "download_hash": {
+        "sha1": "44C8AC924DE482A707F5FF9136F018C8F674FE74",
+        "sha256": "B431E2E2987B3793CED98352D3B749FA5053E5F949763B6B56799B42DD123579"
+    },
+    "download_content_type": "application/zip",
+    "x_via": "Automated KerbalStuff CKAN submission",
+    "x_generated_by": "netkan"
+}

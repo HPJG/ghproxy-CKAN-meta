@@ -1,0 +1,41 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "RSSOrigin-CelestialsPack-Centaurs",
+    "name": "RSS-Origin CelestialsPack Centaurs",
+    "abstract": "Exclusive add-ons with hundreds of asteroids, comets, moons and overhauls RSS",
+    "author": "CharonSSS",
+    "version": "v1.2.0.1",
+    "ksp_version": "1.12",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "repository": "https://ghproxy.net/https://github.com/CharonSSS/RSS-Origin",
+        "bugtracker": "https://ghproxy.net/https://github.com/CharonSSS/RSS-Origin/issues"
+    },
+    "tags": [
+        "planet-pack"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RSSOrigin"
+        }
+    ],
+    "install": [
+        {
+            "find": "RSSOrigin",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/CharonSSS/RSS-Origin/releases/download/v1.2.0.1/RSS-Origin.CelestialsPack.Centaurs.zip",
+    "download_size": 44813065,
+    "download_hash": {
+        "sha1": "51BD27D3415093DAE27C9AEFF6B2772A507BA7E8",
+        "sha256": "D6E6EE6F6B4CC981826FADF351C6135414DFC15322A0C4E57F15745E2476F8BA"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 85308904,
+    "release_date": "2025-08-27T05:38:20Z",
+    "x_generated_by": "netkan"
+}

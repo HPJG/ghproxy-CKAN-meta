@@ -1,0 +1,36 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "SelectableDataTransmitter",
+    "name": "Selectable Data Transmitter Module",
+    "abstract": "allow an antenna be switchable between DIRECT mode and RELAY mode",
+    "author": "linuxgurugamer",
+    "version": "0.1.4.2",
+    "ksp_version_min": "1.4.1",
+    "ksp_version_max": "1.4.99",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/154305-*",
+        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/SelectableDataTransmitter",
+        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/SelectableDataTransmitter/issues",
+        "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=421"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "install": [
+        {
+            "find": "SelectableDataTransmitter",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/linuxgurugamer/SelectableDataTransmitter/releases/download/0.1.4.2/SelectableDataTransmitter-0.1.4.2.zip",
+    "download_size": 37666,
+    "download_hash": {
+        "sha1": "A1D2495EA035BCA7A0D4870A5BFF07144972161C",
+        "sha256": "64E6C589FC944336AE5F0891CEDF94A75D8320B91F3F84971203E4A340D1C783"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 88562,
+    "release_date": "2018-03-30T20:25:01Z",
+    "x_generated_by": "netkan"
+}

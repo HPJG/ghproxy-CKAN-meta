@@ -1,0 +1,40 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "StrykersAerospaceandIVAs",
+    "name": "Stryker's Aerospace and IVA's",
+    "abstract": "Modpack featuring more than 5 cockpits all with IVA's, two early soviet jet intakes and more! For the aircraft builders.",
+    "author": "strykersm",
+    "license": "CC-BY-SA",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/84912-105-strykers-aerospace-and-ivas/#comment-1409948",
+        "kerbalstuff": "https://kerbalstuff.com/mod/1289/Stryker's%20Aerospace%20and%20IVA's",
+        "x_screenshot": "https://kerbalstuff.com/content/strykersm_1142/Strykers_Aerospace_and_IVAs/Strykers_Aerospace_and_IVAs-1451342989.2145777.png"
+    },
+    "version": "7.1",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "RasterPropMonitor"
+        },
+        {
+            "name": "ASETProps"
+        },
+        {
+            "name": "ASETAvionics"
+        }
+    ],
+    "install": [
+        {
+            "find": "Stryker Aerospace",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/StrykersAerospaceandIVAs-7.1/FED5CE1A-StrykersAerospaceandIVAs-7.1.zip",
+    "download_size": 4251743,
+    "download_hash": {
+        "sha1": "FED5CE1ADE03A5C6890C1BC80F7BFFDFB06AAEB9",
+        "sha256": "5BCA5DF6702AE933EF10B5A56979921817C8D963A73DEE44EFFDEAB1370D2450"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

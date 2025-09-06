@@ -1,0 +1,30 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "SolarScience",
+    "name": "Solar Science",
+    "abstract": "A mod to assist Sun Praisers and scientists all over. Includes multiple flags and 2 scientific instruments, which are heavily based upon actual parts currently aboard the STEREO and SOHO spacecrafts.",
+    "author": "Snoopy_20111",
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/111678",
+        "kerbalstuff": "https://kerbalstuff.com/mod/611/Solar%20Science",
+        "x_screenshot": "https://kerbalstuff.com/content/Snoopy_20111_7572/Solar_Science/Solar_Science-1424813680.0403478.png"
+    },
+    "version": "v1.03",
+    "ksp_version": "1.0.5",
+    "install": [
+        {
+            "file": "Solar Science",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/SolarScience-v1.03/47479E86-SolarScience-v1.03.zip",
+    "download_size": 2510860,
+    "download_hash": {
+        "sha1": "47479E86A1F38D0B1B183A3BAFB30A5621D3BE98",
+        "sha256": "B98AB57B73471DEC4C7FA0273FCEFF9AB2D33B5C46CAD83D84557ECDE54B704A"
+    },
+    "download_content_type": "application/zip",
+    "x_via": "Automated KerbalStuff CKAN submission",
+    "x_generated_by": "netkan"
+}

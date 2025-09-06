@@ -1,0 +1,27 @@
+{
+    "spec_version": 1,
+    "identifier": "WaterTanks",
+    "name": "Ballast Water Tank",
+    "abstract": "Add Ballast water tanks and compressor to allow you build real-like submarines,use a pre-loaded tank to simulate your payload, and/or change your weight in flight",
+    "author": "jenyaza01",
+    "license": "MIT",
+    "resources": {
+        "kerbalstuff": "https://kerbalstuff.com/mod/1276/Ballast%20Water%20Tank",
+        "x_screenshot": "https://kerbalstuff.com/content/jenyaza01_9448/Ballast_Water_Tank/Ballast_Water_Tank-1447863546.9588459.png"
+    },
+    "version": "1.0.1.1",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://archive.org/download/WaterTanks-1.0.1.1/F0FE5D37-WaterTanks-1.0.1.1.zip",
+    "download_size": 17422,
+    "download_hash": {
+        "sha1": "F0FE5D3711BC5B31794E90673C0BB121A0272A66",
+        "sha256": "DA1AD636BBC83DC8FA24A3F0B788C6C842B9BC1074A740376439761018F370D4"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

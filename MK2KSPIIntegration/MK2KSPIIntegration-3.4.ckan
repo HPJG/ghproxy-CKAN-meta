@@ -1,0 +1,46 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "MK2KSPIIntegration",
+    "name": "MK2 KSPI Integration",
+    "abstract": "Integrates RealFuels & KSPI modules into the Mk2 Expansion pack & adds InterstellarFuelSwitch to Liquid-Fuel-Only parts. Each portion is independent of the others, and will not create conflicts.",
+    "author": "ABZB",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/131806-Starlion-Industries-KSPI-patches-for-stock-parts-modpacks",
+        "repository": "https://ghproxy.net/https://github.com/ABZB/Mk2_Extended_KSPI_Integration",
+        "kerbalstuff": "https://kerbalstuff.com/mod/1080/MK2%20KSPI%20Integration"
+    },
+    "version": "3.4",
+    "ksp_version": "1.0.4",
+    "depends": [
+        {
+            "name": "InterstellarFuelSwitch"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "B9AerospaceProceduralParts"
+        },
+        {
+            "name": "KSPInterstellarExtended"
+        },
+        {
+            "name": "Mk2Expansion"
+        }
+    ],
+    "install": [
+        {
+            "find": "StarLionIndustries",
+            "install_to": "GameData",
+            "filter": "Deprecated"
+        }
+    ],
+    "download": "https://archive.org/download/MK2KSPIIntegration-3.4/D43CDBC4-MK2KSPIIntegration-3.4.zip",
+    "download_size": 121169,
+    "download_hash": {
+        "sha1": "D43CDBC4C326CF9DE68C6E9525845E6D38E417CF",
+        "sha256": "4C940A7AD4D54C71856B8839BD7A23D8D5159E9DF4CE7947014D5C727CA9DFED"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,86 @@
+{
+    "spec_version": "v1.16",
+    "identifier": "VersatileToolboxSystem-USIPack",
+    "name": "Versatile Toolbox System: USI Pack",
+    "abstract": "A container mod for use with KIS",
+    "author": "Nazari",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/70312-105-versatile-toolbox-system-added-usi-support/",
+        "spacedock": "https://spacedock.info/mod/204/Versatile%20Toolbox%20System:%20USI%20Pack",
+        "x_screenshot": "https://spacedock.info/content/Nazari_336/Versatile_Toolbox_System_USI_Pack/Versatile_Toolbox_System_USI_Pack-1456026994.454246.png"
+    },
+    "version": "3",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "VersatileToolboxSystem-core"
+        },
+        {
+            "name": "USI-LS"
+        },
+        {
+            "name": "Karbonite"
+        }
+    ],
+    "install": [
+        {
+            "find": "Parts/vts_nazari/vtsfertilizer.cfg",
+            "install_to": "GameData/MP_Nazari/Parts/vts_nazari",
+            "find_matches_files": true
+        },
+        {
+            "find": "Parts/vts_nazari/vtsfertilizer.mu",
+            "install_to": "GameData/MP_Nazari/Parts/vts_nazari",
+            "find_matches_files": true
+        },
+        {
+            "find": "Parts/vts_nazari/vtskarbonite.cfg",
+            "install_to": "GameData/MP_Nazari/Parts/vts_nazari",
+            "find_matches_files": true
+        },
+        {
+            "find": "Parts/vts_nazari/vtskarbonite.mu",
+            "install_to": "GameData/MP_Nazari/Parts/vts_nazari",
+            "find_matches_files": true
+        },
+        {
+            "find": "Parts/vts_nazari/vtsmulch.cfg",
+            "install_to": "GameData/MP_Nazari/Parts/vts_nazari",
+            "find_matches_files": true
+        },
+        {
+            "find": "Parts/vts_nazari/vtsmulch.mu",
+            "install_to": "GameData/MP_Nazari/Parts/vts_nazari",
+            "find_matches_files": true
+        },
+        {
+            "find": "Parts/vts_nazari/vtssupplies.cfg",
+            "install_to": "GameData/MP_Nazari/Parts/vts_nazari",
+            "find_matches_files": true
+        },
+        {
+            "find": "Parts/vts_nazari/vtssupplies.mu",
+            "install_to": "GameData/MP_Nazari/Parts/vts_nazari",
+            "find_matches_files": true
+        },
+        {
+            "find": "Parts/vts_nazari/vtstankKarbonite.png",
+            "install_to": "GameData/MP_Nazari/Parts/vts_nazari",
+            "find_matches_files": true
+        },
+        {
+            "find": "Parts/vts_nazari/vtstankLabelKarbonite.png",
+            "install_to": "GameData/MP_Nazari/Parts/vts_nazari",
+            "find_matches_files": true
+        }
+    ],
+    "download": "https://spacedock.info/mod/204/Versatile%20Toolbox%20System:%20USI%20Pack/download/3",
+    "download_size": 3324080,
+    "download_hash": {
+        "sha1": "C3CF1C7CFE2ABB7AA258E4D26C27246133BC3F73",
+        "sha256": "06CACFDC7056937963F5F6BD398CAF752B589957351F0422B24F1DE18D28DA3A"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

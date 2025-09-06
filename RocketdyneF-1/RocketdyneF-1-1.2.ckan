@@ -1,0 +1,33 @@
+{
+    "spec_version": 1,
+    "comment": "Drawn from hand packaged ckan by Felger.",
+    "identifier": "RocketdyneF-1",
+    "name": "Rocketdyne F-1",
+    "abstract": "A 1:1 replica of the F-1 engines used on the Saturn V moon rockets.",
+    "author": "1096bimu",
+    "version": "1.2",
+    "ksp_version_min": "0.25",
+    "ksp_version_max": "1.3.1",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/44146-*"
+    },
+    "tags": [
+        "parts"
+    ],
+    "install": [
+        {
+            "file": "Hakari",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://www.dropbox.com/s/d3jd97ve6kvutd9/Hakari.zip?dl=1",
+    "download_size": 8291458,
+    "download_hash": {
+        "sha1": "B3040C25C16D2A13A40498E0E5959496B94E3035",
+        "sha256": "6EA84D7F9E5171202807C7B5049869171C13C765E70379B868B9DA91319EC21A"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 48563761,
+    "x_generated_by": "netkan"
+}

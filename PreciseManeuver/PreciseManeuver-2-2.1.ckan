@@ -1,0 +1,27 @@
+{
+    "spec_version": 1,
+    "identifier": "PreciseManeuver",
+    "name": "Precise Maneuver",
+    "abstract": "A tool that gives you a much better control over your maneuvers",
+    "author": "radistmorse",
+    "license": "BSD-2-clause",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/128303-11x-precise-maneuver-editor-ver-20-pre-17-04-2016/",
+        "repository": "https://ghproxy.net/https://github.com/radistmorse/KSPPreciseManeuver"
+    },
+    "version": "2:2.1",
+    "ksp_version": "1.1",
+    "conflicts": [
+        {
+            "name": "PreciseNode"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/radistmorse/KSPPreciseManeuver/releases/download/2.1/PreciseManeuver.zip",
+    "download_size": 91940,
+    "download_hash": {
+        "sha1": "C8BE2A59A98C66EED71A3B8FE514607065F5782F",
+        "sha256": "31F5E5233FF2F1D638B8600F6A9B08D2EDDE828E416A138663732E35881D4F04"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

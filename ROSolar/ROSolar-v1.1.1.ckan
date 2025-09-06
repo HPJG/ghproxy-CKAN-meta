@@ -1,0 +1,64 @@
+{
+    "spec_version": 1,
+    "identifier": "ROSolar",
+    "name": "RO Solar",
+    "abstract": "ROSolar combines models from various external mods and adds rescaling features that affect the solar panel performance",
+    "author": [
+        "pap1723",
+        "KSP-RO"
+    ],
+    "version": "v1.1.1",
+    "ksp_version_min": "1.10.1",
+    "ksp_version_max": "1.12.99",
+    "license": "CC-BY-SA-4.0",
+    "resources": {
+        "homepage": "https://discordapp.com/invite/ZGbR6nv",
+        "repository": "https://ghproxy.net/https://github.com/KSP-RO/ROSolar",
+        "bugtracker": "https://ghproxy.net/https://github.com/KSP-RO/ROSolar/issues",
+        "remote-avc": "https://raw.githubusercontent.com:443/KSP-RO/ROSolar/master/GameData/ROSolar/ROSolar.version"
+    },
+    "tags": [
+        "parts",
+        "graphics"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ROLib"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "ROEngines"
+        },
+        {
+            "name": "ROTanks"
+        },
+        {
+            "name": "ROCapsules"
+        },
+        {
+            "name": "RealismOverhaul"
+        },
+        {
+            "name": "RP-0"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "TweakableEverythingCont"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/KSP-RO/ROSolar/releases/download/v1.1.1/ROSolar-1.1.1.zip",
+    "download_size": 15177895,
+    "download_hash": {
+        "sha1": "59ED16DFB6007F4B19841DBCD4897C084745AC78",
+        "sha256": "97C2DAD58DC03880BA6406BEA8EF9A0727CAACF025E1EF021B3E260BE1B526C7"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 46613115,
+    "release_date": "2023-06-05T16:56:42Z",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,42 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "SimpleNuclear",
+    "name": "SimpleNuclear",
+    "abstract": "A simplified mechanic for nuclear reactors and engines, for use with parts from KSP Interstellar Extended, Near Future and MKS Core.",
+    "author": "matterbeam",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/131589-105-simplenuclear-unified-simplified-multi-mod-nuclear-energy-v07/",
+        "spacedock": "https://spacedock.info/mod/62/SimpleNuclear",
+        "x_screenshot": "https://spacedock.info/content/matterbeam_328/SimpleNuclear/SimpleNuclear-1455677120.711511.jpg"
+    },
+    "version": "v0.9",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "TweakScale"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "SimpleNuclear-NearFuture"
+        }
+    ],
+    "install": [
+        {
+            "find": "SimpleNuclear",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/62/SimpleNuclear/download/v0.9",
+    "download_size": 5614309,
+    "download_hash": {
+        "sha1": "5EC0A528779A9D8D80140A59994205A8FCB56256",
+        "sha256": "D1D227C5D46C186CC4FF56A1E6686FB5CC4C6E1263D727F39B79A366B02466FA"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,45 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "MK2KSPIIntegration",
+    "name": "MK2 KSPI Integration",
+    "abstract": "integrates KSPI modules into the Mk2 Expansion pack",
+    "author": "ABZB",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/131806-Starlion-Industries-KSPI-patches-for-stock-parts-modpacks",
+        "kerbalstuff": "https://kerbalstuff.com/mod/1080/MK2%20KSPI%20Integration"
+    },
+    "version": "2.6",
+    "ksp_version": "1.0.4",
+    "depends": [
+        {
+            "name": "InterstellarFuelSwitch"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "B9AerospaceProceduralParts"
+        },
+        {
+            "name": "KSPInterstellarExtended"
+        },
+        {
+            "name": "Mk2Expansion"
+        }
+    ],
+    "install": [
+        {
+            "find": "StarLionIndustries",
+            "install_to": "GameData",
+            "filter": "Deprecated"
+        }
+    ],
+    "download": "https://archive.org/download/MK2KSPIIntegration-2.6/C11AA2A3-MK2KSPIIntegration-2.6.zip",
+    "download_size": 117402,
+    "download_hash": {
+        "sha1": "C11AA2A30246D397B1FA0458FCB282F559DBE3B3",
+        "sha256": "F79F4ABF7AFE23E9FB9D186380153D7108F97E3B617EFEE719BD8C46408B5E5D"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

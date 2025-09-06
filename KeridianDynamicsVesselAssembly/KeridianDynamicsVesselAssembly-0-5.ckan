@@ -1,0 +1,45 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "KeridianDynamicsVesselAssembly",
+    "name": "Keridian Dynamics - Vessel Assembly",
+    "abstract": "Parts pack for resource-conversion and vessel-assembly.",
+    "author": "EleusisLaArwall",
+    "license": "CC-BY-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/116987-wip105-keridian-dynamics-dev-thread-last-update-2015-08-23/",
+        "spacedock": "https://spacedock.info/mod/308/Keridian%20Dynamics%20-%20Vessel%20Assembly",
+        "x_screenshot": "https://spacedock.info/content/EleusisLaArwall_1670/Keridian_Dynamics_-_Vessel_Assembly/Keridian_Dynamics_-_Vessel_Assembly-1456669399.1885784.png"
+    },
+    "version": "0-5",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ExtraPlanetaryLaunchpads"
+        }
+    ],
+    "supports": [
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "KSP-AVC"
+        }
+    ],
+    "install": [
+        {
+            "find": "KeridianDynamics",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/308/Keridian%20Dynamics%20-%20Vessel%20Assembly/download/0-5",
+    "download_size": 2449462,
+    "download_hash": {
+        "sha1": "C21909D9B61C9EA6D6D1C557D59320C8933E829A",
+        "sha256": "814326660F83A2CE1E75FB797FCFDBBC6CCED15E012E9CE652E53D04460313DE"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

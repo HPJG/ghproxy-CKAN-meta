@@ -1,0 +1,31 @@
+{
+    "spec_version": 1,
+    "identifier": "TimeControl",
+    "name": "Time Control",
+    "abstract": "The advanced successor to the popular Dynamic Warp mod, Time Control gives you complete control of all aspects of the passage of time in KSP.",
+    "author": "Xaiier",
+    "license": "MIT",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/69363",
+        "repository": "https://ghproxy.net/https://github.com/Xaiier/TimeControl",
+        "kerbalstuff": "https://kerbalstuff.com/mod/21/Time%20Control",
+        "x_screenshot": "https://kerbalstuff.com/content/Xaiier_45/Time_Control/Time_Control.png"
+    },
+    "version": "13.2",
+    "ksp_version": "0.25.0",
+    "install": [
+        {
+            "file": "TimeControl",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/TimeControl-13.2/30B489FA-TimeControl-13.2.zip",
+    "download_size": 25284,
+    "download_hash": {
+        "sha1": "30B489FA5D0F3EFC77FBDB7AABAD0A2D35F880C2",
+        "sha256": "36D78DFBE88A8BAA6EC16403B745602AE2498DAF0C1AC5593F96B0B5979DB177"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,34 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "USArmyEnlistedRanksFinalFrontierAddOn",
+    "name": "US Army Enlisted Ranks - Final Frontier Add-On",
+    "abstract": "A series of nine rank ribbons based on the Enlisted Ranks of the US Army.",
+    "author": "Shadriss",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/138991-112-09-us-armed-forces-rank-ribbon-packs-for-final-frontier/",
+        "spacedock": "https://spacedock.info/mod/652/US%20Army%20Enlisted%20Ranks%20-%20Final%20Frontier%20Add-On",
+        "x_screenshot": "https://spacedock.info/content/Shadriss_4485/US_Army_Enlisted_Ranks_-_Final_Frontier_Add-On/US_Army_Enlisted_Ranks_-_Final_Frontier_Add-On-1462393782.1403518.png"
+    },
+    "version": "0.9",
+    "ksp_version": "1.1.2",
+    "depends": [
+        {
+            "name": "FinalFrontier"
+        }
+    ],
+    "install": [
+        {
+            "find": "USRankRibbons",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/652/US%20Army%20Enlisted%20Ranks%20-%20Final%20Frontier%20Add-On/download/0.9",
+    "download_size": 76443,
+    "download_hash": {
+        "sha1": "07CE3ECA205D1A30562DCF5E02878CF2FF932832",
+        "sha256": "C308E622E81BC865787AA707A79ED7CA4FD71E613E8B4F0C51911F624AF99AA7"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

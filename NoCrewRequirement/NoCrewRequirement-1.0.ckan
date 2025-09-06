@@ -1,0 +1,32 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "NoCrewRequirement",
+    "name": "No Crew Requirement",
+    "abstract": "A simple ModuleManager plugin that eliminates crew requirements for manned vessels and/or the need to attach an unmanned probe to your spacecraft. Useful for automatic launches and docking of space station modules, rescue missions etc. Requires ModuleManager",
+    "author": "Orbinaut",
+    "license": "GPL-3.0",
+    "resources": {
+        "kerbalstuff": "https://kerbalstuff.com/mod/1103/No%20Crew%20Requirement"
+    },
+    "version": "1.0",
+    "ksp_version": "1.0.4",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "No Crew Requirement",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/NoCrewRequirement-1.0/C7A585C2-NoCrewRequirement-1.0.zip",
+    "download_size": 501,
+    "download_hash": {
+        "sha1": "C7A585C2AACABAF37C84CA2845DA6F0A82DF0188",
+        "sha256": "1FB2CC4AF6C68A2DD36238C102F4147DAAE92741F13DD3D0B134B426BBB2D5F0"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

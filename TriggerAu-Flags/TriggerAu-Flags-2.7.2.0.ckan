@@ -1,0 +1,33 @@
+{
+    "spec_version": "v1.4",
+    "comment": "flagmod",
+    "identifier": "TriggerAu-Flags",
+    "name": "TriggerAu Flags",
+    "abstract": "Flags contained in TriggerAu's Addons",
+    "author": "TriggerAu",
+    "license": "MIT",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/60227-KSP-Alternate-Resource-Panel",
+        "repository": "https://ghproxy.net/https://github.com/TriggerAu/AlternateResourcePanel",
+        "license": "https://ghproxy.net/https://github.com/TriggerAu/AlternateResourcePanel/blob/master/LICENSE",
+        "kerbalstuff": "https://kerbalstuff.com/mod/195/Alternate%20Resource%20Panel",
+        "x_screenshot": "https://kerbalstuff.com/content/TriggerAu_1745/Alternate_Resource_Panel/Alternate_Resource_Panel.png"
+    },
+    "version": "2.7.2.0",
+    "ksp_version": "any",
+    "install": [
+        {
+            "find": "Flags",
+            "install_to": "GameData/TriggerTech"
+        }
+    ],
+    "download": "https://archive.org/download/TriggerAu-Flags-2.7.2.0/FE9B3ACE-TriggerAu-Flags-2.7.2.0.zip",
+    "download_size": 301944,
+    "download_hash": {
+        "sha1": "FE9B3ACECF54E407CD450BF8480181E5F613F69C",
+        "sha256": "D2C34217CA40DB9514E4E4001978286B2D9CBFEE1E948A5D83F38FD55A536A3A"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

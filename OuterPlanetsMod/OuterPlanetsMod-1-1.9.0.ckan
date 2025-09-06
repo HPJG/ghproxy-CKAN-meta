@@ -1,0 +1,113 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "OuterPlanetsMod",
+    "name": "Outer Planets Mod",
+    "abstract": "Expands the Kerbol system with new planets and moons based on Saturn, Uranus, Neptune and their moons",
+    "author": "CaptRobau",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/104280-0-90-Outer-Planet-Mods-Expands-the-Kerbol-system-with-new-planets-based-on-Saturn",
+        "kerbalstuff": "https://kerbalstuff.com/mod/437/Outer%20Planets%20Mod",
+        "x_screenshot": "https://kerbalstuff.com/content/CaptRobau_2958/Outer_Planets_Mod/Outer_Planets_Mod.png"
+    },
+    "version": "1:1.9.0",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus",
+            "min_version": "1:beta-05-2"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "KopernicusExpansion"
+        },
+        {
+            "name": "SigmaBinary-core",
+            "min_version": "1:v1.3.2"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "JDiminishingRTG"
+        },
+        {
+            "name": "NearFuturePropulsion"
+        },
+        {
+            "name": "NearFutureElectrical"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "NearFutureConstruction"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        },
+        {
+            "name": "TransferWindowPlanner"
+        }
+    ],
+    "supports": [
+        {
+            "name": "PlanetShine"
+        },
+        {
+            "name": "DistantObjectEnhancement"
+        },
+        {
+            "name": "FinalFrontier"
+        },
+        {
+            "name": "AntennaRange"
+        },
+        {
+            "name": "RemoteTech"
+        },
+        {
+            "name": "SCANsat"
+        },
+        {
+            "name": "DeadlyReentry"
+        },
+        {
+            "name": "MunarSurfaceExperimentPackage"
+        },
+        {
+            "name": "Karbonite"
+        },
+        {
+            "name": "TextureReplacer"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "BilliardsPlanetPack"
+        },
+        {
+            "name": "RealSolarSystem"
+        },
+        {
+            "name": "ToySolarSystem"
+        }
+    ],
+    "install": [
+        {
+            "find": "OPM",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/OuterPlanetsMod-1-1.9.0/32DE887B-OuterPlanetsMod-1-1.9.0.zip",
+    "download_size": 87957317,
+    "download_hash": {
+        "sha1": "32DE887B3F19A2D95EF73F8565500CFEF54DB4E1",
+        "sha256": "7319C5E1A2F5AAB240A78E8E357128CE90BD3ECE77BB56D989E99A9D492D2FC6"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,29 @@
+{
+    "spec_version": 1,
+    "identifier": "OxidizerFlameanator",
+    "name": "Oxidizer Flameanator",
+    "abstract": "Burn off excess Oxidizer in your NERV powered craft or SSTO SpacePlanes.",
+    "author": "HazeZero",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/122360",
+        "kerbalstuff": "https://kerbalstuff.com/mod/826/Oxidizer%20Flameanator",
+        "x_screenshot": "https://kerbalstuff.com/content/HazeZero_5008/Oxidizer_Flameanator/Oxidizer_Flameanator-1432181267.2298236.png"
+    },
+    "version": "0.1",
+    "ksp_version": "1.0.4",
+    "install": [
+        {
+            "file": "KlearlyAeroSpace",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/OxidizerFlameanator-0.1/B9195865-OxidizerFlameanator-0.1.zip",
+    "download_size": 1384,
+    "download_hash": {
+        "sha1": "B91958650C42CCA4B287D3DC5D3D183B9844DF21",
+        "sha256": "B477F25235863C3412E1507715364EF4D6AE2267B88A2331E8B6EDB702BA191F"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

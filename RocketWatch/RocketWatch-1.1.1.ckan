@@ -1,0 +1,31 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "RocketWatch",
+    "name": "RocketWatch",
+    "abstract": "The Old RocketWatch Mod, Unchanged",
+    "author": "GKorgood",
+    "license": "CC-BY-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/100832-10x",
+        "spacedock": "https://spacedock.info/mod/375/RocketWatch",
+        "repository": "https://ghproxy.net/https://github.com/gkorgood/RocketWatch",
+        "x_screenshot": "https://spacedock.info/content/GKorgood_326/RocketWatch/RocketWatch-1457457156.8676028.png"
+    },
+    "version": "1.1.1",
+    "ksp_version": "1.0.5",
+    "install": [
+        {
+            "find": "GameData/RocketWatch",
+            "install_to": "GameData",
+            "filter": ".DS_Store"
+        }
+    ],
+    "download": "https://spacedock.info/mod/375/RocketWatch/download/1.1.1",
+    "download_size": 161275,
+    "download_hash": {
+        "sha1": "E613C71F0616DEB1C0B9C3CBD70920AAB006CA5D",
+        "sha256": "D5FB82ABD3565C2578CE8B4AAABB7D361779E56245C16CEFCB7C75884DDADCFD"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

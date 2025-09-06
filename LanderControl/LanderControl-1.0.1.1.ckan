@@ -1,0 +1,27 @@
+{
+    "spec_version": 1,
+    "identifier": "LanderControl",
+    "name": "Lander Orientation Improvement",
+    "abstract": "Attempting to land on the Mun or any other body in IVA mode was down right ridiculous when the lander is set to its normal top up orientation. This part, when installed on the surface of the lander correctly, allows the user to fly the lander with the proper IVA configuration by selecting \"control for here\" on the LOI part. Just make sure you surface mounted the part so that it says FORWARD above the main viewing window and you should be all se",
+    "author": "MWHait",
+    "license": "MIT",
+    "resources": {
+        "kerbalstuff": "https://kerbalstuff.com/mod/1343/Lander%20Orientation%20Improvement"
+    },
+    "version": "1.0.1.1",
+    "ksp_version": "1.0.5",
+    "install": [
+        {
+            "file": "HAIT",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/LanderControl-1.0.1.1/6A634E6E-LanderControl-1.0.1.1.zip",
+    "download_size": 31676,
+    "download_hash": {
+        "sha1": "6A634E6EEB95C4D14DFFD67023EC00EA2EFF1FAC",
+        "sha256": "7EA800BF534C2A3755B860273DD30115B47A04EA3E05AA3569572FE392DB1F94"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

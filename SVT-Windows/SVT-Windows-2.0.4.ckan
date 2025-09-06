@@ -1,0 +1,46 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "SVT-Windows",
+    "name": "Stock Visual Terrain (for Windows)",
+    "abstract": "A terrain enhancement pack using Kopernicus for the stock planets.",
+    "author": "Galileo88",
+    "license": "CC-BY-NC-ND",
+    "release_status": "stable",
+    "resources": {
+        "repository": "https://ghproxy.net/https://github.com/Galileo88/Stock-Visual-Terrain"
+    },
+    "version": "2.0.4",
+    "ksp_version": "1.2.2",
+    "provides": [
+        "SVE-Terrain"
+    ],
+    "depends": [
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "StockVisualEnhancements"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "SVE-Terrain"
+        }
+    ],
+    "install": [
+        {
+            "find": "GameData/SVT",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/Galileo88/Stock-Visual-Terrain/releases/download/2.0.4/SVT.v2.0.4.zip",
+    "download_size": 117363033,
+    "download_hash": {
+        "sha1": "546C13C1F023628D87A311EB31ACEF58360E992E",
+        "sha256": "4E7FAB92A1F02A7F2CEB263F939FBBBD1D291872206AFA045CAF781065318CF9"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

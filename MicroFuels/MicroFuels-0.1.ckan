@@ -1,0 +1,37 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "MicroFuels",
+    "name": "MicroFuels",
+    "abstract": "This mod is something between RealFuels and Stock fuel system. It introduces hypergolic fuels and boil-off of cryogenic fuel.",
+    "author": "Niemand303",
+    "license": "CC-BY-SA-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/108486-Concept-phase-MOSOI-Ind-MicroFuels-(Half-RF-half-stock)",
+        "kerbalstuff": "https://kerbalstuff.com/mod/541/MicroFuels"
+    },
+    "version": "0.1",
+    "ksp_version": "0.90.0",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ModularFuelTanks"
+        }
+    ],
+    "install": [
+        {
+            "file": "MOSOI",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://s3-us-west-2.amazonaws.com/ksp-ckan/80267B15.zip",
+    "download_size": 7123,
+    "download_hash": {
+        "sha1": "22EE617EA9523DB55EC3114FADB5CFAF90EB8127",
+        "sha256": "56F5C26E6DDB487EF9DEE7E2B4983FCC9A6997D3634555D72B989F35DDD1016F"
+    },
+    "download_content_type": "application/zip",
+    "x_via": "Automated KerbalStuff CKAN submission",
+    "x_generated_by": "netkan"
+}

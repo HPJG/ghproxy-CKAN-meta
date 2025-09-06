@@ -1,0 +1,43 @@
+{
+    "spec_version": "v1.16",
+    "identifier": "SoundingRockets",
+    "name": "Sounding Rockets!",
+    "abstract": "Adds a series of low tech sounding rockets to the 'start' node.",
+    "author": "RoverDude",
+    "license": "restricted",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/92434-105",
+        "repository": "https://ghproxy.net/https://github.com/BobPalmer/SoundingRockets"
+    },
+    "version": "0.4.1.0",
+    "ksp_version": "1.1.0",
+    "depends": [
+        {
+            "name": "USITools"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "SETI-CommunityTechTree"
+        },
+        {
+            "name": "SurfaceExperimentPack"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/UmbraSpaceIndustries",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/BobPalmer/SoundingRockets/releases/download/0.4.1.0/SoundingRockets_0.4.1.0.zip",
+    "download_size": 787937,
+    "download_hash": {
+        "sha1": "EAE2D5262DA53E4FF2250B834ED78F610A145FA5",
+        "sha256": "43D32AFA8D46483F8F459597180616464372514F464DCF616309DCB3AC375418"
+    },
+    "download_content_type": "application/zip",
+    "x_last_revision_by": "harryyoung",
+    "x_generated_by": "netkan"
+}

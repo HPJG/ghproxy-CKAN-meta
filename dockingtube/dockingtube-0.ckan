@@ -1,0 +1,27 @@
+{
+    "spec_version": 1,
+    "identifier": "dockingtube",
+    "name": "docking tube",
+    "abstract": "allows bases on uneven ground to be easily docked",
+    "author": "codifies",
+    "license": "unrestricted",
+    "resources": {
+        "kerbalstuff": "https://kerbalstuff.com/mod/619/docking%20tube",
+        "x_screenshot": "https://kerbalstuff.com/content/codifies_7726/docking_tube/docking_tube-1425490197.8913045.jpg"
+    },
+    "version": "0",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "KAS"
+        }
+    ],
+    "download": "https://archive.org/download/dockingtube-0/880F3BDB-dockingtube-0.zip",
+    "download_size": 422140,
+    "download_hash": {
+        "sha1": "880F3BDBD88B1D531CB6C1C9EFFBC13F6F03F362",
+        "sha256": "1BEE2E574929911DFF1D10B7B3270EDD42887B21E48B5A8BAC1564768174A2CB"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

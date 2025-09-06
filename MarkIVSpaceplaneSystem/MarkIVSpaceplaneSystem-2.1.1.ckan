@@ -1,0 +1,61 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "MarkIVSpaceplaneSystem",
+    "name": "Mark IV Spaceplane System",
+    "abstract": "A heavy-lift spaceplane fuselage designed to carry 2.5m or larger parts",
+    "author": "Nertea",
+    "license": "CC-BY-NC-SA-4.0",
+    "release_status": "stable",
+    "resources": {
+        "repository": "https://ghproxy.net/https://github.com/ChrisAdderley?tab=repositories"
+    },
+    "version": "2.1.1",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "BDAnimationModules"
+        },
+        {
+            "name": "InterstellarFuelSwitch-Core"
+        },
+        {
+            "name": "NearFutureProps"
+        },
+        {
+            "name": "FirespitterCore"
+        },
+        {
+            "name": "FirespitterResourcesConfig"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "RasterPropMonitor"
+        }
+    ],
+    "supports": [
+        {
+            "name": "ConnectedLivingSpace"
+        },
+        {
+            "name": "FerramAerospaceResearch"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/MarkIVSystem",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/MarkIVSpaceplaneSystem-2.1.1/B7D6A74B-MarkIVSpaceplaneSystem-2.1.1.zip",
+    "download_size": 54522575,
+    "download_hash": {
+        "sha1": "B7D6A74BA57102D75D43336CD374831561F72A24",
+        "sha256": "1B97ABA95158622FE3ADB72F500B04D31439432FC0C5EF386BE1D7991AE75E92"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

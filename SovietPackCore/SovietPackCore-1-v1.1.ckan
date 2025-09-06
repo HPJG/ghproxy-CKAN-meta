@@ -1,0 +1,29 @@
+{
+    "spec_version": "v1.4",
+    "comment": "Ships explicitly not installed by author request (he no longer maintains them)",
+    "identifier": "SovietPackCore",
+    "name": "Soviet Pack Core",
+    "abstract": "Core plugins needed by several packs.",
+    "author": "Bobcat",
+    "license": "CC-BY-NC-ND-3.0",
+    "resources": {
+        "homepage": "https://ghproxy.net/https://github.com/KSP-RO/SovietSpacecraft",
+        "repository": "https://ghproxy.net/https://github.com/KSP-RO/SovietSpacecraft"
+    },
+    "version": "1:v1.1",
+    "ksp_version": "1.0",
+    "install": [
+        {
+            "find": "SovietPack",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/KSP-RO/SovietSpacecraft/releases/download/v1.1/RN_SovietSpacecraft_v1.1.zip",
+    "download_size": 87489141,
+    "download_hash": {
+        "sha1": "21C5D63A8FEAB258E10A959048FC32B1FD09B561",
+        "sha256": "F6CD5A82599EE1F505F0B6F2BBF85FE5E03EF3F3A956257AED70FADBCBB86EA9"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

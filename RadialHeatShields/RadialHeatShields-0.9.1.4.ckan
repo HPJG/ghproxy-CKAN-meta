@@ -1,0 +1,31 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "RadialHeatShields",
+    "name": "Radial Heat Shields",
+    "abstract": "With ksp 1.0.4, we received some new HOT updates: spaceplanes now explode very quickly during reentry.",
+    "author": "CliftonM",
+    "license": "unrestricted",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/130057-Radial-Heat-Shields",
+        "repository": "https://ghproxy.net/https://github.com/clintmm/RadialHeatShields",
+        "kerbalstuff": "https://kerbalstuff.com/mod/1040/Radial%20Heat%20Shields",
+        "x_screenshot": "https://kerbalstuff.com/content/CliftonM_12500/Radial_Heat_Shields/Radial_Heat_Shields-1438375711.8885252.png"
+    },
+    "version": "0.9.1.4",
+    "ksp_version": "1.0.4",
+    "install": [
+        {
+            "find": "RadialHeatShields",
+            "install_to": "GameData",
+            "filter": ".DS_Store"
+        }
+    ],
+    "download": "https://archive.org/download/RadialHeatShields-0.9.1.4/EC1C07F2-RadialHeatShields-0.9.1.4.zip",
+    "download_size": 2497961,
+    "download_hash": {
+        "sha1": "EC1C07F25F93F87707E5E022ED63EA32B7B928E0",
+        "sha256": "DF2C8E3E0375910F05719206E5AC9D0FA24163DF0F1D9A0F1C2ECDC8D85BBA53"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

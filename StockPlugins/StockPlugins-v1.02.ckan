@@ -1,0 +1,70 @@
+{
+    "spec_version": 1,
+    "identifier": "StockPlugins",
+    "name": "StockPlugins",
+    "abstract": "StockPlugins is several ModuleManager config files which adds the possibility to use a plugin without the additional parts.",
+    "author": "malah",
+    "license": "public-domain",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/99869",
+        "kerbalstuff": "https://kerbalstuff.com/mod/402/StockPlugins"
+    },
+    "version": "v1.02",
+    "ksp_version": "1.0.2",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "StockRT"
+        },
+        {
+            "name": "KerbalEngineerRedux"
+        },
+        {
+            "name": "kOS"
+        },
+        {
+            "name": "MechJeb2"
+        },
+        {
+            "name": "Protractor"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/KerbalEngineer_Stock",
+            "install_to": "GameData"
+        },
+        {
+            "file": "GameData/KerbalGPS_Stock",
+            "install_to": "GameData"
+        },
+        {
+            "file": "GameData/Kerbaltek_Stock",
+            "install_to": "GameData"
+        },
+        {
+            "file": "GameData/kOS_Stock",
+            "install_to": "GameData"
+        },
+        {
+            "file": "GameData/MechJeb2_Stock",
+            "install_to": "GameData"
+        },
+        {
+            "file": "GameData/Protractor_Stock",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/StockPlugins-v1.02/4CA4649C-StockPlugins-v1.02.zip",
+    "download_size": 34360,
+    "download_hash": {
+        "sha1": "4CA4649C55E76249CF70DC6D39BF72E06E31ED16",
+        "sha256": "D5F50F3745FB7E3741B0FE078EFE9B780B1B2976C66891DC80A21674AA7D2063"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

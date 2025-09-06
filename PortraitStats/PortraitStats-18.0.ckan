@@ -1,0 +1,43 @@
+{
+    "spec_version": 1,
+    "identifier": "PortraitStats",
+    "name": "Portrait Stats",
+    "abstract": "Displays the type and level of each Kerbal over their portrait in the lower-right corner during flight.",
+    "author": "DMagic",
+    "version": "18.0",
+    "ksp_version_min": "1.8.1",
+    "ksp_version_max": "1.8.8",
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/108704-1",
+        "spacedock": "https://spacedock.info/mod/133/Portrait%20Stats",
+        "repository": "https://ghproxy.net/https://github.com/DMagic1/KSP-Portrait-Stats",
+        "bugtracker": "https://ghproxy.net/https://github.com/DMagic1/KSP-Portrait-Stats/issues",
+        "remote-avc": "https://raw.githubusercontent.com/DMagic1/KSP-Portrait-Stats/master/GameData/PortraitStats/PortraitStats.version",
+        "x_screenshot": "https://spacedock.info/content/DMagic_247/Portrait_Stats/Portrait_Stats-1455816110.884348.png"
+    },
+    "tags": [
+        "plugin",
+        "information",
+        "crewed"
+    ],
+    "localizations": [
+        "en-us",
+        "zh-cn"
+    ],
+    "depends": [
+        {
+            "name": "CommunityTraitIcons"
+        }
+    ],
+    "download": "https://spacedock.info/mod/133/Portrait%20Stats/download/18.0",
+    "download_size": 32453,
+    "download_hash": {
+        "sha1": "DBB64C236BC2DEF55C4052B0D0962F2C1B746919",
+        "sha256": "73E99BB31FA9F32A8A93676D306A5A45F5B357094E961EE8CF4530272421C592"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 32237,
+    "release_date": "2019-11-02T03:58:48.663292+00:00",
+    "x_generated_by": "netkan"
+}

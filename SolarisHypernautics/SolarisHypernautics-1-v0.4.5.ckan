@@ -1,0 +1,34 @@
+{
+    "spec_version": 1,
+    "identifier": "SolarisHypernautics",
+    "name": "Solaris Hypernautics",
+    "abstract": "Total set of parts from nuclear reactors to magnetic cooling to virtual particle technology to KSP!",
+    "author": "Carbonjvd",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/125482",
+        "kerbalstuff": "https://kerbalstuff.com/mod/900/Solaris%20Hypernautics",
+        "x_screenshot": "https://kerbalstuff.com/content/Carbonjvd_10216/Solaris_Hypernautics/Solaris_Hypernautics-1437244647.0593915.jpg"
+    },
+    "version": "1:v0.4.5",
+    "ksp_version": "1.0.4",
+    "recommends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "file": "Solaris Hypernautics",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/SolarisHypernautics-1-v0.4.5/8F62432A-SolarisHypernautics-1-v0.4.5.zip",
+    "download_size": 47904287,
+    "download_hash": {
+        "sha1": "8F62432A2FB9697599FCB411B134E3155B5BF00F",
+        "sha256": "377E6E35F92F7EE215866660F0162B0C44B3416ABC327365500060C154978C13"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

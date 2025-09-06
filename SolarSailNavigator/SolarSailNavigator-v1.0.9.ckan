@@ -1,0 +1,33 @@
+{
+    "spec_version": 1,
+    "identifier": "SolarSailNavigator",
+    "name": "Solar Sail Navigator",
+    "abstract": "SolarSailNavigator is a new plugin (ALPHA: you have been warned) to navigate continuous thrust spacecraft with sunlight-propelled solar sails and ion engines. The sail model and force models are derived from KSP Interstellar. The goal of this plugin is to make solar sailing and continuous thrust engines a practical means of travel throughout the KSP solar system.",
+    "author": "mrsolarsail",
+    "license": "LGPL-2.1",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/107676-wip13-solarsailnavigator-v109/",
+        "repository": "https://ghproxy.net/https://github.com/bld/SolarSailNavigator"
+    },
+    "version": "v1.0.9",
+    "ksp_version": "1.3",
+    "depends": [
+        {
+            "name": "PersistentThrust"
+        }
+    ],
+    "install": [
+        {
+            "file": "SolarSailNavigator",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/bld/SolarSailNavigator/releases/download/v1.0.9/SolarSailNavigator.v1.0.9.zip",
+    "download_size": 36292,
+    "download_hash": {
+        "sha1": "E40521AB5C6AA59A2C561A505667180E4C22E53F",
+        "sha256": "375B4A2FEA0D6AF0032BBF86EB4E919D867615F79BCA72D9C8A558FCB08E08BA"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

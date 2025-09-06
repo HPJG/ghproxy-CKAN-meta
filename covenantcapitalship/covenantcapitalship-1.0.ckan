@@ -1,0 +1,24 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "covenantcapitalship",
+    "name": "covenant capital ship",
+    "abstract": "this is the covenant capital ship from halo",
+    "author": "amankduffers",
+    "license": "MIT",
+    "version": "1.0",
+    "ksp_version": "1.0.5",
+    "install": [
+        {
+            "file": "covenant carrier",
+            "install_to": "GameData/kdufferskorp"
+        }
+    ],
+    "download": "https://archive.org/download/covenantcapitalship-1.0/90504C5C-covenantcapitalship-1.0.zip",
+    "download_size": 7565116,
+    "download_hash": {
+        "sha1": "90504C5C2B3E46E3F6F13ECF5D9089392D17DFA5",
+        "sha256": "303FFCA64609167B758F17F74CBD14C3BFC9F3DDB053E25DF36689E391EC849E"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

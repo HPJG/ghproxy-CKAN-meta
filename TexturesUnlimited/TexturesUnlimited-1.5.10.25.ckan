@@ -1,0 +1,38 @@
+{
+    "spec_version": "v1.16",
+    "identifier": "TexturesUnlimited",
+    "name": "Textures Unlimited",
+    "abstract": "KSP Shader, Texture, and Modeling Utilities",
+    "author": "shadowmage45",
+    "version": "1.5.10.25",
+    "ksp_version_min": "1.9.0",
+    "ksp_version_max": "1.12.99",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/167450-*",
+        "repository": "https://ghproxy.net/https://github.com/shadowmage45/TexturesUnlimited",
+        "bugtracker": "https://ghproxy.net/https://github.com/shadowmage45/TexturesUnlimited/issues",
+        "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=532"
+    },
+    "tags": [
+        "plugin",
+        "graphics",
+        "library"
+    ],
+    "install": [
+        {
+            "find": "000_TexturesUnlimited",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/shadowmage45/TexturesUnlimited/releases/download/1.5.10.25/TexturesUnlimited-1.5.10.25.zip",
+    "download_size": 10127425,
+    "download_hash": {
+        "sha1": "48F34F40963AEF44648845C4A179382DCCBBD6B1",
+        "sha256": "33776DD75B9A53867E16908F8DE3DC211E3F10BFA9CE33501CE05B9FE2502C27"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 10166920,
+    "release_date": "2020-03-01T18:39:10Z",
+    "x_generated_by": "netkan"
+}

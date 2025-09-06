@@ -1,0 +1,31 @@
+{
+    "spec_version": 1,
+    "identifier": "NavUtilities",
+    "name": "NavUtilities",
+    "abstract": "Adds an ILS and HSI to KSP, to allow for precision landings. Supports custom runways!",
+    "author": "kujuman",
+    "license": "restricted",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/77062-102-navutilities-ft-hsi-instrument-landing-system-updating-for-11/",
+        "spacedock": "https://spacedock.info/mod/542/NavUtilities",
+        "repository": "https://ghproxy.net/https://github.com/kujuman/NavInstruments",
+        "x_screenshot": "https://spacedock.info/content/kujuman_3575/NavUtilities/NavUtilities-1461131761.336882.png"
+    },
+    "version": "0.6.1",
+    "ksp_version_min": "1.1.0",
+    "ksp_version_max": "1.1.99",
+    "install": [
+        {
+            "file": "GameData/KerbalScienceFoundation",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/542/NavUtilities/download/0.6.1",
+    "download_size": 816944,
+    "download_hash": {
+        "sha1": "034AD40607E7A2065C4C73159A020F286A91BB19",
+        "sha256": "BBABC0C83E7C05AE19DFBA6FEB71BECD23EC5BE41399011BDF068918F0290BF2"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

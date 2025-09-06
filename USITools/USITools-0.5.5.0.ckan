@@ -1,0 +1,33 @@
+{
+    "spec_version": 1,
+    "identifier": "USITools",
+    "name": "USI Tools",
+    "abstract": "Common libraries for Umbra Space Industries mods",
+    "author": "RoverDude",
+    "license": "CC-BY-NC-SA-4.0",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://bobpalmer.github.io/UmbraSpaceIndustries/",
+        "repository": "https://ghproxy.net/https://github.com/BobPalmer/UmbraSpaceIndustries"
+    },
+    "version": "0.5.5.0",
+    "ksp_version_min": "1.0.0",
+    "ksp_version_max": "1.0.5",
+    "provides": [
+        "USI-Tools"
+    ],
+    "install": [
+        {
+            "file": "GameData/000_USITools",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/BobPalmer/UmbraSpaceIndustries/releases/download/0.5.5.0/USITools_0.5.5.0.zip",
+    "download_size": 2014458,
+    "download_hash": {
+        "sha1": "CB65BBB9E43E27F1252B02B97DAD6A949DC831CE",
+        "sha256": "199017423D19DD6DB06D762F5664446866F6A94375CCC99CCFEA29B57A300206"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

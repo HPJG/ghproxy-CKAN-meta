@@ -1,0 +1,32 @@
+{
+    "spec_version": 1,
+    "identifier": "ModuleRCSFX",
+    "name": "ModuleRCSFX",
+    "abstract": "A fixed version of the stock RCS module",
+    "author": [
+        "ialdabaoth",
+        "NathanKell"
+    ],
+    "version": "v4.2",
+    "ksp_version_min": "1.0.0",
+    "ksp_version_max": "1.0.4",
+    "license": "CC-BY-SA",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/83259-*",
+        "repository": "https://ghproxy.net/https://github.com/NathanKell/ModuleRCSFX",
+        "bugtracker": "https://ghproxy.net/https://github.com/NathanKell/ModuleRCSFX/issues"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "download": "https://ghproxy.net/https://github.com/NathanKell/ModuleRCSFX/releases/download/v4.2/ModuleRCSFX_v4.2.zip",
+    "download_size": 6915,
+    "download_hash": {
+        "sha1": "AA797E4626DDACC4D956A8D5306EDB19FF0A956F",
+        "sha256": "F1F27FFEBA60800D424BCA91BBD6069BEF532F25E72E26B764C84471EFDC1F60"
+    },
+    "download_content_type": "application/zip",
+    "release_date": "2015-08-23T23:52:51Z",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,51 @@
+{
+    "spec_version": "v1.2",
+    "identifier": "ODFC",
+    "name": "On Demand Fuel Cells [ODFC]",
+    "abstract": "Fuel cells that provide power by burning fuels only when it is needed.",
+    "author": "Orum",
+    "license": "restricted",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/110694",
+        "kerbalstuff": "https://kerbalstuff.com/mod/596/[ODFC]%20On%20Demand%20Fuel%20Cells",
+        "repository": "http://Included%20in%20download",
+        "x_screenshot": "https://kerbalstuff.com/content/Orum_3353/ODFC_On_Demand_Fuel_Cells/ODFC_On_Demand_Fuel_Cells-1424028990.8043664.jpg"
+    },
+    "version": "1.0",
+    "ksp_version": "0.90.0",
+    "recommends": [
+        {
+            "name": "OkramSA"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/Okram",
+            "install_to": "GameData",
+            "filter_regexp": [
+                "Agencies",
+                "Flags"
+            ]
+        },
+        {
+            "file": "DocsForModders",
+            "install_to": "GameData/Okram/ODFC"
+        },
+        {
+            "file": "Licenses",
+            "install_to": "GameData/Okram/ODFC"
+        },
+        {
+            "file": "PluginSrc",
+            "install_to": "GameData/Okram/ODFC"
+        },
+        {
+            "file": "faq.txt",
+            "install_to": "GameData/Okram/ODFC"
+        }
+    ],
+    "download": "https://kerbalstuff.com/mod/596/%5BODFC%5D%20On%20Demand%20Fuel%20Cells/download/1.0",
+    "download_size": 1222386,
+    "x_generated_by": "netkan"
+}

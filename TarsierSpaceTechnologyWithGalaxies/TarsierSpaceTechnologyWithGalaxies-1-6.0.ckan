@@ -1,0 +1,45 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "TarsierSpaceTechnologyWithGalaxies",
+    "name": "Tarsier Space Technology with Galaxies Continued...",
+    "abstract": "Tarsier Space Technology - Space Telescopes, Galaxies, ChemCam surface analyser, Science Storage Drives and Contracts",
+    "author": "Jplrepo",
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/100188-105",
+        "spacedock": "https://spacedock.info/mod/143/Tarsier%20Space%20Technology%20with%20Galaxies%20Continued...",
+        "repository": "https://ghproxy.net/https://github.com/JPLRepo/TarsierSpaceTechnology",
+        "x_screenshot": "https://spacedock.info/content/Jplrepo_405/Tarsier_Space_Technology_with_Galaxies_Continued/Tarsier_Space_Technology_with_Galaxies_Continued-1455817104.0385642.png"
+    },
+    "version": "1:6.0",
+    "ksp_version_min": "1.1.0",
+    "ksp_version_max": "1.1.1",
+    "recommends": [
+        {
+            "name": "KAS"
+        },
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Toolbar"
+        }
+    ],
+    "install": [
+        {
+            "find": "TarsierSpaceTech",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/143/Tarsier%20Space%20Technology%20with%20Galaxies%20Continued.../download/V6.0",
+    "download_size": 2817433,
+    "download_hash": {
+        "sha1": "45EDB0900AB4E33BC0839D57786C3551363DAAC6",
+        "sha256": "12BBAF224523E271A98551E65C9CF34D3177E504869DFBED4453231CE36BAA3D"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

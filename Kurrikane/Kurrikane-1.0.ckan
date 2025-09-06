@@ -1,0 +1,34 @@
+{
+    "spec_version": 1,
+    "identifier": "Kurrikane",
+    "name": "Kurrikane",
+    "abstract": "It is basically a probe that can collect surface sample and do EVA reports without a kerbal. It's only purpose is on Kerbin usage",
+    "author": "Beluwel",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/126706-1-0-X-Kurrikane-A-science-Probe-parts-v1-0",
+        "kerbalstuff": "https://kerbalstuff.com/mod/939/Kurrikane",
+        "x_screenshot": "https://kerbalstuff.com/content/Beluwel_12018/Kurrikane/Kurrikane-1435237751.8175783.jpg"
+    },
+    "version": "1.0",
+    "ksp_version": "1.0.4",
+    "depends": [
+        {
+            "name": "FMRS"
+        }
+    ],
+    "install": [
+        {
+            "file": "Kurrikane",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://s3-us-west-2.amazonaws.com/ksp-ckan/2149CA86.zip",
+    "download_size": 518112,
+    "download_hash": {
+        "sha1": "4396293FEA64524EC5F78BD206C017FCB35C7B1D",
+        "sha256": "C2227E4289AF209A2A27F3B3B5D21E4135D9F264429EC2D123078BB1DA135C1B"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

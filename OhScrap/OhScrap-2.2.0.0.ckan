@@ -1,0 +1,97 @@
+{
+    "spec_version": "v1.2",
+    "identifier": "OhScrap",
+    "name": "OhScrap",
+    "abstract": "Part Failures: Parachutes, Engines, Gimbals, Resources, Batteries, Reaction Wheels, Control Surfaces and more! Using ScrapYard for Kerbal Space Program.",
+    "author": "zer0Kerbal",
+    "version": "2.2.0.0",
+    "ksp_version_min": "1.8.0",
+    "ksp_version_max": "1.12.9999",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/192360-*/",
+        "spacedock": "https://spacedock.info/mod/2364/OhScrap!%20(OHS)%20by%20severedsolo",
+        "repository": "https://ghproxy.net/https://github.com/zer0Kerbal/OhScrap",
+        "bugtracker": "https://ghproxy.net/https://github.com/zer0Kerbal/OhScrap/issues",
+        "discussions": "https://ghproxy.net/https://github.com/zer0Kerbal/OhScrap/discussions",
+        "remote-avc": "https://ghproxy.net/https://github.com/zer0Kerbal/OhScrap/raw/master/OhScrap.version",
+        "x_screenshot": "https://spacedock.info/content/zer0Kerbal_21147/OhScrap_OHS_by_severedsolo/OhScrap_OHS_by_severedsolo-1672293811.png"
+    },
+    "tags": [
+        "plugin",
+        "editor",
+        "config",
+        "career",
+        "uncrewed",
+        "crewed"
+    ],
+    "localizations": [
+        "en-us"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ScrapYard"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "KerbalConstructionTime"
+        },
+        {
+            "name": "StageRecovery"
+        },
+        {
+            "name": "KerbalKrashSystem"
+        },
+        {
+            "name": "KerbalChangelog"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "Kaboom"
+        },
+        {
+            "name": "Komplexity"
+        },
+        {
+            "name": "KerbalChangelog"
+        },
+        {
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "TweakScale"
+        },
+        {
+            "name": "KSP-Recall"
+        }
+    ],
+    "supports": [
+        {
+            "name": "KerbalConstructionTime"
+        },
+        {
+            "name": "FerramAerospaceResearchContinued"
+        },
+        {
+            "name": "RemoteTech"
+        },
+        {
+            "name": "UKS"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2364/OhScrap!%20(OHS)%20by%20severedsolo/download/2.2.0.0",
+    "download_size": 64559,
+    "download_hash": {
+        "sha1": "2048631153FE3301AE4665D74B01CF7DEEF817FE",
+        "sha256": "D3339BC13805A6A7C0DC0A43364513E4F7479E248ED1B41C0D3BFF78E2A26764"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 129415,
+    "release_date": "2021-09-22T05:08:59.741679+00:00",
+    "x_generated_by": "netkan"
+}

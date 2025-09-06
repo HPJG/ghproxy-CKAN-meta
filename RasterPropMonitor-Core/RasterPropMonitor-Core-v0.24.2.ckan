@@ -1,0 +1,41 @@
+{
+    "spec_version": 1,
+    "comment": "This package contains the plugin, and the standard parts library.",
+    "identifier": "RasterPropMonitor-Core",
+    "name": "RasterPropMonitor Core",
+    "abstract": "RasterPropMonitor is a plugin and toolkit that provides functional props within your IVA.",
+    "author": [
+        "MOARdV",
+        "Mihara"
+    ],
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/117471",
+        "repository": "https://ghproxy.net/https://github.com/Mihara/RasterPropMonitor"
+    },
+    "version": "v0.24.2",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/JSI",
+            "filter": [
+                "Agencies",
+                "RPMPodPatches"
+            ],
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/Mihara/RasterPropMonitor/releases/download/v0.24.2/RasterPropMonitor.0.24.2.zip",
+    "download_size": 815878,
+    "download_hash": {
+        "sha1": "375890CD968473ABDAB0BED24069FBAE8624C86F",
+        "sha256": "68908E1AB001E190247C18EFEC68CE97611BEE68141DA5888D72413F28A6DC4A"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

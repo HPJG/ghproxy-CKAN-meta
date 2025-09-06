@@ -1,0 +1,24 @@
+{
+    "spec_version": 1,
+    "identifier": "TooManyOrbits",
+    "name": "TooManyOrbits",
+    "abstract": "This mod lets you hide orbits with the press of a single key and clears up the map view so you can concentrate on your mission.",
+    "author": "knowbuddy",
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/159930-122-toomanyorbits-v101/",
+        "spacedock": "https://spacedock.info/mod/1340/TooManyOrbits",
+        "repository": "https://ghproxy.net/https://github.com/knowbuddy/TooManyOrbits",
+        "x_screenshot": "https://spacedock.info/content/knowbuddy_12551/TooManyOrbits/TooManyOrbits-1493463096.0694482.jpg"
+    },
+    "version": "1.1.0",
+    "ksp_version": "1.2.2",
+    "download": "https://spacedock.info/mod/1340/TooManyOrbits/download/1.1.0",
+    "download_size": 22581,
+    "download_hash": {
+        "sha1": "C2C2CFE2F1871C8F0050E3D6BCCFCF76267C2FC7",
+        "sha256": "D3A7A676D4B7C00B5148216C53179CB6D5F758D15CC4D8A43D100EC823E19780"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

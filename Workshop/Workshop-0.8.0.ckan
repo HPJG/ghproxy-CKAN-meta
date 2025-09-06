@@ -1,0 +1,41 @@
+{
+    "spec_version": 1,
+    "identifier": "Workshop",
+    "name": "OSE Workshop",
+    "abstract": "In flight part construction",
+    "author": "obivandamme",
+    "license": "CC-BY-NC-SA",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/108234",
+        "repository": "https://ghproxy.net/https://github.com/obivandamme/Workshop",
+        "kerbalstuff": "https://kerbalstuff.com/mod/693/OSE%20Workshop"
+    },
+    "version": "0.8.0",
+    "ksp_version": "1.0.2",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "UKS"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/Workshop",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/Workshop-0.8.0/8910E431-Workshop-0.8.0.zip",
+    "download_size": 117624,
+    "download_hash": {
+        "sha1": "8910E43197162851DFC9A1B71A2C7C8361EAEBE2",
+        "sha256": "39EF5180C8046BC4F1F1C35E42974F8B36D7335D2857AC0C13CE6164498AE1C0"
+    },
+    "download_content_type": "application/zip",
+    "x_screenshot": "https://kerbalstuff.com/content/obivandamme_8715/OSE_Workshop/OSE_Workshop-1432107947.7291923.png",
+    "x_generated_by": "netkan"
+}

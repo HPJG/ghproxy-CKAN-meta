@@ -1,0 +1,31 @@
+{
+    "spec_version": 1,
+    "identifier": "SpiceLaunchSystem",
+    "name": "Spice Launch System",
+    "abstract": "space launch system realism mod",
+    "author": "maccollo",
+    "version": "0.75",
+    "ksp_version": "1.0.5",
+    "license": "restricted",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/101608-spice-launch-system-sls-074/",
+        "spacedock": "https://spacedock.info/mod/434/Spice%20Launch%20System"
+    },
+    "tags": [
+        "parts"
+    ],
+    "recommends": [
+        {
+            "name": "RealismOverhaul"
+        }
+    ],
+    "download": "https://spacedock.info/mod/434/Spice%20Launch%20System/download/0.75",
+    "download_size": 24328695,
+    "download_hash": {
+        "sha1": "B42D7A774C754BEA5A15FBBCC7BCAFE6F093FEE8",
+        "sha256": "2F7EA38EA7DA2405B35ED7FDC36D14F54A85BF506CEB1CBB20AF041540B69D47"
+    },
+    "download_content_type": "application/zip",
+    "release_date": "2016-03-22T02:11:07.739495+00:00",
+    "x_generated_by": "netkan"
+}

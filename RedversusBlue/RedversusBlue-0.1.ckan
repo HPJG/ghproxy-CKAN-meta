@@ -1,0 +1,35 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "RedversusBlue",
+    "name": "Red versus Blue! A BDArmory expansion pack",
+    "abstract": "A DACT inspired expansion pack for BDArmory",
+    "author": "MaxSimm",
+    "license": "CC-BY-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/131415",
+        "kerbalstuff": "https://kerbalstuff.com/mod/1077/Red%20versus%20Blue!%20A%20BDArmory%20expansion%20pack",
+        "x_screenshot": "https://kerbalstuff.com/content/MaxSimm_13703/Red_versus_Blue_A_BDArmory_expansion_pack/Red_versus_Blue_A_BDArmory_expansion_pack-1439431061.703624.jpg"
+    },
+    "version": "0.1",
+    "ksp_version": "1.0.4",
+    "depends": [
+        {
+            "name": "BDArmory"
+        }
+    ],
+    "install": [
+        {
+            "find": "KerbalDynamics",
+            "install_to": "GameData",
+            "filter": ".DS_Store"
+        }
+    ],
+    "download": "https://archive.org/download/RedversusBlue-0.1/15933A14-RedversusBlue-0.1.zip",
+    "download_size": 2433825,
+    "download_hash": {
+        "sha1": "15933A14E9F4132C79659BC020FD9F0D2C6331FD",
+        "sha256": "E7FBF6938DA3118FDD18F8B2118A78511672861C1DFE2FD2F78466D9C9746AB8"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

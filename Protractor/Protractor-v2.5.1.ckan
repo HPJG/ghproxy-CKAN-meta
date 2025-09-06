@@ -1,0 +1,38 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "Protractor",
+    "name": "Protractor",
+    "abstract": "Hohmann transfers to planets and moons, no nodes required.",
+    "author": [
+        "mrenigma03",
+        "RealGrep"
+    ],
+    "version": "v2.5.1",
+    "ksp_version_min": "1.0.0",
+    "ksp_version_max": "1.0",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/20183-*",
+        "repository": "https://ghproxy.net/https://github.com/RealGrep/protractor",
+        "bugtracker": "https://ghproxy.net/https://github.com/RealGrep/protractor/issues"
+    },
+    "tags": [
+        "plugin",
+        "information"
+    ],
+    "install": [
+        {
+            "find": "Protractor",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/RealGrep/protractor/releases/download/v2.5.1/ProtractorContinued-v2.5.1.zip",
+    "download_size": 67798,
+    "download_hash": {
+        "sha1": "9ABF507172CD2A1CE86A3041B4227F4F31A58192",
+        "sha256": "6F8F2E50D5417A893C072C6266D4B63A490E8DBC00070364FACD68A2E7300025"
+    },
+    "download_content_type": "application/zip",
+    "release_date": "2015-05-15T19:59:01Z",
+    "x_generated_by": "netkan"
+}

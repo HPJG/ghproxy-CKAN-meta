@@ -1,0 +1,77 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "RealPlume-StockConfigs",
+    "name": "Real Plume - Stock Configs",
+    "abstract": "A set of effects and basic configs that can be attached to any engine as appropriate.  Requires secondary configs to function correctly.",
+    "author": "Felger",
+    "license": "CC-BY-NC-SA",
+    "resources": {
+        "homepage": "https://ghproxy.net/https://github.com/KSP-RO/RealPlume/wiki",
+        "repository": "https://ghproxy.net/https://github.com/KSP-RO/RealPlume-StockConfigs"
+    },
+    "version": "v0.2",
+    "ksp_version": "1.0.4",
+    "provides": [
+        "RealPlumeConfigs"
+    ],
+    "depends": [
+        {
+            "name": "RealPlume"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "ABLaunchers"
+        },
+        {
+            "name": "AIESAerospace-Unofficial"
+        },
+        {
+            "name": "AtomicAge"
+        },
+        {
+            "name": "FASA"
+        },
+        {
+            "name": "KWRocketry"
+        },
+        {
+            "name": "ModularRocketSystem"
+        },
+        {
+            "name": "ProceduralParts"
+        },
+        {
+            "name": "SpaceY-Lifters"
+        },
+        {
+            "name": "SXT"
+        },
+        {
+            "name": "Tantares"
+        },
+        {
+            "name": "TantaresLV"
+        },
+        {
+            "name": "TundraExploration"
+        },
+        {
+            "name": "VenStockRevamp"
+        }
+    ],
+    "install": [
+        {
+            "find": "RealPlume-Stock",
+            "install_to": "GameData/RealPlume"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/KSP-RO/RealPlume-StockConfigs/releases/download/v0.2/RealPlume-StockConfigs_v0.2.zip",
+    "download_size": 97060,
+    "download_hash": {
+        "sha1": "F408C874688BAEED12936AA74E0D5A93DC0264FD",
+        "sha256": "099451FFD3ADA50BCB11C19B15C5F5ECB93C80FCE9A33DB1E2304FD3F6DB7367"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

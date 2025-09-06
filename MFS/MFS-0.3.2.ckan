@@ -1,0 +1,59 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "MFS",
+    "name": "Mobile Frame System",
+    "abstract": "Parts for planetary mobile engineering and hauling",
+    "author": "riocrokite",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/107791",
+        "repository": "https://ghproxy.net/https://github.com/riocrokite/MobileFrameSystem"
+    },
+    "version": "0.3.2",
+    "ksp_version": "1.0.2",
+    "depends": [
+        {
+            "name": "JSIPartUtilities"
+        },
+        {
+            "name": "FirespitterCore"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "InfernalRobotics"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "KerbalFoundries"
+        },
+        {
+            "name": "USI-FTT"
+        },
+        {
+            "name": "Karbonite"
+        },
+        {
+            "name": "UKS"
+        },
+        {
+            "name": "ExtraPlanetaryLaunchpads"
+        }
+    ],
+    "install": [
+        {
+            "find": "KermangeddonIndustries",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/riocrokite/MobileFrameSystem/releases/download/0.3.2/MFS.0.3.2.zip",
+    "download_size": 2155258,
+    "download_hash": {
+        "sha1": "D42EA9DC8C054D8BC61AD325970F252BF2354591",
+        "sha256": "DCF2D923FAF002715E05FA82CF37BDF83576728AB1F5621C89333715B79FD9A3"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

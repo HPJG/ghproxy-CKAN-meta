@@ -1,0 +1,67 @@
+{
+    "spec_version": "v1.2",
+    "identifier": "ModularFuelTanks",
+    "name": "Modular Fuel Tanks",
+    "abstract": "Refit tank with different fuel or other contents",
+    "description": "Modular Fuel Tanks allows any supported tank to be filled with exactly how much or how little fuel you want, of whatever type you want (though different tanks may allow or disallow certain fuels; jet fuel tanks won't take oxidizer for instance).",
+    "author": [
+        "taniwha",
+        "NathanKell",
+        "Swamp Ig",
+        "ChestBurster",
+        "ialdabaoth"
+    ],
+    "license": "CC-BY-SA",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/58235-11-modular-fuel-tanks-v570/",
+        "repository": "https://ghproxy.net/https://github.com/NathanKell/ModularFuelSystem"
+    },
+    "version": "5.12.0",
+    "ksp_version": "1.6",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "supports": [
+        {
+            "name": "AIESAerospace-Unofficial"
+        },
+        {
+            "name": "FASA"
+        },
+        {
+            "name": "Firespitter"
+        },
+        {
+            "name": "KOSMOS-SSPP"
+        },
+        {
+            "name": "KSPX"
+        },
+        {
+            "name": "KWRocketry"
+        },
+        {
+            "name": "NovaPunch"
+        },
+        {
+            "name": "RLA-Stockalike"
+        },
+        {
+            "name": "SDHI-ServiceModuleSystem"
+        },
+        {
+            "name": "SpaceShuttleEngines"
+        }
+    ],
+    "download": "https://archive.org/download/ModularFuelTanks-5.12.0/A5CFB970-ModularFuelTanks-5.12.0.zip",
+    "download_size": 39172,
+    "download_hash": {
+        "sha1": "A5CFB970B1A67B831CB61BB159DB408EB3B08667",
+        "sha256": "218D0C6F8B751A8D841BB4455FCFF59D78F66E7644C4349E517852850A531790"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

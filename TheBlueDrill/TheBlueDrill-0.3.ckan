@@ -1,0 +1,39 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "TheBlueDrill",
+    "name": "The Blue Drill",
+    "abstract": "Add a drill for Xenon and Argon",
+    "author": "silversliver",
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/118366-104-blue-technologies/",
+        "kerbalstuff": "https://kerbalstuff.com/mod/1070/The%20Blue%20Drill",
+        "x_screenshot": "https://kerbalstuff.com/content/silversliver_13658/The_Blue_Drill/The_Blue_Drill-1449495484.7855875.png"
+    },
+    "version": "0.3",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "NearFuturePropulsion"
+        }
+    ],
+    "install": [
+        {
+            "find": "BlueTech",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/TheBlueDrill-0.3/275B9478-TheBlueDrill-0.3.zip",
+    "download_size": 278467,
+    "download_hash": {
+        "sha1": "275B9478443039FAD89DD671523748132D566F38",
+        "sha256": "4EF293AD7B93770CE8FFCD317A6A7707CD9A493A2AD8BDCBB9B5363DE54279EA"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,35 @@
+{
+    "spec_version": 1,
+    "identifier": "QuickHide",
+    "name": "QuickHide",
+    "abstract": "QuickHide is a plugin which adds the possibility to hide the stock toolbar and the mods of the stock toolbar.",
+    "author": "malah",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/95168",
+        "repository": "https://ghproxy.net/https://github.com/malahx/QuickHide",
+        "kerbalstuff": "https://kerbalstuff.com/mod/396/QuickHide",
+        "x_screenshot": "https://kerbalstuff.com/content/malah_88/QuickHide/QuickHide-1431385211.67682.png"
+    },
+    "version": "v3.02",
+    "ksp_version": "1.0.4",
+    "suggests": [
+        {
+            "name": "Toolbar"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/QuickHide",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/QuickHide-v3.02/248EFC14-QuickHide-v3.02.zip",
+    "download_size": 48506,
+    "download_hash": {
+        "sha1": "248EFC14D6EA5AA54BB07A83F29F7106B680B8CD",
+        "sha256": "D3789B63B8B729AE5F6976537086C7A68611E7339403D69E6AFCF6B03F4BC3E6"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

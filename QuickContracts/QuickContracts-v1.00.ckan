@@ -1,0 +1,28 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "QuickContracts",
+    "name": "QuickContracts",
+    "abstract": "QuickContracts is a plugin which adds the possibility to have keyboard's shortcuts on the mission control.",
+    "author": "malah",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/95168",
+        "kerbalstuff": "https://kerbalstuff.com/mod/539/QuickContracts"
+    },
+    "version": "v1.00",
+    "ksp_version": "1.0.0",
+    "install": [
+        {
+            "find": "QuickContracts",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/QuickContracts-v1.00/19B4B15B-QuickContracts-v1.00.zip",
+    "download_size": 33839,
+    "download_hash": {
+        "sha1": "19B4B15BAC9CD52615ABE96A1512A5FFDDD9BC02",
+        "sha256": "C5D8B9A0B7E8CFFA7EC82F39708F88CE0B35665D2908BC3302A29A2FFDF078B8"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

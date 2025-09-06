@@ -1,0 +1,32 @@
+{
+    "spec_version": 1,
+    "identifier": "MoonRocketfromTinTin",
+    "name": "Moon Rocket from TinTin",
+    "abstract": "Inspired by one of the TinTin comics \"Destination Moon\". This single stage rocket can land on the moon and land back on kerbin!",
+    "author": "xxhansonmaxx",
+    "license": "CC-BY-NC-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/114748-WIP-Mun-Rocket-from-TinTin-Singe-Stage-To-Low-Mun-Orbit",
+        "kerbalstuff": "https://kerbalstuff.com/mod/683/Moon%20Rocket%20from%20TinTin"
+    },
+    "version": "0.2.0",
+    "ksp_version": "0.90",
+    "install": [
+        {
+            "file": "HM",
+            "install_to": "GameData"
+        },
+        {
+            "file": "Ships",
+            "install_to": "Ships"
+        }
+    ],
+    "download": "https://archive.org/download/MoonRocketfromTinTin-0.2.0/F49A50AB-MoonRocketfromTinTin-0.2.0.zip",
+    "download_size": 741426,
+    "download_hash": {
+        "sha1": "F49A50AB4036BE5950EEA29249ED42BD1A74F89C",
+        "sha256": "ECC536850B426B3AB75F220F5AECF19CEA7A52123EE7C5638241E99FB9D3372E"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

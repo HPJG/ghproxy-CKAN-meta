@@ -1,0 +1,36 @@
+{
+    "spec_version": 1,
+    "identifier": "SpaceY-Expanded",
+    "name": "SpaceY Expanded",
+    "abstract": "Large rocketry parts, particularly 7.5m diameter, and accessories.",
+    "author": "NecroBones",
+    "license": "CC-BY-NC-SA",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/133301",
+        "kerbalstuff": "https://kerbalstuff.com/mod/1137/SpaceY%20Expanded",
+        "x_screenshot": "https://kerbalstuff.com/content/NecroBones_1035/SpaceY_Expanded/SpaceY_Expanded-1441243999.603152.jpg"
+    },
+    "version": "0.6",
+    "ksp_version": "1.0.4",
+    "depends": [
+        {
+            "name": "SpaceY-Lifters"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "InterstellarFuelSwitch-Core"
+        }
+    ],
+    "download": "https://archive.org/download/SpaceY-Expanded-0.6/6593D66D-SpaceY-Expanded-0.6.zip",
+    "download_size": 9266486,
+    "download_hash": {
+        "sha1": "6593D66D1F8C7E17ECD4AF987E4FBBFEA6612792",
+        "sha256": "8395CA1D8EAC343BE53A0BAA8BC5C476F9AB9038695AAB4ED06EEBAD75100FD8"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,32 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "NavballDockingIndicator",
+    "name": "Navball Docking Alignment Indicator",
+    "abstract": "When a docking port is selected as target, an additional red marker appears on your Navball, indicating the orientation of that docking port.",
+    "author": "mic_e",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/54303",
+        "repository": "https://ghproxy.net/https://github.com/mic-e/kspnavballdockingalignmentindicator",
+        "bugtracker": "https://ghproxy.net/https://github.com/mic-e/kspnavballdockingalignmentindicator/issues",
+        "kerbalstuff": "https://kerbalstuff.com/mod/23/Navball%20Docking%20Alignment%20Indicator",
+        "x_screenshot": "https://kerbalstuff.com/content/mic_e_58/Navball_Docking_Alignment_Indicator/Navball_Docking_Alignment_Indicator.png"
+    },
+    "version": "v7",
+    "ksp_version_min": "1.0.2",
+    "ksp_version_max": "1.0.5",
+    "install": [
+        {
+            "find": "GameData/NavBallDockingAlignmentIndicator",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/NavballDockingIndicator-v7/7EEB2765-NavballDockingIndicator-v7.zip",
+    "download_size": 21282,
+    "download_hash": {
+        "sha1": "7EEB2765EDB20AFA121A5C234F480CFB774CD836",
+        "sha256": "194BCD1760D2A0DAE92216FD5353A7E9EB1F3C79C24BE30BE3EBC9CEE66049BF"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

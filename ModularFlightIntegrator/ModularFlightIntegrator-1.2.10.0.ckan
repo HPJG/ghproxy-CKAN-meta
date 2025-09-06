@@ -1,0 +1,37 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "ModularFlightIntegrator",
+    "name": "ModularFlightIntegrator",
+    "abstract": "This is an amazing addon that will Modularly Integrate your Flight Models.",
+    "author": "Sarbian",
+    "version": "1.2.10.0",
+    "ksp_version_min": "1.11.0",
+    "ksp_version_max": "1.12.90",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/106369-*",
+        "repository": "https://ghproxy.net/https://github.com/sarbian/ModularFlightIntegrator",
+        "ci": "https://ksp.sarbian.com/jenkins/job/ModularFlightIntegrator/",
+        "remote-avc": "https://ksp.sarbian.com/jenkins/job/ModularFlightIntegrator/lastSuccessfulBuild/artifact/ModularFlightIntegrator/ModularFlightIntegrator.version"
+    },
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "install": [
+        {
+            "find": "ModularFlightIntegrator",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ksp.sarbian.com/jenkins/job/ModularFlightIntegrator/40/artifact/ModularFlightIntegrator-1.2.10.0.zip",
+    "download_size": 9488,
+    "download_hash": {
+        "sha1": "1F08C9F0D3AAC2B0A0A945B013FD10992E5CA064",
+        "sha256": "0134C0950298E8703F27809F918FC57B6F9F7202A9AD988DECBF1AC924FDD9E7"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 24261,
+    "release_date": "2021-08-09T15:12:42.251Z",
+    "x_generated_by": "netkan"
+}

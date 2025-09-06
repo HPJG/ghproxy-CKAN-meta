@@ -1,0 +1,36 @@
+{
+    "spec_version": 1,
+    "identifier": "SpaceY-Expanded",
+    "name": "SpaceY Expanded",
+    "abstract": "An optional expansion for SpaceY Heavy Lifters that adds 7.5m parts among other enhancements.",
+    "author": "NecroBones",
+    "license": "CC-BY-NC-SA",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/120012-SpaceY-Expanded",
+        "spacedock": "https://spacedock.info/mod/89/SpaceY%20Expanded",
+        "x_screenshot": "https://spacedock.info/content/NecroBones_209/SpaceY_Expanded/SpaceY_Expanded-1455805213.9027443.jpg"
+    },
+    "version": "1.1.6",
+    "ksp_version": "1.1.0",
+    "depends": [
+        {
+            "name": "SpaceY-Lifters"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "InterstellarFuelSwitch-Core"
+        }
+    ],
+    "download": "https://spacedock.info/mod/89/SpaceY%20Expanded/download/1.1.6",
+    "download_size": 9773795,
+    "download_hash": {
+        "sha1": "2674AF17444F0928B2435C31E89765D2844FCF27",
+        "sha256": "2FD3B151B11820DC5211E520447045D2EF24C09B0A0DD428A2267B3655A8E787"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

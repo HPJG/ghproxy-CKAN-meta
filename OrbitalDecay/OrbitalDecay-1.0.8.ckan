@@ -1,0 +1,34 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "OrbitalDecay",
+    "name": "Orbital Decay",
+    "abstract": "Orbital Decay adds realistic on rails and off rails orbital decay to vessels in KSP. The mod also adds station keeping requiring fuel to maintain a stable orbit! (With RSS Support)",
+    "author": "Whitecat106",
+    "license": "CC-BY-NC-SA-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/116818-104-orbital-decay",
+        "spacedock": "https://spacedock.info/mod/437/Orbital%20Decay",
+        "x_screenshot": "https://spacedock.info/content/Whitecat106_1199/Orbital_Decay/Orbital_Decay-1458773913.441254.jpg"
+    },
+    "version": "1.0.8",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "WhitecatIndustries",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/437/Orbital%20Decay/download/1.0.8",
+    "download_size": 35074,
+    "download_hash": {
+        "sha1": "5959829702265FE75067E9D66A3D55B16C866BA4",
+        "sha256": "FFFD562252EF3B7D8F47242C74174819CE5DFF0F7F7C7FD1A9255519D9541B09"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

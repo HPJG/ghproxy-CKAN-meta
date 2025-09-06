@@ -1,0 +1,32 @@
+{
+    "spec_version": 1,
+    "identifier": "kdufferskorpracewheel",
+    "name": "kduffers korp race wheel",
+    "abstract": "a varity of wheels for ksp more to come",
+    "author": "amankduffers",
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/119150-kduffers-multi-wheels-kmw"
+    },
+    "version": "1.0",
+    "ksp_version": "1.0.5",
+    "conflicts": [
+        {
+            "name": "KduffersMultiwheels"
+        }
+    ],
+    "install": [
+        {
+            "file": "kdufferskorp",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/kdufferskorpracewheel-1.0/15D18CF6-kdufferskorpracewheel-1.0.zip",
+    "download_size": 1065817,
+    "download_hash": {
+        "sha1": "15D18CF6B41C87F9915E3D8E7B5C432FCF8D0B76",
+        "sha256": "9E95359E124AFFC86FCD51B228CB76257FB2B26A2739E7BFF93898C46E4B182E"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

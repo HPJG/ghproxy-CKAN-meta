@@ -1,0 +1,30 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "PersistentRotation",
+    "name": "PersistentRotation",
+    "abstract": "Persistent rotation, persistent momentum and more!",
+    "author": "MarkusA380",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/113507-0-90-PersistentRotation-0-4-1-(former-Timewarp-Rotate)",
+        "repository": "https://ghproxy.net/https://github.com/MarkusA380/PersistentRotation",
+        "kerbalstuff": "https://kerbalstuff.com/mod/668/PersistentRotation",
+        "x_screenshot": "https://kerbalstuff.com/content/MarkusA380_8450/PersistentRotation/PersistentRotation-1449358727.230984.jpg"
+    },
+    "version": "1.0.1",
+    "ksp_version": "1.0.5",
+    "install": [
+        {
+            "file": "GameData/PersistentRotation",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://s3-us-west-2.amazonaws.com/ksp-ckan/5737EBEA.zip",
+    "download_size": 35882,
+    "download_hash": {
+        "sha1": "7A94FAEE2FD84774D50CCEC55A4A033BAEDE597A",
+        "sha256": "0E479AC257F6C7F843E2F663C6A74D2B5704F6C1EC47D32385A8732CFA3BC0E8"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

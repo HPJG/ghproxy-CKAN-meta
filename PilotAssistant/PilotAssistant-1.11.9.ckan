@@ -1,0 +1,28 @@
+{
+    "spec_version": 1,
+    "identifier": "PilotAssistant",
+    "name": "Pilot Assistant",
+    "abstract": "Helpful tool which controls planes altitude, heading, and airspeed via autopilot or custom SAS",
+    "author": "Crzyrndm",
+    "license": "CC-BY-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/100073",
+        "repository": "https://ghproxy.net/https://github.com/Crzyrndm/Pilot-Assistant"
+    },
+    "version": "1.11.9",
+    "ksp_version": "1.0.4",
+    "install": [
+        {
+            "file": "GameData/Pilot Assistant",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/Crzyrndm/Pilot-Assistant/releases/download/1.11.9/Pilot.Assistant.v1.11.9.zip",
+    "download_size": 46129,
+    "download_hash": {
+        "sha1": "5DB6D0FF1E452B52810E2A5C456C7EF3B76BC47C",
+        "sha256": "5066C35ACD780A0690627E3D6A7EA5178EF31C7C0D41E4DEC04E07AD32BA9897"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

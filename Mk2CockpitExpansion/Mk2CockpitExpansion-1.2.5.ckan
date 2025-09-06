@@ -1,0 +1,29 @@
+{
+    "spec_version": 1,
+    "identifier": "Mk2CockpitExpansion",
+    "name": "Mk2 cockpit expansion",
+    "abstract": "Adds new cockpits and drones.",
+    "author": "martinezfg11",
+    "license": "CC-BY-NC-SA-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/113162-0-90-MK2-Cockpit-Expansion",
+        "kerbalstuff": "https://kerbalstuff.com/mod/644/Mk2%20cockpit%20expansion",
+        "x_screenshot": "https://kerbalstuff.com/content/martinezfg11_890/Mk2_cockpit_expansion/Mk2_cockpit_expansion-1440532261.5760307.png"
+    },
+    "version": "1.2.5",
+    "ksp_version": "1.0.4",
+    "install": [
+        {
+            "file": "AoATech",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/Mk2CockpitExpansion-1.2.5/88D80699-Mk2CockpitExpansion-1.2.5.zip",
+    "download_size": 3531175,
+    "download_hash": {
+        "sha1": "88D80699F35BEA45B5DB3F9EAE05339BC141DBD7",
+        "sha256": "EB4B545E84EDA522009A73C01363E88E74E7D2B4C6288E9778D0F15CF2C77137"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

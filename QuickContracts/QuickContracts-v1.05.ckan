@@ -1,0 +1,30 @@
+{
+    "spec_version": 1,
+    "identifier": "QuickContracts",
+    "name": "QuickContracts",
+    "abstract": "Adds the possibility to have keyboard's shortcuts on the mission control.",
+    "author": "malah",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/85834-1",
+        "spacedock": "https://spacedock.info/mod/104/QuickContracts",
+        "repository": "https://ghproxy.net/https://github.com/malahx/QuickContracts"
+    },
+    "version": "v1.05",
+    "ksp_version_min": "1.1.0",
+    "ksp_version_max": "1.1.99",
+    "install": [
+        {
+            "file": "GameData/QuickContracts",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/104/QuickContracts/download/v1.05",
+    "download_size": 32980,
+    "download_hash": {
+        "sha1": "FD7E6AEAA049532D88CEF74FB683926C6B60CEB8",
+        "sha256": "7877BD002F84D5CA90486FBAA375AE74408BAAAB231AC2B73552D579ABCEA84C"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

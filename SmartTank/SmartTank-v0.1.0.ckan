@@ -1,0 +1,56 @@
+{
+    "spec_version": 1,
+    "comment": "Indexed by author. Please report any problems at the repository bugtracker.",
+    "identifier": "SmartTank",
+    "name": "SmartTank",
+    "abstract": "Automatically resizes ProceduralParts fuel tanks to fit a specified thrust to weight ratio",
+    "description": "",
+    "author": "HebaruSan",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/162743-130-smarttank-v010/",
+        "repository": "https://ghproxy.net/https://github.com/HebaruSan/SmartTank",
+        "bugtracker": "https://ghproxy.net/https://github.com/HebaruSan/SmartTank/issues"
+    },
+    "version": "v0.1.0",
+    "ksp_version": "1.3.0",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ProceduralParts"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "LoadingTipsPlus"
+        },
+        {
+            "name": "ProceduralParts-Textures-BattleTechAerospace"
+        },
+        {
+            "name": "ProceduralParts-Textures-SCCKSCS"
+        },
+        {
+            "name": "ProceduralParts-Textures-SaturnNova"
+        },
+        {
+            "name": "VensStylePPTextures"
+        },
+        {
+            "name": "MainSailorTextures-Complete"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/HebaruSan/SmartTank/releases/download/v0.1.0/SmartTank.zip",
+    "download_size": 84646,
+    "download_hash": {
+        "sha1": "05F93E99AB1DB11670081BA90AD3F9ADAC371EF1",
+        "sha256": "CF989E62958229B68AE52AE66A0E42AC98944550E0F5D69F9A1626A8AD0764C7"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 197712,
+    "release_date": "2017-07-01T02:28:25Z",
+    "kind": "package",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,23 @@
+{
+    "spec_version": 1,
+    "identifier": "Kerbulator",
+    "name": "Kerbulator",
+    "abstract": "Calculator plugin for Kerbal Space Program",
+    "author": "wmvanvliet",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/69406",
+        "repository": "https://ghproxy.net/https://github.com/wmvanvliet/Kerbulator"
+    },
+    "version": "0.34.5",
+    "ksp_version_min": "1.0.4",
+    "ksp_version_max": "1.0.5",
+    "download": "https://ghproxy.net/https://github.com/wmvanvliet/Kerbulator/releases/download/0.34.5/Kerbulator-0.34.5.zip",
+    "download_size": 657100,
+    "download_hash": {
+        "sha1": "0D674166A30618B6739568FD003CDEDD07276A21",
+        "sha256": "8FCF59D57ED5CBFA97C89FB785905A0C10F014C645EB2A019D591EA79D04930D"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,33 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "QArmory",
+    "name": "QArmory",
+    "abstract": "A BD's Armory addon.",
+    "author": "Quabbo",
+    "license": "BSD-3-clause",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/134097-WIP-1-0-4-Q-Armory-BDA-addon-0-01",
+        "kerbalstuff": "https://kerbalstuff.com/mod/1150/QArmory"
+    },
+    "version": "0.1",
+    "ksp_version": "1.0.4",
+    "depends": [
+        {
+            "name": "BDArmory"
+        }
+    ],
+    "install": [
+        {
+            "find": "QArmory",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/QArmory-0.1/CD37A621-QArmory-0.1.zip",
+    "download_size": 459387,
+    "download_hash": {
+        "sha1": "CD37A62112B6003536B4DCFDAF18E0BA4CB78C4B",
+        "sha256": "6954C66A9570C5C45729C6D33E05B844C4BF06F9F08853592F9B7386ECA1B187"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

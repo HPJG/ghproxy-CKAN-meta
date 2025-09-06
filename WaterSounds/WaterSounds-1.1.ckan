@@ -1,0 +1,31 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "WaterSounds",
+    "name": "Water Sounds",
+    "abstract": "Adds the sound of water gently lapping at the sides of your craft when splashed down.",
+    "author": "pizzaoverhead",
+    "license": "GPL-2.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/122158",
+        "kerbalstuff": "https://kerbalstuff.com/mod/823/Water%20Sounds",
+        "x_screenshot": "https://kerbalstuff.com/content/pizzaoverhead_509/Water_Sounds/Water_Sounds-1432069228.9769325.png"
+    },
+    "version": "1.1",
+    "ksp_version_min": "1.0.2",
+    "ksp_version_max": "1.0.4",
+    "install": [
+        {
+            "file": "GameData/WaterSounds",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/WaterSounds-1.1/7DCB3506-WaterSounds-1.1.zip",
+    "download_size": 561646,
+    "download_hash": {
+        "sha1": "7DCB3506DABBB45AB30E21A209764C409F8B23A6",
+        "sha256": "449691346D1F0DE21CC7F9663F4A523A80A071451069FE11970554F8BAE83E68"
+    },
+    "download_content_type": "application/zip",
+    "x_via": "Automated KerbalStuff CKAN submission",
+    "x_generated_by": "netkan"
+}

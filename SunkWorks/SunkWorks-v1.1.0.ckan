@@ -1,0 +1,50 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "SunkWorks",
+    "name": "Sunk Works",
+    "abstract": "Maritime Technologies for KSP",
+    "author": "Angel-125",
+    "version": "v1.1.0",
+    "ksp_version_min": "1.12.5",
+    "license": "restricted",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/202746-*",
+        "repository": "https://ghproxy.net/https://github.com/Angel-125/SunkWorks",
+        "bugtracker": "https://ghproxy.net/https://github.com/Angel-125/SunkWorks/issues",
+        "remote-avc": "https://raw.githubusercontent.com/Angel-125/SunkWorks/master/ReleaseFolder/GameData/WildBlueIndustries/SunkWorks/SunkWorks.version"
+    },
+    "tags": [
+        "plugin",
+        "parts",
+        "agency",
+        "suits",
+        "crewed"
+    ],
+    "localizations": [
+        "en-us"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "WildBlueCore"
+        }
+    ],
+    "install": [
+        {
+            "find": "SunkWorks",
+            "install_to": "GameData/WildBlueIndustries"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/Angel-125/SunkWorks/releases/download/v1.1.0/SunkWorks.zip",
+    "download_size": 39066756,
+    "download_hash": {
+        "sha1": "9E952CA514F1F899166FBC782F392E0CB31AE68C",
+        "sha256": "E143C6C286211333CD3840E38149678DB6E57ED9A95B551688F377372BF68C95"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 132331574,
+    "release_date": "2025-04-15T23:45:46Z",
+    "x_generated_by": "netkan"
+}

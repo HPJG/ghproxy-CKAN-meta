@@ -1,0 +1,28 @@
+{
+    "spec_version": 1,
+    "identifier": "Trajectories",
+    "name": "Trajectories",
+    "abstract": "The mod displays trajectory predictions, accounting for atmospheric drag, lift, etc. Works with the stock aerodynamic model, and also with Ferram Aerospace Research (FAR).",
+    "author": "Youen",
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/94368-105-trajectories-v145-2015-12-05-atmospheric-predictions/",
+        "spacedock": "https://spacedock.info/mod/396/Trajectories",
+        "repository": "https://ghproxy.net/https://github.com/neuoy/KSPTrajectories"
+    },
+    "version": "v1.4.6",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/396/Trajectories/download/v1.4.6",
+    "download_size": 65513,
+    "download_hash": {
+        "sha1": "69087D32F1A3A47E51EC5F9C3F944E8E5B0D8AF0",
+        "sha256": "DBA29A160D426013A041E7A51AD3F4DCFB53E9218C151B240A3ED92240A7B090"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

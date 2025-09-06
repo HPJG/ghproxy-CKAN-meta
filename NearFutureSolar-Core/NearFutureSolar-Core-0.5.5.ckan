@@ -1,0 +1,29 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "NearFutureSolar-Core",
+    "name": "Near Future Solar Core",
+    "abstract": "This is the Near Future Solar plugin stand-alone, for adding functionality to other mods. It contains no parts and does nothing by itself.",
+    "author": "Nertea",
+    "license": "CC-BY-NC-SA-4.0",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/52042-0-21",
+        "repository": "https://ghproxy.net/https://github.com/ChrisAdderley/NearFutureSolar"
+    },
+    "version": "0.5.5",
+    "ksp_version": "1.0.5",
+    "install": [
+        {
+            "file": "GameData/NearFutureSolar/Plugins/NearFutureSolar.dll",
+            "install_to": "GameData/NearFutureSolar/Plugins"
+        }
+    ],
+    "download": "https://archive.org/download/NearFutureSolar-Core-0.5.5/83D4436D-NearFutureSolar-Core-0.5.5.zip",
+    "download_size": 3099477,
+    "download_hash": {
+        "sha1": "83D4436D65B6501234256115088E74C13C819C12",
+        "sha256": "F49D96013F8B8BE748381C677D91C3A77BB1EA8705E960589ADF774E0254DBED"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

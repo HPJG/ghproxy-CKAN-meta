@@ -1,0 +1,50 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "SimpleNuclear-NFTBalanced",
+    "name": "SimpleNuclear-NearFuture Power-Balanced",
+    "abstract": "An Integration package for the SimpleNuclear mod. This allows you to play with Near Future parts within the common mechanic of SimpleNuclear, but at the power levels of the core SimpleNuclear mod. ",
+    "author": "matterbeam",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/131589-105-simplenuclear-unified-simplified-multi-mod-nuclear-energy-v10/",
+        "spacedock": "https://spacedock.info/mod/275/SimpleNuclear-NearFuture%20Power-Balanced",
+        "x_screenshot": "https://spacedock.info/content/matterbeam_328/SimpleNuclear-NearFuture_Power-Balanced/SimpleNuclear-NearFuture_Power-Balanced-1456453030.1746418.jpg"
+    },
+    "version": "v0.1",
+    "ksp_version": "1.0.5",
+    "provides": [
+        "SimpleNuclear-NearFuture"
+    ],
+    "depends": [
+        {
+            "name": "SimpleNuclear"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "NearFutureElectrical"
+        },
+        {
+            "name": "NearFuturePropulsion"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "SimpleNuclear-NearFuture"
+        }
+    ],
+    "install": [
+        {
+            "find": "SimpleNuclearNearFuturePB",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/275/SimpleNuclear-NearFuture%20Power-Balanced/download/v0.1",
+    "download_size": 1475189,
+    "download_hash": {
+        "sha1": "0AF7A7282CE86CEF6399F2B118C2A26EE53091FB",
+        "sha256": "581A6A006DC4877307681FBEA0E2E1814FE3AFCF893FE4AE9049BB92E2102091"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

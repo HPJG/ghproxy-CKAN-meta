@@ -1,0 +1,50 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "Mk3HypersonicSystems",
+    "name": "Mk3 Hypersonic Systems",
+    "abstract": "Aerodynamic additions to the Stock Mk3 Fuselage system",
+    "author": "nestor_d",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/130548",
+        "kerbalstuff": "https://kerbalstuff.com/mod/1055/Mk3%20Hypersonic%20Systems",
+        "x_screenshot": "https://kerbalstuff.com/content/nestor_d_10649/Mk3_Hypersonic_Systems/Mk3_Hypersonic_Systems-1438633784.8325207.png"
+    },
+    "version": "1.0.2.3",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "FirespitterCore"
+        },
+        {
+            "name": "CrossFeedEnabler"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "B9-PWings-Fork"
+        }
+    ],
+    "install": [
+        {
+            "find": "Mk3HypersonicSystems",
+            "install_to": "GameData",
+            "filter": "Thumbs.db"
+        },
+        {
+            "find": "SPH",
+            "install_to": "Ships"
+        }
+    ],
+    "download": "https://archive.org/download/Mk3HypersonicSystems-1.0.2.3/736E051E-Mk3HypersonicSystems-1.0.2.3.zip",
+    "download_size": 1613100,
+    "download_hash": {
+        "sha1": "736E051EC6BE202113301E825EC8B280C6409258",
+        "sha256": "7CFE1E4E1D28275CB46B7B4E91D09EF6737EC6DA10DBC681200583519B6F56F4"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

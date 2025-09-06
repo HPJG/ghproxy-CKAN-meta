@@ -1,0 +1,46 @@
+{
+    "spec_version": "v1.16",
+    "identifier": "TACLS-Config-Stock",
+    "name": "TAC Life Support (TACLS) - stock config",
+    "abstract": "Stock configuration for TACLS",
+    "author": [
+        "KSP-RO Group/danfarnsy",
+        "Taranis Elsu"
+    ],
+    "license": "CC-BY-NC-SA-3.0",
+    "release_status": "stable",
+    "resources": {
+        "repository": "https://ghproxy.net/https://github.com/KSP-RO/TacLifeSupport"
+    },
+    "version": "v0.12.0",
+    "ksp_version_max": "1.1.3",
+    "provides": [
+        "TACLS-Config"
+    ],
+    "depends": [
+        {
+            "name": "TACLS"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "TACLS-Config"
+        }
+    ],
+    "install": [
+        {
+            "find": "PluginData/TacLifeSupport/LifeSupport.cfg",
+            "find_matches_files": true,
+            "comment": "This installs only the LifeSupport.cfg file",
+            "install_to": "GameData/ThunderAerospace/TacLifeSupport/PluginData/TacLifeSupport"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/KSP-RO/TacLifeSupport/releases/download/v0.12.0/Releasev0.12.0.zip",
+    "download_size": 4914886,
+    "download_hash": {
+        "sha1": "BFB3691EBAF0CA31D87C82ADA343349E1E8A0EE1",
+        "sha256": "A969889E05B1F53B04C36DCD2E61AECC7F451ABA6B1EFA47461E55BEDF00EF69"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

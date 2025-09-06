@@ -1,0 +1,45 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "WingDropTanks",
+    "name": "Wing Drop Tanks",
+    "abstract": "100,200,500 Capacity Drop Tanks",
+    "author": "LuizChacon",
+    "license": "WTFPL",
+    "resources": {
+        "homepage": "http://starbaseone.freeforums.net/",
+        "kerbalstuff": "https://kerbalstuff.com/mod/1301/Wing%20Drop%20Tanks",
+        "x_screenshot": "https://kerbalstuff.com/content/LuizChacon_128/Wing_Drop_Tanks/Wing_Drop_Tanks-1448310392.0282855.png"
+    },
+    "version": "104.105a",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "FirespitterCore"
+        },
+        {
+            "name": "BahamutoDynamicsPartsPack"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "BDArmory"
+        },
+        {
+            "name": "AdjustableLandingGear"
+        }
+    ],
+    "install": [
+        {
+            "find": "Droptank",
+            "install_to": "GameData/Skunk_Works"
+        }
+    ],
+    "download": "https://archive.org/download/WingDropTanks-104.105a/395D0856-WingDropTanks-104.105a.zip",
+    "download_size": 46424,
+    "download_hash": {
+        "sha1": "395D0856F64C3C84D7705E373A87F9A0498AD3CC",
+        "sha256": "921A27829318395376917E193CE21B3916AF20574E69F89F0BD57F13F029DBC1"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

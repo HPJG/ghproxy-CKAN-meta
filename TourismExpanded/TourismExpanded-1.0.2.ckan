@@ -1,0 +1,48 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "TourismExpanded",
+    "name": "Contract Pack: Tourism Expanded",
+    "abstract": "11 New contracts to send tourists across the Kerbol system",
+    "author": "phillo3",
+    "version": "1.0.2",
+    "ksp_version_min": "1.12.0",
+    "ksp_version_max": "1.99.99",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/210022-*",
+        "repository": "https://ghproxy.net/https://github.com/phillo3/TourismExpanded",
+        "bugtracker": "https://ghproxy.net/https://github.com/phillo3/TourismExpanded/issues",
+        "remote-avc": "https://raw.githubusercontent.com:443/phillo3/TourismExpanded/740a241c6087ac9f8cbdda134a7fccd7a4bc04ad/GameData/ContractPacks/TourismExpanded/ContractPack-TourismExpanded.version"
+    },
+    "tags": [
+        "plugin",
+        "career",
+        "crewed"
+    ],
+    "depends": [
+        {
+            "name": "ContractConfigurator"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "WaypointManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "ContractPacks",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/phillo3/TourismExpanded/releases/download/1.0.2/TourismExpanded.zip",
+    "download_size": 32450,
+    "download_hash": {
+        "sha1": "0C26DD5627EAD78D3C78F1391347EA4CCF7559ED",
+        "sha256": "E60EB8CDE29682658EA187DDE3A9047E9F96E556EE3CC50C82FCF5FB4F8FA7D9"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 79851,
+    "release_date": "2022-10-07T23:02:44Z",
+    "x_generated_by": "netkan"
+}

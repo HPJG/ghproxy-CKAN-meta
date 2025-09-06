@@ -1,0 +1,41 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "MiniAirbrakes",
+    "name": "Mini Airbrakes",
+    "abstract": "This mod adds a smaller version of the stock airbrake, for times when the stock airbrake is too big and ugly.",
+    "author": "FishInferno",
+    "license": "CC-BY-4.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/108121-*",
+        "kerbalstuff": "https://kerbalstuff.com/mod/758/Mini%20Airbrakes",
+        "x_screenshot": "https://kerbalstuff.com/content/FishInferno_9757/Mini_Airbrakes/Mini_Airbrakes-1431035827.0628638.png"
+    },
+    "tags": [
+        "parts"
+    ],
+    "version": "1.1",
+    "ksp_version": "any",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/MiniAirbrakes",
+            "install_to": "GameData"
+        },
+        {
+            "file": "GameData/README.txt",
+            "install_to": "GameData/MiniAirbrakes"
+        }
+    ],
+    "download": "https://archive.org/download/MiniAirbrakes-1.1/F7D1B19B-MiniAirbrakes-1.1.zip",
+    "download_size": 27292,
+    "download_hash": {
+        "sha1": "F7D1B19B473A37C9057EEEE8C11E307B5BA4C219",
+        "sha256": "90FADEE095E4007783560E980C301F3E16D93E4E8F053BB0CE08EB250B2544FD"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

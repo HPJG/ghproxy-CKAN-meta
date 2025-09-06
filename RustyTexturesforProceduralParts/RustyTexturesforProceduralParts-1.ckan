@@ -1,0 +1,39 @@
+{
+    "spec_version": 1,
+    "identifier": "RustyTexturesforProceduralParts",
+    "name": "Rusty Textures for Procedural Parts",
+    "abstract": "Rusty Textures for Procedural Parts",
+    "author": "Gaga_X",
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/126355-105-rusty-textures-for-proceduralparts/#comment-2441084",
+        "spacedock": "https://spacedock.info/mod/346/%20%20Rusty%20Textures%20for%20Procedural%20Parts",
+        "x_screenshot": "https://spacedock.info/content/Gaga_X_1051/Rusty_Textures_for_Procedural_Parts/Rusty_Textures_for_Procedural_Parts-1457115927.1981897.png"
+    },
+    "version": "1",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "ProceduralParts"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "RustyStarRockets"
+        }
+    ],
+    "install": [
+        {
+            "file": "RustyProceduralParts",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/346/%20%20Rusty%20Textures%20for%20Procedural%20Parts/download/1",
+    "download_size": 1228685,
+    "download_hash": {
+        "sha1": "116033B4E2D2C7A2827A8D6C87F5D8B32C3A280B",
+        "sha256": "CF34E3A41B74D1F8F56A23189AC4E941642ACAED63A293737B385928290D67E7"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

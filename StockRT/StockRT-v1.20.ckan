@@ -1,0 +1,41 @@
+{
+    "spec_version": 1,
+    "identifier": "StockRT",
+    "name": "StockRT",
+    "abstract": "StockRT is a ModuleManager config file which adds the possibility to use the RemoteTech mod without the additional parts.",
+    "author": "malah",
+    "license": "public-domain",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/99869",
+        "kerbalstuff": "https://kerbalstuff.com/mod/327/StockRT"
+    },
+    "version": "v1.20",
+    "ksp_version": "0.90",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RemoteTech"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "RealSolarSystem"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/RemoteTech_Stock",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/StockRT-v1.20/8C5EE3E1-StockRT-v1.20.zip",
+    "download_size": 6453,
+    "download_hash": {
+        "sha1": "8C5EE3E18BEF8D2BDD3549B172FC57DB55FF2021",
+        "sha256": "FE40F5DA458496399E3DB4D7EEE858ACD605C5C507160421C3EFCFB91B83949F"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

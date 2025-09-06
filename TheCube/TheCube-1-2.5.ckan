@@ -1,0 +1,39 @@
+{
+    "spec_version": 1,
+    "identifier": "TheCube",
+    "name": "The Cube ",
+    "abstract": "A tranformable cube to suit your building needs!",
+    "author": "Kalzuron",
+    "license": "CC-BY-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/128954-the-cube-transformable-blocks-designed-to-fit-your-structural-needs-super-sexy-edition/#comment-2386856",
+        "spacedock": "https://spacedock.info/mod/372/The%20Cube%20",
+        "x_screenshot": "https://spacedock.info/content/Kalzuron_2028/The_Cube/The_Cube-1457391676.8687842.png"
+    },
+    "version": "1:2.5",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "FirespitterCore"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "KerbalJointReinforcement"
+        }
+    ],
+    "install": [
+        {
+            "file": "Pupstar",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/372/The%20Cube%20/download/2.5",
+    "download_size": 5251180,
+    "download_hash": {
+        "sha1": "C37FB3B87DACB5B3CC3E95B03E41AFD0827E08E8",
+        "sha256": "80A3C1889D053AB25435F27CB69A1D5491B2118FDC4814F441DCD827E33F1E5B"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

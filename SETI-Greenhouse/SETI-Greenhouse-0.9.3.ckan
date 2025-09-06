@@ -1,0 +1,34 @@
+{
+    "spec_version": 1,
+    "identifier": "SETI-Greenhouse",
+    "name": "SETI-Greenhouse",
+    "abstract": "Inline greenhouses (models by zzz) supporting 1 and 3 kerbals. Works with TAC Life Support, without it, the parts just look cool on space stations. USI Life Support configs outdated at the moment.",
+    "author": "Y3mo",
+    "license": "CC-BY-NC-SA-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/106130",
+        "spacedock": "https://spacedock.info/mod/19/SETI-Greenhouse",
+        "x_screenshot": "https://spacedock.info/content/Y3mo_158/SETI-Greenhouse/SETI-Greenhouse-1455815310.9182491.png"
+    },
+    "version": "0.9.3",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "file": "SETIgreenhouse",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/19/SETI-Greenhouse/download/0.9.3",
+    "download_size": 1155353,
+    "download_hash": {
+        "sha1": "E2A7372A51FD5E03B88EED344F7F75245FD3BD44",
+        "sha256": "E4BCAC582008C2A18538BF7E269F2523BCE1E00490FCA237EA227C015AE12B44"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

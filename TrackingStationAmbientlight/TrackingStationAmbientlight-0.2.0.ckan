@@ -1,0 +1,32 @@
+{
+    "spec_version": 1,
+    "identifier": "TrackingStationAmbientlight",
+    "name": "Trackingstation Ambientlight",
+    "abstract": "Brighten the dark side of planets in the trackingstation",
+    "author": "mhoram",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/133287",
+        "repository": "https://ghproxy.net/https://github.com/mhoram-kerbin/TrackingStationAmbientlight",
+        "bugtracker": "https://ghproxy.net/https://github.com/mhoram-kerbin/TrackingStationAmbientlight/issues",
+        "kerbalstuff": "https://kerbalstuff.com/mod/1136/Trackingstation%20Ambientlight",
+        "x_screenshot": "https://kerbalstuff.com/content/mhoram_14346/Trackingstation_Ambientlight/Trackingstation_Ambientlight-1441309789.6048913.jpg"
+    },
+    "version": "0.2.0",
+    "ksp_version_min": "1.0.0",
+    "ksp_version_max": "1.0.99",
+    "install": [
+        {
+            "file": "GameData/TrackingStationAmbientlight",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/TrackingStationAmbientlight-0.2.0/FC6F0A7D-TrackingStationAmbientlight-0.2.0.zip",
+    "download_size": 17037,
+    "download_hash": {
+        "sha1": "FC6F0A7D8BA8A0D044BA97F9F7ABE2608FEED1EB",
+        "sha256": "57B1F5C7CCA859AA32E9DDCE4EE3EBA739C27739CC9F3ED5BB2ECB7FECFFFAC5"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

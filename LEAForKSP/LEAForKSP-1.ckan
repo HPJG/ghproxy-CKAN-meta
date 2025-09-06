@@ -1,0 +1,34 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "LEAForKSP",
+    "name": "LEA Extended Input",
+    "abstract": "Use your Tablet to control KSP, get 6 analog axis, invert axis on the fly, drive your rover with tilt sensors and Much more!!! - for Windows only, requires server. See homepage for details.",
+    "author": "LEA_Extended_Input",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://www.leaextendedinput.com/",
+        "spacedock": "https://spacedock.info/mod/321/LEA%20Extended%20Input",
+        "repository": "https://ghproxy.net/https://github.com/tomi17250/LEA_For_KSP",
+        "x_screenshot": "https://spacedock.info/content/LEA_Extended_Input_1797/LEA_Extended_Input/LEA_Extended_Input-1456802360.606948.png"
+    },
+    "version": "1",
+    "ksp_version": "1.0.5",
+    "install": [
+        {
+            "find": "GameData/LEAForKSP",
+            "install_to": "GameData"
+        },
+        {
+            "file": "LEAForKSP/LEAForKSPEMTags.xml",
+            "install_to": "GameRoot"
+        }
+    ],
+    "download": "https://spacedock.info/mod/321/LEA%20Extended%20Input/download/1",
+    "download_size": 55319,
+    "download_hash": {
+        "sha1": "4A07C7E603C57E1625AF7DC197B38D654B3930F8",
+        "sha256": "ECF597E25F53A6C752EA8D011B1AC2B2C09B16E40215C3DA57428326F2748731"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

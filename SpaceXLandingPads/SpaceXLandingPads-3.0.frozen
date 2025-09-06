@@ -1,0 +1,29 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "SpaceXLandingPads",
+    "name": "SpaceX Landing Pads",
+    "abstract": "This mod adds the SpaceX Landing Zones and will eventually include the pad at Starbase and all 3 droneships.",
+    "author": "Fossilized4",
+    "version": "3.0",
+    "license": "MIT",
+    "resources": {
+        "repository": "https://ghproxy.net/https://github.com/Fossilized4/SpaceX-Landing-Pads",
+        "bugtracker": "https://ghproxy.net/https://github.com/Fossilized4/SpaceX-Landing-Pads/issues"
+    },
+    "install": [
+        {
+            "find": "Fossil Industries",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://api.github.com/repos/Fossilized4/SpaceX-Landing-Pads/zipball/3.0",
+    "download_size": 17352314,
+    "download_hash": {
+        "sha1": "2B38DECC5959C88BC354E241784E7E2AD00B62A8",
+        "sha256": "0DBFAD16B4720879CB691D5170C69778BEE7FDC5EF431112A8D21915511344F4"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 18321009,
+    "release_date": "2022-02-27T17:44:14Z",
+    "x_generated_by": "netkan"
+}

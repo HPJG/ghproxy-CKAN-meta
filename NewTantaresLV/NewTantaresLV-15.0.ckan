@@ -1,0 +1,38 @@
+{
+    "spec_version": 1,
+    "identifier": "NewTantaresLV",
+    "name": "Tantares LV",
+    "abstract": "Stockalike Proton & More",
+    "author": "Beale",
+    "license": "CC-BY-NC-SA-4.0",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/81537",
+        "spacedock": "https://spacedock.info/mod/176/TantaresLV%20-%20Stockalike%20Launch%20Vehicles",
+        "x_screenshot": "https://spacedock.info/content/Beale_838/TantaresLV_-_Stockalike_Launch_Vehicles/TantaresLV_-_Stockalike_Launch_Vehicles-1455884366.676436.png"
+    },
+    "version": "15.0",
+    "ksp_version": "1.0.5",
+    "suggests": [
+        {
+            "name": "Tantares"
+        },
+        {
+            "name": "CommunityTechTree"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/TantaresLV",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/176/TantaresLV%20-%20Stockalike%20Launch%20Vehicles/download/15.0",
+    "download_size": 8962043,
+    "download_hash": {
+        "sha1": "0EF74F57C252ECBA8FB2D5F3E669EEFCD872B6F6",
+        "sha256": "4713785564615CE45677BFE91499A4E2AD4D9C8566A779DD78BF0118A542A587"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

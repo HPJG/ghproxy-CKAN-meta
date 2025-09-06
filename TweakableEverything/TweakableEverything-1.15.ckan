@@ -1,0 +1,42 @@
+{
+    "spec_version": 1,
+    "identifier": "TweakableEverything",
+    "name": "TweakableEverything",
+    "abstract": "For all your part tweaking needs",
+    "author": "toadicus",
+    "license": "BSD-3-clause",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/58773-105-tweakableeverything-114-for-all-your-part-tweaking-needs/",
+        "spacedock": "https://spacedock.info/mod/287/TweakableEverything",
+        "repository": "https://ghproxy.net/https://github.com/toadicus/TweakableEverything",
+        "x_screenshot": "https://spacedock.info/content/toadicus_556/TweakableEverything/TweakableEverything-1456774168.8522005.png"
+    },
+    "version": "1.15",
+    "ksp_version_min": "1.1.0",
+    "ksp_version_max": "1.1.3",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ToadicusTools"
+        },
+        {
+            "name": "EVAManager"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/TweakableEverything",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/287/TweakableEverything/download/1.15",
+    "download_size": 251172,
+    "download_hash": {
+        "sha1": "3FE1796FE3EEA4DEFE9977EDDB5CCB8C3FA8993E",
+        "sha256": "DDEFA0D6615C837EF21663BDBB77139D04D5BD72983AC39719736434688A65F8"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

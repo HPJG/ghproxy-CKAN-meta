@@ -1,0 +1,40 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "MK3PodIVAReplacementbyApex",
+    "name": "MK3 Pod IVA Replacement by Apex",
+    "abstract": "A redesigned interior for the MK3 pod using ASET and RPM props.",
+    "author": "robertlong13",
+    "license": "CC-BY-NC-SA-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/132856-IVA-1-0-4-MK3-Pod-IVA-Replacement-by-Apex-(WIP)",
+        "kerbalstuff": "https://kerbalstuff.com/mod/1120/MK3%20Pod%20IVA%20Replacement%20by%20Apex",
+        "x_screenshot": "https://kerbalstuff.com/content/robertlong13_14182/MK3_Pod_IVA_Replacement_by_Apex/MK3_Pod_IVA_Replacement_by_Apex-1440797986.8460333.png"
+    },
+    "version": "0.1.1",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "RasterPropMonitor-Core"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ASETProps"
+        }
+    ],
+    "install": [
+        {
+            "find": "Apex",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/MK3PodIVAReplacementbyApex-0.1.1/03B0AE7A-MK3PodIVAReplacementbyApex-0.1.1.zip",
+    "download_size": 1237298,
+    "download_hash": {
+        "sha1": "03B0AE7A408BD1F4F9F6F6D763B7B6827DD7DDF1",
+        "sha256": "25BBF4F383FFDC80045FEB435842825DDFAD67614FB2BB44C51B0EFC60729DD9"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

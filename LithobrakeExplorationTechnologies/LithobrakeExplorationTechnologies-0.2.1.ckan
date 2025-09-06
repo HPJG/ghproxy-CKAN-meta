@@ -1,0 +1,35 @@
+{
+    "spec_version": 1,
+    "identifier": "LithobrakeExplorationTechnologies",
+    "name": "Lithobrake Exploration Technologies",
+    "abstract": "A parts pack for exploring other worlds, and returning home. Pods, large legs, large chutes, service bays, long ladders, etc. ",
+    "author": "NecroBones",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/130517",
+        "kerbalstuff": "https://kerbalstuff.com/mod/1052/Lithobrake%20Exploration%20Technologies",
+        "x_screenshot": "https://kerbalstuff.com/content/NecroBones_1035/Lithobrake_Exploration_Technologies/Lithobrake_Exploration_Technologies-1438609125.0961761.jpg"
+    },
+    "version": "0.2.1",
+    "ksp_version_min": "1.0.4",
+    "ksp_version_max": "1.0.5",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "file": "LETech",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/LithobrakeExplorationTechnologies-0.2.1/91EB50D5-LithobrakeExplorationTechnologies-0.2.1.zip",
+    "download_size": 4841090,
+    "download_hash": {
+        "sha1": "91EB50D5788511A5C2435A93D5B6DF1C924DF83C",
+        "sha256": "7498AC88465D63A58E566E1F4AFF0BA2DCE8FF577C5D599512F2276B061D03BF"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

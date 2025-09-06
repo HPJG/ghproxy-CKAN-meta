@@ -1,0 +1,33 @@
+{
+    "spec_version": 1,
+    "identifier": "QuickExit",
+    "name": "QuickExit",
+    "abstract": "QuickExit is a plugin which adds the possibility to exit KSP at any time.",
+    "author": "malah",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/95168",
+        "kerbalstuff": "https://kerbalstuff.com/mod/341/QuickExit"
+    },
+    "version": "v1.01",
+    "ksp_version": "0.25",
+    "suggests": [
+        {
+            "name": "Toolbar"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/QuickExit",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/QuickExit-v1.01/636DE16A-QuickExit-v1.01.zip",
+    "download_size": 39875,
+    "download_hash": {
+        "sha1": "636DE16A55F1FB61CE40923BF7435092D49B4B11",
+        "sha256": "BAA82D51ACCD0DFF05913882AB7C11B4669A6CD4EB5726A0708A3BCFE01D39A1"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

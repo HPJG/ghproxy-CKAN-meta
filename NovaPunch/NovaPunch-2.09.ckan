@@ -1,0 +1,34 @@
+{
+    "spec_version": 1,
+    "identifier": "NovaPunch",
+    "name": "NovaPunch",
+    "abstract": "Novapunch is a pack of realistically-styled rocket parts from 1 to 5 meters in diameter. It includes engines, fuel tanks, many adapters and utility parts as well as new crew capsules and spacecraft.",
+    "author": "Tiberion",
+    "license": "CC-BY-SA-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/3870",
+        "kerbalstuff": "https://kerbalstuff.com/mod/26/NovaPunch",
+        "x_screenshot": "https://kerbalstuff.com/content/Tiberion_62/NovaPunch/NovaPunch.png"
+    },
+    "version": "2.09",
+    "ksp_version": "1.0.2",
+    "install": [
+        {
+            "file": "GameData/NovaPunch2",
+            "install_to": "GameData"
+        },
+        {
+            "file": "Ships/VAB",
+            "install_to": "Ships",
+            "comment": "NovaPunch craft files"
+        }
+    ],
+    "download": "https://s3-us-west-2.amazonaws.com/ksp-ckan/867298B6.zip",
+    "download_size": 59628660,
+    "download_hash": {
+        "sha1": "F7074D4AA8219D4608B27915D24CBCA430EC625C",
+        "sha256": "044DB89DFCEC30E517481568054FAF212602DEC83A39E2FFA74B9EC19F9CF67A"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

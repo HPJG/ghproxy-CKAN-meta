@@ -1,0 +1,32 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "SpacetuxSA",
+    "name": "SpacetuxSA",
+    "abstract": "Common stuff for my mods",
+    "author": "linuxgurugamer",
+    "license": "MIT",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/113400",
+        "spacedock": "https://spacedock.info/mod/53/SpacetuxSA",
+        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/SpaceTux",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/SpacetuxSA/SpacetuxSA-1456622159.0065007.jpg"
+    },
+    "version": "0.3.9.0",
+    "ksp_version_min": "0.90.0",
+    "ksp_version_max": "1.1.1",
+    "install": [
+        {
+            "find": "spacetux",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/53/SpacetuxSA/download/0.3.9.0",
+    "download_size": 187115,
+    "download_hash": {
+        "sha1": "CA67B0B9FAA8B856DBCCD81AA8400328A13D2170",
+        "sha256": "5684ABDD3C944978EF78A50C0422967E421F02865EA2EDB1B86877600C7A9C45"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

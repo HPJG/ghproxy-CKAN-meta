@@ -1,0 +1,34 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "QuizTech",
+    "name": "QuizTech",
+    "abstract": "A pack to enhance your KSP experience with new engines and rocket parts. Plus any extra gizmos that....do stuff!",
+    "author": "Quiznos323",
+    "license": "CC-BY-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/108277-WIP-90-QuizTech-v1-0",
+        "kerbalstuff": "https://kerbalstuff.com/mod/530/QuizTech",
+        "x_screenshot": "https://kerbalstuff.com/content/Quiznos323_5279/QuizTech/QuizTech-1424818723.2333384.png"
+    },
+    "version": "1.2.1",
+    "ksp_version": "0.90.0",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "QuizTech",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://s3-us-west-2.amazonaws.com/ksp-ckan/7AC9701E.zip",
+    "download_size": 1414771,
+    "download_hash": {
+        "sha1": "9328ABE7E170B1E0B5B88DC94AF0CAAED6A000A5",
+        "sha256": "71584C60D5A90B864695F32C0A9C75D47365396F4A7A4B88B9D3A68A7317143F"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

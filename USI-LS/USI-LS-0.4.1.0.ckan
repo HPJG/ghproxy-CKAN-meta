@@ -1,0 +1,47 @@
+{
+    "spec_version": "v1.16",
+    "identifier": "USI-LS",
+    "name": "USI Life Support",
+    "abstract": "UmbraSpaceIndustries take on life support",
+    "author": "RoverDude",
+    "license": "restricted",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/105202-105",
+        "repository": "https://ghproxy.net/https://github.com/UmbraSpaceIndustries/USI-LS"
+    },
+    "version": "0.4.1.0",
+    "ksp_version": "1.1.0",
+    "depends": [
+        {
+            "name": "ModuleManager",
+            "min_version": "2.5.1"
+        },
+        {
+            "name": "USITools"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "SETI-CommunityTechTree"
+        },
+        {
+            "name": "TACLS"
+        }
+    ],
+    "install": [
+        {
+            "find": "UmbraSpaceIndustries/LifeSupport",
+            "install_to": "GameData/UmbraSpaceIndustries"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/UmbraSpaceIndustries/USI-LS/releases/download/0.4.1.0/USI-LS_0.4.1.0.zip",
+    "download_size": 1768566,
+    "download_hash": {
+        "sha1": "C2DA57CE9271C0AF27295C6F311502F718A713CE",
+        "sha256": "D5961B8CA70B66EB087BF8108B74B4C771CFEDCAB33BB9B77E39EADD4AE2C1D5"
+    },
+    "download_content_type": "application/zip",
+    "x_last_revision_by": "harryyoung",
+    "x_generated_by": "netkan"
+}

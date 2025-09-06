@@ -1,0 +1,48 @@
+{
+    "spec_version": "v1.16",
+    "identifier": "MechJeb2",
+    "name": "MechJeb 2",
+    "abstract": "Anatid Robotics and Multiversal Mechatronics proudly presents the first flight assistant autopilot: MechJeb",
+    "author": "Sarbian",
+    "version": "2.12.3.0",
+    "ksp_version_min": "1.8",
+    "ksp_version_max": "1.12.90",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/154834-*",
+        "repository": "https://ghproxy.net/https://github.com/MuMech/MechJeb2",
+        "ci": "https://ksp.sarbian.com/jenkins/job/MechJeb2-Release/"
+    },
+    "tags": [
+        "plugin",
+        "information",
+        "control"
+    ],
+    "localizations": [
+        "en-us",
+        "es-es",
+        "fr-fr",
+        "ru",
+        "zh-cn"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "MechJeb2",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ksp.sarbian.com/jenkins/job/MechJeb2-Release/32/artifact/MechJeb2-2.12.3.0.zip",
+    "download_size": 3959238,
+    "download_hash": {
+        "sha1": "4E5196BDBD815401BE51F85EBCD9145FD147A263",
+        "sha256": "089FF399300D96C2BC9A9DE5AEF23F9BB9C93DAAD8765800C97E428C22349FE9"
+    },
+    "download_content_type": "application/zip",
+    "release_date": "2022-03-31T16:10:04.92Z",
+    "x_generated_by": "netkan"
+}

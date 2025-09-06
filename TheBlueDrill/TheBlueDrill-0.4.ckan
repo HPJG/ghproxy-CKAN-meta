@@ -1,0 +1,39 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "TheBlueDrill",
+    "name": "The Blue Drill",
+    "abstract": "ISRU drill for Xenon and Argon",
+    "author": "silversliver",
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/118366-105-blue-technologies/",
+        "spacedock": "https://spacedock.info/mod/292/The%20Blue%20Drill",
+        "x_screenshot": "https://spacedock.info/content/silversliver_1588/The_Blue_Drill/The_Blue_Drill-1456569403.8556376.png"
+    },
+    "version": "0.4",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "NearFuturePropulsion"
+        }
+    ],
+    "install": [
+        {
+            "find": "BlueTech",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/292/The%20Blue%20Drill/download/0.4",
+    "download_size": 280412,
+    "download_hash": {
+        "sha1": "88B6BFE5C764E087F4854A31C5D736E1BE83C9DB",
+        "sha256": "C6CF0B073F36E5C8E1280172B12ADEF47E71C380FABC6C07F51092E99C1F91DC"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

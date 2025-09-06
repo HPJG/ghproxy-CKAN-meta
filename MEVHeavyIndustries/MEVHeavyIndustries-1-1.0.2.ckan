@@ -1,0 +1,49 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "MEVHeavyIndustries",
+    "name": "MEV Heavy Industries (MEV)",
+    "abstract": "Daedalus, Bussard and Epstein drives for Kerbal Space Program.",
+    "author": [
+        "Cyne",
+        "zer0Kerbal"
+    ],
+    "version": "1:1.0.2",
+    "ksp_version": "1.12.3",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/209730-*/",
+        "spacedock": "https://spacedock.info/mod/2621/MEV%20Heavy%20Industries%20(MEV)",
+        "repository": "https://ghproxy.net/https://github.com/zer0Kerbal/MEVHeavyIndustries",
+        "bugtracker": "https://ghproxy.net/https://github.com/zer0Kerbal/MEVHeavyIndustries/issues",
+        "x_screenshot": "https://spacedock.info/content/Cyne_52701/MEV_Heavy_Industries_MEV/MEV_Heavy_Industries_MEV-1662952646.jpg"
+    },
+    "tags": [
+        "parts"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "InterstellarFuelSwitch-Core"
+        }
+    ],
+    "install": [
+        {
+            "find": "MEVFusionTek",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2621/MEV%20Heavy%20Industries%20(MEV)/download/1.0.2",
+    "download_size": 1001901,
+    "download_hash": {
+        "sha1": "E793DD3DF114A3148B168811766C1F6F9B883B15",
+        "sha256": "D717054C94CCE8BB23D686A9532149467C5EEEFD13C5E5977F11D730D17F6237"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 2305679,
+    "release_date": "2021-01-18T10:29:28.127294+00:00",
+    "x_generated_by": "netkan"
+}

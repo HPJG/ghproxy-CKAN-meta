@@ -1,0 +1,33 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "StructuralWings",
+    "name": "StructuralWings",
+    "abstract": "Duplicates most of the stock wings, but removes their aerodynamic properties. This makes them structural, and are a great replacement for panels.",
+    "author": "Dankgum",
+    "version": "1.0",
+    "ksp_version": "1.4.2",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/172003-141-structural-wings/",
+        "spacedock": "https://spacedock.info/mod/1733/StructuralWings"
+    },
+    "tags": [
+        "config",
+        "parts"
+    ],
+    "install": [
+        {
+            "file": "StructualWings",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1733/StructuralWings/download/1.0",
+    "download_size": 17994,
+    "download_hash": {
+        "sha1": "DD6981AABEA7FA2B4EEC47F16BD58A70CF3F1758",
+        "sha256": "731A395CF3BB6291C1EB6518BD16614F8DDC1418929173476D260816AFC72BCB"
+    },
+    "download_content_type": "application/zip",
+    "release_date": "2018-03-10T07:53:33.50962+00:00",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,33 @@
+{
+    "spec_version": 1,
+    "identifier": "SpaceY-Lifters",
+    "name": "SpaceY Heavy Lifters Parts Pack",
+    "abstract": "5m rocket parts and large SRBs, rocket-powered decouplers, large docking ports, upper-stage thrust plates with fairings, payload bays, and more. ",
+    "author": "NecroBones",
+    "license": "CC-BY-NC-SA",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/100408",
+        "kerbalstuff": "https://kerbalstuff.com/mod/352/SpaceY%20Heavy%20Lifters%20Parts%20Pack",
+        "x_screenshot": "https://kerbalstuff.com/content/NecroBones_1035/SpaceY_Heavy_Lifters_Parts_Pack/SpaceY_Heavy_Lifters_Parts_Pack.jpg"
+    },
+    "version": "1.0.4",
+    "ksp_version": "1.0.4",
+    "recommends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "SpaceY-Expanded"
+        }
+    ],
+    "download": "https://archive.org/download/SpaceY-Lifters-1.0.4/22DDD527-SpaceY-Lifters-1.0.4.zip",
+    "download_size": 17910868,
+    "download_hash": {
+        "sha1": "22DDD527443BDE76DC179518F77D5AA6412F46CF",
+        "sha256": "45F20F0F9F877413FF3C42405EFF350A3B2B82134BFCC59A3A3E1139438A583E"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

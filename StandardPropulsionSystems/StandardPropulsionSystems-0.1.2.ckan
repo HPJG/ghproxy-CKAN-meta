@@ -1,0 +1,30 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "StandardPropulsionSystems",
+    "name": "Standard Propulsion Systems",
+    "abstract": "A vaguely stockalike standardized rocket construction pack.",
+    "author": "Starbuckminsterfullerton",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/132849-1-0-4-Standard-Propulsion-Systems-(28-08-2015)",
+        "kerbalstuff": "https://kerbalstuff.com/mod/1119/Standard%20Propulsion%20Systems",
+        "x_screenshot": "https://kerbalstuff.com/content/Starbuckminsterfullerton_14184/Standard_Propulsion_Systems/Standard_Propulsion_Systems-1440793898.0212312.png"
+    },
+    "version": "0.1.2",
+    "ksp_version": "1.0.5",
+    "install": [
+        {
+            "find": "SPS",
+            "install_to": "GameData",
+            "filter": ".DS_Store"
+        }
+    ],
+    "download": "https://archive.org/download/StandardPropulsionSystems-0.1.2/520A6D2B-StandardPropulsionSystems-0.1.2.zip",
+    "download_size": 1407771,
+    "download_hash": {
+        "sha1": "520A6D2B6BE61B341D6DD81B7BDCFF3FBD0F398B",
+        "sha256": "A73348035FF3197162A0198224ECCBCAD1DD9923F0483F634C9F85ACB9790532"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,57 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "NearFutureSolar",
+    "name": "Near Future Solar",
+    "abstract": "A pack of futuristic stockalike solar panels",
+    "author": "Nertea",
+    "license": "CC-BY-NC-SA-4.0",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/52042-0-21",
+        "repository": "https://ghproxy.net/https://github.com/ChrisAdderley/NearFutureSolar",
+        "kerbalstuff": "https://kerbalstuff.com/mod/346/Near%20Future%20Solar",
+        "x_screenshot": "https://kerbalstuff.com/content/Nertea_3884/Near_Future_Solar/Near_Future_Solar.png"
+    },
+    "version": "0.5.5",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "NearFutureSolar-Core"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "NearFutureConstruction"
+        },
+        {
+            "name": "NearFutureElectrical"
+        },
+        {
+            "name": "NearFuturePropulsion"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        }
+    ],
+    "install": [
+        {
+            "find": "NearFutureSolar",
+            "install_to": "GameData",
+            "filter": "NearFutureSolar.dll"
+        }
+    ],
+    "download": "https://archive.org/download/NearFutureSolar-0.5.5/83D4436D-NearFutureSolar-0.5.5.zip",
+    "download_size": 3099477,
+    "download_hash": {
+        "sha1": "83D4436D65B6501234256115088E74C13C819C12",
+        "sha256": "F49D96013F8B8BE748381C677D91C3A77BB1EA8705E960589ADF774E0254DBED"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

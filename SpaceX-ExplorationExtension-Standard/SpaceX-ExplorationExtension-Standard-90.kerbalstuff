@@ -1,0 +1,44 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "SpaceX-ExplorationExtension-Standard",
+    "name": "SpaceX Exploration Expansion by LazTek",
+    "abstract": "An 11-piece, add-on, planetary exploration parts pack for the SpaceX Launch Pack that includes advanced engines, a habitat, fuel tanks and fairings.",
+    "author": "Lazarus",
+    "license": "restricted",
+    "resources": {
+        "kerbalstuff": "https://kerbalstuff.com/mod/521/SpaceX%20Exploration%20Expansion%20by%20LazTek",
+        "x_screenshot": "https://kerbalstuff.com/content/Lazarus_1460/SpaceX_Exploration_Expansion_by_LazTek/SpaceX_Exploration_Expansion_by_LazTek.png"
+    },
+    "version": "90",
+    "ksp_version": "0.90.0",
+    "provides": [
+        "SpaceX-ExplorationExtension"
+    ],
+    "depends": [
+        {
+            "name": "SpaceX-LaunchPack"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "SpaceX-ExplorationExtension-LR"
+        },
+        {
+            "name": "SpaceX-ExplorationExtension-HD"
+        }
+    ],
+    "install": [
+        {
+            "find": "LazTek",
+            "install_to": "GameData",
+            "filter_regexp": "Flags"
+        },
+        {
+            "find": "VAB",
+            "install_to": "Ships"
+        }
+    ],
+    "download": "https://kerbalstuff.com/mod/521/SpaceX%20Exploration%20Expansion%20by%20LazTek/download/90",
+    "download_size": 13409592,
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,29 @@
+{
+    "spec_version": 1,
+    "identifier": "NKRsDEM",
+    "name": "NKR's DEM",
+    "abstract": "North Kerbin Rokwell's Duna Excursion Module",
+    "author": "TiktaalikDreaming",
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/134450-wip-north-american-rockwell-mars-excursion-module/",
+        "spacedock": "https://spacedock.info/mod/425/NKR's%20DEM",
+        "x_screenshot": "https://spacedock.info/content/TiktaalikDreaming_235/NKRs_DEM/NKRs_DEM-1458902086.6780267.png"
+    },
+    "version": "0.7",
+    "ksp_version": "1.1.3",
+    "install": [
+        {
+            "file": "GameData/NAR_MEM",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/425/NKR%27s%20DEM/download/0.7",
+    "download_size": 10350465,
+    "download_hash": {
+        "sha1": "BA58621004F7716A1081F1EEC36A438BF4148615",
+        "sha256": "F06001ADDDBE331D569E6F80554BFB3903D2CEA4DD61DE4AABB7F82425F5A9E8"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

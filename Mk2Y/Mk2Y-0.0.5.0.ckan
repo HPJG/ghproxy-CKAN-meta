@@ -1,0 +1,53 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "Mk2Y",
+    "name": "Mk2Y",
+    "abstract": "A mod that adds three parts - two versions of a two-kerbal pod, and a matching RCS enabled heat shield ",
+    "author": [
+        "Yarbrough08",
+        "zer0Kerbal"
+    ],
+    "version": "0.0.5.0",
+    "ksp_version_min": "1.7.1",
+    "ksp_version_max": "1.8.9999",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/192095-*",
+        "spacedock": "https://spacedock.info/mod/2358/Mk2Y",
+        "repository": "https://ghproxy.net/https://github.com/zer0Kerbal/MK2Y",
+        "bugtracker": "https://ghproxy.net/https://github.com/zer0Kerbal/MK2Y/issues",
+        "discussions": "https://ghproxy.net/https://github.com/zer0Kerbal/MK2Y/discussions",
+        "remote-avc": "https://ghproxy.net/https://github.com/zer0Kerbal/Mk2Y/raw/master/Mk2Y.version",
+        "x_screenshot": "https://spacedock.info/content/zer0Kerbal_21147/Mk2Y/Mk2Y-1583192473.7851026.png"
+    },
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "KerbalChangelog"
+        }
+    ],
+    "install": [
+        {
+            "find": "Yarbrough",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2358/Mk2Y/download/0.0.5.0",
+    "download_size": 3155807,
+    "download_hash": {
+        "sha1": "5F3393E800AC3FB1CB0897BE95EBE4E018B14166",
+        "sha256": "A81752B9ADD315B00B9733681154684174D27E09B8F1B14666EEA9105243957F"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 9483615,
+    "release_date": "2020-03-02T23:25:34.962152+00:00",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,33 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "SETI-RemoteTech",
+    "name": "RemoteTech - SETI Config",
+    "abstract": "This is a SETI config for RemoteTech, adding ground stations, changing the KSC range to cover the whole kerbol system (when not obstructed), setting signal delay to false and tweaking some colors.",
+    "author": "Y3mo",
+    "license": "GPL-2.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/106130",
+        "repository": "https://ghproxy.net/https://github.com/Y3mo/SETI-RemoteTech"
+    },
+    "version": "1.0.5",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "RemoteTech"
+        }
+    ],
+    "install": [
+        {
+            "find": "RemoteTech",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/Y3mo/SETI-RemoteTech/releases/download/1.0.5/SETI-RemoteTech-1.0.5.zip",
+    "download_size": 1936,
+    "download_hash": {
+        "sha1": "681C9EF04FB88B6A67EB77985359316CC371C329",
+        "sha256": "D9450C3985742F79807CCBA293162679C837B9D6090C17B7EB19BA2E4A25BAA9"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,45 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "SukhoiAircraftSU25FrogFoot",
+    "name": "Sukhoi Aircraft SU25 Frog Foot",
+    "abstract": "The Soviet Unions Flying Tank.",
+    "author": "LuizChacon",
+    "license": "WTFPL",
+    "resources": {
+        "homepage": "http://starbaseone.freeforums.net/",
+        "kerbalstuff": "https://kerbalstuff.com/mod/1247/Sukhoi%20Aircraft%20SU25%20Frog%20Foot",
+        "x_screenshot": "https://kerbalstuff.com/content/LuizChacon_128/Sukhoi_Aircraft_SU25_Frog_Foot/Sukhoi_Aircraft_SU25_Frog_Foot-1446949528.7319894.png"
+    },
+    "version": "1.0",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "FirespitterCore"
+        },
+        {
+            "name": "BahamutoDynamicsPartsPack"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "BDArmory"
+        },
+        {
+            "name": "AdjustableLandingGear"
+        }
+    ],
+    "install": [
+        {
+            "find": "SU25_Frog_Foot",
+            "install_to": "GameData/Skunk_Works"
+        }
+    ],
+    "download": "https://archive.org/download/SukhoiAircraftSU25FrogFoot-1.0/01FB9989-SukhoiAircraftSU25FrogFoot-1.0.zip",
+    "download_size": 11671449,
+    "download_hash": {
+        "sha1": "01FB9989DB187E69EB5681FED4D0C0F241F52FF0",
+        "sha256": "3B6A185B04C70FA8B4B59146EC6673CC49D0B31D998F4CF25ECE396419AB7423"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

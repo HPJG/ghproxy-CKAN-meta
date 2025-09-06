@@ -1,0 +1,22 @@
+{
+    "spec_version": 1,
+    "identifier": "Mk1CargoBay",
+    "name": "Mk 1 Cargo Bay",
+    "abstract": "A small cargo bay matching the Squad Mk 1 spaceplane fuselage system. Opening door using stock animation module.",
+    "author": "Roxette",
+    "license": "CC-BY-SA-3.0",
+    "resources": {
+        "kerbalstuff": "https://kerbalstuff.com/mod/706/Mk%201%20Cargo%20Bay",
+        "x_screenshot": "https://kerbalstuff.com/content/Roxette_8905/Mk_1_Cargo_Bay/Mk_1_Cargo_Bay-1429550796.9307292.jpg"
+    },
+    "version": "1.01",
+    "ksp_version": "0.90.0",
+    "download": "https://archive.org/download/Mk1CargoBay-1.01/69A51C43-Mk1CargoBay-1.01.zip",
+    "download_size": 332150,
+    "download_hash": {
+        "sha1": "69A51C43517153079C247CAC284B4438CF767FEE",
+        "sha256": "1CC25643C19478195DCE70643C05AEC1C2765619A62E7A7CC32F4373A7ECDFD9"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

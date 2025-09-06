@@ -1,0 +1,36 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "LargeBoatPartsPack",
+    "name": "Large Boat Parts Pack",
+    "abstract": "A less parts, More FPS, Ship building experience.",
+    "author": "Laythe",
+    "license": "CC-BY-SA-4.0",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/167/Large%20Boat%20Parts%20Pack",
+        "x_screenshot": "https://spacedock.info/content/Laythe_614/Large_Boat_Parts_Pack/Large_Boat_Parts_Pack-1456263922.938901.jpg"
+    },
+    "version": "2.2",
+    "ksp_version": "1.0.5",
+    "suggests": [
+        {
+            "name": "WasdEditorCameraContinued"
+        },
+        {
+            "name": "VesselMover"
+        }
+    ],
+    "install": [
+        {
+            "find": "LShipParts",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/167/Large%20Boat%20Parts%20Pack/download/2.2",
+    "download_size": 166416,
+    "download_hash": {
+        "sha1": "00DAE4A3CE35D1638A1B9FDA13E02FA734CB4889",
+        "sha256": "2FEF061B573DB2DF3CF4EBA3BE5E0547668064F674169291558C28412F9A7FBE"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

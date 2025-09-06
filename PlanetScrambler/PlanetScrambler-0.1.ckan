@@ -1,0 +1,31 @@
+{
+    "spec_version": 1,
+    "identifier": "PlanetScrambler",
+    "name": "PlanetScrambler",
+    "abstract": "Add some novelty to your KSP system by randomizing the orbits of planets and moons.",
+    "author": "CelestialMechanic",
+    "license": "CC-BY-NC-SA",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/120311",
+        "repository": "https://ghproxy.net/https://github.com/CelMech/PlanetScrambler",
+        "kerbalstuff": "https://kerbalstuff.com/mod/768/PlanetScrambler",
+        "x_screenshot": "https://kerbalstuff.com/content/CelestialMechanic_9871/PlanetScrambler/PlanetScrambler-1431135439.8997405.png"
+    },
+    "version": "0.1",
+    "ksp_version": "1.0.2",
+    "install": [
+        {
+            "file": "GameData/PlanetScrambler.dll",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://s3-us-west-2.amazonaws.com/ksp-ckan/DABCEE36.zip",
+    "download_size": 10468,
+    "download_hash": {
+        "sha1": "AAA7931F65CB069CF480A9F4E1CA6DD2B9240332",
+        "sha256": "F70834956325CB2C4C888D65D12E172C94F5047D2E82B5C74D0BD7C14108A9E7"
+    },
+    "download_content_type": "application/zip",
+    "x_via": "Automated KerbalStuff CKAN submission",
+    "x_generated_by": "netkan"
+}

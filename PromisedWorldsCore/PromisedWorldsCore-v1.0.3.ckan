@@ -1,0 +1,76 @@
+{
+    "spec_version": "v1.34",
+    "identifier": "PromisedWorldsCore",
+    "name": "Promised Worlds - Core",
+    "abstract": "Core dependencies for the faithful recreation of KSP 2 star systems in KSP",
+    "author": [
+        "PromisedWorldsDevTeam",
+        "averageksp"
+    ],
+    "version": "v1.0.3",
+    "ksp_version_min": "1.12.0",
+    "ksp_version_max": "1.12.99",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://spacedock.info/mod/3974/Promised%20Worlds%20-%20Core",
+        "spacedock": "https://spacedock.info/mod/3974/Promised%20Worlds%20-%20Core",
+        "repository": "https://ghproxy.net/https://github.com/PromisedWorlds/PromisedWorlds",
+        "bugtracker": "https://ghproxy.net/https://github.com/PromisedWorlds/PromisedWorlds/issues",
+        "remote-avc": "https://raw.githubusercontent.com/PromisedWorlds/PromisedWorlds/refs/heads/main/GameData/PromisedWorlds/Version/PromisedWorldsCore.version",
+        "x_screenshot": "https://spacedock.info/content/PromisedWorldsDevTeam_171123/Promised_Worlds_-_Core/Promised_Worlds_-_Core-1756421851.jpg"
+    },
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "depends": [
+        {
+            "name": "Singularity"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "ScaledDecorator"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "KopernicusExpansion"
+        },
+        {
+            "name": "VertexMitchellNetravaliHeightMap"
+        },
+        {
+            "name": "VertexColorMapEmissive"
+        },
+        {
+            "name": "VertexHeightOblateAdvanced"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "PromisedWorldsDebdeb"
+        }
+    ],
+    "install": [
+        {
+            "find": "PromisedWorlds",
+            "install_to": "GameData"
+        }
+    ],
+    "download": [
+        "https://ghproxy.net/https://github.com/PromisedWorlds/PromisedWorlds/releases/download/v1.0.3/PromisedWorlds_V1.0.3_Core.zip",
+        "https://spacedock.info/mod/3974/Promised%20Worlds%20-%20Core/download/1.0.3"
+    ],
+    "download_size": 35282989,
+    "download_hash": {
+        "sha1": "CA13B2E172AB3E36E62908EB4EAB26D11EBA6834",
+        "sha256": "E3DFA8E02F74153C834A2BE26B0D1CBA465C1DA3FC3668BFB230EA4034A4120A"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 55564122,
+    "release_date": "2025-09-04T00:17:28.916043+00:00",
+    "x_generated_by": "netkan"
+}

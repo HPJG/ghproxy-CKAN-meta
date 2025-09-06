@@ -1,0 +1,37 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "OPTSpacePlaneParts",
+    "name": "OPT Space Plane Parts",
+    "abstract": "A set of larger space plane/station parts",
+    "author": "kyeon",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/97525-0-90-WIP-DEV-OPT-V1-5-Mk3-Space-Shuttle-Expansions?p=1490754#post1490754",
+        "kerbalstuff": "https://kerbalstuff.com/mod/340/OPT%20Space%20Plane%20Parts",
+        "x_screenshot": "https://kerbalstuff.com/content/kyeon_4065/OPT_Space_Plane_Parts/OPT_Space_Plane_Parts-1436064647.6267245.png"
+    },
+    "version": "V1.7",
+    "ksp_version": "1.0.4",
+    "depends": [
+        {
+            "name": "FirespitterCore"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "OPT",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/OPTSpacePlaneParts-V1.7/FC29C5A3-OPTSpacePlaneParts-V1.7.zip",
+    "download_size": 34183006,
+    "download_hash": {
+        "sha1": "FC29C5A3DEF6786457C06EB25FF21C9EC8B920C8",
+        "sha256": "C500CABA840513D330C46C0AF90DCAF90DDB0B6BA4EE65FFDD6F8445909E597C"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

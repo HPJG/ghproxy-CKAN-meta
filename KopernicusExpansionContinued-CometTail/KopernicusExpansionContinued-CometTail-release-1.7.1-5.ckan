@@ -1,0 +1,48 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "KopernicusExpansionContinued-CometTail",
+    "name": "Kopernicus Expansion Continued - Comet Tail",
+    "abstract": "A partially continuation of KopernicusExpansion by Mr. HappyFace",
+    "author": [
+        "MrHappyFace",
+        "StollD"
+    ],
+    "version": "release-1.7.1-5",
+    "ksp_version": "1.7",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/119211-*",
+        "repository": "https://ghproxy.net/https://github.com/StollD/KopernicusExpansion-Continued",
+        "bugtracker": "https://ghproxy.net/https://github.com/StollD/KopernicusExpansion-Continued/issues"
+    },
+    "tags": [
+        "plugin",
+        "graphics"
+    ],
+    "depends": [
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "KopernicusExpansionContinued-Common"
+        }
+    ],
+    "install": [
+        {
+            "find": "KopernicusExpansion",
+            "install_to": "GameData",
+            "filter": [
+                "KEX-Common.dll"
+            ]
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/StollD/KopernicusExpansion-Continued/releases/download/release-1.7.1-5/KEX-CometTail-1.7.1-5.zip",
+    "download_size": 71563,
+    "download_hash": {
+        "sha1": "DE0847D15B7D81E64B807AA2C171FD7709CDE91F",
+        "sha256": "2A0C6F0F9AA5E4533DBD1989BA2BF9FFF09E8FFFA4996E67AC77C41727DCE174"
+    },
+    "download_content_type": "application/zip",
+    "release_date": "2019-06-08T18:04:20Z",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,53 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "QuarterRSS",
+    "name": "Quarter Size Real Solar System",
+    "abstract": "QuarterRSS is a mod that uses the great work from NathanKell and creates our Real Solar System at 1/4 the size. QuarterRSS is still 2.5 times larger than stock KSP and provides a huge challenge to players, but can be achieved with stock parts.",
+    "author": "pap1723",
+    "version": "1.0",
+    "ksp_version": "1.2.2",
+    "license": "CC-BY-NC-SA",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/160191-*",
+        "repository": "https://ghproxy.net/https://github.com/pap1723/Quarter-RSS",
+        "bugtracker": "https://ghproxy.net/https://github.com/pap1723/Quarter-RSS/issues"
+    },
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "depends": [
+        {
+            "name": "ModularFlightIntegrator"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "QuarterRSS-Textures"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "CustomAsteroids"
+        }
+    ],
+    "install": [
+        {
+            "find": "QuarterRSS",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/pap1723/Quarter-RSS/releases/download/1.0/Quarter-RSS-v10.zip",
+    "download_size": 13701115,
+    "download_hash": {
+        "sha1": "49F519C3489D5941891DD0519A121B5347DBF3C5",
+        "sha256": "B103EEE275E8866E153957F2D9A85CCA1A9A3E98055DCC0EEB2E8F0E9A61AFD3"
+    },
+    "download_content_type": "application/zip",
+    "release_date": "2017-05-04T19:03:49Z",
+    "x_generated_by": "netkan"
+}

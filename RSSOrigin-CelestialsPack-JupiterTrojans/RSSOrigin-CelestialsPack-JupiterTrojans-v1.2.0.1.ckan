@@ -1,0 +1,41 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "RSSOrigin-CelestialsPack-JupiterTrojans",
+    "name": "RSS-Origin CelestialsPack JupiterTrojans",
+    "abstract": "Exclusive add-ons with hundreds of asteroids, comets, moons and overhauls RSS",
+    "author": "CharonSSS",
+    "version": "v1.2.0.1",
+    "ksp_version": "1.12",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "repository": "https://ghproxy.net/https://github.com/CharonSSS/RSS-Origin",
+        "bugtracker": "https://ghproxy.net/https://github.com/CharonSSS/RSS-Origin/issues"
+    },
+    "tags": [
+        "planet-pack"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RSSOrigin"
+        }
+    ],
+    "install": [
+        {
+            "find": "RSSOrigin",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/CharonSSS/RSS-Origin/releases/download/v1.2.0.1/RSS-Origin.CelestialsPack.JupiterTrojans.zip",
+    "download_size": 57702557,
+    "download_hash": {
+        "sha1": "7A6EB437037D2A06BBF8E00BA27B924E2F435DBA",
+        "sha256": "930C08BAA1C6F044A3A3D998FEB9D80D16B724C2E137B5E78C31FCAC73B901E0"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 167822255,
+    "release_date": "2025-08-27T05:37:54Z",
+    "x_generated_by": "netkan"
+}

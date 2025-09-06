@@ -1,0 +1,30 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "TDIndustrysOrionbits10m",
+    "name": "TD Industry's Orion bits 10m",
+    "abstract": "Parts to build project Orion craft with a 10m diameter pusher plate",
+    "author": "TiktaalikDreaming",
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/112077-TD-Industries-Orion-bits-Alpha",
+        "kerbalstuff": "https://kerbalstuff.com/mod/586/TD%20Industry's%20Orion%20bits%2010m",
+        "x_screenshot": "https://kerbalstuff.com/content/TiktaalikDreaming_7164/TD_Industrys_Orion_bits_10m/TD_Industrys_Orion_bits_10m-1425176905.3994799.jpg"
+    },
+    "version": "0.26",
+    "ksp_version": "0.90.0",
+    "install": [
+        {
+            "file": "GameData/TD-Orion-10m",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/TDIndustrysOrionbits10m-0.26/39BF36BC-TDIndustrysOrionbits10m-0.26.zip",
+    "download_size": 29791605,
+    "download_hash": {
+        "sha1": "39BF36BCAC75CCB3921132AEE14AA9698E5D9C85",
+        "sha256": "4DEF07A6C78C79D8F459630A450C91D1B87BA41EB4BC67FFD0C553FE25A49767"
+    },
+    "download_content_type": "application/zip",
+    "x_via": "Automated KerbalStuff CKAN submission",
+    "x_generated_by": "netkan"
+}

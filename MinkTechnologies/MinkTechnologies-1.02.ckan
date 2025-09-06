@@ -1,0 +1,22 @@
+{
+    "spec_version": 1,
+    "identifier": "MinkTechnologies",
+    "name": "Mink Technologies",
+    "abstract": "Small Insignificant mod that I will keep developing as I learn to mod ksp, don't expect anything big soon.",
+    "author": "KM3",
+    "license": "MIT",
+    "resources": {
+        "kerbalstuff": "https://kerbalstuff.com/mod/696/Mink%20Technologies"
+    },
+    "version": "1.02",
+    "ksp_version": "1.0.4",
+    "download": "https://archive.org/download/MinkTechnologies-1.02/AC5BB1BC-MinkTechnologies-1.02.zip",
+    "download_size": 507940,
+    "download_hash": {
+        "sha1": "AC5BB1BCE3E456246466C72D2E81887326412BDE",
+        "sha256": "7F518063FDABF578EE44687C8ECC1B628D3F32CC2BFF65E6B8088A6E84501610"
+    },
+    "download_content_type": "application/zip",
+    "x_via": "Automated KerbalStuff CKAN submission",
+    "x_generated_by": "netkan"
+}

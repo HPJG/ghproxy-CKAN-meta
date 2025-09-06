@@ -1,0 +1,36 @@
+{
+    "spec_version": 1,
+    "identifier": "MOVAP",
+    "name": "MOVAP",
+    "abstract": "No longer available - MOdular Vtol trAining Program: provide parts to help people who want to build and/or learn how to fly a VTOL ",
+    "author": "KerbiceGroup",
+    "license": "restricted",
+    "version": "1.0",
+    "ksp_version": "0.23",
+    "recommends": [
+        {
+            "name": "EditorExtensions"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/Kerbice Group",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://kerbalstuff.com/mod/581/MOVAP/download/1.0",
+    "download_size": 2765777,
+    "depends ": [
+        {
+            "name": "FirespitterCore"
+        }
+    ],
+    "suggests ": [
+        {
+            "name": "simplewings"
+        },
+        {
+            "name": "Firespitter"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "halocharactercostumes",
+    "name": "halo character costumes",
+    "abstract": "adds a few costumes from halo for master je",
+    "author": "amankduffers",
+    "license": "MIT",
+    "resources": {
+        "kerbalstuff": "https://kerbalstuff.com/mod/1149/halo%20character%20costumes",
+        "x_screenshot": "https://kerbalstuff.com/content/amankduffers_8935/halo_character_costumes/halo_character_costumes-1442056248.8508387.png"
+    },
+    "version": "1.1",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "TextureReplacer"
+        }
+    ],
+    "install": [
+        {
+            "find": "Suits",
+            "install_to": "GameData/TextureReplacer",
+            "filter": ".DS_Store"
+        }
+    ],
+    "download": "https://archive.org/download/halocharactercostumes-1.1/0B41FFF0-halocharactercostumes-1.1.zip",
+    "download_size": 7041566,
+    "download_hash": {
+        "sha1": "0B41FFF0884D2A3495DEC3D4F5BC36794AF318BD",
+        "sha256": "AE94396AFFCCEABA840B5BF63974FB58B516F0A27D5C04ACB66DB65D1DF71322"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

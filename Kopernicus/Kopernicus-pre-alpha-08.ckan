@@ -1,0 +1,36 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "Kopernicus",
+    "name": "Kopernicus Planetary System Modifier",
+    "abstract": "Kopernicus Planetary System Modifier",
+    "description": "Kopernicus Planetary System Modifier",
+    "author": "BryceSchroeder",
+    "license": "LGPL-2.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/88168",
+        "repository": "http://github.com/BryceSchroeder/Kopernicus"
+    },
+    "version": "pre-alpha-08",
+    "ksp_version": "1.0",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "Kopernicus",
+            "install_to": "GameData",
+            "filter": "Cache",
+            "comment": "At time of writing the Cache folder does not exist, but it may in the future so we filter it"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/BryceSchroeder/Kopernicus/releases/download/pre-alpha-08/Kopernicus.0.0.8.zip",
+    "download_size": 43552209,
+    "download_hash": {
+        "sha1": "1B6D2A54B47CDA1E6EC1B5558ADB250C8DE513D9",
+        "sha256": "C43B87BCF8D2DB5B50A862DCA07A5C0836FC83E0DD5926BD7B2BA0B0E582B258"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,35 @@
+{
+    "spec_version": 1,
+    "identifier": "USI-Core",
+    "name": "USI Core",
+    "abstract": "Kontainers and Reactors and shared tools for USI mods",
+    "author": "RoverDude",
+    "license": "CC-BY-NC-SA-4.0",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://bobpalmer.github.io/UmbraSpaceIndustries/",
+        "repository": "https://ghproxy.net/https://github.com/UmbraSpaceIndustries/USI_Core"
+    },
+    "version": "0.1.1.0",
+    "ksp_version_min": "1.0.0",
+    "ksp_version_max": "1.0.5",
+    "depends": [
+        {
+            "name": "USITools"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/UmbraSpaceIndustries",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/UmbraSpaceIndustries/USI_Core/releases/download/0.1.1.0/USICore_0.1.1.0.zip",
+    "download_size": 4602965,
+    "download_hash": {
+        "sha1": "0C9E5F28C68D1E46477ADFAA18592AA4CB4B6274",
+        "sha256": "1A0BEBB64CBE6E82359BBDB0DB8A100D93C7C637C87BEB245F1F4F5971B29036"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

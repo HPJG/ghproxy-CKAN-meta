@@ -1,0 +1,31 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "NearFutureElectrical-Core",
+    "name": "Near Future Electrical Core",
+    "abstract": "This is the Near Future Electrical plugin stand-alone, for adding functionality to other mods. It contains no parts and does nothing by itself.",
+    "author": "Nertea",
+    "license": "CC-BY-NC-SA-4.0",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/52042-0-21",
+        "repository": "https://ghproxy.net/https://github.com/ChrisAdderley/NearFutureElectrical",
+        "kerbalstuff": "https://kerbalstuff.com/mod/349/Near%20Future%20Electrical",
+        "x_screenshot": "https://kerbalstuff.com/content/Nertea_3884/Near_Future_Electrical/Near_Future_Electrical.png"
+    },
+    "version": "0.6.0",
+    "ksp_version": "1.0.5",
+    "install": [
+        {
+            "file": "GameData/NearFutureElectrical/Plugins/NearFutureElectrical.dll",
+            "install_to": "GameData/NearFutureElectrical/Plugins"
+        }
+    ],
+    "download": "https://archive.org/download/NearFutureElectrical-Core-0.6.0/D634792B-NearFutureElectrical-Core-0.6.0.zip",
+    "download_size": 11473044,
+    "download_hash": {
+        "sha1": "D634792B4BFA88D0FB89829B0041B484AC716EDE",
+        "sha256": "0D1C8EC77653CA7A37723922FA8DB1D73EF203263765FBD25EE325EF6225B85E"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

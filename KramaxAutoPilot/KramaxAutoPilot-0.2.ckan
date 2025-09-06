@@ -1,0 +1,30 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "KramaxAutoPilot",
+    "name": "Kramax Autopilot",
+    "abstract": "An autopilot for spaceplanes with course guidance and autoland capability",
+    "author": "Kramer",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/135840-1-0-4-Kramax-Autopilot-Course-guidance-and-auto-land-for-spaceplanes",
+        "repository": "https://ghproxy.net/https://github.com/Kramax/KramaxAutoPilot"
+    },
+    "version": "0.2",
+    "ksp_version_min": "1.0.4",
+    "ksp_version_max": "1.0.5",
+    "install": [
+        {
+            "find": "KramaxAutoPilot",
+            "install_to": "GameData",
+            "filter": "KramaxAutoPilot.pdb"
+        }
+    ],
+    "download": "https://archive.org/download/KramaxAutoPilot-0.2/70600D42-KramaxAutoPilot-0.2.zip",
+    "download_size": 94645,
+    "download_hash": {
+        "sha1": "70600D42E81BE7E082937BBF3EE5D53AF5ECE18F",
+        "sha256": "42A9528BCCE051B388BFEA81963E84C46886D3E648F54F113CB4207B1EE645E8"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

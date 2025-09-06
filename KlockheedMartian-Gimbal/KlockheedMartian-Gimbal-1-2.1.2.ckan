@@ -1,0 +1,35 @@
+{
+    "spec_version": 1,
+    "identifier": "KlockheedMartian-Gimbal",
+    "name": "Klockheed Martian General Plugin Functions - Gimbal module",
+    "abstract": "Essential and enormous set of structural, control, propulsion, command and utility parts for aerospace designs.",
+    "author": "dtobi",
+    "license": "CC-BY-NC-ND-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/92630-0-24-2-B9-Aerospace-Release-5",
+        "repository": "https://ghproxy.net/https://github.com/dtobi/km_Gimbal",
+        "kerbalstuff": "https://kerbalstuff.com/mod/132/B9%20Aerospace%20Pack",
+        "x_screenshot": "https://kerbalstuff.com/content/bac9_821/B9_Aerospace_Pack/B9_Aerospace_Pack.jpg"
+    },
+    "version": "1:2.1.2",
+    "ksp_version": "1.0.5",
+    "conflicts": [
+        {
+            "name": "KlockheedMartian"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/Klockheed_Martian_Gimbal",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/KlockheedMartian-Gimbal-2.1.2/3DC8261C-KlockheedMartian-Gimbal-2.1.2.zip",
+    "download_size": 62574548,
+    "download_hash": {
+        "sha1": "3DC8261C8CD978D4D11497EFA293890EFFE3873C",
+        "sha256": "8380B04E6B23397AFE606A940F2BC1D3D586A11C692EE8AA67B5C944A7D05A75"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

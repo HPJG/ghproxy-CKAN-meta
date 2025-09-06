@@ -1,0 +1,39 @@
+{
+    "spec_version": 1,
+    "identifier": "TWR1",
+    "name": "Vertical Velocity Controller",
+    "abstract": "Control your descent speed in discreet increments for soft, controlled skycrane landings.",
+    "author": "Diazo",
+    "license": "GPL-3.0",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/50736",
+        "repository": "https://ghproxy.net/https://github.com/SirDiazo/TWR1"
+    },
+    "version": "1.21",
+    "ksp_version": "1.0",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "Toolbar"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/Diazo",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/SirDiazo/TWR1/releases/download/1.21/VertVel121.zip",
+    "download_size": 18321,
+    "download_hash": {
+        "sha1": "5B0DD25E7A65A03DF6AFB8E4C3E9A0ADD276EE2A",
+        "sha256": "5731992760C4557D57E68197F1875B8AFFEFC4ADAFD44E10C303078CA4256FBA"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

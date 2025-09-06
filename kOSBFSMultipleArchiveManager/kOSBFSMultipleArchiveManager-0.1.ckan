@@ -1,0 +1,35 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "kOSBFSMultipleArchiveManager",
+    "name": "kOS BFS Multiple Archive Manager",
+    "abstract": "The plugin search for folders starting with \"arch_\" in the KSP stock Ships folder (the one where the folder \"Script\" of kOS lives), it makes a list of those folders and you can now change between them at wild. It's possible also to create new archive folders on demand. kOS will do the rest as is always looking for changes in the \"Schips/Script\" folder.",
+    "author": "hashashin",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/134863",
+        "repository": "https://ghproxy.net/https://github.com/hashashin/kos_multiarchive",
+        "kerbalstuff": "https://kerbalstuff.com/mod/1167/kOS%20BFS%20Multiple%20Archive%20Manager",
+        "x_screenshot": "https://kerbalstuff.com/content/hashashin_244/kOS_BFS_Multiple_Archive_Manager/kOS_BFS_Multiple_Archive_Manager-1442930430.1682942.png"
+    },
+    "version": "0.1",
+    "ksp_version": "1.0.4",
+    "depends": [
+        {
+            "name": "kOS"
+        }
+    ],
+    "install": [
+        {
+            "find": "kos_ma",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/kOSBFSMultipleArchiveManager-0.1/81F5B2FB-kOSBFSMultipleArchiveManager-0.1.zip",
+    "download_size": 31872,
+    "download_hash": {
+        "sha1": "81F5B2FB0D7B4B2F8518826332B687572C2D9543",
+        "sha256": "9C6094C5B18721C4660BA1C06B0EA592E13D4E2B51CE35D23438A65E2457919D"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

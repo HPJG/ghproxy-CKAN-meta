@@ -1,0 +1,40 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "StrykersAerospaceandIVAs",
+    "name": "Stryker's Aerospace and IVA's",
+    "abstract": "A modpack that adds IVA's! (Awesome ones though, no one likes crappy ones.) :D",
+    "author": "strykersm",
+    "license": "CC-BY-SA",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/84912-105-strykers-aerospace-and-ivas/#comment-1409948",
+        "kerbalstuff": "https://kerbalstuff.com/mod/1289/Stryker's%20Aerospace%20and%20IVA's",
+        "x_screenshot": "https://kerbalstuff.com/content/strykersm_1142/Strykers_Aerospace_and_IVAs/Strykers_Aerospace_and_IVAs-1448503026.694834.png"
+    },
+    "version": "6.9",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "RasterPropMonitor"
+        },
+        {
+            "name": "ASETProps"
+        },
+        {
+            "name": "ASETAvionics"
+        }
+    ],
+    "install": [
+        {
+            "find": "Stryker Aerospace",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/StrykersAerospaceandIVAs-6.9/6D9A67B3-StrykersAerospaceandIVAs-6.9.zip",
+    "download_size": 3625516,
+    "download_hash": {
+        "sha1": "6D9A67B36A4C18FB030405C7AE9464BC2C04903E",
+        "sha256": "FEB5DA30CEE2C30876AA83B462E1F552DEBCD4E23553370A1A4165890F9BF7DD"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

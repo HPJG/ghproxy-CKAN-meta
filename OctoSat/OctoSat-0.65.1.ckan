@@ -1,0 +1,40 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "OctoSat",
+    "name": "Octosat",
+    "abstract": "Modular Satellite system + Airbus A300 + SOAR concept by Swiss Space Systems",
+    "author": "Nookos",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/124839-105nssoctosat-soar-s3-a300-modular-satellites-reusable-launchers06-6-dec-15/",
+        "spacedock": "https://spacedock.info/mod/146/Octosat",
+        "x_screenshot": "https://spacedock.info/content/Nookos_716/Octosat/Octosat-1455820470.0683727.jpg"
+    },
+    "version": "0.65.1",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "FirespitterCore"
+        },
+        {
+            "name": "BDAnimationModules"
+        }
+    ],
+    "install": [
+        {
+            "find": "NSS",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/146/Octosat/download/0.65.1",
+    "download_size": 10469033,
+    "download_hash": {
+        "sha1": "1B1B8A2CFE84B20477656397FB0273441A6E5FE5",
+        "sha256": "DAB2F364DE457D2F64601651BF838CF017422B2FE48D8E962FCBE4DF0A40EDD9"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

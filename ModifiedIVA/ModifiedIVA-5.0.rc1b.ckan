@@ -1,0 +1,46 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "ModifiedIVA",
+    "name": "Modified IVA",
+    "abstract": "Modified IVAs of several cockpits using ALCOR and RPM assets",
+    "author": "masseflieger",
+    "license": "CC-BY-NC-SA-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/96148-AeroKerbin-Industries-Modified-IVAs",
+        "repository": "http://Config%20File.",
+        "kerbalstuff": "https://kerbalstuff.com/mod/252/Modified%20IVA",
+        "x_screenshot": "https://kerbalstuff.com/content/masseflieger_698/Modified_IVA/Modified_IVA.png"
+    },
+    "version": "5.0.rc1b",
+    "ksp_version": "1.0.4",
+    "depends": [
+        {
+            "name": "RasterPropMonitor-Core"
+        },
+        {
+            "name": "ASETAvionics"
+        },
+        {
+            "name": "ASETProps"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "NavUtilities"
+        }
+    ],
+    "install": [
+        {
+            "find": "AKI",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/ModifiedIVA-5.0.rc1b/13C17803-ModifiedIVA-5.0.rc1b.zip",
+    "download_size": 25039,
+    "download_hash": {
+        "sha1": "13C17803D37708483AD438B8EF0E3AC5FC980F8F",
+        "sha256": "6B286304F20DB27C94451A06E1AD320CEE9C7F8F513A32C2FCA9959480D28287"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

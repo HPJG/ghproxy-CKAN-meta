@@ -1,0 +1,56 @@
+{
+    "spec_version": "v1.2",
+    "identifier": "TestFlightConfigRO",
+    "name": "TestFlight Config Realism Overhaul",
+    "abstract": "Config pack for the TestFlight plugin.  This config pack adds TestFlight support for Realism Overhaul parts.",
+    "author": "jwvanderbeck",
+    "license": "CC-BY-NC-SA-4.0",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/88187",
+        "repository": "https://ghproxy.net/https://github.com/KSP-RO/TestFlight",
+        "bugtracker": "https://ghproxy.net/https://github.com/KSP-RO/TestFlight/issues"
+    },
+    "version": "1.4.0.2",
+    "ksp_version": "1.0.5",
+    "provides": [
+        "TestFlightConfig"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager",
+            "min_version": "2.6.1"
+        },
+        {
+            "name": "TestFlight",
+            "min_version": "1.3.1"
+        },
+        {
+            "name": "RealismOverhaul"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "RP-0"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "TestFlightConfig"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/TestFlight",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/KSP-RO/TestFlight/releases/download/1.4.0.2/TestFlightConfigRO-1.4.0.2.zip",
+    "download_size": 6128,
+    "download_hash": {
+        "sha1": "BBDA7445A9B3E3E44084CD4B93D2C5CAAB82A981",
+        "sha256": "A9EEDE42039F3FBC9F57616287C070662E0EF098D68AB48C8BA6DB3ABF2308DE"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

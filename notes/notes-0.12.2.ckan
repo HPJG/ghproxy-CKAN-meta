@@ -1,0 +1,24 @@
+{
+    "spec_version": 1,
+    "identifier": "notes",
+    "name": "notes",
+    "abstract": "Simple notepad to take text notes ingame.",
+    "author": "hashashin",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/55625",
+        "spacedock": "https://spacedock.info/mod/77/notes",
+        "repository": "https://ghproxy.net/https://github.com/hashashin/ksp_notes",
+        "x_screenshot": "https://spacedock.info/content/hashashin_471/notes/notes-1455711666.7319841.png"
+    },
+    "version": "0.12.2",
+    "ksp_version": "1.0.5",
+    "download": "https://spacedock.info/mod/77/notes/download/0.12.2",
+    "download_size": 40995,
+    "download_hash": {
+        "sha1": "3D0EE1052B22BAAC1D6F64850B8ED007C6F2C3BF",
+        "sha256": "053F18446A34DC0077F788C8F39351E092B2A04EC214D3C5E4F8A738A73D7C7D"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

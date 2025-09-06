@@ -1,0 +1,37 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "PhoenixIndustriesCubeSat",
+    "name": "Phoenix Industries - CubeSat",
+    "abstract": "CubeSat inspired probes that allow internally stacked parts! MechJeb and TweakScale compatible.",
+    "author": "MoviesColin",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/131842-105-phoenix-industries-%25C2%25B3sat-cubesat-mod-v11-compatible-with-tweakscale-and-mechjeb/",
+        "spacedock": "https://spacedock.info/mod/247/Phoenix%20Industries%20-%20³Sat%20",
+        "x_screenshot": "https://spacedock.info/content/MoviesColin_1252/Phoenix_Industries_-_3Sat/Phoenix_Industries_-_3Sat-1456242760.8646698.jpg"
+    },
+    "version": "1.1",
+    "ksp_version": "1.0.5",
+    "recommends": [
+        {
+            "name": "MechJeb2"
+        },
+        {
+            "name": "TweakScale"
+        }
+    ],
+    "install": [
+        {
+            "find": "CTN",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/247/Phoenix%20Industries%20-%20%C2%B3Sat%20/download/1.1",
+    "download_size": 2261103,
+    "download_hash": {
+        "sha1": "8D6401773CA0111936BB9C9FF7347D5549BFA866",
+        "sha256": "046D3022D64BBC32E55F895EA455FD06EABAE363A8DBF9BABFC64C63F9CFD052"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

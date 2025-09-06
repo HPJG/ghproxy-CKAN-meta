@@ -1,0 +1,23 @@
+{
+    "spec_version": 1,
+    "identifier": "MinAmbience",
+    "name": "Minimum Ambient Lighting",
+    "abstract": "Set a minimum ambient lighting level based on percentage in a config file.",
+    "author": "Red3Tango",
+    "license": "BSD-2-clause",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/67641",
+        "kerbalstuff": "https://kerbalstuff.com/mod/738/Minimum%20Ambient%20Lighting",
+        "x_screenshot": "https://kerbalstuff.com/content/Red3Tango_9406/Minimum_Ambient_Lighting/Minimum_Ambient_Lighting-1430676254.684044.png"
+    },
+    "version": "1.1.1",
+    "ksp_version": "1.0.5",
+    "download": "https://archive.org/download/MinAmbience-1.1.1/B21D5B0B-MinAmbience-1.1.1.zip",
+    "download_size": 6592,
+    "download_hash": {
+        "sha1": "B21D5B0B475179ADA845F727320E072B9C4D5631",
+        "sha256": "B2F1E30F5F30ADD90E0DB4A2DDD1EB21B1B385E801F54DE80A3F62C3E7770968"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

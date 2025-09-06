@@ -1,0 +1,47 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "SSRSS-Clouds-LR",
+    "name": "Stock Size Real Solar System - Low Res Clouds",
+    "abstract": "Clouds for Stock Size Real Solar System.",
+    "author": "Galileo88",
+    "license": "CC-BY-NC-ND",
+    "resources": {
+        "repository": "https://ghproxy.net/https://github.com/Galileo88/SSRSSContinued"
+    },
+    "version": "v0.0.3.2",
+    "ksp_version": "1.3.1",
+    "provides": [
+        "SSRSS-Clouds",
+        "EnvironmentalVisualEnhancements-Config"
+    ],
+    "depends": [
+        {
+            "name": "SSRSS-Cont"
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "SSRSS-Clouds"
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements-Config"
+        }
+    ],
+    "install": [
+        {
+            "find": "SSRSSClouds_LowRes",
+            "install_to": "GameData/SSRSS"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/Galileo88/SSRSSContinued/releases/download/v0.0.3.2/SSRSS.v0.0.3.2.zip",
+    "download_size": 243451279,
+    "download_hash": {
+        "sha1": "F9C0FDA2A07A3440584208E17DBF11F69C3A57FF",
+        "sha256": "C71745AB00F7A96638383E38DB9FA03D12C20EB2FA5ED5B0330110409DC3E19D"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

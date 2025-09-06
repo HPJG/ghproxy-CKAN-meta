@@ -1,0 +1,27 @@
+{
+    "spec_version": 1,
+    "identifier": "TACLSMining",
+    "name": "TACLS Mining",
+    "abstract": "Modifies the stock ISRU so you can mine water, oxygen, oxygen and liquid fuel, plus waste resources. Requires TACLS to work and I recommend MunSeeker Mk1 Greenhouse to grow food.",
+    "author": "StevenJ",
+    "license": "MIT",
+    "resources": {
+        "kerbalstuff": "https://kerbalstuff.com/mod/787/TACLS%20Mining"
+    },
+    "version": "1:1",
+    "ksp_version_min": "1.0.2",
+    "ksp_version_max": "1.0.4",
+    "depends": [
+        {
+            "name": "TACLS"
+        }
+    ],
+    "download": "https://archive.org/download/TACLSMining-1-1/74B82ADE-TACLSMining-1-1.zip",
+    "download_size": 1980,
+    "download_hash": {
+        "sha1": "74B82ADE97996563A35669F1E31D019E462E778D",
+        "sha256": "A2EFF2D3232A9D8D34A402CE2C487CF2CD9B2A4D33A3EC83CD661B64E134D5E1"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}
