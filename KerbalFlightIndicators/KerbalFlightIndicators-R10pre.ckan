@@ -1,0 +1,28 @@
+{
+    "spec_version": 1,
+    "identifier": "KerbalFlightIndicators",
+    "name": "Kerbal Flight Indicators",
+    "abstract": "Draws a flight vector indicator and other things in your field of view.",
+    "author": "DaMichel",
+    "license": "CC-BY-NC-SA-3.0",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/80277",
+        "repository": "https://ghproxy.net/https://github.com/DaMichel/KerbalFlightIndicators"
+    },
+    "version": "R10pre",
+    "ksp_version": "1.0",
+    "recommends": [
+        {
+            "name": "Toolbar"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/DaMichel/KerbalFlightIndicators/releases/download/R10pre/KerbalFlightIndicatorsR10.zip",
+    "download_size": 18806,
+    "download_hash": {
+        "sha1": "9B72A881A498F045BF2CEE9B4DE5003FCF6BEA08",
+        "sha256": "0EC9DC4536932A933F587A911B7746F068F052B1098CF7D7897F47E3F339A966"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,27 @@
+{
+    "spec_version": 1,
+    "identifier": "EVAManager",
+    "name": "EVAManager",
+    "abstract": "Provides a configurable method for manipulating PartModules and PartResources in the kerbalEVA part.",
+    "author": "toadicus",
+    "license": "BSD-2-clause",
+    "resources": {
+        "kerbalstuff": "https://kerbalstuff.com/mod/726/EVAManager"
+    },
+    "version": "1",
+    "ksp_version": "1.0.0",
+    "install": [
+        {
+            "file": "GameData/EVAManager",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/EVAManager-1/F1D74B23-EVAManager-1.zip",
+    "download_size": 22047,
+    "download_hash": {
+        "sha1": "F1D74B2305021296531C5D34A988EFA5286B6BB7",
+        "sha256": "22F59E95E86A6EA2FFACCCF67D2FA480ADE7DF2CB0E77B4F66574BFBBED428CA"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,23 @@
+{
+    "spec_version": 1,
+    "identifier": "DraftTwitchViewers",
+    "name": "Draft Twitch Viewers",
+    "abstract": "A KSP mod that allows streamers to draft their viewers as Kerbals in-game!",
+    "author": "Nifty255",
+    "license": "CC-BY-SA-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/110812",
+        "repository": "https://ghproxy.net/https://github.com/IRnifty/DraftTwitchViewers",
+        "kerbalstuff": "https://kerbalstuff.com/mod/601/Draft%20Twitch%20Viewers"
+    },
+    "version": "v1.0.5",
+    "ksp_version": "1.0.2",
+    "download": "https://archive.org/download/DraftTwitchViewers-v1.0.5/6C2EAED5-DraftTwitchViewers-v1.0.5.zip",
+    "download_size": 182395,
+    "download_hash": {
+        "sha1": "6C2EAED540586474FBF0F10C9E05B8B35490B0A3",
+        "sha256": "492810DE4FF347DB89B10758A883A24CA67D86F4A8D7BDB9D99DBDCE77FCD5AE"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

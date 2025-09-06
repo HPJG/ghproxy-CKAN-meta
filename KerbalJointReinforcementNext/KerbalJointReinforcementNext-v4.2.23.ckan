@@ -1,0 +1,44 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "KerbalJointReinforcementNext",
+    "name": "Kerbal Joint Reinforcement - Next",
+    "abstract": "Fixes the problem of unstable joints",
+    "author": [
+        "ferram4",
+        "Rudolf Meier"
+    ],
+    "version": "v4.2.23",
+    "ksp_version_min": "1.12.0",
+    "license": "GPL-3.0",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/184206-*",
+        "repository": "https://ghproxy.net/https://github.com/meirumeiru/Kerbal-Joint-Reinforcement",
+        "remote-avc": "https://ghproxy.net/https://github.com/meirumeiru/Kerbal-Joint-Reinforcement/raw/master/Resources/GameData/KerbalJointReinforcement/KerbalJointReinforcement.version"
+    },
+    "tags": [
+        "plugin",
+        "physics"
+    ],
+    "conflicts": [
+        {
+            "name": "KerbalJointReinforcement"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/KerbalJointReinforcement",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/meirumeiru/Kerbal-Joint-Reinforcement/releases/download/v4.2.23/KerbalJointReinforcement_v4.2.23.zip",
+    "download_size": 31156,
+    "download_hash": {
+        "sha1": "44423F29120B60F6926C3B61B82055856D084191",
+        "sha256": "30A83B02DC466DB9D6D2483825F52E32A39C60FED2768A20E07818918837D929"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 78436,
+    "release_date": "2023-04-27T19:55:12Z",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,41 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "HeatControl",
+    "name": "HeatControl",
+    "abstract": "Insulate, radiate, conduct and transfer your ship's heat",
+    "author": "Nertea",
+    "license": "CC-BY-NC-SA-4.0",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/124391-1-02-Heat-Control-Manage-your-ship-s-heat!?p=1997251#post1997251",
+        "repository": "https://ghproxy.net/https://github.com/ChrisAdderley/HeatControl",
+        "kerbalstuff": "https://kerbalstuff.com/mod/890/Heat%20Control"
+    },
+    "version": "0.2.0",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "CommunityTechTree"
+        }
+    ],
+    "install": [
+        {
+            "find": "HeatControl",
+            "install_to": "GameData",
+            "filter": "HeatControl.dll"
+        }
+    ],
+    "download": "https://archive.org/download/HeatControl-0.2.0/65273BBE-HeatControl-0.2.0.zip",
+    "download_size": 2210919,
+    "download_hash": {
+        "sha1": "65273BBEB91BD8D2866082F305755DA0A9D5CC7E",
+        "sha256": "E0B944BCB3C7046C43C4B091925013F5208E1B3F9D0EB44F0A9F588523CF8D54"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,38 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "ElectricalParts",
+    "name": "Electrical parts",
+    "abstract": "After a lot of asking ! this mod brings you electrical engines as you always wanted them !",
+    "author": "touzenesmy",
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/118208-1-0-Electrical-engines-!",
+        "kerbalstuff": "https://kerbalstuff.com/mod/724/Electrical%20parts"
+    },
+    "version": "1.4.1",
+    "ksp_version": "1.0.2",
+    "depends": [
+        {
+            "name": "FirespitterCore"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/ElectricalEngines",
+            "install_to": "GameData",
+            "filter": "Firespitter.dll"
+        }
+    ],
+    "download": "https://archive.org/download/ElectricalParts-1.4.1/01AF7707-ElectricalParts-1.4.1.zip",
+    "download_size": 12812921,
+    "download_hash": {
+        "sha1": "01AF7707424315450AC538E6D600142C76D9A8D4",
+        "sha256": "B280C17ECE1AE9E4304C9E467A764010D38378E6D7808890F73FDD0B43F423DB"
+    },
+    "download_content_type": "application/zip",
+    "x_via": "Automated KerbalStuff CKAN submission",
+    "x_generated_by": "netkan"
+}

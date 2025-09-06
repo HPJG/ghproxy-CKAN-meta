@@ -1,0 +1,37 @@
+{
+    "spec_version": 1,
+    "identifier": "HotRockets",
+    "name": "HotRockets",
+    "abstract": "HotRockets (does not include plugins) - REQUIRES SMOKESCREEN AND MODULEMANAGER TO WORK.",
+    "author": "nazari",
+    "license": "CC-BY-NC-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/65754-HotRockets!-Particle-FX-Replacement-Tutorial",
+        "kerbalstuff": "https://kerbalstuff.com/mod/741/HotRockets"
+    },
+    "version": "1:1.0.4",
+    "ksp_version": "1.0.4",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "SmokeScreen"
+        }
+    ],
+    "install": [
+        {
+            "file": "MP_Nazari",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/HotRockets-1.0.4/0F3A906D-HotRockets-1.0.4.zip",
+    "download_size": 2326947,
+    "download_hash": {
+        "sha1": "0F3A906D2173B16A93C84A13FBEFEC2BAEBDB81D",
+        "sha256": "889104A1B9BF167BF6B25BFC994FAEC3B33F1DC21433209F21B06F9DF4F79C72"
+    },
+    "download_content_type": "application/zip",
+    "x_screenshot": "https://kerbalstuff.com/content/nazari_71/HotRockets/HotRockets-1435471247.54792.png",
+    "x_generated_by": "netkan"
+}

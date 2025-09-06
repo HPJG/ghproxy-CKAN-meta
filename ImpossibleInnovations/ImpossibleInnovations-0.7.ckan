@@ -1,0 +1,40 @@
+{
+    "spec_version": 1,
+    "identifier": "ImpossibleInnovations",
+    "name": "Impossible Innovations",
+    "abstract": "Adds fusion based engines and tanks, along with other utilities.",
+    "author": "jandcando",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/86331-0-24-x-Impossible-Innovations-0-5",
+        "kerbalstuff": "https://kerbalstuff.com/mod/116/Impossible%20Innovations"
+    },
+    "version": "0.7",
+    "ksp_version": "0.25",
+    "depends": [
+        {
+            "name": "TweakScale"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/ImpossibleInnovations",
+            "install_to": "GameData"
+        },
+        {
+            "file": "Ships",
+            "install_to": "Ships"
+        }
+    ],
+    "download": "https://archive.org/download/ImpossibleInnovations-0.7/29B88F5F-ImpossibleInnovations-0.7.zip",
+    "download_size": 13817918,
+    "download_hash": {
+        "sha1": "29B88F5F36DD9C9650BCB6E9B26E078869E38A35",
+        "sha256": "4DC54A6A6A6E7ADC0210D6116C2E2C907AEB148E882A5DD8A156A5E98447781A"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

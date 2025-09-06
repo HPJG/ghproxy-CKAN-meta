@@ -1,0 +1,87 @@
+{
+    "spec_version": "v1.16",
+    "identifier": "KSAIVAUpgrade",
+    "name": "KSA IVA Upgrade",
+    "abstract": "Detailed IVAs for the stock mk1 pods and cockpits.",
+    "author": [
+        "RangeMachine",
+        "JonnyOThan"
+    ],
+    "version": "v1.6.6",
+    "ksp_version_min": "1.8.0",
+    "ksp_version_max": "1.12.99",
+    "license": "CC-BY-SA-2.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/208598-ksa-iva-upgrade-adopted-mk1-stock-parts/",
+        "repository": "https://ghproxy.net/https://github.com/JonnyOThan/KSA-IVA-Upgrade",
+        "bugtracker": "https://ghproxy.net/https://github.com/JonnyOThan/KSA-IVA-Upgrade/issues",
+        "license": "https://ghproxy.net/https://github.com/JonnyOThan/KSA-IVA-Upgrade/blob/main/LICENSE",
+        "remote-avc": "https://raw.githubusercontent.com/JonnyOThan/KSA-IVA-Upgrade/main/GameData/KSA/IVAUpgrade/KSA_IVAUpgrade.version",
+        "x_screenshot": "https://i.imgur.com/MkfyOsO.png"
+    },
+    "tags": [
+        "config",
+        "crewed",
+        "graphics"
+    ],
+    "depends": [
+        {
+            "name": "RasterPropMonitor-Core"
+        },
+        {
+            "name": "ASETProps"
+        },
+        {
+            "name": "ASETAvionics"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "Reviva"
+        },
+        {
+            "name": "FreeIva"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "DockingPortAlignmentIndicator"
+        },
+        {
+            "name": "SCANsat"
+        },
+        {
+            "name": "Astrogator"
+        },
+        {
+            "name": "HullcamVDSContinued"
+        }
+    ],
+    "supports": [
+        {
+            "name": "BluedogDB"
+        },
+        {
+            "name": "ShuttleOrbiterConstructionKit"
+        }
+    ],
+    "install": [
+        {
+            "find": "KSA",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/JonnyOThan/KSA-IVA-Upgrade/releases/download/v1.6.6/KSA-IVA-Upgrade-v1.6.6.zip",
+    "download_size": 67569,
+    "download_hash": {
+        "sha1": "39F286B23625F89A8632E59EBB3E96C8EBC53AE8",
+        "sha256": "8EFDDBA35EAFA0D05350029A643CD474F8AC226441332F73E80EA1EB8A2086F3"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 329699,
+    "release_date": "2023-08-18T14:56:33Z",
+    "x_generated_by": "netkan"
+}

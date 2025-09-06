@@ -1,0 +1,42 @@
+{
+    "spec_version": 1,
+    "identifier": "DistantObject-RealSolarSystem",
+    "name": "Distant Object Enhancement Real Solar System config",
+    "abstract": "For the basic version of NathanKell's Real Solar System mod",
+    "author": "MOARdV",
+    "license": "CC-BY-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/98943",
+        "repository": "https://ghproxy.net/https://github.com/MOARdV/DistantObject",
+        "kerbalstuff": "https://kerbalstuff.com/mod/403/Distant%20Object%20Enhancement%20bis"
+    },
+    "version": "v1.6.0",
+    "ksp_version": "1.0.4",
+    "provides": [
+        "DistantObject-config"
+    ],
+    "depends": [
+        {
+            "name": "DistantObject"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "DistantObject-config"
+        }
+    ],
+    "install": [
+        {
+            "file": "Alternate Planet Color Configs/Real Solar System (default)/DistantObject",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/DistantObject-RealSolarSystem-v1.6.0/1BB47BB2-DistantObject-RealSolarSystem-v1.6.0.zip",
+    "download_size": 38139,
+    "download_hash": {
+        "sha1": "1BB47BB2D25E4FC7B0A9364711092216D68F060E",
+        "sha256": "E53BE5992552D1CCE80F72A4226BEAFE14DBACA8636D77A6BB910FE43F94A152"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

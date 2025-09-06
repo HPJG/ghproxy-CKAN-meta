@@ -1,0 +1,37 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "ExtendedAntennaProgression",
+    "name": "KSP ExtendedAntennaProgression",
+    "abstract": "Additional relay antennas for Kerbal Space Program",
+    "author": "LouisB3",
+    "version": "v0.1.2",
+    "license": "CC-BY-NC-SA",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/158971-*",
+        "repository": "https://ghproxy.net/https://github.com/LouisB3/KSP-ExtendedAntennaProgression",
+        "bugtracker": "https://ghproxy.net/https://github.com/LouisB3/KSP-ExtendedAntennaProgression/issues"
+    },
+    "tags": [
+        "parts",
+        "comms"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "ExtendedAntennaProgression",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://api.github.com/repos/LouisB3/KSP-ExtendedAntennaProgression/zipball/v0.1.2",
+    "download_size": 7997,
+    "download_hash": {
+        "sha1": "5C3E04CB442E4944D798199A0144316ED0034EEE",
+        "sha256": "3A3D2C368E8350EA06E11F64DABEEC1D100DBED2DFDE1FC487CD7346160885B1"
+    },
+    "download_content_type": "application/vnd.github+json",
+    "x_generated_by": "netkan"
+}

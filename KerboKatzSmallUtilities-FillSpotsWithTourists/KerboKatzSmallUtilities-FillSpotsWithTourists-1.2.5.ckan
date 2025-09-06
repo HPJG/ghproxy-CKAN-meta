@@ -1,0 +1,49 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "KerboKatzSmallUtilities-FillSpotsWithTourists",
+    "name": "KerboKatz - SmallUtilities - FillSpotsWithTourists",
+    "abstract": "Asks after launching if you want to fill up your free spots with tourists",
+    "author": [
+        "SpaceTiger",
+        "SpaceKitty"
+    ],
+    "version": "1.2.5",
+    "ksp_version": "1.0.5",
+    "license": "restricted",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/104505-11-kerbokatz-smallutilities",
+        "repository": "https://ghproxy.net/https://github.com/KerboKatz/SmallUtilities",
+        "bugtracker": "https://ghproxy.net/https://github.com/KerboKatz/SmallUtilities/issues",
+        "metanetkan": "https://raw.githubusercontent.com/KerboKatz/Netkan/master/KerboKatzSmallUtilities-FillSpotsWithTourists.netkan"
+    },
+    "tags": [
+        "plugin",
+        "editor"
+    ],
+    "depends": [
+        {
+            "name": "KerboKatzUtilities",
+            "min_version": "1.2.6"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "KerboKatzSmallUtilities"
+        }
+    ],
+    "install": [
+        {
+            "find": "FillSpotsWithTourists",
+            "install_to": "GameData/KerboKatz/SmallUtilities"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/KerboKatz/SmallUtilities/releases/download/1.2.5/SmallUtilities.FillSpotsWithTourists.zip",
+    "download_size": 32889,
+    "download_hash": {
+        "sha1": "2E5EC0921EDEE9B07A6AED10EC8DF100CE90B7E3",
+        "sha256": "19AB3DE60FA4DAC3922A8AB437C1144BC4F1A939F0BF258C2B631035B1683CE3"
+    },
+    "download_content_type": "application/zip",
+    "release_date": "2015-09-17T23:34:26Z",
+    "x_generated_by": "netkan"
+}

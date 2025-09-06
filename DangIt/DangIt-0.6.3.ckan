@@ -1,0 +1,43 @@
+{
+    "spec_version": 1,
+    "identifier": "DangIt",
+    "name": "DangIt",
+    "abstract": "Random failures mod for KSP",
+    "author": "Coffeeman",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/73920-105-alpha-6-dang-it-12-september-2015/&",
+        "spacedock": "https://spacedock.info/mod/307/DangIt",
+        "repository": "https://ghproxy.net/https://github.com/Ippo343/DangIt",
+        "bugtracker": "https://ghproxy.net/https://github.com/Ippo343/DangIt/issues"
+    },
+    "version": "0.6.3",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "Entropy"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/DangIt",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/307/DangIt/download/0.6.3",
+    "download_size": 2633233,
+    "download_hash": {
+        "sha1": "498DBAA5174DD98D8A40BD226EB2DDC3BD4F0AE3",
+        "sha256": "F86B67B8F835A94A38794FF01B07908B2B074864A61949419065A115824110CD"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

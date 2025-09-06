@@ -1,0 +1,37 @@
+{
+    "spec_version": 1,
+    "identifier": "KPseudonym-ConfigPack-International",
+    "name": "KPseudonym Config Pack International",
+    "abstract": "This mod is a collection of configs that allow KPsuedonym to create Real World names for your Kerbals. Contains names from various languages.",
+    "author": "peadar1987",
+    "license": "MIT",
+    "resources": {
+        "kerbalstuff": "https://kerbalstuff.com/mod/537/peadar1987's%20KPseudonym%20config%20pack",
+        "x_screenshot": "https://kerbalstuff.com/content/peadar1987_6684/peadar1987s_KPseudonym_config_pack/peadar1987s_KPseudonym_config_pack.png"
+    },
+    "version": "v1.0",
+    "ksp_version": "0.90.0",
+    "depends": [
+        {
+            "name": "KPseudonym"
+        }
+    ],
+    "install": [
+        {
+            "file": "KPSeudonym Files/KPseudonym_International/GameData/KPseudonym",
+            "install_to": "GameData",
+            "filter": [
+                "Plugins",
+                "Default.cfg"
+            ]
+        }
+    ],
+    "download": "https://archive.org/download/KPseudonym-ConfigPack-International-v1.0/85F4216F-KPseudonym-ConfigPack-International-v1.0.zip",
+    "download_size": 70965,
+    "download_hash": {
+        "sha1": "85F4216FA7D95332E63FF2ECA1009F44B527BEEA",
+        "sha256": "D13E06FDDA9931EEB1088CF7EAD6F35E44059B26E3D653F3F2921B972FF98EAE"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

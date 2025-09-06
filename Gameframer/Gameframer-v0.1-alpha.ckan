@@ -1,0 +1,18 @@
+{
+    "spec_version": 1,
+    "identifier": "Gameframer",
+    "ksp_version": "0.25",
+    "resources":
+    {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/102518",
+        "repository": "https://ghproxy.net/https://github.com/noisybit/kerbal-recorder"
+    },
+    "name": "Gameframer",
+    "license": "restricted",
+    "abstract": "Vessel recorder for Gameframer service",
+    "author": "noisybit",
+    "version": "v0.1-alpha",
+    "download": "http://gameframer.com/download/Gameframer-Alpha-1.zip",
+    "download_size": 1298643,
+    "x_packaged_by": "hakan42 - hand-packaged as the mod is developer-site only at the moment"
+}

@@ -1,0 +1,46 @@
+{
+    "spec_version": 1,
+    "identifier": "EntropyRealChute",
+    "name": "Entropy",
+    "abstract": "A Hardmode for Ippo's DangIt!",
+    "author": "Coffeeman",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/102197",
+        "repository": "https://ghproxy.net/https://github.com/602p/Entropy",
+        "bugtracker": "https://ghproxy.net/https://github.com/602p/Entropy/issues",
+        "kerbalstuff": "https://kerbalstuff.com/mod/388"
+    },
+    "version": "v0.1.2",
+    "ksp_version": "0.25",
+    "depends": [
+        {
+            "name": "DangIt"
+        },
+        {
+            "name": "RealChute"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "Entropy"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/z_Entropy_realchutes",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/EntropyRealChute-v0.1.2/DD601B09-EntropyRealChute-v0.1.2.zip",
+    "download_size": 17333,
+    "download_hash": {
+        "sha1": "DD601B098BA4F7B34521F4E3E4EB5C9F6B57FD39",
+        "sha256": "2446DC95FF60FC72470D8D92F68C8E267657EB5E332018C6C385D154342AB0C1"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

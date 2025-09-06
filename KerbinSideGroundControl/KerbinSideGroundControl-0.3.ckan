@@ -1,0 +1,42 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "KerbinSideGroundControl",
+    "name": "Kerbin-Side Ground Control",
+    "abstract": "Working tracking stations on Kerbin",
+    "author": "AlphaAsh",
+    "license": "BSD-3-clause",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/74776-11-kerbin-side",
+        "spacedock": "https://spacedock.info/mod/518/Kerbin-Side%20Ground%20Control",
+        "x_screenshot": "https://spacedock.info/content/AlphaAsh_462/Kerbin-Side_Ground_Control/Kerbin-Side_Ground_Control-1460461326.4787018.jpg"
+    },
+    "version": "0.3",
+    "ksp_version": "1.1.0",
+    "provides": [
+        "KerbinSide-virt"
+    ],
+    "depends": [
+        {
+            "name": "KerbalKonstructs"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "KerbinSide-virt"
+        }
+    ],
+    "install": [
+        {
+            "find": "KerbinSide",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/518/Kerbin-Side%20Ground%20Control/download/0.3",
+    "download_size": 22931656,
+    "download_hash": {
+        "sha1": "E40F56797A39B7888ADC897DF66DE3BD2CC83619",
+        "sha256": "47F7DFBDC1FF190F29280A6387FC2FF563D2220A23BECA218D6BB31A14F5DFF1"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

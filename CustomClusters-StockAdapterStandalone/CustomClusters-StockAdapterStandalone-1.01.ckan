@@ -1,0 +1,46 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "CustomClusters-StockAdapterStandalone",
+    "name": "Custom Clusters Stock Adapter Standalone",
+    "abstract": "The modified stock cluster adapters from Custom Clusters",
+    "author": "Randazzo",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/117662-105-custom-clusters-more-freedom-in-engine-design-0531/"
+    },
+    "version": "1.01",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "InterstellarFuelSwitch"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "KerbalJointReinforcement"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "CustomClusters"
+        }
+    ],
+    "install": [
+        {
+            "find": "VanguardAstrodynamics",
+            "install_to": "GameData",
+            "filter": "Thumbs.db"
+        }
+    ],
+    "download": "https://archive.org/download/CustomClusters-StockAdapterStandalone-1.01/73F875C3-CustomClusters-StockAdapterStandalone-1.01.zip",
+    "download_size": 104155,
+    "download_hash": {
+        "sha1": "73F875C3229C1AF6721AC611EB9F6DA61BCAFF74",
+        "sha256": "C5D18E1454BAE3E37BF16A1DDC05E735C43C7DBE6220FCE40B11EA02712E999F"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

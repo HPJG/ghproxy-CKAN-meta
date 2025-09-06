@@ -1,0 +1,41 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "ContractConfigurator-ScanSatLite",
+    "name": "Contract Pack: SCANSat Lite",
+    "abstract": "A set of contracts for the SCANSat mod",
+    "author": "severedsolo",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/120127",
+        "repository": "https://ghproxy.net/https://github.com/severedsolo/ScanSatLite"
+    },
+    "version": "1.2.0",
+    "ksp_version_min": "1.0.2",
+    "ksp_version_max": "1.0.4",
+    "depends": [
+        {
+            "name": "ContractConfigurator",
+            "min_version": "1.1.0"
+        },
+        {
+            "name": "SCANsat"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "ScanSatLite",
+            "install_to": "GameData/ContractPacks"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/severedsolo/ScanSatLite/releases/download/1.2/ScanSatLite1.2.zip",
+    "download_size": 67776,
+    "download_hash": {
+        "sha1": "643056BED322498BF6E656973A7A9F715C23CF2B",
+        "sha256": "310F5F4A4C9AFABFC471B6392B7A4E5BED490829BAA0D8DB8B98A34D4E73567B"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

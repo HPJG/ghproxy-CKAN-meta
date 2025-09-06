@@ -1,0 +1,33 @@
+{
+    "spec_version": "v1.20",
+    "identifier": "FinalFrontier",
+    "name": "Final Frontier",
+    "abstract": "kerbal individual merits",
+    "author": "Nereid",
+    "license": "BSD-2-clause",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/67246-0-24-0-Final-Frontier-kerbal-individual-merits-0-5-3",
+        "kerbalstuff": "https://kerbalstuff.com/mod/428/Final%20Frontier",
+        "curse": "http://www.curse.com/ksp-mods/kerbal/221413-final-frontier"
+    },
+    "version": "0.7.12-985",
+    "ksp_version": "1.0.2",
+    "install": [
+        {
+            "file": "GameData",
+            "install_to": "GameData",
+            "filter": [
+                "000_Toolbar",
+                "Source"
+            ]
+        }
+    ],
+    "download": "https://archive.org/download/FinalFrontier-0.7.12-985/DC7964ED-FinalFrontier-0.7.12-985.zip",
+    "download_size": 1737812,
+    "download_hash": {
+        "sha1": "DC7964ED3BE8DE3A7CC47EB338CA22FA152B971F",
+        "sha256": "FC17226097235671EB2DAC5AFEE790E30EDD2398F2F864A877AAAE7D1E491C15"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

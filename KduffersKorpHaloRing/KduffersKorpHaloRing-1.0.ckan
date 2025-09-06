@@ -1,0 +1,33 @@
+{
+    "spec_version": "v1.2",
+    "identifier": "KduffersKorpHaloRing",
+    "name": "kdufferskorp halo ring",
+    "abstract": "this is an expansion of kerbal konstructs, NOT a part.",
+    "author": "amankduffers",
+    "license": "MIT",
+    "resources": {
+        "kerbalstuff": "https://kerbalstuff.com/mod/1097/kdufferskorp%20halo%20ring",
+        "x_screenshot": "https://kerbalstuff.com/content/amankduffers_8935/kdufferskorp_halo_ring/kdufferskorp_halo_ring-1440155431.9390526.png"
+    },
+    "version": "1.0",
+    "ksp_version": "1.0.4",
+    "depends": [
+        {
+            "name": "KerbalKonstructs"
+        }
+    ],
+    "install": [
+        {
+            "file": "ring",
+            "install_to": "GameData/Kduffers"
+        }
+    ],
+    "download": "https://archive.org/download/KduffersKorpHaloRing-1.0/78AD6F20-KduffersKorpHaloRing-1.0.zip",
+    "download_size": 3485556,
+    "download_hash": {
+        "sha1": "78AD6F2093C9D2838A0D499123FC0997934D2B72",
+        "sha256": "F7B2E743E53C924C319513EEDCFA3D3202C3EF7DBAAB0827AA02C0D9A48B1207"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

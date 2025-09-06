@@ -1,0 +1,29 @@
+{
+    "spec_version": 1,
+    "identifier": "ConnectedLivingSpace",
+    "name": "Connected Living Space",
+    "abstract": "Identifies internal spaces that are connected together within a vessel.",
+    "author": "codepoet",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/122126",
+        "repository": "https://ghproxy.net/https://github.com/codepoetpbowden/ConnectedLivingSpace",
+        "kerbalstuff": "https://kerbalstuff.com/mod/11/Connected%20Living%20Space",
+        "x_screenshot": "https://kerbalstuff.com/content/codepoet_20/Connected_Living_Space/Connected_Living_Space-1427498330.212798.png"
+    },
+    "version": "1.2.0.0",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://archive.org/download/ConnectedLivingSpace-1.2.0.0/EAFAC1DD-ConnectedLivingSpace-1.2.0.0.zip",
+    "download_size": 52317,
+    "download_hash": {
+        "sha1": "EAFAC1DDBF852597FD3C353B7E8CE46E933EA527",
+        "sha256": "1B67CC988B3A029A7FE1465670BD1056658BDD4FEC4943FF002BE40A1256EA75"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

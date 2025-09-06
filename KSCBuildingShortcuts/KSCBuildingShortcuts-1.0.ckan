@@ -1,0 +1,24 @@
+{
+    "spec_version": 1,
+    "identifier": "KSCBuildingShortcuts",
+    "name": "KSC Building Shortcuts",
+    "abstract": "UI buttons and keyboard shortcuts for accessing the KCS buildings.",
+    "author": "DMagic",
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/108704-1",
+        "spacedock": "https://spacedock.info/mod/135/KSC%20Building%20Shortcuts",
+        "repository": "https://ghproxy.net/https://github.com/DMagic1/KSC-Building-Shortcuts",
+        "x_screenshot": "https://spacedock.info/content/DMagic_247/KSC_Building_Shortcuts/KSC_Building_Shortcuts-1455816129.7454052.png"
+    },
+    "version": "1.0",
+    "ksp_version": "1.0.5",
+    "download": "https://spacedock.info/mod/135/KSC%20Building%20Shortcuts/download/1.0",
+    "download_size": 8842,
+    "download_hash": {
+        "sha1": "6B45FC69D147C6354C17E9AE39337B68EF63BF4B",
+        "sha256": "5023481F009B0DFA01EC27FB17090F1D1C265CB22609DC0715ACE03A7D057F06"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

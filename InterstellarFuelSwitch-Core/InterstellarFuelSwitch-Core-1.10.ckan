@@ -1,0 +1,28 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "InterstellarFuelSwitch-Core",
+    "name": "Interstellar Fuel Switch Core",
+    "abstract": "Interstellar Fuel Switch",
+    "author": "FreeThinker",
+    "license": "CC-BY-NC",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/117932-1-0-Interstellar-Fuel-Switch-0-2",
+        "kerbalstuff": "https://kerbalstuff.com/mod/718/Interstellar%20Fuel%20Switch"
+    },
+    "version": "1.10",
+    "ksp_version": "1.0.2",
+    "install": [
+        {
+            "file": "GameData/InterstellarFuelSwitch/Plugins",
+            "install_to": "GameData/InterstellarFuelSwitch"
+        }
+    ],
+    "download": "https://archive.org/download/InterstellarFuelSwitch-Core-1.10/04CA8AE7-InterstellarFuelSwitch-Core-1.10.zip",
+    "download_size": 67528,
+    "download_hash": {
+        "sha1": "04CA8AE70BAB852B7457454E089E69F622A887E2",
+        "sha256": "AC0A56B32918BA85937C0207135B6DCBCF6D5EB6574D3D82606AB84A66992DAF"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

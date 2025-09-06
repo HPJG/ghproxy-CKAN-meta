@@ -1,0 +1,36 @@
+{
+    "spec_version": "v1.16",
+    "identifier": "CommunityResourcePack",
+    "name": "Community Resource Pack",
+    "abstract": "Common resources for KSP mods",
+    "author": "RoverDude",
+    "license": "CC-BY-NC-SA-4.0",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/83007-105",
+        "repository": "https://ghproxy.net/https://github.com/UmbraSpaceIndustries/CommunityResourcePack"
+    },
+    "version": "0.5.1.0",
+    "ksp_version_min": "1.0.0",
+    "ksp_version_max": "1.1.0",
+    "conflicts": [
+        {
+            "name": "Kerbalism"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/CommunityResourcePack",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/UmbraSpaceIndustries/CommunityResourcePack/releases/download/0.5.1.0/CRP_0.5.1.0.zip",
+    "download_size": 16098,
+    "download_hash": {
+        "sha1": "D2025581F3B76999364DC31065EAFF0BC1F1E602",
+        "sha256": "B3E2F8C9E732E1870C107F366C818B1F2B038AA7A38E9818401012023CE5E10A"
+    },
+    "download_content_type": "application/zip",
+    "x_last_revision_by": "harryyoung",
+    "x_generated_by": "netkan"
+}

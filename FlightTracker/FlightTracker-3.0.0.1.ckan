@@ -1,0 +1,36 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "FlightTracker",
+    "name": "Flight Tracker",
+    "abstract": "Library for tracking a Kerbals flight data",
+    "author": "severedsolo",
+    "version": "3.0.0.1",
+    "ksp_version_min": "1.9.0",
+    "ksp_version_max": "1.9.99",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/182372-*",
+        "repository": "https://ghproxy.net/https://github.com/severedsolo/FlightTracker",
+        "bugtracker": "https://ghproxy.net/https://github.com/severedsolo/FlightTracker/issues",
+        "remote-avc": "https://raw.githubusercontent.com:443/severedsolo/FlightTracker/master/GameData/FlightTracker/FlightTracker.version"
+    },
+    "tags": [
+        "plugin",
+        "library",
+        "crewed"
+    ],
+    "depends": [
+        {
+            "name": "KerbalChangelog"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/severedsolo/FlightTracker/releases/download/3.0.0.1/FlightTracker.zip",
+    "download_size": 8556,
+    "download_hash": {
+        "sha1": "EED4B0FD65C2D70DD092380DD51503BBA4678167",
+        "sha256": "B3FAE80B00C354A7EF6F6DF2B186805DD55867AE35131A2A64D2C220CA80A3EE"
+    },
+    "download_content_type": "application/zip",
+    "release_date": "2020-02-17T13:19:46Z",
+    "x_generated_by": "netkan"
+}

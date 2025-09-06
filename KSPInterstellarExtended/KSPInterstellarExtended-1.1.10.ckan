@@ -1,0 +1,59 @@
+{
+    "spec_version": 1,
+    "identifier": "KSPInterstellarExtended",
+    "name": "KSP Interstellar Extended",
+    "abstract": "Full download of KSPI-E",
+    "author": "FreeThinker",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/111159-WIP-0-90-KSP-Interstellar-Extended",
+        "kerbalstuff": "https://kerbalstuff.com/mod/791/KSP%20Interstellar%20Extended"
+    },
+    "version": "1.1.10",
+    "ksp_version": "1.0.2",
+    "depends": [
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "Toolbar"
+        },
+        {
+            "name": "InterstellarFuelSwitch"
+        },
+        {
+            "name": "TweakScale"
+        },
+        {
+            "name": "ModuleManager",
+            "min_version": "2.6.3"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "FilterExtensions"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "CrossFeedEnabler"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/WarpPlugin",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/KSPInterstellarExtended-1.1.10/B928FF14-KSPInterstellarExtended-1.1.10.zip",
+    "download_size": 41400665,
+    "download_hash": {
+        "sha1": "B928FF14466FD96857EE097B5D38D2F7D13F9189",
+        "sha256": "DE13645E12F2606508DE5FE8322841C08683F63DA96CD08118ECE0E924F7C42F"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

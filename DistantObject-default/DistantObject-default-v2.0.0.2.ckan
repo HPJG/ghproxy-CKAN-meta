@@ -1,0 +1,53 @@
+{
+    "spec_version": "v1.16",
+    "identifier": "DistantObject-default",
+    "name": "Distant Object Enhancement Continued default config",
+    "abstract": "Default planets colors",
+    "author": [
+        "duckytopia",
+        "MOARdV",
+        "TheDarkBadger"
+    ],
+    "version": "v2.0.0.2",
+    "ksp_version_min": "1.9.0",
+    "ksp_version_max": "1.9.99",
+    "license": "CC-BY-4.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/189759-*",
+        "repository": "https://ghproxy.net/https://github.com/TheDarkBadger/DistantObject",
+        "bugtracker": "https://ghproxy.net/https://github.com/TheDarkBadger/DistantObject/issues"
+    },
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "provides": [
+        "DistantObject-config"
+    ],
+    "depends": [
+        {
+            "name": "DistantObject"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "DistantObject-config"
+        }
+    ],
+    "install": [
+        {
+            "find": "PlanetColors.cfg",
+            "install_to": "GameData/DistantObject",
+            "find_matches_files": true
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/TheDarkBadger/DistantObject/releases/download/v2.0.0.2/DistantObject-v2.0.0.2.zip",
+    "download_size": 31000,
+    "download_hash": {
+        "sha1": "FF8927E9F4E9FDE3CDD0694657F7E42DB3755AD6",
+        "sha256": "903528360A0186163DD4A21ED05FDCEC21A4AB52E6FD468CCA9C4C6F91735D02"
+    },
+    "download_content_type": "application/zip",
+    "release_date": "2020-02-14T15:38:58Z",
+    "x_generated_by": "netkan"
+}

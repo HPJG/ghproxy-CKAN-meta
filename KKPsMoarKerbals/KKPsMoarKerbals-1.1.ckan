@@ -1,0 +1,29 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "KKPsMoarKerbals",
+    "name": "KKP's MoarKerbals",
+    "abstract": "Populate your space colony, in space!",
+    "author": "strideknight",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/104853",
+        "kerbalstuff": "https://kerbalstuff.com/mod/461/KKP's%20MoarKerbals",
+        "x_screenshot": "https://kerbalstuff.com/content/strideknight_5484/KKPs_MoarKerbals/KKPs_MoarKerbals.jpg"
+    },
+    "version": "1.1",
+    "ksp_version": "0.90.0",
+    "install": [
+        {
+            "file": "GameData/KKP",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/KKPsMoarKerbals-1.1/60D6E249-KKPsMoarKerbals-1.1.zip",
+    "download_size": 5068824,
+    "download_hash": {
+        "sha1": "60D6E2493DE0B2112E7C9B2ECB5F36E43BF30658",
+        "sha256": "3A7149EC902B147E0E49FE2D31B62F06DF9EDD7377FF28A9C607CEE08B4709B5"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

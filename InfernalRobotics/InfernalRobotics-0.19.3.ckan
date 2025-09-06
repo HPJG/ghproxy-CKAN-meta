@@ -1,0 +1,35 @@
+{
+    "spec_version": 1,
+    "identifier": "InfernalRobotics",
+    "name": "Magic Smoke Industries Infernal Robotics",
+    "abstract": "Making stuff move.",
+    "author": "sirkut",
+    "license": "GPL-3.0",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/37707-0-23-5-Magic-Smoke-Industries-Infernal-Robotics-0-16-4",
+        "repository": "https://ghproxy.net/https://github.com/sirkut/InfernalRobotics",
+        "kerbalstuff": "https://kerbalstuff.com/mod/8/Magic%20Smoke%20Industries%20Infernal%20Robotics"
+    },
+    "version": "0.19.3",
+    "ksp_version": "0.90",
+    "recommends": [
+        {
+            "name": "TweakScale"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/MagicSmokeIndustries",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/InfernalRobotics-0.19.3/59CC9B63-InfernalRobotics-0.19.3.zip",
+    "download_size": 11664667,
+    "download_hash": {
+        "sha1": "59CC9B633985D1C8ABCED7D2A676054F75751E3D",
+        "sha256": "70616E43DC0B9D9D4FA176AC31728DFD7695AF9456E12944DAD966C2AB8D2268"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

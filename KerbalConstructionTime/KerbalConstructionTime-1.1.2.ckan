@@ -1,0 +1,43 @@
+{
+    "spec_version": 1,
+    "identifier": "KerbalConstructionTime",
+    "name": "Kerbal Construction Time",
+    "abstract": "Unrapid Planned Assembly",
+    "author": "magico13",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/92377-0-24-2-Kerbal-Construction-Time-Release-v1-0-0-(8-29-14)",
+        "kerbalstuff": "https://kerbalstuff.com/mod/125/Kerbal%20Construction%20Time"
+    },
+    "version": "1.1.2",
+    "ksp_version": "0.90",
+    "recommends": [
+        {
+            "name": "StageRecovery"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "Toolbar"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "TarsierSpaceTech"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/KerbalConstructionTime",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/KerbalConstructionTime-1.1.2/105F97E1-KerbalConstructionTime-1.1.2.zip",
+    "download_size": 587466,
+    "download_hash": {
+        "sha1": "105F97E1202771B1526FD734A361AB2276FC846E",
+        "sha256": "880767CCB76B598E7D777ED8A90E42B01F80641BE8867233C18513EC6FF48387"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

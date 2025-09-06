@@ -1,0 +1,28 @@
+{
+    "spec_version": 1,
+    "identifier": "KerbalEngineerRedux",
+    "name": "Kerbal Engineer Redux",
+    "abstract": "Reveals important statistics about your ship and its orbit during building and flight",
+    "author": "CYBUTEK",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/18230",
+        "repository": "https://ghproxy.net/https://github.com/CYBUTEK/KerbalEngineer"
+    },
+    "version": "1.0.15.2",
+    "ksp_version": "0.90.0",
+    "install": [
+        {
+            "file": "KerbalEngineer",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/CYBUTEK/KerbalEngineer/releases/download/1.0.15.2/KerbalEngineer-1.0.15.2.zip",
+    "download_size": 1019461,
+    "download_hash": {
+        "sha1": "68C01A1DC992CC1CFBB0526DE5704C2A602AB1A2",
+        "sha256": "7465D5713B565E0972EFA2D632E0E4664FAC5203279B450EB4B5F1EDBE42DC0A"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

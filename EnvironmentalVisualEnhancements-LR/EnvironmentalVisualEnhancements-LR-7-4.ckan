@@ -1,0 +1,42 @@
+{
+    "spec_version": 1,
+    "identifier": "EnvironmentalVisualEnhancements-LR",
+    "name": "Environmental Visual Enhancements - Low Resolution",
+    "abstract": "Default configuration for EVE",
+    "author": "rbray89",
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/55905",
+        "repository": "https://ghproxy.net/https://github.com/rbray89/EnvironmentalVisualEnhancements"
+    },
+    "version": "7-4",
+    "ksp_version_min": "0.25",
+    "ksp_version_max": "1.0.4",
+    "provides": [
+        "EnvironmentalVisualEnhancements-Config"
+    ],
+    "depends": [
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "EnvironmentalVisualEnhancements-Config"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/BoulderCo",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/rbray89/EnvironmentalVisualEnhancements/releases/download/7-4/EnvironmentalVisualEnhancements-7-4-LR.zip",
+    "download_size": 9925505,
+    "download_hash": {
+        "sha1": "0A24ADD8B84FC84EB7F995E5A3E2869FB3C61C42",
+        "sha256": "075BC6E39BCC9FD2730DF4FF1845645CF8B6DF47DA352E36DA8493661666410E"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

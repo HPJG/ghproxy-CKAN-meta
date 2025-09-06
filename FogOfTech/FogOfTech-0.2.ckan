@@ -1,0 +1,31 @@
+{
+    "spec_version": 1,
+    "identifier": "FogOfTech",
+    "name": "Fog Of Tech",
+    "abstract": "Hides the nodes of the KSP Technology Tree that you are not able to research yet",
+    "author": "Ser",
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/108183-105-fog-of-tech",
+        "spacedock": "https://spacedock.info/mod/145/Fog%20Of%20Tech",
+        "x_screenshot": "https://spacedock.info/content/Ser_694/Fog_Of_Tech/Fog_Of_Tech-1455820407.5185492.png"
+    },
+    "version": "0.2",
+    "ksp_version_min": "1.0.2",
+    "ksp_version_max": "1.0.5",
+    "install": [
+        {
+            "file": "FogOfTech",
+            "install_to": "GameData",
+            "filter": "src.zip"
+        }
+    ],
+    "download": "https://spacedock.info/mod/145/Fog%20Of%20Tech/download/0.2",
+    "download_size": 9818,
+    "download_hash": {
+        "sha1": "DAD772142C857D37B7E2229A6CB7E7CE8D8F25F6",
+        "sha256": "8B24DD6739021A609063085A79840B9446DD0A0B86C368CA4AB59B30F2AB3A12"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

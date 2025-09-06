@@ -1,0 +1,52 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "Hangar",
+    "name": "Hangar",
+    "abstract": "Hangars are parts that can store whole ships inside. Stored ships are not docked but unloaded, which reduces part count considerably.",
+    "author": "allista",
+    "license": "CC-BY-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/88933",
+        "repository": "https://ghproxy.net/https://github.com/allista/hangar",
+        "bugtracker": "https://ghproxy.net/https://github.com/allista/hangar/issues",
+        "manual": "https://ghproxy.net/https://github.com/allista/hangar/wiki",
+        "kerbalstuff": "https://kerbalstuff.com/mod/270/Hangar"
+    },
+    "version": "2.0.2.2",
+    "ksp_version": "0.90",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "KSPAPIExtensions"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "Extraplanetary-Launchpads"
+        },
+        {
+            "name": "EditorExtensions"
+        },
+        {
+            "name": "KSP-AVC"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/Hangar",
+            "install_to": "GameData",
+            "filter": "KSPAPIExtensions.dll",
+            "comment": "Contains KSPAPIExtensions mod in this distribution"
+        }
+    ],
+    "download": "https://archive.org/download/Hangar-2.0.2.2/526678D9-Hangar-2.0.2.2.zip",
+    "download_size": 25096464,
+    "download_hash": {
+        "sha1": "526678D95627445AC2928302389E5A910B6E4ABF",
+        "sha256": "6D7E7EE694EBD86554FC8C43C6E215DD116B4C65236A9614F363869737CC1BB0"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

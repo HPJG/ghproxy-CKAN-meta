@@ -1,0 +1,36 @@
+{
+    "spec_version": "v1.4",
+    "comment": "KashCorp Shared Assets based off KAP zip file",
+    "identifier": "KashCorpSA",
+    "name": "KashCorp Shared Assets",
+    "abstract": "Shared assets for KashCorp mods",
+    "author": "AlphaAsh",
+    "license": "BSD-3-clause",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/78981-105-kashcorp-parts-rovers-roadsters-v062-kap-v222/",
+        "spacedock": "https://spacedock.info/mod/122/Kerbin's%20Age%20of%20Pioneers",
+        "x_screenshot": "https://spacedock.info/content/AlphaAsh_462/Kerbins_Age_of_Pioneers/Kerbins_Age_of_Pioneers-1460303837.8461812.jpg"
+    },
+    "version": "2.2.2",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "KashCorp",
+            "install_to": "GameData",
+            "filter": "KAP"
+        }
+    ],
+    "download": "https://spacedock.info/mod/122/Kerbin%27s%20Age%20of%20Pioneers/download/2.2.2",
+    "download_size": 3703558,
+    "download_hash": {
+        "sha1": "FC7810DDAD94095CE8D818B3763F52D1EE86C77B",
+        "sha256": "9D4A1EBAC3873FFCC6F7C450C2D831F4807442AD3BC87BC9B33DB0FD2152744E"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

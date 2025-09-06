@@ -1,0 +1,33 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "GimbalForAll",
+    "name": "Gimbal For All",
+    "abstract": "Ever forgotten to include reaction wheels on your ion probe and been completely helpless to control it? Having trouble controling your 75% SRB launch? Why not add GIMBAL! This mod adds one degree of gimballing to all engines, from launch escape systems and SRBs to xenon engines.",
+    "author": "The_Sea_Four",
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/126100-105-gimbal-and-alternators-for-all-2015-11-21/#comment-2291209",
+        "spacedock": "https://spacedock.info/mod/185/Gimbal%20For%20All"
+    },
+    "version": "0.92",
+    "ksp_version": "1.3.1",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "The_Sea_Four",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/185/Gimbal%20For%20All/download/0.92",
+    "download_size": 1271,
+    "download_hash": {
+        "sha1": "A4B427028744CD547EE535801211C3ACB233E40A",
+        "sha256": "33EB65F8A315301961DD0533BAD12D278E7BAAF4429B3B731DE2F409F254A667"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

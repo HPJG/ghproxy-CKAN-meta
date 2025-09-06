@@ -1,0 +1,34 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "KerboKatzSmallUtilities-DisableTempGauges",
+    "name": "KerboKatz - SmallUtilities - DisableTempGauges",
+    "abstract": "Disables the heat gauges everytime you enter the flight",
+    "author": "SpaceTiger",
+    "license": "restricted",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/116034",
+        "kerbalstuff": "https://kerbalstuff.com/mod/863/KerboKatz%20-%20SmallUtilities%20-%20DisableTempGagues",
+        "repository": "https://ghproxy.net/https://github.com/Xarun/SmallUtilities/"
+    },
+    "version": "1.0.0",
+    "ksp_version": "1.0.4",
+    "depends": [
+        {
+            "name": "KerboKatzUtilities"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "DisableTempGagues"
+        }
+    ],
+    "install": [
+        {
+            "find": "DisableTempGagues",
+            "install_to": "GameData/KerboKatz/SmallUtilities"
+        }
+    ],
+    "download": "https://kerbalstuff.com/mod/863/KerboKatz%20-%20SmallUtilities%20-%20DisableTempGagues/download/1.0.0",
+    "download_size": 2680,
+    "x_generated_by": "netkan"
+}

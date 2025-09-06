@@ -1,0 +1,55 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "DeadlyReentry",
+    "name": "Deadly Reentry Continued",
+    "abstract": "Makes re-entry much more dangerous",
+    "author": [
+        "SirKeplan",
+        "StollD",
+        "al2me6",
+        "blowfishpro",
+        "cherrydev",
+        "pjf",
+        "rsparkyc",
+        "stratochief66",
+        "zorg2044",
+        "NathanKell"
+    ],
+    "version": "v8.1.2",
+    "ksp_version_min": "1.8.0",
+    "ksp_version_max": "1.12.99",
+    "license": "CC-BY-SA",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/204209-*",
+        "repository": "https://ghproxy.net/https://github.com/KSP-RO/DeadlyReentry",
+        "bugtracker": "https://ghproxy.net/https://github.com/KSP-RO/DeadlyReentry/issues",
+        "remote-avc": "https://raw.githubusercontent.com/KSP-RO/DeadlyReentry/master/DeadlyReentry/DeadlyReentry.version"
+    },
+    "tags": [
+        "plugin",
+        "parts",
+        "physics",
+        "sound"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager",
+            "min_version": "2.6.5"
+        }
+    ],
+    "install": [
+        {
+            "find": "DeadlyReentry",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/KSP-RO/DeadlyReentry/releases/download/v8.1.2/DeadlyReentry_v8.1.2.zip",
+    "download_size": 820978,
+    "download_hash": {
+        "sha1": "1429FABD3DECDC4253DCEF8E30FEE928A57090CB",
+        "sha256": "94720D45B8B877566D5F88A817775A6FC7BDBEDB8DC484E6D45297FA8E039084"
+    },
+    "download_content_type": "application/zip",
+    "release_date": "2021-08-05T04:56:53Z",
+    "x_generated_by": "netkan"
+}

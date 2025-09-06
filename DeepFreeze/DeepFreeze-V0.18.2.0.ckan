@@ -1,0 +1,71 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "DeepFreeze",
+    "name": "DeepFreeze Continued...",
+    "abstract": "This mod provides the ability to freeze and thaw kerbals for those long space journeys.",
+    "author": "JPLRepo",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/124720-1-0-2-DeepFreeze-Continued-(v0-15-0-5)-8th-June-2015",
+        "repository": "https://ghproxy.net/https://github.com/JPLRepo/DeepFreeze",
+        "kerbalstuff": "https://kerbalstuff.com/mod/895/DeepFreeze%20Continued...",
+        "x_screenshot": "https://kerbalstuff.com/content/JPLRepo_4429/DeepFreeze_Continued/DeepFreeze_Continued-1440817609.929979.png"
+    },
+    "version": "V0.18.2.0",
+    "ksp_version_min": "1.0.0",
+    "ksp_version_max": "1.0.4",
+    "depends": [
+        {
+            "name": "ModuleManager",
+            "min_version": "2.3.5"
+        },
+        {
+            "name": "REPOSoftTech-Agencies"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "Toolbar"
+        },
+        {
+            "name": "RasterPropMonitor"
+        },
+        {
+            "name": "BackgroundProcessing"
+        },
+        {
+            "name": "ShipManifest"
+        },
+        {
+            "name": "ConnectedLivingSpace"
+        },
+        {
+            "name": "USI-LS"
+        },
+        {
+            "name": "TACLS"
+        },
+        {
+            "name": "Snacks"
+        },
+        {
+            "name": "AmpYearPowerManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "REPOSoftTech",
+            "install_to": "GameData",
+            "filter": "Agencies"
+        }
+    ],
+    "download": "https://archive.org/download/DeepFreeze-V0.18.2.0/5EF83413-DeepFreeze-V0.18.2.0.zip",
+    "download_size": 16959786,
+    "download_hash": {
+        "sha1": "5EF8341364479937D89B95378051DEFA4C491C0C",
+        "sha256": "EFF73380A22C63ECFDF4ACAEC093271E1F3AA307B46047955A83791C22521CE0"
+    },
+    "download_content_type": "application/zip",
+    "x_via": "Author JPLRepo",
+    "x_generated_by": "netkan"
+}

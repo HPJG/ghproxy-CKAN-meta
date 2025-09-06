@@ -1,0 +1,30 @@
+{
+    "spec_version": 1,
+    "identifier": "ImageViewer",
+    "name": "Image viewer",
+    "abstract": "Just an ingame image viewer.",
+    "author": "hashashin",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/77970",
+        "spacedock": "https://spacedock.info/mod/80/Image%20viewer",
+        "repository": "https://ghproxy.net/https://github.com/hashashin/ksp-img_viewer",
+        "x_screenshot": "https://spacedock.info/content/hashashin_471/Image_viewer/Image_viewer-1455805162.6379144.png"
+    },
+    "version": "0.3",
+    "ksp_version": "1.1.3",
+    "install": [
+        {
+            "file": "GameData/img_viewer",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/80/Image%20viewer/download/0.3",
+    "download_size": 50225,
+    "download_hash": {
+        "sha1": "62E90D37C6366870DD93317DCAB12B5516167D67",
+        "sha256": "336B3FDA77E0714FD7C8A821E9E4148BC0BFC5599324AB11E04D3EC384A56CB7"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

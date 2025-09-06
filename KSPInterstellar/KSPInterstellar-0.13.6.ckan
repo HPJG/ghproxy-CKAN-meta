@@ -1,0 +1,53 @@
+{
+    "spec_version": 1,
+    "identifier": "KSPInterstellar",
+    "name": "KSP Interstellar",
+    "abstract": "Advanced tech",
+    "author": [
+        "Fractal_UK",
+        "Boris-Barboris"
+    ],
+    "license": "restricted",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/104943",
+        "repository": "https://ghproxy.net/https://github.com/Boris-Barboris/KSPInterstellar"
+    },
+    "version": "0.13.6",
+    "ksp_version" : "0.90",
+    "depends": [
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Toolbar"
+        },
+        {
+            "name": "TechManager"
+        },
+        {
+            "name": "TweakScale"
+        }
+    ],
+    "install": [
+        {
+            "file": "WarpPlugin",
+            "install_to": "GameData"
+        },
+        {
+            "file": "ORSResourcePack",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://dl.dropboxusercontent.com/u/23572905/KSP_Mods/Interstellar_090_0136.zip",
+    "download_size": 51788055,
+    "download_hash": {
+        "sha1": "BDFFDFE7DF91F28A2025B630695D550B21B143E6",
+        "sha256": "8543641A551CE205F828FA59CEF245A50374A5D53C2831885CCB1E89EB2998F8"
+    },
+    "download_content_type": "application/zip",
+    "x_maintained_by": "hakan42 who would like to fly like Scott Manley",
+    "x_generated_by": "netkan"
+}

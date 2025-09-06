@@ -1,0 +1,44 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "ContractConfigurator-Tourism",
+    "name": "Contract Pack: Tourism Plus",
+    "abstract": "Better tourism! A richer tourism experience than stock.  Take tourists to space and to visit the stations and bases that you've already created. Build new tourist attractions like the space casino mega-project.  15 new contracts for tourism.",
+    "author": "nightingale",
+    "license": "CC-BY-NC-SA-4.0",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/102372-*",
+        "repository": "https://ghproxy.net/https://github.com/jrossignol/ContractPack-Tourism",
+        "bugtracker": "https://ghproxy.net/https://github.com/jrossignol/ContractPack-Tourism/issues",
+        "license": "https://raw.githubusercontent.com/jrossignol/ContractPack-Tourism/master/GameData/ContractPacks/Tourism/LICENSE.txt"
+    },
+    "version": "1.4.2",
+    "ksp_version_min": "1.0.5",
+    "depends": [
+        {
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "WaypointManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "Tourism",
+            "install_to": "GameData/ContractPacks"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/jrossignol/ContractPack-Tourism/releases/download/1.4.2/ContractPack-Tourism_1.4.2.zip",
+    "download_size": 43450,
+    "download_hash": {
+        "sha1": "95F98DD9B056A79B78C166B4E2DD3F44F3334612",
+        "sha256": "72E26A4D14FF5C16E95792F38773EDD140338873D28A60ACBB6EFBB5BCD5AA62"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

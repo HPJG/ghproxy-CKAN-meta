@@ -1,0 +1,29 @@
+{
+    "spec_version": 1,
+    "identifier": "Kerbalism",
+    "name": "Kerbalism",
+    "abstract": "Add life support, quality-of-life, radiation, malfunctions, signals and space weather mechanics.",
+    "author": "ShotgunNinja",
+    "license": "public-domain",
+    "resources": {
+        "homepage": "https://ghproxy.net/https://github.com/ShotgunNinja/Kerbalism/wiki",
+        "spacedock": "https://spacedock.info/mod/533/Kerbalism",
+        "repository": "https://ghproxy.net/https://github.com/ShotgunNinja/Kerbalism",
+        "x_screenshot": "https://spacedock.info/content/ShotgunNinja_2282/Kerbalism/Kerbalism-1460950521.2737155.png"
+    },
+    "version": "0.9.9.3",
+    "ksp_version": "1.1.0",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/533/Kerbalism/download/0.9.9.3",
+    "download_size": 2958695,
+    "download_hash": {
+        "sha1": "0548D91F4776E305643CB29AB425CAF275119B84",
+        "sha256": "0566A92FC969A81C560163FCF847A97ABF758AC490F88F7F9059CCA8C39F559D"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

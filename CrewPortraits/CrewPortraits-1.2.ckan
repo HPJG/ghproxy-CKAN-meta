@@ -1,0 +1,35 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "CrewPortraits",
+    "name": "Crew Portraits",
+    "abstract": "Adds Squad's black void IVA to all crew capable parts that have no \"real\" IVA allowing you to see who's aboard!",
+    "author": "TG626",
+    "license": "CC-BY-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/110172",
+        "kerbalstuff": "https://kerbalstuff.com/mod/575/Crew%20Portraits",
+        "x_screenshot": "https://kerbalstuff.com/content/TG626_462/Crew_Portraits/Crew_Portraits-1423537487.8546286.png"
+    },
+    "version": "1.2",
+    "ksp_version": "1.0.4",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/FederalProductions",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/CrewPortraits-1.2/72444741-CrewPortraits-1.2.zip",
+    "download_size": 3403,
+    "download_hash": {
+        "sha1": "7244474152ED96A1E3B5484187504971F5FB6BEF",
+        "sha256": "07F78954C7A7231913C35715F8DBB5D4A8C07BAC3CF2C0CA02D9189C8DB03D46"
+    },
+    "download_content_type": "application/zip",
+    "x_via": "Automated KerbalStuff CKAN submission",
+    "x_generated_by": "netkan"
+}

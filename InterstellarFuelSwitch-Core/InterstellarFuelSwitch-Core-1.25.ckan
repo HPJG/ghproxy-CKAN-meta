@@ -1,0 +1,35 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "InterstellarFuelSwitch-Core",
+    "name": "Interstellar Fuel Switch Core",
+    "abstract": "Core plugin for Interstellar Fuel Switch",
+    "author": "FreeThinker",
+    "license": "GPL-2.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/106243-105interstellar-fuel-switch-118-updated-10-11-2015/",
+        "spacedock": "https://spacedock.info/mod/175/Interstellar%20Fuel%20Switch",
+        "x_screenshot": "https://spacedock.info/content/FreeThinker_517/Interstellar_Fuel_Switch/Interstellar_Fuel_Switch-1455881942.4863732.jpg"
+    },
+    "version": "1.25",
+    "ksp_version": "1.1.1",
+    "depends": [
+        {
+            "name": "CommunityResourcePack",
+            "min_version": "0.4.5"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/InterstellarFuelSwitch/Plugins",
+            "install_to": "GameData/InterstellarFuelSwitch"
+        }
+    ],
+    "download": "https://spacedock.info/mod/175/Interstellar%20Fuel%20Switch/download/1.25",
+    "download_size": 73754,
+    "download_hash": {
+        "sha1": "DB3BB0F04B382A89017625BB406F72DD249C3055",
+        "sha256": "31293F3788ED2B765ECDF3E36F9F24346167A5D3E36F81880B4DC7B41CBAD145"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

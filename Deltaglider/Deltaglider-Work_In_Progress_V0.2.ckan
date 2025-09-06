@@ -1,0 +1,64 @@
+{
+    "spec_version": 1,
+    "identifier": "Deltaglider",
+    "name": "Deltaglider XR-1 for KSP",
+    "abstract": "A variant of Orbiter space flight simulator Deltaglider and Altea Aerospace Deltaglider XR-1 Thanks to Dr. Martin Schweiger,Doug Beachy,Frying Tiger for permission and use of meshes and textures ",
+    "author": "Redneck",
+    "license": "CC-BY-NC-ND",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/130783-WIP-Deltaglider-XR-1"
+    },
+    "version": "Work_In_Progress_V0.2",
+    "ksp_version": "1.0.4",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ASETProps"
+        },
+        {
+            "name": "AGExt"
+        },
+        {
+            "name": "RasterPropMonitor"
+        },
+        {
+            "name": "RasterPropMonitor-Core"
+        },
+        {
+            "name": "KAS"
+        },
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "ShipManifest"
+        },
+        {
+            "name": "ThrottleControlledAvionics"
+        },
+        {
+            "name": "Toolbar"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "TMSTACLSRetexture"
+        },
+        {
+            "name": "VesselView"
+        },
+        {
+            "name": "SCANsat"
+        }
+    ],
+    "download": "https://archive.org/download/Deltaglider-Work_In_Progress_V0.2/169D151F-Deltaglider-Work_In_Progress_V0.2.zip",
+    "download_size": 19855593,
+    "download_hash": {
+        "sha1": "169D151FB63129D7E15162FDE3D03480D617B5CB",
+        "sha256": "DDAC7D5EF50BC905EC981E9490A96A9140D262D5EEF12A7F3AE0D683EC7BAB76"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,30 @@
+{
+    "spec_version": 1,
+    "identifier": "KerbalKonstructs",
+    "name": "Kerbal Konstructs",
+    "abstract": "Create new bases and launch sites in KSP!",
+    "author": "medsouz",
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/105247-1-0-2-Kerbal-Konstructs-(v0-7-4)-Now-With-More-Bits-That-Work-Properly",
+        "repository": "https://ghproxy.net/https://github.com/AlphaAsh/Kerbal-Konstructs",
+        "kerbalstuff": "https://kerbalstuff.com/mod/165/Kerbal%20Konstructs"
+    },
+    "version": "0.8.1",
+    "ksp_version": "1.0.4",
+    "install": [
+        {
+            "file": "medsouz",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/KerbalKonstructs-0.8.1/55FC4B65-KerbalKonstructs-0.8.1.zip",
+    "download_size": 6105135,
+    "download_hash": {
+        "sha1": "55FC4B65DB27800326CFCD544387151039844888",
+        "sha256": "BE5323643DBBBE2B8119C2A1C4BEF75A3A771C58D6EA0B97B8ACA072AD6A388E"
+    },
+    "download_content_type": "application/zip",
+    "x_screenshot": "https://kerbalstuff.com/content/medsouz_789/Kerbal_Konstructs/Kerbal_Konstructs-1431334102.493306.jpg",
+    "x_generated_by": "netkan"
+}

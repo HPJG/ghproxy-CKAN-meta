@@ -1,0 +1,29 @@
+{
+    "spec_version": 1,
+    "identifier": "KerbalFuels",
+    "name": "Kerbal Fuels",
+    "abstract": "A Module Manager configuration pack that aims to replicate Real Fuels tank volumes and part mass ratios while minimizing the chance of inter-mod conflict by maintaining stock resources and forgoing advanced scripting. Best used in conjunction with Real Solar System. Requires Procedural Parts and Module Manager. Currently in test-of-concept stage.",
+    "author": "SorensonPA",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "kerbalstuff": "https://kerbalstuff.com/mod/941/Kerbal%20Fuels"
+    },
+    "version": "0.1",
+    "ksp_version": "1.0.4",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ProceduralParts"
+        }
+    ],
+    "download": "https://archive.org/download/KerbalFuels-0.1/81DB8D4C-KerbalFuels-0.1.zip",
+    "download_size": 8225,
+    "download_hash": {
+        "sha1": "81DB8D4C2080246073CE4C2ABE116F925B870074",
+        "sha256": "039582EF04A6E2D101F5917ACB45522E6E2FA5F61843C6CB0A068F85D5695665"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,34 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "Goodspeed",
+    "name": "GPOSpeedFuelPump",
+    "abstract": "Allows you to automatically transfer or balance fuel",
+    "author": "hab136",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage" : "http://forum.kerbalspaceprogram.com/index.php?/topic/137489-11-gpospeedfuelpump-continued/",
+        "repository": "https://ghproxy.net/https://github.com/henrybauer/GPOSpeedPump"
+    },
+    "version": "v1.8.5",
+    "ksp_version": "1.2.0",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "GPOSpeedFuelPump",
+            "install_to": "GameData",
+            "filter": "sourcecode"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/henrybauer/GPOSpeedPump/releases/download/v1.8.5/GPOSpeedFuelPump-v1.8.5.zip",
+    "download_size": 11369,
+    "download_hash": {
+        "sha1": "96D0CBECD18CDA9B7A6855BA74F2AA31CDB24D87",
+        "sha256": "6F6A1CF6ABF6B60B2E04374E65EBAC20C0C8098FF71ED0AF27DF72FD1B51C1B3"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

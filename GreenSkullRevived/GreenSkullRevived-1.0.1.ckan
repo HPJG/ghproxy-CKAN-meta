@@ -1,0 +1,44 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "GreenSkullRevived",
+    "name": "Green Skull Revived",
+    "abstract": "Green Skull Suits for Texture Replacer, Both for Vanilla and Futuristic Suits",
+    "author": "jiraiyah",
+    "version": "1.0.1",
+    "ksp_version": "1.11.0",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/191298-green-skull-revived/",
+        "spacedock": "https://spacedock.info/mod/2317/Green%20Skull%20Revived",
+        "x_screenshot": "https://spacedock.info/content/jiraiyah_7998/Green_Skull_Revived/Green_Skull_Revived-1596930029.755723.png"
+    },
+    "tags": [
+        "config",
+        "graphics",
+        "crewed"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "TextureReplacer"
+        }
+    ],
+    "install": [
+        {
+            "find": "TextureReplacer",
+            "install_to": "GameData/GreenSkullRevived"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2317/Green%20Skull%20Revived/download/1.0.1",
+    "download_size": 191552907,
+    "download_hash": {
+        "sha1": "AFC5DF82B452E8BE32827D752237A03518688692",
+        "sha256": "F023B174AA8A3C518BFDDEAC74E7D7AEB48162E6582FEE333CB6345E24D43FCD"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 871797777,
+    "release_date": "2020-02-03T09:30:13.052088+00:00",
+    "x_generated_by": "netkan"
+}

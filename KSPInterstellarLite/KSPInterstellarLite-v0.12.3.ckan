@@ -1,0 +1,60 @@
+{
+    "spec_version": 1,
+    "identifier": "KSPInterstellarLite",
+    "name": "KSP Interstellar Lite",
+    "abstract": "Lite version of KSP Interstellar",
+    "author": [
+        "confusingbits",
+        "FractalUK"
+    ],
+    "license": "unrestricted",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/82882-*",
+        "repository": "https://ghproxy.net/https://github.com/confusingbits/KSPInterstellar"
+    },
+    "version": "v0.12.3",
+    "ksp_version": "0.24.2",
+    "provides": [
+        "KSPInterstellar"
+    ],
+    "depends": [
+        {
+            "name": "OpenResourceSystem"
+        },
+        {
+            "name": "TreeLoader"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Toolbar"
+        },
+        {
+            "name": "TweakScale"
+        },
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "KSPInterstellar"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/Interstellar",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/confusingbits/KSPInterstellar/releases/download/v0.12.3/Interstellar.Lite.v0.12.3.zip",
+    "download_size": 54100142,
+    "download_hash": {
+        "sha1": "503EB897CED30B2C4671C77A8214BEA5ABD5A61C",
+        "sha256": "06EFFCC255914AD089210EA27387775D463F292C2126F850B2AE276ABF12EE4A"
+    },
+    "download_content_type": "application/zip",
+    "x_maintained_by": "distantcam",
+    "x_generated_by": "netkan"
+}

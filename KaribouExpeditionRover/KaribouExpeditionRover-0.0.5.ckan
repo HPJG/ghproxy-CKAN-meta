@@ -1,0 +1,45 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "KaribouExpeditionRover",
+    "name": "Karibou Expedition Rover",
+    "abstract": "A modular rover pack for construction and colonization",
+    "author": "Roverdude",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/133186",
+        "kerbalstuff": "https://kerbalstuff.com/mod/1132/Karibou%20Expedition%20Rover",
+        "x_screenshot": "https://kerbalstuff.com/content/Roverdude_9553/Karibou_Expedition_Rover/Karibou_Expedition_Rover-1441130056.3996115.png"
+    },
+    "version": "0.0.5",
+    "ksp_version": "1.0.4",
+    "conflicts": [
+        {
+            "name": "UKS"
+        }
+    ],
+    "depends": [
+        {
+            "name": "FirespitterCore"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "USITools"
+        }
+    ],
+    "install": [
+        {
+            "find": "Karibou",
+            "install_to": "GameData/UmbraSpaceIndustries"
+        }
+    ],
+    "download": "https://archive.org/download/KaribouExpeditionRover-0.0.5/51552DE0-KaribouExpeditionRover-0.0.5.zip",
+    "download_size": 6237912,
+    "download_hash": {
+        "sha1": "51552DE0B0C884D6DCCBFDAEDDD235E4A863023E",
+        "sha256": "2AECE80EF59E3A4753041B7CE6A376D83942284A1247A28E177BF429138E641B"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

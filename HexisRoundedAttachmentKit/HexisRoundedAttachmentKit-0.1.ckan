@@ -1,0 +1,27 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "HexisRoundedAttachmentKit",
+    "name": "Hexi's Rounded Attachment Kit",
+    "abstract": "Create bases, trucks, and other things from modular parts!",
+    "author": "Hexicube",
+    "license": "CC-BY-SA-4.0",
+    "resources": {
+        "kerbalstuff": "https://kerbalstuff.com/mod/1034/Hexi's%20Rounded%20Attachment%20Kit"
+    },
+    "version": "0.1",
+    "ksp_version": "1.0.4",
+    "install": [
+        {
+            "find": "HexiBaseKit",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/HexisRoundedAttachmentKit-0.1/A5577FB6-HexisRoundedAttachmentKit-0.1.zip",
+    "download_size": 105635,
+    "download_hash": {
+        "sha1": "A5577FB62448EC37FE8E1A6BED4A4F31EFFAE629",
+        "sha256": "6926EEEB639CA852F8FEA826C5CC3D86155F4024A6ED1638AEA8F165E6B53BA8"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

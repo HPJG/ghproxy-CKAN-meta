@@ -1,0 +1,35 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "DockingcameraKURSstyle",
+    "name": "Docking camera (KURS style).",
+    "abstract": "Docking camera (KURS style) and PartCamera. Windowed",
+    "author": "DennyTX",
+    "license": "CC-BY-SA-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/138397-Docking-camera-(KURS-style)",
+        "repository": "https://ghproxy.net/https://github.com/DennyTX/DockingCam/",
+        "x_screenshot": "http://ckan1.spacedock.info/storage/DennyTX_89/Docking_camera_KURS_style/Docking_camera_KURS_style-1446706887.3485103.png"
+    },
+    "version": "1.4",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "OLDD",
+            "install_to": "GameData",
+            "filter": "Thumbs.db"
+        }
+    ],
+    "download": "https://archive.org/download/DockingcameraKURSstyle-1.4/F01A1F7B-DockingcameraKURSstyle-1.4.zip",
+    "download_size": 560592,
+    "download_hash": {
+        "sha1": "F01A1F7B38C8C1EAF14300AE48932014FFD15359",
+        "sha256": "C7EFCF7C8B71AE2A6CB3A4FBA711B61A9501012965EF4DE668268DC972ADD980"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

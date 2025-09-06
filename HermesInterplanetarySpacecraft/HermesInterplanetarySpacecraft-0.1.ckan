@@ -1,0 +1,33 @@
+{
+    "spec_version": "v1.12",
+    "identifier": "HermesInterplanetarySpacecraft",
+    "name": "Hermes Interplanetary Spacecraft",
+    "abstract": "A replica of the Hermes from \"The Martian\"",
+    "author": "xxhansonmaxx",
+    "license": "CC-BY-NC-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/122122-wip-hermes-interplanetary-spacecraft-from-the-martian-mdv-release/",
+        "kerbalstuff": "https://kerbalstuff.com/mod/1338/Hermes%20Interplanetary%20Spacecraft",
+        "x_screenshot": "https://kerbalstuff.com/content/xxhansonmaxx_8563/Hermes_Interplanetary_Spacecraft/Hermes_Interplanetary_Spacecraft-1449537486.372879.jpg"
+    },
+    "version": "0.1",
+    "ksp_version": "1.0.5",
+    "install": [
+        {
+            "file": "AresExploration",
+            "install_to": "GameData"
+        },
+        {
+            "file": "hermes.craft",
+            "install_to": "Ships/SPH"
+        }
+    ],
+    "download": "https://archive.org/download/HermesInterplanetarySpacecraft-0.1/5018D28F-HermesInterplanetarySpacecraft-0.1.zip",
+    "download_size": 12829147,
+    "download_hash": {
+        "sha1": "5018D28FB3F53C8E4142371F512CE7758FC84CE3",
+        "sha256": "1549E33AA69547E07C36F864915B602A5D55A4630FC8B0C80085AB7A8B42D761"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

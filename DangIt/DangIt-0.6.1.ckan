@@ -1,0 +1,38 @@
+{
+    "spec_version": 1,
+    "identifier": "DangIt",
+    "name": "DangIt!",
+    "abstract": "A random failure mod for KSP.",
+    "author": "Ippo",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/81794",
+        "repository": "https://ghproxy.net/https://github.com/Ippo343/DangIt",
+        "bugtracker": "https://ghproxy.net/https://github.com/Ippo343/DangIt/issues",
+        "kerbalstuff": "https://kerbalstuff.com/mod/7",
+        "x_screenshot": "https://kerbalstuff.com/content/Ippo_9/DangIt/DangIt.png"
+    },
+    "version": "0.6.1",
+    "ksp_version": "1.0.4",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "Entropy"
+        }
+    ],
+    "download": "https://archive.org/download/DangIt-0.6.1/DC44F927-DangIt-0.6.1.zip",
+    "download_size": 142755,
+    "download_hash": {
+        "sha1": "DC44F927A1B19C2DFAAFEC365A04CDF9C862215A",
+        "sha256": "B022CA681687432C9CEDD57AFF01F266CF07D5EAE73F5412158375E3956F5782"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,80 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "GPO",
+    "name": "Gameslinx Planet Overhaul",
+    "abstract": "A large planet mod which comes with its own suite of visuals for your enjoyment. This mod adds 28 new worlds to explore.",
+    "author": "Gameslinx",
+    "version": "3.4.0",
+    "ksp_version": "1.4.3",
+    "license": "CC-BY-NC-ND-4.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/155740-*",
+        "repository": "https://ghproxy.net/https://github.com/Gameslinx/Gameslinx-Planet-Overhaul",
+        "bugtracker": "https://ghproxy.net/https://github.com/Gameslinx/Gameslinx-Planet-Overhaul/issues",
+        "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=554"
+    },
+    "tags": [
+        "config",
+        "planet-pack",
+        "graphics"
+    ],
+    "provides": [
+        "EnvironmentalVisualEnhancements-Config"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "CommunityTerrainTexturePack"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "Scatterer-config"
+        },
+        {
+            "name": "Scatterer-sunflare-default"
+        },
+        {
+            "name": "INSTANTIATOR"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "SigmaReplacements-SkyBox"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "KS3P"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "GPP"
+        }
+    ],
+    "install": [
+        {
+            "find": "GPO",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/Gameslinx/Gameslinx-Planet-Overhaul/releases/download/3.4.0/Gameslinx.s.Planet.Overhaul.3.4.zip",
+    "download_size": 522718666,
+    "download_hash": {
+        "sha1": "2D3ECE7F1DCAD6D51698BC50275E76F7F6421098",
+        "sha256": "16DC8E7C171CCD1A2275512CA45557D1420ABB4E3D3E629B47ACF935CCF37C58"
+    },
+    "download_content_type": "application/zip",
+    "release_date": "2018-06-04T09:22:52Z",
+    "x_generated_by": "netkan"
+}

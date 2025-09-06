@@ -1,0 +1,22 @@
+{
+    "spec_version": 1,
+    "identifier": "DynamicTextureLoader",
+    "name": "Dynamic Texture Loader",
+    "abstract": "Without sacrificing parts or texture quality, this mod unloads and loads textures on the fly! Increase texture resolution to max again!",
+    "author": "rbray89",
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/128660-1051-0-dec-25-2015-dynamic-texture-loader/",
+        "repository": "https://ghproxy.net/https://github.com/rbray89/DynamicTextureLoader"
+    },
+    "version": "DTL-1.5",
+    "ksp_version": "1.0.5",
+    "download": "https://ghproxy.net/https://github.com/rbray89/DynamicTextureLoader/releases/download/DTL-1.5/x86-DynamicTextureLoader-Release.zip",
+    "download_size": 13099,
+    "download_hash": {
+        "sha1": "1968A10DD8EF7CC78A88F5A983285F71BA2F389F",
+        "sha256": "AEDCEEA560EC50A6A003E49E7E223E34D526430708358A9021BEA05A91009B24"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

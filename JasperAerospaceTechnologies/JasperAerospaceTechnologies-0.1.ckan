@@ -1,0 +1,36 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "JasperAerospaceTechnologies",
+    "name": "Jasper Aerospace Technologies",
+    "abstract": "Aerospace technologies to help in exploring the greater Kerbal System!",
+    "author": "Kalloran",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/113517-0-90-Part-Jasper-Aerospace-Technologies-ISRU-Pack",
+        "kerbalstuff": "https://kerbalstuff.com/mod/652/Jasper%20Aerospace%20Technologies"
+    },
+    "version": "0.1",
+    "ksp_version": "0.90.0",
+    "depends": [
+        {
+            "name": "Regolith"
+        },
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "install": [
+        {
+            "find": "JAT",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/JasperAerospaceTechnologies-0.1/8D3B6FFD-JasperAerospaceTechnologies-0.1.zip",
+    "download_size": 594653,
+    "download_hash": {
+        "sha1": "8D3B6FFD6C02AD19EB526D5C1DB8B3B150BC00C6",
+        "sha256": "9CE9A47F0258C6D89326A4862DF5D0B6C83ECAFE3B355E830E7A314BB512A158"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

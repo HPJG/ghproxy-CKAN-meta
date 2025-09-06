@@ -1,0 +1,37 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "Farscape",
+    "name": "Farscape",
+    "abstract": "The Farscape One module from the hit SciFi show Farscape.  ",
+    "author": "Odyssey",
+    "license": "MIT",
+    "resources": {
+        "kerbalstuff": "https://kerbalstuff.com/mod/1176/Farscape",
+        "x_screenshot": "https://kerbalstuff.com/content/Odyssey_1082/Farscape/Farscape-1443674036.626066.png"
+    },
+    "version": "4",
+    "ksp_version": "1.0.4",
+    "install": [
+        {
+            "find": "Mike_NZ_Crafts",
+            "install_to": "GameData",
+            "filter": "Thumbs.db"
+        },
+        {
+            "find": "SPH",
+            "install_to": "Ships"
+        },
+        {
+            "find": "Flags",
+            "install_to": "GameData/Mike_NZ_Crafts"
+        }
+    ],
+    "download": "https://s3-us-west-2.amazonaws.com/ksp-ckan/FC7D40DA.zip",
+    "download_size": 6276310,
+    "download_hash": {
+        "sha1": "2D63F54AD3A02179B5598380CCE90A90F2CD0503",
+        "sha256": "AA7E12335A5737B797B0D345419A86E0092C90FC1B3F3EDFB682F7098CB021AC"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

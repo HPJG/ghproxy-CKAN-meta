@@ -1,0 +1,38 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "KerbalLifeScience",
+    "name": "Kerbal Life Science",
+    "abstract": "Use Kerbals as test subjects to get science",
+    "author": "N3h3mia",
+    "license": "GPL-3.0",
+    "resources": {
+        "repository": "https://ghproxy.net/https://github.com/N3h3miah/OrbitalMaterialScience",
+        "kerbalstuff": "https://kerbalstuff.com/mod/627/Kerbal%20Life%20Science",
+        "x_screenshot": "https://kerbalstuff.com/content/N3h3mia_5677/Kerbal_Life_Science/Kerbal_Life_Science-1425474543.4114246.jpg"
+    },
+    "version": "0.1.1",
+    "ksp_version": "0.90.0",
+    "depends": [
+        {
+            "name": "NehemiahScienceCommon"
+        },
+        {
+            "name": "NehemiahMultiPurposeParts"
+        }
+    ],
+    "install": [
+        {
+            "file": "NehemiahInc/KerbalLifeScience",
+            "install_to": "GameData/NehemiahInc"
+        }
+    ],
+    "download": "https://archive.org/download/KerbalLifeScience-0.1.1/04B33BC5-KerbalLifeScience-0.1.1.zip",
+    "download_size": 4138328,
+    "download_hash": {
+        "sha1": "04B33BC5B310D3204E4C7C48D1513B17D835CB95",
+        "sha256": "D7F77CFDCC50D516926BCF5A05B3F933DCA24E2D1B6E559569C8E5CEBAF4B1A2"
+    },
+    "download_content_type": "application/zip",
+    "x_via": "Automated KerbalStuff CKAN submission",
+    "x_generated_by": "netkan"
+}

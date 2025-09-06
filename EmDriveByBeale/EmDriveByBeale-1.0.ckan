@@ -1,0 +1,34 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "EmDriveByBeale",
+    "name": "Em Drive",
+    "abstract": "Reactionless Resonant Cavity Thruster",
+    "author": "Beale",
+    "version": "1.0",
+    "ksp_version": "1.2.2",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/153465-122-em-drive-resonant-cavity-thruster/",
+        "spacedock": "https://spacedock.info/mod/1113/Em%20Drive",
+        "x_screenshot": "https://spacedock.info/content/Beale_838/Em_Drive/Em_Drive-1481657761.3850164.png"
+    },
+    "tags": [
+        "plugin",
+        "parts"
+    ],
+    "install": [
+        {
+            "find": "EmDrive",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1113/Em%20Drive/download/1.0",
+    "download_size": 80367,
+    "download_hash": {
+        "sha1": "E855FB7779A05642FA31124B82C76E92A8F0FF78",
+        "sha256": "E6411339D9FDE21FC11F4A562DB4636DE971B3C9EC9EEDE7184EE7D72357C5F4"
+    },
+    "download_content_type": "application/zip",
+    "release_date": "2016-12-13T20:28:36.107666+00:00",
+    "x_generated_by": "netkan"
+}

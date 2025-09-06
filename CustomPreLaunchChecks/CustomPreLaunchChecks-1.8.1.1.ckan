@@ -1,0 +1,42 @@
+{
+    "spec_version": 1,
+    "identifier": "CustomPreLaunchChecks",
+    "name": "Custom Pre Launch Checks",
+    "abstract": "A C# API so you can write your own prelaunch Checks, that run when you press the launch button in the VAB or SPH",
+    "author": [
+        "GER-Space",
+        "al2me6",
+        "blowfishpro",
+        "Capkirk123",
+        "NathanKell",
+        "pjf",
+        "rsparkyc",
+        "SirKeplan",
+        "StollD",
+        "StonesmileGit",
+        "stratochief66",
+        "zorg2044"
+    ],
+    "version": "1.8.1.1",
+    "ksp_version_min": "1.8.0",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/204210-*",
+        "repository": "https://ghproxy.net/https://github.com/KSP-RO/CustomPreLaunchChecks",
+        "remote-avc": "https://raw.githubusercontent.com/KSP-RO/CustomPreLaunchChecks/master/GameData/CustomPreLaunchChecks/CustomPreLaunchChecks.version"
+    },
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "download": "https://ghproxy.net/https://github.com/KSP-RO/CustomPreLaunchChecks/releases/download/1.8.1.1/CustomPreLaunchChecks-1.8.1.1.zip",
+    "download_size": 10227,
+    "download_hash": {
+        "sha1": "1AA8DBD4979A3386016DAB61F3EF75FE01C0B95A",
+        "sha256": "1D2D355E59A6E32BE4B551F90078090056638A30033258B1693A44A4EBF1CC04"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 42438,
+    "release_date": "2021-07-25T03:27:50Z",
+    "x_generated_by": "netkan"
+}

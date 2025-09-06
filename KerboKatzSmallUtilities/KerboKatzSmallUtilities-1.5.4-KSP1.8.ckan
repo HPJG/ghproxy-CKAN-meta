@@ -1,0 +1,43 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "KerboKatzSmallUtilities",
+    "name": "KerboKatz - SmallUtilities",
+    "abstract": "A bunch of small utilities to make life in kerbal more enjoyable.",
+    "author": [
+        "SpaceTiger",
+        "SpaceKitty"
+    ],
+    "version": "1.5.4-KSP1.8",
+    "ksp_version": "1.8",
+    "license": "restricted",
+    "resources": {
+        "homepage": "http://kerbokatz.github.io/",
+        "repository": "https://ghproxy.net/https://github.com/KerboKatz/SmallUtilities",
+        "bugtracker": "https://ghproxy.net/https://github.com/KerboKatz/SmallUtilities/issues"
+    },
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "depends": [
+        {
+            "name": "KerboKatzUtilities",
+            "min_version": "1.5.2"
+        }
+    ],
+    "install": [
+        {
+            "find": "SmallUtilities",
+            "install_to": "GameData/KerboKatz"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/KerboKatz/SmallUtilities/releases/download/1.5.4-KSP1.8/SmallUtilities.zip",
+    "download_size": 181201,
+    "download_hash": {
+        "sha1": "21DA1306F80F228338C927B108AD9DBA85A13C0D",
+        "sha256": "6E47A15E492B468810BA4B4F0978DBCDDB089D2A90120ED0341789A665778530"
+    },
+    "download_content_type": "application/zip",
+    "release_date": "2019-10-18T19:34:50Z",
+    "x_generated_by": "netkan"
+}

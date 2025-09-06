@@ -1,0 +1,22 @@
+{
+    "spec_version": 1,
+    "identifier": "KSPIRC",
+    "name": "KSPIRC",
+    "abstract": "Use Internet Relay Chat (IRC) from within KSP",
+    "author": "timmers_uk",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/101868",
+        "kerbalstuff": "https://kerbalstuff.com/mod/422/KSPIRC"
+    },
+    "version": "0.14.1.1",
+    "ksp_version": "1.0.2",
+    "download": "https://archive.org/download/KSPIRC-0.14.1.1/1ACCD432-KSPIRC-0.14.1.1.zip",
+    "download_size": 181528,
+    "download_hash": {
+        "sha1": "1ACCD43272073ADD939E15B9206282FAE3104D2A",
+        "sha256": "4138F570A2B18AB69E63D55D98A1696E395BC05E1725A48691F6D8FC41EC5939"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

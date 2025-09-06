@@ -1,0 +1,54 @@
+{
+    "spec_version": 1,
+    "identifier": "CustomAsteroids",
+    "name": "Custom Asteroids",
+    "abstract": "Custom Asteroids is a mod for KSP that expands the stock asteroid functionality. Under Custom Asteroids most asteroids will not be on a flyby course for Kerbin. Instead, the mod places asteroids in specific populations throughout the stock kerbol system.",
+    "author": "Starstrider42",
+    "license": "MIT",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/80483",
+        "repository": "https://ghproxy.net/https://github.com/Starstrider42/Custom-Asteroids",
+        "bugtracker": "https://ghproxy.net/https://github.com/Starstrider42/Custom-Asteroids/issues",
+        "manual": "http://starstrider42.github.io/Custom-Asteroids/",
+        "x_screenshot": "https://spacedock.info/content/Starstrider42_1134/Custom_Asteroids/Custom_Asteroids-1456053768.2688773.png"
+    },
+    "version": "v1.1.0",
+    "ksp_version_min": "0.25",
+    "ksp_version_max": "1.0.4",
+    "depends": [
+        {
+            "name": "CustomAsteroids-Pops"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "CustomAsteroids-Pops-Stock-Inner"
+        },
+        {
+            "name": "CustomAsteroids-Pops-Stock-Outer"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "Kopernicus",
+            "min_version": "1:beta-06"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/CustomAsteroids",
+            "install_to": "GameData",
+            "filter": "config"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/Starstrider42/Custom-Asteroids/releases/download/v1.1.0/CustomAsteroids_v1.1.0.zip",
+    "download_size": 24276,
+    "download_hash": {
+        "sha1": "AD1A945B953ED560F4D8E6A75BEA29D84BD9BCD5",
+        "sha256": "6C7058CE7D5A307B53D94B111F4C68BA7B24A5AE2533108F1A553AD175BA496C"
+    },
+    "download_content_type": "application/zip",
+    "x_maintained_by": "Starstrider42",
+    "x_generated_by": "netkan"
+}

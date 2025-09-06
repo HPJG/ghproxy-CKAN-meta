@@ -1,0 +1,34 @@
+{
+    "spec_version": 1,
+    "identifier": "ContractConfigurator-AdvancedProgression",
+    "name": "Contract Pack: Advanced Progression",
+    "abstract": "A set of contracts to give more focus to career mode. ",
+    "author": "Tjsnh",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/113119-Advanced-Progression-Contracts",
+        "kerbalstuff": "https://kerbalstuff.com/mod/642/Advanced%20Progression%20Contracts"
+    },
+    "version": "2.1",
+    "ksp_version": "0.90",
+    "depends": [
+        {
+            "name": "ContractConfigurator",
+            "min_version": "0.7.0"
+        }
+    ],
+    "install": [
+        {
+            "find": "AdvancedProgression",
+            "install_to": "GameData/ContractPacks"
+        }
+    ],
+    "download": "https://archive.org/download/ContractConfigurator-AdvancedProgression-2.1/7E7F1FB7-ContractConfigurator-AdvancedProgression-2.1.zip",
+    "download_size": 9334,
+    "download_hash": {
+        "sha1": "7E7F1FB7664846292622DE129C88F3F3E365DE74",
+        "sha256": "53D088ED5DDAEC6CC4DF49B37B01E958016C8CA51008CB8C27585F2D058471AA"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

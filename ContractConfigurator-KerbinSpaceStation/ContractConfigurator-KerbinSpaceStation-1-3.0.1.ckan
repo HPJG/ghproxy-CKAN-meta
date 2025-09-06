@@ -1,0 +1,43 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "ContractConfigurator-KerbinSpaceStation",
+    "name": "Contract Pack: Kerbin Space Station",
+    "abstract": "A contract pack to replace the default Squad build a Space Station missions",
+    "author": "severedsolo",
+    "license": "CC-BY-SA-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/113642",
+        "repository": "https://ghproxy.net/https://github.com/severedsolo/KerbinSpaceStation"
+    },
+    "version": "1:3.0.1",
+    "ksp_version_min": "0.90.0",
+    "ksp_version_max": "1.0.4",
+    "depends": [
+        {
+            "name": "ContractConfigurator",
+            "min_version": "0.7.12"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "ContractConfigurator-UsefulSpaceStations"
+        }
+    ],
+    "install": [
+        {
+            "find": "KerbinSpaceStation",
+            "install_to": "GameData/ContractPacks"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/severedsolo/KerbinSpaceStation/releases/download/3.0.1/KerbinSpaceStation3.0.1.zip",
+    "download_size": 82568,
+    "download_hash": {
+        "sha1": "F4135A91F31ED9C6D34B10EBA250647E71ADFFD0",
+        "sha256": "574391600700D9EE1D302A3A3B730A769FA86AF8636F2B4745B2AB004B86DF78"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

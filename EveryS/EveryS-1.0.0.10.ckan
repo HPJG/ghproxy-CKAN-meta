@@ -1,0 +1,30 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "EveryS",
+    "name": "EveryS",
+    "abstract": "All Kerbals grin like maniacs, not just Jeb and Val.",
+    "author": "BiffSpace",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/138338-11-plugin-everys-a-bad-s/",
+        "spacedock": "https://spacedock.info/mod/612/EveryS",
+        "x_screenshot": "https://spacedock.info/content/BiffSpace_2144/EveryS/EveryS-1461830662.4535637.jpg"
+    },
+    "version": "1.0.0.10",
+    "ksp_version": "1.1.1",
+    "install": [
+        {
+            "find": "EveryS",
+            "install_to": "GameData",
+            "filter": "Source"
+        }
+    ],
+    "download": "https://spacedock.info/mod/612/EveryS/download/1.0.0.10",
+    "download_size": 3624,
+    "download_hash": {
+        "sha1": "1B8A1FA9A77D025D797A761AC61A907BECF80217",
+        "sha256": "B0EE77AD42A5C316D92315E401FFAA049F0A4659A239618F1D1B8BDF12077AFE"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,34 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "KSABetterFairings",
+    "name": "KSA Better Fairigns",
+    "abstract": "Stock fairings replace",
+    "author": "RangeMachine",
+    "license": "CC-BY-SA-2.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/124624-ksa-better-fairings/",
+        "spacedock": "https://spacedock.info/mod/212/KSA%20Better%20Fairigns",
+        "x_screenshot": "https://spacedock.info/content/RangeMachine_1146/KSA_Better_Fairigns/KSA_Better_Fairigns-1456057648.265225.png"
+    },
+    "version": "1.0.1",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "KSA",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/212/KSA%20Better%20Fairigns/download/1.0.1",
+    "download_size": 57965,
+    "download_hash": {
+        "sha1": "0B1CDB14267478D1E97FAB86178A7AB82706F47D",
+        "sha256": "44C4F05F6105C9D4EC5F0D7DB57FC0063172C5510C454CFCE90E4F7741DE7914"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,36 @@
+{
+    "spec_version": "v1.20",
+    "identifier": "EasyVesselSwitch",
+    "name": "Easy Vessel Switch (EVS)",
+    "abstract": "The stock game doesn't offer a consistent model of the camera positioning when the active vessel is switched. The EVS does. Now, your camera won't jump randomly as you switch between the vessels. Additionally to that you get some more features (see the forum).",
+    "author": [
+        "IgorZ"
+    ],
+    "license": "public-domain",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/141180-easy-vessel-switch-evs/",
+        "curse": "https://kerbal.curseforge.com/projects/245805",
+        "repository": "https://ghproxy.net/https://github.com/ihsoft/EasyVesselSwitch",
+        "bugtracker": "https://ghproxy.net/https://github.com/ihsoft/EasyVesselSwitch/issues",
+        "x_screenshot": "https://media.forgecdn.net/avatars/thumbnails/42/203/120/120/636006100400447117.jpeg"
+    },
+    "version": "1.0.3.0",
+    "ksp_version_min": "1.1.2",
+    "ksp_version_max": "1.1.99",
+    "suggests": [
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "KAS"
+        }
+    ],
+    "download": "https://media.forgecdn.net/files/2331/443/EasyVesselSwitch_v1.0.3.zip",
+    "download_size": 41643,
+    "download_hash": {
+        "sha1": "60B5B358D0266BD94D726E6857130DCDAE49E08E",
+        "sha256": "2A10622EBF094FCF2006DAA0FC2359B305AEEA774E1F7BD00B05D40F9182B7E1"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

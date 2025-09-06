@@ -1,0 +1,42 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "CommunityTechTree",
+    "name": "Community Tech Tree",
+    "abstract": "An extension for the stock technology tree designed to support many mods",
+    "author": "Nertea",
+    "license": "CC-BY-NC-4.0",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/100385-Community-Tech-Tree-2-0-last-updated-03-05-15?p=1546633#post1546633"
+    },
+    "version": "2.3",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "ModuleManager",
+            "min_version": "2.6.2"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "ModOrientedTechTree"
+        },
+        {
+            "name": "ModOrientedTechTree-Unmanned"
+        }
+    ],
+    "install": [
+        {
+            "find": "CommunityTechTree",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "http://addons-origin.cursecdn.com/files/2282/196/CommunityTechTree2_3_0.zip",
+    "download_size": 9613,
+    "download_hash": {
+        "sha1": "FFB5EBF5B621FD43DFC471EAB7BC778534231CAB",
+        "sha256": "94300280AB918FFCCBB181624F3FE38A24A97572AA359CEF706B25FC2A17D69D"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,95 @@
+{
+    "spec_version": "v1.10",
+    "identifier": "DSEV",
+    "name": "DSEV",
+    "abstract": "Deep Space Exploration Vessels for KSP",
+    "author": "Angel-125",
+    "version": "v3.31.0",
+    "ksp_version_min": "1.12.2",
+    "license": "restricted",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/122162-*",
+        "repository": "https://ghproxy.net/https://github.com/Angel-125/DSEV",
+        "bugtracker": "https://ghproxy.net/https://github.com/Angel-125/DSEV/issues",
+        "remote-avc": "https://raw.githubusercontent.com/Angel-125/DSEV/master/GameData/WildBlueIndustries/DSEV/DSEV.version"
+    },
+    "tags": [
+        "parts",
+        "plugin",
+        "crewed"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "WBIProps"
+        },
+        {
+            "name": "WBIResources"
+        },
+        {
+            "name": "WBIScience"
+        },
+        {
+            "name": "WBIWidgets"
+        },
+        {
+            "name": "NearFutureProps"
+        },
+        {
+            "name": "KerbalActuators"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "ClassicStockResources"
+        },
+        {
+            "name": "RasterPropMonitor-Core"
+        },
+        {
+            "name": "AvionicsSystems"
+        },
+        {
+            "name": "ASETProps"
+        },
+        {
+            "name": "ASETAvionics"
+        },
+        {
+            "name": "InfernalRobotics"
+        },
+        {
+            "name": "Snacks"
+        }
+    ],
+    "install": [
+        {
+            "find": "WildBlueIndustries/DSEV",
+            "install_to": "GameData/WildBlueIndustries",
+            "filter_regexp": [
+                ".*\\.pdb$",
+                "ReferenceDesigns"
+            ]
+        },
+        {
+            "find": "VAB",
+            "install_to": "Ships"
+        },
+        {
+            "find": "SPH",
+            "install_to": "Ships"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/Angel-125/DSEV/releases/download/v3.31.0/DSEV.zip",
+    "download_size": 132833425,
+    "download_hash": {
+        "sha1": "6108AF50C5FF52B6124325EF734AADF0C71F4372",
+        "sha256": "064F2086168C08204C8E8CE4062031AF59C096EDD68E0070217367C5EFC780F4"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 354712271,
+    "release_date": "2025-04-27T01:00:12Z",
+    "x_generated_by": "netkan"
+}

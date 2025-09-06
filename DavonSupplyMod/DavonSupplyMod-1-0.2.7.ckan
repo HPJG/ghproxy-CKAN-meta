@@ -1,0 +1,51 @@
+{
+    "spec_version": 1,
+    "identifier": "DavonSupplyMod",
+    "name": "Davon Supply Mod",
+    "abstract": "This mod automated way for the at times repetitive chore of fuel supply missions in an acceptable and realistic manner.",
+    "author": [
+        "PrivateFlip",
+        "linuxgurugamer"
+    ],
+    "version": "1:0.2.7",
+    "ksp_version_min": "1.8.0",
+    "ksp_version_max": "1.11.1",
+    "license": "GPL-2.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/192101-*",
+        "spacedock": "https://spacedock.info/mod/364/Davon%20Supply%20Mod",
+        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/DavonSupplyMod",
+        "remote-avc": "http://ksp.spacetux.net/avc/DavonSupplyMod",
+        "x_screenshot": "https://spacedock.info/content/PrivateFlip_1691/Davon_Supply_Mod/Davon_Supply_Mod-1457289612.9609787.png"
+    },
+    "tags": [
+        "plugin",
+        "resources"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "ModuleAnimateGenericEffects"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/DavonSupplyMod",
+            "install_to": "GameData",
+            "filter_regexp": "license and source"
+        }
+    ],
+    "download": "https://spacedock.info/mod/364/Davon%20Supply%20Mod/download/0.2.7",
+    "download_size": 2167416,
+    "download_hash": {
+        "sha1": "3CEBE8FDE1C87221FA198F6F91CBBE7977FF99A7",
+        "sha256": "C3FCDE3672A0868893C2B9CC58DCF4288007D4B387D5DE48339DBC5E763AB0B7"
+    },
+    "download_content_type": "application/zip",
+    "release_date": "2020-03-10T13:06:26.23368+00:00",
+    "x_generated_by": "netkan"
+}

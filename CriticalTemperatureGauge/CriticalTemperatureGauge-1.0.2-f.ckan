@@ -1,0 +1,27 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "CriticalTemperatureGauge",
+    "name": "Critical temperature gauge ",
+    "abstract": "Tweakable temperature gauge - Deadly Reentry compatible.",
+    "author": "Ravien",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/119686"
+    },
+    "version": "1.0.2-f",
+    "ksp_version": "1.0.2",
+    "install": [
+        {
+            "find": "Ravien",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/CriticalTemperatureGauge-1.0.2-f/1862D8BC-CriticalTemperatureGauge-1.0.2-f.zip",
+    "download_size": 11571,
+    "download_hash": {
+        "sha1": "1862D8BCAED0A19C1B8D6935724639DA3EE0F694",
+        "sha256": "0AFFD3D5479E2DD12CF5431DC59D8021E007597CD11C2E90CF7A15C4C5333C7C"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

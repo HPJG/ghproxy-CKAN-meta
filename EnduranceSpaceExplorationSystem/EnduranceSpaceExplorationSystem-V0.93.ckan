@@ -1,0 +1,57 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "EnduranceSpaceExplorationSystem",
+    "name": "Endurance (from Interstellar) Continued...",
+    "abstract": "This mod is intended to recreate, visually and functionally, the Endurance spacecraft from the movie 'Interstellar.'",
+    "author": "Jplrepo",
+    "license": "CC-BY-NC-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/133590-105-endurance-from-interstellar-continued",
+        "spacedock": "https://spacedock.info/mod/357/Endurance%20(from%20Interstellar)%20Continued...",
+        "repository": "https://ghproxy.net/https://github.com/JPLRepo/Endurance",
+        "x_screenshot": "https://spacedock.info/content/Jplrepo_405/Endurance_from_Interstellar_Continued/Endurance_from_Interstellar_Continued-1457248000.231013.png"
+    },
+    "version": "V0.93",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "HabitatPlugin"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "KAS"
+        },
+        {
+            "name": "RasterPropMonitor"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "TACLS"
+        },
+        {
+            "name": "USI-LS"
+        }
+    ],
+    "install": [
+        {
+            "find": "Endurance",
+            "install_to": "GameData",
+            "filter": [
+                ".DS_Store"
+            ]
+        }
+    ],
+    "download": "https://spacedock.info/mod/357/Endurance%20%28from%20Interstellar%29%20Continued.../download/V0.93",
+    "download_size": 12894976,
+    "download_hash": {
+        "sha1": "70838B9A5BD5CC60F3241EE3BD6FCC13DD19E7EB",
+        "sha256": "4412A78DCA52A188E54B6BFC1D2A2E41411734AC3D8AC1ED6FD3E48E99BC4924"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

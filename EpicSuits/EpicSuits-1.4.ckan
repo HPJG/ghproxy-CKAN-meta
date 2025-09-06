@@ -1,0 +1,79 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "EpicSuits",
+    "name": "epic suits",
+    "abstract": "its a texture replacer add on",
+    "author": "commonnefer",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/120293-epic-suits?p=1924275#post1924275",
+        "kerbalstuff": "https://kerbalstuff.com/mod/767/epic%20suits"
+    },
+    "version": "1.4",
+    "ksp_version": "1.0.2",
+    "depends": [
+        {
+            "name": "TextureReplacer"
+        }
+    ],
+    "install": [
+        {
+            "file": "epic suits/EVAtexture.png",
+            "install_to": "GameData/TextureReplacer/Default",
+            "filter": ".DS_Store"
+        },
+        {
+            "file": "epic suits/Red shirt and suit",
+            "install_to": "GameData/TextureReplacer/Suits",
+            "filter": ".DS_Store"
+        },
+        {
+            "file": "epic suits/blue suit",
+            "install_to": "GameData/TextureReplacer/Suits",
+            "filter": ".DS_Store"
+        },
+        {
+            "file": "epic suits/cyan suit",
+            "install_to": "GameData/TextureReplacer/Suits",
+            "filter": ".DS_Store"
+        },
+        {
+            "file": "epic suits/orange suit",
+            "install_to": "GameData/TextureReplacer/Suits",
+            "filter": ".DS_Store"
+        },
+        {
+            "file": "epic suits/purple suit",
+            "install_to": "GameData/TextureReplacer/Suits",
+            "filter": ".DS_Store"
+        },
+        {
+            "file": "epic suits/red suit",
+            "install_to": "GameData/TextureReplacer/Suits",
+            "filter": ".DS_Store"
+        },
+        {
+            "file": "epic suits/white suit",
+            "install_to": "GameData/TextureReplacer/Suits",
+            "filter": ".DS_Store"
+        },
+        {
+            "file": "epic suits/yellow suit",
+            "install_to": "GameData/TextureReplacer/Suits",
+            "filter": ".DS_Store"
+        },
+        {
+            "file": "epic suits/license and legal.txt",
+            "install_to": "GameData/TextureReplacer/EpicSuitsLicense"
+        }
+    ],
+    "download": "https://archive.org/download/EpicSuits-1.4/5D04604C-EpicSuits-1.4.zip",
+    "download_size": 31277845,
+    "download_hash": {
+        "sha1": "5D04604CA1F71B5B0D71A61EC615069B1731F2A6",
+        "sha256": "7A2E56B696DFB05940CA45190C0FA7F04D063B0321E523A0A671BD06FDBE8563"
+    },
+    "download_content_type": "application/zip",
+    "x_via": "Automated KerbalStuff CKAN submission",
+    "x_generated_by": "netkan"
+}

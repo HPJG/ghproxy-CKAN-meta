@@ -1,0 +1,30 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "KerbalPlanetaryBaseSystems",
+    "name": "Kerbal Planetary Base Systems",
+    "abstract": "This mod adds stock like parts that are designed to build bases on the surface of planets. ",
+    "author": "Nils277",
+    "license": "CC-BY-NC-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/127413-WIP-Kerbal-Planetary-Base-Systems",
+        "kerbalstuff": "https://kerbalstuff.com/mod/991/Kerbal%20Planetary%20Base%20Systems",
+        "x_screenshot": "https://kerbalstuff.com/content/Nils277_12637/Kerbal_Planetary_Base_Systems/Kerbal_Planetary_Base_Systems-1436623028.6858041.png"
+    },
+    "version": "0.2.3",
+    "ksp_version": "1.0.4",
+    "install": [
+        {
+            "find": "PlanetaryBaseInc",
+            "install_to": "GameData",
+            "filter": "_src.zip"
+        }
+    ],
+    "download": "https://archive.org/download/KerbalPlanetaryBaseSystems-0.2.3/DECE1216-KerbalPlanetaryBaseSystems-0.2.3.zip",
+    "download_size": 9110765,
+    "download_hash": {
+        "sha1": "DECE12169F8E9B535598B76EBAF4CEC3A73325BB",
+        "sha256": "A2C01E17A7D61EFE4979BF8F49D822E828C91892E1674A5AA2A85283E2F60BBC"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

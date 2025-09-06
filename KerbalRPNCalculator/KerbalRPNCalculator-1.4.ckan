@@ -1,0 +1,46 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "KerbalRPNCalculator",
+    "name": "Kerbal RPN Calculator",
+    "abstract": "A simple RPN calculator for use in KSP",
+    "author": "ridecar2",
+    "license": "GPL-3.0",
+    "resources": {
+        "repository": "https://ghproxy.net/https://github.com/ridecar2/KSPRPNCalc",
+        "kerbalstuff": "https://kerbalstuff.com/mod/480/Kerbal%20RPN%20Calculator",
+        "x_screenshot": "https://kerbalstuff.com/content/ridecar2_5951/Kerbal_RPN_Calculator/Kerbal_RPN_Calculator-1424131694.5307655.jpg"
+    },
+    "version": "1.4",
+    "ksp_version_min": "1.0",
+    "ksp_version_max": "1.0.4",
+    "install": [
+        {
+            "file": "Textures",
+            "install_to": "GameData/KerbalRPNCalc"
+        },
+        {
+            "file": "KerbalRPNCalc.dll",
+            "install_to": "GameData/KerbalRPNCalc"
+        },
+        {
+            "file": "KerbalRPNCalculator.version",
+            "install_to": "GameData/KerbalRPNCalc"
+        },
+        {
+            "file": "MiniAVC.dll",
+            "install_to": "GameData/KerbalRPNCalc"
+        },
+        {
+            "file": "PartsAPI.dll",
+            "install_to": "GameData/KerbalRPNCalc"
+        }
+    ],
+    "download": "https://archive.org/download/KerbalRPNCalculator-1.4/5DF9D680-KerbalRPNCalculator-1.4.zip",
+    "download_size": 27935,
+    "download_hash": {
+        "sha1": "5DF9D68066980A0979CC79DBECB17DBFE6360D8C",
+        "sha256": "1C2D7BEFBA9F62DE0E45974A847BD93336140513A5502D624ED4C022CEBACB63"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

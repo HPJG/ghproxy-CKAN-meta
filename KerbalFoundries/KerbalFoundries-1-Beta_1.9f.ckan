@@ -1,0 +1,40 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "KerbalFoundries",
+    "name": "Kerbal Foundries",
+    "abstract": "Better wheels and anti-gravity repulsors",
+    "author": [
+        "lo-fi",
+        "Gaalidas"
+    ],
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/121236-pluginparts-kerbal-foundries-continuation",
+        "repository": "https://ghproxy.net/https://github.com/KerbalFoundries/KerbalFoundries",
+        "bugtracker": "https://ghproxy.net/https://github.com/KerbalFoundries/KerbalFoundries/issues"
+    },
+    "tags": [
+        "plugin",
+        "parts"
+    ],
+    "version": "1:Beta_1.9f",
+    "ksp_version": "1.0.4",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "TweakScale"
+        }
+    ],
+    "download": "https://archive.org/download/KerbalFoundries-Beta_1.9f/E93248EE-KerbalFoundries-Beta_1.9f.zip",
+    "download_size": 34175878,
+    "download_hash": {
+        "sha1": "E93248EEC83E8C6F18147EB45EC331FC1A599BEF",
+        "sha256": "12E63A53D23183BE85020FEFF222E8ADFA2634D3432D3A14F7E42D1AD71DD893"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,46 @@
+{
+    "spec_version": "v1.20",
+    "identifier": "KIS",
+    "name": "Kerbal Inventory System",
+    "abstract": "KIS introduces new gameplay mechanics by adding a brand new inventory system and EVA usables items as tools. You want to build a rover on Duna from scratch? Now you can...",
+    "author": [
+        "KospY",
+        "Winn75"
+    ],
+    "license": "restricted",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/149848-kerbal-inventory-system-kis",
+        "curse": "https://kerbal.curseforge.com/projects/228561",
+        "repository": "https://ghproxy.net/https://github.com/ihsoft/KIS",
+        "bugtracker": "https://ghproxy.net/https://github.com/ihsoft/KIS/issues",
+        "manual": "https://ghproxy.net/https://github.com/ihsoft/KIS/raw/master/User%20Guide.pdf",
+        "x_screenshot": "https://media.forgecdn.net/avatars/thumbnails/15/210/120/120/635619081870286480.jpeg"
+    },
+    "version": "1.2.1",
+    "ksp_version_min": "1.0.3",
+    "ksp_version_max": "1.0.4",
+    "recommends": [
+        {
+            "name": "CommunityCategoryKit"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "KAS"
+        },
+        {
+            "name": "EasyVesselSwitch"
+        }
+    ],
+    "download": "https://media.forgecdn.net/files/2249/749/KIS_v1.2.1.zip",
+    "download_size": 4852953,
+    "download_hash": {
+        "sha1": "E3C92B1F6032915B9B36948F38B40FCC260FDCD2",
+        "sha256": "60A4C98C4B8FFF2E4BE12985102E8A1183EB29F3521CF90CFD3A4432B73DEF20"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

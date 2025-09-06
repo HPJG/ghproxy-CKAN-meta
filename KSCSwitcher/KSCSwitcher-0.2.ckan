@@ -1,0 +1,28 @@
+{
+    "spec_version": 1,
+    "identifier": "KSCSwitcher",
+    "name": "KSC Switcher",
+    "abstract": "Allows you to move KSC to other locations on Kerbin from the Tracking Station.",
+    "author": "regex",
+    "license": "BSD-2-clause",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/117893",
+        "kerbalstuff": "https://kerbalstuff.com/mod/749/KSC%20Switcher"
+    },
+    "version": "0.2",
+    "ksp_version": "1.0.2",
+    "install": [
+        {
+            "file": "Switcher/GameData/KSCSwitcher",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/KSCSwitcher-0.2/7C0C5667-KSCSwitcher-0.2.zip",
+    "download_size": 50855,
+    "download_hash": {
+        "sha1": "7C0C566767F900CD521A44999504AB6C7AE8F3C2",
+        "sha256": "049B53B53148A2DE8C30703563580D769873C3B85547645E724CE678C8E3F8DC"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

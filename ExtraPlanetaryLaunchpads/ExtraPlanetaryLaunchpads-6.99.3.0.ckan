@@ -1,0 +1,78 @@
+{
+    "spec_version": 1,
+    "identifier": "ExtraPlanetaryLaunchpads",
+    "name": "Extraplanetary Launchpads",
+    "abstract": "Allows you to build vessels in any location, not just at the KSC.",
+    "author": "taniwha",
+    "version": "6.99.3.0",
+    "ksp_version_min": "1.12.0",
+    "ksp_version_max": "1.12.99",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/54284-*",
+        "spacedock": "https://spacedock.info/mod/3735/Extraplanetary%20Launchpads",
+        "repository": "https://ghproxy.net/https://github.com/taniwha/Extraplanetary-Launchpads",
+        "bugtracker": "https://ghproxy.net/https://github.com/taniwha/Extraplanetary-Launchpads/issues",
+        "remote-avc": "http://taniwha.org/~bill/ExtraplanetaryLaunchpads.version"
+    },
+    "tags": [
+        "plugin",
+        "parts",
+        "crewed"
+    ],
+    "localizations": [
+        "en-us",
+        "pt-br",
+        "zh-cn"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "KAS"
+        },
+        {
+            "name": "InfernalRobotics"
+        },
+        {
+            "name": "KerbalStats"
+        },
+        {
+            "name": "Kethane"
+        },
+        {
+            "name": "Toolbar"
+        }
+    ],
+    "install": [
+        {
+            "file": "ExtraplanetaryLaunchpads",
+            "install_to": "GameData",
+            "filter": "Ships"
+        },
+        {
+            "file": "ExtraplanetaryLaunchpads/Ships/SPH",
+            "install_to": "Ships"
+        },
+        {
+            "file": "ExtraplanetaryLaunchpads/Ships/VAB",
+            "install_to": "Ships"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3735/Extraplanetary%20Launchpads/download/6.99.3.0",
+    "download_size": 16913553,
+    "download_hash": {
+        "sha1": "A1FEDDFC3448564F81A79F7EAB9F61E7EDDC2D87",
+        "sha256": "6901BDF90663AD1D953079B239AD7AAE3413668FDBBD6991873433847C388CBF"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 45225585,
+    "release_date": "2024-10-18T15:53:01.907455+00:00",
+    "x_generated_by": "netkan"
+}

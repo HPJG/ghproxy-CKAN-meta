@@ -1,0 +1,49 @@
+{
+    "spec_version": "v1.2",
+    "identifier": "ContractConfigurator-BaseConstuction",
+    "name": "Contract Pack: Base Construction",
+    "abstract": "This add contracts for base construction and maintenance. This can be done in any planet or moon that you want, it even supports planet packs. Also the bases doesn't need to dock just to land very close to the main base",
+    "author": "CosmoBro",
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/127138",
+        "repository": "https://ghproxy.net/https://github.com/CosmoBro/BaseConstruction"
+    },
+    "version": "0.1.4",
+    "ksp_version_min": "1.0.0",
+    "ksp_version_max": "1.0.4",
+    "depends": [
+        {
+            "name": "ContractConfigurator",
+            "min_version": "1.5.0"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "KAS"
+        },
+        {
+            "name": "USI-LS"
+        },
+        {
+            "name": "UKS"
+        }
+    ],
+    "install": [
+        {
+            "file": "BaseConstruction",
+            "install_to": "GameData/ContractPacks"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/CosmoBro/BaseConstruction/releases/download/0.1.4/BaseConstruction0.1.4.zip",
+    "download_size": 48053,
+    "download_hash": {
+        "sha1": "D295BF583623B1FE588880AA5C372C19629F13D0",
+        "sha256": "B252914D64CCCFF0ECFBDD3207193532E07523A119AB1EFD57BB904D0AF03A8A"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,34 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "Contares",
+    "name": "CONTARES",
+    "abstract": "addon for TANTARES and TANTARES LV",
+    "author": "hraban",
+    "license": "CC-BY-NC-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/122102-contares-163-addon-for-tantares-and-tantareslv/",
+        "spacedock": "https://spacedock.info/mod/180/CONTARES",
+        "x_screenshot": "https://spacedock.info/content/hraban_869/CONTARES/CONTARES-1455896875.9979718.png"
+    },
+    "version": "1.6.3",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "Tantares"
+        },
+        {
+            "name": "TantaresLV"
+        },
+        {
+            "name": "RealPlume"
+        }
+    ],
+    "download": "https://spacedock.info/mod/180/CONTARES/download/1.6.3",
+    "download_size": 53832344,
+    "download_hash": {
+        "sha1": "4FEE6D16CB7AD9E4ECB86410275458C6E8E21185",
+        "sha256": "BFE0D75C73770B44EA53911002D75FE11F4C6E02554E34E95370972C483BD17B"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

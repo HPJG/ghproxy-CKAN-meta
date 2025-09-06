@@ -1,0 +1,30 @@
+{
+    "spec_version": 1,
+    "identifier": "EngineCooler",
+    "name": "Engine Cooler",
+    "abstract": "Now you need to choose an ablative coating or a regenerative cooling to make long burn.",
+    "author": "Merill",
+    "license": "Apache-2.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/123323-Beta-Merill-s-plugins-PartUpgrade-NoseConeWithTank-new-EngineCooler?p=2002413#post2002413",
+        "repository": "http://in%20the%20zip",
+        "kerbalstuff": "https://kerbalstuff.com/mod/894/Engine%20Cooler",
+        "x_screenshot": "https://kerbalstuff.com/content/Merill_8685/Engine_Cooler/Engine_Cooler-1433689972.1034956.png"
+    },
+    "version": "1.0.3",
+    "ksp_version": "1.0.4",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://archive.org/download/EngineCooler-1.0.3/E807A438-EngineCooler-1.0.3.zip",
+    "download_size": 7851,
+    "download_hash": {
+        "sha1": "E807A4381482335B1EB75D463D82696718DECE7C",
+        "sha256": "97957BCE2E2643BBD83961A755B14F37C3861ECDA912D8F2198BFCFDABB104C7"
+    },
+    "download_content_type": "application/zip",
+    "x_via": "Automated KerbalStuff CKAN submission",
+    "x_generated_by": "netkan"
+}

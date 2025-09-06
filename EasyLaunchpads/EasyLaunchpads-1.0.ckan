@@ -1,0 +1,26 @@
+{
+    "spec_version": 1,
+    "identifier": "EasyLaunchpads",
+    "name": "ExtraPlanetary Launchpad Simplifier.",
+    "abstract": "Removes the intermediate stages of the EPL production chain for simplicity. This also will add [unrealistic] RealFuels compatibility to the ISRU.",
+    "author": "ABZB",
+    "license": "CC-BY-4.0",
+    "resources": {
+        "kerbalstuff": "https://kerbalstuff.com/mod/944/ExtraPlanetary%20Launchpad%20Simplifier."
+    },
+    "version": "1.0",
+    "ksp_version": "1.0.4",
+    "depends": [
+        {
+            "name": "ExtraPlanetaryLaunchpads"
+        }
+    ],
+    "download": "https://archive.org/download/EasyLaunchpads-1.0/5E77BD28-EasyLaunchpads-1.0.zip",
+    "download_size": 1868,
+    "download_hash": {
+        "sha1": "5E77BD2859D7A740324CCBED2CC5966162D5B4F3",
+        "sha256": "C7E8C1AE2D0533E084B25A0EE35E770B7C6F77160ED3E857A5146E0D3ACE7702"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

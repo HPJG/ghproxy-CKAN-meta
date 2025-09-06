@@ -1,0 +1,49 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "KAINET",
+    "name": "No Astronauts Need Apply",
+    "abstract": "Kerbal-less Space Program",
+    "author": "Kerbas-ad-astra",
+    "version": "v1.1.1",
+    "ksp_version_min": "1.0.0",
+    "ksp_version_max": "1.0.4",
+    "license": "Apache-2.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/99661-*",
+        "repository": "https://ghproxy.net/https://github.com/Kerbas-ad-astra/No-Astronauts-Need-Apply",
+        "bugtracker": "https://ghproxy.net/https://github.com/Kerbas-ad-astra/No-Astronauts-Need-Apply/issues"
+    },
+    "tags": [
+        "config",
+        "tech-tree",
+        "uncrewed"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "InfernalRobotics"
+        },
+        {
+            "name": "ShipManifest"
+        }
+    ],
+    "install": [
+        {
+            "find": "NoAstronautsNeedApply",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/Kerbas-ad-astra/No-Astronauts-Need-Apply/releases/download/v1.1.1/NoAstronautsNeedApply-v1.1.1.zip",
+    "download_size": 6372,
+    "download_hash": {
+        "sha1": "1279C54BF1588361F1E37EBE69FBB6E9A5FBF65F",
+        "sha256": "7B406C6AD95392E7D3ECEAB0F19394EBACFE0F1CA977C6661629B9768CBDA52A"
+    },
+    "download_content_type": "application/zip",
+    "release_date": "2015-08-02T04:00:06Z",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,38 @@
+{
+    "spec_version": "v1.34",
+    "identifier": "ContinuousCollisions",
+    "name": "Continuous Collisions",
+    "abstract": "A mod that eliminates phasing in KSP and improves the accuracy of collisions.",
+    "author": [
+        "Holoday",
+        "Halban"
+    ],
+    "version": "1.2.1",
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://ghproxy.net/https://github.com/Holoday/ContinuousCollision/releases/",
+        "spacedock": "https://spacedock.info/mod/3067/Continuous%20Collisions",
+        "repository": "https://ghproxy.net/https://github.com/Holoday/ContinuousCollision",
+        "bugtracker": "https://ghproxy.net/https://github.com/Holoday/ContinuousCollision/issues",
+        "x_screenshot": "https://spacedock.info/content/Holoday_85388/Continuous_Collisions/Continuous_Collisions-1659491877.png"
+    },
+    "tags": [
+        "plugin",
+        "physics",
+        "combat"
+    ],
+    "download": [
+        "https://ghproxy.net/https://github.com/Holoday/ContinuousCollision/releases/download/1.2.1/ContinuousCollisions-1.2.1.zip",
+        "https://spacedock.info/mod/3067/Continuous%20Collisions/download/1.2.1"
+    ],
+    "download_size": 9335,
+    "download_hash": {
+        "sha1": "FE37A7BA030C5267216DAA13A6E4969294391734",
+        "sha256": "FEA06688326D70392342814BA08A6742DEC0903A83774D481265672ED871BB04"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 15530,
+    "release_date": "2024-05-21T23:58:06.236685+00:00",
+    "x_generated_by": "netkan"
+}

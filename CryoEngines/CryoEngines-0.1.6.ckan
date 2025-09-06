@@ -1,0 +1,39 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "CryoEngines",
+    "name": "Cryogenic Engines",
+    "abstract": "Liquid hydrogen fueled engines for enhanced possibilities",
+    "author": "Nertea",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/117766-1-0-Cryogenic-Engines-Pack-(high-Isp-chemical-rockets!)",
+        "kerbalstuff": "https://kerbalstuff.com/mod/717/Cryogenic%20Engines"
+    },
+    "version": "0.1.6",
+    "ksp_version": "1.0.2",
+    "depends": [
+        {
+            "name": "InterstellarFuelSwitch-Core"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "CryoEngines",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/CryoEngines-0.1.6/6EF97E03-CryoEngines-0.1.6.zip",
+    "download_size": 6503452,
+    "download_hash": {
+        "sha1": "6EF97E039421F5A9FAFCD1659EB852155258808B",
+        "sha256": "125F669CBC8EE3529DA92481B9CA254880245BE7C211F578DF9FCC83777F5B84"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,24 @@
+{
+    "spec_version": 1,
+    "identifier": "FShangarExtender",
+    "name": "Hangar Extender",
+    "abstract": "Please use the other Hangar Extender mod, this is the wrong one",
+    "author": "Snjo",
+    "license": "CC-BY-4.0",
+    "resources": {
+        "homepage": "http://snjo.net/",
+        "repository": "https://ghproxy.net/https://github.com/snjo/FShangarExtender",
+        "kerbalstuff": "https://kerbalstuff.com/mod/18/Hangar%20Extender",
+        "x_screenshot": "https://kerbalstuff.com/content/Snjo_48/Hangar_Extender/Hangar_Extender.png"
+    },
+    "version": "3.0",
+    "ksp_version": "0.90",
+    "download": "https://archive.org/download/FShangarExtender-3.0/C5576B82-FShangarExtender-3.0.zip",
+    "download_size": 4792,
+    "download_hash": {
+        "sha1": "C5576B82D1C8893C37381DF7DF4E48DA5E345894",
+        "sha256": "039A6244D3BB6D6B03A00ECC7D78835C40C5F5CF048BE0FAFCD2B60C87B58500"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

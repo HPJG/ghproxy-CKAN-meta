@@ -1,0 +1,43 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "IR-Model-Rework-Expansion",
+    "name": "Infernal Robotics Model Rework - Expansion Pack",
+    "abstract": "For all your actuation needs",
+    "author": "ZodiusInfuser",
+    "license": "CC-BY-NC-ND-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/65365",
+        "kerbalstuff": "https://kerbalstuff.com/mod/676/Infernal%20Robotics%20Model%20Rework%20-%20Expansion%20Pack",
+        "x_screenshot": "https://kerbalstuff.com/content/ZodiusInfuser_8315/Infernal_Robotics_Model_Rework_-_Expansion_Pack/Infernal_Robotics_Model_Rework_-_Expansion_Pack-1428021590.8452556.png"
+    },
+    "version": "v01b",
+    "ksp_version_min": "1.0.2",
+    "ksp_version_max": "1.0.4",
+    "depends": [
+        {
+            "name": "InfernalRobotics",
+            "min_version": "0.19.4"
+        },
+        {
+            "name": "IR-Model-Rework-Core"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "IR-Model-Rework-Utility"
+        }
+    ],
+    "install": [
+        {
+            "find": "MagicSmokeIndustries",
+            "install_to": "GameData",
+            "filter_regexp": [
+                "Rework_License.txt",
+                "Rework_TweakScale.cfg"
+            ]
+        }
+    ],
+    "download": "https://kerbalstuff.com/mod/676/Infernal%20Robotics%20Model%20Rework%20-%20Expansion%20Pack/download/v01b",
+    "download_size": 400284,
+    "x_generated_by": "netkan"
+}

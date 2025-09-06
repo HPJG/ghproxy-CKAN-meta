@@ -1,0 +1,35 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "EngineLighting",
+    "name": "Engine Lighting",
+    "abstract": "A simple mod that adds lighting effects to engines!",
+    "author": "tajampi",
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/121987",
+        "repository": "https://ghproxy.net/https://github.com/tatjam/KSP-EngineLight",
+        "kerbalstuff": "https://kerbalstuff.com/mod/817/EngineLighting"
+    },
+    "version": "1.1",
+    "ksp_version": "1.0.2",
+    "depends": [
+        {
+            "name": "ModuleManager",
+            "min_version": "2.6.3"
+        }
+    ],
+    "install": [
+        {
+            "file": "EngineLight/GameData/EngineLight",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/EngineLighting-1.1/F66AB068-EngineLighting-1.1.zip",
+    "download_size": 31834,
+    "download_hash": {
+        "sha1": "F66AB068BE6074910ED8F66DB9FE4E48E909ED49",
+        "sha256": "33FF8499B5083733FEB6655F5FF42192E8187D18FE5DAEC9862F5E4038DFF6C2"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

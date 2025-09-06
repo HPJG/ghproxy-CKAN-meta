@@ -1,0 +1,31 @@
+{
+    "spec_version": 1,
+    "identifier": "FieldExperience",
+    "name": "Field Experience",
+    "abstract": "Earn experience without recovering on Kerbin!",
+    "author": "magico13",
+    "license": "restricted",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/107663-Magico13-s-Modlets?p=1676818"
+    },
+    "version": "1.0",
+    "ksp_version": "0.90",
+    "install": [
+        {
+            "file": "FieldExperience.dll",
+            "install_to": "GameData/FieldExperience"
+        },
+        {
+            "file": "license.txt",
+            "install_to": "GameData/FieldExperience"
+        }
+    ],
+    "download": "http://magico13.net/files/KSP/Modlets/Field_Experience/Field_Experience-1.0.zip",
+    "download_size": 3594,
+    "download_hash": {
+        "sha1": "F744F2705996C5492BBD5788D160EF66643E35C7",
+        "sha256": "64060C96C8A8E9F9AB27AA1596A8F366D8C26E7E74661FAF2BF7B070F41BE2AE"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

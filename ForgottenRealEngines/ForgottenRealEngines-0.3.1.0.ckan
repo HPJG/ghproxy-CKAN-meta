@@ -1,0 +1,34 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "ForgottenRealEngines",
+    "name": "Forgotten Real Engines",
+    "abstract": "A set of realistics engines intended for use with Realism Overhaul. It includes Viking engines (Ariane I to IV), Vega engines and more.",
+    "author": "Zarbizaure",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/134585-wip-forgotten-real-engines/",
+        "spacedock": "https://spacedock.info/mod/456/Forgotten%20Real%20Engines",
+        "x_screenshot": "https://spacedock.info/content/Zarbizaure_2844/Forgotten_Real_Engines/Forgotten_Real_Engines-1460191197.4961548.png"
+    },
+    "version": "0.3.1.0",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "RealismOverhaul"
+        }
+    ],
+    "install": [
+        {
+            "find": "GameData/ForgottenRealEngines",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/456/Forgotten%20Real%20Engines/download/3.1.0.0",
+    "download_size": 12295567,
+    "download_hash": {
+        "sha1": "36F6F0E4131EC57B129F5C6A3826DACDA836269D",
+        "sha256": "29DA7BA0B8B030F8D05A2BFE4C5B0A658096D06679197F5714E3109BBA1F606D"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

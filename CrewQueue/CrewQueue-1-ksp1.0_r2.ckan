@@ -1,0 +1,43 @@
+{
+    "spec_version": "v1.2",
+    "identifier": "CrewQueue",
+    "name": "Crew Queue",
+    "abstract": "Crew Rotation and Variety - This mod is focused around the idea of encouraging the player to keep a deeper roster of crew, and to increase the value of individual experienced crew. ",
+    "author": "fingerboxes",
+    "version": "1:ksp1.0_r2",
+    "ksp_version_min": "1.0.0",
+    "ksp_version_max": "1.0.4",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/97702-*",
+        "repository": "https://ghproxy.net/https://github.com/fingerboxes/CrewQueue",
+        "bugtracker": "https://ghproxy.net/https://github.com/fingerboxes/CrewQueue/issues"
+    },
+    "tags": [
+        "plugin",
+        "crewed"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "FingerboxesCore"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/Fingerboxes/CrewQueue",
+            "install_to": "GameData/Fingerboxes"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/fingerboxes/CrewQueue/releases/download/ksp1.0_r2/CrewQueue_ksp1.0.4_release2.zip",
+    "download_size": 66538,
+    "download_hash": {
+        "sha1": "46F25409F2C583AA896333B3599BCF5280BDEAFB",
+        "sha256": "EC516483C06E40F6166502E1424AB07EAD25182571A6C2139C398EEC99E820D4"
+    },
+    "download_content_type": "application/zip",
+    "release_date": "2015-07-01T01:17:01Z",
+    "x_generated_by": "netkan"
+}

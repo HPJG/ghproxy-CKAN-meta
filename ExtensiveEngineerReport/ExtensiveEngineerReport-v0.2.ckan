@@ -1,0 +1,28 @@
+{
+    "spec_version": 1,
+    "identifier": "ExtensiveEngineerReport",
+    "name": "Extensive Engineer Report",
+    "abstract": "Kerbal Space Program mod to add more extensive checks to the Engineers' Report in the VAB and SPH.",
+    "author": "jkoritzinsky",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://ghproxy.net/https://github.com/jkoritzinsky/Extensive-Engineer-Report",
+        "repository": "https://ghproxy.net/https://github.com/jkoritzinsky/Extensive-Engineer-Report"
+    },
+    "version": "v0.2",
+    "ksp_version": "1.0.4",
+    "install": [
+        {
+            "file": "Extensive Engineer Report",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/jkoritzinsky/Extensive-Engineer-Report/releases/download/v0.2/Extensive-Engineer-Report-v0.2.zip",
+    "download_size": 8739,
+    "download_hash": {
+        "sha1": "E6CA78602C717A1F9184B90EDCFDA7E6FE96F879",
+        "sha256": "EC5B6552D3E2B717CEA671BEAD9E8B7C99523CE116B34DBF9408822D50046396"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

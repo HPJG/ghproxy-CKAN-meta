@@ -1,0 +1,34 @@
+{
+    "spec_version": 1,
+    "identifier": "EveBiomesPlus",
+    "name": "EveBiomesPlus",
+    "abstract": "Tired of \"Explodium Sea\" everywhere?  Add new biomes to our favorite purple planet.",
+    "author": "Snark",
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/133776-105-evebiomesplus-v10-add-new-biomes-to-eve/",
+        "spacedock": "https://spacedock.info/mod/376/EveBiomesPlus",
+        "x_screenshot": "https://spacedock.info/content/Snark_166/EveBiomesPlus/EveBiomesPlus-1457460646.184157.png"
+    },
+    "version": "1.0",
+    "ksp_version": "1.1.2",
+    "depends": [
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/EveBiomesPlus",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/376/EveBiomesPlus/download/1.0",
+    "download_size": 103755,
+    "download_hash": {
+        "sha1": "3C37CDCED60514308855199C73B33577D13DA2D8",
+        "sha256": "947259C1985A41026C42D14BB86C8B84CB1281A016838D04822DCDF0A071BA0F"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

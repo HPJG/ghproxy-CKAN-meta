@@ -1,0 +1,43 @@
+{
+    "spec_version": 1,
+    "identifier": "F14CTomcat",
+    "name": "F14 Tomcat",
+    "abstract": "The Awesome Navy fighter. ",
+    "author": "LuizChacon",
+    "license": "WTFPL",
+    "resources": {
+        "homepage": "http://starbaseone.freeforums.net/",
+        "kerbalstuff": "https://kerbalstuff.com/mod/849/F14%20Tomcat",
+        "x_screenshot": "https://kerbalstuff.com/content/LuizChacon_128/F14_Tomcat/F14_Tomcat-1446949308.7986479.png"
+    },
+    "version": "9.0",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "FirespitterCore"
+        },
+        {
+            "name": "BDArmory"
+        },
+        {
+            "name": "BahamutoDynamicsPartsPack"
+        },
+        {
+            "name": "AircraftIVAHelmet"
+        }
+    ],
+    "install": [
+        {
+            "file": "F14CTomcat",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/F14CTomcat-9.0/416084D0-F14CTomcat-9.0.zip",
+    "download_size": 9005032,
+    "download_hash": {
+        "sha1": "416084D05DCD061589753D68180721D7EC7BE8C2",
+        "sha256": "90C96663A4E3EEAC06EF1367EFEBA16E7F2682C7837C0722A2B9F471F90C7F04"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

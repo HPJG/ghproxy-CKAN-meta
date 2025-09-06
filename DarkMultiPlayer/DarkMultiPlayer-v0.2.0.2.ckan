@@ -1,0 +1,30 @@
+{
+    "spec_version": 1,
+    "identifier": "DarkMultiPlayer",
+    "name": "DarkMultiPlayer Client",
+    "abstract": "DarkMultiPlayer is a multiplayer mod for KSP. It supports subspace-style (and master controlled warp) warping & career mode, with an easy-to-edit server database.",
+    "author": "godarklight",
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/79111-DarkMultiPlayer-0-1-0-0-KSP-0-23-5-Alpha/page1",
+        "repository": "https://ghproxy.net/https://github.com/godarklight/DarkMultiPlayer",
+        "manual": "https://ghproxy.net/https://github.com/godarklight/DarkMultiPlayer/blob/master/README.md",
+        "kerbalstuff": "https://kerbalstuff.com/mod/4/DarkMultiPlayer%20Client"
+    },
+    "version": "v0.2.0.2",
+    "ksp_version": "0.90",
+    "install": [
+        {
+            "file": "DMPClient/GameData/DarkMultiPlayer",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/DarkMultiPlayer-v0.2.0.2/9DB7AE5A-DarkMultiPlayer-v0.2.0.2.zip",
+    "download_size": 200705,
+    "download_hash": {
+        "sha1": "9DB7AE5A6C871102EA4E7561EE78D61FB443A117",
+        "sha256": "71F8F6FBCB2F1EB64655AFE19C1945F47C4413D07EA1B1EFF051E0E838C9DCA9"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

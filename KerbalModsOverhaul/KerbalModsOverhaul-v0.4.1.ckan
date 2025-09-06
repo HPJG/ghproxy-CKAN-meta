@@ -1,0 +1,68 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "KerbalModsOverhaul",
+    "name": "Kerbal Mods Overhaul (KMO)",
+    "abstract": "\"Kerbal Mods Overhaul\" (KMO) is a set of patches that simplify/modify a number of very popular mods (MKS, EL, USI-LS, etc) and create a new customized gameplay experience.",
+    "author": "534443",
+    "version": "v0.4.1",
+    "ksp_version_min": "1.4.0",
+    "ksp_version_max": "1.4.9",
+    "license": "CC-BY-SA-4.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/171966-wip14x-kerbal-mods-overhaul-kmo-dev-thread-v04110042018/",
+        "spacedock": "https://spacedock.info/mod/1735/Kerbal%20Mods%20Overhaul%20(KMO)",
+        "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=556",
+        "x_screenshot": "https://spacedock.info/content/534443_18834/Kerbal_Mods_Overhaul_KMO/Kerbal_Mods_Overhaul_KMO-1520717736.1272235.jpg"
+    },
+    "tags": [
+        "config"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "PatchManager"
+        },
+        {
+            "name": "UKS"
+        },
+        {
+            "name": "USI-LS"
+        },
+        {
+            "name": "ExtraPlanetaryLaunchpads"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "OSEWorkShopCont"
+        },
+        {
+            "name": "KeridianDynamicsVesselAssembly"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "KAS"
+        }
+    ],
+    "install": [
+        {
+            "find": "KMO",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1735/Kerbal%20Mods%20Overhaul%20%28KMO%29/download/v0.4.1",
+    "download_size": 288119,
+    "download_hash": {
+        "sha1": "F9956469EA57A82DCE9A13C6F81337D81E5DE187",
+        "sha256": "035F923B5A98370624A62A10CEB4D7DF781EAD0AFDF1A592AC38D694DE662896"
+    },
+    "download_content_type": "application/zip",
+    "release_date": "2018-04-10T19:03:23.513319+00:00",
+    "x_generated_by": "netkan"
+}

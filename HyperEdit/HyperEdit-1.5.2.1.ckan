@@ -1,0 +1,34 @@
+{
+    "spec_version": 1,
+    "identifier": "HyperEdit",
+    "name": "HyperEdit",
+    "abstract": "HyperEdit is the ultimate cheat plugin for KSP.  Teleport your ship, refill your tanks, change any orbit, move the planets around, and edit things like speed, gravity, atmospheric pressure, time, and more.",
+    "author": [
+        "khyperia",
+        "Ezriilc",
+        "Payo",
+        "sirkut",
+        "others"
+    ],
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://www.Kerbaltek.com/hyperedit"
+    },
+    "version": "1.5.2.1",
+    "ksp_version_min": "1.1.3",
+    "ksp_version_max": "1.1.99",
+    "install": [
+        {
+            "file": "GameData/Kerbaltek",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "http://www.kerbaltek.com/_downloads/hyperedit/HyperEdit-1.5.2.1_for-KSP-1.1.3.zip",
+    "download_size": 117443,
+    "download_hash": {
+        "sha1": "5AAAD321E37F9BD67FAA07A07120653BE34F0665",
+        "sha256": "F929708E0A28ABC21AFBC7ED4F85FF3C2B37113BC2A9E8CB6A53BC7FF7DBC7FF"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

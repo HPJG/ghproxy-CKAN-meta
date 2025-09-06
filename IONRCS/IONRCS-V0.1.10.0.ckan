@@ -1,0 +1,54 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "IONRCS",
+    "name": "ION RCS",
+    "abstract": "Contains a ION RCS thrusters and Pulsed Plasma Thrusters RCS pack of parts. These parts used to be distributed as part of my AmpYear mod. But due to popular demand I have split them off to a separate parts pack.",
+    "author": "Jplrepo",
+    "version": "V0.1.10.0",
+    "ksp_version_min": "1.8.0",
+    "ksp_version_max": "1.8.99",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/138057-18x-ion-rcs-v01100-ion-rcs-pulsed-plasma-thrusters-20th-oct-2019/",
+        "spacedock": "https://spacedock.info/mod/586/ION%20RCS",
+        "repository": "https://ghproxy.net/https://github.com/JPLRepo/IONRCS",
+        "bugtracker": "https://ghproxy.net/https://github.com/JPLRepo/IONRCS/issues",
+        "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=284",
+        "x_screenshot": "https://spacedock.info/content/Jplrepo_405/ION_RCS/ION_RCS-1461554864.78268.png"
+    },
+    "tags": [
+        "parts"
+    ],
+    "localizations": [
+        "en-us",
+        "es-es",
+        "es-mx",
+        "ja",
+        "ru",
+        "zh-cn"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "REPOSoftTech-Agencies"
+        }
+    ],
+    "install": [
+        {
+            "find": "REPOSoftTech",
+            "install_to": "GameData",
+            "filter": "Agencies"
+        }
+    ],
+    "download": "https://spacedock.info/mod/586/ION%20RCS/download/V0.1.10.0",
+    "download_size": 392460,
+    "download_hash": {
+        "sha1": "20D5AC7B35E2FF8E7B39F6BF79467C7695B05440",
+        "sha256": "73203F498BDF14705FF85D1F68CE85A4053EC0D6C96C5BF4D45F391D13B5D354"
+    },
+    "download_content_type": "application/zip",
+    "release_date": "2019-10-19T21:12:45.166428+00:00",
+    "x_generated_by": "netkan"
+}

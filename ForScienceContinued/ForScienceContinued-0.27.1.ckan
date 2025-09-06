@@ -1,0 +1,34 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "ForScienceContinued",
+    "name": "ForScience Continued!",
+    "abstract": "Build upon the ForScience mod by WaveFunctionP. This version adds an interface and exciting new features to it.",
+    "author": "SpaceTiger",
+    "license": "CC-BY-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/106004-0-90-ForScience-Continued",
+        "kerbalstuff": "https://kerbalstuff.com/mod/477/ForScience%20Continued!"
+    },
+    "version": "0.27.1",
+    "ksp_version": "1.0.0",
+    "depends": [
+        {
+            "name": "KerboKatzUtilities"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/KerboKatz/ForScienceContinued",
+            "install_to": "GameData/KerboKatz"
+        }
+    ],
+    "download": "https://archive.org/download/ForScienceContinued-0.27.1/7E329B11-ForScienceContinued-0.27.1.zip",
+    "download_size": 77052,
+    "download_hash": {
+        "sha1": "7E329B114EE8C86A36FA6B974902CEE88D0AA321",
+        "sha256": "E4EEE91C19FE6005A360F4C1AFBF0BB2064B64A1DC36252F1EE4E8D32C414817"
+    },
+    "download_content_type": "application/zip",
+    "x_via": "Automated KerbalStuff CKAN submission",
+    "x_generated_by": "netkan"
+}

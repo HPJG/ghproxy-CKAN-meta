@@ -1,0 +1,28 @@
+{
+    "spec_version": 1,
+    "identifier": "ElectricCost",
+    "name": "ElectricCost",
+    "abstract": "Add the small cost to the ElectricCharge.",
+    "author": "jenyaza01",
+    "license": "MIT",
+    "resources": {
+        "kerbalstuff": "https://kerbalstuff.com/mod/1072/ElectricCost",
+        "x_screenshot": "https://kerbalstuff.com/content/jenyaza01_9448/ElectricCost/ElectricCost-1439302966.867877.jpg"
+    },
+    "version": "1.0.1",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://s3-us-west-2.amazonaws.com/ksp-ckan/5E3F6871.zip",
+    "download_size": 232,
+    "download_hash": {
+        "sha1": "03B2F42CF69495590222B128EC22E16CCFD2D637",
+        "sha256": "5EBFEE54840AEFA37FEC72EE4321CCC6573560FF20EDB0AFC5C5477F4F420426"
+    },
+    "download_content_type": "application/zip",
+    "x_via": "Automated KerbalStuff CKAN submission",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,42 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "KerbinSide",
+    "name": "Kerbin-Side Complete",
+    "abstract": "New bases for Planet Kerbin",
+    "author": "AlphaAsh",
+    "license": "BSD-3-clause",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/74776-11-kerbin-side",
+        "spacedock": "https://spacedock.info/mod/150/Kerbin-Side%20Complete",
+        "x_screenshot": "https://spacedock.info/content/AlphaAsh_462/Kerbin-Side_Complete/Kerbin-Side_Complete-1460303919.673779.jpg"
+    },
+    "version": "1:1.0.8",
+    "ksp_version": "1.1.0",
+    "provides": [
+        "KerbinSide-virt"
+    ],
+    "depends": [
+        {
+            "name": "KerbalKonstructs"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "KerbinSide-virt"
+        }
+    ],
+    "install": [
+        {
+            "find": "KerbinSide",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/150/Kerbin-Side%20Complete/download/1.0.8",
+    "download_size": 60257013,
+    "download_hash": {
+        "sha1": "D45BAB817394C5905D539BADA1D1F487A0D8764A",
+        "sha256": "63838CC8FC249B6061A48C3616FE18DB3DF9FECE4247AC8CFCC82785A80AE0A2"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

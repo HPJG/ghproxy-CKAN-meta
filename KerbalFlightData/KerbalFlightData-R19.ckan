@@ -1,0 +1,31 @@
+{
+    "spec_version": 1,
+    "identifier": "KerbalFlightData",
+    "name": "Kerbal Flight Data",
+    "abstract": "Displays essential information for piloting space planes. Meant to be used in conjunction with Ferram Aerospace Resarch.",
+    "author": "DaMichel",
+    "license": "GPL-3.0",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/80842",
+        "repository": "https://ghproxy.net/https://github.com/DaMichel/KerbalFlightData"
+    },
+    "version": "R19",
+    "ksp_version": "1.0",
+    "recommends": [
+        {
+            "name": "Toolbar"
+        },
+        {
+            "name": "FerramAerospaceResearch"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/DaMichel/KerbalFlightData/releases/download/R19/KerbalFlightDataR19.zip",
+    "download_size": 22152,
+    "download_hash": {
+        "sha1": "499BE37D9CA55B5F9FB1A7622A608B26FFB866DB",
+        "sha256": "4D4928FCFEA56546E04E654FC0FEF8622E0D81A53D06978F9E0473A911CB5D3F"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

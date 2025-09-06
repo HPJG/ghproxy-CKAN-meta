@@ -1,0 +1,33 @@
+{
+    "spec_version": 1,
+    "identifier": "DockingSounds",
+    "name": "Docking Sounds",
+    "abstract": "Add sound effects to your docking maneuvers! ",
+    "author": "TG626",
+    "license": "CC-BY-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/113390-/"
+    },
+    "version": "1.2",
+    "ksp_version_min": "1.0.4",
+    "ksp_version_max": "1.0.5",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/DPSoundFX",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://www.dropbox.com/s/94py70a39cfb8qt/Docking_Sounds-1.2.zip?dl=1",
+    "download_size": 303212,
+    "download_hash": {
+        "sha1": "87F0E78208C51680F699FEBE459511CB3691855E",
+        "sha256": "F65210BA29139DFF2C63442021F15514EDDBF4C4A7FE13A90C237601CA097596"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

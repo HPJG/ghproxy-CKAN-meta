@@ -1,0 +1,54 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "KWRocketry-CommunityFixes",
+    "name": "KW Rocketry - Community Fixes",
+    "abstract": "This is a set of patches created by the community to bring KW up to 1.0.4 compatibility.",
+    "author": "linuxgurugamer",
+    "version": "0.4.14.1",
+    "ksp_version_min": "1.0.0",
+    "ksp_version_max": "1.0.5",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/116989-*",
+        "spacedock": "https://spacedock.info/mod/51/KW%20Rocketry%20-%20Community%20Fixes",
+        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/KW-Rocketry-Community-Fixes",
+        "bugtracker": "https://ghproxy.net/https://github.com/linuxgurugamer/KW-Rocketry-Community-Fixes/issues",
+        "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=205",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/KW_Rocketry_-_Community_Fixes/KW_Rocketry_-_Community_Fixes-1457147680.7179215.png"
+    },
+    "tags": [
+        "config",
+        "parts"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "KWRocketry",
+            "version": "2.7.0-community"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "KWRocketry-CommunityFixes-interstage"
+        }
+    ],
+    "install": [
+        {
+            "find": "KWCommunityFixes",
+            "install_to": "GameData",
+            "filter": "KWPatch-interstage.cfg"
+        }
+    ],
+    "download": "https://spacedock.info/mod/51/KW%20Rocketry%20-%20Community%20Fixes/download/0.4.14.1",
+    "download_size": 23377,
+    "download_hash": {
+        "sha1": "1464E7C5BE470CA0AC2DA1C5309A72335B8CEC13",
+        "sha256": "BE13661B1CC0AA5BE5C0DB5C7C898AAD33541ABB98AEDC6B701ECEEBAC365C0B"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 51134,
+    "release_date": "2016-05-25T12:45:07.383369+00:00",
+    "x_generated_by": "netkan"
+}

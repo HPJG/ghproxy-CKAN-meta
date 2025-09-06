@@ -1,0 +1,37 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "GlassPanesandEnclosures",
+    "name": "Glass Panes and Enclosures (GPE)",
+    "abstract": "Much glass, many panes, many forms. Just like crazy skyscrapers, man!",
+    "author": [
+        "2001kraft",
+        "Nazari1382"
+    ],
+    "license": "restricted",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/106633-105-glass-panes-and-enclosures",
+        "spacedock": "https://spacedock.info/mod/312/Glass%20Panes%20and%20Enclosures%20(GPE)",
+        "x_screenshot": "https://spacedock.info/content/2001kraft_1734/Glass_Panes_and_Enclosures_GPE/Glass_Panes_and_Enclosures_GPE-1456710839.9567726.png"
+    },
+    "version": "1.6.0.2",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "GlassThings",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/312/Glass%20Panes%20and%20Enclosures%20%28GPE%29/download/1.6.0.2",
+    "download_size": 9074252,
+    "download_hash": {
+        "sha1": "CDDD90D8A1E66AE3723F9D1C97EF05A9E533E735",
+        "sha256": "42CA055C77A25675BB5D24C9D736BBCEBACEC8974B817144D938448479433D01"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,44 @@
+{
+    "spec_version": "v1.16",
+    "identifier": "ContractConfigurator",
+    "name": "Contract Configurator",
+    "abstract": "A config-file based solution for creating new contracts!",
+    "description": "A config-file based solution for creating new contracts!",
+    "author": "nightingale",
+    "license": "MIT",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/101604",
+        "repository": "https://ghproxy.net/https://github.com/jrossignol/ContractConfigurator",
+        "bugtracker": "https://ghproxy.net/https://github.com/jrossignol/ContractConfigurator/issues",
+        "license": "https://raw.githubusercontent.com/jrossignol/ContractConfigurator/master/LICENSE.txt",
+        "manual": "https://ghproxy.net/https://github.com/jrossignol/ContractConfigurator/wiki"
+    },
+    "version": "1.10.4",
+    "ksp_version": "1.1.0",
+    "ksp_version_strict": true,
+    "recommends": [
+        {
+            "name": "WaypointManager"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "CoherentContracts"
+        },
+        {
+            "name": "ContractsWindowPlus"
+        },
+        {
+            "name": "WiderContractsApp"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/jrossignol/ContractConfigurator/releases/download/1.10.4/ContractConfigurator_1.10.4.zip",
+    "download_size": 372491,
+    "download_hash": {
+        "sha1": "CF2C68591427305C83C8C2C7B62300E9BD8003F0",
+        "sha256": "39FC1C880651446B77AEF9A8BC3B8A4F5BE9078C2B32305BC2A2E3A3CBD56891"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

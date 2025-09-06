@@ -1,0 +1,24 @@
+{
+    "spec_version": 1,
+    "identifier": "HaystackContinued",
+    "name": "Haystack Continued",
+    "abstract": "Now you can find that lost ship you were looking for!",
+    "author": "qberticus",
+    "license": "CC-BY-NC-SA-4.0",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/89920",
+        "repository": "https://ghproxy.net/https://github.com/qberticus/HaystackContinued",
+        "kerbalstuff": "https://kerbalstuff.com/mod/100/Haystack%20Continued"
+    },
+    "version": "0.3.2.0",
+    "ksp_version": "0.25",
+    "download": "https://archive.org/download/HaystackContinued-0.3.2.0/1301E1F5-HaystackContinued-0.3.2.0.zip",
+    "download_size": 86219,
+    "download_hash": {
+        "sha1": "1301E1F5E6FD867A4E3C6CDE7E7D694045EB02D5",
+        "sha256": "935D6134F99BF19C3060A63507A3968E36ABA6352187F66F2009CCB86A2262E5"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

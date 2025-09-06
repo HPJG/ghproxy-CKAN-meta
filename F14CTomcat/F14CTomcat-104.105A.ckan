@@ -1,0 +1,45 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "F14CTomcat",
+    "name": "F14 Tomcat",
+    "abstract": "The Awesome Navy fighter. ",
+    "author": "LuizChacon",
+    "license": "WTFPL",
+    "resources": {
+        "homepage": "http://starbaseone.freeforums.net/",
+        "kerbalstuff": "https://kerbalstuff.com/mod/849/F14%20Tomcat",
+        "x_screenshot": "https://kerbalstuff.com/content/LuizChacon_128/F14_Tomcat/F14_Tomcat-1448035094.7189958.png"
+    },
+    "version": "104.105A",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "FirespitterCore"
+        },
+        {
+            "name": "BahamutoDynamicsPartsPack"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "BDArmory"
+        },
+        {
+            "name": "AdjustableLandingGear"
+        }
+    ],
+    "install": [
+        {
+            "find": "F14CTomcat",
+            "install_to": "GameData/Skunk_Works"
+        }
+    ],
+    "download": "https://archive.org/download/F14CTomcat-104.105A/906C4505-F14CTomcat-104.105A.zip",
+    "download_size": 9006680,
+    "download_hash": {
+        "sha1": "906C4505374ADCA35FFB9DF693B6218B186078DB",
+        "sha256": "56BDB7F9B87E1A2478DC1848940CCE2E5437D6D384FDFBD3CB7771C7DC978B22"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

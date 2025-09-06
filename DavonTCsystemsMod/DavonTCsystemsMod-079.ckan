@@ -1,0 +1,22 @@
+{
+    "spec_version": 1,
+    "identifier": "DavonTCsystemsMod",
+    "name": "Davon Throttle Control systems",
+    "abstract": "Davon TC systems delivers advanced throttle control capabilities including additional throttles en blancing of thrust. ",
+    "author": "PrivateFlip",
+    "license": "GPL-2.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/38069",
+        "kerbalstuff": "https://kerbalstuff.com/mod/406/Davon%20Throttle%20Control%20systems"
+    },
+    "version": "079",
+    "ksp_version": "1.0.4",
+    "download": "https://archive.org/download/DavonTCsystemsMod-079/17FFE5C6-DavonTCsystemsMod-079.zip",
+    "download_size": 40011,
+    "download_hash": {
+        "sha1": "17FFE5C60DA4309339689334E91BC713A58CEC0B",
+        "sha256": "428EA9EFD5AF9AE58C6E4C9C2CA253E5C99C52C2C79FB8A9C9DD6DE7EB673319"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

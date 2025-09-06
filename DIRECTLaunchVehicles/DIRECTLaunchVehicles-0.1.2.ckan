@@ -1,0 +1,40 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "DIRECTLaunchVehicles",
+    "name": "DIRECT Launch Vehicles",
+    "abstract": "Re-release of the WIP DIRECT launch vehicle pack in sporadic development. ",
+    "author": "Benjee10",
+    "license": "CC-BY-NC-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/117215-wip-direct-super-heavy-launchers-amp-interplanetary-spacecraft-alpha-release-011/&page=1",
+        "spacedock": "https://spacedock.info/mod/415/DIRECT%20Launch%20Vehicles",
+        "x_screenshot": "https://spacedock.info/content/Benjee10_2390/DIRECT_Launch_Vehicles/DIRECT_Launch_Vehicles-1458082797.467973.png"
+    },
+    "version": "0.1.2",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "install": [
+        {
+            "find": "DIRECT_LV",
+            "install_to": "GameData",
+            "filter": ".DS_Store"
+        },
+        {
+            "find": "VAB",
+            "install_to": "Ships",
+            "filter": ".DS_Store"
+        }
+    ],
+    "download": "https://spacedock.info/mod/415/DIRECT%20Launch%20Vehicles/download/0.1.2",
+    "download_size": 2252227,
+    "download_hash": {
+        "sha1": "28B59C17135A89E108EBBF6B54E8840DD742E2A7",
+        "sha256": "9D0EA7A0284AFEB341A467A5C06B03CCB8E33963A9B8D05BCF1C4589D591547F"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

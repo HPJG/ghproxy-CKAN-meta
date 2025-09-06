@@ -1,0 +1,44 @@
+{
+    "spec_version": 1,
+    "identifier": "EF2000EuroFighter",
+    "name": "EF2000 Euro Fighter",
+    "abstract": "Someone requested this, so I added it. The Euro Fighter!",
+    "author": "LuizChacon",
+    "license": "WTFPL",
+    "resources": {
+        "homepage": "http://kscsm.freeforums.net/",
+        "kerbalstuff": "https://kerbalstuff.com/mod/860/EF2000%20Euro%20Fighter",
+        "x_screenshot": "https://kerbalstuff.com/content/LuizChacon_128/EF2000_Euro_Fighter/EF2000_Euro_Fighter-1433121544.9885924.png"
+    },
+    "version": "4.0",
+    "ksp_version": "0.90.0",
+    "depends": [
+        {
+            "name": "FirespitterCore"
+        },
+        {
+            "name": "BahamutoDynamicsPartsPack"
+        },
+        {
+            "name": "AircraftIVAHelmet"
+        }
+    ],
+    "install": [
+        {
+            "file": "EuroFighter2000",
+            "install_to": "GameData",
+            "filter": [
+                "Cockpit",
+                "Thumbs.db"
+            ]
+        }
+    ],
+    "download": "https://archive.org/download/EF2000EuroFighter-4.0/14A5A106-EF2000EuroFighter-4.0.zip",
+    "download_size": 9192570,
+    "download_hash": {
+        "sha1": "14A5A1063AB0AF0E24B27CD239AB8DA07A00C943",
+        "sha256": "257DAD41C759857B78DCFCA4B07B70FFEA7F96FE81333BF4D0806910E877B141"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,30 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "CraftImport",
+    "name": "Craft Import",
+    "abstract": "Import a craft file from either a website or a local file into the current game",
+    "author": "linuxgurugamer",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/132828",
+        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/CraftImport",
+        "kerbalstuff": "https://kerbalstuff.com/mod/1118/Craft%20Import",
+        "x_screenshot": "https://kerbalstuff.com/content/linuxgurugamer_4490/Craft_Import/Craft_Import-1440788257.458046.png"
+    },
+    "version": "0.5.1",
+    "ksp_version": "1.0.4",
+    "install": [
+        {
+            "find": "CraftImport",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/CraftImport-0.5.1/9A3B0A88-CraftImport-0.5.1.zip",
+    "download_size": 30991,
+    "download_hash": {
+        "sha1": "9A3B0A883B1D82780E079AC1ABFEF24CD43C68B7",
+        "sha256": "9BE9E93B75A09929F6E7F4C685521717EC6079B19D92FE19B54B1621C21046C1"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

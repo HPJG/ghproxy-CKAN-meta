@@ -1,0 +1,28 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "Historian",
+    "name": "Historian",
+    "abstract": "Adds useful, pretty, and configurable information to screenshots.",
+    "author": "Zeenobit",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/122062",
+        "kerbalstuff": "https://kerbalstuff.com/mod/821/Historian"
+    },
+    "version": "1.0.2",
+    "ksp_version": "1.0.3",
+    "install": [
+        {
+            "find": "KSEA",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/Historian-1.0.2/C9E6378B-Historian-1.0.2.zip",
+    "download_size": 39259,
+    "download_hash": {
+        "sha1": "C9E6378BE138C4C53CFBBB0659EC26F100C51DAE",
+        "sha256": "95AE02A1ADA9815444E21ED510646A4B3A7FBFD616FA8D6963C9B6066CEAC661"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

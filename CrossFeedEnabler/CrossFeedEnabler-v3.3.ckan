@@ -1,0 +1,28 @@
+{
+    "spec_version": 1,
+    "identifier": "CrossFeedEnabler",
+    "name": "Crossfeed Enabler",
+    "abstract": "Adds toggleable fuel crossfeed between the part it's added to, and the part this part is surface-attached to. Use it for radial tanks.",
+    "author": "NathanKell",
+    "license": "CC-BY-SA",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/69286-10-crossfeedenabler-v33-may-11/",
+        "repository": "https://ghproxy.net/https://github.com/NathanKell/CrossFeedEnabler"
+    },
+    "version": "v3.3",
+    "ksp_version_min": "1.0.0",
+    "ksp_version_max": "1.0.4",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/NathanKell/CrossFeedEnabler/releases/download/v3.3/CrossFeedEnabler_v3.3.zip",
+    "download_size": 35103,
+    "download_hash": {
+        "sha1": "BF6C70B36B2B70C02D25499D206E3A61BA6D0A1C",
+        "sha256": "A6DA824843539920AAC7107DDCFFA2FE633846FBC0A75A1F6691C351B3325924"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

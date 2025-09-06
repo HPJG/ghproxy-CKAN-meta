@@ -1,0 +1,36 @@
+{
+    "spec_version": "v1.4",
+    "comment": "Plugin is MIT, but Static Assets, Artwork & Models are ARR",
+    "identifier": "KerbalKonstructs",
+    "name": "Kerbal Konstructs",
+    "abstract": "Create new bases and launchsites in KSP",
+    "author": "AlphaAsh",
+    "license": "restricted",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/94863-105-kerbal-konstructs-v0952-insert-silly-subtitle-here/",
+        "spacedock": "https://spacedock.info/mod/124/Kerbal%20Konstructs",
+        "repository": "https://ghproxy.net/https://github.com/AlphaAsh/Kerbal-Konstructs_DEV",
+        "x_screenshot": "https://spacedock.info/content/AlphaAsh_462/Kerbal_Konstructs/Kerbal_Konstructs-1455806350.350444.jpg"
+    },
+    "version": "0.9.5.6",
+    "ksp_version": "1.1.0",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "KerbalKonstructs",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/124/Kerbal%20Konstructs/download/0.9.5.6",
+    "download_size": 6449295,
+    "download_hash": {
+        "sha1": "78355A861C13CD61DDE2E5907AF5D8C0D2EFFC9A",
+        "sha256": "8B98C4164E2C3075DC1CE0F63F223C4D647C59607EE2736F7BAC213588DF5418"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

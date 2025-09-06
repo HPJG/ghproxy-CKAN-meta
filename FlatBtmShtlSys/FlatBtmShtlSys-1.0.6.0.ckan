@@ -1,0 +1,51 @@
+{
+    "spec_version": "v1.12",
+    "identifier": "FlatBtmShtlSys",
+    "name": "Flat-Bottom Shuttle Systems",
+    "abstract": "A parts pack of 2.5m flat-bottom space plane parts, plus a few extras.",
+    "author": "StarlordKerman",
+    "version": "1.0.6.0",
+    "ksp_version_min": "1.5.0",
+    "ksp_version_max": "1.7.0",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/181434-flat-bottom-shuttle-systems/",
+        "spacedock": "https://spacedock.info/mod/2059/Flat-Bottom%20Shuttle%20Systems",
+        "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=606",
+        "x_screenshot": "https://spacedock.info/content/StarlordKerman_24979/Flat-Bottom_Shuttle_Systems/Flat-Bottom_Shuttle_Systems-1553118789.0911746.png"
+    },
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "depends": [
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "RasterPropMonitor"
+        }
+    ],
+    "install": [
+        {
+            "find": "TriCrossSection",
+            "install_to": "GameData",
+            "filter_regexp": [
+                "\\.craft$"
+            ]
+        },
+        {
+            "find_regexp": "\\.craft$",
+            "install_to": "Ships/SPH"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2059/Flat-Bottom%20Shuttle%20Systems/download/1.0.6.0",
+    "download_size": 85697463,
+    "download_hash": {
+        "sha1": "876A0D7A1DBC7749777257F2DEC60E013C272B42",
+        "sha256": "83FF87D7AF7021C9ACA8B1BBAB77FD48539EDE94369AD48AA611D2AFC729F5F9"
+    },
+    "download_content_type": "application/zip",
+    "release_date": "2019-04-23T07:57:31.625128+00:00",
+    "x_generated_by": "netkan"
+}

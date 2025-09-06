@@ -1,0 +1,38 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "EnduranceSpaceExplorationSystem",
+    "name": "Endurance Space Exploration System",
+    "abstract": "A parts pack designed to provide a Kerbal version of the Endurance spacecraft from the movie Interstellar. ",
+    "author": "benjee10",
+    "license": "CC-BY-NC-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/99841-WIP-Endurance-(from-Interstellar)-Early-Alpha-0-1-4-Ridiculously-efficient-engines!",
+        "kerbalstuff": "https://kerbalstuff.com/mod/536/Endurance%20Space%20Exploration%20System",
+        "x_screenshot": "https://kerbalstuff.com/content/benjee10_6674/Endurance_Space_Exploration_System/Endurance_Space_Exploration_System-1428181075.8485887.png"
+    },
+    "version": "0.9.0_BETA",
+    "ksp_version": "1.0.4",
+    "depends": [
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "RasterPropMonitor"
+        }
+    ],
+    "install": [
+        {
+            "find": "Endurance",
+            "install_to": "GameData",
+            "filter": ".DS_Store"
+        }
+    ],
+    "download": "https://archive.org/download/EnduranceSpaceExplorationSystem-0.9.0_BETA/25D54F38-EnduranceSpaceExplorationSystem-0.9.0_BETA.zip",
+    "download_size": 14260330,
+    "download_hash": {
+        "sha1": "25D54F382A2CD4C40079F0D346EB141D935BA12C",
+        "sha256": "7F56F9293C482BF44B1342B97F9912492D957ED489CD5D570FB54AC8551B79E1"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

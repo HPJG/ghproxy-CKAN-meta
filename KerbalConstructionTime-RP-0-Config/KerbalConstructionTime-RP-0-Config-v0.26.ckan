@@ -1,0 +1,44 @@
+{
+    "spec_version": 1,
+    "identifier": "KerbalConstructionTime-RP-0-Config",
+    "name": "Kerbal Construction Time RP-0 Config",
+    "abstract": "A Kerbal Construction Time configuration meant to be used for RP-0",
+    "author": "RP-0 Group",
+    "license": "CC-BY-4.0",
+    "resources": {
+        "repository": "https://ghproxy.net/https://github.com/KSP-RO/RP-0"
+    },
+    "version": "v0.26",
+    "ksp_version_min": "0.25",
+    "ksp_version_max": "0.90",
+    "provides": [
+        "KerbalConstructionTime-Config"
+    ],
+    "depends": [
+        {
+            "name": "RP-0"
+        },
+        {
+            "name": "KerbalConstructionTime"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "KerbalConstructionTime-Config"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/KerbalConstructionTime",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/KSP-RO/RP-0/releases/download/v0.26/RP-0-v0.26.zip",
+    "download_size": 624882,
+    "download_hash": {
+        "sha1": "A9CFFAFA4E7CA66D757D37C2E5815E605D163089",
+        "sha256": "4A8574023CF31233765322158BAB46CD887233F3D345EDF4746BFA612AD5C68E"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

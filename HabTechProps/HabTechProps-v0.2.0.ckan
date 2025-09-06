@@ -1,0 +1,37 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "HabTechProps",
+    "name": "Hab Tech Props",
+    "abstract": "Shared IVA prop assets for KSP",
+    "author": "benjee10",
+    "version": "v0.2.0",
+    "ksp_version_min": "1.8.0",
+    "ksp_version_max": "1.12.99",
+    "license": "CC-BY-NC-ND-4.0",
+    "resources": {
+        "repository": "https://ghproxy.net/https://github.com/benjee10/HabTechProps",
+        "bugtracker": "https://ghproxy.net/https://github.com/benjee10/HabTechProps/issues",
+        "remote-avc": "https://raw.githubusercontent.com/benjee10/HabTechProps/master/GameData/HabTechProps/Version/HabTechProps.version"
+    },
+    "tags": [
+        "config",
+        "crewed",
+        "first-person"
+    ],
+    "install": [
+        {
+            "find": "GameData/HabTechProps",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/benjee10/HabTechProps/releases/download/v0.2.0/HabTechProps_v0.2.0.zip",
+    "download_size": 8155674,
+    "download_hash": {
+        "sha1": "D25BCF9EAB03825A37A621FBC17DD732BC1E421E",
+        "sha256": "4D49C0B4A4FF9835FAB2A3739EE96B89EBF90EC1E7707EAC89E34DE5618F22AD"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 23745739,
+    "release_date": "2022-08-29T19:09:50Z",
+    "x_generated_by": "netkan"
+}

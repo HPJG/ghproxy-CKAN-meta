@@ -1,0 +1,31 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "CraftImport",
+    "name": "Craft Import & Upload",
+    "abstract": "Craft import and uploads",
+    "author": "linuxgurugamer",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/132828",
+        "spacedock": "https://spacedock.info/mod/47/Craft%20Import%20&%20Upload",
+        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/CraftImport",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Craft_Import__Upload/Craft_Import__Upload-1456622079.5029812.png"
+    },
+    "version": "0.8.1",
+    "ksp_version_min": "1.0.4",
+    "ksp_version_max": "1.0.5",
+    "install": [
+        {
+            "find": "CraftImport",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/47/Craft%20Import%20%26%20Upload/download/0.8.1",
+    "download_size": 46739,
+    "download_hash": {
+        "sha1": "523468E450382A1FC078F6C97477F91CCD556D7D",
+        "sha256": "BAA8B5691F6282DFE27EAD6320AEAD14BB83BBA33489E9CC9E318997D7B02D65"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

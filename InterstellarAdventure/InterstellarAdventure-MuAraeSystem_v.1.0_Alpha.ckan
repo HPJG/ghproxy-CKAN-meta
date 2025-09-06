@@ -1,0 +1,33 @@
+{
+    "spec_version": 1,
+    "identifier": "InterstellarAdventure",
+    "name": "Interstellar Adventure",
+    "abstract": "A mod that adds new real life star systems.",
+    "author": "amarius2",
+    "license": "CC-BY-NC-SA",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/114374-0-90-heavy-WIP-Interstellar-Adventure-a-journey-to-distant-stars?p=1813219#post1813219",
+        "kerbalstuff": "https://kerbalstuff.com/mod/665/Interstellar%20Adventure"
+    },
+    "version": "MuAraeSystem_v.1.0_Alpha",
+    "ksp_version": "0.90.0",
+    "depends": [
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "Kopernicus-Config-Default"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://archive.org/download/InterstellarAdventure-MuAraeSystem_v.1.0_Alpha/EADB9311-InterstellarAdventure-MuAraeSystem_v.1.0_Alpha.zip",
+    "download_size": 11071719,
+    "download_hash": {
+        "sha1": "EADB9311E22C759C00EA0927BD697B56E1F94075",
+        "sha256": "1F7D8F8D240DE1FA62161290B6F29D96C5375B6B98816F9DF5EC00BE74DDB205"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

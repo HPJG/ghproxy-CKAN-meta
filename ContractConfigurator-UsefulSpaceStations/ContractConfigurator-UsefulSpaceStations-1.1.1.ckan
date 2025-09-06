@@ -1,0 +1,43 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "ContractConfigurator-UsefulSpaceStations",
+    "name": "Contract Pack: Useful Space Stations",
+    "abstract": "Adds maintenance missions to your Space Stations",
+    "author": "severedsolo",
+    "license": "CC-BY-SA-4.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/102390-122-contract-pack-bases-and-stations-361-30042017-formerly-kerbin-space-station/",
+        "repository": "https://ghproxy.net/https://github.com/severedsolo/UsefulSpaceStations"
+    },
+    "version": "1.1.1",
+    "ksp_version_min": "1.0.2",
+    "ksp_version_max": "1.0.4",
+    "depends": [
+        {
+            "name": "ContractConfigurator",
+            "min_version": "1.2.5"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "ContractConfigurator-KerbinSpaceStation"
+        }
+    ],
+    "install": [
+        {
+            "find": "UsefulSpaceStations",
+            "install_to": "GameData/ContractPacks"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/severedsolo/UsefulSpaceStations/releases/download/1.1.1/UsefulSpaceStations1.1.1.zip",
+    "download_size": 78651,
+    "download_hash": {
+        "sha1": "59F9DB8D3B94F8F54B0995EC423E8EF0E3380CCA",
+        "sha256": "4E5BA45F2BBF392098BFC081E2C66B415A9BEB06E8D75D1C935B6E44CDC1A474"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

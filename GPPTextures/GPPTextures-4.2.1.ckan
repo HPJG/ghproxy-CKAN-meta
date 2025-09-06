@@ -1,0 +1,47 @@
+{
+    "spec_version": "v1.26",
+    "identifier": "GPPTextures",
+    "name": "GPP Textures",
+    "abstract": "Textures for Galileo's Planet Pack.",
+    "author": "Galileo88",
+    "version": "4.2.1",
+    "license": "CC-BY-NC-ND",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/152136-galileos-planet-pack/",
+        "repository": "https://ghproxy.net/https://github.com/Galileo88/Galileos-Planet-Pack",
+        "bugtracker": "https://ghproxy.net/https://github.com/Galileo88/Galileos-Planet-Pack/issues"
+    },
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "depends": [
+        {
+            "any_of": [
+                {
+                    "name": "GPP"
+                },
+                {
+                    "name": "GPPSecondary"
+                }
+            ]
+        }
+    ],
+    "install": [
+        {
+            "find": "GPP",
+            "install_to": "GameData",
+            "comment": "This correctly installs the textures for GPP"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/Galileo88/Galileos-Planet-Pack/releases/download/4.2.1/GPP_Textures-4.2.1.zip",
+    "download_size": 503457411,
+    "download_hash": {
+        "sha1": "DB9A156945F6E7F5865468DD4EEAE1E2EF7EF763",
+        "sha256": "34AB69A82A31B28ACC1B31F20B48F0645BED99B69C82540FB72014B8562FE1BA"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 796452430,
+    "release_date": "2018-08-03T15:47:21Z",
+    "x_generated_by": "netkan"
+}

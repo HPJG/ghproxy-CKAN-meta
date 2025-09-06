@@ -1,0 +1,28 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "EngineerLevelFixer",
+    "name": "Engineer Level Fixer",
+    "abstract": "Allows engineers to fix wheels at lower levels",
+    "author": "civilwargeeky",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://ghproxy.net/https://github.com/civilwargeeky/EngineerLevelFixer",
+        "kerbalstuff": "https://kerbalstuff.com/mod/1155/Engineer%20Level%20Fixer"
+    },
+    "version": "0.3.0",
+    "ksp_version": "1.0.4",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://archive.org/download/EngineerLevelFixer-0.3.0/7BBE1BF4-EngineerLevelFixer-0.3.0.zip",
+    "download_size": 5645,
+    "download_hash": {
+        "sha1": "7BBE1BF43F88710B5EE7F1C5C0D256DDD8FE2FF1",
+        "sha256": "C9BEEC1A4EA100F526178C91B99683DC5BDA991E0B0039922D7905D6E9CC13E5"
+    },
+    "download_content_type": "application/zip",
+    "x_via": "Automated KerbalStuff CKAN submission",
+    "x_generated_by": "netkan"
+}

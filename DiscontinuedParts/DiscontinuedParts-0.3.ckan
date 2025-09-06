@@ -1,0 +1,29 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "DiscontinuedParts",
+    "name": "Discontinued Parts",
+    "abstract": "Discontinued stock parts, including the old Mk1 Cockpit, air intakes, jet engines, etc.",
+    "author": "NecroBones",
+    "license": "CC-BY-NC-SA",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/137/Discontinued%20Parts",
+        "x_screenshot": "https://spacedock.info/content/NecroBones_209/Discontinued_Parts/Discontinued_Parts-1455808089.7239454.jpg"
+    },
+    "version": "0.3",
+    "ksp_version_min": "1.0.5",
+    "ksp_version_max": "1.2.0",
+    "install": [
+        {
+            "find": "DiscontinuedParts",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/137/Discontinued%20Parts/download/0.3",
+    "download_size": 11168265,
+    "download_hash": {
+        "sha1": "B19CC825F608082BE1CDC8617BE0D63822DD9352",
+        "sha256": "4B3D65AEE2FD9F7B929D97D5B0694A75F367A772625D5CDD644521249C62B6A0"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

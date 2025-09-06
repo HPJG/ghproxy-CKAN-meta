@@ -1,0 +1,24 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "HangarGrid",
+    "name": "Hangar Grid",
+    "abstract": "Simplifies vessel design by adding a visual grid and \"laser\" direction guides to SPH and VAB ",
+    "author": "Ser",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/132775-105-hangar-grid-align-everything",
+        "spacedock": "https://spacedock.info/mod/244/Hangar%20Grid",
+        "repository": "https://ghproxy.net/https://github.com/SerTheGreat/HangarGrid",
+        "x_screenshot": "https://spacedock.info/content/Ser_694/Hangar_Grid/Hangar_Grid-1456238433.3528767.png"
+    },
+    "version": "0.1.2c",
+    "ksp_version": "1.0.5",
+    "download": "https://spacedock.info/mod/244/Hangar%20Grid/download/0.1.2c",
+    "download_size": 17214,
+    "download_hash": {
+        "sha1": "C3A594196F59E4A27330CEF14326C74BEB6660B8",
+        "sha256": "B949B6DBD971AEDD9FDA95E63150C7AAAEF8D2221729722A241280781527B01B"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

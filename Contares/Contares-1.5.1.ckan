@@ -1,0 +1,34 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "Contares",
+    "name": "CONTARES",
+    "abstract": "addon for Tantares and TantaresLV",
+    "author": "hraban",
+    "license": "CC-BY-NC-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/135648-CONTARES-1-0-addon-for-Tantares-and-TantaresLV",
+        "kerbalstuff": "https://kerbalstuff.com/mod/1186/CONTARES",
+        "x_screenshot": "https://kerbalstuff.com/content/hraban_9021/CONTARES/CONTARES-1443886825.731991.png"
+    },
+    "version": "1.5.1",
+    "ksp_version": "1.0.4",
+    "depends": [
+        {
+            "name": "Tantares"
+        },
+        {
+            "name": "TantaresLV"
+        },
+        {
+            "name": "RealPlume"
+        }
+    ],
+    "download": "https://s3-us-west-2.amazonaws.com/ksp-ckan/62A60DD8.zip",
+    "download_size": 21179123,
+    "download_hash": {
+        "sha1": "53B29053452CC75C63DB5530967AF00B11ECD328",
+        "sha256": "2BCC053F6F3C38E20137E4F1D123B63571A9014F2A241E497EC37482043BFA55"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,104 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "EpicSuits",
+    "name": "epic suits",
+    "abstract": "its a texture replacer add on",
+    "author": "commonnefer",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/120293-epic-suits?p=1924275#post1924275",
+        "kerbalstuff": "https://kerbalstuff.com/mod/767/epic%20suits"
+    },
+    "version": "1.8",
+    "ksp_version": "1.0.4",
+    "depends": [
+        {
+            "name": "TextureReplacer"
+        }
+    ],
+    "install": [
+        {
+            "file": "epic suits/blue shirt and suit",
+            "install_to": "GameData/TextureReplacer/Suits",
+            "filter": ".DS_Store"
+        },
+        {
+            "file": "epic suits/blue suit",
+            "install_to": "GameData/TextureReplacer/Suits",
+            "filter": ".DS_Store"
+        },
+        {
+            "file": "epic suits/cyan suit",
+            "install_to": "GameData/TextureReplacer/Suits",
+            "filter": ".DS_Store"
+        },
+        {
+            "file": "epic suits/gold ish  suit",
+            "install_to": "GameData/TextureReplacer/Suits",
+            "filter": ".DS_Store"
+        },
+        {
+            "file": "epic suits/murica suit",
+            "install_to": "GameData/TextureReplacer/Suits",
+            "filter": ".DS_Store"
+        },
+        {
+            "file": "epic suits/orange shirt and suit",
+            "install_to": "GameData/TextureReplacer/Suits",
+            "filter": ".DS_Store"
+        },
+        {
+            "file": "epic suits/orange suit",
+            "install_to": "GameData/TextureReplacer/Suits",
+            "filter": ".DS_Store"
+        },
+        {
+            "file": "epic suits/purple suit",
+            "install_to": "GameData/TextureReplacer/Suits",
+            "filter": ".DS_Store"
+        },
+        {
+            "file": "epic suits/Red shirt and suit",
+            "install_to": "GameData/TextureReplacer/Suits",
+            "filter": ".DS_Store"
+        },
+        {
+            "file": "epic suits/red suit",
+            "install_to": "GameData/TextureReplacer/Suits",
+            "filter": ".DS_Store"
+        },
+        {
+            "file": "epic suits/white shirt and suit",
+            "install_to": "GameData/TextureReplacer/Suits",
+            "filter": ".DS_Store"
+        },
+        {
+            "file": "epic suits/white suit",
+            "install_to": "GameData/TextureReplacer/Suits",
+            "filter": ".DS_Store"
+        },
+        {
+            "file": "epic suits/yellow shirt and suit",
+            "install_to": "GameData/TextureReplacer/Suits",
+            "filter": ".DS_Store"
+        },
+        {
+            "file": "epic suits/yellow suit",
+            "install_to": "GameData/TextureReplacer/Suits",
+            "filter": ".DS_Store"
+        },
+        {
+            "file": "epic suits/license and legal.txt",
+            "install_to": "GameData/TextureReplacer/EpicSuitsLicense"
+        }
+    ],
+    "download": "https://archive.org/download/EpicSuits-1.8/980B15AF-EpicSuits-1.8.zip",
+    "download_size": 63647798,
+    "download_hash": {
+        "sha1": "980B15AFE7B22EDF6F7FE941B6D4F9B7735A37B3",
+        "sha256": "A621997999482591CBC3C8613ACBB351245213E9E805E57A3C146AD70583EB79"
+    },
+    "download_content_type": "application/zip",
+    "x_screenshot": "https://kerbalstuff.com/content/commonnefer_9867/epic_suits/epic_suits-1434254681.4036891.png",
+    "x_generated_by": "netkan"
+}

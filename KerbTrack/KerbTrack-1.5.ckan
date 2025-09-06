@@ -1,0 +1,37 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "KerbTrack",
+    "name": "KerbTrack",
+    "abstract": "Adds support for head trackers such as TrackIR, opentrack and FreeTrack.",
+    "author": "pizzaoverhead",
+    "version": "1.5",
+    "ksp_version_min": "1.2.1",
+    "ksp_version_max": "1.4.99",
+    "license": "GPL-2.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/66352-141-kerbtrack-v15-head-tracking-using-your-webcam-trackir-oculus-rift-joystick-2018-03-14/",
+        "spacedock": "https://spacedock.info/mod/1745/KerbTrack",
+        "x_screenshot": "https://spacedock.info/content/pizzaoverhead_837/KerbTrack/KerbTrack-1521067667.9567606.png"
+    },
+    "tags": [
+        "plugin",
+        "app",
+        "control",
+        "crewed"
+    ],
+    "install": [
+        {
+            "find": "GameData/KerbTrack",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1745/KerbTrack/download/1.5",
+    "download_size": 43492,
+    "download_hash": {
+        "sha1": "777715F913C4BCDE624E85BAD8A2FD4FD69954BC",
+        "sha256": "160C3A9F093D19D0B91C36003F0E6E75A442A01880661F7930D21C8ED7DB21AA"
+    },
+    "download_content_type": "application/zip",
+    "release_date": "2018-03-14T23:44:59.422034+00:00",
+    "x_generated_by": "netkan"
+}

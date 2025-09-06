@@ -1,0 +1,66 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "KPlus",
+    "name": "Kerbol Plus Remade",
+    "abstract": "Kerbol Plus is a planetary expansion for KSP adding in 6 new planets and 6 moons for players to discover. Note: This version is a revisioned version of KerbolPlus.",
+    "author": [
+        "KillAshley",
+        "Thomas P."
+    ],
+    "license": "CC-BY-NC-SA-4.0",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/124505-105-kopernicus-kerbol-plus-remade-v11-19nov15-reborn-and-revived/",
+        "repository": "https://ghproxy.net/https://github.com/KillAshley/KPlus"
+    },
+    "version": "1.1",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus",
+            "min_version": "1:beta-05-2"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "DistantObject"
+        },
+        {
+            "name": "PlanetShine"
+        },
+        {
+            "name": "TextureReplacer"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "BilliardsPlanetPack"
+        },
+        {
+            "name": "KerbolPlus"
+        },
+        {
+            "name": "RealSolarSystem"
+        },
+        {
+            "name": "ToySolarSystem"
+        }
+    ],
+    "install": [
+        {
+            "find": "KPlus",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/KillAshley/KPlus/releases/download/1.1/KPlus_v1.1.zip",
+    "download_size": 50528336,
+    "download_hash": {
+        "sha1": "EAADA3A05F2BF7C67F88FA3240FF0D1194960B96",
+        "sha256": "5F8DCCB14C3B474C9ACDEAC0AF8FEE6EE5AFBF708AB63CEB965F57AC84A11118"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

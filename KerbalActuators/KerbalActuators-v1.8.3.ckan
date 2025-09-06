@@ -1,0 +1,39 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "KerbalActuators",
+    "name": "Kerbal Actuators",
+    "abstract": "A plugin used to create VTOL engines and robotic parts",
+    "author": "Angel125",
+    "version": "v1.8.3",
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "resources": {
+        "repository": "https://ghproxy.net/https://github.com/Angel-125/KerbalActuators",
+        "bugtracker": "https://ghproxy.net/https://github.com/Angel-125/KerbalActuators/issues",
+        "remote-avc": "https://raw.githubusercontent.com/Angel-125/KerbalActuators/master/GameData/WildBlueIndustries/KerbalActuators/KerbalActuators.version"
+    },
+    "tags": [
+        "plugin",
+        "parts"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "WildBlueIndustries",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/Angel-125/KerbalActuators/releases/download/v1.8.3/KerbalActuators_1_8_3_1.zip",
+    "download_size": 1018172,
+    "download_hash": {
+        "sha1": "6A0341E16634AF51A46B6253CF014BE5580B991D",
+        "sha256": "1687851CA790185E095D15EA0025C3EFB48682E762EC7AFE1FB68CEC50A78DBA"
+    },
+    "download_content_type": "application/zip",
+    "release_date": "2020-06-19T19:14:27Z",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,23 @@
+{
+    "spec_version": 1,
+    "identifier": "FuelTanksPlus",
+    "name": "Fuel Tanks Plus",
+    "abstract": "Longer fuel tanks in a variety of styles, with assocaited fueled nose cones. Stand-alone, or companion to Color Coded Canisters.",
+    "author": "NecroBones",
+    "license": "CC-BY-NC-SA",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/108238",
+        "kerbalstuff": "https://kerbalstuff.com/mod/529/Fuel%20Tanks%20Plus"
+    },
+    "version": "0.8.2",
+    "ksp_version": "1.0.2",
+    "download": "https://archive.org/download/FuelTanksPlus-0.8.2/9D4EAC68-FuelTanksPlus-0.8.2.zip",
+    "download_size": 3611880,
+    "download_hash": {
+        "sha1": "9D4EAC6821077576A2A26D72C7D7780E4ECCA05B",
+        "sha256": "25C7D2FE821C5CC6F5950259C4C8B7F58CC44B46F5DA81CB30B46B32AE6E1941"
+    },
+    "download_content_type": "application/zip",
+    "x_via": "Automated KerbalStuff CKAN submission",
+    "x_generated_by": "netkan"
+}

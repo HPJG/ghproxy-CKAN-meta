@@ -1,0 +1,22 @@
+{
+    "spec_version": 1,
+    "identifier": "KSPChromaControl",
+    "name": "KSP Chroma Control",
+    "abstract": "Lights up your keyboard to show you all the functions your vessel actually has. Requires a Razer Chroma Keyboard or Keypad along with Razer Synapse installed to work.",
+    "author": "cguckes",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "https://ghproxy.net/https://github.com/cguckes/ksp-chroma",
+        "repository": "https://ghproxy.net/https://github.com/cguckes/ksp-chroma"
+    },
+    "version": "v1.0",
+    "ksp_version": "1.1.0",
+    "download": "https://ghproxy.net/https://github.com/cguckes/ksp-chroma/releases/download/v1.0/KSPChromaControl.zip",
+    "download_size": 47249,
+    "download_hash": {
+        "sha1": "B17D2017E20454B3462F13F8BEE4427F2D61F63D",
+        "sha256": "428F5F8BDBA7690F78B9A1783E63A750034F123BB3DC803096A797CF881B882E"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

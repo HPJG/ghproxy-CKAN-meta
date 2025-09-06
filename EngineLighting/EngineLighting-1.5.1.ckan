@@ -1,0 +1,46 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "EngineLighting",
+    "name": "Engine Lighting",
+    "abstract": "This mod adds lighting to engines!",
+    "author": "Tatjam",
+    "version": "1.5.1",
+    "ksp_version": "1.5.1",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/109845-*",
+        "spacedock": "https://spacedock.info/mod/272/Engine%20Lighting",
+        "repository": "https://ghproxy.net/https://github.com/tatjam/KSP-EngineLight",
+        "x_screenshot": "https://spacedock.info/content/Tatjam_1413/Engine_Lighting/Engine_Lighting-1462621623.33556.png"
+    },
+    "tags": [
+        "plugin",
+        "graphics"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager",
+            "min_version": "2.6.3"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "HotRockets"
+        }
+    ],
+    "install": [
+        {
+            "find": "EngineLight",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/272/Engine%20Lighting/download/1.5.1",
+    "download_size": 9489,
+    "download_hash": {
+        "sha1": "BB3644A61080F5B16F28515C56FA1F97733BD850",
+        "sha256": "7AE7CA3F9952D85A849F25549D9412B6185DA36EBEF23F2C307AA7894CAAE42F"
+    },
+    "download_content_type": "application/zip",
+    "release_date": "2017-10-13T23:03:02.677422+00:00",
+    "x_generated_by": "netkan"
+}

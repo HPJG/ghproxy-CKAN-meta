@@ -1,0 +1,37 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "KerbalEnvironmentalEffectsStudy",
+    "name": "Kerbal Environmental Effects Study",
+    "abstract": "Science and money from experiments based on real space science.",
+    "author": "N3h3mia",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/112336",
+        "kerbalstuff": "https://kerbalstuff.com/mod/625/Kerbal%20Environmental%20Effects%20Study"
+    },
+    "version": "0.2",
+    "ksp_version": "0.90",
+    "depends": [
+        {
+            "name": "NehemiahScienceCommon"
+        },
+        {
+            "name": "KAS"
+        }
+    ],
+    "install": [
+        {
+            "file": "NehemiahInc/KEES",
+            "install_to": "GameData/NehemiahInc"
+        }
+    ],
+    "download": "https://archive.org/download/KerbalEnvironmentalEffectsStudy-0.2/CE9262C2-KerbalEnvironmentalEffectsStudy-0.2.zip",
+    "download_size": 1731345,
+    "download_hash": {
+        "sha1": "CE9262C27BD0290D480FBEFCA761F046FE8E2A19",
+        "sha256": "E89E1A3C7E93A71CC0007FE77256E6F041F84B0EEF0ECF3595E2CB6DFE5860D1"
+    },
+    "download_content_type": "application/zip",
+    "x_via": "Automated KerbalStuff CKAN submission",
+    "x_generated_by": "netkan"
+}

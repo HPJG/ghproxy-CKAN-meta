@@ -1,0 +1,28 @@
+{
+    "spec_version": "v1.2",
+    "identifier": "FingerboxesCore",
+    "name": "Fingerboxes Core Plugin",
+    "abstract": "(KSP Mod) Common methods library for KSP mods - This mod is intended for use by some of my other mods, it does nothing on its own. It contains some code from TriggerAU, licensed under MIT.",
+    "author": "fingerboxes",
+    "license": "MIT",
+    "resources": {
+        "repository": "https://ghproxy.net/https://github.com/fingerboxes/FingerboxLib"
+    },
+    "version": "2:1.0.4_r1",
+    "ksp_version_min": "1.0.0",
+    "ksp_version_max": "1.0.4",
+    "install": [
+        {
+            "file": "GameData/Fingerboxes/Common/Plugins",
+            "install_to": "GameData/Fingerboxes/Common"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/fingerboxes/FingerboxLib/releases/download/1.0.0_r1/FingerboxLib_1.0.4_r1.zip",
+    "download_size": 46896,
+    "download_hash": {
+        "sha1": "9823C32D12C9C8A4A135F150F4519C3DDFFD3744",
+        "sha256": "D16375A2907221E37B4F47952CA6A07DDE62310940DBBB373EBA0287DAED78E5"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

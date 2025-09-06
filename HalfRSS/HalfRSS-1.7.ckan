@@ -1,0 +1,54 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "HalfRSS",
+    "name": "Half Size Real Solar System",
+    "abstract": "HalfRSS is a mod that uses the great work from NathanKell and creates our Real Solar System at half the size. HalfRSS is still 5 times larger than stock KSP and provides a huge challenge to players, but can be achieved with stock parts.",
+    "author": "pap1723",
+    "version": "1.7",
+    "ksp_version_min": "1.2.0",
+    "ksp_version_max": "1.2.99",
+    "license": "CC-BY-NC-SA",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/142336-*",
+        "repository": "https://ghproxy.net/https://github.com/pap1723/HalfRSS",
+        "bugtracker": "https://ghproxy.net/https://github.com/pap1723/HalfRSS/issues"
+    },
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "depends": [
+        {
+            "name": "ModularFlightIntegrator"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "HalfRSS-Textures"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "CustomAsteroids"
+        }
+    ],
+    "install": [
+        {
+            "find": "HalfRSS",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/pap1723/HalfRSS/releases/download/1.7/HalfRSS-v17.zip",
+    "download_size": 1533370,
+    "download_hash": {
+        "sha1": "676C3397B508A9808F7074210D37B53B2E4E64BE",
+        "sha256": "87C3C8EDD3F4114FAD7A10918CE1F3076145D7980E1C0AF869E25EBE494A3B59"
+    },
+    "download_content_type": "application/zip",
+    "release_date": "2017-02-08T15:32:01Z",
+    "x_generated_by": "netkan"
+}

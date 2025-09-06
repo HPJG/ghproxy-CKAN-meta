@@ -1,0 +1,35 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "KeepFit",
+    "name": "keepfit",
+    "abstract": "Gee Effects and Kerbal fitness degradation",
+    "author": "timmers_uk",
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/67739",
+        "kerbalstuff": "https://kerbalstuff.com/mod/295/keepfit"
+    },
+    "version": "0.4.1.1",
+    "ksp_version_min": "1.0.0",
+    "ksp_version_max": "1.0.0",
+    "depends": [
+        {
+            "name": "ModuleManager",
+            "min_version": "2.5.1"
+        }
+    ],
+    "install": [
+        {
+            "find": "KeepFit",
+            "install_to": "GameData/Timmers"
+        }
+    ],
+    "download": "https://archive.org/download/KeepFit-0.4.1.1/BF5200BA-KeepFit-0.4.1.1.zip",
+    "download_size": 65906,
+    "download_hash": {
+        "sha1": "BF5200BA626C8C0823C5F8110D5798B3EE8DE080",
+        "sha256": "0B3CD953C0BC92A3296FBA2B667904E5E1DE1730E77BBD5F9764936F8A5D3D2E"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

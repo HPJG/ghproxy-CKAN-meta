@@ -1,0 +1,31 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "Goodspeed",
+    "name": "GPOSpeedFuelPump",
+    "abstract": "After the Kraken took GoodSpeed away never to be seen again I have taken up the continuance of this mod. I do hope he doesn't mind wherever he may be",
+    "author": "GeordiePigeonOwner",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/118176",
+        "kerbalstuff": "https://kerbalstuff.com/mod/722/GPOSpeedFuelPump",
+        "x_screenshot": "https://kerbalstuff.com/content/GeordiePigeonOwner_9250/GPOSpeedFuelPump/GPOSpeedFuelPump-1430433011.8825624.png"
+    },
+    "version": "1.4",
+    "ksp_version_min": "1.0.2",
+    "ksp_version_max": "1.0.4",
+    "install": [
+        {
+            "find": "GPOSpeedFuelPump",
+            "install_to": "GameData",
+            "filter": "sourcecode"
+        }
+    ],
+    "download": "https://s3-us-west-2.amazonaws.com/ksp-ckan/069D109E.zip",
+    "download_size": 24972,
+    "download_hash": {
+        "sha1": "C779FDF5EAA5CB119DC68FCBD82CFC6433A5EBD0",
+        "sha256": "F6BA1AE126267348E4C6440A94873C155AC860590BD998B655C594D35A8190D0"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,22 @@
+{
+    "spec_version": 1,
+    "identifier": "EnhancedNavBall",
+    "name": "Enhanced Navball",
+    "abstract": "Enhanced Navball is a navball addon that adds ghosting and scaling of the Navball",
+    "author": "Kitoban",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/50524-0-25-Enhanced-Navball-1-3",
+        "kerbalstuff": "https://kerbalstuff.com/mod/411/Enhanced%20Navball"
+    },
+    "version": "1.3.4",
+    "ksp_version": "0.90",
+    "download": "https://archive.org/download/EnhancedNavBall-1.3.4/B9E16039-EnhancedNavBall-1.3.4.zip",
+    "download_size": 39799,
+    "download_hash": {
+        "sha1": "B9E16039F98EE962DB36310D86C6C137F1DD379F",
+        "sha256": "DACFB040A6126CD996C9134D645B9C40212EF07061ED99C782F5FCFC48231197"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

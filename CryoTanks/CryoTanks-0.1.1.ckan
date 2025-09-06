@@ -1,0 +1,46 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "CryoTanks",
+    "name": "Cryogenic Tanks",
+    "abstract": "A set of fuel tanks containing liquid hydrogen, with active cryocooling. Used by some of Nertea's mods.",
+    "author": "Nertea",
+    "license": "CC-BY-NC-SA-4.0",
+    "release_status": "stable",
+    "resources": {
+        "repository": "https://ghproxy.net/https://github.com/ChrisAdderley",
+        "kerbalstuff": "https://kerbalstuff.com/mod/1422/Kerbal%20Atomics",
+        "x_screenshot": "https://kerbalstuff.com/content/Nertea_3884/Kerbal_Atomics/Kerbal_Atomics-1453504774.0092812.png"
+    },
+    "version": "0.1.1",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "supports": [
+        {
+            "name": "KerbalAtomics"
+        },
+        {
+            "name": "CryoEngines"
+        }
+    ],
+    "install": [
+        {
+            "find": "CryoTanks",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/CryoTanks-0.1.1/8729013E-CryoTanks-0.1.1.zip",
+    "download_size": 17706483,
+    "download_hash": {
+        "sha1": "8729013E8C5AD2D37AF019800F6A4CF010F0B4C0",
+        "sha256": "6767AE9FA7B608C42474E204BF40979EF86BDAE4669AC0C93035ABDACCB5C287"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

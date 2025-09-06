@@ -1,0 +1,29 @@
+{
+    "spec_version": 1,
+    "identifier": "EVAManager",
+    "name": "EVAManager",
+    "abstract": "Configurable Modules for EVA Kerbals",
+    "author": "toadicus",
+    "license": "BSD-3-clause",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/109071-/",
+        "spacedock": "https://spacedock.info/mod/290/EVAManager",
+        "repository": "https://ghproxy.net/https://github.com/toadicus/EVAManager"
+    },
+    "version": "7",
+    "ksp_version": "1.0.5",
+    "install": [
+        {
+            "file": "GameData/EVAManager",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/290/EVAManager/download/7",
+    "download_size": 22751,
+    "download_hash": {
+        "sha1": "EA46A572FC33E0265333809F64DE83D386EF84FB",
+        "sha256": "19E6DFB8BA7A975110674D41941AD01F043A63EBE4B35ED83A3DAAED98E2C52C"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

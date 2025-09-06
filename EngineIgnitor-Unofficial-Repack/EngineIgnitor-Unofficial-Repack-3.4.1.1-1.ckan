@@ -1,0 +1,56 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "EngineIgnitor-Unofficial-Repack",
+    "name": "Engine Ignitor (repack)",
+    "abstract": "Engine ignition and throttles now work like real engines",
+    "author": "HoneyFox (repacked by pjf)",
+    "version": "3.4.1.1-1",
+    "ksp_version_min": "0.24.0",
+    "ksp_version_max": "0.90.0",
+    "license": "MIT",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/47648-*",
+        "repository": "https://ghproxy.net/https://github.com/pjf/EngineIgnitor"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "provides": [
+        "EngineIgnitor"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "RealFuels"
+        },
+        {
+            "name": "KAS"
+        },
+        {
+            "name": "RasterPropMonitor"
+        },
+        {
+            "name": "RealismOverhaul"
+        }
+    ],
+    "install": [
+        {
+            "find": "EngineIgnitor",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/pjf/EngineIgnitor/releases/download/3.4.1.1-1/EngineIgnitor-3.4.1.1-1.zip",
+    "download_size": 652586,
+    "download_hash": {
+        "sha1": "4CB724E9EDBCC710F9632F82C3A14546E0D305B9",
+        "sha256": "A52089EC326688A904C94DFC9BA6BA2542FB9B03842F8DE0F88817594D891A9B"
+    },
+    "download_content_type": "application/zip",
+    "release_date": "2015-02-25T11:19:13Z",
+    "x_generated_by": "netkan"
+}

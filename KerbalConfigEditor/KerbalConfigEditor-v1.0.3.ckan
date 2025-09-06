@@ -1,0 +1,36 @@
+{
+    "spec_version": 1,
+    "identifier": "KerbalConfigEditor",
+    "name": "Kerbal Config Editor",
+    "abstract": "KCE allows modders to easily and quickly edit KSP Config Files.",
+    "author": "Nifty255",
+    "license": "GPL-3.0",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/107085",
+        "repository": "https://ghproxy.net/https://github.com/IRnifty/KerbalConfigEditor",
+        "bugtracker": "https://ghproxy.net/https://github.com/IRnifty/KerbalConfigEditor/issues",
+        "kerbalstuff": "https://kerbalstuff.com/mod/495",
+        "x_screenshot": "https://kerbalstuff.com/content/Nifty255_77/Kerbal_Config_Editor/Kerbal_Config_Editor.png"
+    },
+    "version": "v1.0.3",
+    "ksp_version": "1.0.5",
+    "install": [
+        {
+            "file": "Kerbal Config Editor/Kerbal Config Editor.exe",
+            "install_to": "GameRoot"
+        },
+        {
+            "file": "Kerbal Config Editor/KCE README.txt",
+            "install_to": "GameRoot"
+        }
+    ],
+    "download": "https://archive.org/download/KerbalConfigEditor-v1.0.3/89A9E1B6-KerbalConfigEditor-v1.0.3.zip",
+    "download_size": 140809,
+    "download_hash": {
+        "sha1": "89A9E1B6FFF026635D3602BCA0717A2820F6B842",
+        "sha256": "751E0EF7AD05878F3063D92D8EF507A2B77942C6D83D87AD52D54C6293818A11"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

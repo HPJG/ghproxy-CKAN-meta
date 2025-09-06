@@ -1,0 +1,22 @@
+{
+    "spec_version": 1,
+    "identifier": "EditorExtensions",
+    "name": "Editor Extensions",
+    "abstract": "Tweaks and features for the in-game vessel editor, e.g. alignment and symmetry aids.",
+    "author": "MachXXV",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://ghproxy.net/https://github.com/MachXXV/EditorExtensions",
+        "kerbalstuff": "https://kerbalstuff.com/mod/442/Editor%20Extensions"
+    },
+    "version": "2.6",
+    "ksp_version": "1.0.0",
+    "download": "https://archive.org/download/EditorExtensions-2.6/5FD07ACA-EditorExtensions-2.6.zip",
+    "download_size": 18526,
+    "download_hash": {
+        "sha1": "5FD07ACA4078877210B67DACDA92E66038FDADB7",
+        "sha256": "C42D4A68474216C5698AB1CA9869165C5974F53B3586E96CC70AE5BCBD3D581F"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

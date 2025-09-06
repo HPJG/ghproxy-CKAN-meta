@@ -1,0 +1,35 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "ContractConfigurator-Banking",
+    "name": "Contract Pack: Banking",
+    "abstract": "Just a small mod that adds loan possibility into KSP via the Contract Configurator mod.",
+    "author": "Arachnidek",
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/113431-0-90-Contract-Pack-Banking-V-01-18-02-2015",
+        "kerbalstuff": "https://kerbalstuff.com/mod/649/Banking",
+        "x_screenshot": "https://kerbalstuff.com/content/Arachnidek_6367/Banking/Banking-1426696473.1583092.png"
+    },
+    "version": "V.01",
+    "ksp_version": "0.90.0",
+    "depends": [
+        {
+            "name": "ContractConfigurator",
+            "min_version": "0.7.0"
+        }
+    ],
+    "install": [
+        {
+            "find": "Banking",
+            "install_to": "GameData/ContractPacks"
+        }
+    ],
+    "download": "https://s3-us-west-2.amazonaws.com/ksp-ckan/A2D6C091.zip",
+    "download_size": 78635,
+    "download_hash": {
+        "sha1": "0FA576ED6E2A74CDE184CA5A752277EBDE4C52F2",
+        "sha256": "DE4EBADD55D15BD981173928070A5C912FCA86E6CED906AACD7BFB627D0A87E1"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

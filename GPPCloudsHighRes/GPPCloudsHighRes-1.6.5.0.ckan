@@ -1,0 +1,65 @@
+{
+    "spec_version": "v1.26",
+    "identifier": "GPPCloudsHighRes",
+    "name": "GPP HighRes clouds",
+    "abstract": "High resolution clouds for GPP",
+    "author": [
+        "Galileo88",
+        "OhioBob"
+    ],
+    "version": "1.6.5.0",
+    "ksp_version_min": "1.8.1",
+    "license": "CC-BY-NC-ND",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/152136-galileos-planet-pack/",
+        "repository": "https://ghproxy.net/https://github.com/Galileo88/Galileos-Planet-Pack",
+        "bugtracker": "https://ghproxy.net/https://github.com/Galileo88/Galileos-Planet-Pack/issues",
+        "remote-avc": "https://raw.githubusercontent.com/Galileo88/Galileos-Planet-Pack/master/GameData/GPP/Version/GalileosPlanetPack.version"
+    },
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "provides": [
+        "EnvironmentalVisualEnhancements-Config"
+    ],
+    "depends": [
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "any_of": [
+                {
+                    "name": "GPP"
+                },
+                {
+                    "name": "GPPSecondary"
+                }
+            ]
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "GPPCloudsLowRes"
+        }
+    ],
+    "install": [
+        {
+            "find": "Optional Mods/GPP_Clouds/High-res Clouds_GameData inside/GameData/GPP",
+            "install_to": "GameData",
+            "comment": "This installs the high resolution clouds configs for GPP"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/Galileo88/Galileos-Planet-Pack/releases/download/1.6.5.0/Galileos-Planet-Pack-1.6.5.0.zip",
+    "download_size": 363085389,
+    "download_hash": {
+        "sha1": "54B62137805C046A6A850FD8991F143DC90B83FD",
+        "sha256": "DB390B095FED91908CF60D649FE7B43A1B2DA14F45DC65F9724EC47646824EA2"
+    },
+    "download_content_type": "application/zip",
+    "release_date": "2020-07-29T23:14:29Z",
+    "x_generated_by": "netkan"
+}

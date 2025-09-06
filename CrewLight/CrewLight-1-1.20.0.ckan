@@ -1,0 +1,42 @@
+{
+    "spec_version": 1,
+    "identifier": "CrewLight",
+    "name": "Crew Light",
+    "abstract": "An automatic light manager",
+    "author": [
+        "Li0n",
+        "linuxgurugamer"
+    ],
+    "version": "1:1.20.0",
+    "ksp_version_min": "1.8.0",
+    "ksp_version_max": "1.8.1",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/188343-*",
+        "spacedock": "https://spacedock.info/mod/2236/Crew%20Light%20Relit",
+        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/CrewLight",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/CrewLight/master/GameData/CrewLight/CrewLight.version"
+    },
+    "tags": [
+        "plugin",
+        "crewed",
+        "information"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2236/Crew%20Light%20Relit/download/1.20.0",
+    "download_size": 78789,
+    "download_hash": {
+        "sha1": "D8EFD7875956FEDEEBD8D2E66C40FB78037A1B7A",
+        "sha256": "9F8C94F937B73B805A61AC81F6331CE9597D58D1574776A406AEFA7322B16B3A"
+    },
+    "download_content_type": "application/zip",
+    "release_date": "2019-11-11T22:37:41.994171+00:00",
+    "x_generated_by": "netkan"
+}

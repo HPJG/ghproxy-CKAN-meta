@@ -1,0 +1,57 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "GAP",
+    "name": "Contract Pack: Giving Aircraft a Purpose (GAP)",
+    "abstract": "Contracts for aircraft development, charters, repeatable flights, Coast Guard rescue and retrieval operations, stunts, and Space Shuttle missions!",
+    "author": "inigma",
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/129208-contract-pack-giving-aircraft-a-purpose-gap-112-air-flights-tours-coast-guard-sts-jan-31-2016/",
+        "spacedock": "https://spacedock.info/mod/70/Contract%20Pack:%20Giving%20Aircraft%20a%20Purpose%20(GAP)",
+        "repository": "https://ghproxy.net/https://github.com/inigmatus/GAP",
+        "x_screenshot": "https://spacedock.info/content/inigma_157/Contract_Pack_Giving_Aircraft_a_Purpose_GAP/Contract_Pack_Giving_Aircraft_a_Purpose_GAP-1455807835.4179811.png"
+    },
+    "version": "1.2.3",
+    "ksp_version": "1.1.0",
+    "depends": [
+        {
+            "name": "ContractConfigurator"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "TakeCommand"
+        },
+        {
+            "name": "KerbalAircraftExpansion"
+        },
+        {
+            "name": "VNG-Parachute-EVALoading"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "WaypointManager"
+        },
+        {
+            "name": "KAS"
+        },
+        {
+            "name": "Ceteras-Suit-Pack"
+        }
+    ],
+    "install": [
+        {
+            "find": "GAP",
+            "install_to": "GameData/ContractPacks"
+        }
+    ],
+    "download": "https://spacedock.info/mod/70/Contract%20Pack:%20Giving%20Aircraft%20a%20Purpose%20%28GAP%29/download/1.2.3",
+    "download_size": 1493759,
+    "download_hash": {
+        "sha1": "68231FC79185F9B12882F0BEE44F087FFBA3B1B9",
+        "sha256": "1F7ED4309C0796C9E42EE51BA306D9E8F72DE8243C0B5ED51E754ADFE33F9F23"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

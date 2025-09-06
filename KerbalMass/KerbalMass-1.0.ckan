@@ -1,0 +1,35 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "KerbalMass",
+    "name": "KerbalMass",
+    "abstract": "Now the weights of your Kerbals add to the part's mass they live in.",
+    "author": "Aqua",
+    "license": "BSD-4-clause",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/109790-0-90-KerbalMass-0-8-Alpha?p=1718799",
+        "kerbalstuff": "https://kerbalstuff.com/mod/567/KerbalMass"
+    },
+    "version": "1.0",
+    "ksp_version": "1.0.2",
+    "depends": [
+        {
+            "name": "ModuleManager",
+            "min_version": "2.5.9"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/KerbalMass",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://s3-us-west-2.amazonaws.com/ksp-ckan/D6D278F3.zip",
+    "download_size": 49524,
+    "download_hash": {
+        "sha1": "0501C997CFBFB81F59789A7F96C901959AFED455",
+        "sha256": "7D7A850E72048CF25CB43BA54017AD18E6ACFE6D0A7F3A8D632AC968A1C02440"
+    },
+    "download_content_type": "application/zip",
+    "x_via": "Automated KerbalStuff CKAN submission",
+    "x_generated_by": "netkan"
+}

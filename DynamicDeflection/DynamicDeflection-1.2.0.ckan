@@ -1,0 +1,28 @@
+{
+    "spec_version": 1,
+    "identifier": "DynamicDeflection",
+    "name": "Dynamic Deflection",
+    "abstract": "Configure maximum control surface deflection to vary with dynamic pressure",
+    "author": "Crzyrndm",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/116888",
+        "repository": "https://ghproxy.net/https://github.com/Crzyrndm/DynamicControls"
+    },
+    "version": "1.2.0",
+    "ksp_version": "1.0.5",
+    "install": [
+        {
+            "file": "GameData/Dynamic Controls",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/Crzyrndm/DynamicControls/releases/download/1.2.0/Dynamic.Deflection.v1.2.0.zip",
+    "download_size": 12218,
+    "download_hash": {
+        "sha1": "4474E6BFA378DAE52951AFE2BAA47A502E251689",
+        "sha256": "5E110F5FE819262C611BC33696E753D4FA85F49B66E0E4814377A01CE1DAC64C"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

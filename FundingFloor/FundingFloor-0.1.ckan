@@ -1,0 +1,29 @@
+{
+    "spec_version": 1,
+    "identifier": "FundingFloor",
+    "name": "Funding Floor",
+    "abstract": "Makes funds, calculated directly from reputation, a limit on how much you can spend at one time rather than a pool of money",
+    "author": "ToxicFrog",
+    "version": "0.1",
+    "ksp_version": "1.12",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/219159-*",
+        "repository": "https://ghproxy.net/https://github.com/ToxicFrog/kessler",
+        "bugtracker": "https://ghproxy.net/https://github.com/ToxicFrog/kessler/issues"
+    },
+    "tags": [
+        "plugin",
+        "career"
+    ],
+    "download": "https://ghproxy.net/https://github.com/ToxicFrog/kessler/releases/download/fundingfloor-0.1/FundingFloor-0.1.zip",
+    "download_size": 5272,
+    "download_hash": {
+        "sha1": "EC0D36567CCB03F333A880A1EBAA7F8B2CFF5B50",
+        "sha256": "C2A317CE22FCF71EB2CCE53D377FF00AB7439B9D35EB577B8B0D91E20CB29587"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 9728,
+    "release_date": "2023-09-01T23:31:17Z",
+    "x_generated_by": "netkan"
+}

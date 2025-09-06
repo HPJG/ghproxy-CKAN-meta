@@ -1,0 +1,33 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "FilterExtensionsDefaultConfig",
+    "name": "Filter Extensions - Default Configuration",
+    "abstract": "Configuration files using Filter Extensions to create a large array of new part categories in the Editor",
+    "author": "Crzyrndm",
+    "license": "CC-BY-NC-SA-4.0",
+    "release_status": "stable",
+    "resources": {
+        "repository": "https://ghproxy.net/https://github.com/Crzyrndm/FilterExtension"
+    },
+    "version": "2.2.1",
+    "ksp_version": "1.0.2",
+    "depends": [
+        {
+            "name": "FilterExtensions"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/000_FilterExtensions Configs",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/Crzyrndm/FilterExtension/releases/download/2.2.1/Filter.Extensions.v2.2.1.zip",
+    "download_size": 753405,
+    "download_hash": {
+        "sha1": "21BECB8CD69DA1141ACC4F0A6C5673A4FA39F8BF",
+        "sha256": "3FCCDF1845EE7DE02361AACEFD1C05C6F10D7CFD34B738BA664DDA1B90E32596"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

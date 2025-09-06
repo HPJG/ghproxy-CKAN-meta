@@ -1,0 +1,45 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "DassaultRafale",
+    "name": "Dassault Rafale",
+    "abstract": "The Second in the Pair for the French KSP Players, and France.",
+    "author": "LuizChacon",
+    "license": "WTFPL",
+    "resources": {
+        "homepage": "http://starbaseone.freeforums.net/",
+        "kerbalstuff": "https://kerbalstuff.com/mod/1271/Dassault%20Rafale",
+        "x_screenshot": "https://kerbalstuff.com/content/LuizChacon_128/Dassault_Rafale/Dassault_Rafale-1447713665.6346135.png"
+    },
+    "version": "104.105.1",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "FirespitterCore"
+        },
+        {
+            "name": "BahamutoDynamicsPartsPack"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "BDArmory"
+        },
+        {
+            "name": "AdjustableLandingGear"
+        }
+    ],
+    "install": [
+        {
+            "find": "Rafale",
+            "install_to": "GameData/Skunk_Works"
+        }
+    ],
+    "download": "https://archive.org/download/DassaultRafale-104.105.1/21F04ECA-DassaultRafale-104.105.1.zip",
+    "download_size": 8161287,
+    "download_hash": {
+        "sha1": "21F04ECA7BD11D4ADCB80C2BE8160F0780072282",
+        "sha256": "0D2A1C37068BE3C6FFC0AED748DA2A3A4591534B4C9E2DB585ECA524BBA8E2CD"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

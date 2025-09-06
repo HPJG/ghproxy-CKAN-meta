@@ -1,0 +1,32 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "ImprovedChaseCamera",
+    "name": "Improved Chase Camera",
+    "abstract": "Velocity vector following camera",
+    "author": [
+        "BahamutoD",
+        "PapaJoesSoup"
+    ],
+    "version": "v1.6.2.1",
+    "ksp_version_min": "1.4.0",
+    "ksp_version_max": "1.4.99",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/173436-*",
+        "repository": "https://ghproxy.net/https://github.com/PapaJoesSoup/ImprovedChaseCamera",
+        "bugtracker": "https://ghproxy.net/https://github.com/PapaJoesSoup/ImprovedChaseCamera/issues",
+        "remote-avc": "https://raw.githubusercontent.com:443/PapaJoesSoup/ImprovedChaseCamera/master/Distribution/GameData/ImprovedChaseCamera/ImprovedChaseCamera.version"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "download": "https://ghproxy.net/https://github.com/PapaJoesSoup/ImprovedChaseCamera/releases/download/1.6.2.1/ImprovedChaseCamera.1.6.2.1_04132018.zip",
+    "download_size": 8208,
+    "download_hash": {
+        "sha1": "C1478C48E842C7A2EFEAF1A833208B327785FD13",
+        "sha256": "810CD026D1FBA492C7445FDA5AEE368CBF8C3103F6B14831F78A944FD109DA0E"
+    },
+    "download_content_type": "application/zip",
+    "release_date": "2018-04-13T18:41:15Z",
+    "x_generated_by": "netkan"
+}

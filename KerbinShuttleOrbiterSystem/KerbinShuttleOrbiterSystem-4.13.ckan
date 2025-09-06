@@ -1,0 +1,54 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "KerbinShuttleOrbiterSystem",
+    "name": "Kerbin Shuttle Orbiter System",
+    "abstract": "A compilation of parts to make user friendly, easy to use Space Shuttles.",
+    "author": "Helldiver",
+    "license": "GPL-3.0",
+    "resources": {
+        "kerbalstuff": "https://kerbalstuff.com/mod/591/Kerbin%20Shuttle%20Orbiter%20System",
+        "x_screenshot": "https://kerbalstuff.com/content/Helldiver_7225/Kerbin_Shuttle_Orbiter_System/Kerbin_Shuttle_Orbiter_System-1423923988.8472369.png"
+    },
+    "version": "4.13",
+    "ksp_version": "0.90.0",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "FirespitterCore"
+        },
+        {
+            "name": "RasterPropMonitor-Core"
+        },
+        {
+            "name": "KlockheedMartian-Gimbal"
+        },
+        {
+            "name": "SmokeScreen"
+        }
+    ],
+    "install": [
+        {
+            "file": "KSOS_v413_All/GameData/KSO",
+            "install_to": "GameData"
+        },
+        {
+            "file": "KSOS_v413_All/Ships/SPH",
+            "install_to": "Ships"
+        },
+        {
+            "file": "KSOS_v413_All/Ships/VAB",
+            "install_to": "Ships"
+        }
+    ],
+    "download": "https://archive.org/download/KerbinShuttleOrbiterSystem-4.13/979B4D19-KerbinShuttleOrbiterSystem-4.13.zip",
+    "download_size": 144617462,
+    "download_hash": {
+        "sha1": "979B4D19C891B59A282111C99292D4FAE5B62FB0",
+        "sha256": "1CE24D15CC77012E0CFD2284C88EE47E9C8B49AAB39AEEE36169CD37F40C20DE"
+    },
+    "download_content_type": "application/zip",
+    "x_via": "Automated KerbalStuff CKAN submission",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,29 @@
+{
+    "spec_version": 1,
+    "identifier": "Kerbanomics",
+    "name": "Kerbanomics",
+    "abstract": " Kerbal Payroll and Loans!",
+    "author": "johnqevil",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/104000",
+        "repository": "https://ghproxy.net/https://github.com/johnqevil/Kerbanomics",
+        "kerbalstuff": "https://kerbalstuff.com/mod/427/Kerbanomics"
+    },
+    "version": "0.1.8",
+    "ksp_version": "0.90.0",
+    "install": [
+        {
+            "file": "EvilCorp",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://s3-us-west-2.amazonaws.com/ksp-ckan/EB5154A4.zip",
+    "download_size": 16285,
+    "download_hash": {
+        "sha1": "F72AB9815B9F340EB3291093C799F4B25101119F",
+        "sha256": "3FC43985865B1D5DBD326474B13EEE8A664BD7FCE8B97B9E97972B8BB0FA31D5"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

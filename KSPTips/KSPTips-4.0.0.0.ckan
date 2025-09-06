@@ -1,0 +1,27 @@
+{
+    "spec_version": "v1.20",
+    "identifier": "KSPTips",
+    "name": "KSP Tips",
+    "abstract": "Plugin that provides 'Helpful' in game tips and tricks",
+    "author": "TriggerAu",
+    "license": "MIT",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/103537",
+        "repository": "https://ghproxy.net/https://github.com/TriggerAu/KSPTips",
+        "license": "https://ghproxy.net/https://github.com/TriggerAu/KSPTips/blob/master/LICENSE",
+        "kerbalstuff": "https://kerbalstuff.com/mod/416/KSP%20Tips",
+        "curse": "http://kerbal.curseforge.com/ksp-mods/226245-ksp-tips",
+        "x_screenshot": "https://kerbalstuff.com/content/TriggerAu_1745/KSP_Tips/KSP_Tips.png"
+    },
+    "version": "4.0.0.0",
+    "ksp_version": "0.90.0",
+    "download": "https://archive.org/download/KSPTips-4.0.0.0/17281EF7-KSPTips-4.0.0.0.zip",
+    "download_size": 13712769,
+    "download_hash": {
+        "sha1": "17281EF7CA1B84FEA46BACAEC8920B54C2D28FD7",
+        "sha256": "B810038C44D7A3D309FFF74A1F0903ED4C9FB67CD9112A939828C01604FC6E46"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

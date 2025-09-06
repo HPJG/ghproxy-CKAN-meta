@@ -1,0 +1,42 @@
+{
+    "spec_version": 1,
+    "identifier": "F14CTomcat",
+    "name": "F14 Tomcat",
+    "abstract": "The Awesome Navy fighter. ",
+    "author": "LuizChacon",
+    "license": "WTFPL",
+    "resources": {
+        "homepage": "http://kscsm.freeforums.net/",
+        "kerbalstuff": "https://kerbalstuff.com/mod/849/F14%20Tomcat"
+    },
+    "version": "3.0",
+    "ksp_version": "0.90",
+    "depends": [
+        {
+            "name": "FirespitterCore"
+        },
+        {
+            "name": "BDArmory"
+        },
+        {
+            "name": "BahamutoDynamicsPartsPack"
+        },
+        {
+            "name": "AircraftIVAHelmet"
+        }
+    ],
+    "install": [
+        {
+            "file": "F14CTomcat",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/F14CTomcat-3.0/D43CC566-F14CTomcat-3.0.zip",
+    "download_size": 6719646,
+    "download_hash": {
+        "sha1": "D43CC5668D45B2CDE9D603D40FE5D1E589C6FD96",
+        "sha256": "74B3D3F2D156BF889A0594AB8FB61416D20317D4EA5E4686EDA0FA78591D338A"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

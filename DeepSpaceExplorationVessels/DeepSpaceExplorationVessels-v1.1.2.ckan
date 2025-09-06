@@ -1,0 +1,46 @@
+{
+    "spec_version": "v1.2",
+    "identifier": "DeepSpaceExplorationVessels",
+    "name": "Deep Space Exploration Vessels",
+    "abstract": "Build spacecraft inspired by NASA's exploration studies",
+    "author": "Angel125",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/122162-105-deep-space-exploration-vessels-105-build-nasa-inspired-ships-in-ksp/&page=1",
+        "repository": "https://ghproxy.net/https://github.com/Angel-125/DSEV"
+    },
+    "version": "v1.1.2",
+    "ksp_version": "1.1.0",
+    "depends": [
+        {
+            "name": "CommunityResourcePack",
+            "min_version": "0.4.9"
+        },
+        {
+            "name": "WildBlueTools",
+            "min_version": "1.0.32"
+        },
+        {
+            "name": "ModuleManager",
+            "min_version": "2.6.18"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/WildBlueIndustries/DSEV",
+            "install_to": "GameData/WildBlueIndustries"
+        },
+        {
+            "file": "GameData/Squad/Resources/RDSimpleIcons",
+            "install_to": "GameData/Squad/Resources"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/Angel-125/DSEV/releases/download/v1.1.2/DSEV_1_1_2.zip",
+    "download_size": 12113218,
+    "download_hash": {
+        "sha1": "B6E60767BD6CCE700056205109F91956F8FA790D",
+        "sha256": "3513AC35B6C92730EF37CFAC17C5CE23494B6F945591DE7E7DCD8BC811045808"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

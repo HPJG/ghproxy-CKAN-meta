@@ -1,0 +1,47 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "HalfRSS-Textures2048",
+    "name": "Half Size Real Solar System Textures - 2048 x 1024",
+    "abstract": "HalfRSS textures for HalfRSS",
+    "author": "pap1723",
+    "version": "1.1",
+    "ksp_version": "any",
+    "license": "CC-BY-NC-SA",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/142336-*",
+        "repository": "https://ghproxy.net/https://github.com/KSP-RO/ScaledRSS-Textures",
+        "bugtracker": "https://ghproxy.net/https://github.com/KSP-RO/ScaledRSS-Textures/issues"
+    },
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "provides": [
+        "HalfRSS-Textures"
+    ],
+    "depends": [
+        {
+            "name": "HalfRSS"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "HalfRSS-Textures"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/RSS-Textures",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/KSP-RO/ScaledRSS-Textures/releases/download/1.1/HalfRSS-Textures2048.zip",
+    "download_size": 124771665,
+    "download_hash": {
+        "sha1": "A8C6FCFF9FEDE394FFC2F744E6208474A2EF7CBA",
+        "sha256": "843255341875BEC558D8CC0D2C100E31BB926614D22B655C459A7FD487B7BFBC"
+    },
+    "download_content_type": "application/zip",
+    "release_date": "2016-06-28T19:59:00Z",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,32 @@
+{
+    "spec_version": "v1.2",
+    "identifier": "KduffersKorpHotrodWheels",
+    "name": "Kduffers Korp Hotrod Wheels",
+    "abstract": "a trio of hotrod wheels to pimp your ride ",
+    "author": "amankduffers",
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/119150-kduffers-multi-wheels-kmw"
+    },
+    "version": "1.1",
+    "ksp_version": "1.0.5",
+    "conflicts": [
+        {
+            "name": "KduffersMultiwheels"
+        }
+    ],
+    "install": [
+        {
+            "file": "KMW",
+            "install_to": "GameData/Kduffers"
+        }
+    ],
+    "download": "https://archive.org/download/KduffersKorpHotrodWheels-1.1/9D5A45C7-KduffersKorpHotrodWheels-1.1.zip",
+    "download_size": 19490047,
+    "download_hash": {
+        "sha1": "9D5A45C76C67E81250F4FEDD48656095EC6BE725",
+        "sha256": "45B4AD15FD4DEA7E6D359A7A2305A82654D1E7FED5D52521CCA084611E7DFCA5"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

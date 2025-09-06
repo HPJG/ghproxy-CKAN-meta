@@ -1,0 +1,33 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "DarkTexturePack",
+    "name": "Dark Textures",
+    "abstract": "Give stock parts a new coat of paint! Gives 80+ stock parts an optional black themed texture.",
+    "author": "RailMan",
+    "version": "1.0",
+    "ksp_version": "1.4.3",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/175428-143-dark-textures/&tab=comments#comment-3388126",
+        "spacedock": "https://spacedock.info/mod/1877/Dark%20Textures",
+        "x_screenshot": "https://spacedock.info/content/RailMan_706/Dark_Textures/Dark_Textures-1527550729.51035.jpg"
+    },
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1877/Dark%20Textures/download/1.0",
+    "download_size": 17130258,
+    "download_hash": {
+        "sha1": "0ED784FD050B9F2D9E9E1C2A7BA410B7A395E4C7",
+        "sha256": "A1555621AA1A5E0E6186CCF64BB0C87F0FB917F3916A909701350609C404CDF5"
+    },
+    "download_content_type": "application/zip",
+    "release_date": "2018-05-29T01:31:16.376821+00:00",
+    "x_generated_by": "netkan"
+}

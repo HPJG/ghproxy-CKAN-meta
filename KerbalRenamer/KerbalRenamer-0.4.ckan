@@ -1,0 +1,29 @@
+{
+    "spec_version": 1,
+    "identifier": "KerbalRenamer",
+    "name": "Kerbal Renamer",
+    "abstract": "Renames, re-stats, even gender-bends Kerbals procedurally.",
+    "author": "regex",
+    "license": "BSD-2-clause",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/117893",
+        "kerbalstuff": "https://kerbalstuff.com/mod/730/Kerbal%20Renamer",
+        "x_screenshot": "https://kerbalstuff.com/content/regex_94/Kerbal_Renamer/Kerbal_Renamer-1438149245.586072.png"
+    },
+    "version": "0.4",
+    "ksp_version": "1.0.4",
+    "install": [
+        {
+            "file": "KerbalRenamer/GameData/KerbalRenamer",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/KerbalRenamer-0.4/9CEBA8EC-KerbalRenamer-0.4.zip",
+    "download_size": 17726,
+    "download_hash": {
+        "sha1": "9CEBA8ECE99F1CCC7FDE398CB9273F9D09ECB8B7",
+        "sha256": "3F32D7F3C166D3BA30F5117C3F657E9A9638CFAF1031C79CA206816B4CAFFF14"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

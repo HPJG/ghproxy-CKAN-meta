@@ -1,0 +1,42 @@
+{
+    "spec_version": 1,
+    "identifier": "DSDMobileProcessingLabs",
+    "name": "DSD Mobile Processing Labs",
+    "abstract": "More labs with enhanced data storage and processing",
+    "author": "JDCollie",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/128377",
+        "repository": "https://ghproxy.net/https://github.com/JDCollie/Data-Storage-Device"
+    },
+    "version": "1.0.0",
+    "ksp_version_min": "1.0.0",
+    "ksp_version_max": "1.0.4",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "FieldExperience"
+        }
+    ],
+    "install": [
+        {
+            "file": "DSD",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/DSDMobileProcessingLabs-1.0.0/29470D57-DSDMobileProcessingLabs-1.0.0.zip",
+    "download_size": 333350,
+    "download_hash": {
+        "sha1": "29470D5702A9EEFEC0317F593FC47A61D7FD5304",
+        "sha256": "14741F5396BED06FC332EBA4EC9805FAC6A1CF20CE09BC3E3F21DC3208BA6462"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

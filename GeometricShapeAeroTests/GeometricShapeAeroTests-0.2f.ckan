@@ -1,0 +1,29 @@
+{
+    "spec_version": 1,
+    "identifier": "GeometricShapeAeroTests",
+    "name": "GeometricShapeAeroTests",
+    "abstract": "A set of basic geometric shapes with matching collision meshes to test aero.  ",
+    "author": "TiktaalikDreaming",
+    "license": "MIT",
+    "resources": {
+        "kerbalstuff": "https://kerbalstuff.com/mod/757/GeometricShapeAeroTests",
+        "x_screenshot": "https://kerbalstuff.com/content/TiktaalikDreaming_7164/GeometricShapeAeroTests/GeometricShapeAeroTests-1431001911.158556.png"
+    },
+    "version": "0.2f",
+    "ksp_version": "1.0.2",
+    "install": [
+        {
+            "file": "AeroScience",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://s3-us-west-2.amazonaws.com/ksp-ckan/B1068368.zip",
+    "download_size": 12145599,
+    "download_hash": {
+        "sha1": "E2D0AB3359344906A31A80E1D15F5F248DFC7BC4",
+        "sha256": "FF5A882775008AC2089E5C81EC1A4A12502735CC2168481CBF84DACBEE192A6E"
+    },
+    "download_content_type": "application/zip",
+    "x_via": "Automated KerbalStuff CKAN submission",
+    "x_generated_by": "netkan"
+}

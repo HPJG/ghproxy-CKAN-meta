@@ -1,0 +1,27 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "FilterExtensions",
+    "name": "Filter Extensions",
+    "abstract": "Custom, configurable filters for the VAB/SPH.",
+    "author": "Crzyrndm",
+    "license": "CC-BY-4.0",
+    "resources": {
+        "repository": "https://ghproxy.net/https://github.com/Crzyrndm/FilterExtension"
+    },
+    "version": "1.14",
+    "ksp_version": "0.90.0",
+    "install": [
+        {
+            "file": "GameData/000_FilterExtensions",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/Crzyrndm/FilterExtension/releases/download/1.14/Filter.Extensions.1.14.zip",
+    "download_size": 383741,
+    "download_hash": {
+        "sha1": "3555EBEE902E698DF70F8142C4FF85407D011323",
+        "sha256": "AF9B5AD3EAAB4B56CDB08D96DF4AA19E6C2A19ABD580FF89006707E6D61C50A3"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

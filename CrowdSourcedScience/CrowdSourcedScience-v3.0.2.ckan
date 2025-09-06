@@ -1,0 +1,35 @@
+{
+    "spec_version": 1,
+    "identifier": "CrowdSourcedScience",
+    "name": "Crowd Sourced Science",
+    "abstract": "Provides a nearly inexhaustible supply of science reports in Kerbal Space Program",
+    "author": "DuoDex",
+    "license": "CC-BY-NC-SA-4.0",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/102373",
+        "repository": "https://ghproxy.net/https://github.com/DuoDex/CrowdSourcedScience"
+    },
+    "version": "v3.0.2",
+    "ksp_version_min": "1.0.2",
+    "ksp_version_max": "1.1.99",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "file": "Crowd Sourced Science",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/DuoDex/CrowdSourcedScience/releases/download/v3.0.2/CrowdSourcedScience.zip",
+    "download_size": 1073105,
+    "download_hash": {
+        "sha1": "285238DA05B1F7FA64A3C2A690390FE29F4C8C99",
+        "sha256": "7763271D5B28F24826353B941EB2AEACDA68F92D5C72EE7D0CEA6AC0B767010A"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

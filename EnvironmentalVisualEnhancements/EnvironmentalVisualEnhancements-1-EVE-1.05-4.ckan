@@ -1,0 +1,38 @@
+{
+    "spec_version": 1,
+    "identifier": "EnvironmentalVisualEnhancements",
+    "name": "Environmental Visual Enhancements",
+    "abstract": "City Lights for Kerbin and Clouds for Any planet you wish",
+    "author": "rbray89",
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/55905",
+        "repository": "https://ghproxy.net/https://github.com/rbray89/EnvironmentalVisualEnhancements"
+    },
+    "version": "1:EVE-1.05-4",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "EnvironmentalVisualEnhancements-Config"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "EnvironmentalVisualEnhancements-LR"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/EnvironmentalVisualEnhancements",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/rbray89/EnvironmentalVisualEnhancements/releases/download/EVE-1.05-4/x86-EVE-Release.zip",
+    "download_size": 5929127,
+    "download_hash": {
+        "sha1": "CAD7FAE5DA004185828F3ADD76A58635364856C3",
+        "sha256": "2515149F80878FF79483D1DE48AD29D1A23B3A561234706D04099FF86F782F81"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

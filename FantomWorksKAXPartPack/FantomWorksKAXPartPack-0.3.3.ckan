@@ -1,0 +1,34 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "FantomWorksKAXPartPack",
+    "name": "FantomWorks",
+    "abstract": "This part pack provides aircraft parts, as an extension for KAX by Keptin.",
+    "author": "FreddyPhantom",
+    "license": "CC-BY-NC-ND-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/98751-105wipfantomworks-033-kax-part-pack/&page=1",
+        "spacedock": "https://spacedock.info/mod/229/FantomWorks",
+        "x_screenshot": "https://spacedock.info/content/FreddyPhantom_1246/FantomWorks/FantomWorks-1456150326.2818115.png"
+    },
+    "version": "0.3.3",
+    "ksp_version": "1.0.5",
+    "recommends": [
+        {
+            "name": "KerbalAircraftExpansion"
+        }
+    ],
+    "install": [
+        {
+            "find": "Fantom Works",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/229/FantomWorks/download/0.3.3",
+    "download_size": 5369639,
+    "download_hash": {
+        "sha1": "C21FC781F2754262E23E3813BCF9D30C7D662B7C",
+        "sha256": "B36FEAC5E1B0C77F786F937723D29DDA2A625986294DA306DF244E9D2D6B75D2"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

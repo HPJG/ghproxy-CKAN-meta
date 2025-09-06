@@ -1,0 +1,131 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "KKL",
+    "name": "Kerbal Kustomz Limited",
+    "abstract": "KSP mod to fulfill some gameplay wishes",
+    "author": "craidler",
+    "version": "v1.2",
+    "ksp_version_min": "1.4.0",
+    "license": "LGPL-2.1",
+    "release_status": "stable",
+    "resources": {
+        "repository": "https://ghproxy.net/https://github.com/craidler/KerbalKustomzLtd",
+        "bugtracker": "https://ghproxy.net/https://github.com/craidler/KerbalKustomzLtd/issues"
+    },
+    "tags": [
+        "config",
+        "convenience"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "Chatterer"
+        },
+        {
+            "name": "DistantObject"
+        },
+        {
+            "name": "EasyVesselSwitch"
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "KeepItStraight"
+        },
+        {
+            "name": "KAS"
+        },
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "KerbalAlarmClock"
+        },
+        {
+            "name": "KerbalJointReinforcementContinued"
+        },
+        {
+            "name": "kOS"
+        },
+        {
+            "name": "KspCraftOrganizer"
+        },
+        {
+            "name": "ResonantOrbitCalculator"
+        },
+        {
+            "name": "LightsOutRelit"
+        },
+        {
+            "name": "MechJeb2"
+        },
+        {
+            "name": "NearFutureConstruction"
+        },
+        {
+            "name": "NearFutureElectrical"
+        },
+        {
+            "name": "NearFutureLaunchVehicles"
+        },
+        {
+            "name": "NearFuturePropulsion"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        },
+        {
+            "name": "NearFutureSpacecraft-OrbitalLFOEngines"
+        },
+        {
+            "name": "ReStock"
+        },
+        {
+            "name": "ReStockPlus"
+        },
+        {
+            "name": "SimpleFuelSwitch"
+        },
+        {
+            "name": "StationKeeping"
+        },
+        {
+            "name": "StockVisualEnhancements"
+        },
+        {
+            "name": "StationPartsExpansionRedux"
+        },
+        {
+            "name": "VariantPersist"
+        },
+        {
+            "name": "WarpEverywhere"
+        },
+        {
+            "name": "ZeroMiniAVC"
+        }
+    ],
+    "install": [
+        {
+            "find": "KKL",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/craidler/KerbalKustomzLtd/releases/download/v1.2/KKL.zip",
+    "download_size": 1798,
+    "download_hash": {
+        "sha1": "C7409169935559BE9E4B4A52328D70297BAAEA72",
+        "sha256": "A6E8A5E2E73B19C979383D4A61FC0953210D1330A6FA596704ADBA79273A6086"
+    },
+    "download_content_type": "application/zip",
+    "release_date": "2019-10-20T08:35:59Z",
+    "x_generated_by": "netkan"
+}

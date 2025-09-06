@@ -1,0 +1,29 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "IndicatorLights",
+    "name": "IndicatorLights",
+    "abstract": "Helpful LED indicators to show status. Includes standalone parts and enhancements to existing ones.",
+    "author": "Snark",
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/137806-wip11-indicatorlights-v02-small-convenient-informative/",
+        "spacedock": "https://spacedock.info/mod/566/IndicatorLights",
+        "repository": "https://ghproxy.net/https://github.com/KSPSnark/IndicatorLights",
+        "x_screenshot": "https://spacedock.info/content/Snark_166/IndicatorLights/IndicatorLights-1461367793.5162332.png"
+    },
+    "version": "0.3",
+    "ksp_version": "1.1.0",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/566/IndicatorLights/download/0.3",
+    "download_size": 86662,
+    "download_hash": {
+        "sha1": "21692D5C38DC148EE64B470D272C9E2A5DC81721",
+        "sha256": "F1D770E4D143E6A03FE760B31E18FA4505FA7EB4170B7D79A85DD3C9C2EF24B5"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

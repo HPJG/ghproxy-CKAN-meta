@@ -1,0 +1,34 @@
+{
+    "spec_version": 1,
+    "identifier": "IFILS",
+    "name": "Interstellar Flight Inc. - Kerbal Life Support",
+    "abstract": "I know that there are a few Life support mods in development. They are too intense for my tastes. SO I designed my own.",
+    "author": "Will565",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/92011",
+        "repository": "https://ghproxy.net/https://github.com/Will565/IFI-Life-Support"
+    },
+    "version": "v3.00",
+    "ksp_version": "1.0",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "file": "IFILS",
+            "install_to": "GameData",
+            "filter_regexp": "ModuleManager.*dll$"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/Will565/IFI-Life-Support/releases/download/v3.00/IFILifesupportPlugin30.zip",
+    "download_size": 5550903,
+    "download_hash": {
+        "sha1": "C2C1DFAF1912B035C2386A6B30893838368D1AAC",
+        "sha256": "31BBACB3B7863D1B0F40FB24066C1D48A171A9F5AC99FDCA713FFD093AF326FB"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

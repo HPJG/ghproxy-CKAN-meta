@@ -1,0 +1,32 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "CrewManifest",
+    "name": "Crew Manifest",
+    "abstract": "This plugin will allow you to add or remove crew from parts while on the launch pad or transfer crew between parts in the same vessel. You can also edit/add custom crew members in your available crew roster provided that they are not part of an active flight (or dead).",
+    "author": [
+        "vXSovereignXv ",
+        "sarbian"
+    ],
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/60936",
+        "repository": "https://ghproxy.net/https://github.com/sarbian/CrewManifest/",
+        "ci": "https://ksp.sarbian.com/jenkins/job/CrewManifest/"
+    },
+    "version": "0.5.10",
+    "ksp_version": "0.90",
+    "install": [
+        {
+            "find": "CrewManifest",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ksp.sarbian.com/jenkins/job/CrewManifest/24/artifact/CrewManifest-0.5.10.0.zip",
+    "download_size": 18631,
+    "download_hash": {
+        "sha1": "86BFBA3E51BF453096E1958B779B9CDBF4644CD8",
+        "sha256": "DA41560163672F369FA84A51E64571C812D59FDBC682D1012F29B8FB44CC6600"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

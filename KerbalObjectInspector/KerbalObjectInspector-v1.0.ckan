@@ -1,0 +1,25 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "KerbalObjectInspector",
+    "name": "Kerbal Object Inspector",
+    "abstract": "View and inspect any object and its components in any KSP game scene.",
+    "author": "Nifty255",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/129030-ksp-10x-kerbal-object-inspector-view-all-game-objects-in-ksp/",
+        "spacedock": "https://spacedock.info/mod/261/Kerbal%20Object%20Inspector",
+        "repository": "https://ghproxy.net/https://github.com/Nifty255/KerbalObjectInspector",
+        "bugtracker": "https://ghproxy.net/https://github.com/Nifty255/KerbalObjectInspector/issues",
+        "x_screenshot": "https://spacedock.info/content/Nifty255_1127/Kerbal_Object_Inspector/Kerbal_Object_Inspector-1456279700.3870192.png"
+    },
+    "version": "v1.0",
+    "ksp_version": "1.0.5",
+    "download": "https://spacedock.info/mod/261/Kerbal%20Object%20Inspector/download/v1.0",
+    "download_size": 6219,
+    "download_hash": {
+        "sha1": "1BBE660A565719C96922165C54A869AC4C8121BD",
+        "sha256": "B28C14E7B32DF9A865F72CBA65A9E168586910BA31ECA3D0A129E764A36BC875"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

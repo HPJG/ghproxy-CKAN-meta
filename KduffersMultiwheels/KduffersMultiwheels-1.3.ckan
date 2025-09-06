@@ -1,0 +1,39 @@
+{
+    "spec_version": "v1.2",
+    "identifier": "KduffersMultiwheels",
+    "name": "Kduffers Multiwheels",
+    "abstract": "a selection of wheels of varying uses, with different traction and speeds (no overspeed damage) lots more wheels to come so please follow",
+    "author": "amankduffers",
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/119150-kduffers-multi-wheels-kmw"
+    },
+    "version": "1.3",
+    "ksp_version": "1.0.5",
+    "conflicts": [
+        {
+            "name": "kdufferskorpracewheel"
+        },
+        {
+            "name": "KduffersKorpHotrodWheels"
+        }
+    ],
+    "install": [
+        {
+            "file": "kdufferskorp",
+            "install_to": "GameData"
+        },
+        {
+            "file": "monsta",
+            "install_to": "GameData/kdufferskorp"
+        }
+    ],
+    "download": "https://archive.org/download/KduffersMultiwheels-1.3/5DD268CD-KduffersMultiwheels-1.3.zip",
+    "download_size": 35676274,
+    "download_hash": {
+        "sha1": "5DD268CDF805D4440A22F4AB99199E2271932925",
+        "sha256": "8DE873EAB4FB1132CDAFAF4B879F04A9BF9916B176A57F80A627640BA82B8E33"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

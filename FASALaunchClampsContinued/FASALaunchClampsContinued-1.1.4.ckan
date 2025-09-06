@@ -1,0 +1,48 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "FASALaunchClampsContinued",
+    "name": "FASA LaunchClampsContinued",
+    "abstract": "A continuation of the stand alone package for just the FASA launch clamps",
+    "author": "Galileo88",
+    "version": "1.1.4",
+    "ksp_version_min": "1.2.2",
+    "ksp_version_max": "1.4.2",
+    "license": "CC-BY-NC-SA",
+    "resources": {
+        "homepage": "https://ghproxy.net/https://github.com/Galileo88/FASA_LaunchClampsContinued",
+        "repository": "https://ghproxy.net/https://github.com/Galileo88/FASA_LaunchClampsContinued",
+        "bugtracker": "https://ghproxy.net/https://github.com/Galileo88/FASA_LaunchClampsContinued/issues"
+    },
+    "tags": [
+        "parts"
+    ],
+    "localizations": [
+        "en-us",
+        "ru"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "AlmostFreeLaunchClamps"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/FASA",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/Galileo88/FASA_LaunchClampsContinued/releases/download/1.1.4/FASALaunchClamps.1.1.4.zip",
+    "download_size": 3598119,
+    "download_hash": {
+        "sha1": "53B0CEDC39A72EEA4270672CDF87B013A6930B0D",
+        "sha256": "13F52FDCF046F4F74A2F943A45ED6F8CDA2E5182A5EC6F030D4EC0FE03BB0F96"
+    },
+    "download_content_type": "application/zip",
+    "release_date": "2018-04-02T04:29:55Z",
+    "x_generated_by": "netkan"
+}

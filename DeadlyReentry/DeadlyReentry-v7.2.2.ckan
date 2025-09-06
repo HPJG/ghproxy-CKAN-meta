@@ -1,0 +1,34 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "DeadlyReentry",
+    "name": "Deadly Reentry Continued",
+    "abstract": "Makes re-entry much more dangerous",
+    "author": "Starwaster",
+    "license": "CC-BY-SA",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/54954",
+        "repository": "https://ghproxy.net/https://github.com/Starwaster/DeadlyReentry"
+    },
+    "version": "v7.2.2",
+    "ksp_version": "1.0.4",
+    "depends": [
+        {
+            "name": "ModuleManager",
+            "min_version": "2.6.5"
+        }
+    ],
+    "install": [
+        {
+            "find": "DeadlyReentry",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/Starwaster/DeadlyReentry/releases/download/v7.2.2/DeadlyReentry_7.2.2_The_Melificent_Edition.zip",
+    "download_size": 782962,
+    "download_hash": {
+        "sha1": "C7BC74EBBEDD74D1442F289772FAD13614B3FB9B",
+        "sha256": "190A82918D2CE32860BAB0278E01865A41BD3C50777F285A4A0EBA4E34570982"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}
