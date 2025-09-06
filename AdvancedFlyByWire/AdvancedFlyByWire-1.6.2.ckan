@@ -1,0 +1,62 @@
+{
+    "spec_version": 1,
+    "identifier": "AdvancedFlyByWire",
+    "name": "Advanced Fly-By-Wire (Windows, x86)",
+    "abstract": "Joystick & controller mod with multiple presets and in-flight controls binding!",
+    "author": "nlight",
+    "license": "MIT",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/85711-105-afbw-v162-joystick-controller-mod/",
+        "spacedock": "https://spacedock.info/mod/192/AFBW",
+        "repository": "https://ghproxy.net/https://github.com/AlexanderDzhoganov/ksp-advanced-flybywire",
+        "x_screenshot": "https://spacedock.info/content/nlight_870/AFBW/AFBW-1455932161.5072553.png"
+    },
+    "version": "1.6.2",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "Toolbar"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "KSP-AVC"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "AdvancedFlyByWire-Linux"
+        }
+    ],
+    "install": [
+        {
+            "file": "SDL2.dll",
+            "install_to": "GameRoot"
+        },
+        {
+            "file": "SDL_LICENSE",
+            "install_to": "GameRoot"
+        },
+        {
+            "file": "XINPUTDOTNET_LICENSE",
+            "install_to": "GameRoot"
+        },
+        {
+            "file": "XInputInterface.dll",
+            "install_to": "GameRoot"
+        },
+        {
+            "file": "GameData/ksp-advanced-flybywire",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/192/AFBW/download/1.6.2",
+    "download_size": 553716,
+    "download_hash": {
+        "sha1": "FCCC42C3135C70788BED85D45C7F2471A7DFCEB2",
+        "sha256": "00A40C2532B2B7F28CE5F533AB6C28D3F41CA807B91AC6D6504FD3504A37C270"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

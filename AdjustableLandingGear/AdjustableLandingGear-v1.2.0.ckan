@@ -1,0 +1,30 @@
+{
+    "spec_version": "v1.2",
+    "identifier": "AdjustableLandingGear",
+    "name": "Adjustable Landing Gear",
+    "abstract": "Landing gear, any way you want it.",
+    "author": "BahamutoD",
+    "license": "CC-BY-SA-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/89874-105-adjustable-landing-gear-v120-masscost-scaling-tech-nodes-drag-may-30/&page=1",
+        "spacedock": "https://spacedock.info/mod/235/Adjustable%20Landing%20Gear",
+        "repository": "https://ghproxy.net/https://github.com/BahamutoD/BDAnimationModules",
+        "x_screenshot": "https://spacedock.info/content/BahamutoD_222/Adjustable_Landing_Gear/Adjustable_Landing_Gear-1456171065.6181974.png"
+    },
+    "version": "v1.2.0",
+    "ksp_version_min": "1.0.2",
+    "ksp_version_max": "1.0.5",
+    "depends": [
+        {
+            "name": "BDAnimationModules"
+        }
+    ],
+    "download": "https://spacedock.info/mod/235/Adjustable%20Landing%20Gear/download/1.2.0",
+    "download_size": 2234579,
+    "download_hash": {
+        "sha1": "B5E660818131F804F54A5804A6B0EE3766603A3A",
+        "sha256": "A01E502D30D62E50809E15A6EB5A63BFD842FDE4A7D9D0CC8E50C16E1A525878"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

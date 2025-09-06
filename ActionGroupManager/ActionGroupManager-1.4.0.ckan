@@ -1,0 +1,30 @@
+{
+    "spec_version": 1,
+    "identifier": "ActionGroupManager",
+    "name": "Action Group Manager",
+    "abstract": "Manage action groups in flight ",
+    "author": "ExplorerKlatt",
+    "license": "WTFPL",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/61263-0-23-ActionGroupManager-(AGM)-1-3-2-0-(29-01-2014)-bugfixes?p=2066105#post2066105",
+        "kerbalstuff": "https://kerbalstuff.com/mod/983/Action%20Group%20Manager",
+        "x_screenshot": "https://kerbalstuff.com/content/ExplorerKlatt_12431/Action_Group_Manager/Action_Group_Manager-1436483499.493986.png"
+    },
+    "version": "1.4.0",
+    "ksp_version": "1.0.4",
+    "install": [
+        {
+            "file": "ActionGroupManager",
+            "install_to": "GameData",
+            "filter": "src"
+        }
+    ],
+    "download": "https://archive.org/download/ActionGroupManager-1.4.0/3868801B-ActionGroupManager-1.4.0.zip",
+    "download_size": 50245,
+    "download_hash": {
+        "sha1": "3868801B459D1AEAE9905BF94D734F6F6A62653C",
+        "sha256": "230DF6D624E2E4AD32DC27CC4ECFE4864E9A9E84688EDA5389B025DB874031E6"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

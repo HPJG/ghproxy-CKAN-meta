@@ -1,0 +1,36 @@
+{
+    "spec_version": "v1.4",
+    "comment": "Ships explicitly not installed by author request (he no longer maintains them)",
+    "identifier": "AntaresCygnus",
+    "name": "Antares-Cygnus",
+    "abstract": "A joint release between Kartoffelkuchen and Raidernick combining our Cygnus and Antares mods.",
+    "author": [
+        "Raidernick",
+        "Kartoffelkuchen"
+    ],
+    "license": "CC-BY-NC-ND-3.0",
+    "resources": {
+        "homepage": "https://ghproxy.net/https://github.com/KSP-RO/Antares-Cygnus",
+        "repository": "https://ghproxy.net/https://github.com/KSP-RO/Antares-Cygnus"
+    },
+    "version": "1:v0.30",
+    "ksp_version": "1.0",
+    "install": [
+        {
+            "find": "KK_Antares",
+            "install_to": "GameData"
+        },
+        {
+            "find": "RN_Cygnus",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/KSP-RO/Antares-Cygnus/releases/download/v0.30/RN_KK_Antares_Cygnus_v0.30.zip",
+    "download_size": 6867007,
+    "download_hash": {
+        "sha1": "65F44167FE8711B708AADE77DEE420B5EE7EEBA6",
+        "sha256": "A6ED4AA67F161F9A9129DD5F193A330C12E3E0435E3C223FCBC582FC55EFF98F"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

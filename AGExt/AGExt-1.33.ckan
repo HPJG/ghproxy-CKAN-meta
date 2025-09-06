@@ -1,0 +1,62 @@
+{
+    "spec_version": 1,
+    "identifier": "AGExt",
+    "name": "Action Groups Extended",
+    "abstract": "Increases the number of action groups to 250 and allows in-flight editing.",
+    "author": "Diazo",
+    "license": "GPL-3.0",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/74195",
+        "repository": "https://ghproxy.net/https://github.com/SirDiazo/AGExt"
+    },
+    "version": "1.33",
+    "ksp_version": "1.0",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "Toolbar"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/Diazo",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/SirDiazo/AGExt/releases/download/1.33/ActionGroupsExtended133.zip",
+    "download_size": 83121,
+    "download_hash": {
+        "sha1": "2EC33CDB2E6A88D2C1B6EF9E744ECE527062D01B",
+        "sha256": "2757D15B22E4048AB8D7609C9E8DE078F491AA08CDC978EB4A5BE145A2EDCF9A"
+    },
+    "download_content_type": "application/zip",
+    "x_supports": [
+        {
+            "name": "SCANsat"
+        },
+        {
+            "name": "Kethane"
+        },
+        {
+            "name": "FerramAerospaceResearch"
+        },
+        {
+            "name": "Firespitter"
+        },
+        {
+            "name": "InfernalRobotics"
+        },
+        {
+            "name": "TACLS"
+        },
+        {
+            "name": "WarpPlugin"
+        }
+    ],
+    "x_generated_by": "netkan"
+}

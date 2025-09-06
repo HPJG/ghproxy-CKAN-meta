@@ -1,0 +1,50 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "AnyResContinued",
+    "name": "AnyRes Continued",
+    "abstract": "Change your screen resolution on the fly",
+    "author": "linuxgurugamer",
+    "version": "2.0.3.3",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-4.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/170160-131-anyres-continued-change-your-screen-resolution-on-the-fly/",
+        "spacedock": "https://spacedock.info/mod/1681/AnyRes%20Continued",
+        "repository": "https://ghproxy.net/https://github.com/linuxgurugamer/AnyRes",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/AnyRes_Continued/AnyRes_Continued-1517085590.1798694.png"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "AnyRes"
+        }
+    ],
+    "install": [
+        {
+            "find": "AnyRes",
+            "install_to": "GameData",
+            "filter": [
+                ".DS_Store"
+            ]
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/linuxgurugamer/AnyRes/releases/download/2.0.3.3/AnyRes-1.8.0-2.0.3.3.zip",
+    "download_size": 39360,
+    "download_hash": {
+        "sha1": "DDDC917F02D2D3048FD5B0D4CC6952867FFFBA80",
+        "sha256": "D5146B810D6E8EA619BCEE0349A4F17A86D128A02C8D265E9574E34E73A89F74"
+    },
+    "download_content_type": "application/zip",
+    "release_date": "2019-10-27T02:38:48Z",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,34 @@
+{
+    "spec_version": 1,
+    "identifier": "ActsEW",
+    "name": "Actions Everywhere",
+    "abstract": "Add mouse only actions from right-click menu to action groups, including resource locking and cross-feeding",
+    "author": "Diazo",
+    "license": "GPL-3.0",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/100932",
+        "repository": "https://ghproxy.net/https://github.com/SirDiazo/ActsEverywhere"
+    },
+    "version": "1.3b",
+    "ksp_version": "0.90",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/Diazo",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/SirDiazo/ActsEverywhere/releases/download/1.3b/ActionsEverywhere13b.zip",
+    "download_size": 7984,
+    "download_hash": {
+        "sha1": "02EACB75DE096BE38A131007218EB7FC2B565F10",
+        "sha256": "029F38B92A3D28D71858F5C6EBDE3594E12D436A101DE799C2EA787E4B991640"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,42 @@
+{
+    "spec_version": "v1.2",
+    "identifier": "A7Corsair2",
+    "name": "A7 Corsair 2",
+    "abstract": "The Classic Navy plane from the late 60's",
+    "author": "LuizChacon",
+    "license": "WTFPL",
+    "resources": {
+        "homepage": "http://kscsm.freeforums.net/",
+        "kerbalstuff": "https://kerbalstuff.com/mod/810/A7%20Corsair%202",
+        "x_screenshot": "https://kerbalstuff.com/content/LuizChacon_128/A7_Corsair_2/A7_Corsair_2-1431889452.2187135.png"
+    },
+    "version": "2.0",
+    "ksp_version": "0.90.0",
+    "depends": [
+        {
+            "name": "AdjustableLandingGear"
+        },
+        {
+            "name": "AircraftIVAHelmet"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "BDArmory"
+        }
+    ],
+    "install": [
+        {
+            "file": "A7CorsairII",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/A7Corsair2-2.0/EC77C086-A7Corsair2-2.0.zip",
+    "download_size": 9852183,
+    "download_hash": {
+        "sha1": "EC77C08699E78F7F1AA89EA4C63E34446019840E",
+        "sha256": "9933A989EF18D06BBD3D0912345D3CA21687DEB2782573A84DDD1B3902CFA714"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,40 @@
+{
+    "spec_version": "v1.20",
+    "identifier": "AlternateResourcePanel",
+    "name": "Alternate Resource Panel",
+    "abstract": "An alternate view of vessel resources plugin for Kerbal Space Program",
+    "author": "TriggerAu",
+    "license": "MIT",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/60227",
+        "repository": "https://ghproxy.net/https://github.com/TriggerAu/AlternateResourcePanel",
+        "license": "https://ghproxy.net/https://github.com/TriggerAu/AlternateResourcePanel/blob/master/LICENSE",
+        "manual": "https://sites.google.com/site/kspalternateresourcepanel/",
+        "kerbalstuff": "https://kerbalstuff.com/mod/195/Alternate%20Resource%20Panel",
+        "curse": "http://kerbal.curseforge.com/ksp-mods/220649-alternate-resource-panel",
+        "x_screenshot": "https://kerbalstuff.com/content/TriggerAu_1745/Alternate_Resource_Panel/Alternate_Resource_Panel.png"
+    },
+    "version": "2.7.3.0",
+    "ksp_version_min": "1.0.0",
+    "ksp_version_max": "1.0.99",
+    "suggests": [
+        {
+            "name": "Olympic1ARPIcons"
+        }
+    ],
+    "install": [
+        {
+            "find": "KSPAlternateResourcePanel",
+            "install_to": "GameData/TriggerTech"
+        }
+    ],
+    "download": "https://archive.org/download/AlternateResourcePanel-2.7.3.0/A0E376CA-AlternateResourcePanel-2.7.3.0.zip",
+    "download_size": 300801,
+    "download_hash": {
+        "sha1": "A0E376CA8AEB59307FBD1369BD68C48C91695C8E",
+        "sha256": "5D26E530A95023B262CBBD3E2F4F705F2C4277E77529F4A80DBA0363244DBE29"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

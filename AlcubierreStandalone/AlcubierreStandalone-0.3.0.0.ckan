@@ -1,0 +1,29 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "AlcubierreStandalone",
+    "name": "Alcubierre Warp Drive (Stand-alone)",
+    "abstract": "The Alcubierre drive works by moving space around your ship, not through acceleration.",
+    "author": "RoverDude",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/100798",
+        "repository": "https://ghproxy.net/https://github.com/BobPalmer/WarpDrive"
+    },
+    "version": "0.3.0.0",
+    "ksp_version_min": "1.0.0",
+    "ksp_version_max": "1.0.4",
+    "install": [
+        {
+            "find": "UmbraSpaceIndustries/WarpDrive",
+            "install_to": "GameData/UmbraSpaceIndustries"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/BobPalmer/WarpDrive/releases/download/0.3.0.0/WarpDrive_0.3.0.0.zip",
+    "download_size": 1429851,
+    "download_hash": {
+        "sha1": "CDD1B002F33F979BB3A7DB269A26F56685B5FF31",
+        "sha256": "8C6D3C80CAA01447FE950C32C4F832C27C255661FBE9A3618BC4CBB1EBE0633D"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

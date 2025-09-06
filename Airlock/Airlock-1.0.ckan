@@ -1,0 +1,33 @@
+{
+    "spec_version": 1,
+    "identifier": "Airlock",
+    "name": "Airlock",
+    "abstract": "Require a small resource usage when leaving vessel on eva",
+    "author": "anxcon",
+    "license": "CC-BY-NC-ND-1.0",
+    "resources": {
+        "kerbalstuff": "https://kerbalstuff.com/mod/1011/Airlock"
+    },
+    "version": "1.0",
+    "ksp_version": "1.0.4",
+    "suggests": [
+        {
+            "name": "TACLS"
+        }
+    ],
+    "install": [
+        {
+            "file": "Airlock",
+            "install_to": "GameData",
+            "filter": "ModuleAirlock.cs"
+        }
+    ],
+    "download": "https://archive.org/download/Airlock-1.0/B7351C7E-Airlock-1.0.zip",
+    "download_size": 3663,
+    "download_hash": {
+        "sha1": "B7351C7EAFACDFB6D6B1919610CD547FC0B30D98",
+        "sha256": "1FAD62B6EC733F9143A55CF33CF79E1EF29AEB57E1B39F06A980D12313C0CF68"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

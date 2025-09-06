@@ -1,0 +1,45 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "AV8HarrierWITHTRUEVTOLFlight",
+    "name": "AV8 Harrier WITH TRUE VTOL Flight",
+    "abstract": "The Hawker Sidley VTOL Harrier in Marines Colors",
+    "author": "LuizChacon",
+    "license": "WTFPL",
+    "resources": {
+        "homepage": "http://starbaseone.freeforums.net/",
+        "kerbalstuff": "https://kerbalstuff.com/mod/877/AV8%20Harrier%20WITH%20TRUE%20VTOL%20Flight",
+        "x_screenshot": "https://kerbalstuff.com/content/LuizChacon_128/AV8_Harrier_WITH_TRUE_VTOL_Flight/AV8_Harrier_WITH_TRUE_VTOL_Flight-1447285291.987474.png"
+    },
+    "version": "104.105",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "FirespitterCore"
+        },
+        {
+            "name": "BahamutoDynamicsPartsPack"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "BDArmory"
+        },
+        {
+            "name": "AdjustableLandingGear"
+        }
+    ],
+    "install": [
+        {
+            "find": "Av8C",
+            "install_to": "GameData/Skunk_Works"
+        }
+    ],
+    "download": "https://archive.org/download/AV8HarrierWITHTRUEVTOLFlight-104.105/C0B40C80-AV8HarrierWITHTRUEVTOLFlight-104.105.zip",
+    "download_size": 7227481,
+    "download_hash": {
+        "sha1": "C0B40C80CD67950DCDC716B4C157F73ED6E50181",
+        "sha256": "E8B1614C7FA71A4C41F1C2BF510E477E2DD07829365D324917718770F1C90BCB"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

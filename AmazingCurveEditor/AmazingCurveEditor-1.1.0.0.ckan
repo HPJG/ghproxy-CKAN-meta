@@ -1,0 +1,29 @@
+{
+    "spec_version": "v1.16",
+    "identifier": "AmazingCurveEditor",
+    "name": "Amazing Curve Editor",
+    "abstract": "Edit your Curves to Amaze your friends and family.",
+    "author": "Sarbian",
+    "license": "GPL-2.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/124708",
+        "repository": "https://ghproxy.net/https://github.com/sarbian/AmazingCurveEditor",
+        "ci": "https://ksp.sarbian.com/jenkins/job/AmazingCurveEditor/"
+    },
+    "version": "1.1.0.0",
+    "ksp_version": "1.0",
+    "install": [
+        {
+            "find": "AmazingCurveEditor",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ksp.sarbian.com/jenkins/job/AmazingCurveEditor/9/artifact/AmazingCurveEditor-1.1.0.0.zip",
+    "download_size": 12371,
+    "download_hash": {
+        "sha1": "5A71C9620769A34C9D65F41EF1C73AB09FCEC5F7",
+        "sha256": "4E5D3C5AD22C2A4A92D3990A4E3E169098DB7D4F616D4A84322F81C04C564F74"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,32 @@
+{
+    "spec_version": "v1.2",
+    "identifier": "ActivateWhenShielded",
+    "name": "ActivateWhenShielded",
+    "abstract": "Lets you stage engines at the same time as procedural fairings or inside other parts.",
+    "author": "PickledTripod",
+    "license": "WTFPL",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/200/ActivateWhenShielded"
+    },
+    "version": "1.0.1",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/ActivateWhenShielded.cfg",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://spacedock.info/mod/200/ActivateWhenShielded/download/1.0.1",
+    "download_size": 471,
+    "download_hash": {
+        "sha1": "8408AAF40E714BF477853DE941CB68CB380C8112",
+        "sha256": "85C42E84301EB33839992F4850F1770E82A3DACDF61569E9F1E13E73B98506E5"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

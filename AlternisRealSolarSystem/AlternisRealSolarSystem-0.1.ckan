@@ -1,0 +1,41 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "AlternisRealSolarSystem",
+    "name": "Alternis Real Solar System",
+    "abstract": "What if Alternis were to smite the heck out of our own Solar System? ",
+    "author": "GregroxMun",
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/136958-Alternis-Real-Solar-System-v0-01?p=2248725#post2248725",
+        "kerbalstuff": "https://kerbalstuff.com/mod/1214/Alternis%20Real%20Solar%20System",
+        "x_screenshot": "https://kerbalstuff.com/content/GregroxMun_8555/Alternis_Real_Solar_System/Alternis_Real_Solar_System-1448206527.4126794.png"
+    },
+    "version": "0.1",
+    "ksp_version": "1.0.5",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus",
+            "min_version": "1:beta-05-2"
+        },
+        {
+            "name": "RSSTextures"
+        }
+    ],
+    "install": [
+        {
+            "find": "AlternisSolarSystem",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://archive.org/download/AlternisRealSolarSystem-0.1/B03E9848-AlternisRealSolarSystem-0.1.zip",
+    "download_size": 223133828,
+    "download_hash": {
+        "sha1": "B03E98482EAB7039DA51D9A58E3662108653D317",
+        "sha256": "B1DCCDED7AE0E24E452B71E2088A75E56CB44403057F2DC8AE11D26FB61557E0"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

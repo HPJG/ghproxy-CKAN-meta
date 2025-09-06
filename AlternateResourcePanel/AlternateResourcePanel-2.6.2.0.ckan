@@ -1,0 +1,33 @@
+{
+    "spec_version": "v1.20",
+    "identifier": "AlternateResourcePanel",
+    "name": "Alternate Resource Panel",
+    "abstract": "An alternate view of vessel resources plugin for Kerbal Space Program",
+    "author": "TriggerAu",
+    "license": "MIT",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/60227",
+        "repository": "https://ghproxy.net/https://github.com/TriggerAu/AlternateResourcePanel",
+        "license": "https://ghproxy.net/https://github.com/TriggerAu/AlternateResourcePanel/blob/master/LICENSE",
+        "manual": "https://sites.google.com/site/kspalternateresourcepanel/",
+        "kerbalstuff": "https://kerbalstuff.com/mod/195/Alternate%20Resource%20Panel",
+        "curse": "http://kerbal.curseforge.com/ksp-mods/220649-alternate-resource-panel"
+    },
+    "version": "2.6.2.0",
+    "ksp_version": "0.90",
+    "install": [
+        {
+            "find": "KSPAlternateResourcePanel",
+            "install_to": "GameData/TriggerTech"
+        }
+    ],
+    "download": "https://archive.org/download/AlternateResourcePanel-2.6.2.0/904A1301-AlternateResourcePanel-2.6.2.0.zip",
+    "download_size": 302800,
+    "download_hash": {
+        "sha1": "904A1301398C6D096CC65BC4BB34C30F176DC947",
+        "sha256": "AE6A71ACCF926181DC29E057DA3D484110E9D81B50255785738689A255E21B8B"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

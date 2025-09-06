@@ -1,0 +1,37 @@
+{
+    "spec_version": 1,
+    "identifier": "Achievements",
+    "name": "KSP Achievements",
+    "abstract": "145 Achievements you can get playing Kerbal Space Program.",
+    "author": "Malkuth74",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/101801-Achievements-1-7-0-Earn-145-achievements-while-playing-(KSP-25)-(12-2-14)",
+        "repository": "https://ghproxy.net/https://github.com/malkuth1974/Achievements",
+        "kerbalstuff": "https://kerbalstuff.com/mod/383/KSP%20Achievements",
+        "x_screenshot": "https://kerbalstuff.com/content/Malkuth74_587/KSP_Achievements/KSP_Achievements.png"
+    },
+    "version": "1.8.1",
+    "ksp_version_min": "1.0.2",
+    "ksp_version_max": "1.0.4",
+    "depends": [
+        {
+            "name": "Toolbar"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/Achievements",
+            "install_to": "GameData",
+            "filter": "000_Toolbar"
+        }
+    ],
+    "download": "https://archive.org/download/Achievements-1.8.1/A46FC697-Achievements-1.8.1.zip",
+    "download_size": 595858,
+    "download_hash": {
+        "sha1": "A46FC697DAB5BD08079278CD361778DB7C46EFBD",
+        "sha256": "B8259917D8A7E3588A7A9DA771BBD92A7E17A875C86655826939AD916DDB13BE"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

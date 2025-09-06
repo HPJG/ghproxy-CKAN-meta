@@ -1,0 +1,33 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "ALCOR",
+    "name": "ALCOR",
+    "abstract": "Advanced Landing Capsule for Orbital Rendezvous by ASET",
+    "author": "alexustas",
+    "license": "CC-BY-NC-SA-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/54925-1-0-2-ALCOR-Advanced-Landing-Capsule-for-Orbital-Rendezvous-by-ASET-(05-05-2015)"
+    },
+    "version": "0.9.4",
+    "ksp_version_min": "1.0.4",
+    "ksp_version_max": "1.0.5",
+    "depends": [
+        {
+            "name": "ALCORIVAPatch"
+        }
+    ],
+    "install": [
+        {
+            "find": "ASET",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://s3-us-west-2.amazonaws.com/ksp-ckan/9BBEAB7A.zip",
+    "download_size": 1498026,
+    "download_hash": {
+        "sha1": "9E9ED23A8161AAF094CFEAC9FDC20B5061FC7750",
+        "sha256": "96C4044B37B3FCF3735D54F946E9139D6F2DA34530C2FDCC91150E100F4C6DB9"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

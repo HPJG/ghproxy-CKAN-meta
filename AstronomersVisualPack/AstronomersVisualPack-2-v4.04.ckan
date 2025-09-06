@@ -1,0 +1,70 @@
+{
+    "spec_version": 1,
+    "identifier": "AstronomersVisualPack",
+    "name": "Astronomer's Visual Pack",
+    "abstract": "The total visual overhaul for Kerbal Space Program, originally by Astronomer.",
+    "author": "themaster402",
+    "version": "2:v4.04",
+    "ksp_version_min": "1.9.0",
+    "ksp_version_max": "1.9.9",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/160878-*",
+        "repository": "https://ghproxy.net/https://github.com/themaster402/AstronomersVisualPack",
+        "bugtracker": "https://ghproxy.net/https://github.com/themaster402/AstronomersVisualPack/issues"
+    },
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "provides": [
+        "EnvironmentalVisualEnhancements-Config"
+    ],
+    "depends": [
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "AVP-Textures"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "KS3P"
+        },
+        {
+            "name": "TextureReplacer"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "DistantObject"
+        },
+        {
+            "name": "PlanetShine"
+        },
+        {
+            "name": "Chatterer"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "EnvironmentalVisualEnhancements-Config"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/themaster402/AstronomersVisualPack/releases/download/v4.04/AVP.v.4.04.zip",
+    "download_size": 50833229,
+    "download_hash": {
+        "sha1": "36FEB927B898DC09D8967FE829BCA3EBCACCB02F",
+        "sha256": "4F3E47DEC759611F1B794DDC4447D6E57D7A849EC0EDD5102D8775C6C3851F67"
+    },
+    "download_content_type": "application/zip",
+    "release_date": "2020-06-07T14:35:06Z",
+    "x_generated_by": "netkan"
+}

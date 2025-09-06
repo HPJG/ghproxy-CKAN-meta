@@ -1,0 +1,44 @@
+{
+    "spec_version": 1,
+    "identifier": "ActiveTextureManagement-x86-Aggressive",
+    "name": "Active Texture Management - X86 - Aggressive",
+    "abstract": "x86 aggressive texture compression to DXT1 and DXT5",
+    "author": "rbray89",
+    "license": "MIT",
+    "resources": {
+        "repository": "https://ghproxy.net/https://github.com/rbray89/ActiveTextureManagement"
+    },
+    "version": "4-3",
+    "ksp_version": "0.90",
+    "provides": [
+        "ActiveTextureManagement"
+    ],
+    "conflicts": [
+        {
+            "name": "ActiveTextureManagement-Aggressive"
+        },
+        {
+            "name": "ActiveTextureManagement-x64-Basic"
+        },
+        {
+            "name": "ActiveTextureManagement-x64-Aggressive"
+        },
+        {
+            "name": "ActiveTextureManagement-x86-Basic"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/ActiveTextureManagement",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/rbray89/ActiveTextureManagement/releases/download/4-3/x86-Aggressive-Release.zip",
+    "download_size": 78757,
+    "download_hash": {
+        "sha1": "DD98A3EF73B2F150A1B5F9EF6C8047E3E0BAD97E",
+        "sha256": "F0FBA0DF2F6D7B413265729BEC0F7C5D3EA0528131522EFAEE47ECD5F9466FA4"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

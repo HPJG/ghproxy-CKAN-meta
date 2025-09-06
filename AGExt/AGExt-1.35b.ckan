@@ -1,0 +1,39 @@
+{
+    "spec_version": 1,
+    "identifier": "AGExt",
+    "name": "Action Groups Extended",
+    "abstract": "Increases the number of action groups to 250 and allows in-flight editing.",
+    "author": "Diazo",
+    "license": "GPL-3.0",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/74195",
+        "repository": "https://ghproxy.net/https://github.com/SirDiazo/AGExt"
+    },
+    "version": "1.35b",
+    "ksp_version": "1.0",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "Toolbar"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/Diazo",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/SirDiazo/AGExt/releases/download/1.35b/ActionGroupsExtended135b.zip",
+    "download_size": 82295,
+    "download_hash": {
+        "sha1": "81902AA0CE4AC63463A03E46CA82C92A9E6952E1",
+        "sha256": "80AC5B54106EAC65C8E651288CABF847C4233EC93A49388AACE7B39E7444F924"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

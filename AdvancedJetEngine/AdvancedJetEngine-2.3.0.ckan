@@ -1,0 +1,52 @@
+{
+    "spec_version": "v1.4",
+    "comment": "The full path in the mod archive can change. I.e. it was AJE-2.0.3/GameData/AJE at some point. The CKAN needs to deal with this. Hence using 'find'",
+    "identifier": "AdvancedJetEngine",
+    "name": "Advanced Jet Engine",
+    "abstract": "Realism for turbojet, turbofans, air-breathing rockets, propellers and rotors in KSP.",
+    "author": "camlost",
+    "license": "LGPL-2.0",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/70008",
+        "repository": "https://ghproxy.net/https://github.com/camlost2/AJE",
+        "kerbalstuff": "https://kerbalstuff.com/mod/462/Advanced%20Jet%20Engine"
+    },
+    "version": "2.3.0",
+    "ksp_version": "1.0.4",
+    "depends": [
+        {
+            "name": "FAR"
+        },
+        {
+            "name": "SolverEngines"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "RealFuels"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "HotRockets"
+        }
+    ],
+    "install": [
+        {
+            "find": "GameData/AJE",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/camlost2/AJE/releases/download/2.3.0/Advanced_Jet_Engine-2.3.0.zip",
+    "download_size": 901534,
+    "download_hash": {
+        "sha1": "36C4BE5E15F348DA029C3DF873976623E2D154FB",
+        "sha256": "18F15B31B3B7C4BF0617DB336DDEF09D320783EC32F0484449964159D894510C"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

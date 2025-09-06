@@ -1,0 +1,46 @@
+{
+    "spec_version": 1,
+    "identifier": "ActiveTextureManagement-x86-Basic",
+    "name": "Active Texture Management - X86 - Basic",
+    "abstract": "x86 basic texture compression to DXT1 and DXT5",
+    "author": "rbray89",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/53809-10release-5-0april-28-2015-active-texture-management-save-ram/",
+        "repository": "https://ghproxy.net/https://github.com/rbray89/ActiveTextureManagement"
+    },
+    "version": "5-0",
+    "ksp_version_min": "0.90",
+    "ksp_version_max": "1.0.99",
+    "provides": [
+        "ActiveTextureManagement"
+    ],
+    "conflicts": [
+        {
+            "name": "ActiveTextureManagement-Aggressive"
+        },
+        {
+            "name": "ActiveTextureManagement-x64-Basic"
+        },
+        {
+            "name": "ActiveTextureManagement-x86-Basic"
+        },
+        {
+            "name": "ActiveTextureManagement-x86-Aggressive"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/ActiveTextureManagement",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/rbray89/ActiveTextureManagement/releases/download/5-0/Basic-Release.zip",
+    "download_size": 79164,
+    "download_hash": {
+        "sha1": "D5BCACFBF5119F9CF4FF6228FEF5011DF613EEF3",
+        "sha256": "7893BD7B88B6AC639794281028372323B6449874264FF103316A4B25B2E72CD8"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

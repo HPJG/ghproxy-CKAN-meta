@@ -1,0 +1,39 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "AlmostFreeLaunchClamps",
+    "name": "Almost Free Launch Clamps",
+    "abstract": "Low mass, free launch clamps",
+    "author": "Galileo88",
+    "license": "public-domain",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/164733-13-almost-free-launch-clamps-010/",
+        "repository": "https://ghproxy.net/https://github.com/Galileo88/AlmostFreeLaunchClamps"
+    },
+    "version": "0.2.1",
+    "ksp_version_min": "1.2.2",
+    "ksp_version_max": "1.3.1",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "FASALaunchClampsContinued"
+        }
+    ],
+    "install": [
+        {
+            "find": "AFLC",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/Galileo88/AlmostFreeLaunchClamps/releases/download/0.2.1/AlmostFreeLaunchClamps.0.2.1.zip",
+    "download_size": 55769,
+    "download_hash": {
+        "sha1": "2335A6FDFE7A82396E4894B8BCC731B187EF52DB",
+        "sha256": "BCD1D7B7FEC3586FCFC13E4A459BA22FFF746088694B50CF56209B9E853F0E53"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

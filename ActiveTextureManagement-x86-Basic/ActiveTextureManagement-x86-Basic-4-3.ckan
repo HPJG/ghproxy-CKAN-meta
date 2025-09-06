@@ -1,0 +1,44 @@
+{
+    "spec_version": 1,
+    "identifier": "ActiveTextureManagement-x86-Basic",
+    "name": "Active Texture Management - X86 - Basic",
+    "abstract": "x86 basic texture compression to DXT1 and DXT5",
+    "author": "rbray89",
+    "license": "MIT",
+    "resources": {
+        "repository": "https://ghproxy.net/https://github.com/rbray89/ActiveTextureManagement"
+    },
+    "version": "4-3",
+    "ksp_version": "0.90",
+    "provides": [
+        "ActiveTextureManagement"
+    ],
+    "conflicts": [
+        {
+            "name": "ActiveTextureManagement-Aggressive"
+        },
+        {
+            "name": "ActiveTextureManagement-x64-Basic"
+        },
+        {
+            "name": "ActiveTextureManagement-x86-Basic"
+        },
+        {
+            "name": "ActiveTextureManagement-x86-Aggressive"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/ActiveTextureManagement",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/rbray89/ActiveTextureManagement/releases/download/4-3/x86-Basic-Release.zip",
+    "download_size": 78754,
+    "download_hash": {
+        "sha1": "68CF09B0DC1D6609AD6C8CD32FF9D48C0B80CE9C",
+        "sha256": "789098FFDF1692DADA336CD8BC38BB8C96767002B9F51974F00EF255C0572D4E"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

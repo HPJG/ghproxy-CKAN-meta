@@ -1,0 +1,28 @@
+{
+    "spec_version": 1,
+    "identifier": "AnalogControl",
+    "name": "Analog Control",
+    "abstract": "Mouse Yoke",
+    "author": "Crzyrndm",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/116888",
+        "repository": "https://ghproxy.net/https://github.com/Crzyrndm/Analog-Control"
+    },
+    "version": "1.6.1.1",
+    "ksp_version": "1.0.5",
+    "install": [
+        {
+            "file": "GameData/Analog Control",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/Crzyrndm/Analog-Control/releases/download/1.6.1.1/Analog.Control.zip",
+    "download_size": 8120,
+    "download_hash": {
+        "sha1": "6B8E49362719BF24AE185224AC808DF55748CA9F",
+        "sha256": "52505A401A2885DE1E61868A47ECD4F5B5E27C9707865505827AA0E4B9C6E2FD"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

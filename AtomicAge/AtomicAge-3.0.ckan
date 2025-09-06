@@ -1,0 +1,32 @@
+{
+    "spec_version": 1,
+    "identifier": "AtomicAge",
+    "name": "Atomic Age",
+    "abstract": "Nuclear Propulsion for Nuclear People",
+    "author": "Porkjet",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/104855",
+        "kerbalstuff": "https://kerbalstuff.com/mod/744/Atomic%20Age",
+        "x_screenshot": "https://kerbalstuff.com/content/Porkjet_3416/Atomic_Age/Atomic_Age-1435929467.075941.jpg"
+    },
+    "version": "3.0",
+    "ksp_version": "1.0.4",
+    "depends": [
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://archive.org/download/AtomicAge-3.0/C0690B84-AtomicAge-3.0.zip",
+    "download_size": 3041381,
+    "download_hash": {
+        "sha1": "C0690B849A4FE8D5E49E0423E31D925ED1068E8C",
+        "sha256": "505AA30954DDD15F66D7EBE7C16073CE2091283A8EAEC5E303B4F28C26AF2FE2"
+    },
+    "download_content_type": "application/zip",
+    "x_via": "Automated KerbalStuff CKAN submission",
+    "x_generated_by": "netkan"
+}

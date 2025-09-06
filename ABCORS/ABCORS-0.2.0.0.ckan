@@ -1,0 +1,28 @@
+{
+    "spec_version": 1,
+    "identifier": "ABCORS",
+    "name": "ABookCase Orbital Reference System",
+    "abstract": "Hover the mouse on your orbit to display contextual information.",
+    "author": "zentarul",
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/131706-1",
+        "repository": "https://ghproxy.net/https://github.com/zentarul/abcors"
+    },
+    "version": "0.2.0.0",
+    "ksp_version_min": "1.1.0",
+    "ksp_version_max": "1.1.99",
+    "suggests": [
+        {
+            "name": "KSP-AVC"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/zentarul/abcors/releases/download/0.2.0.0/ABCORS.zip",
+    "download_size": 3985,
+    "download_hash": {
+        "sha1": "3C386706B85EB841C5FBF2E3D70151657589CE99",
+        "sha256": "3FFA053949BC2428C24352400E61C8E0599346C844058960D41EE6277A01131B"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}

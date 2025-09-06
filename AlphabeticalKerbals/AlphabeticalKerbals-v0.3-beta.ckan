@@ -1,0 +1,29 @@
+{
+    "spec_version": 1,
+    "identifier": "AlphabeticalKerbals",
+    "name": "Alphabetical Kerbals",
+    "abstract": "An addon for sorting Kerbals alphabetically.",
+    "author": "cecilkorik",
+    "version": "v0.3-beta",
+    "ksp_version_min": "1.3.1",
+    "ksp_version_max": "1.7.99",
+    "license": "CC0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/167202-*",
+        "repository": "https://ghproxy.net/https://github.com/cecilkorik/AlphabeticalKerbals",
+        "bugtracker": "https://ghproxy.net/https://github.com/cecilkorik/AlphabeticalKerbals/issues"
+    },
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "download": "https://ghproxy.net/https://github.com/cecilkorik/AlphabeticalKerbals/releases/download/v0.3-beta/AlphabeticalKerbals.zip",
+    "download_size": 4178,
+    "download_hash": {
+        "sha1": "001ACB0DEBA3D5AB5699957C6351EE7B8ED64FA7",
+        "sha256": "26DD4E925095A3812BC878B6D8C359CD79B88328B8CCB4C16174B08FAEBC3DBC"
+    },
+    "download_content_type": "application/zip",
+    "release_date": "2017-11-12T18:40:14Z",
+    "x_generated_by": "netkan"
+}

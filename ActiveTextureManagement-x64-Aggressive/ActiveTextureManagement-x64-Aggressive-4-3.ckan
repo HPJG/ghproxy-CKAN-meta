@@ -1,0 +1,45 @@
+{
+    "spec_version": 1,
+    "identifier": "ActiveTextureManagement-x64-Aggressive",
+    "name": "Active Texture Management - X64 - Aggressive",
+    "abstract": "x64 aggressive texture compression to DXT1 and DXT5",
+    "author": "rbray89",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/53809-10release-5-0april-28-2015-active-texture-management-save-ram/",
+        "repository": "https://ghproxy.net/https://github.com/rbray89/ActiveTextureManagement"
+    },
+    "version": "4-3",
+    "ksp_version": "0.90",
+    "provides": [
+        "ActiveTextureManagement"
+    ],
+    "conflicts": [
+        {
+            "name": "ActiveTextureManagement-Aggressive"
+        },
+        {
+            "name": "ActiveTextureManagement-x64-Basic"
+        },
+        {
+            "name": "ActiveTextureManagement-x86-Basic"
+        },
+        {
+            "name": "ActiveTextureManagement-x86-Aggressive"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/ActiveTextureManagement",
+            "install_to": "GameData"
+        }
+    ],
+    "download": "https://ghproxy.net/https://github.com/rbray89/ActiveTextureManagement/releases/download/4-3/x64-Aggressive-Release.zip",
+    "download_size": 78525,
+    "download_hash": {
+        "sha1": "EB2161FD1172A5383652959491F39B7BA72BE6C5",
+        "sha256": "92890B0AEC978291F1110B4EA9E5BDA5574A7B8BAF6E54F0D5738352EF6A5940"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}
