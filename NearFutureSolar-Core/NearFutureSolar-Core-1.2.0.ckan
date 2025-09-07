@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/155465-122-near-future-technologies",
         "spacedock": "https://spacedock.info/mod/559/Near%20Future%20Solar",
-        "repository": "https://hk.gh-proxy.com/https://github.com/ChrisAdderley/NearFutureSolar",
-        "metanetkan": "https://hk.gh-proxy.com/https://github.com/ChrisAdderley/NearFutureSolar/raw/master/CKAN/NearFutureSolar-Core.netkan",
+        "repository": "https://get.2sb.org/https://github.com/ChrisAdderley/NearFutureSolar",
+        "metanetkan": "https://get.2sb.org/https://github.com/ChrisAdderley/NearFutureSolar/raw/master/CKAN/NearFutureSolar-Core.netkan",
         "x_screenshot": "https://spacedock.info/content/Nertea_200/Near_Future_Solar/Near_Future_Solar-1461341963.6733372.png"
     },
     "tags": [

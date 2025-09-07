@@ -7,7 +7,7 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/120548-105-proton-m-breeze-m/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/InsaneDruid/Proton-M"
+        "repository": "https://get.2sb.org/https://github.com/InsaneDruid/Proton-M"
     },
     "version": "1.12",
     "ksp_version": "1.0.5",
@@ -43,7 +43,7 @@
             "install_to": "Ships"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/InsaneDruid/Proton-M/releases/download/1.12/Proton-M-1.12.zip",
+    "download": "https://get.2sb.org/https://github.com/InsaneDruid/Proton-M/releases/download/1.12/Proton-M-1.12.zip",
     "download_size": 27294968,
     "download_hash": {
         "sha1": "4DEBDF51DDEC7A42E4E8857B6D5EB4ED04F0023D",

@@ -9,7 +9,7 @@
     ],
     "license": "CC-BY-SA-2.0",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/PapaJoesSoup/BurnTogether"
+        "repository": "https://get.2sb.org/https://github.com/PapaJoesSoup/BurnTogether"
     },
     "version": "0.0.7.2",
     "ksp_version_min": "1.2.0",
@@ -30,7 +30,7 @@
             "comment": "No way to install files from a .zip, it's a MM patch to add functionality to pods without the part."
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/PapaJoesSoup/BurnTogether/releases/download/0.0.7.2/BurnTogether.0.0.7.2_12232016.zip",
+    "download": "https://get.2sb.org/https://github.com/PapaJoesSoup/BurnTogether/releases/download/0.0.7.2/BurnTogether.0.0.7.2_12232016.zip",
     "download_size": 84205,
     "download_hash": {
         "sha1": "84424B70258FD553F9484F9E8094A9495BB0ED65",

@@ -22,8 +22,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/110746-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/SolverEngines",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-RO/SolverEngines/issues"
+        "repository": "https://get.2sb.org/https://github.com/KSP-RO/SolverEngines",
+        "bugtracker": "https://get.2sb.org/https://github.com/KSP-RO/SolverEngines/issues"
     },
     "tags": [
         "plugin",
@@ -39,7 +39,7 @@
             ]
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/SolverEngines/releases/download/v3.7.5/SolverEngines_v3.7.5.zip",
+    "download": "https://get.2sb.org/https://github.com/KSP-RO/SolverEngines/releases/download/v3.7.5/SolverEngines_v3.7.5.zip",
     "download_size": 39876,
     "download_hash": {
         "sha1": "A9DEC97056C493B8531E6C60B8828CEB2D37785F",

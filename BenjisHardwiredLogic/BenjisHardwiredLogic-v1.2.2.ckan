@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/202506-1101-1112-benjis-hardwired-logic-v11/",
         "spacedock": "https://spacedock.info/mod/2759/Benji's%20Hardwired%20Logic",
-        "repository": "https://hk.gh-proxy.com/https://github.com/ErinaceusLinnaeus/BenjisHardwiredLogic",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/ErinaceusLinnaeus/BenjisHardwiredLogic/issues"
+        "repository": "https://get.2sb.org/https://github.com/ErinaceusLinnaeus/BenjisHardwiredLogic",
+        "bugtracker": "https://get.2sb.org/https://github.com/ErinaceusLinnaeus/BenjisHardwiredLogic/issues"
     },
     "tags": [
         "config",

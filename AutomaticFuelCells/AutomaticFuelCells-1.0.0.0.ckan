@@ -6,9 +6,9 @@
     "author": "Xyphos",
     "license": "MIT",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/Xyphos/KSP_AutomaticFuelCells",
+        "homepage": "https://get.2sb.org/https://github.com/Xyphos/KSP_AutomaticFuelCells",
         "spacedock": "https://spacedock.info/mod/2248/Automatic%20Fuel%20Cells",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Xyphos/KSP_AutomaticFuelCells"
+        "repository": "https://get.2sb.org/https://github.com/Xyphos/KSP_AutomaticFuelCells"
     },
     "version": "1.0.0.0",
     "ksp_version": "1.7.3",

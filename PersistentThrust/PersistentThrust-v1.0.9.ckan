@@ -9,8 +9,8 @@
     "license": "open-source",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/120404-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/bld/PersistentThrust",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/bld/PersistentThrust/issues"
+        "repository": "https://get.2sb.org/https://github.com/bld/PersistentThrust",
+        "bugtracker": "https://get.2sb.org/https://github.com/bld/PersistentThrust/issues"
     },
     "tags": [
         "plugin",
@@ -32,7 +32,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/bld/PersistentThrust/releases/download/v1.0.9/PersistentThrust.v1.0.9.zip",
+    "download": "https://get.2sb.org/https://github.com/bld/PersistentThrust/releases/download/v1.0.9/PersistentThrust.v1.0.9.zip",
     "download_size": 2259745,
     "download_hash": {
         "sha1": "504506E7AF48A267F28037BCCB5DD5975DB365D4",

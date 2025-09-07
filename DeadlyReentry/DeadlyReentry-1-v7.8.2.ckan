@@ -10,8 +10,8 @@
     "license": "CC-BY-SA",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/50296-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Starwaster/DeadlyReentry",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Starwaster/DeadlyReentry/issues",
+        "repository": "https://get.2sb.org/https://github.com/Starwaster/DeadlyReentry",
+        "bugtracker": "https://get.2sb.org/https://github.com/Starwaster/DeadlyReentry/issues",
         "remote-avc": "https://raw.githubusercontent.com/Starwaster/DeadlyReentry/master/DeadlyReentry/DeadlyReentry.version"
     },
     "tags": [
@@ -32,7 +32,7 @@
             "filter": ".git"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Starwaster/DeadlyReentry/releases/download/v7.8.2/DeadlyReentry_v7.8.2.zip",
+    "download": "https://get.2sb.org/https://github.com/Starwaster/DeadlyReentry/releases/download/v7.8.2/DeadlyReentry_v7.8.2.zip",
     "download_size": 1023906,
     "download_hash": {
         "sha1": "5A4AD8DD84D48035775069BF9856FBC59731F585",

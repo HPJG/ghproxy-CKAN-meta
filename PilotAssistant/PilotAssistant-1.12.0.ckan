@@ -7,7 +7,7 @@
     "license": "CC-BY-SA-4.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/100073",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Crzyrndm/Pilot-Assistant"
+        "repository": "https://get.2sb.org/https://github.com/Crzyrndm/Pilot-Assistant"
     },
     "version": "1.12.0",
     "ksp_version": "1.0.5",
@@ -17,7 +17,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Crzyrndm/Pilot-Assistant/releases/download/1.12.0/Pilot.Assistant.v.1.12.0.zip",
+    "download": "https://get.2sb.org/https://github.com/Crzyrndm/Pilot-Assistant/releases/download/1.12.0/Pilot.Assistant.v.1.12.0.zip",
     "download_size": 47708,
     "download_hash": {
         "sha1": "6EA1B442881EB7B2D8D3F6EDC3DE14C6EBEDBD12",

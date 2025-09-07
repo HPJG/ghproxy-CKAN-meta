@@ -11,7 +11,7 @@
     "ksp_version_min": "1.8.1",
     "license": "CC-BY-NC-SA-3.0",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/SolarCycleSimulator",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/SolarCycleSimulator",
         "remote-avc": "http://ksp.spacetux.net/avc/SolarCycleSimulator"
     },
     "tags": [
@@ -31,7 +31,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/SolarCycleSimulator/releases/download/1.2.0/SolarCycleSimulator-1.8.0-1.2.0.zip",
+    "download": "https://get.2sb.org/https://github.com/linuxgurugamer/SolarCycleSimulator/releases/download/1.2.0/SolarCycleSimulator-1.8.0-1.2.0.zip",
     "download_size": 16516,
     "download_hash": {
         "sha1": "0C3FE92CBACF5D6F7834A251FEBBF6DBCF1125B0",

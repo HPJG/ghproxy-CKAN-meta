@@ -9,8 +9,8 @@
     "license": "MIT",
     "resources": {
         "spacedock": "https://spacedock.info/mod/3951/Kerbal%20Colonies%20Industrial%20Processes",
-        "repository": "https://hk.gh-proxy.com/https://github.com/throw3278away/KerbalColoniesIndustrialProcesses",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/throw3278away/KerbalColoniesIndustrialProcesses/issues",
+        "repository": "https://get.2sb.org/https://github.com/throw3278away/KerbalColoniesIndustrialProcesses",
+        "bugtracker": "https://get.2sb.org/https://github.com/throw3278away/KerbalColoniesIndustrialProcesses/issues",
         "x_screenshot": "https://spacedock.info/content/throw3278away_154043/Kerbal_Colonies_Industrial_Processes/Kerbal_Colonies_Industrial_Processes-1755738399.png"
     },
     "tags": [
@@ -32,7 +32,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/throw3278away/KerbalColoniesIndustrialProcesses/releases/download/1.1.1/KCIP_1.1.1.zip",
+        "https://get.2sb.org/https://github.com/throw3278away/KerbalColoniesIndustrialProcesses/releases/download/1.1.1/KCIP_1.1.1.zip",
         "https://spacedock.info/mod/3951/Kerbal%20Colonies%20Industrial%20Processes/download/1.1.1"
     ],
     "download_size": 52514,

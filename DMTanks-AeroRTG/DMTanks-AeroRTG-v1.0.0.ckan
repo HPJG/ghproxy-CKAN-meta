@@ -10,7 +10,7 @@
     "license": "CC-BY-SA-3.0",
     "resources": {
         "homepage": "http://colorcurves.github.io/AeroRTG/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/ColorCurves/AeroRTG"
+        "repository": "https://get.2sb.org/https://github.com/ColorCurves/AeroRTG"
     },
     "version": "v1.0.0",
     "ksp_version_min": "1.0.5",
@@ -21,7 +21,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/ColorCurves/AeroRTG/releases/download/v1.0.0/AeroRTG_1.0.zip",
+    "download": "https://get.2sb.org/https://github.com/ColorCurves/AeroRTG/releases/download/v1.0.0/AeroRTG_1.0.zip",
     "download_size": 77649,
     "download_hash": {
         "sha1": "51830B3648EBA7D432ECE772A41572D853ED19B0",

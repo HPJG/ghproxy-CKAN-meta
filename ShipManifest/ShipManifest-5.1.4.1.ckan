@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/56643-/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/PapaJoesSoup/ShipManifest",
+        "repository": "https://get.2sb.org/https://github.com/PapaJoesSoup/ShipManifest",
         "curse": "http://kerbal.curseforge.com/plugins/220357-ship-manifest"
     },
     "version": "5.1.4.1",
@@ -30,7 +30,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/PapaJoesSoup/ShipManifest/releases/download/5.1.4.1/ShipManifest.5.1.4.1_05262017.zip",
+    "download": "https://get.2sb.org/https://github.com/PapaJoesSoup/ShipManifest/releases/download/5.1.4.1/ShipManifest.5.1.4.1_05262017.zip",
     "download_size": 646625,
     "download_hash": {
         "sha1": "450AD9CCAAFFD847E8E7A2653ABC033AF34945FD",

@@ -14,8 +14,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://discordapp.com/invite/ZGbR6nv",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ROTanks",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ROTanks/issues"
+        "repository": "https://get.2sb.org/https://github.com/KSP-RO/ROTanks",
+        "bugtracker": "https://get.2sb.org/https://github.com/KSP-RO/ROTanks/issues"
     },
     "tags": [
         "parts",
@@ -72,7 +72,7 @@
             "name": "TweakableEverythingCont"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ROTanks/releases/download/v2.2/ROTanks-2.2.zip",
+    "download": "https://get.2sb.org/https://github.com/KSP-RO/ROTanks/releases/download/v2.2/ROTanks-2.2.zip",
     "download_size": 69291455,
     "download_hash": {
         "sha1": "246567F647DE9E1E83CD300EB77C27EF3E0FAC91",

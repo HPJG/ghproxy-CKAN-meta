@@ -7,7 +7,7 @@
     "license": "CC-BY-NC-SA-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/84476-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/MarijnStevens/EvaFollower"
+        "repository": "https://get.2sb.org/https://github.com/MarijnStevens/EvaFollower"
     },
     "version": "1.035",
     "ksp_version": "1.1.2",
@@ -18,7 +18,7 @@
             "filter": "Config.cfg~"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/MarijnStevens/EvaFollower/releases/download/v1.035/EvaFollower_Release_1035.zip",
+    "download": "https://get.2sb.org/https://github.com/MarijnStevens/EvaFollower/releases/download/v1.035/EvaFollower_Release_1035.zip",
     "download_size": 20111,
     "download_hash": {
         "sha1": "26310A82427D3AA11491043233B86BBF29E08CC5",

@@ -13,7 +13,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/177216-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealSolarSystem"
+        "repository": "https://get.2sb.org/https://github.com/KSP-RO/RealSolarSystem"
     },
     "version": "v16.3",
     "ksp_version_min": "1.7.0",
@@ -50,7 +50,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealSolarSystem/releases/download/v16.3/RealSolarSystem_v16.3.zip",
+    "download": "https://get.2sb.org/https://github.com/KSP-RO/RealSolarSystem/releases/download/v16.3/RealSolarSystem_v16.3.zip",
     "download_size": 2109884,
     "download_hash": {
         "sha1": "F2F7E0B5A113FA427B3FB94F5DBD256A6E7835BF",

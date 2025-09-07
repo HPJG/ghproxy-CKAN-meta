@@ -7,7 +7,7 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/43645-Mission-Controller-2-Preview-Version-3-(KSP-24-2)-(New-Agena-Mini-Story)",
-        "repository": "https://hk.gh-proxy.com/https://github.com/malkuth1974/MissionController2"
+        "repository": "https://get.2sb.org/https://github.com/malkuth1974/MissionController2"
     },
     "version": "1.37",
     "ksp_version_min": "1.1.0",
@@ -18,7 +18,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/malkuth1974/MissionController2/releases/download/1.37/MissionController2Version1.3.7.zip",
+    "download": "https://get.2sb.org/https://github.com/malkuth1974/MissionController2/releases/download/1.37/MissionController2Version1.3.7.zip",
     "download_size": 3232572,
     "download_hash": {
         "sha1": "B7074BF4FC8AC77EA2774B6944BBF03CDDACDDE2",

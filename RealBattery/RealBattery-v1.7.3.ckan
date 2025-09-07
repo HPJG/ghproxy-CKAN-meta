@@ -9,9 +9,9 @@
     "license": "MIT",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/151164-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/blackliner/RealBattery",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/blackliner/RealBattery/issues",
-        "remote-avc": "https://hk.gh-proxy.com/https://github.com/blackliner/RealBattery/raw/master/RealBattery/GameData/RealBattery/RealBattery.version"
+        "repository": "https://get.2sb.org/https://github.com/blackliner/RealBattery",
+        "bugtracker": "https://get.2sb.org/https://github.com/blackliner/RealBattery/issues",
+        "remote-avc": "https://get.2sb.org/https://github.com/blackliner/RealBattery/raw/master/RealBattery/GameData/RealBattery/RealBattery.version"
     },
     "tags": [
         "plugin",
@@ -30,7 +30,7 @@
             "name": "DynamicBatteryStorage"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/blackliner/RealBattery/releases/download/v1.7.3/RealBattery.zip",
+    "download": "https://get.2sb.org/https://github.com/blackliner/RealBattery/releases/download/v1.7.3/RealBattery.zip",
     "download_size": 7677,
     "download_hash": {
         "sha1": "92708C3236B4676A89F30650DB46CCF14B432A4B",

@@ -10,13 +10,13 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/185536-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/severedsolo/MADLAD"
+        "repository": "https://get.2sb.org/https://github.com/severedsolo/MADLAD"
     },
     "tags": [
         "plugin",
         "information"
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/severedsolo/MADLAD/releases/download/2.2.1/MadLad.zip",
+    "download": "https://get.2sb.org/https://github.com/severedsolo/MADLAD/releases/download/2.2.1/MadLad.zip",
     "download_size": 12980,
     "download_hash": {
         "sha1": "4AE0BA772C66102084A0ACC980A365C378D99DFF",

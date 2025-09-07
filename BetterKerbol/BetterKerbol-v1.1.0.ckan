@@ -9,8 +9,8 @@
     "license": "CC-BY-NC-ND-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/207389-112x-kopernicus-betterkerbol-v110-a-kerbol-graphics-enhancement/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/jamespglaze/BetterKerbol",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/jamespglaze/BetterKerbol/issues"
+        "repository": "https://get.2sb.org/https://github.com/jamespglaze/BetterKerbol",
+        "bugtracker": "https://get.2sb.org/https://github.com/jamespglaze/BetterKerbol/issues"
     },
     "tags": [
         "config",
@@ -29,7 +29,7 @@
             "name": "Scatterer"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/jamespglaze/BetterKerbol/releases/download/v1.1.0/BetterKerbol.1.1.0.zip",
+    "download": "https://get.2sb.org/https://github.com/jamespglaze/BetterKerbol/releases/download/v1.1.0/BetterKerbol.1.1.0.zip",
     "download_size": 17733018,
     "download_hash": {
         "sha1": "6C321596ED72BBEC55BE66CA29C555C185944883",

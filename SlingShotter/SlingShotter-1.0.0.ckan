@@ -9,7 +9,7 @@
     "license": "GPL-2.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/128952-105-kerbal-slingshotter-visualize-ship-and-all-planetmoon-positions-at-a-selected-time/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/johnfink8/KerbalSlingshotter"
+        "repository": "https://get.2sb.org/https://github.com/johnfink8/KerbalSlingshotter"
     },
     "version": "1.0.0",
     "ksp_version": "1.0.5",
@@ -19,7 +19,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/johnfink8/KerbalSlingshotter/releases/download/1.0.0/SlingShotter_1_0_0.zip",
+    "download": "https://get.2sb.org/https://github.com/johnfink8/KerbalSlingshotter/releases/download/1.0.0/SlingShotter_1_0_0.zip",
     "download_size": 14493,
     "download_hash": {
         "sha1": "A9D9F141C8E77E1E282B6F8053F221CFF34141C5",

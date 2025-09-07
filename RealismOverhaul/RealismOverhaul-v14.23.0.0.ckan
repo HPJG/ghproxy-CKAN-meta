@@ -24,9 +24,9 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/155700-122-realism-overhaul-v1150-05262017/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealismOverhaul",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealismOverhaul/issues",
-        "manual": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealismOverhaul/wiki",
+        "repository": "https://get.2sb.org/https://github.com/KSP-RO/RealismOverhaul",
+        "bugtracker": "https://get.2sb.org/https://github.com/KSP-RO/RealismOverhaul/issues",
+        "manual": "https://get.2sb.org/https://github.com/KSP-RO/RealismOverhaul/wiki",
         "metanetkan": "https://raw.githubusercontent.com/KSP-RO/RealismOverhaul/master/RealismOverhaul.netkan",
         "remote-avc": "https://raw.githubusercontent.com/NathanKell/RealismOverhaul/master/RealismOverhaul/RO.version"
     },
@@ -311,7 +311,7 @@
             "comment": "Engine Group Controller, unique to RO."
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealismOverhaul/releases/download/v14.23.0.0/RealismOverhaul-v14.23.0.0.zip",
+    "download": "https://get.2sb.org/https://github.com/KSP-RO/RealismOverhaul/releases/download/v14.23.0.0/RealismOverhaul-v14.23.0.0.zip",
     "download_size": 18927337,
     "download_hash": {
         "sha1": "AD8FBD3B22BA57E1F07EF6D6D0D7FFC4929D911D",

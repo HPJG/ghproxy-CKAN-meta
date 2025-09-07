@@ -7,7 +7,7 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/76273-Stand-Alone-Map-View-Multi-monitor-KSP-1-0-5-WIP-Plugin",
-        "repository": "https://hk.gh-proxy.com/https://github.com/danielkinsman/stand-alone-map-view"
+        "repository": "https://get.2sb.org/https://github.com/danielkinsman/stand-alone-map-view"
     },
     "version": "v0.15",
     "ksp_version": "1.0.5",
@@ -17,7 +17,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/DanielKinsman/stand-alone-map-view/releases/download/v0.15/release.zip",
+    "download": "https://get.2sb.org/https://github.com/DanielKinsman/stand-alone-map-view/releases/download/v0.15/release.zip",
     "download_size": 218274,
     "download_hash": {
         "sha1": "FD14B9DBD9D0730B6F2E73EB1D855576D77FDA8F",

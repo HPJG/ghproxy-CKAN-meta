@@ -7,7 +7,7 @@
     "license": "restricted",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/160151-wip/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Sigma88/Sigma-SciDefRenamer"
+        "repository": "https://get.2sb.org/https://github.com/Sigma88/Sigma-SciDefRenamer"
     },
     "version": "v0.3.1",
     "ksp_version": "1.3.0",
@@ -22,7 +22,7 @@
             "install_to": "GameData/Sigma"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Sigma88/Sigma-SciDefRenamer/releases/download/v0.3.1/Sigma-SciDefRenamer.v0.3.1.zip",
+    "download": "https://get.2sb.org/https://github.com/Sigma88/Sigma-SciDefRenamer/releases/download/v0.3.1/Sigma-SciDefRenamer.v0.3.1.zip",
     "download_size": 7526,
     "download_hash": {
         "sha1": "D24A4847457002C7E9FB82C9C61841754D3BC575",

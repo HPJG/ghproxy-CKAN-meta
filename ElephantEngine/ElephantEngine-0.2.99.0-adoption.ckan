@@ -14,9 +14,9 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/206024-*",
         "spacedock": "https://spacedock.info/mod/664/The%20Elephant%20Engine",
-        "repository": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/ElephantEngine",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/ElephantEngine/issues",
-        "discussions": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/ElephantEngine/discussions",
+        "repository": "https://get.2sb.org/https://github.com/zer0Kerbal/ElephantEngine",
+        "bugtracker": "https://get.2sb.org/https://github.com/zer0Kerbal/ElephantEngine/issues",
+        "discussions": "https://get.2sb.org/https://github.com/zer0Kerbal/ElephantEngine/discussions",
         "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/ElephantEngine/master/ElephantEngine.version",
         "x_screenshot": "https://spacedock.info/content/NecroBones_209/Elephant_Engine/Elephant_Engine-1462563680.0134768.jpg"
     },

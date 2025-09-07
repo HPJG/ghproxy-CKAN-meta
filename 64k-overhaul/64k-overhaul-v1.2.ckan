@@ -9,8 +9,8 @@
     "license": "restricted",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/161402-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Kerbinorbiter/64k-overhaul",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Kerbinorbiter/64k-overhaul/issues"
+        "repository": "https://get.2sb.org/https://github.com/Kerbinorbiter/64k-overhaul",
+        "bugtracker": "https://get.2sb.org/https://github.com/Kerbinorbiter/64k-overhaul/issues"
     },
     "tags": [
         "parts"
@@ -26,7 +26,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Kerbinorbiter/64k-overhaul/releases/download/v1.2/64k_overhaul12.zip",
+    "download": "https://get.2sb.org/https://github.com/Kerbinorbiter/64k-overhaul/releases/download/v1.2/64k_overhaul12.zip",
     "download_size": 30545,
     "download_hash": {
         "sha1": "8305FC6D0AD8B399B25D2BABCAF5B2C38B5B4798",

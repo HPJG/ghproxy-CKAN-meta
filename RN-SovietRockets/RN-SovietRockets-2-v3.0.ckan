@@ -7,7 +7,7 @@
     "license": "CC-BY-NC-ND-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/79433-122-131-soviet-probes-soviet-rockets-r7soyuzprotonzenit-4-2-18/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/SovietRockets"
+        "repository": "https://get.2sb.org/https://github.com/KSP-RO/SovietRockets"
     },
     "version": "2:v3.0",
     "ksp_version_min": "1.2.0",
@@ -40,7 +40,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/SovietRockets/releases/download/v3.0/RN_Soviet_Rockets_v3.0.zip",
+    "download": "https://get.2sb.org/https://github.com/KSP-RO/SovietRockets/releases/download/v3.0/RN_Soviet_Rockets_v3.0.zip",
     "download_size": 121100095,
     "download_hash": {
         "sha1": "41CF1E381373FF56EDAE0A508350C3D6328E808E",

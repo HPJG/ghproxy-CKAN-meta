@@ -7,7 +7,7 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/132844-105-contract-pack-clever-sats-10-240216",
-        "repository": "https://hk.gh-proxy.com/https://github.com/severedsolo/CleverSat"
+        "repository": "https://get.2sb.org/https://github.com/severedsolo/CleverSat"
     },
     "version": "1.0",
     "ksp_version": "1.0.5",
@@ -26,7 +26,7 @@
             "install_to": "GameData/ContractPacks"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/severedsolo/CleverSat/releases/download/1.0/CleverSat1.0.zip",
+    "download": "https://get.2sb.org/https://github.com/severedsolo/CleverSat/releases/download/1.0/CleverSat1.0.zip",
     "download_size": 196648,
     "download_hash": {
         "sha1": "0AE9E7FCF41011228F65EE7F3620B8C7208FCB9E",

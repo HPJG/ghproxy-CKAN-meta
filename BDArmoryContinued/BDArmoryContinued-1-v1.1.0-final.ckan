@@ -13,7 +13,7 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/155014-*",
         "spacedock": "https://spacedock.info/mod/867/BDArmoryContinued",
-        "repository": "https://hk.gh-proxy.com/https://github.com/PapaJoesSoup/BDArmory",
+        "repository": "https://get.2sb.org/https://github.com/PapaJoesSoup/BDArmory",
         "x_screenshot": "https://spacedock.info/content/Papa_Joe_926/BDArmoryContinued/BDArmoryContinued-1470103192.4904277.png"
     },
     "version": "1:v1.1.0-final",
@@ -38,7 +38,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/PapaJoesSoup/BDArmory/releases/download/v1.1.0-final/BDArmory.1.1.0.38488_03172018.zip",
+    "download": "https://get.2sb.org/https://github.com/PapaJoesSoup/BDArmory/releases/download/v1.1.0-final/BDArmory.1.1.0.38488_03172018.zip",
     "download_size": 60560951,
     "download_hash": {
         "sha1": "823C8469E69141AD3BFD031B0E3EFD78442516F4",

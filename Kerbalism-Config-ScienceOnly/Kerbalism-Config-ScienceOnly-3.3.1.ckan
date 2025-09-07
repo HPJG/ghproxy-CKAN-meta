@@ -9,8 +9,8 @@
     "ksp_version_max": "1.9.99",
     "license": "Unlicense",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/Kerbalism/KerbalismScienceOnly",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Kerbalism/KerbalismScienceOnly/issues"
+        "repository": "https://get.2sb.org/https://github.com/Kerbalism/KerbalismScienceOnly",
+        "bugtracker": "https://get.2sb.org/https://github.com/Kerbalism/KerbalismScienceOnly/issues"
     },
     "tags": [
         "config",
@@ -46,7 +46,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Kerbalism/KerbalismScienceOnly/releases/download/3.3.1/KerbalismScienceOnly.zip",
+    "download": "https://get.2sb.org/https://github.com/Kerbalism/KerbalismScienceOnly/releases/download/3.3.1/KerbalismScienceOnly.zip",
     "download_size": 235208,
     "download_hash": {
         "sha1": "C6D5CD184B06EE216A5CF1D53F147D4644823E8A",

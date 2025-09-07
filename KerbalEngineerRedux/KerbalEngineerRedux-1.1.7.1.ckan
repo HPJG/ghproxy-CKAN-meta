@@ -13,8 +13,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/17833-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/jrbudda/KerbalEngineer",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/jrbudda/KerbalEngineer/issues"
+        "repository": "https://get.2sb.org/https://github.com/jrbudda/KerbalEngineer",
+        "bugtracker": "https://get.2sb.org/https://github.com/jrbudda/KerbalEngineer/issues"
     },
     "tags": [
         "plugin",
@@ -26,7 +26,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/jrbudda/KerbalEngineer/releases/download/1.1.7.1/KerbalEngineer-1.1.7.1.zip",
+    "download": "https://get.2sb.org/https://github.com/jrbudda/KerbalEngineer/releases/download/1.1.7.1/KerbalEngineer-1.1.7.1.zip",
     "download_size": 924731,
     "download_hash": {
         "sha1": "3F580E427FC25AE7CC9F451F4F5894A8AF88C4E2",

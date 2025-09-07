@@ -15,8 +15,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/228180-112x-fuelwings-refueled-a-successor-to-fuelwings-fuel-customization-in-stock-wings-using-b9partswitch/",
         "spacedock": "https://spacedock.info/mod/3916/FuelWings%20Refueled",
-        "repository": "https://hk.gh-proxy.com/https://github.com/munktron239/FuelWings-Refueled",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/munktron239/FuelWings-Refueled/issues",
+        "repository": "https://get.2sb.org/https://github.com/munktron239/FuelWings-Refueled",
+        "bugtracker": "https://get.2sb.org/https://github.com/munktron239/FuelWings-Refueled/issues",
         "remote-avc": "https://raw.githubusercontent.com/munktron239/FuelWings-Refueled/refs/heads/main/Versioning/FuelWingsRefueled.version",
         "x_screenshot": "https://spacedock.info/content/munktron239_157380/FuelWings_Refueled/FuelWings_Refueled-1750896358.png"
     },

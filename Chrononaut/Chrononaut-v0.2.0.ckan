@@ -7,12 +7,12 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/173015-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSPKatten/Chrononaut"
+        "repository": "https://get.2sb.org/https://github.com/KSPKatten/Chrononaut"
     },
     "version": "v0.2.0",
     "ksp_version_min": "1.4.0",
     "ksp_version_max": "1.4.99",
-    "download": "https://hk.gh-proxy.com/https://github.com/KSPKatten/Chrononaut/releases/download/v0.2.0/Chrononaut_v0.2.0.zip",
+    "download": "https://get.2sb.org/https://github.com/KSPKatten/Chrononaut/releases/download/v0.2.0/Chrononaut_v0.2.0.zip",
     "download_size": 19299,
     "download_hash": {
         "sha1": "7C6AAFB65EE1194E6711BE5B8000E6829A57E68C",

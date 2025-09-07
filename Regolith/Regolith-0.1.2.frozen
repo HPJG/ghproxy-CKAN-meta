@@ -6,7 +6,7 @@
     "author": "RoverDude",
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/BobPalmer/Regolith"
+        "repository": "https://get.2sb.org/https://github.com/BobPalmer/Regolith"
     },
     "version": "0.1.2",
     "ksp_version": "0.90",
@@ -15,7 +15,7 @@
             "name": "CommunityResourcePack"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/BobPalmer/Regolith/releases/download/0.1.2/Regolith_0.1.2.zip",
+    "download": "https://get.2sb.org/https://github.com/BobPalmer/Regolith/releases/download/0.1.2/Regolith_0.1.2.zip",
     "download_size": 29330,
     "download_hash": {
         "sha1": "EFF0F77B43B1CA9126A54A7004412ED9A5F35239",

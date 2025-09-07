@@ -11,8 +11,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/143288-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Galileo88/StockVisualEnhancements",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Galileo88/StockVisualEnhancements/issues",
+        "repository": "https://get.2sb.org/https://github.com/Galileo88/StockVisualEnhancements",
+        "bugtracker": "https://get.2sb.org/https://github.com/Galileo88/StockVisualEnhancements/issues",
         "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=337"
     },
     "tags": [
@@ -59,7 +59,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Galileo88/StockVisualEnhancements/releases/download/v1.4.1/SVE.v1.4.1.zip",
+    "download": "https://get.2sb.org/https://github.com/Galileo88/StockVisualEnhancements/releases/download/v1.4.1/SVE.v1.4.1.zip",
     "download_size": 53179084,
     "download_hash": {
         "sha1": "299243F80058E37BF227904BBD399DF0FB60CC05",

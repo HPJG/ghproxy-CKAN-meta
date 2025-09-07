@@ -9,10 +9,10 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/206638-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Angel-125/Buffalo2",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Angel-125/Buffalo2/issues",
-        "license": "https://hk.gh-proxy.com/https://github.com/Angel-125/Buffalo2/blob/main/ReleaseFolder/GameData/WildBlueIndustries/Buffalo2/Readme.txt",
-        "manual": "https://hk.gh-proxy.com/https://github.com/Angel-125/Buffalo2/wiki",
+        "repository": "https://get.2sb.org/https://github.com/Angel-125/Buffalo2",
+        "bugtracker": "https://get.2sb.org/https://github.com/Angel-125/Buffalo2/issues",
+        "license": "https://get.2sb.org/https://github.com/Angel-125/Buffalo2/blob/main/ReleaseFolder/GameData/WildBlueIndustries/Buffalo2/Readme.txt",
+        "manual": "https://get.2sb.org/https://github.com/Angel-125/Buffalo2/wiki",
         "remote-avc": "https://raw.githubusercontent.com/Angel-125/Buffalo2/main/ReleaseFolder/GameData/WildBlueIndustries/Buffalo2/Buffalo2.version"
     },
     "tags": [
@@ -69,7 +69,7 @@
             "install_to": "Ships"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Angel-125/Buffalo2/releases/download/v1.2/Buffalo2.zip",
+    "download": "https://get.2sb.org/https://github.com/Angel-125/Buffalo2/releases/download/v1.2/Buffalo2.zip",
     "download_size": 106887673,
     "download_hash": {
         "sha1": "3AB43AF1CDA831A58ADB84AC1513031D75527CA3",

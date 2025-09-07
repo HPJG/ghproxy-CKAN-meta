@@ -11,8 +11,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/177292-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/yalov/CommNetAntennasConsumptor",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/yalov/CommNetAntennasConsumptor/issues"
+        "repository": "https://get.2sb.org/https://github.com/yalov/CommNetAntennasConsumptor",
+        "bugtracker": "https://get.2sb.org/https://github.com/yalov/CommNetAntennasConsumptor/issues"
     },
     "tags": [
         "plugin",
@@ -40,7 +40,7 @@
             "name": "RemoteTech"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/yalov/CommNetAntennasConsumptor/releases/download/3.0.0/CommNetAntennasConsumptor-v3.0.0.zip",
+    "download": "https://get.2sb.org/https://github.com/yalov/CommNetAntennasConsumptor/releases/download/3.0.0/CommNetAntennasConsumptor-v3.0.0.zip",
     "download_size": 83253,
     "download_hash": {
         "sha1": "2F63A6E0F5FBFCE00FB06FAE9994CB669C86BBF3",

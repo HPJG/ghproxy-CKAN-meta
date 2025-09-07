@@ -9,8 +9,8 @@
     "license": "MIT",
     "resources": {
         "spacedock": "https://spacedock.info/mod/3699/VABO-Jade",
-        "repository": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/VABOrganizer-Jade",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/VABOrganizer-Jade/issues",
+        "repository": "https://get.2sb.org/https://github.com/JadeOfMaar/VABOrganizer-Jade",
+        "bugtracker": "https://get.2sb.org/https://github.com/JadeOfMaar/VABOrganizer-Jade/issues",
         "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/VABOrganizer-Jade/main/GameData/VABOrganizer-Jade/Version/VABOrganizer-Jade.version"
     },
     "tags": [

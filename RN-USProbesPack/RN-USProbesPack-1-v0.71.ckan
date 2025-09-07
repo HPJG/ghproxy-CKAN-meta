@@ -8,7 +8,7 @@
     "license": "CC-BY-NC-ND-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/84250-122-131-us-probes-pack-old-and-new-v069-4-2-18/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/USProbesPack"
+        "repository": "https://get.2sb.org/https://github.com/KSP-RO/USProbesPack"
     },
     "version": "1:v0.71",
     "ksp_version_min": "1.2.0",
@@ -39,7 +39,7 @@
             "install_to": "Ships"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/USProbesPack/releases/download/v0.71/RN_US_Probes_v0.71.zip",
+    "download": "https://get.2sb.org/https://github.com/KSP-RO/USProbesPack/releases/download/v0.71/RN_US_Probes_v0.71.zip",
     "download_size": 101058304,
     "download_hash": {
         "sha1": "A603156E5F1B5CB049F86AF97E82976854D6CB68",

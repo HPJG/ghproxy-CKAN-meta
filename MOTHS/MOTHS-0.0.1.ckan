@@ -13,9 +13,9 @@
     "license": "CC-BY",
     "resources": {
         "spacedock": "https://spacedock.info/mod/2986/M.O.T.H.S.%20(Developement%20in%20Progress!)",
-        "repository": "https://hk.gh-proxy.com/https://github.com/AtomikkuSan/M.O.T.H.S.",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/AtomikkuSan/M.O.T.H.S./issues",
-        "remote-avc": "https://hk.gh-proxy.com/https://github.com/M.O.T.H.S./raw/main/AtomicTech/ThermalPond.version",
+        "repository": "https://get.2sb.org/https://github.com/AtomikkuSan/M.O.T.H.S.",
+        "bugtracker": "https://get.2sb.org/https://github.com/AtomikkuSan/M.O.T.H.S./issues",
+        "remote-avc": "https://get.2sb.org/https://github.com/M.O.T.H.S./raw/main/AtomicTech/ThermalPond.version",
         "x_screenshot": "https://spacedock.info/content/AtomicTech_61568/M.O.T.H.S/M.O.T.H.S-1645660103.png"
     },
     "tags": [

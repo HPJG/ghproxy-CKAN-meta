@@ -14,9 +14,9 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/191045-*/",
         "spacedock": "https://spacedock.info/mod/1079/SimpleLogistics",
-        "repository": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/SimpleLogistics",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/SimpleLogistics/issues",
-        "discussions": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/SimpleLogistics/discussions",
+        "repository": "https://get.2sb.org/https://github.com/zer0Kerbal/SimpleLogistics",
+        "bugtracker": "https://get.2sb.org/https://github.com/zer0Kerbal/SimpleLogistics/issues",
+        "discussions": "https://get.2sb.org/https://github.com/zer0Kerbal/SimpleLogistics/discussions",
         "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/SimpleLogistics/master/SimpleLogistics.version",
         "x_screenshot": "https://spacedock.info/content/RealGecko_4471/SimpleLogistics/SimpleLogistics-1672393199.png"
     },

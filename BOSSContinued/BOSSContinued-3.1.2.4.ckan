@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/151126-bolt-on-screenshot-system-boss-continued/",
         "spacedock": "https://spacedock.info/mod/1029/Bolt-On%20Screenshot%20System%20(BOSS)%20Continued",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/BOSS_Remastered",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/BOSS_Remastered/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/BOSS_Remastered",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/BOSS_Remastered/issues",
         "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/BOSS_Remastered/refs/heads/master/BOSSContinued.version",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Bolt-On_Screenshot_System_BOSS_Continued/Bolt-On_Screenshot_System_BOSS_Continued-1477796345.425954.png"
     },
@@ -34,7 +34,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/BOSS_Remastered/releases/download/3.1.2.4/BOSSContinued-1.12.0-3.1.2.4.zip",
+        "https://get.2sb.org/https://github.com/linuxgurugamer/BOSS_Remastered/releases/download/3.1.2.4/BOSSContinued-1.12.0-3.1.2.4.zip",
         "https://spacedock.info/mod/1029/Bolt-On%20Screenshot%20System%20(BOSS)%20Continued/download/3.1.2.4"
     ],
     "download_size": 32275,

@@ -12,8 +12,8 @@
     "license": "CC-BY-NC-ND",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/152136-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Galileo88/Galileos-Planet-Pack",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Galileo88/Galileos-Planet-Pack/issues"
+        "repository": "https://get.2sb.org/https://github.com/Galileo88/Galileos-Planet-Pack",
+        "bugtracker": "https://get.2sb.org/https://github.com/Galileo88/Galileos-Planet-Pack/issues"
     },
     "tags": [
         "config"
@@ -32,7 +32,7 @@
             "install_to": "GameData/Nereid/FinalFrontier/Ribbons"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Galileo88/Galileos-Planet-Pack/releases/download/1.6.5.0/Galileos-Planet-Pack-1.6.5.0.zip",
+    "download": "https://get.2sb.org/https://github.com/Galileo88/Galileos-Planet-Pack/releases/download/1.6.5.0/Galileos-Planet-Pack-1.6.5.0.zip",
     "download_size": 363085389,
     "download_hash": {
         "sha1": "54B62137805C046A6A850FD8991F143DC90B83FD",

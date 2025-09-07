@@ -6,7 +6,7 @@
     "author": "MOARdV",
     "license": "CC-BY-4.0",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/MOARdV/DistantObject"
+        "repository": "https://get.2sb.org/https://github.com/MOARdV/DistantObject"
     },
     "version": "v1.7.2",
     "ksp_version_min": "1.1.0",
@@ -36,7 +36,7 @@
             ]
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/MOARdV/DistantObject/releases/download/v1.7.2/DistantObject_1.7.2.zip",
+    "download": "https://get.2sb.org/https://github.com/MOARdV/DistantObject/releases/download/v1.7.2/DistantObject_1.7.2.zip",
     "download_size": 39717,
     "download_hash": {
         "sha1": "64AED47B8071F7E05A7BD95011216DD1D6B7CFC5",

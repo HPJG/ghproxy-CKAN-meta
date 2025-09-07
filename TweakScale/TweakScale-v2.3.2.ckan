@@ -11,7 +11,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/112693",
-        "repository": "https://hk.gh-proxy.com/https://github.com/pellinor0/TweakScale"
+        "repository": "https://get.2sb.org/https://github.com/pellinor0/TweakScale"
     },
     "version": "v2.3.2",
     "ksp_version": "1.2.1",
@@ -21,7 +21,7 @@
             "min_version": "2.5.1"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/pellinor0/TweakScale/releases/download/v2.3.2/TweakScale-v2.3.2.zip",
+    "download": "https://get.2sb.org/https://github.com/pellinor0/TweakScale/releases/download/v2.3.2/TweakScale-v2.3.2.zip",
     "download_size": 116305,
     "download_hash": {
         "sha1": "E9B0575564F50CA46FC6AED9799E00B05B36ADD6",

@@ -7,7 +7,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/111642-HotSpot/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Apokee/HotSpot"
+        "repository": "https://get.2sb.org/https://github.com/Apokee/HotSpot"
     },
     "version": "0.7.2",
     "ksp_version_min": "1.2.0",
@@ -26,7 +26,7 @@
             "name": "Toolbar"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Apokee/HotSpot/releases/download/v0.7.2/HotSpot-0.7.2.zip",
+    "download": "https://get.2sb.org/https://github.com/Apokee/HotSpot/releases/download/v0.7.2/HotSpot-0.7.2.zip",
     "download_size": 36864,
     "download_hash": {
         "sha1": "269CCCB32960DB02D318E99329E08669564251F5",

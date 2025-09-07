@@ -7,7 +7,7 @@
     "license": "restricted",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/57988",
-        "repository": "https://hk.gh-proxy.com/https://github.com/StupidChris/RealChute"
+        "repository": "https://get.2sb.org/https://github.com/StupidChris/RealChute"
     },
     "version": "v1.4.1",
     "ksp_version": "1.1.1",
@@ -17,7 +17,7 @@
             "min_version": "2.6.0"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/StupidChris/RealChute/releases/download/v1.4.1/RealChute.v1.4.1.zip",
+    "download": "https://get.2sb.org/https://github.com/StupidChris/RealChute/releases/download/v1.4.1/RealChute.v1.4.1.zip",
     "download_size": 2702486,
     "download_hash": {
         "sha1": "6E95F3E02CAC3A545617F896CF612C68EACAD793",

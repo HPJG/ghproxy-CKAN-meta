@@ -10,8 +10,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/182572-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/severedsolo/MemorialWall",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/severedsolo/MemorialWall/issues",
+        "repository": "https://get.2sb.org/https://github.com/severedsolo/MemorialWall",
+        "bugtracker": "https://get.2sb.org/https://github.com/severedsolo/MemorialWall/issues",
         "remote-avc": "https://raw.githubusercontent.com:443/severedsolo/MemorialWall/master/GameData/MemorialWall/MemorialWall.version"
     },
     "tags": [
@@ -24,7 +24,7 @@
             "min_version": "3.0"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/severedsolo/MemorialWall/releases/download/2.0.0.2/MemorialWall.zip",
+    "download": "https://get.2sb.org/https://github.com/severedsolo/MemorialWall/releases/download/2.0.0.2/MemorialWall.zip",
     "download_size": 4259,
     "download_hash": {
         "sha1": "73D7D43D6ED9CDA0FEF0053860A34CDC33EFF51A",

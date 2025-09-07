@@ -11,7 +11,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/105289-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/PhineasFreak/SaturableRW"
+        "repository": "https://get.2sb.org/https://github.com/PhineasFreak/SaturableRW"
     },
     "version": "1:v1.6.1-1",
     "ksp_version_min": "1.4.0",
@@ -22,7 +22,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/PhineasFreak/SaturableRW/releases/download/v1.6.1-1/SaturableRW_v1.6.1-1.zip",
+    "download": "https://get.2sb.org/https://github.com/PhineasFreak/SaturableRW/releases/download/v1.6.1-1/SaturableRW_v1.6.1-1.zip",
     "download_size": 33324,
     "download_hash": {
         "sha1": "5C9F44EC46CBEC871980108B31EFCF240C2990D8",

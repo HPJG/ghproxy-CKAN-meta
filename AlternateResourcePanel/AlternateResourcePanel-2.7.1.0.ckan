@@ -8,8 +8,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/60227",
-        "repository": "https://hk.gh-proxy.com/https://github.com/TriggerAu/AlternateResourcePanel",
-        "license": "https://hk.gh-proxy.com/https://github.com/TriggerAu/AlternateResourcePanel/blob/master/LICENSE",
+        "repository": "https://get.2sb.org/https://github.com/TriggerAu/AlternateResourcePanel",
+        "license": "https://get.2sb.org/https://github.com/TriggerAu/AlternateResourcePanel/blob/master/LICENSE",
         "manual": "https://sites.google.com/site/kspalternateresourcepanel/",
         "kerbalstuff": "https://kerbalstuff.com/mod/195/Alternate%20Resource%20Panel",
         "curse": "http://kerbal.curseforge.com/ksp-mods/220649-alternate-resource-panel"

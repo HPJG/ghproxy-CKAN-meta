@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/191543-18x-betterloadsavegame/",
         "spacedock": "https://spacedock.info/mod/2326/Better%20Load%20Save%20Game%20Renewed",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/BetterLoadSaveGame",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/BetterLoadSaveGame/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/BetterLoadSaveGame",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/BetterLoadSaveGame/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/BetterLoadSaveGame",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Better_Load_Save_Game_Renewed/Better_Load_Save_Game_Renewed-1581380790.2555673.jpg"
     },
@@ -29,7 +29,7 @@
             "name": "SpaceTuxLibrary"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/BetterLoadSaveGame/releases/download/2.5.3/BetterLoadSaveGame-1.10.1-2.5.3.zip",
+    "download": "https://get.2sb.org/https://github.com/linuxgurugamer/BetterLoadSaveGame/releases/download/2.5.3/BetterLoadSaveGame-1.10.1-2.5.3.zip",
     "download_size": 27742,
     "download_hash": {
         "sha1": "B0C24FC6049FE06E4B6F32724B1A0B8F06752692",

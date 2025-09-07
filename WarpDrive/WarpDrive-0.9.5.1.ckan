@@ -9,8 +9,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/194174-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/KSP-WarpDrive",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/KSP-WarpDrive/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/KSP-WarpDrive",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/KSP-WarpDrive/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/WarpDrive"
     },
     "tags": [
@@ -36,7 +36,7 @@
             "name": "KSPInterstellarExtended"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/KSP-WarpDrive/releases/download/0.9.5.1/WarpDrive-1.12.0-0.9.5.1.zip",
+    "download": "https://get.2sb.org/https://github.com/linuxgurugamer/KSP-WarpDrive/releases/download/0.9.5.1/WarpDrive-1.12.0-0.9.5.1.zip",
     "download_size": 5714329,
     "download_hash": {
         "sha1": "7F1116D9B4C65742D5CDFB0A2DB6C34723397174",

@@ -6,11 +6,11 @@
     "author": "NathanKell",
     "license": "MIT",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/NathanKell/AeroGUI"
+        "repository": "https://get.2sb.org/https://github.com/NathanKell/AeroGUI"
     },
     "version": "v1",
     "ksp_version": "1.0",
-    "download": "https://hk.gh-proxy.com/https://github.com/NathanKell/AeroGUI/releases/download/v1/AeroGUI_v1.zip",
+    "download": "https://get.2sb.org/https://github.com/NathanKell/AeroGUI/releases/download/v1/AeroGUI_v1.zip",
     "download_size": 7173,
     "download_hash": {
         "sha1": "B8B549A2DA22D208E27CCA74EA350ECF65F1D07A",

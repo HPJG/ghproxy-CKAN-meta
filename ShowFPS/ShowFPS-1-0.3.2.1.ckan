@@ -14,8 +14,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/172692-141-showfps/",
         "spacedock": "https://spacedock.info/mod/1757/ShowFPS",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ShowFPS",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ShowFPS/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/ShowFPS",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/ShowFPS/issues",
         "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/ShowFPS/refs/heads/master/ShowFPS.version",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/ShowFPS/ShowFPS-1521507984.337627.png"
     },
@@ -41,7 +41,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ShowFPS/releases/download/0.3.2.1/ShowFPS-1.12.5-0.3.2.1.zip",
+        "https://get.2sb.org/https://github.com/linuxgurugamer/ShowFPS/releases/download/0.3.2.1/ShowFPS-1.12.5-0.3.2.1.zip",
         "https://spacedock.info/mod/1757/ShowFPS/download/0.3.2.1"
     ],
     "download_size": 26681,

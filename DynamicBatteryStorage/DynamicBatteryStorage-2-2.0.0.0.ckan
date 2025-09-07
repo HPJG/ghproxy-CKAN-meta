@@ -6,8 +6,8 @@
     "author": "ChrisAdderley",
     "license": "MIT",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/ChrisAdderley/DynamicBatteryStorage/wiki",
-        "repository": "https://hk.gh-proxy.com/https://github.com/ChrisAdderley/DynamicBatteryStorage"
+        "homepage": "https://get.2sb.org/https://github.com/ChrisAdderley/DynamicBatteryStorage/wiki",
+        "repository": "https://get.2sb.org/https://github.com/ChrisAdderley/DynamicBatteryStorage"
     },
     "version": "2:2.0.0.0",
     "ksp_version_min": "1.7.0",
@@ -21,7 +21,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/ChrisAdderley/DynamicBatteryStorage/releases/download/2.0.0/DynamicBatteryStorage_2_0_0.zip",
+    "download": "https://get.2sb.org/https://github.com/ChrisAdderley/DynamicBatteryStorage/releases/download/2.0.0/DynamicBatteryStorage_2_0_0.zip",
     "download_size": 54888,
     "download_hash": {
         "sha1": "44F1B32B4DFE2D4F113BCD0146D1CD71F0C2F48B",

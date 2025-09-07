@@ -12,7 +12,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/107989",
-        "repository": "https://hk.gh-proxy.com/https://github.com/DaMichel/KerbalWind"
+        "repository": "https://get.2sb.org/https://github.com/DaMichel/KerbalWind"
     },
     "version": "R6",
     "ksp_version": "0.90",
@@ -34,7 +34,7 @@
             "name": "FARWind"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/DaMichel/KerbalWind/releases/download/R6/KerbalWindR6.zip",
+    "download": "https://get.2sb.org/https://github.com/DaMichel/KerbalWind/releases/download/R6/KerbalWindR6.zip",
     "download_size": 12801,
     "download_hash": {
         "sha1": "F280F56046C568B27E7273966CB0794CB960BA4D",

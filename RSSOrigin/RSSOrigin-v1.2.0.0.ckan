@@ -8,8 +8,8 @@
     "ksp_version": "1.12",
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/CharonSSS/RSS-Origin",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/CharonSSS/RSS-Origin/issues"
+        "repository": "https://get.2sb.org/https://github.com/CharonSSS/RSS-Origin",
+        "bugtracker": "https://get.2sb.org/https://github.com/CharonSSS/RSS-Origin/issues"
     },
     "tags": [
         "planet-pack"
@@ -136,7 +136,7 @@
             "name": "RealSolarSystemExpanded"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/CharonSSS/RSS-Origin/releases/download/v1.2.0.0/RSS-Origin.Core.zip",
+    "download": "https://get.2sb.org/https://github.com/CharonSSS/RSS-Origin/releases/download/v1.2.0.0/RSS-Origin.Core.zip",
     "download_size": 222319053,
     "download_hash": {
         "sha1": "96F1BE1D408A963962C92DC1FE4DC87655F63A73",

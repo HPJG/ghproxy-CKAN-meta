@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://umbraspaceindustries.github.io/UmbraSpaceIndustries/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/UmbraSpaceIndustries/USI_Core"
+        "repository": "https://get.2sb.org/https://github.com/UmbraSpaceIndustries/USI_Core"
     },
     "version": "1.2.0.0",
     "ksp_version_min": "1.6.0",
@@ -49,7 +49,7 @@
             ]
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/UmbraSpaceIndustries/USI_Core/releases/download/1.2.0.0/USICore_1.2.0.0.zip",
+    "download": "https://get.2sb.org/https://github.com/UmbraSpaceIndustries/USI_Core/releases/download/1.2.0.0/USICore_1.2.0.0.zip",
     "download_size": 10539503,
     "download_hash": {
         "sha1": "567ECEC167CFEB9A7E079642D92BBF79E7DF11C2",

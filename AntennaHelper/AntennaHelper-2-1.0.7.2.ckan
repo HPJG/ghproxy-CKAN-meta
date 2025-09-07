@@ -9,7 +9,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/188294-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/Antenna-Helper",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/Antenna-Helper",
         "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/Antenna-Helper/master/AntennaHelper.version"
     },
     "tags": [
@@ -39,7 +39,7 @@
             "find": "AntennaHelper"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/Antenna-Helper/releases/download/1.0.7.2/AntennaHelper-1.8.0-1.0.7.2.zip",
+    "download": "https://get.2sb.org/https://github.com/linuxgurugamer/Antenna-Helper/releases/download/1.0.7.2/AntennaHelper-1.8.0-1.0.7.2.zip",
     "download_size": 127781,
     "download_hash": {
         "sha1": "70836CE4E5E2DBE6F16C5F64EACD66B4E390ACB4",

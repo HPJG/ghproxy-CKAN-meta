@@ -13,8 +13,8 @@
     "license": "CC-BY-NC-ND",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/152136-ksp-13-galileos-planet-pack-v151-8-sept-2017/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Galileo88/Galileos-Planet-Pack",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Galileo88/Galileos-Planet-Pack/issues",
+        "repository": "https://get.2sb.org/https://github.com/Galileo88/Galileos-Planet-Pack",
+        "bugtracker": "https://get.2sb.org/https://github.com/Galileo88/Galileos-Planet-Pack/issues",
         "metanetkan": "https://raw.githubusercontent.com/Galileo88/Galileos-Planet-Pack/master/CKAN/GPPSecondary.netkan"
     },
     "tags": [
@@ -77,7 +77,7 @@
             "comment": "This installs the GPP_Secondary configs for GPP"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Galileo88/Galileos-Planet-Pack/releases/download/1.6.4.0/Galileos-Planet-Pack-1.6.4.0.zip",
+    "download": "https://get.2sb.org/https://github.com/Galileo88/Galileos-Planet-Pack/releases/download/1.6.4.0/Galileos-Planet-Pack-1.6.4.0.zip",
     "download_size": 394299435,
     "download_hash": {
         "sha1": "847FA43A0931062485B04468F061EE72BDF779BE",

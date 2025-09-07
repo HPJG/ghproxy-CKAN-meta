@@ -10,9 +10,9 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/196309-wip-waterfall-a-framework-for-continuous-mesh-driven-engine-effects-dec-19/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/post-kerbin-mining-corporation/Waterfall",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/post-kerbin-mining-corporation/Waterfall/issues",
-        "metanetkan": "https://hk.gh-proxy.com/https://github.com/post-kerbin-mining-corporation/Waterfall/raw/master/CKAN/Waterfall.netkan",
+        "repository": "https://get.2sb.org/https://github.com/post-kerbin-mining-corporation/Waterfall",
+        "bugtracker": "https://get.2sb.org/https://github.com/post-kerbin-mining-corporation/Waterfall/issues",
+        "metanetkan": "https://get.2sb.org/https://github.com/post-kerbin-mining-corporation/Waterfall/raw/master/CKAN/Waterfall.netkan",
         "remote-avc": "https://raw.githubusercontent.com/post-kerbin-mining-corporation/Waterfall/master/GameData/Waterfall/Versioning/Waterfall.version"
     },
     "tags": [
@@ -30,7 +30,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/post-kerbin-mining-corporation/Waterfall/releases/download/0.7.1/Waterfall_0_7_1.zip",
+    "download": "https://get.2sb.org/https://github.com/post-kerbin-mining-corporation/Waterfall/releases/download/0.7.1/Waterfall_0_7_1.zip",
     "download_size": 22092231,
     "download_hash": {
         "sha1": "025AA83DC39D09E258FC3CC9D8CDB1C0AE7EE5B1",

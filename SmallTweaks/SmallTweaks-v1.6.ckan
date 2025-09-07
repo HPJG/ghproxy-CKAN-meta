@@ -10,8 +10,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/152741-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/jenyaza01/SmallTweaks",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/jenyaza01/SmallTweaks/issues"
+        "repository": "https://get.2sb.org/https://github.com/jenyaza01/SmallTweaks",
+        "bugtracker": "https://get.2sb.org/https://github.com/jenyaza01/SmallTweaks/issues"
     },
     "tags": [
         "config"
@@ -28,7 +28,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/jenyaza01/SmallTweaks/releases/download/v1.6/SmallTweaks.v1.6.zip",
+    "download": "https://get.2sb.org/https://github.com/jenyaza01/SmallTweaks/releases/download/v1.6/SmallTweaks.v1.6.zip",
     "download_size": 4261,
     "download_hash": {
         "sha1": "DB7A9F9ABE73215B162A780E125AA362FD5AFB5F",

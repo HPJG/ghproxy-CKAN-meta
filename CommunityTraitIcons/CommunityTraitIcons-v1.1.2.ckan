@@ -16,7 +16,7 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/162509-17x-~-13x-community-trait-icons-icon-library-for-kerbal-crew-types-v111-2019-04-10/",
         "spacedock": "https://spacedock.info/mod/3928/Community%20Trait%20Icons",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/CommunityTraitIcons",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/CommunityTraitIcons",
         "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/CommunityTraitIcons/refs/heads/master/CommunityTraitIcons.version",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Community_Trait_Icons/Community_Trait_Icons-1752872206.png"
     },
@@ -35,7 +35,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/CommunityTraitIcons/releases/download/v1.1.2/CommunityTraitIcons-1.12.0-1.1.2.zip",
+        "https://get.2sb.org/https://github.com/linuxgurugamer/CommunityTraitIcons/releases/download/v1.1.2/CommunityTraitIcons-1.12.0-1.1.2.zip",
         "https://spacedock.info/mod/3928/Community%20Trait%20Icons/download/v1.1.2"
     ],
     "download_size": 26368,

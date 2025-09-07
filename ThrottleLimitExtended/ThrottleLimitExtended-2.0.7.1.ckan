@@ -8,7 +8,7 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/169352-131-throttle-limit-extended/",
         "spacedock": "https://spacedock.info/mod/1640/Throttle%20Limit%20Extended",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ThrottleLimitExtended"
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/ThrottleLimitExtended"
     },
     "version": "2.0.7.1",
     "ksp_version_min": "1.5.1",

@@ -22,7 +22,7 @@
     ],
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/108591-WIP-0-90-Pre-Release-AmpYear-Power-Manager-Reserve-Power-Ion-RCS-v0-12/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/JPLRepo/AmpYear",
+        "repository": "https://get.2sb.org/https://github.com/JPLRepo/AmpYear",
         "kerbalstuff": "https://kerbalstuff.com/mod/630/AmpYear%20Power%20Manager%20+%20Reserve%20Power%20+%20Ion%20RCS"
     },
     "ksp_version": "1.0.4",

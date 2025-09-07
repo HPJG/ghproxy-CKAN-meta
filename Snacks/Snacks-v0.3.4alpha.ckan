@@ -6,7 +6,7 @@
     "author": "tgruetzm",
     "license": "MIT",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/tgruetzm/Snacks"
+        "repository": "https://get.2sb.org/https://github.com/tgruetzm/Snacks"
     },
     "version": "v0.3.4alpha",
     "ksp_version": "0.90",
@@ -15,7 +15,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/tgruetzm/Snacks/releases/download/v0.3.4alpha/Snacks.v0.3.4alpha.zip",
+    "download": "https://get.2sb.org/https://github.com/tgruetzm/Snacks/releases/download/v0.3.4alpha/Snacks.v0.3.4alpha.zip",
     "download_size": 50206,
     "download_hash": {
         "sha1": "7F8984E18D2E10DEA56772019606D97DB497733A",

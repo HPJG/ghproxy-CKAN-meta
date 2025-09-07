@@ -10,8 +10,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/218820-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/DeltaDizzy/MinorPlanetSampling",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/DeltaDizzy/MinorPlanetSampling/issues",
+        "repository": "https://get.2sb.org/https://github.com/DeltaDizzy/MinorPlanetSampling",
+        "bugtracker": "https://get.2sb.org/https://github.com/DeltaDizzy/MinorPlanetSampling/issues",
         "remote-avc": "https://raw.githubusercontent.com/DeltaDizzy/MinorPlanetSampling/main/GameData/MinorPlanetSampling/MinorPlanetSampling.version"
     },
     "tags": [
@@ -28,7 +28,7 @@
             "name": "Harmony2"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/DeltaDizzy/MinorPlanetSampling/releases/download/1.0.1/MinorPlanetSampling-1.0.1.zip",
+    "download": "https://get.2sb.org/https://github.com/DeltaDizzy/MinorPlanetSampling/releases/download/1.0.1/MinorPlanetSampling-1.0.1.zip",
     "download_size": 8051,
     "download_hash": {
         "sha1": "1F1714D2DFD61C5000B2306909086ED327BE0831",

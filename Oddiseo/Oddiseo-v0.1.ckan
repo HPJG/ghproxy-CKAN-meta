@@ -8,10 +8,10 @@
     "ksp_version": "1.10.1",
     "license": "GPL-3.0",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/oddiseo-ksp/oddiseo",
-        "repository": "https://hk.gh-proxy.com/https://github.com/oddiseo-ksp/oddiseo",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/oddiseo-ksp/oddiseo/issues",
-        "license": "https://hk.gh-proxy.com/https://github.com/oddiseo-ksp/oddiseo/licence.md"
+        "homepage": "https://get.2sb.org/https://github.com/oddiseo-ksp/oddiseo",
+        "repository": "https://get.2sb.org/https://github.com/oddiseo-ksp/oddiseo",
+        "bugtracker": "https://get.2sb.org/https://github.com/oddiseo-ksp/oddiseo/issues",
+        "license": "https://get.2sb.org/https://github.com/oddiseo-ksp/oddiseo/licence.md"
     },
     "tags": [
         "agency",
@@ -45,7 +45,7 @@
             "install_to": "GameData/ContractPacks/Oddiseo"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/oddiseo-ksp/oddiseo/releases/download/v0.1/oddiseo-0.1.zip",
+    "download": "https://get.2sb.org/https://github.com/oddiseo-ksp/oddiseo/releases/download/v0.1/oddiseo-0.1.zip",
     "download_size": 42958,
     "download_hash": {
         "sha1": "CC10E835FFC1945BC60B7F481EFA04E1DF110675",

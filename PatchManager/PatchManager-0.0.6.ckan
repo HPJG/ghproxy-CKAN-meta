@@ -6,7 +6,7 @@
     "author": "linuxgurugamer",
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/PatchManager"
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/PatchManager"
     },
     "version": "0.0.6",
     "ksp_version": "1.3.0",
@@ -16,7 +16,7 @@
             "find": "PatchManager"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/PatchManager/releases/download/0.0.6/PatchManager-0.0.6.zip",
+    "download": "https://get.2sb.org/https://github.com/linuxgurugamer/PatchManager/releases/download/0.0.6/PatchManager-0.0.6.zip",
     "download_size": 33442,
     "download_hash": {
         "sha1": "1A0D79CD071901CAC1520D5720AF6DA4192E0549",

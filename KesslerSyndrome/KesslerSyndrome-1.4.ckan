@@ -10,15 +10,15 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/154601-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/severedsolo/KesslerSyndrome",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/severedsolo/KesslerSyndrome/issues",
+        "repository": "https://get.2sb.org/https://github.com/severedsolo/KesslerSyndrome",
+        "bugtracker": "https://get.2sb.org/https://github.com/severedsolo/KesslerSyndrome/issues",
         "remote-avc": "https://raw.githubusercontent.com:443/severedsolo/KesslerSyndrome/master/bin/Release/GameData/KesslerSyndrome/KesslerSyndrome.version"
     },
     "tags": [
         "plugin",
         "physics"
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/severedsolo/KesslerSyndrome/releases/download/1.4/KesslerSyndrome.zip",
+    "download": "https://get.2sb.org/https://github.com/severedsolo/KesslerSyndrome/releases/download/1.4/KesslerSyndrome.zip",
     "download_size": 7122,
     "download_hash": {
         "sha1": "9D9077ABF90DDF57E1BA2E108723F99F9842F9E3",

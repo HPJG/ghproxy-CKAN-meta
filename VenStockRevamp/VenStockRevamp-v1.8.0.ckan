@@ -6,7 +6,7 @@
     "author": "VenVen",
     "license": "CC-BY-4.0",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/VenVen/Stock-Revamp"
+        "repository": "https://get.2sb.org/https://github.com/VenVen/Stock-Revamp"
     },
     "version": "v1.8.0",
     "ksp_version": "1.0.0",
@@ -15,7 +15,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/VenVen/Stock-Revamp/releases/download/v1.8.0/v1.8.0.zip",
+    "download": "https://get.2sb.org/https://github.com/VenVen/Stock-Revamp/releases/download/v1.8.0/v1.8.0.zip",
     "download_size": 44091550,
     "download_hash": {
         "sha1": "AAFE8E8A2002798EB199E6C25AD28BDF67308D0E",

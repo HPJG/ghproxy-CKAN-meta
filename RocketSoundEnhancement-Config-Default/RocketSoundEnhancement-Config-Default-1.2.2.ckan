@@ -9,8 +9,8 @@
     "ksp_version_max": "1.12.99",
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/ensou04/RocketSoundEnhancementDefault",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/ensou04/RocketSoundEnhancementDefault/issues",
+        "repository": "https://get.2sb.org/https://github.com/ensou04/RocketSoundEnhancementDefault",
+        "bugtracker": "https://get.2sb.org/https://github.com/ensou04/RocketSoundEnhancementDefault/issues",
         "remote-avc": "https://raw.githubusercontent.com/ensou04/RocketSoundEnhancementDefault/master/GameData/RocketSoundEnhancementDefault/RocketSoundEnhancementDefault.version"
     },
     "tags": [
@@ -31,7 +31,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/ensou04/RocketSoundEnhancementDefault/releases/download/1.2.2/RocketSoundEnhancement-Default-v1.2.2.zip",
+    "download": "https://get.2sb.org/https://github.com/ensou04/RocketSoundEnhancementDefault/releases/download/1.2.2/RocketSoundEnhancement-Default-v1.2.2.zip",
     "download_size": 99120148,
     "download_hash": {
         "sha1": "6F00C71B26BAB35ED9BB7B5C0A31F2BC1ADB0167",

@@ -10,8 +10,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/72785-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Starstrider42/Custom-Asteroids-Extras",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Starstrider42/Custom-Asteroids-Extras/issues"
+        "repository": "https://get.2sb.org/https://github.com/Starstrider42/Custom-Asteroids-Extras",
+        "bugtracker": "https://get.2sb.org/https://github.com/Starstrider42/Custom-Asteroids-Extras/issues"
     },
     "tags": [
         "config",

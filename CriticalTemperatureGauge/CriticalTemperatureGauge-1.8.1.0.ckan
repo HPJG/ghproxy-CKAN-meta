@@ -13,7 +13,7 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/146239-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/formicant/CriticalTemperatureGauge"
+        "repository": "https://get.2sb.org/https://github.com/formicant/CriticalTemperatureGauge"
     },
     "tags": [
         "plugin",
@@ -37,7 +37,7 @@
             "name": "ToolbarController"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/formicant/CriticalTemperatureGauge/releases/download/1.8.1.0/CriticalTemperatureGauge-1.8.1.0.zip",
+    "download": "https://get.2sb.org/https://github.com/formicant/CriticalTemperatureGauge/releases/download/1.8.1.0/CriticalTemperatureGauge-1.8.1.0.zip",
     "download_size": 22509,
     "download_hash": {
         "sha1": "01C4F7BCB32456BCD0AD33C41C05ADCA16E61F8A",

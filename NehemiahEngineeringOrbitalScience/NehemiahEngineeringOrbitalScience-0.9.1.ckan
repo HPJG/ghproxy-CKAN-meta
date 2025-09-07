@@ -15,8 +15,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?showtopic=149298",
         "spacedock": "https://spacedock.info/mod/1393/Nehemiah%20Engineering%20Orbital%20Science",
-        "repository": "https://hk.gh-proxy.com/https://github.com/mwerle/OrbitalMaterialScience",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/mwerle/OrbitalMaterialScience/issues",
+        "repository": "https://get.2sb.org/https://github.com/mwerle/OrbitalMaterialScience",
+        "bugtracker": "https://get.2sb.org/https://github.com/mwerle/OrbitalMaterialScience/issues",
         "remote-avc": "https://raw.githubusercontent.com/mwerle/OrbitalMaterialScience/master/GameData/NehemiahInc/NEOS.version"
     },
     "tags": [
@@ -104,7 +104,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/mwerle/OrbitalMaterialScience/releases/download/0.9.1/NehemiahEngineeringOrbitalScience_0.9.1.zip",
+    "download": "https://get.2sb.org/https://github.com/mwerle/OrbitalMaterialScience/releases/download/0.9.1/NehemiahEngineeringOrbitalScience_0.9.1.zip",
     "download_size": 17157591,
     "download_hash": {
         "sha1": "FABD6433845A75F7BCAA2DDECD7BAF622B82688F",

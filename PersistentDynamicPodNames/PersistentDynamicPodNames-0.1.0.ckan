@@ -6,8 +6,8 @@
     "author": "linuxgurugamer",
     "license": "CC-BY-SA-4.0",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/PersistentDynamicPodNames",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/PersistentDynamicPodNames"
+        "homepage": "https://get.2sb.org/https://github.com/linuxgurugamer/PersistentDynamicPodNames",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/PersistentDynamicPodNames"
     },
     "version": "0.1.0",
     "ksp_version_min": "1.1.2",
@@ -24,7 +24,7 @@
             "filter_regexp": "ModuleManager.+\\.dll"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/PersistentDynamicPodNames/releases/download/0.1.0/PersistentDynamicPodNames-0.1.0.zip",
+    "download": "https://get.2sb.org/https://github.com/linuxgurugamer/PersistentDynamicPodNames/releases/download/0.1.0/PersistentDynamicPodNames-0.1.0.zip",
     "download_size": 101574,
     "download_hash": {
         "sha1": "628DBC43D484C46C8811FD9345FCFF1FEE43D0CE",

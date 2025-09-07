@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/173508-13114-the-035m-ssr-microsat-and-airlaunch-vehicle/",
         "spacedock": "https://spacedock.info/mod/1795/The%20SSR%20MicroSat:%200.35m%20Probe%20Parts%20Revived",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/MicroSat_0.35m_Probe_Parts",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/MicroSat_0.35m_Probe_Parts/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/MicroSat_0.35m_Probe_Parts",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/MicroSat_0.35m_Probe_Parts/issues",
         "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/MicroSat_0.35m_Probe_Parts/refs/heads/master/MicroSat.version",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/The_SSR_MicroSat_0.35m_Probe_Parts_Revived/The_SSR_MicroSat_0.35m_Probe_Parts_Revived-1522899511.4477434.png"
     },
@@ -58,7 +58,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/MicroSat_0.35m_Probe_Parts/releases/download/0.1.4.2/MicroSat-1.12.0-0.1.4.2.zip",
+        "https://get.2sb.org/https://github.com/linuxgurugamer/MicroSat_0.35m_Probe_Parts/releases/download/0.1.4.2/MicroSat-1.12.0-0.1.4.2.zip",
         "https://spacedock.info/mod/1795/The%20SSR%20MicroSat:%200.35m%20Probe%20Parts%20Revived/download/0.1.4.2"
     ],
     "download_size": 9187320,

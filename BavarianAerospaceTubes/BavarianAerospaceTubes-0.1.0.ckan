@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/209353-112x-bavarian-aerospace-tubes/",
         "spacedock": "https://spacedock.info/mod/3182/Bavarian%20Aerospace:%20Tubes!%20",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/Bavaria",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/Bavaria/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/Bavaria",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/Bavaria/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/Bavaria"
     },
     "tags": [

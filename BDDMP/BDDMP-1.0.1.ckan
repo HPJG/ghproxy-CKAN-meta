@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/167741-131-bddmp-bdac-100/",
         "spacedock": "https://spacedock.info/mod/253/BDArmory%20DMP%20Mod",
-        "repository": "https://hk.gh-proxy.com/https://github.com/jediminer543/BDDMP",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/jediminer543/BDDMP/issues"
+        "repository": "https://get.2sb.org/https://github.com/jediminer543/BDDMP",
+        "bugtracker": "https://get.2sb.org/https://github.com/jediminer543/BDDMP/issues"
     },
     "tags": [
         "plugin",

@@ -10,8 +10,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/73053-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/DaMichel/KerbalFlightData",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/DaMichel/KerbalFlightData/issues"
+        "repository": "https://get.2sb.org/https://github.com/DaMichel/KerbalFlightData",
+        "bugtracker": "https://get.2sb.org/https://github.com/DaMichel/KerbalFlightData/issues"
     },
     "tags": [
         "plugin",
@@ -22,7 +22,7 @@
             "name": "FerramAerospaceResearch"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/DaMichel/KerbalFlightData/releases/download/R23-Ksp1.3-recompile/KerbalFlightDataR23.zip",
+    "download": "https://get.2sb.org/https://github.com/DaMichel/KerbalFlightData/releases/download/R23-Ksp1.3-recompile/KerbalFlightDataR23.zip",
     "download_size": 29062,
     "download_hash": {
         "sha1": "0FA5EBE8AF5B0E4F84A5C1D78203FECEBD7CC820",

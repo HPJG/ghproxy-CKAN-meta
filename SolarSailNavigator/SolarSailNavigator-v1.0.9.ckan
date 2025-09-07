@@ -7,7 +7,7 @@
     "license": "LGPL-2.1",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/107676-wip13-solarsailnavigator-v109/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/bld/SolarSailNavigator"
+        "repository": "https://get.2sb.org/https://github.com/bld/SolarSailNavigator"
     },
     "version": "v1.0.9",
     "ksp_version": "1.3",
@@ -22,7 +22,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/bld/SolarSailNavigator/releases/download/v1.0.9/SolarSailNavigator.v1.0.9.zip",
+    "download": "https://get.2sb.org/https://github.com/bld/SolarSailNavigator/releases/download/v1.0.9/SolarSailNavigator.v1.0.9.zip",
     "download_size": 36292,
     "download_hash": {
         "sha1": "E40521AB5C6AA59A2C561A505667180E4C22E53F",

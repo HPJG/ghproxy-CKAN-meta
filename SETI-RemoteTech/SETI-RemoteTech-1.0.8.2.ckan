@@ -7,7 +7,7 @@
     "license": "GPL-2.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/106130",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Y3mo/SETI-RemoteTech"
+        "repository": "https://get.2sb.org/https://github.com/Y3mo/SETI-RemoteTech"
     },
     "version": "1.0.8.2",
     "ksp_version_min": "1.0.0",
@@ -23,7 +23,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Y3mo/SETI-RemoteTech/releases/download/1.0.8.2/SETI-RemoteTechConfig-1.0.8.2.zip",
+    "download": "https://get.2sb.org/https://github.com/Y3mo/SETI-RemoteTech/releases/download/1.0.8.2/SETI-RemoteTechConfig-1.0.8.2.zip",
     "download_size": 1587,
     "download_hash": {
         "sha1": "8E9563841002CBDAACD37A6A8E5009DE2F9349E9",

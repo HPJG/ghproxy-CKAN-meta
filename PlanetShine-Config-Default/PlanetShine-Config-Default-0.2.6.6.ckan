@@ -13,9 +13,9 @@
     "license": "Apache-2.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/173138-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/PapaJoesSoup/ksp-planetshine",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/PapaJoesSoup/ksp-planetshine/issues",
-        "remote-avc": "https://hk.gh-proxy.com/https://github.com/papajoessoup/ksp-planetshine/raw/master/PlanetShine/Distribution/GameData/PlanetShine/Plugins/PlanetShine.version"
+        "repository": "https://get.2sb.org/https://github.com/PapaJoesSoup/ksp-planetshine",
+        "bugtracker": "https://get.2sb.org/https://github.com/PapaJoesSoup/ksp-planetshine/issues",
+        "remote-avc": "https://get.2sb.org/https://github.com/papajoessoup/ksp-planetshine/raw/master/PlanetShine/Distribution/GameData/PlanetShine/Plugins/PlanetShine.version"
     },
     "tags": [
         "config",
@@ -40,7 +40,7 @@
             "install_to": "GameData/PlanetShine"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/PapaJoesSoup/ksp-planetshine/releases/download/0.2.6.6/PlanetShine.0.2.6.6_02222022.zip",
+    "download": "https://get.2sb.org/https://github.com/PapaJoesSoup/ksp-planetshine/releases/download/0.2.6.6/PlanetShine.0.2.6.6_02222022.zip",
     "download_size": 25923,
     "download_hash": {
         "sha1": "F39371AAB511BA2E918E32A1FDD713217B2D8B3A",

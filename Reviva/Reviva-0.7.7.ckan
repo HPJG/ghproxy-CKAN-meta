@@ -9,8 +9,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/206744-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/harveyt/reviva",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/harveyt/reviva/issues"
+        "repository": "https://get.2sb.org/https://github.com/harveyt/reviva",
+        "bugtracker": "https://get.2sb.org/https://github.com/harveyt/reviva/issues"
     },
     "tags": [
         "plugin",
@@ -67,7 +67,7 @@
             "name": "MK12PodIVAReplacementbyASET"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/harveyt/reviva/releases/download/0.7.7/Reviva-0.7.7.zip",
+    "download": "https://get.2sb.org/https://github.com/harveyt/reviva/releases/download/0.7.7/Reviva-0.7.7.zip",
     "download_size": 53489,
     "download_hash": {
         "sha1": "A7EEC4D12C3412027A3804972CB37DE62272AB22",

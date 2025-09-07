@@ -7,7 +7,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/174303-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/TykoTek/EngineTweaks_for_MakingHistory"
+        "repository": "https://get.2sb.org/https://github.com/TykoTek/EngineTweaks_for_MakingHistory"
     },
     "version": "v1",
     "depends": [
@@ -24,7 +24,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/TykoTek/EngineTweaks_for_MakingHistory/releases/download/v1/EngineTweaks_MH.zip",
+    "download": "https://get.2sb.org/https://github.com/TykoTek/EngineTweaks_for_MakingHistory/releases/download/v1/EngineTweaks_MH.zip",
     "download_size": 2950,
     "download_hash": {
         "sha1": "3B82FC0603F842C13BF3F8C64B8145B365097A70",

@@ -8,7 +8,7 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/112095",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Sigma88/Sigma-OuterSpaceComms"
+        "repository": "https://get.2sb.org/https://github.com/Sigma88/Sigma-OuterSpaceComms"
     },
     "version": "1:v1.0.0",
     "ksp_version": "1.0.4",
@@ -31,7 +31,7 @@
             "install_to": "GameData/Sigma"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Sigma88/Sigma-OuterSpaceComms/releases/download/v1.0.0/Sigma-OuterSpaceComms.v1.0.0.zip",
+    "download": "https://get.2sb.org/https://github.com/Sigma88/Sigma-OuterSpaceComms/releases/download/v1.0.0/Sigma-OuterSpaceComms.v1.0.0.zip",
     "download_size": 924245,
     "download_hash": {
         "sha1": "8EA441FF4C16141C6D726DDBC795AF5B212D3255",

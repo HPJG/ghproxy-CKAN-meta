@@ -6,7 +6,7 @@
     "author": "Starwaster",
     "license": "CC-BY-SA-4.0",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/Starwaster/AnimatedDecouplers"
+        "repository": "https://get.2sb.org/https://github.com/Starwaster/AnimatedDecouplers"
     },
     "version": "v1.4.0",
     "ksp_version_min": "1.4.0",
@@ -25,7 +25,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Starwaster/AnimatedDecouplers/releases/download/v1.4.0/AnimatedDecouplers_v1.4.0.zip",
+    "download": "https://get.2sb.org/https://github.com/Starwaster/AnimatedDecouplers/releases/download/v1.4.0/AnimatedDecouplers_v1.4.0.zip",
     "download_size": 6807,
     "download_hash": {
         "sha1": "83C3A3E60683FC73E331E4A376CBE36525AB920E",

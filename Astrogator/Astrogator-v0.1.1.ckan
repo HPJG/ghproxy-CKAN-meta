@@ -7,13 +7,13 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/155998-122-astrogator",
-        "repository": "https://hk.gh-proxy.com/https://github.com/HebaruSan/Astrogator",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/HebaruSan/Astrogator/issues"
+        "repository": "https://get.2sb.org/https://github.com/HebaruSan/Astrogator",
+        "bugtracker": "https://get.2sb.org/https://github.com/HebaruSan/Astrogator/issues"
     },
     "version": "v0.1.1",
     "ksp_version_min": "1.2.2",
     "ksp_version_max": "1.2.8",
-    "download": "https://hk.gh-proxy.com/https://github.com/HebaruSan/Astrogator/releases/download/v0.1.1/Astrogator.zip",
+    "download": "https://get.2sb.org/https://github.com/HebaruSan/Astrogator/releases/download/v0.1.1/Astrogator.zip",
     "download_size": 75930,
     "download_hash": {
         "sha1": "12BB52E25E9FBA0EEFC40C9D62C1E5E8BA8410DC",

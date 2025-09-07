@@ -13,7 +13,7 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/150666-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/formicant/AutoAction",
+        "repository": "https://get.2sb.org/https://github.com/formicant/AutoAction",
         "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=373"
     },
     "tags": [
@@ -33,7 +33,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/formicant/AutoAction/releases/download/1.12.1/AutoActions1.12.1_ksp1.12.1.zip",
+    "download": "https://get.2sb.org/https://github.com/formicant/AutoAction/releases/download/1.12.1/AutoActions1.12.1_ksp1.12.1.zip",
     "download_size": 21974,
     "download_hash": {
         "sha1": "6239A873FED3DA5E5A8E506545981CE2337C36C9",

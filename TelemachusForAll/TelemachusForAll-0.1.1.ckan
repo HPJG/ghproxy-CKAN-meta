@@ -9,9 +9,9 @@
     "ksp_version_max": "1.8.99",
     "license": "GPL-3.0",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/CraigCottingham/TelemachusForAll",
-        "repository": "https://hk.gh-proxy.com/https://github.com/CraigCottingham/TelemachusForAll",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/CraigCottingham/TelemachusForAll/issues",
+        "homepage": "https://get.2sb.org/https://github.com/CraigCottingham/TelemachusForAll",
+        "repository": "https://get.2sb.org/https://github.com/CraigCottingham/TelemachusForAll",
+        "bugtracker": "https://get.2sb.org/https://github.com/CraigCottingham/TelemachusForAll/issues",
         "remote-avc": "https://raw.githubusercontent.com:443/CraigCottingham/TelemachusForAll/master/TelemachusForAll.version"
     },
     "tags": [
@@ -26,7 +26,7 @@
             "name": "Telemachus"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/CraigCottingham/TelemachusForAll/releases/download/0.1.1/TelemachusForAll-0.1.1.zip",
+    "download": "https://get.2sb.org/https://github.com/CraigCottingham/TelemachusForAll/releases/download/0.1.1/TelemachusForAll-0.1.1.zip",
     "download_size": 42915,
     "download_hash": {
         "sha1": "48D92577B65ACADC35CBD82595903AE20BCADCF3",

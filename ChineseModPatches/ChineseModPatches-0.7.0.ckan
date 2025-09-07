@@ -7,8 +7,8 @@
     "version": "0.7.0",
     "license": "CC-BY-4.0",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/tinygrox/KSP_Chinese_Patches",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/tinygrox/KSP_Chinese_Patches/issues"
+        "repository": "https://get.2sb.org/https://github.com/tinygrox/KSP_Chinese_Patches",
+        "bugtracker": "https://get.2sb.org/https://github.com/tinygrox/KSP_Chinese_Patches/issues"
     },
     "tags": [
         "config"
@@ -98,7 +98,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/tinygrox/KSP_Chinese_Patches/releases/download/0.7.0/KSP_Chinese_Patches_0.7.0.zip",
+    "download": "https://get.2sb.org/https://github.com/tinygrox/KSP_Chinese_Patches/releases/download/0.7.0/KSP_Chinese_Patches_0.7.0.zip",
     "download_size": 206426,
     "download_hash": {
         "sha1": "F287C5244311A21E4C47E562CF1C55D858B74288",

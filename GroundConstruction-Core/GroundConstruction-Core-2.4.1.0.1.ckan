@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/154167-122-ground-construction",
         "spacedock": "https://spacedock.info/mod/1123/Ground%20Construction",
-        "repository": "https://hk.gh-proxy.com/https://github.com/allista/GroundConstruction",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/allista/GroundConstruction/issues",
+        "repository": "https://get.2sb.org/https://github.com/allista/GroundConstruction",
+        "bugtracker": "https://get.2sb.org/https://github.com/allista/GroundConstruction/issues",
         "metanetkan": "https://raw.githubusercontent.com/allista/GroundConstruction/master/GroundConstruction-Core.netkan",
         "x_screenshot": "https://spacedock.info/content/allista_931/Ground_Construction/Ground_Construction-1536838498.3931928.png"
     },

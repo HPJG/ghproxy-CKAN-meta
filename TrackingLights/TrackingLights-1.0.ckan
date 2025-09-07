@@ -10,13 +10,13 @@
     "license": "CC-BY-NC-SA-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/164677-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/droric/TrackingLights"
+        "repository": "https://get.2sb.org/https://github.com/droric/TrackingLights"
     },
     "tags": [
         "plugin",
         "parts"
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/droric/TrackingLights/releases/download/1.0/TrackingLights.zip",
+    "download": "https://get.2sb.org/https://github.com/droric/TrackingLights/releases/download/1.0/TrackingLights.zip",
     "download_size": 425415,
     "download_hash": {
         "sha1": "C181CA1590D05D07CC8C2CA989847B32AB581219",

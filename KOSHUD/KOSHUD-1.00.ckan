@@ -8,10 +8,10 @@
     "ksp_version": "1.12.5",
     "license": "MIT",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/FuzzyMeepTWO/koshud",
+        "homepage": "https://get.2sb.org/https://github.com/FuzzyMeepTWO/koshud",
         "spacedock": "https://spacedock.info/mod/3497/KOSHUD",
-        "repository": "https://hk.gh-proxy.com/https://github.com/FuzzyMeepTWO/koshud",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/FuzzyMeepTWO/koshud/issues",
+        "repository": "https://get.2sb.org/https://github.com/FuzzyMeepTWO/koshud",
+        "bugtracker": "https://get.2sb.org/https://github.com/FuzzyMeepTWO/koshud/issues",
         "x_screenshot": "https://spacedock.info/content/FuzzyMeepTWO_125297/KOSHUD/KOSHUD-1699289413.png"
     },
     "tags": [

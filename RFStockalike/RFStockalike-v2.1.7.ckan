@@ -8,7 +8,7 @@
     "license": "CC-BY-SA",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/81239",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Raptor831/RFStockalike"
+        "repository": "https://get.2sb.org/https://github.com/Raptor831/RFStockalike"
     },
     "version": "v2.1.7",
     "provides": [
@@ -28,7 +28,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Raptor831/RFStockalike/releases/download/v2.1.7/RFStockalike_2_1_7.zip",
+    "download": "https://get.2sb.org/https://github.com/Raptor831/RFStockalike/releases/download/v2.1.7/RFStockalike_2_1_7.zip",
     "download_size": 126905,
     "download_hash": {
         "sha1": "04172F7002A23EDD09F63443CAD7E9EAD40AD00D",

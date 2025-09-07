@@ -9,9 +9,9 @@
     "license": "restricted",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/219609-*/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/SterlingSystems",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/SterlingSystems/issues",
-        "discussions": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/SterlingSystems/discussions",
+        "repository": "https://get.2sb.org/https://github.com/JadeOfMaar/SterlingSystems",
+        "bugtracker": "https://get.2sb.org/https://github.com/JadeOfMaar/SterlingSystems/issues",
+        "discussions": "https://get.2sb.org/https://github.com/JadeOfMaar/SterlingSystems/discussions",
         "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/SterlingSystems/main/GameData/SterlingSystems/Version/SterlingSystems.version"
     },
     "tags": [
@@ -42,7 +42,7 @@
             "install_to": "GameData/SterlingSystems"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/SterlingSystems/releases/download/0.4.10/SterlingSystems_Engines_0.4.10.zip",
+    "download": "https://get.2sb.org/https://github.com/JadeOfMaar/SterlingSystems/releases/download/0.4.10/SterlingSystems_Engines_0.4.10.zip",
     "download_size": 41982858,
     "download_hash": {
         "sha1": "0EBF8DF3C36D330619DA365F6235CD94A770986C",

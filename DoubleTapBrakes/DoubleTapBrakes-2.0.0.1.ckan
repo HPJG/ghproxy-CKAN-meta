@@ -10,15 +10,15 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/163950-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/severedsolo/DoubleTapBrakes",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/severedsolo/DoubleTapBrakes/issues",
+        "repository": "https://get.2sb.org/https://github.com/severedsolo/DoubleTapBrakes",
+        "bugtracker": "https://get.2sb.org/https://github.com/severedsolo/DoubleTapBrakes/issues",
         "remote-avc": "https://raw.githubusercontent.com:443/severedsolo/DoubleTapBrakes/master/bin/Release/GameData/DoubleTapBrakes/DoubleTapBrakes.version"
     },
     "tags": [
         "plugin",
         "convenience"
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/severedsolo/DoubleTapBrakes/releases/download/2.0.0.1/DoubleTapBrakes.zip",
+    "download": "https://get.2sb.org/https://github.com/severedsolo/DoubleTapBrakes/releases/download/2.0.0.1/DoubleTapBrakes.zip",
     "download_size": 2891,
     "download_hash": {
         "sha1": "9C3F687159CBC0BF8FAB68F0F055351FF9506452",

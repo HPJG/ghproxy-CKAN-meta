@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/225510-1125-realtime/",
         "spacedock": "https://spacedock.info/mod/3679/Realtime",
-        "repository": "https://hk.gh-proxy.com/https://github.com/markusa380/Realtime",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/markusa380/Realtime/issues"
+        "repository": "https://get.2sb.org/https://github.com/markusa380/Realtime",
+        "bugtracker": "https://get.2sb.org/https://github.com/markusa380/Realtime/issues"
     },
     "tags": [
         "plugin"
@@ -22,7 +22,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/markusa380/Realtime/releases/download/v0.3.0/Realtime_v0.3.0.zip",
+        "https://get.2sb.org/https://github.com/markusa380/Realtime/releases/download/v0.3.0/Realtime_v0.3.0.zip",
         "https://spacedock.info/mod/3679/Realtime/download/0.3.0"
     ],
     "download_size": 17000,

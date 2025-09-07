@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/201121-19x",
         "spacedock": "https://spacedock.info/mod/2660/PersistentRotation%20Upgraded",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/PersistentRotation",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/PersistentRotation/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/PersistentRotation",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/PersistentRotation/issues",
         "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/PersistentRotation/refs/heads/master/PersistentRotationUpgraded.version",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/PersistentRotation_Upgraded/PersistentRotation_Upgraded-1616212727.442817.jpg"
     },
@@ -53,7 +53,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/PersistentRotation/releases/download/1.9.2/PersistentRotationUpgraded-1.12.0-1.9.2.zip",
+        "https://get.2sb.org/https://github.com/linuxgurugamer/PersistentRotation/releases/download/1.9.2/PersistentRotationUpgraded-1.12.0-1.9.2.zip",
         "https://spacedock.info/mod/2660/PersistentRotation%20Upgraded/download/1.9.2"
     ],
     "download_size": 33571,

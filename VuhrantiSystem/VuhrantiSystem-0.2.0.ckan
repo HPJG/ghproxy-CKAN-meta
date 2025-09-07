@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/226352-wip112x-vuhrantisystem-a-real-scale-planet-pack-for-ksp-v010-welcome-to-vuhanti/",
         "spacedock": "https://spacedock.info/mod/3774/VuhrantiSystem",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Oprissmian/VuhrantiSystem",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Oprissmian/VuhrantiSystem/issues"
+        "repository": "https://get.2sb.org/https://github.com/Oprissmian/VuhrantiSystem",
+        "bugtracker": "https://get.2sb.org/https://github.com/Oprissmian/VuhrantiSystem/issues"
     },
     "tags": [
         "config",
@@ -44,7 +44,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/Oprissmian/VuhrantiSystem/releases/download/0.2.0/VuhrantiSystem-0.2.0.zip",
+        "https://get.2sb.org/https://github.com/Oprissmian/VuhrantiSystem/releases/download/0.2.0/VuhrantiSystem-0.2.0.zip",
         "https://spacedock.info/mod/3774/VuhrantiSystem/download/0.2.0"
     ],
     "download_size": 159287242,

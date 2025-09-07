@@ -12,8 +12,8 @@
     "ksp_version_max": "1.12.99",
     "license": "GPL-3.0",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/FirstPersonKSP/kOSPropMonitor",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/FirstPersonKSP/kOSPropMonitor/issues",
+        "repository": "https://get.2sb.org/https://github.com/FirstPersonKSP/kOSPropMonitor",
+        "bugtracker": "https://get.2sb.org/https://github.com/FirstPersonKSP/kOSPropMonitor/issues",
         "remote-avc": "https://raw.githubusercontent.com/JonnyOThan/kOSPropMonitor/master/GameData/kPM/kOSPropMonitor.version"
     },
     "install": [
@@ -22,7 +22,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/FirstPersonKSP/kOSPropMonitor/releases/download/v1.7.3.0/kOSPropMonitor-1.7.3.0.zip",
+    "download": "https://get.2sb.org/https://github.com/FirstPersonKSP/kOSPropMonitor/releases/download/v1.7.3.0/kOSPropMonitor-1.7.3.0.zip",
     "download_size": 112762,
     "download_hash": {
         "sha1": "70DA74C5525026C0C759E18920BEA5A043E0C8C2",

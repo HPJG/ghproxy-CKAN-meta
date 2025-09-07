@@ -6,7 +6,7 @@
     "author": "linuxgurugamer",
     "license": "GPL-3.0",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/DraftTwitchViewers"
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/DraftTwitchViewers"
     },
     "version": "2.6.0",
     "ksp_version_min": "1.4.1",
@@ -25,7 +25,7 @@
             "find": "DraftTwitchViewers"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/DraftTwitchViewers/releases/download/2.6.0/DraftTwitchViewers-2.6.0.zip",
+    "download": "https://get.2sb.org/https://github.com/linuxgurugamer/DraftTwitchViewers/releases/download/2.6.0/DraftTwitchViewers-2.6.0.zip",
     "download_size": 240191,
     "download_hash": {
         "sha1": "56705AE1107FEB891F0225E689CA63D6244286E5",

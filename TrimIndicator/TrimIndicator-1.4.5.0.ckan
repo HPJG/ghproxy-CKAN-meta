@@ -9,12 +9,12 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/164522-trim-indicator",
-        "repository": "https://hk.gh-proxy.com/https://github.com/formicant/TrimIndicator"
+        "repository": "https://get.2sb.org/https://github.com/formicant/TrimIndicator"
     },
     "version": "1.4.5.0",
     "ksp_version_min": "1.2.2",
     "ksp_version_max": "1.4.5",
-    "download": "https://hk.gh-proxy.com/https://github.com/formicant/TrimIndicator/releases/download/1.4.5.0/TrimIndicator1.4.5.0.zip",
+    "download": "https://get.2sb.org/https://github.com/formicant/TrimIndicator/releases/download/1.4.5.0/TrimIndicator1.4.5.0.zip",
     "download_size": 5282,
     "download_hash": {
         "sha1": "2248D093881BA2A404AE5BC45DE6AED911013E7F",

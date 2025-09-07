@@ -10,8 +10,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/161898-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/HaArLiNsH/TRR_MyTextureMod",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/HaArLiNsH/TRR_MyTextureMod/issues"
+        "repository": "https://get.2sb.org/https://github.com/HaArLiNsH/TRR_MyTextureMod",
+        "bugtracker": "https://get.2sb.org/https://github.com/HaArLiNsH/TRR_MyTextureMod/issues"
     },
     "tags": [
         "config",
@@ -38,7 +38,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/HaArLiNsH/TRR_MyTextureMod/releases/download/V1.0/TRR_MyTextureMod.V1.0.zip",
+    "download": "https://get.2sb.org/https://github.com/HaArLiNsH/TRR_MyTextureMod/releases/download/V1.0/TRR_MyTextureMod.V1.0.zip",
     "download_size": 3588,
     "download_hash": {
         "sha1": "395BD3879F7D7DA5E37072A8E4AE8CA9E4552987",

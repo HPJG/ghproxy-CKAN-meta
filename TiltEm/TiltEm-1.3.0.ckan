@@ -9,9 +9,9 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/179281-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/LunaMultiplayer/TiltEm",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/LunaMultiplayer/TiltEm/issues",
-        "remote-avc": "https://hk.gh-proxy.com/https://github.com/LunaMultiplayer/TiltEm/raw/master/Resources/TiltEm.version"
+        "repository": "https://get.2sb.org/https://github.com/LunaMultiplayer/TiltEm",
+        "bugtracker": "https://get.2sb.org/https://github.com/LunaMultiplayer/TiltEm/issues",
+        "remote-avc": "https://get.2sb.org/https://github.com/LunaMultiplayer/TiltEm/raw/master/Resources/TiltEm.version"
     },
     "tags": [
         "plugin",
@@ -34,7 +34,7 @@
             "name": "Kopernicus"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/LunaMultiplayer/TiltEm/releases/download/1.3.0/TiltEm-1.3.0-Release.zip",
+    "download": "https://get.2sb.org/https://github.com/LunaMultiplayer/TiltEm/releases/download/1.3.0/TiltEm-1.3.0-Release.zip",
     "download_size": 65580,
     "download_hash": {
         "sha1": "53AFC4F604DDEAE812086A5A97523139C63B6C70",

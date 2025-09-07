@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?showtopic=159101",
-        "repository": "https://hk.gh-proxy.com/https://github.com/blowfishpro/SimpleAdjustableFairings"
+        "repository": "https://get.2sb.org/https://github.com/blowfishpro/SimpleAdjustableFairings"
     },
     "version": "v1.2.0",
     "ksp_version": "1.4.5",
@@ -18,7 +18,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/blowfishpro/SimpleAdjustableFairings/releases/download/v1.2.0/SimpleAdjustableFairings_v1.2.0.zip",
+    "download": "https://get.2sb.org/https://github.com/blowfishpro/SimpleAdjustableFairings/releases/download/v1.2.0/SimpleAdjustableFairings_v1.2.0.zip",
     "download_size": 18876,
     "download_hash": {
         "sha1": "1EB2D38BA38AA160E71DB5703A083EDB6C9FB7D3",

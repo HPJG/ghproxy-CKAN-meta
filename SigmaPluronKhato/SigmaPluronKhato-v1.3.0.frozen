@@ -7,7 +7,7 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/112095",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Sigma88/Sigma-PluronKhato"
+        "repository": "https://get.2sb.org/https://github.com/Sigma88/Sigma-PluronKhato"
     },
     "version": "v1.3.0",
     "ksp_version": "1.1.2",
@@ -42,7 +42,7 @@
             "install_to": "GameData/Sigma"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Sigma88/Sigma-PluronKhato/releases/download/v1.3.0/Sigma-PluronKhato.v1.3.0.zip",
+    "download": "https://get.2sb.org/https://github.com/Sigma88/Sigma-PluronKhato/releases/download/v1.3.0/Sigma-PluronKhato.v1.3.0.zip",
     "download_size": 3164891,
     "download_hash": {
         "sha1": "18EAA0A8A6DC68EAB145D28A802C5915D43C13BE",

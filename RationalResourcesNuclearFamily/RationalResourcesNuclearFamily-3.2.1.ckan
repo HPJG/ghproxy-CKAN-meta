@@ -9,9 +9,9 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/184875-*/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/RationalResources",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/RationalResources/issues",
-        "discussions": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/RationalResources/discussions",
+        "repository": "https://get.2sb.org/https://github.com/JadeOfMaar/RationalResources",
+        "bugtracker": "https://get.2sb.org/https://github.com/JadeOfMaar/RationalResources/issues",
+        "discussions": "https://get.2sb.org/https://github.com/JadeOfMaar/RationalResources/discussions",
         "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/RationalResources/master/GameData/RationalResources/Version/RationalResources.version"
     },
     "tags": [
@@ -49,7 +49,7 @@
             "name": "KerbalAtomics-NTRModSupport"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/RationalResources/releases/download/3.2.1/RationalResources-3.2.1.zip",
+    "download": "https://get.2sb.org/https://github.com/JadeOfMaar/RationalResources/releases/download/3.2.1/RationalResources-3.2.1.zip",
     "download_size": 38957494,
     "download_hash": {
         "sha1": "8CF768138BA8811A02D36289019F13774AFAE586",

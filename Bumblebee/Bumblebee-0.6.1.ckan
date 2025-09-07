@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/193843-bumblebee/",
         "spacedock": "https://spacedock.info/mod/2428/Bumblebee",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Rodg88/BumbleBee",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Rodg88/BumbleBee/issues",
+        "repository": "https://get.2sb.org/https://github.com/Rodg88/BumbleBee",
+        "bugtracker": "https://get.2sb.org/https://github.com/Rodg88/BumbleBee/issues",
         "x_screenshot": "https://spacedock.info/content/Rodg88_364/Bumblebee/Bumblebee-1589382881.8068674.png"
     },
     "tags": [
@@ -59,7 +59,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/Rodg88/BumbleBee/releases/download/0.6.1/Bumblebee0.6.1.zip",
+        "https://get.2sb.org/https://github.com/Rodg88/BumbleBee/releases/download/0.6.1/Bumblebee0.6.1.zip",
         "https://spacedock.info/mod/2428/Bumblebee/download/0.6.1"
     ],
     "download_size": 12646560,

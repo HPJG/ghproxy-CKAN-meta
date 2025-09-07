@@ -12,7 +12,7 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/56643-*",
         "curse": "http://kerbal.curseforge.com/plugins/220357-ship-manifest",
-        "repository": "https://hk.gh-proxy.com/https://github.com/PapaJoesSoup/ShipManifest"
+        "repository": "https://get.2sb.org/https://github.com/PapaJoesSoup/ShipManifest"
     },
     "tags": [
         "plugin",
@@ -43,7 +43,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/PapaJoesSoup/ShipManifest/releases/download/5.2.1.0/ShipManifest.5.2.1.0_03172018.zip",
+    "download": "https://get.2sb.org/https://github.com/PapaJoesSoup/ShipManifest/releases/download/5.2.1.0/ShipManifest.5.2.1.0_03172018.zip",
     "download_size": 688106,
     "download_hash": {
         "sha1": "043976784DB23AF8DF8E9594B1C3BE8A99BA388D",

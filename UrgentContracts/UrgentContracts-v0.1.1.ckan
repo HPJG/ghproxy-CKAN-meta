@@ -9,9 +9,9 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/183810-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/GarwelGarwel/UrgentContracts",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/GarwelGarwel/UrgentContracts/issues",
-        "remote-avc": "https://hk.gh-proxy.com/https://github.com/GarwelGarwel/UrgentContracts/raw/master/GameData/UrgentContracts/UrgentContracts.version"
+        "repository": "https://get.2sb.org/https://github.com/GarwelGarwel/UrgentContracts",
+        "bugtracker": "https://get.2sb.org/https://github.com/GarwelGarwel/UrgentContracts/issues",
+        "remote-avc": "https://get.2sb.org/https://github.com/GarwelGarwel/UrgentContracts/raw/master/GameData/UrgentContracts/UrgentContracts.version"
     },
     "tags": [
         "plugin",
@@ -22,7 +22,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/GarwelGarwel/UrgentContracts/releases/download/v0.1.1/UrgentContracts_0.1.1.zip",
+    "download": "https://get.2sb.org/https://github.com/GarwelGarwel/UrgentContracts/releases/download/v0.1.1/UrgentContracts_0.1.1.zip",
     "download_size": 10801,
     "download_hash": {
         "sha1": "A90B108CD504663A62C0371EADA0EBF782A97901",

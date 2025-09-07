@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/52042-0-21",
-        "repository": "https://hk.gh-proxy.com/https://github.com/ChrisAdderley/NearFuturePropulsion"
+        "repository": "https://get.2sb.org/https://github.com/ChrisAdderley/NearFuturePropulsion"
     },
     "version": "0.6.1",
     "ksp_version": "1.0.5",
@@ -63,7 +63,7 @@
             "filter": ".DS_Store"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/ChrisAdderley/NearFuturePropulsion/releases/download/0.6.1/NearFuturePropulsion0_6_1.zip",
+    "download": "https://get.2sb.org/https://github.com/ChrisAdderley/NearFuturePropulsion/releases/download/0.6.1/NearFuturePropulsion0_6_1.zip",
     "download_size": 36302994,
     "download_hash": {
         "sha1": "3E1DA04F9AEC80A4C3A4308B0AB7BDF891CE2B39",

@@ -8,8 +8,8 @@
     "ksp_version_min": "1.8.0",
     "license": "GPL-3.0",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/aspctt/OCCULT",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/aspctt/OCCULT/issues",
+        "repository": "https://get.2sb.org/https://github.com/aspctt/OCCULT",
+        "bugtracker": "https://get.2sb.org/https://github.com/aspctt/OCCULT/issues",
         "remote-avc": "https://raw.githubusercontent.com/aspctt/occult/main/OCCULT.version"
     },
     "tags": [
@@ -37,7 +37,7 @@
             "name": "SystemHeat-FissionEngines"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/aspctt/OCCULT/releases/download/1.4.3.0/OCCULT-1.4.3.0.zip",
+    "download": "https://get.2sb.org/https://github.com/aspctt/OCCULT/releases/download/1.4.3.0/OCCULT-1.4.3.0.zip",
     "download_size": 31120,
     "download_hash": {
         "sha1": "E19D259B14E3F0E328C0AB077EB4FF6B38633D72",

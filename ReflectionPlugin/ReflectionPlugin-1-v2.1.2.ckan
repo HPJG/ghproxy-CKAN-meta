@@ -13,8 +13,8 @@
     "ksp_version_max": "1.4.2",
     "license": "Unlicense",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/raidernick/Reflection-Plugin-Continued",
-        "repository": "https://hk.gh-proxy.com/https://github.com/raidernick/Reflection-Plugin-Continued"
+        "homepage": "https://get.2sb.org/https://github.com/raidernick/Reflection-Plugin-Continued",
+        "repository": "https://get.2sb.org/https://github.com/raidernick/Reflection-Plugin-Continued"
     },
     "tags": [
         "plugin",
@@ -26,7 +26,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/raidernick/Reflection-Plugin-Continued/releases/download/v2.1.2/ReflectionPlugin_v2.1.2.zip",
+    "download": "https://get.2sb.org/https://github.com/raidernick/Reflection-Plugin-Continued/releases/download/v2.1.2/ReflectionPlugin_v2.1.2.zip",
     "download_size": 1063178,
     "download_hash": {
         "sha1": "DE7B4EDC22740026728F55BB4D0F94107C4EB259",

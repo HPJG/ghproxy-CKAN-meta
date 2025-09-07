@@ -11,7 +11,7 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/192539-all-versions-kerbal-tubes-beta/",
         "spacedock": "https://spacedock.info/mod/2404/Kerbal%20Tubes",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/KerbalTubes/releases",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/KerbalTubes/releases",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Kerbal_Tubes/Kerbal_Tubes-1586822826.391896.png"
     },
     "recommends": [

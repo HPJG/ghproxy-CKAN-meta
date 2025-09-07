@@ -8,8 +8,8 @@
     "ksp_version": "1.12.5",
     "license": "MIT",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/kevnokeeffe/AsteroidCleaner",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/kevnokeeffe/AsteroidCleaner/issues"
+        "repository": "https://get.2sb.org/https://github.com/kevnokeeffe/AsteroidCleaner",
+        "bugtracker": "https://get.2sb.org/https://github.com/kevnokeeffe/AsteroidCleaner/issues"
     },
     "tags": [
         "plugin"
@@ -24,7 +24,7 @@
             "name": "AsteroidSpawnLimiter"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/kevnokeeffe/AsteroidCleaner/releases/download/v1.0.0/AsteroidCleaner-v1.0.0.zip",
+    "download": "https://get.2sb.org/https://github.com/kevnokeeffe/AsteroidCleaner/releases/download/v1.0.0/AsteroidCleaner-v1.0.0.zip",
     "download_size": 6517,
     "download_hash": {
         "sha1": "B07D0FDB940AD736B71D220BE98CB0FACFE7EFA5",

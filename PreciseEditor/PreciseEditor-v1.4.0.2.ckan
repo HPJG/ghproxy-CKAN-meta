@@ -14,7 +14,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/184193-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/zolotiyeruki/PreciseEditor",
+        "repository": "https://get.2sb.org/https://github.com/zolotiyeruki/PreciseEditor",
         "remote-avc": "https://raw.githubusercontent.com/zolotiyeruki/PreciseEditor/master/PreciseEditor.version"
     },
     "tags": [
@@ -22,7 +22,7 @@
         "editor",
         "information"
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/zolotiyeruki/PreciseEditor/releases/download/v1.4.0.2/PreciseEditor.zip",
+    "download": "https://get.2sb.org/https://github.com/zolotiyeruki/PreciseEditor/releases/download/v1.4.0.2/PreciseEditor.zip",
     "download_size": 33497,
     "download_hash": {
         "sha1": "734227F9B68BDD9B9C4BF3194FB25BFD3906BD08",

@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/208760-180-112x-baker-operating-system-v210-a-kos-rpm-iva-gui-autopilot-script/",
         "spacedock": "https://spacedock.info/mod/3052/Baker%20Operating%20System",
-        "repository": "https://hk.gh-proxy.com/https://github.com/SelfAwareMatter/BakerOS",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/SelfAwareMatter/BakerOS/issues",
+        "repository": "https://get.2sb.org/https://github.com/SelfAwareMatter/BakerOS",
+        "bugtracker": "https://get.2sb.org/https://github.com/SelfAwareMatter/BakerOS/issues",
         "x_screenshot": "https://spacedock.info/content/SelfAwareMatter_84089/Baker_Operating_System_v2.1.0/Baker_Operating_System_v2.1.0-1656615879.jpg"
     },
     "tags": [

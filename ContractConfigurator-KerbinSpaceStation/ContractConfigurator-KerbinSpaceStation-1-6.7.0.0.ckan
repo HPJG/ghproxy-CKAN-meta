@@ -7,7 +7,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/162133-13-contract-pack-bases-and-stations-continued/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/LemonSkin/KerbinSpaceStation"
+        "repository": "https://get.2sb.org/https://github.com/LemonSkin/KerbinSpaceStation"
     },
     "version": "1:6.7.0.0",
     "ksp_version_min": "1.2.2",
@@ -31,7 +31,7 @@
             "install_to": "GameData/ContractPacks"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/LemonSkin/KerbinSpaceStation/releases/download/6.7.0.0/KerbinSpaceStation7.0.0.zip",
+    "download": "https://get.2sb.org/https://github.com/LemonSkin/KerbinSpaceStation/releases/download/6.7.0.0/KerbinSpaceStation7.0.0.zip",
     "download_size": 53947,
     "download_hash": {
         "sha1": "D6B6BC7F2FD21C0F0AF301D53AACFF795E3798D5",

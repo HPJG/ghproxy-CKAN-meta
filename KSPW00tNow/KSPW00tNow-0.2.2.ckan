@@ -9,8 +9,8 @@
     "license": "MPL-2.0",
     "resources": {
         "spacedock": "https://spacedock.info/mod/2630/KSPW00tNow",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Kristallranke/KSPW00tNow",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Kristallranke/KSPW00tNow/issues"
+        "repository": "https://get.2sb.org/https://github.com/Kristallranke/KSPW00tNow",
+        "bugtracker": "https://get.2sb.org/https://github.com/Kristallranke/KSPW00tNow/issues"
     },
     "tags": [
         "plugin",
@@ -31,7 +31,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/Kristallranke/KSPW00tNow/releases/download/v0.2.2/KSPW00tNow.zip",
+        "https://get.2sb.org/https://github.com/Kristallranke/KSPW00tNow/releases/download/v0.2.2/KSPW00tNow.zip",
         "https://spacedock.info/mod/2630/KSPW00tNow/download/0.2.2"
     ],
     "download_size": 413479,

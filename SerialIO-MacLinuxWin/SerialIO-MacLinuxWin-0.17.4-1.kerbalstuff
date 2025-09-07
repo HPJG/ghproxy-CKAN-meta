@@ -6,9 +6,9 @@
     "author": "marzubus",
     "license": "GPL-3.0",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/unixunion/KSPSerialIO/wiki",
+        "homepage": "https://get.2sb.org/https://github.com/unixunion/KSPSerialIO/wiki",
         "kerbalstuff": "https://kerbalstuff.com/mod/540/KSPSerialIO%20Mac/Linux/Win",
-        "repository": "https://hk.gh-proxy.com/https://github.com/unixunion/KSPSerialIO",
+        "repository": "https://get.2sb.org/https://github.com/unixunion/KSPSerialIO",
         "x_screenshot": "https://kerbalstuff.com/content/marzubus_5843/KSPSerialIO_Mac_Linux_Win/KSPSerialIO_Mac_Linux_Win.jpg"
     },
     "version": "0.17.4-1",

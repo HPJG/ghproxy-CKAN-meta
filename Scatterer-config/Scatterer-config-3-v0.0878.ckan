@@ -12,8 +12,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/103963-wip-scatterer-atmospheric-scattering",
         "spacedock": "https://spacedock.info/mod/141/Scatterer",
-        "repository": "https://hk.gh-proxy.com/https://github.com/LGhassen/Scatterer",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/LGhassen/Scatterer/issues",
+        "repository": "https://get.2sb.org/https://github.com/LGhassen/Scatterer",
+        "bugtracker": "https://get.2sb.org/https://github.com/LGhassen/Scatterer/issues",
         "x_screenshot": "https://spacedock.info/content/blackrack_378/Scatterer/Scatterer-1668709295.png"
     },
     "tags": [
@@ -37,7 +37,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/LGhassen/Scatterer/releases/download/0.0878/Scatterer-0.0878.zip",
+        "https://get.2sb.org/https://github.com/LGhassen/Scatterer/releases/download/0.0878/Scatterer-0.0878.zip",
         "https://spacedock.info/mod/141/Scatterer/download/0.0878"
     ],
     "download_size": 7321838,

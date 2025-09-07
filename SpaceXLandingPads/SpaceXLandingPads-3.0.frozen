@@ -7,8 +7,8 @@
     "version": "3.0",
     "license": "MIT",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/Fossilized4/SpaceX-Landing-Pads",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Fossilized4/SpaceX-Landing-Pads/issues"
+        "repository": "https://get.2sb.org/https://github.com/Fossilized4/SpaceX-Landing-Pads",
+        "bugtracker": "https://get.2sb.org/https://github.com/Fossilized4/SpaceX-Landing-Pads/issues"
     },
     "install": [
         {

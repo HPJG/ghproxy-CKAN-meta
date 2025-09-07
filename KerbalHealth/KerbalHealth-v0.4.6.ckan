@@ -7,7 +7,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/155313-wip-122-kerbalhealth-044-2017-02-01-even-more-health-factors/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/GarwelGarwel/KerbalHealth"
+        "repository": "https://get.2sb.org/https://github.com/GarwelGarwel/KerbalHealth"
     },
     "version": "v0.4.6",
     "ksp_version": "1.2.2",
@@ -27,7 +27,7 @@
             "name": "UKS"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/GarwelGarwel/KerbalHealth/releases/download/v0.4.6/KerbalHealth_0.4.6.zip",
+    "download": "https://get.2sb.org/https://github.com/GarwelGarwel/KerbalHealth/releases/download/v0.4.6/KerbalHealth_0.4.6.zip",
     "download_size": 20416,
     "download_hash": {
         "sha1": "DED25D3D73AC217A18BF504284C1BA87CF462702",

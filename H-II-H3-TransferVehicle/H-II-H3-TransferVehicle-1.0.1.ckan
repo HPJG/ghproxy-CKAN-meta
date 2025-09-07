@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/210705-1124-h-ii-h3-transfer-vehicle-063-wip/",
         "spacedock": "https://spacedock.info/mod/3156/H-II%20(H3)%20Transfer%20Vehicle",
-        "repository": "https://hk.gh-proxy.com/https://github.com/HakariMatt/Matveich_HTV",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/HakariMatt/Matveich_HTV/issues",
+        "repository": "https://get.2sb.org/https://github.com/HakariMatt/Matveich_HTV",
+        "bugtracker": "https://get.2sb.org/https://github.com/HakariMatt/Matveich_HTV/issues",
         "x_screenshot": "https://spacedock.info/content/MATVEICH_YT_84375/H-II_H3_Transfer_Vehicle/H-II_H3_Transfer_Vehicle-1676963684.png"
     },
     "tags": [
@@ -41,7 +41,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/HakariMatt/Matveich_HTV/releases/download/v1.0.1/HTV.zip",
+        "https://get.2sb.org/https://github.com/HakariMatt/Matveich_HTV/releases/download/v1.0.1/HTV.zip",
         "https://spacedock.info/mod/3156/H-II%20(H3)%20Transfer%20Vehicle/download/1.0.1"
     ],
     "download_size": 67028930,

@@ -9,15 +9,15 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/163826-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/CYBUTEK/StoreMyReports",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/CYBUTEK/StoreMyReports/issues"
+        "repository": "https://get.2sb.org/https://github.com/CYBUTEK/StoreMyReports",
+        "bugtracker": "https://get.2sb.org/https://github.com/CYBUTEK/StoreMyReports/issues"
     },
     "tags": [
         "plugin",
         "convenience",
         "science"
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/CYBUTEK/StoreMyReports/releases/download/1.1.0.0/StoreMyReports-1.1.0.0.zip",
+    "download": "https://get.2sb.org/https://github.com/CYBUTEK/StoreMyReports/releases/download/1.1.0.0/StoreMyReports-1.1.0.0.zip",
     "download_size": 35910,
     "download_hash": {
         "sha1": "31C121F43FDB05A257A099A75C93B6383C6B747E",

@@ -11,8 +11,8 @@
     "license": "MIT",
     "resources": {
         "spacedock": "https://spacedock.info/mod/3730/KSP%20Community%20Part%20Modules",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSPModdingLibs/KSPCommunityPartModules",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSPModdingLibs/KSPCommunityPartModules/issues"
+        "repository": "https://get.2sb.org/https://github.com/KSPModdingLibs/KSPCommunityPartModules",
+        "bugtracker": "https://get.2sb.org/https://github.com/KSPModdingLibs/KSPCommunityPartModules/issues"
     },
     "tags": [
         "plugin",
@@ -35,7 +35,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/KSPModdingLibs/KSPCommunityPartModules/releases/download/v0.2.0/KSPCommunityPartModules-v0.2.0.zip",
+        "https://get.2sb.org/https://github.com/KSPModdingLibs/KSPCommunityPartModules/releases/download/v0.2.0/KSPCommunityPartModules-v0.2.0.zip",
         "https://spacedock.info/mod/3730/KSP%20Community%20Part%20Modules/download/v0.2.0"
     ],
     "download_size": 8179,

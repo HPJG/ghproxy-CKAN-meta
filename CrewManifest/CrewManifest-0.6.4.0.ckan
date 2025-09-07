@@ -10,7 +10,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/55485-12x-kerbal-crew-manifest-v0640-dec-30th-2016/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/sarbian/CrewManifest",
+        "repository": "https://get.2sb.org/https://github.com/sarbian/CrewManifest",
         "ci": "https://ksp.sarbian.com/jenkins/job/CrewManifest/"
     },
     "version": "0.6.4.0",

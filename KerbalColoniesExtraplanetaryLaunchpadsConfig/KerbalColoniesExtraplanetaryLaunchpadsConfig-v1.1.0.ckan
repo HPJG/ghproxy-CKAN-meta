@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/227961-kerbal-colonies-v100-112x/page/2/#comment-4463803",
         "spacedock": "https://spacedock.info/mod/3899/KerbalColonies-EPLConfig",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KerbalColonies/KCEPLConfig",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KerbalColonies/KCEPLConfig/issues",
+        "repository": "https://get.2sb.org/https://github.com/KerbalColonies/KCEPLConfig",
+        "bugtracker": "https://get.2sb.org/https://github.com/KerbalColonies/KCEPLConfig/issues",
         "remote-avc": "https://raw.githubusercontent.com/KerbalColonies/KCEPLConfig/refs/heads/main/GameData/KC-EL-Default/KerbalColonies-EL-Default.version"
     },
     "tags": [
@@ -46,7 +46,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/KerbalColonies/KCEPLConfig/releases/download/v1.1.0/KC-EL-Default.zip",
+        "https://get.2sb.org/https://github.com/KerbalColonies/KCEPLConfig/releases/download/v1.1.0/KC-EL-Default.zip",
         "https://spacedock.info/mod/3899/KerbalColonies-EPLConfig/download/v1.1.0"
     ],
     "download_size": 212299,

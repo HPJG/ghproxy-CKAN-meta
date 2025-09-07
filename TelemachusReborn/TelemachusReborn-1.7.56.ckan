@@ -12,7 +12,7 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/179887-*",
         "spacedock": "https://spacedock.info/mod/2012/Telemachus%20Reborn",
-        "repository": "https://hk.gh-proxy.com/https://github.com/TeleIO/Telemachus-1"
+        "repository": "https://get.2sb.org/https://github.com/TeleIO/Telemachus-1"
     },
     "tags": [
         "plugin",
@@ -44,7 +44,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/TeleIO/Telemachus-1/releases/download/1.7.56/GameData.zip",
+    "download": "https://get.2sb.org/https://github.com/TeleIO/Telemachus-1/releases/download/1.7.56/GameData.zip",
     "download_size": 11211660,
     "download_hash": {
         "sha1": "C147E04F92B6B20365070F87C6D3A8CDD8B7718B",

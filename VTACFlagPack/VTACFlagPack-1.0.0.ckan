@@ -8,13 +8,13 @@
     "ksp_version": "any",
     "license": "GPL-3.0",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/Viking-Tactical/KSPFlagPack",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Viking-Tactical/KSPFlagPack/issues"
+        "repository": "https://get.2sb.org/https://github.com/Viking-Tactical/KSPFlagPack",
+        "bugtracker": "https://get.2sb.org/https://github.com/Viking-Tactical/KSPFlagPack/issues"
     },
     "tags": [
         "flags"
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Viking-Tactical/KSPFlagPack/releases/download/1.0.0/VTACFlagPack.zip",
+    "download": "https://get.2sb.org/https://github.com/Viking-Tactical/KSPFlagPack/releases/download/1.0.0/VTACFlagPack.zip",
     "download_size": 14816,
     "download_hash": {
         "sha1": "48C3BB7FD716ECC8BAA9F44C02A34D644475C750",

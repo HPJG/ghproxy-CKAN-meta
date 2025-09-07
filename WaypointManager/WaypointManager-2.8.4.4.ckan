@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/194876-112x-waypoint-manager-new-dependency-added/",
         "spacedock": "https://spacedock.info/mod/3107/WaypointManager",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/WaypointManager",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/WaypointManager/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/WaypointManager",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/WaypointManager/issues",
         "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/WaypointManager/refs/heads/master/WaypointManager.version"
     },
     "tags": [
@@ -38,7 +38,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/WaypointManager/releases/download/2.8.4.4/WaypointManager-1.12.0-2.8.4.4.zip",
+        "https://get.2sb.org/https://github.com/linuxgurugamer/WaypointManager/releases/download/2.8.4.4/WaypointManager-1.12.0-2.8.4.4.zip",
         "https://spacedock.info/mod/3107/WaypointManager/download/2.8.4.4"
     ],
     "download_size": 114914,

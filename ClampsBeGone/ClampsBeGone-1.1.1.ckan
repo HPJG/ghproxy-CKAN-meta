@@ -7,8 +7,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/129870",
-        "repository": "https://hk.gh-proxy.com/https://github.com/iPeer/ClampsBeGone",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/iPeer/ClampsBeGone/issues"
+        "repository": "https://get.2sb.org/https://github.com/iPeer/ClampsBeGone",
+        "bugtracker": "https://get.2sb.org/https://github.com/iPeer/ClampsBeGone/issues"
     },
     "version": "1.1.1",
     "ksp_version_min": "1.0.0",
@@ -19,7 +19,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/iPeer/ClampsBeGone/releases/download/1.1.1/ClampsBeGone1.1.1.zip",
+    "download": "https://get.2sb.org/https://github.com/iPeer/ClampsBeGone/releases/download/1.1.1/ClampsBeGone1.1.1.zip",
     "download_size": 45955,
     "download_hash": {
         "sha1": "1C1244FD3882D12CFD483F3230EF5ED962633EBB",

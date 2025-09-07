@@ -10,9 +10,9 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/208988-*/",
         "spacedock": "https://spacedock.info/mod/3060/Moldavite%20Machines",
-        "repository": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/MoldaviteMachines",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/MoldaviteMachines/issues",
-        "discussions": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/MoldaviteMachines/discussions",
+        "repository": "https://get.2sb.org/https://github.com/JadeOfMaar/MoldaviteMachines",
+        "bugtracker": "https://get.2sb.org/https://github.com/JadeOfMaar/MoldaviteMachines/issues",
+        "discussions": "https://get.2sb.org/https://github.com/JadeOfMaar/MoldaviteMachines/discussions",
         "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/MoldaviteMachines/main/GameData/MoldaviteMachines/Version/MoldaviteMachines.version",
         "x_screenshot": "https://spacedock.info/content/JadeOfMaar_11026/Moldavite_Machines/Moldavite_Machines-1661183062.png"
     },
@@ -31,7 +31,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/MoldaviteMachines/releases/download/1.4/MoldaviteMachines-1.4.zip",
+        "https://get.2sb.org/https://github.com/JadeOfMaar/MoldaviteMachines/releases/download/1.4/MoldaviteMachines-1.4.zip",
         "https://spacedock.info/mod/3060/Moldavite%20Machines/download/1.4"
     ],
     "download_size": 3085948,

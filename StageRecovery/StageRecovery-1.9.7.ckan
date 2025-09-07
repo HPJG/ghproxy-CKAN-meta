@@ -14,8 +14,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/179306-151-stagerecovery-recover-funds-from-dropped-stages/&",
         "spacedock": "https://spacedock.info/mod/219/StageRecovery",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/StageRecovery",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/StageRecovery/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/StageRecovery",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/StageRecovery/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/StageRecovery"
     },
     "tags": [
@@ -56,7 +56,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/StageRecovery/releases/download/1.9.7/StageRecovery-1.12.0-1.9.7.zip",
+        "https://get.2sb.org/https://github.com/linuxgurugamer/StageRecovery/releases/download/1.9.7/StageRecovery-1.12.0-1.9.7.zip",
         "https://spacedock.info/mod/219/StageRecovery/download/1.9.7"
     ],
     "download_size": 65488,

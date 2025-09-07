@@ -14,8 +14,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/226007-1125-stapler-re-parent-parts-without-moving-them/",
         "spacedock": "https://spacedock.info/mod/3721/Stapler",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Halbann/Stapler",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Halbann/Stapler/issues",
+        "repository": "https://get.2sb.org/https://github.com/Halbann/Stapler",
+        "bugtracker": "https://get.2sb.org/https://github.com/Halbann/Stapler/issues",
         "remote-avc": "https://raw.githubusercontent.com/Halbann/Stapler/main/GameData/Stapler/Stapler.version",
         "x_screenshot": "https://spacedock.info/content/Halban_103632/Stapler/Stapler-1727191787.jpg"
     },
@@ -24,7 +24,7 @@
         "editor"
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/Halbann/Stapler/releases/download/1.0.2/Stapler-1.0.2.zip",
+        "https://get.2sb.org/https://github.com/Halbann/Stapler/releases/download/1.0.2/Stapler-1.0.2.zip",
         "https://spacedock.info/mod/3721/Stapler/download/1.0.2"
     ],
     "download_size": 31283,

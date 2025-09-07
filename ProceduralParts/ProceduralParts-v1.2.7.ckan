@@ -6,8 +6,8 @@
     "author": "Polymaker",
     "license": "CC-BY-SA-3.0",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/Swamp-Ig/ProceduralParts",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Swamp-Ig/ProceduralParts"
+        "homepage": "https://get.2sb.org/https://github.com/Swamp-Ig/ProceduralParts",
+        "repository": "https://get.2sb.org/https://github.com/Swamp-Ig/ProceduralParts"
     },
     "version": "v1.2.7",
     "ksp_version": "1.2.0",
@@ -31,7 +31,7 @@
             "filter": "Source"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Swamp-Ig/ProceduralParts/releases/download/v1.2.7/ProceduralParts-1.2.7.zip",
+    "download": "https://get.2sb.org/https://github.com/Swamp-Ig/ProceduralParts/releases/download/v1.2.7/ProceduralParts-1.2.7.zip",
     "download_size": 2704914,
     "download_hash": {
         "sha1": "9C3DD488FCEABF457DB102132DBE428DEB58A08C",

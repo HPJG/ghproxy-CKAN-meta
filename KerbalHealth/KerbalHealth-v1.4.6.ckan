@@ -10,8 +10,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/155313-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/GarwelGarwel/KerbalHealth",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/GarwelGarwel/KerbalHealth/issues"
+        "repository": "https://get.2sb.org/https://github.com/GarwelGarwel/KerbalHealth",
+        "bugtracker": "https://get.2sb.org/https://github.com/GarwelGarwel/KerbalHealth/issues"
     },
     "tags": [
         "plugin",
@@ -40,7 +40,7 @@
             "name": "UKS"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/GarwelGarwel/KerbalHealth/releases/download/v1.4.6/KerbalHealth_1.4.6.zip",
+    "download": "https://get.2sb.org/https://github.com/GarwelGarwel/KerbalHealth/releases/download/v1.4.6/KerbalHealth_1.4.6.zip",
     "download_size": 108046,
     "download_hash": {
         "sha1": "F65BB56EF7CF2427ECB4662EF656C30284CEDDA3",

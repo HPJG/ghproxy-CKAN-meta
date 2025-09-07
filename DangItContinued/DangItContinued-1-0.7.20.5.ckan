@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/178973-141-dang-it-continued/",
         "spacedock": "https://spacedock.info/mod/1055/Dang%20It!%20Continued",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/DangIt",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/DangIt/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/DangIt",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/DangIt/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/DangIt"
     },
     "tags": [

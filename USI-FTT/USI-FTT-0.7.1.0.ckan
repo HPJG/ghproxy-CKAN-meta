@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://umbraspaceindustries.github.io/UmbraSpaceIndustries/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/UmbraSpaceIndustries/FTT"
+        "repository": "https://get.2sb.org/https://github.com/UmbraSpaceIndustries/FTT"
     },
     "version": "0.7.1.0",
     "ksp_version_min": "1.2.9",
@@ -42,7 +42,7 @@
             "install_to": "GameData/UmbraSpaceIndustries"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/UmbraSpaceIndustries/FTT/releases/download/0.7.1.0/FTT_0.7.1.0.zip",
+    "download": "https://get.2sb.org/https://github.com/UmbraSpaceIndustries/FTT/releases/download/0.7.1.0/FTT_0.7.1.0.zip",
     "download_size": 24699475,
     "download_hash": {
         "sha1": "726FAC26AFD20BB908BAF352011C5E8AE3F8C694",

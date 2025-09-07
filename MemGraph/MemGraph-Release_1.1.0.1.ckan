@@ -7,11 +7,11 @@
     "license": "MIT",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/139128-memgraph",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Gerry1135/MemGraph"
+        "repository": "https://get.2sb.org/https://github.com/Gerry1135/MemGraph"
     },
     "version": "Release_1.1.0.1",
     "ksp_version": "1.2",
-    "download": "https://hk.gh-proxy.com/https://github.com/Gerry1135/MemGraph/releases/download/Release_1.1.0.1/MemGraph_1.1.0.1.zip",
+    "download": "https://get.2sb.org/https://github.com/Gerry1135/MemGraph/releases/download/Release_1.1.0.1/MemGraph_1.1.0.1.zip",
     "download_size": 10817,
     "download_hash": {
         "sha1": "E4A52ABD37DCFF3D9672EED89D0937A718110287",

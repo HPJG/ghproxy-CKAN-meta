@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?showtopic=140541",
-        "repository": "https://hk.gh-proxy.com/https://github.com/blowfishpro/B9PartSwitch"
+        "repository": "https://get.2sb.org/https://github.com/blowfishpro/B9PartSwitch"
     },
     "version": "v2.5.1",
     "ksp_version": "1.5.1",
@@ -26,7 +26,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/blowfishpro/B9PartSwitch/releases/download/v2.5.1/B9PartSwitch_v2.5.1.zip",
+    "download": "https://get.2sb.org/https://github.com/blowfishpro/B9PartSwitch/releases/download/v2.5.1/B9PartSwitch_v2.5.1.zip",
     "download_size": 62350,
     "download_hash": {
         "sha1": "266E16454F44AA31CF0FE8153C7FB9DAAEB52D7F",

@@ -6,9 +6,9 @@
     "author": "Xyphos",
     "license": "MIT",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/Xyphos/KSP_FullAutoStrut/wiki",
+        "homepage": "https://get.2sb.org/https://github.com/Xyphos/KSP_FullAutoStrut/wiki",
         "spacedock": "https://spacedock.info/mod/1479/FullAutoStrut",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Xyphos/KSP_FullAutoStrut"
+        "repository": "https://get.2sb.org/https://github.com/Xyphos/KSP_FullAutoStrut"
     },
     "version": "v2.1.0.1",
     "ksp_version": "1.4.3",

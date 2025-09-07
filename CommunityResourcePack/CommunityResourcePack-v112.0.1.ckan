@@ -11,8 +11,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/83007-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/UmbraSpaceIndustries/CommunityResourcePack",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/UmbraSpaceIndustries/CommunityResourcePack/issues",
+        "repository": "https://get.2sb.org/https://github.com/UmbraSpaceIndustries/CommunityResourcePack",
+        "bugtracker": "https://get.2sb.org/https://github.com/UmbraSpaceIndustries/CommunityResourcePack/issues",
         "manual": "https://umbraspaceindustries.github.io/UmbraSpaceIndustries/",
         "remote-avc": "https://raw.githubusercontent.com/UmbraSpaceIndustries/CommunityResourcePack/main/FOR_RELEASE/GameData/CommunityResourcePack/CRP.version"
     },
@@ -31,7 +31,7 @@
         "ru",
         "zh-cn"
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/UmbraSpaceIndustries/CommunityResourcePack/releases/download/v112.0.1/CommunityResourcePack_112.0.1.zip",
+    "download": "https://get.2sb.org/https://github.com/UmbraSpaceIndustries/CommunityResourcePack/releases/download/v112.0.1/CommunityResourcePack_112.0.1.zip",
     "download_size": 36328,
     "download_hash": {
         "sha1": "C3CF00B2AC99E5F8072DF5E023C1BCB96AAE7FC9",

@@ -10,8 +10,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/152782-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/shadowmage45/KSPWheel",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/shadowmage45/KSPWheel/issues",
+        "repository": "https://get.2sb.org/https://github.com/shadowmage45/KSPWheel",
+        "bugtracker": "https://get.2sb.org/https://github.com/shadowmage45/KSPWheel/issues",
         "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=429"
     },
     "tags": [
@@ -24,7 +24,7 @@
             "find": "KSPWheel"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/shadowmage45/KSPWheel/releases/download/0.16.14.33/KSPWheel-0.16.14.33.zip",
+    "download": "https://get.2sb.org/https://github.com/shadowmage45/KSPWheel/releases/download/0.16.14.33/KSPWheel-0.16.14.33.zip",
     "download_size": 104426,
     "download_hash": {
         "sha1": "B2CBBBE3500F0CFEE5929CA87434DECEF9802852",

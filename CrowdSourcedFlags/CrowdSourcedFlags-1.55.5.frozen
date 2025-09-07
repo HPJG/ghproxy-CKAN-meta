@@ -8,7 +8,7 @@
     "license": "CC-BY-SA-4.0",
     "resources": {
         "homepage": "https://www.reddit.com/r/KSP_CrowdSourcedFlags/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/dmxz/CrowdSourcedFlags/"
+        "repository": "https://get.2sb.org/https://github.com/dmxz/CrowdSourcedFlags/"
     },
     "tags": [
         "flags"
@@ -32,7 +32,7 @@
             "name": "ModernChineseFlagPack"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/dmxz/CrowdSourcedFlags/releases/download/1.55.5/CrowdSourcedFlags.zip",
+    "download": "https://get.2sb.org/https://github.com/dmxz/CrowdSourcedFlags/releases/download/1.55.5/CrowdSourcedFlags.zip",
     "download_size": 235457,
     "download_hash": {
         "sha1": "3C267DBC0AE206493449FAFB961C13FED4FCC10B",

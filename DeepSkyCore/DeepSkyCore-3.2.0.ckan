@@ -8,11 +8,11 @@
     "ksp_version": "1.11.0",
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/DSCore/releases",
+        "homepage": "https://get.2sb.org/https://github.com/JadeOfMaar/DSCore/releases",
         "spacedock": "https://spacedock.info/mod/1631/Deep%20Sky%20Core",
-        "repository": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/DSCore",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/DSCore/issues",
-        "remote-avc": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/DSCore/raw/master/GameData/DeepSky/00DeepSky/Version/DSCore.version",
+        "repository": "https://get.2sb.org/https://github.com/JadeOfMaar/DSCore",
+        "bugtracker": "https://get.2sb.org/https://github.com/JadeOfMaar/DSCore/issues",
+        "remote-avc": "https://get.2sb.org/https://github.com/JadeOfMaar/DSCore/raw/master/GameData/DeepSky/00DeepSky/Version/DSCore.version",
         "x_screenshot": "https://spacedock.info/content/JadeOfMaar_11026/Deep_Sky_Core/Deep_Sky_Core-1523333268.4728763.png"
     },
     "tags": [

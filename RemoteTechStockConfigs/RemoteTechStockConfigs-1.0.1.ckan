@@ -7,7 +7,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/180968-16-remotetech-stockconfigs-v1002018-12-29/&tab=comments#comment-3512923",
-        "repository": "https://hk.gh-proxy.com/https://github.com/woeller/RemoteTech-StockConfigs"
+        "repository": "https://get.2sb.org/https://github.com/woeller/RemoteTech-StockConfigs"
     },
     "version": "1.0.1",
     "ksp_version_min": "1.4.0",
@@ -26,7 +26,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/woeller/RemoteTech-StockConfigs/releases/download/1.0.1/RemoteTechStockConfigs.zip",
+    "download": "https://get.2sb.org/https://github.com/woeller/RemoteTech-StockConfigs/releases/download/1.0.1/RemoteTechStockConfigs.zip",
     "download_size": 19682,
     "download_hash": {
         "sha1": "C329440449C407962EB693558DD2A77CBA0BB5FC",

@@ -7,9 +7,9 @@
     "version": "v0.1.10",
     "license": "MIT",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/QuickBASIC/KerbalInventorySystemNoFun",
-        "repository": "https://hk.gh-proxy.com/https://github.com/QuickBASIC/KerbalInventorySystemNoFun",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/QuickBASIC/KerbalInventorySystemNoFun/issues"
+        "homepage": "https://get.2sb.org/https://github.com/QuickBASIC/KerbalInventorySystemNoFun",
+        "repository": "https://get.2sb.org/https://github.com/QuickBASIC/KerbalInventorySystemNoFun",
+        "bugtracker": "https://get.2sb.org/https://github.com/QuickBASIC/KerbalInventorySystemNoFun/issues"
     },
     "tags": [
         "config"
@@ -22,7 +22,7 @@
             "name": "KIS"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/QuickBASIC/KerbalInventorySystemNoFun/releases/download/v0.1.10/KerbalInventorySystemNoFun_v0.1.10.zip",
+    "download": "https://get.2sb.org/https://github.com/QuickBASIC/KerbalInventorySystemNoFun/releases/download/v0.1.10/KerbalInventorySystemNoFun_v0.1.10.zip",
     "download_size": 2227,
     "download_hash": {
         "sha1": "18F5C8B776551167B64F4774D4F216E3F7F2DDCE",

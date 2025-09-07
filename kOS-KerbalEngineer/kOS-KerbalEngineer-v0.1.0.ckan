@@ -10,8 +10,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/210287-112-kos-kerbalengineer-v010/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/markjfisher/kOS-KerbalEngineer",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/markjfisher/kOS-KerbalEngineer/issues",
+        "repository": "https://get.2sb.org/https://github.com/markjfisher/kOS-KerbalEngineer",
+        "bugtracker": "https://get.2sb.org/https://github.com/markjfisher/kOS-KerbalEngineer/issues",
         "remote-avc": "https://raw.githubusercontent.com/markjfisher/kOS-KerbalEngineer/master/GameData/kOS-KerbalEngineer/kOS-KerbalEngineer.version"
     },
     "tags": [
@@ -33,7 +33,7 @@
             "name": "kOS"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/markjfisher/kOS-KerbalEngineer/releases/download/v0.1.0/kOS-KerbalEngineer.zip",
+    "download": "https://get.2sb.org/https://github.com/markjfisher/kOS-KerbalEngineer/releases/download/v0.1.0/kOS-KerbalEngineer.zip",
     "download_size": 17947,
     "download_hash": {
         "sha1": "5BE2041E95B95B713E9F5F09FDE279D1A715E888",

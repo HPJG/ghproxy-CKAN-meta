@@ -7,7 +7,7 @@
     "license": "CC-BY-SA",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/69286-10-crossfeedenabler-v33-may-11/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/NathanKell/CrossFeedEnabler"
+        "repository": "https://get.2sb.org/https://github.com/NathanKell/CrossFeedEnabler"
     },
     "version": "v3.3",
     "ksp_version_min": "1.0.0",
@@ -17,7 +17,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/NathanKell/CrossFeedEnabler/releases/download/v3.3/CrossFeedEnabler_v3.3.zip",
+    "download": "https://get.2sb.org/https://github.com/NathanKell/CrossFeedEnabler/releases/download/v3.3/CrossFeedEnabler_v3.3.zip",
     "download_size": 35103,
     "download_hash": {
         "sha1": "BF6C70B36B2B70C02D25499D206E3A61BA6D0A1C",

@@ -2,15 +2,15 @@
     "spec_version": "v1.4",
     "identifier": "CanadarmContinued",
     "name": "Canadarm Continued",
-    "abstract": "Credit all the goes towards Jeast85 even though hes long gone for making the Canadarm: https://hk.gh-proxy.com/https://github.com/Jeast85/Canadarm",
+    "abstract": "Credit all the goes towards Jeast85 even though hes long gone for making the Canadarm: https://get.2sb.org/https://github.com/Jeast85/Canadarm",
     "author": "Flandre_Scarlet",
     "version": "1:1.8",
     "ksp_version": "1.12.5",
     "license": "MIT",
     "resources": {
         "spacedock": "https://spacedock.info/mod/3967/Canadarm%20Continued",
-        "repository": "https://hk.gh-proxy.com/https://github.com/FlandreScarlet1/Canadarm-Continued",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/FlandreScarlet1/Canadarm-Continued/issues",
+        "repository": "https://get.2sb.org/https://github.com/FlandreScarlet1/Canadarm-Continued",
+        "bugtracker": "https://get.2sb.org/https://github.com/FlandreScarlet1/Canadarm-Continued/issues",
         "x_screenshot": "https://spacedock.info/content/Flandre_Scarlet_133470/Canadarm_Continued/Canadarm_Continued-1756334178.png"
     },
     "tags": [

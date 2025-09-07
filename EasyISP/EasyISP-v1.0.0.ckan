@@ -9,9 +9,9 @@
     "ksp_version_max": "1.12.5",
     "license": "Unlicense",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/Tempus-superest/EasyISP",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Tempus-superest/EasyISP/issues",
-        "remote-avc": "https://hk.gh-proxy.com/https://github.com/Tempus-superest/EasyISP"
+        "repository": "https://get.2sb.org/https://github.com/Tempus-superest/EasyISP",
+        "bugtracker": "https://get.2sb.org/https://github.com/Tempus-superest/EasyISP/issues",
+        "remote-avc": "https://get.2sb.org/https://github.com/Tempus-superest/EasyISP"
     },
     "tags": [
         "physics",

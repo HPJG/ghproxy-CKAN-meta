@@ -8,7 +8,7 @@
     "license": "restricted",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/78476-12-ual002s-lorefriendy-serious-parody-flags-v21-fall-of-the-ape-edition/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/ual002/Lorefriendly-Serious-Parody-Flags"
+        "repository": "https://get.2sb.org/https://github.com/ual002/Lorefriendly-Serious-Parody-Flags"
     },
     "tags": [
         "flags"
@@ -21,7 +21,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/ual002/Lorefriendly-Serious-Parody-Flags/releases/download/v2.1/Lorefriendly-Serious-Parody-Flags-2.1.zip",
+    "download": "https://get.2sb.org/https://github.com/ual002/Lorefriendly-Serious-Parody-Flags/releases/download/v2.1/Lorefriendly-Serious-Parody-Flags-2.1.zip",
     "download_size": 930017,
     "download_hash": {
         "sha1": "2CFFF553B40820D6ACD5E4F87BB7CB4898555100",

@@ -14,7 +14,7 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/169652-ksp-131-continuing-flight-plan-crazy-trajectories-demystified/",
         "spacedock": "https://spacedock.info/mod/1058/FlightPlan",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/KSP-FlightPlan",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/KSP-FlightPlan",
         "remote-avc": "http://ksp.spacetux.net/avc/FlightPlan",
         "x_screenshot": "https://spacedock.info/content/RealGecko_4471/FlightPlan/FlightPlan-1478908406.4358277.png"
     },
@@ -34,7 +34,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/KSP-FlightPlan/releases/download/1.1.1.2/FlightPlan-1.1.1.2.zip",
+        "https://get.2sb.org/https://github.com/linuxgurugamer/KSP-FlightPlan/releases/download/1.1.1.2/FlightPlan-1.1.1.2.zip",
         "https://spacedock.info/mod/1058/FlightPlan/download/1.1.1.2"
     ],
     "download_size": 36470,

@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/84359",
-        "repository": "https://hk.gh-proxy.com/https://github.com/UmbraSpaceIndustries/SrvPack"
+        "repository": "https://get.2sb.org/https://github.com/UmbraSpaceIndustries/SrvPack"
     },
     "version": "0.3.2.0",
     "ksp_version_min": "0.90.0",
@@ -37,7 +37,7 @@
             "install_to": "GameData/UmbraSpaceIndustries"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/UmbraSpaceIndustries/SrvPack/releases/download/0.3.2.0/SrvPack_0.3.2.0.zip",
+    "download": "https://get.2sb.org/https://github.com/UmbraSpaceIndustries/SrvPack/releases/download/0.3.2.0/SrvPack_0.3.2.0.zip",
     "download_size": 2417556,
     "download_hash": {
         "sha1": "334F529F9B4A135A1F2E7133615B4180319F66E4",

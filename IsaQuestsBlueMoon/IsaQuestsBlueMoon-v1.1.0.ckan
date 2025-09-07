@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/217607-ksp-v112x-isaquests-blue-moon-lander/",
         "spacedock": "https://spacedock.info/mod/3403/IsaQuest's%20Blue%20Moon",
-        "repository": "https://hk.gh-proxy.com/https://github.com/IsaQuest/BlueMoonKSP",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/IsaQuest/BlueMoonKSP/issues",
+        "repository": "https://get.2sb.org/https://github.com/IsaQuest/BlueMoonKSP",
+        "bugtracker": "https://get.2sb.org/https://github.com/IsaQuest/BlueMoonKSP/issues",
         "x_screenshot": "https://spacedock.info/content/IsaQuest_62203/IsaQuests_Blue_Moon/IsaQuests_Blue_Moon-1686253543.png"
     },
     "tags": [
@@ -39,7 +39,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/IsaQuest/BlueMoonKSP/releases/download/v1.1.0/IsaQuest_BlueMoon_v1.1.0.zip",
+        "https://get.2sb.org/https://github.com/IsaQuest/BlueMoonKSP/releases/download/v1.1.0/IsaQuest_BlueMoon_v1.1.0.zip",
         "https://spacedock.info/mod/3403/IsaQuest's%20Blue%20Moon/download/v1.1.0"
     ],
     "download_size": 24624830,

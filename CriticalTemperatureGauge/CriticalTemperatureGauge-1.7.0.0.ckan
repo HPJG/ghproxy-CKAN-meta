@@ -10,12 +10,12 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/146239-113-critical-temperature-gauge-continued",
-        "repository": "https://hk.gh-proxy.com/https://github.com/formicant/CriticalTemperatureGauge"
+        "repository": "https://get.2sb.org/https://github.com/formicant/CriticalTemperatureGauge"
     },
     "version": "1.7.0.0",
     "ksp_version_min": "1.7.0",
     "ksp_version_max": "1.7.99",
-    "download": "https://hk.gh-proxy.com/https://github.com/formicant/CriticalTemperatureGauge/releases/download/1.7.0.0/CriticalTemperatureGauge-1.7.0.0.zip",
+    "download": "https://get.2sb.org/https://github.com/formicant/CriticalTemperatureGauge/releases/download/1.7.0.0/CriticalTemperatureGauge-1.7.0.0.zip",
     "download_size": 24461,
     "download_hash": {
         "sha1": "5087D3FABD3EACA4D2F7E868E4173BF0D41673C5",

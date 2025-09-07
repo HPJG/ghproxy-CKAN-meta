@@ -10,15 +10,15 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/179920-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/GER-Space/AdvancedTextures",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/GER-Space/AdvancedTextures/issues",
+        "repository": "https://get.2sb.org/https://github.com/GER-Space/AdvancedTextures",
+        "bugtracker": "https://get.2sb.org/https://github.com/GER-Space/AdvancedTextures/issues",
         "remote-avc": "https://raw.githubusercontent.com/GER-Space/AdvancedTextures/master/GameData/AdvancedTextures/AdvancedTextures.version"
     },
     "tags": [
         "plugin",
         "library"
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/GER-Space/AdvancedTextures/releases/download/1.8.1/AdvancedTextures-1.8.1.0.zip",
+    "download": "https://get.2sb.org/https://github.com/GER-Space/AdvancedTextures/releases/download/1.8.1/AdvancedTextures-1.8.1.0.zip",
     "download_size": 12090,
     "download_hash": {
         "sha1": "76D57B45FF7B9BFFC4B406F23BE6F431E4161E6A",

@@ -10,8 +10,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/183393-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/yalov/KVASS",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/yalov/KVASS/issues"
+        "repository": "https://get.2sb.org/https://github.com/yalov/KVASS",
+        "bugtracker": "https://get.2sb.org/https://github.com/yalov/KVASS/issues"
     },
     "tags": [
         "plugin",
@@ -34,7 +34,7 @@
             "name": "KerbalConstructionTime"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/yalov/KVASS/releases/download/2.0.1/KVASS-v2.0.1.zip",
+    "download": "https://get.2sb.org/https://github.com/yalov/KVASS/releases/download/2.0.1/KVASS-v2.0.1.zip",
     "download_size": 77961,
     "download_hash": {
         "sha1": "CD451F705EE2082083DBB9C6AA307FDC074038C0",

@@ -9,8 +9,8 @@
     "license": "restricted",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/150702-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Angel-125/Airships",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Angel-125/Airships/issues",
+        "repository": "https://get.2sb.org/https://github.com/Angel-125/Airships",
+        "bugtracker": "https://get.2sb.org/https://github.com/Angel-125/Airships/issues",
         "remote-avc": "https://raw.githubusercontent.com/Angel-125/Airships/master/GameData/WildBlueIndustries/Heisenberg/Airships/Airships.version"
     },
     "tags": [
@@ -96,7 +96,7 @@
             "install_to": "Ships"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Angel-125/Airships/releases/download/v2.20.0/Heisenberg.zip",
+    "download": "https://get.2sb.org/https://github.com/Angel-125/Airships/releases/download/v2.20.0/Heisenberg.zip",
     "download_size": 48199227,
     "download_hash": {
         "sha1": "9608D298F74274756F05B598B78C32EA90D21AF6",

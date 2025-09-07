@@ -10,8 +10,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/138433-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/JPLRepo/JSIAdvTransparentPods",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/JPLRepo/JSIAdvTransparentPods/issues",
+        "repository": "https://get.2sb.org/https://github.com/JPLRepo/JSIAdvTransparentPods",
+        "bugtracker": "https://get.2sb.org/https://github.com/JPLRepo/JSIAdvTransparentPods/issues",
         "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=287"
     },
     "tags": [
@@ -63,7 +63,7 @@
             "install_to": "GameData/JSI"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/JPLRepo/JSIAdvTransparentPods/releases/download/V0.1.24.0/JSIAdvTransparentPods_V0.1.24.0.zip",
+    "download": "https://get.2sb.org/https://github.com/JPLRepo/JSIAdvTransparentPods/releases/download/V0.1.24.0/JSIAdvTransparentPods_V0.1.24.0.zip",
     "download_size": 21703,
     "download_hash": {
         "sha1": "3824DC1BE5D92CB3B3C85BCA8FF61FC49F1C5653",

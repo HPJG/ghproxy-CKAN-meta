@@ -17,14 +17,14 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/96851-x",
-        "repository": "https://hk.gh-proxy.com/https://github.com/ducakar/TextureReplacer",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/ducakar/TextureReplacer/issues"
+        "repository": "https://get.2sb.org/https://github.com/ducakar/TextureReplacer",
+        "bugtracker": "https://get.2sb.org/https://github.com/ducakar/TextureReplacer/issues"
     },
     "tags": [
         "plugin",
         "graphics"
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/ducakar/TextureReplacer/releases/download/v4.1.3/TextureReplacer-4.1.3.zip",
+    "download": "https://get.2sb.org/https://github.com/ducakar/TextureReplacer/releases/download/v4.1.3/TextureReplacer-4.1.3.zip",
     "download_size": 9472391,
     "download_hash": {
         "sha1": "574A47D751E749C06DBEA10170BDD358041329A9",

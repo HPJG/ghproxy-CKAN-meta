@@ -10,7 +10,7 @@
     "license": "restricted",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/52931-0",
-        "repository": "https://hk.gh-proxy.com/https://github.com/StupidChris/RealChute"
+        "repository": "https://get.2sb.org/https://github.com/StupidChris/RealChute"
     },
     "version": "v1.4.7.3",
     "ksp_version_min": "1.6.0",
@@ -20,7 +20,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/StupidChris/RealChute/releases/download/v1.4.7.3/RealChute_v1.4.7.3.zip",
+    "download": "https://get.2sb.org/https://github.com/StupidChris/RealChute/releases/download/v1.4.7.3/RealChute_v1.4.7.3.zip",
     "download_size": 2782541,
     "download_hash": {
         "sha1": "3E48FC31D33BC95F26897DAF7861DD549F46F83A",

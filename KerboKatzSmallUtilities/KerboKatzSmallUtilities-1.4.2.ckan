@@ -10,8 +10,8 @@
     "license": "restricted",
     "resources": {
         "homepage": "http://kerbokatz.github.io/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Xarun/SmallUtilities",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Xarun/SmallUtilities/issues"
+        "repository": "https://get.2sb.org/https://github.com/Xarun/SmallUtilities",
+        "bugtracker": "https://get.2sb.org/https://github.com/Xarun/SmallUtilities/issues"
     },
     "version": "1.4.2",
     "ksp_version_min": "1.1.0",
@@ -28,7 +28,7 @@
             "install_to": "GameData/KerboKatz"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KerboKatz/SmallUtilities/releases/download/1.4.2/SmallUtilities.zip",
+    "download": "https://get.2sb.org/https://github.com/KerboKatz/SmallUtilities/releases/download/1.4.2/SmallUtilities.zip",
     "download_size": 165863,
     "download_hash": {
         "sha1": "31A088F2AFE46F1B1DB502106E7257F9A47E226D",

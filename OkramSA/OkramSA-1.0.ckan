@@ -9,7 +9,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/60383-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Orum/OkramSharedAssets"
+        "repository": "https://get.2sb.org/https://github.com/Orum/OkramSharedAssets"
     },
     "tags": [
         "flags",
@@ -25,7 +25,7 @@
             "install_to": "GameData/Okram"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Orum/OkramSharedAssets/releases/download/1.0/OkramSharedAssets.zip",
+    "download": "https://get.2sb.org/https://github.com/Orum/OkramSharedAssets/releases/download/1.0/OkramSharedAssets.zip",
     "download_size": 20071,
     "download_hash": {
         "sha1": "4A711FFDCE0927409CEB73784121D55DD54B5054",

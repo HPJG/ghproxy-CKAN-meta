@@ -13,7 +13,7 @@
     "resources": {
         "ci": "https://ksp.sarbian.com/jenkins/job/ModuleManager/",
         "homepage": "http://forum.kerbalspaceprogram.com/threads/55219",
-        "repository": "https://hk.gh-proxy.com/https://github.com/sarbian/ModuleManager"
+        "repository": "https://get.2sb.org/https://github.com/sarbian/ModuleManager"
     },
     "install": [
         {

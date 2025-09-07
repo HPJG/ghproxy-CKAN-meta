@@ -10,15 +10,15 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/164522-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/formicant/TrimIndicator",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/formicant/TrimIndicator/issues",
+        "repository": "https://get.2sb.org/https://github.com/formicant/TrimIndicator",
+        "bugtracker": "https://get.2sb.org/https://github.com/formicant/TrimIndicator/issues",
         "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=507"
     },
     "tags": [
         "plugin",
         "information"
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/formicant/TrimIndicator/releases/download/1.12.0.0/TrimIndicator-1.12.0.0.zip",
+    "download": "https://get.2sb.org/https://github.com/formicant/TrimIndicator/releases/download/1.12.0.0/TrimIndicator-1.12.0.0.zip",
     "download_size": 5247,
     "download_hash": {
         "sha1": "A502AE5D5D634BDDD654BD8CE4D2EF18E66E1AA9",

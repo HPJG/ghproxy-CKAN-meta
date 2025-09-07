@@ -10,8 +10,8 @@
     "license": "restricted",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/196339-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Tantares/NeptuneCamera",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Tantares/NeptuneCamera/issues",
+        "repository": "https://get.2sb.org/https://github.com/Tantares/NeptuneCamera",
+        "bugtracker": "https://get.2sb.org/https://github.com/Tantares/NeptuneCamera/issues",
         "remote-avc": "https://raw.githubusercontent.com/Tantares/NeptuneCamera/master/neptunecamera.version"
     },
     "tags": [
@@ -26,7 +26,7 @@
             "name": "TantaresSP"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Tantares/NeptuneCamera/releases/download/v4.3/neptune_camera.zip",
+    "download": "https://get.2sb.org/https://github.com/Tantares/NeptuneCamera/releases/download/v4.3/neptune_camera.zip",
     "download_size": 38102,
     "download_hash": {
         "sha1": "FEBC8E39935EECF43FB941AD57A5BC06C8799210",

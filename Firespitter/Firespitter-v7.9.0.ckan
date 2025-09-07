@@ -7,7 +7,7 @@
     "license": "restricted",
     "resources": {
         "homepage": "http://snjo.github.io/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/snjo/Firespitter"
+        "repository": "https://get.2sb.org/https://github.com/snjo/Firespitter"
     },
     "version": "v7.9.0",
     "ksp_version_min": "1.4.0",
@@ -34,7 +34,7 @@
             "comment": "Plugins and version file are installed from FirespitterCore, Resources from FirespitterResourcesConfig"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/snjo/Firespitter/releases/download/v7.9.0/Firespitter_7.9.0.zip",
+    "download": "https://get.2sb.org/https://github.com/snjo/Firespitter/releases/download/v7.9.0/Firespitter_7.9.0.zip",
     "download_size": 30269235,
     "download_hash": {
         "sha1": "AD3A67C25ED822B4A78B978A2EE7D48D47AA93C6",

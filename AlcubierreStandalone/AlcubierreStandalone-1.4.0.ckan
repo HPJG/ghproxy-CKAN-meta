@@ -11,8 +11,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://umbraspaceindustries.github.io/UmbraSpaceIndustries/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/UmbraSpaceIndustries/WarpDrive",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/UmbraSpaceIndustries/WarpDrive/issues",
+        "repository": "https://get.2sb.org/https://github.com/UmbraSpaceIndustries/WarpDrive",
+        "bugtracker": "https://get.2sb.org/https://github.com/UmbraSpaceIndustries/WarpDrive/issues",
         "metanetkan": "https://raw.githubusercontent.com/UmbraSpaceIndustries/CKAN/master/AlcubierreStandalone.netkan",
         "remote-avc": "https://raw.githubusercontent.com/BobPalmer/WarpDrive/master/FOR_RELEASE/GameData/UmbraSpaceIndustries/WarpDrive/WarpDrive.version"
     },
@@ -30,7 +30,7 @@
             "install_to": "GameData/UmbraSpaceIndustries"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/UmbraSpaceIndustries/WarpDrive/releases/download/1.4.0/WarpDrive_1.4.0.0.zip",
+    "download": "https://get.2sb.org/https://github.com/UmbraSpaceIndustries/WarpDrive/releases/download/1.4.0/WarpDrive_1.4.0.0.zip",
     "download_size": 2336714,
     "download_hash": {
         "sha1": "C22EC6E471C39227FBE202A5774D879CF4DC85DA",

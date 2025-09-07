@@ -7,7 +7,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/131706-1",
-        "repository": "https://hk.gh-proxy.com/https://github.com/zentarul/abcors"
+        "repository": "https://get.2sb.org/https://github.com/zentarul/abcors"
     },
     "version": "0.1.1.0",
     "ksp_version_min": "1.0.1",
@@ -17,7 +17,7 @@
             "name": "KSP-AVC"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/zentarul/abcors/releases/download/0.1.1.0/ABCORS.zip",
+    "download": "https://get.2sb.org/https://github.com/zentarul/abcors/releases/download/0.1.1.0/ABCORS.zip",
     "download_size": 3978,
     "download_hash": {
         "sha1": "42AF407D0B85EE2AA462145A15B70CE8FF398E01",

@@ -8,9 +8,9 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/35996",
         "curse": "http://kerbal.curseforge.com/projects/220602",
-        "repository": "https://hk.gh-proxy.com/https://github.com/m4v/RCSBuildAid",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/m4v/RCSBuildAid/issues",
-        "manual": "https://hk.gh-proxy.com/https://github.com/m4v/RCSBuildAid/blob/master/README.asciidoc",
+        "repository": "https://get.2sb.org/https://github.com/m4v/RCSBuildAid",
+        "bugtracker": "https://get.2sb.org/https://github.com/m4v/RCSBuildAid/issues",
+        "manual": "https://get.2sb.org/https://github.com/m4v/RCSBuildAid/blob/master/README.asciidoc",
         "x_screenshot": "https://media-curse.cursecdn.com/attachments/123/913/d485988f526b44518842525750f24b9b.png"
     },
     "version": "v0.9",

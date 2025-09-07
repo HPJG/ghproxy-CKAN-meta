@@ -8,8 +8,8 @@
     "ksp_version": "1.12",
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/CharonSSS/RSS-Origin",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/CharonSSS/RSS-Origin/issues"
+        "repository": "https://get.2sb.org/https://github.com/CharonSSS/RSS-Origin",
+        "bugtracker": "https://get.2sb.org/https://github.com/CharonSSS/RSS-Origin/issues"
     },
     "tags": [
         "planet-pack"
@@ -28,7 +28,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/CharonSSS/RSS-Origin/releases/download/v1.1.1/RSS-Origin.CelestialsPack.SaturnMoons.zip",
+    "download": "https://get.2sb.org/https://github.com/CharonSSS/RSS-Origin/releases/download/v1.1.1/RSS-Origin.CelestialsPack.SaturnMoons.zip",
     "download_size": 31156797,
     "download_hash": {
         "sha1": "8295A1B92DFAA72B0A9CB8F1F16295E1A1CEFB3D",

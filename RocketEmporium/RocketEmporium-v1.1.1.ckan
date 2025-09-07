@@ -6,12 +6,12 @@
     "author": "KSPKatten",
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSPKatten/RocketEmporium"
+        "repository": "https://get.2sb.org/https://github.com/KSPKatten/RocketEmporium"
     },
     "version": "v1.1.1",
     "ksp_version_min": "1.4.0",
     "ksp_version_max": "1.4.99",
-    "download": "https://hk.gh-proxy.com/https://github.com/KSPKatten/RocketEmporium/releases/download/v1.1.1/RocketEmporium_v1.1.1.zip",
+    "download": "https://get.2sb.org/https://github.com/KSPKatten/RocketEmporium/releases/download/v1.1.1/RocketEmporium_v1.1.1.zip",
     "download_size": 1599413,
     "download_hash": {
         "sha1": "0C2ECA09E9C10A01B95C43A2CE33CD45348B5309",

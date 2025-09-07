@@ -9,8 +9,8 @@
     "license": "CC-BY-SA-4.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/142900-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/PersistentDynamicPodNames",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/PersistentDynamicPodNames/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/PersistentDynamicPodNames",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/PersistentDynamicPodNames/issues",
         "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=308"
     },
     "tags": [
@@ -27,7 +27,7 @@
             "name": "JanitorsCloset"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/PersistentDynamicPodNames/releases/download/0.1.8/PersistentDynamicPodNames-0.1.8.zip",
+    "download": "https://get.2sb.org/https://github.com/linuxgurugamer/PersistentDynamicPodNames/releases/download/0.1.8/PersistentDynamicPodNames-0.1.8.zip",
     "download_size": 73532,
     "download_hash": {
         "sha1": "60963AD3CAD82EE1568903BADA1E8876C566ECB6",

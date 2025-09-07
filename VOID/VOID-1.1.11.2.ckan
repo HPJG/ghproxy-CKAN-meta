@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/150280-13-void-continued-vessel-orbital-informational-display/",
         "spacedock": "https://spacedock.info/mod/1413/VOID%20unVoided",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/VOID",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/VOID/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/VOID",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/VOID/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/VOID",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/VOID_unVoided/VOID_unVoided-1497180207.7749028.png"
     },
@@ -43,7 +43,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/VOID/releases/download/1.1.11.2/VOID-1.12.0-1.1.11.2.zip",
+        "https://get.2sb.org/https://github.com/linuxgurugamer/VOID/releases/download/1.1.11.2/VOID-1.12.0-1.1.11.2.zip",
         "https://spacedock.info/mod/1413/VOID%20unVoided/download/1.1.11.2"
     ],
     "download_size": 137695,

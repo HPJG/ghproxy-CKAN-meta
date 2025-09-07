@@ -10,8 +10,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/209992-112x-custom-categories",
-        "repository": "https://hk.gh-proxy.com/https://github.com/coldrifting/CustomCategories",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/coldrifting/CustomCategories/issues"
+        "repository": "https://get.2sb.org/https://github.com/coldrifting/CustomCategories",
+        "bugtracker": "https://get.2sb.org/https://github.com/coldrifting/CustomCategories/issues"
     },
     "tags": [
         "plugin",
@@ -30,7 +30,7 @@
             "name": "CommunityCategoryKit"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/coldrifting/CustomCategories/releases/download/v1.0.0/CustomCategories-v1.0.0.zip",
+    "download": "https://get.2sb.org/https://github.com/coldrifting/CustomCategories/releases/download/v1.0.0/CustomCategories-v1.0.0.zip",
     "download_size": 15985,
     "download_hash": {
         "sha1": "1C7593C08F31BA380A3797D51BED813D2F28536C",

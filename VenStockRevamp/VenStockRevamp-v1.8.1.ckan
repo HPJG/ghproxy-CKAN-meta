@@ -7,7 +7,7 @@
     "license": "CC-BY-4.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/92764",
-        "repository": "https://hk.gh-proxy.com/https://github.com/VenVen/Stock-Revamp"
+        "repository": "https://get.2sb.org/https://github.com/VenVen/Stock-Revamp"
     },
     "version": "v1.8.1",
     "ksp_version_min": "1.0.0",
@@ -23,7 +23,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/VenVen/Stock-Revamp/releases/download/v1.8.1/v1.8.1.zip",
+    "download": "https://get.2sb.org/https://github.com/VenVen/Stock-Revamp/releases/download/v1.8.1/v1.8.1.zip",
     "download_size": 44091852,
     "download_hash": {
         "sha1": "09CAEB0667AB608BD62F3B4BAF969423B7A7BE8A",

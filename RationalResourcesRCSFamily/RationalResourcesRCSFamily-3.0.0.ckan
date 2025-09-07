@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/184875-*/",
         "spacedock": "https://spacedock.info/mod/2201/Rational%20Resources",
-        "repository": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/RationalResources",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/RationalResources/issues",
+        "repository": "https://get.2sb.org/https://github.com/JadeOfMaar/RationalResources",
+        "bugtracker": "https://get.2sb.org/https://github.com/JadeOfMaar/RationalResources/issues",
         "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/RationalResources/master/GameData/RationalResources/Version/RationalResources.version",
         "x_screenshot": "https://spacedock.info/content/JadeOfMaar_11026/Rational_Resources/Rational_Resources-1633389353.6822987.png"
     },
@@ -43,7 +43,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/RationalResources/releases/download/3.0.0/RationalResources-3.0.0.zip",
+        "https://get.2sb.org/https://github.com/JadeOfMaar/RationalResources/releases/download/3.0.0/RationalResources-3.0.0.zip",
         "https://spacedock.info/mod/2201/Rational%20Resources/download/3.0.0"
     ],
     "download_size": 37841839,

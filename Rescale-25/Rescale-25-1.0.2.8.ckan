@@ -10,8 +10,8 @@
     "license": "public-domain",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/163965-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Galileo88/Rescale",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Galileo88/Rescale/issues"
+        "repository": "https://get.2sb.org/https://github.com/Galileo88/Rescale",
+        "bugtracker": "https://get.2sb.org/https://github.com/Galileo88/Rescale/issues"
     },
     "tags": [
         "config",
@@ -50,7 +50,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Galileo88/Rescale/releases/download/1.0.2.8/RESCALE_2.5.zip",
+    "download": "https://get.2sb.org/https://github.com/Galileo88/Rescale/releases/download/1.0.2.8/RESCALE_2.5.zip",
     "download_size": 18460,
     "download_hash": {
         "sha1": "D5D150D165F963B19D90BBE29A6120758EB9FCC8",

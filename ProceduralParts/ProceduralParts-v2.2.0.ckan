@@ -18,8 +18,8 @@
     "license": "CC-BY-SA",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/204080-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ProceduralParts",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ProceduralParts/issues",
+        "repository": "https://get.2sb.org/https://github.com/KSP-RO/ProceduralParts",
+        "bugtracker": "https://get.2sb.org/https://github.com/KSP-RO/ProceduralParts/issues",
         "remote-avc": "https://raw.githubusercontent.com/KSP-RO/ProceduralParts/master/GameData/ProceduralParts/ProceduralParts.version"
     },
     "tags": [
@@ -42,7 +42,7 @@
             "name": "BasicProceduralTextures"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ProceduralParts/releases/download/v2.2.0/ProceduralParts-2.2.zip",
+    "download": "https://get.2sb.org/https://github.com/KSP-RO/ProceduralParts/releases/download/v2.2.0/ProceduralParts-2.2.zip",
     "download_size": 3829327,
     "download_hash": {
         "sha1": "D1AA5A5A0532EF98381B055F2EE7269CF2A8C70A",

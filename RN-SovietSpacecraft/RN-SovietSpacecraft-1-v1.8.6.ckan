@@ -11,8 +11,8 @@
     "license": "CC-BY-NC-ND-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/133579-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/SovietSpacecraft",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-RO/SovietSpacecraft/issues",
+        "repository": "https://get.2sb.org/https://github.com/KSP-RO/SovietSpacecraft",
+        "bugtracker": "https://get.2sb.org/https://github.com/KSP-RO/SovietSpacecraft/issues",
         "remote-avc": "http://raw.githubusercontent.com/KSP-RO/SovietSpacecraft/master/GameData/RN_Soyuz/SovietSpacecraft.version"
     },
     "tags": [
@@ -53,7 +53,7 @@
             "install_to": "Ships"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/SovietSpacecraft/releases/download/v1.8.6/RN_SovietSpacecraft_v1.8.6.zip",
+    "download": "https://get.2sb.org/https://github.com/KSP-RO/SovietSpacecraft/releases/download/v1.8.6/RN_SovietSpacecraft_v1.8.6.zip",
     "download_size": 88724949,
     "download_hash": {
         "sha1": "23AC0B100FC28205AC6C30DAB764C232A9EAC678",

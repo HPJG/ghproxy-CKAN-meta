@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/190916-18x-big-ben-stopwatch-timers-to-count-down-and-up/",
         "spacedock": "https://spacedock.info/mod/2307/BigBen",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/BigBen",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/BigBen/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/BigBen",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/BigBen/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/BigBen",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/BigBen/BigBen-1578974416.9790013.png"
     },
@@ -33,7 +33,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/BigBen/releases/download/0.0.2.8/BigBen-1.12.0-0.0.2.8.zip",
+    "download": "https://get.2sb.org/https://github.com/linuxgurugamer/BigBen/releases/download/0.0.2.8/BigBen-1.12.0-0.0.2.8.zip",
     "download_size": 821900,
     "download_hash": {
         "sha1": "459504C850BD2B0B7728113D153B8084ADA05AC3",

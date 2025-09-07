@@ -15,10 +15,10 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/210548-112-freeiva/",
         "spacedock": "https://spacedock.info/mod/3151/FreeIva",
-        "repository": "https://hk.gh-proxy.com/https://github.com/FirstPersonKSP/FreeIva",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/FirstPersonKSP/FreeIva/issues",
-        "discussions": "https://hk.gh-proxy.com/https://github.com/FirstPersonKSP/FreeIva/discussions",
-        "remote-avc": "https://hk.gh-proxy.com/https://github.com/FirstPersonKSP/FreeIva/releases/latest/download/FreeIva.version",
+        "repository": "https://get.2sb.org/https://github.com/FirstPersonKSP/FreeIva",
+        "bugtracker": "https://get.2sb.org/https://github.com/FirstPersonKSP/FreeIva/issues",
+        "discussions": "https://get.2sb.org/https://github.com/FirstPersonKSP/FreeIva/discussions",
+        "remote-avc": "https://get.2sb.org/https://github.com/FirstPersonKSP/FreeIva/releases/latest/download/FreeIva.version",
         "x_screenshot": "https://spacedock.info/content/JonnyOThan_33590/FreeIva/FreeIva-1668095034.png"
     },
     "tags": [
@@ -194,7 +194,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/FirstPersonKSP/FreeIva/releases/download/0.2.19.0/FreeIva-0.2.19.0.zip",
+        "https://get.2sb.org/https://github.com/FirstPersonKSP/FreeIva/releases/download/0.2.19.0/FreeIva-0.2.19.0.zip",
         "https://spacedock.info/mod/3151/FreeIva/download/0.2.19.0"
     ],
     "download_size": 22149860,

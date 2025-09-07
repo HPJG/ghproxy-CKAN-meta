@@ -9,10 +9,10 @@
     "ksp_version_max": "1.11.99",
     "license": "CC-BY-SA-4.0",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/DRVeyl/RealAntennas/wiki",
-        "repository": "https://hk.gh-proxy.com/https://github.com/DRVeyl/RealAntennas",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/DRVeyl/RealAntennas/issues",
-        "remote-avc": "https://hk.gh-proxy.com/https://github.com/DRVeyl/RealAntennas/raw/master/GameData/RealAntennas/RealAntennas.version"
+        "homepage": "https://get.2sb.org/https://github.com/DRVeyl/RealAntennas/wiki",
+        "repository": "https://get.2sb.org/https://github.com/DRVeyl/RealAntennas",
+        "bugtracker": "https://get.2sb.org/https://github.com/DRVeyl/RealAntennas/issues",
+        "remote-avc": "https://get.2sb.org/https://github.com/DRVeyl/RealAntennas/raw/master/GameData/RealAntennas/RealAntennas.version"
     },
     "tags": [
         "comms",
@@ -37,7 +37,7 @@
             "name": "CommNetConstellation"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/DRVeyl/RealAntennas/releases/download/v2.0/RealAntennas-2.0.zip",
+    "download": "https://get.2sb.org/https://github.com/DRVeyl/RealAntennas/releases/download/v2.0/RealAntennas-2.0.zip",
     "download_size": 92454,
     "download_hash": {
         "sha1": "C41BA10CBA00290DB43B781B4C5D380226085A86",

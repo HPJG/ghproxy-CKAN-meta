@@ -10,9 +10,9 @@
     "license": "restricted",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/182679-161-restock-revamping-ksps-art/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/PorktoberRevolution/ReStocked",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/PorktoberRevolution/ReStocked/issues",
-        "metanetkan": "https://hk.gh-proxy.com/https://github.com/PorktoberRevolution/ReStocked/raw/master/CKAN/ReStockPlus.netkan",
+        "repository": "https://get.2sb.org/https://github.com/PorktoberRevolution/ReStocked",
+        "bugtracker": "https://get.2sb.org/https://github.com/PorktoberRevolution/ReStocked/issues",
+        "metanetkan": "https://get.2sb.org/https://github.com/PorktoberRevolution/ReStocked/raw/master/CKAN/ReStockPlus.netkan",
         "remote-avc": "https://raw.githubusercontent.com/PorktoberRevolution/ReStocked/prod/Distribution/RestockPlus/GameData/ReStockPlus/Versioning/ReStockPlus.version"
     },
     "tags": [
@@ -46,7 +46,7 @@
             "comment": "Restock+ installation"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/PorktoberRevolution/ReStocked/releases/download/1.4.1/ReStockPlus_1_4_1.zip",
+    "download": "https://get.2sb.org/https://github.com/PorktoberRevolution/ReStocked/releases/download/1.4.1/ReStockPlus_1_4_1.zip",
     "download_size": 19082087,
     "download_hash": {
         "sha1": "FDC0D2073A97ADBF546FDDE70C4E64556D4A78CB",

@@ -12,8 +12,8 @@
     "license": "CC-BY-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/73648-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Swamp-Ig/KSPAPIExtensions",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Swamp-Ig/KSPAPIExtensions/issues"
+        "repository": "https://get.2sb.org/https://github.com/Swamp-Ig/KSPAPIExtensions",
+        "bugtracker": "https://get.2sb.org/https://github.com/Swamp-Ig/KSPAPIExtensions/issues"
     },
     "tags": [
         "plugin",
@@ -25,7 +25,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Swamp-Ig/KSPAPIExtensions/releases/download/v1.7.2/KSPAPIExtensions_v1.7.2.zip",
+    "download": "https://get.2sb.org/https://github.com/Swamp-Ig/KSPAPIExtensions/releases/download/v1.7.2/KSPAPIExtensions_v1.7.2.zip",
     "download_size": 57498,
     "download_hash": {
         "sha1": "68FEB0366C9982FA150003F2EC91458B029810C0",

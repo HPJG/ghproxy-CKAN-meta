@@ -10,7 +10,7 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/167450-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/shadowmage45/TexturesUnlimited"
+        "repository": "https://get.2sb.org/https://github.com/shadowmage45/TexturesUnlimited"
     },
     "tags": [
         "plugin",
@@ -28,7 +28,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/shadowmage45/TexturesUnlimited/releases/download/1.5.8.23/TexturesUnlimited-1.5.8.23.zip",
+    "download": "https://get.2sb.org/https://github.com/shadowmage45/TexturesUnlimited/releases/download/1.5.8.23/TexturesUnlimited-1.5.8.23.zip",
     "download_size": 5605744,
     "download_hash": {
         "sha1": "B6A71E99B8B529F1B11B9070D891E230D506EF02",

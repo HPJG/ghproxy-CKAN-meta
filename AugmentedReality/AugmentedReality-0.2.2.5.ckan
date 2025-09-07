@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/160249-122-augmented-reality-ar-docking-revived",
         "spacedock": "https://spacedock.info/mod/1359/AugmentedReality",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/AugmentedReality",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/AugmentedReality/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/AugmentedReality",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/AugmentedReality/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/AugmentedReality",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/AugmentedReality/AugmentedReality-1494068485.188098.jpg"
     },
@@ -26,7 +26,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/AugmentedReality/releases/download/0.2.2.5/AugmentedReality-1.12.0-0.2.2.5.zip",
+    "download": "https://get.2sb.org/https://github.com/linuxgurugamer/AugmentedReality/releases/download/0.2.2.5/AugmentedReality-1.12.0-0.2.2.5.zip",
     "download_size": 5647776,
     "download_hash": {
         "sha1": "DF3EE02A930336AB61742C471BF014C23BCD379D",

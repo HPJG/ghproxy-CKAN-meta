@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/190270-18x-store-my-reports/",
         "spacedock": "https://spacedock.info/mod/2289/Store%20My%20Reports",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/StoreMyReports",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/StoreMyReports/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/StoreMyReports",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/StoreMyReports/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/StoreMyReports"
     },
     "tags": [

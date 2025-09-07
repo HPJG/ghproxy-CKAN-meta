@@ -7,7 +7,7 @@
     "license": "BSD-2-clause",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/128303-11x-precise-maneuver-editor-ver-20-pre-17-04-2016/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/radistmorse/KSPPreciseManeuver"
+        "repository": "https://get.2sb.org/https://github.com/radistmorse/KSPPreciseManeuver"
     },
     "version": "2:2.4.2",
     "ksp_version_min": "1.6.0",
@@ -25,7 +25,7 @@
             "name": "PreciseNode"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/radistmorse/KSPPreciseManeuver/releases/download/2.4.2/PreciseManeuver.zip",
+    "download": "https://get.2sb.org/https://github.com/radistmorse/KSPPreciseManeuver/releases/download/2.4.2/PreciseManeuver.zip",
     "download_size": 117273,
     "download_hash": {
         "sha1": "B60F8857818E962BA0FC26139E02D2ECC5AE77DD",

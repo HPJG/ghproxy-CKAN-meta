@@ -7,7 +7,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/81543",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Ninenium/NavHud"
+        "repository": "https://get.2sb.org/https://github.com/Ninenium/NavHud"
     },
     "version": "1.3.2",
     "ksp_version": "1.2",
@@ -17,7 +17,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Ninenium/NavHud/releases/download/1.3.2/NavHud_1.3.2.zip",
+    "download": "https://get.2sb.org/https://github.com/Ninenium/NavHud/releases/download/1.3.2/NavHud_1.3.2.zip",
     "download_size": 59282,
     "download_hash": {
         "sha1": "52EB3621215C29DFEADFF09132284A136E2480C1",

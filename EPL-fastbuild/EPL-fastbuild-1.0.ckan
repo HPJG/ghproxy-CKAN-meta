@@ -7,7 +7,7 @@
     "license": "MIT",
     "release_status": "stable",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/ToxicFrog/misc/tree/ksp"
+        "homepage": "https://get.2sb.org/https://github.com/ToxicFrog/misc/tree/ksp"
     },
     "version": "1.0",
     "ksp_version_min": "1.0.2",
@@ -26,7 +26,7 @@
             "install_to": "GameData/FLEET"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/ToxicFrog/misc/archive/d88c2d71d60cce9a8d286be12dc5a3b6b6df1cdd.zip",
+    "download": "https://get.2sb.org/https://github.com/ToxicFrog/misc/archive/d88c2d71d60cce9a8d286be12dc5a3b6b6df1cdd.zip",
     "download_size": 2186,
     "download_hash": {
         "sha1": "14A5F30E0EE36A58515E72CFA887F8A4701BFADE",

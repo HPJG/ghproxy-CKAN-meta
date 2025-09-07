@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/226671-1125-kerbals-get-old-adds-an-aging-mechanic-to-ksp-release-10-1212025/",
         "spacedock": "https://spacedock.info/mod/3807/Kerbals%20Get%20Old!",
-        "repository": "https://hk.gh-proxy.com/https://github.com/iLikeGothMommys/KerbalsGetOld",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/iLikeGothMommys/KerbalsGetOld/issues",
+        "repository": "https://get.2sb.org/https://github.com/iLikeGothMommys/KerbalsGetOld",
+        "bugtracker": "https://get.2sb.org/https://github.com/iLikeGothMommys/KerbalsGetOld/issues",
         "remote-avc": "https://raw.githubusercontent.com/iLikeGothMommys/KerbalsGetOld/refs/heads/main/KerbalAgingMod/KerbalsGetOld.version",
         "x_screenshot": "https://spacedock.info/content/iLikeGothMommys_144772/Kerbals_Get_Old/Kerbals_Get_Old-1737485806.png"
     },
@@ -27,7 +27,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/iLikeGothMommys/KerbalsGetOld/releases/download/Release1.0.2/Kerbals_Get_Old-1.0.2.zip",
+        "https://get.2sb.org/https://github.com/iLikeGothMommys/KerbalsGetOld/releases/download/Release1.0.2/Kerbals_Get_Old-1.0.2.zip",
         "https://spacedock.info/mod/3807/Kerbals%20Get%20Old!/download/1.0.2"
     ],
     "download_size": 20999,

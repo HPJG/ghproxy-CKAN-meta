@@ -10,8 +10,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/97829-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/SirDiazo/ControlLock",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/SirDiazo/ControlLock/issues"
+        "repository": "https://get.2sb.org/https://github.com/SirDiazo/ControlLock",
+        "bugtracker": "https://get.2sb.org/https://github.com/SirDiazo/ControlLock/issues"
     },
     "tags": [
         "plugin"
@@ -27,7 +27,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/SirDiazo/ControlLock/releases/download/1.5/ControlLock15.zip",
+    "download": "https://get.2sb.org/https://github.com/SirDiazo/ControlLock/releases/download/1.5/ControlLock15.zip",
     "download_size": 16853,
     "download_hash": {
         "sha1": "ABBE1FADE145991B40716E89EE729C340FE02F96",

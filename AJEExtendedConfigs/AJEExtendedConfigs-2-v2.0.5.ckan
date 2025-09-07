@@ -8,8 +8,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/169520-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/seanyoung247/AJEExtended",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/seanyoung247/AJEExtended/issues"
+        "repository": "https://get.2sb.org/https://github.com/seanyoung247/AJEExtended",
+        "bugtracker": "https://get.2sb.org/https://github.com/seanyoung247/AJEExtended/issues"
     },
     "tags": [
         "config",
@@ -32,7 +32,7 @@
             ]
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/seanyoung247/AJEExtended/releases/download/2.0.5/AJEExtended.zip",
+    "download": "https://get.2sb.org/https://github.com/seanyoung247/AJEExtended/releases/download/2.0.5/AJEExtended.zip",
     "download_size": 7616017,
     "download_hash": {
         "sha1": "4AE3AD8BBB1A3DFF353B5111B3A000C8DCDBD4B5",

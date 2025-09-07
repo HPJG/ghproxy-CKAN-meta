@@ -8,8 +8,8 @@
     "license": "CC-BY-NC-ND-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/203753-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/jcyuan06/Kcalbeloh-System",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/jcyuan06/Kcalbeloh-System/issues"
+        "repository": "https://get.2sb.org/https://github.com/jcyuan06/Kcalbeloh-System",
+        "bugtracker": "https://get.2sb.org/https://github.com/jcyuan06/Kcalbeloh-System/issues"
     },
     "tags": [
         "planet-pack",
@@ -34,7 +34,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/jcyuan06/Kcalbeloh-System/releases/download/v1.1.7/Kcalbeloh.Textures-4k.zip",
+    "download": "https://get.2sb.org/https://github.com/jcyuan06/Kcalbeloh-System/releases/download/v1.1.7/Kcalbeloh.Textures-4k.zip",
     "download_size": 695482259,
     "download_hash": {
         "sha1": "C9EC746F33F327BBD5C6052C319F4319E22F0122",

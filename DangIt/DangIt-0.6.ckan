@@ -7,8 +7,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/81794",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Ippo343/DangIt",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Ippo343/DangIt/issues",
+        "repository": "https://get.2sb.org/https://github.com/Ippo343/DangIt",
+        "bugtracker": "https://get.2sb.org/https://github.com/Ippo343/DangIt/issues",
         "kerbalstuff": "https://kerbalstuff.com/mod/7"
     },
     "version": "0.6",

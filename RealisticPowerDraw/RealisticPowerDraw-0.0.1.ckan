@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/198035-18x-19x-110x-realistic-power-draw/",
         "spacedock": "https://spacedock.info/mod/2565/Realistic%20Power%20Draw",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/RealisticPowerDraw",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/RealisticPowerDraw/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/RealisticPowerDraw",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/RealisticPowerDraw/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/RealisticPowerDraw"
     },
     "tags": [

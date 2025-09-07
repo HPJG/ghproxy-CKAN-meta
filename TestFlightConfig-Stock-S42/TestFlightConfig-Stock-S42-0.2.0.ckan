@@ -10,8 +10,8 @@
     "ksp_version_max": "1.9",
     "license": "MIT",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/Starstrider42/TestFlight-Configs",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Starstrider42/TestFlight-Configs/issues"
+        "repository": "https://get.2sb.org/https://github.com/Starstrider42/TestFlight-Configs",
+        "bugtracker": "https://get.2sb.org/https://github.com/Starstrider42/TestFlight-Configs/issues"
     },
     "tags": [
         "config"
@@ -44,7 +44,7 @@
             "filter_regexp": "(?<!Stock_.+\\.cfg)$"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Starstrider42/TestFlight-Configs/releases/download/0.2.0/Stock%2B-TF-Configs-0.2.0.zip",
+    "download": "https://get.2sb.org/https://github.com/Starstrider42/TestFlight-Configs/releases/download/0.2.0/Stock%2B-TF-Configs-0.2.0.zip",
     "download_size": 18167,
     "download_hash": {
         "sha1": "FC1892FAA414397BE6FF03358618D536B349D1E1",

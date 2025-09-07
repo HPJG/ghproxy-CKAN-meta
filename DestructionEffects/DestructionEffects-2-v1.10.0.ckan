@@ -10,12 +10,12 @@
     "license": "CC0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/99088-10xdestruction-effects-flames-and-smoke-on-joint-breaks",
-        "repository": "https://hk.gh-proxy.com/https://github.com/jrodrigv/DestructionEffects"
+        "repository": "https://get.2sb.org/https://github.com/jrodrigv/DestructionEffects"
     },
     "version": "2:v1.10.0",
     "ksp_version_min": "1.7.0",
     "ksp_version_max": "1.7.99",
-    "download": "https://hk.gh-proxy.com/https://github.com/jrodrigv/DestructionEffects/releases/download/v1.10.0/DestructionEffects._08302019.zip",
+    "download": "https://get.2sb.org/https://github.com/jrodrigv/DestructionEffects/releases/download/v1.10.0/DestructionEffects._08302019.zip",
     "download_size": 481700,
     "download_hash": {
         "sha1": "55BE40C159D1BD835F8FE788EB52509771B8F458",

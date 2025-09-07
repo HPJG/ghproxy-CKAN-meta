@@ -13,8 +13,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/194876-18x-19x-waypoint-manager/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/WaypointManager",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/WaypointManager/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/WaypointManager",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/WaypointManager/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/WaypointManager"
     },
     "tags": [
@@ -36,7 +36,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/WaypointManager/releases/download/2.8.3/WaypointManager-1.11.2-2.8.3.zip",
+    "download": "https://get.2sb.org/https://github.com/linuxgurugamer/WaypointManager/releases/download/2.8.3/WaypointManager-1.11.2-2.8.3.zip",
     "download_size": 112819,
     "download_hash": {
         "sha1": "C9A5BF945BB7089AEB3C79322DF5010258CC87AC",

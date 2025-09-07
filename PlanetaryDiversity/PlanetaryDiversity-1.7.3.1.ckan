@@ -10,7 +10,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/187999-173-planetary-diversity/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/Planetary-Diversity"
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/Planetary-Diversity"
     },
     "version": "1.7.3.1",
     "ksp_version": "1.7",
@@ -23,7 +23,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/Planetary-Diversity/releases/download/1.7.3.1/PlanetaryDiversity-1.7.2-1.7.3.1.zip",
+    "download": "https://get.2sb.org/https://github.com/linuxgurugamer/Planetary-Diversity/releases/download/1.7.3.1/PlanetaryDiversity-1.7.2-1.7.3.1.zip",
     "download_size": 30702,
     "download_hash": {
         "sha1": "29B9D4CF087D05B626B576A0BE7D3F17A1391909",

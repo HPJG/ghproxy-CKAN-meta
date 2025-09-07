@@ -8,8 +8,8 @@
     ],
     "license": "CC-BY-4.0",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/jamesharling/EngineIgniter",
-        "repository": "https://hk.gh-proxy.com/https://github.com/jamesharling/EngineIgniter"
+        "homepage": "https://get.2sb.org/https://github.com/jamesharling/EngineIgniter",
+        "repository": "https://get.2sb.org/https://github.com/jamesharling/EngineIgniter"
     },
     "version": "v0.2",
     "ksp_version": "1.2.2",
@@ -18,7 +18,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/jamesharling/EngineIgniter/releases/download/v0.2/EngineIgniter.0.2.zip",
+    "download": "https://get.2sb.org/https://github.com/jamesharling/EngineIgniter/releases/download/v0.2/EngineIgniter.0.2.zip",
     "download_size": 4819,
     "download_hash": {
         "sha1": "A9040C40490E25109E07170AB93C19321A678317",

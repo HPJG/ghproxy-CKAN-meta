@@ -10,8 +10,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/201153-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSPModdingLibs/KSPBugReport",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSPModdingLibs/KSPBugReport/issues",
+        "repository": "https://get.2sb.org/https://github.com/KSPModdingLibs/KSPBugReport",
+        "bugtracker": "https://get.2sb.org/https://github.com/KSPModdingLibs/KSPBugReport/issues",
         "remote-avc": "https://raw.githubusercontent.com/HarmonyKSP/KSPBugReport/master/GameData/KspBugReport/KspBugReport.version"
     },
     "tags": [
@@ -24,7 +24,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSPModdingLibs/KSPBugReport/releases/download/1.1/KSPBugReport_1.1.0_KSP1.8%2B.zip",
+    "download": "https://get.2sb.org/https://github.com/KSPModdingLibs/KSPBugReport/releases/download/1.1/KSPBugReport_1.1.0_KSP1.8%2B.zip",
     "download_size": 62737,
     "download_hash": {
         "sha1": "0622863384E16771976F0FF734833A81EF79257E",

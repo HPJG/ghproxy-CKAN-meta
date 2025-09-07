@@ -8,8 +8,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/107085",
-        "repository": "https://hk.gh-proxy.com/https://github.com/IRnifty/KerbalConfigEditor",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/IRnifty/KerbalConfigEditor/issues",
+        "repository": "https://get.2sb.org/https://github.com/IRnifty/KerbalConfigEditor",
+        "bugtracker": "https://get.2sb.org/https://github.com/IRnifty/KerbalConfigEditor/issues",
         "kerbalstuff": "https://kerbalstuff.com/mod/495"
     },
     "version": "v1.0.2",

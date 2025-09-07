@@ -6,8 +6,8 @@
     "author": "Raidernick",
     "license": "CC-BY-NC-ND-3.0",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/KSP-RO/SovietRockets",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/SovietRockets"
+        "homepage": "https://get.2sb.org/https://github.com/KSP-RO/SovietRockets",
+        "repository": "https://get.2sb.org/https://github.com/KSP-RO/SovietRockets"
     },
     "version": "v1.6.4",
     "ksp_version": "1.0.5",
@@ -48,7 +48,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/SovietRockets/releases/download/v1.6.4/RN_Soviet_Rockets_v1.6.4.zip",
+    "download": "https://get.2sb.org/https://github.com/KSP-RO/SovietRockets/releases/download/v1.6.4/RN_Soviet_Rockets_v1.6.4.zip",
     "download_size": 36129243,
     "download_hash": {
         "sha1": "CF4823313C1CC537DB5C252A6C5C4238ABED973A",

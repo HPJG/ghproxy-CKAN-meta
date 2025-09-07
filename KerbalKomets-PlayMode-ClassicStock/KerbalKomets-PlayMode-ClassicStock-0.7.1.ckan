@@ -11,9 +11,9 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/157387-122-kerbalkomets-v020-add-komets-to-your-game/",
         "spacedock": "https://spacedock.info/mod/1249/Kerbal%20Komets",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Angel-125/KerbalKomets",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Angel-125/KerbalKomets/issues",
-        "remote-avc": "https://hk.gh-proxy.com/https://github.com/Angel-125/KerbalKomets/raw/master/GameData/WildBlueIndustries/KerbalKomets/KerbalKomets.version",
+        "repository": "https://get.2sb.org/https://github.com/Angel-125/KerbalKomets",
+        "bugtracker": "https://get.2sb.org/https://github.com/Angel-125/KerbalKomets/issues",
+        "remote-avc": "https://get.2sb.org/https://github.com/Angel-125/KerbalKomets/raw/master/GameData/WildBlueIndustries/KerbalKomets/KerbalKomets.version",
         "x_screenshot": "https://spacedock.info/content/Angel125_1093/Kerbal_Komets/Kerbal_Komets-1488831145.115356.png"
     },
     "tags": [

@@ -1,14 +1,14 @@
 {
     "spec_version": 1,
-    "comment": "Manually created because of https://hk.gh-proxy.com/https://github.com/BahamutoD/BDAnimationModules/issues/1",
+    "comment": "Manually created because of https://get.2sb.org/https://github.com/BahamutoD/BDAnimationModules/issues/1",
     "identifier": "BDAnimationModules",
     "name": "BahamutoD Animation Modules",
     "abstract": "Animation modules plugin for KSP",
     "author": "BahamutoD",
     "license": "CC-BY-SA-3.0",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/BahamutoD/BDAnimationModules",
-        "repository": "https://hk.gh-proxy.com/https://github.com/BahamutoD/BDAnimationModules"
+        "homepage": "https://get.2sb.org/https://github.com/BahamutoD/BDAnimationModules",
+        "repository": "https://get.2sb.org/https://github.com/BahamutoD/BDAnimationModules"
     },
     "version": "v0.6.2",
     "ksp_version_min": "1.0.0",

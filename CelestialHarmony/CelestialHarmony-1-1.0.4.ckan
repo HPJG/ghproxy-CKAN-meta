@@ -8,8 +8,8 @@
     "license": "restricted",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/226204-112x-celestial-harmony-v10-wip/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/ProximaCentauri-star/Celestial-Harmony",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/ProximaCentauri-star/Celestial-Harmony/issues"
+        "repository": "https://get.2sb.org/https://github.com/ProximaCentauri-star/Celestial-Harmony",
+        "bugtracker": "https://get.2sb.org/https://github.com/ProximaCentauri-star/Celestial-Harmony/issues"
     },
     "tags": [
         "planet-pack"
@@ -67,7 +67,7 @@
             "name": "Parallax"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/ProximaCentauri-star/Celestial-Harmony/releases/download/1.0.4/_Harmonia.zip",
+    "download": "https://get.2sb.org/https://github.com/ProximaCentauri-star/Celestial-Harmony/releases/download/1.0.4/_Harmonia.zip",
     "download_size": 1370387208,
     "download_hash": {
         "sha1": "AA9D7C687967C63ABDF9E967DA40DE240A37AA0C",

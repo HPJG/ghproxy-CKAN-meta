@@ -15,8 +15,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/223692-1125-tweakscalerescaled-scale-your-parts-in-the-editor/",
         "spacedock": "https://spacedock.info/mod/3514/TweakScale%20Rescaled",
-        "repository": "https://hk.gh-proxy.com/https://github.com/JonnyOThan/TweakScale",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/JonnyOThan/TweakScale/issues",
+        "repository": "https://get.2sb.org/https://github.com/JonnyOThan/TweakScale",
+        "bugtracker": "https://get.2sb.org/https://github.com/JonnyOThan/TweakScale/issues",
         "remote-avc": "https://raw.githubusercontent.com/JonnyOThan/TweakScale/master/GameData/TweakScale/TweakScale.version",
         "x_screenshot": "https://spacedock.info/content/JonnyOThan_33590/TweakScale_Rescaled/TweakScale_Rescaled-1707076072.png"
     },
@@ -65,7 +65,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/JonnyOThan/TweakScale/releases/download/v3.2.3/TweakScaleRescaled-v3.2.3.zip",
+        "https://get.2sb.org/https://github.com/JonnyOThan/TweakScale/releases/download/v3.2.3/TweakScaleRescaled-v3.2.3.zip",
         "https://spacedock.info/mod/3514/TweakScale%20Rescaled/download/3.2.3"
     ],
     "download_size": 154708,

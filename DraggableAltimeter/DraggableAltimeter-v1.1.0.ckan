@@ -11,9 +11,9 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/152303-12-draggable-altimeter-100/",
         "spacedock": "https://spacedock.info/mod/1077/Draggable%20Altimeter",
-        "repository": "https://hk.gh-proxy.com/https://github.com/andrew-vant/dragalt",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/andrew-vant/dragalt/issues",
-        "remote-avc": "https://hk.gh-proxy.com/https://github.com/andrew-vant/dragalt/releases/latest/download/DraggableAltimeter.version"
+        "repository": "https://get.2sb.org/https://github.com/andrew-vant/dragalt",
+        "bugtracker": "https://get.2sb.org/https://github.com/andrew-vant/dragalt/issues",
+        "remote-avc": "https://get.2sb.org/https://github.com/andrew-vant/dragalt/releases/latest/download/DraggableAltimeter.version"
     },
     "tags": [
         "plugin",

@@ -14,9 +14,9 @@
     "license": "CC-BY-NC-SA-3.0",
     "release_status": "testing",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/FirstPersonKSP/ASET_Avionics",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/FirstPersonKSP/ASET_Avionics/issues",
-        "discussions": "https://hk.gh-proxy.com/https://github.com/FirstPersonKSP/ASET_Avionics/discussions",
+        "repository": "https://get.2sb.org/https://github.com/FirstPersonKSP/ASET_Avionics",
+        "bugtracker": "https://get.2sb.org/https://github.com/FirstPersonKSP/ASET_Avionics/issues",
+        "discussions": "https://get.2sb.org/https://github.com/FirstPersonKSP/ASET_Avionics/discussions",
         "remote-avc": "https://raw.githubusercontent.com/FirstPersonKSP/ASET_Avionics/main/GameData/ASET/ASET_Avionics/ASET_Avionics.version"
     },
     "tags": [
@@ -47,7 +47,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/FirstPersonKSP/ASET_Avionics/releases/download/v3.0.2/ASET_Avionics-v3.0.2.zip",
+    "download": "https://get.2sb.org/https://github.com/FirstPersonKSP/ASET_Avionics/releases/download/v3.0.2/ASET_Avionics-v3.0.2.zip",
     "download_size": 5713534,
     "download_hash": {
         "sha256": "FC04D74467AC686C451B942ECD5DA3423C12FE72B1A1580874A7AB39170FD8AB"

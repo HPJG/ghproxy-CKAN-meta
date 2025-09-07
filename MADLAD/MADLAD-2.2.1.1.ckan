@@ -10,15 +10,15 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/185536-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/severedsolo/MADLAD",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/severedsolo/MADLAD/issues",
+        "repository": "https://get.2sb.org/https://github.com/severedsolo/MADLAD",
+        "bugtracker": "https://get.2sb.org/https://github.com/severedsolo/MADLAD/issues",
         "remote-avc": "https://raw.githubusercontent.com:443/severedsolo/MADLAD/master/MADLAD.version"
     },
     "tags": [
         "plugin",
         "information"
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/severedsolo/MADLAD/releases/download/2.2.1.1/MADLAD.zip",
+    "download": "https://get.2sb.org/https://github.com/severedsolo/MADLAD/releases/download/2.2.1.1/MADLAD.zip",
     "download_size": 12996,
     "download_hash": {
         "sha1": "34B7B6CBBEE4FE785AC5F541C0C1502892396539",

@@ -6,7 +6,7 @@
     "author": "Galileo88",
     "license": "public-domain",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/Galileo88/PlayYourWay"
+        "repository": "https://get.2sb.org/https://github.com/Galileo88/PlayYourWay"
     },
     "version": "1.0.4",
     "ksp_version_min": "1.2.2",
@@ -21,7 +21,7 @@
             "name": "ContractConfigurator"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Galileo88/PlayYourWay/releases/download/1.0.4/PlayYourWay.1.0.4.zip",
+    "download": "https://get.2sb.org/https://github.com/Galileo88/PlayYourWay/releases/download/1.0.4/PlayYourWay.1.0.4.zip",
     "download_size": 24434,
     "download_hash": {
         "sha1": "8E1D7CD74FB98EABADCD0A96C71C91B6FC894718",

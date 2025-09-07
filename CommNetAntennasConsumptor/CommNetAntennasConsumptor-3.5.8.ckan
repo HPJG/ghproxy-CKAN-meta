@@ -10,8 +10,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/177292-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/yalov/CommNetAntennasConsumptor",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/yalov/CommNetAntennasConsumptor/issues",
+        "repository": "https://get.2sb.org/https://github.com/yalov/CommNetAntennasConsumptor",
+        "bugtracker": "https://get.2sb.org/https://github.com/yalov/CommNetAntennasConsumptor/issues",
         "remote-avc": "https://raw.githubusercontent.com/yalov/CommNetAntennasConsumptor/master/CommNetAntennasConsumptor.version"
     },
     "tags": [
@@ -52,7 +52,7 @@
             "name": "Kerbalism"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/yalov/CommNetAntennasConsumptor/releases/download/3.5.8/CommNetAntennasConsumptor-v3.5.8.zip",
+    "download": "https://get.2sb.org/https://github.com/yalov/CommNetAntennasConsumptor/releases/download/3.5.8/CommNetAntennasConsumptor-v3.5.8.zip",
     "download_size": 86328,
     "download_hash": {
         "sha1": "D8D7BD6FE8CB4726CB3649B6D5F11066503A12E0",

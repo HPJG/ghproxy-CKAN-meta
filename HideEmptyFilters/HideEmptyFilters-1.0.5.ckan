@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/226265-112x-hide-empty-filters-%E2%80%93-clean-up-your-part-catalog-12-17-2024/",
         "spacedock": "https://spacedock.info/mod/3765/Hide%20Empty%20Filters",
-        "repository": "https://hk.gh-proxy.com/https://github.com/AlexSkylark/HideEmptyFilters",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/AlexSkylark/HideEmptyFilters/issues",
+        "repository": "https://get.2sb.org/https://github.com/AlexSkylark/HideEmptyFilters",
+        "bugtracker": "https://get.2sb.org/https://github.com/AlexSkylark/HideEmptyFilters/issues",
         "remote-avc": " https://raw.githubusercontent.com/AlexSkylark/HideEmptyFilters/refs/heads/main/GameData/HideEmptyFilters/HideEmptyFilters.version",
         "x_screenshot": "https://spacedock.info/content/AlexStarlight_143040/Hide_Empty_Filters/Hide_Empty_Filters-1731796097.png"
     },
@@ -33,7 +33,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/AlexSkylark/HideEmptyFilters/releases/download/v1.0.5/HideEmptyFilters.zip",
+        "https://get.2sb.org/https://github.com/AlexSkylark/HideEmptyFilters/releases/download/v1.0.5/HideEmptyFilters.zip",
         "https://spacedock.info/mod/3765/Hide%20Empty%20Filters/download/1.0.5"
     ],
     "download_size": 12372,

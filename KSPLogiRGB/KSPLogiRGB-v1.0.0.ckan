@@ -6,8 +6,8 @@
     "author": "Kaeltis",
     "license": "GPL-3.0",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/Kaeltis/ksp-logirgb",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Kaeltis/ksp-logirgb"
+        "homepage": "https://get.2sb.org/https://github.com/Kaeltis/ksp-logirgb",
+        "repository": "https://get.2sb.org/https://github.com/Kaeltis/ksp-logirgb"
     },
     "version": "v1.0.0",
     "ksp_version": "1.1.0",
@@ -21,7 +21,7 @@
             "install_to": "GameRoot"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Kaeltis/ksp-logirgb/releases/download/v1.0.0/KSP-LogiRGB.zip",
+    "download": "https://get.2sb.org/https://github.com/Kaeltis/ksp-logirgb/releases/download/v1.0.0/KSP-LogiRGB.zip",
     "download_size": 32325,
     "download_hash": {
         "sha1": "F82695C29AE8CADACEF4D2D5A98379544D53E6E7",

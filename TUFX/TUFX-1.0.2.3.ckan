@@ -10,8 +10,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/192212-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/shadowmage45/TUFX",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/shadowmage45/TUFX/issues",
+        "repository": "https://get.2sb.org/https://github.com/shadowmage45/TUFX",
+        "bugtracker": "https://get.2sb.org/https://github.com/shadowmage45/TUFX/issues",
         "remote-avc": "https://raw.githubusercontent.com/shadowmage45/TUFX/master/GameData/TUFX/TexturesUnlimitedFX.version"
     },
     "tags": [
@@ -23,7 +23,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/shadowmage45/TUFX/releases/download/1.0.2.3/TUFX-1.0.2.3.zip",
+    "download": "https://get.2sb.org/https://github.com/shadowmage45/TUFX/releases/download/1.0.2.3/TUFX-1.0.2.3.zip",
     "download_size": 33344234,
     "download_hash": {
         "sha1": "F2DD8C9CD745DD54B92D6BC6A14F5406B3095776",

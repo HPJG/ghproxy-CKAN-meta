@@ -15,8 +15,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/209559-112x-modular-computer-package-revived/",
         "spacedock": "https://spacedock.info/mod/3099/Modular%20Computer%20Package%20Revived",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ChromaWorks",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ChromaWorks/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/ChromaWorks",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/ChromaWorks/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/ChromaWorks",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Modular_Computer_Package_Revived/Modular_Computer_Package_Revived-1661809542.png"
     },
@@ -77,7 +77,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ChromaWorks/releases/download/2.0.1/ChromaWorks-1.12.0-2.0.1.zip",
+        "https://get.2sb.org/https://github.com/linuxgurugamer/ChromaWorks/releases/download/2.0.1/ChromaWorks-1.12.0-2.0.1.zip",
         "https://spacedock.info/mod/3099/Modular%20Computer%20Package%20Revived/download/2.0.1"
     ],
     "download_size": 2964188,

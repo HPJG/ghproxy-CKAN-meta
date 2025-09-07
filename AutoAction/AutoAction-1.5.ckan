@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/101994",
-        "repository": "https://hk.gh-proxy.com/https://github.com/SirDiazo/AutoAction"
+        "repository": "https://get.2sb.org/https://github.com/SirDiazo/AutoAction"
     },
     "version": "1.5",
     "ksp_version": "1.0",
@@ -28,7 +28,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/SirDiazo/AutoAction/releases/download/1.5/AutoActions15.zip",
+    "download": "https://get.2sb.org/https://github.com/SirDiazo/AutoAction/releases/download/1.5/AutoActions15.zip",
     "download_size": 16871,
     "download_hash": {
         "sha1": "6402E237815B2E0A12EC77F7C7AD6354EEAF42A1",

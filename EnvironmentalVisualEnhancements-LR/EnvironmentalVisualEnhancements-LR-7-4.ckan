@@ -7,7 +7,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/55905",
-        "repository": "https://hk.gh-proxy.com/https://github.com/rbray89/EnvironmentalVisualEnhancements"
+        "repository": "https://get.2sb.org/https://github.com/rbray89/EnvironmentalVisualEnhancements"
     },
     "version": "7-4",
     "ksp_version_min": "0.25",
@@ -31,7 +31,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/rbray89/EnvironmentalVisualEnhancements/releases/download/7-4/EnvironmentalVisualEnhancements-7-4-LR.zip",
+    "download": "https://get.2sb.org/https://github.com/rbray89/EnvironmentalVisualEnhancements/releases/download/7-4/EnvironmentalVisualEnhancements-7-4-LR.zip",
     "download_size": 9925505,
     "download_hash": {
         "sha1": "0A24ADD8B84FC84EB7F995E5A3E2869FB3C61C42",

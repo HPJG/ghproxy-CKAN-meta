@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/138111-tanklockredux-released-for-11/#comment-2539479",
         "spacedock": "https://spacedock.info/mod/592/TankLock",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/TankLock",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/TankLock/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/TankLock",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/TankLock/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/TankLock"
     },
     "tags": [
@@ -31,7 +31,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/TankLock/releases/download/0.2.6.1/TankLock-1.12.0-0.2.6.1.zip",
+        "https://get.2sb.org/https://github.com/linuxgurugamer/TankLock/releases/download/0.2.6.1/TankLock-1.12.0-0.2.6.1.zip",
         "https://spacedock.info/mod/592/TankLock/download/0.2.6.1"
     ],
     "download_size": 7379,

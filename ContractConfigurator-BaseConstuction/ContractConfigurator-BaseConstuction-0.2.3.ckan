@@ -7,7 +7,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/114514-10xcontract-pack-base-constuction-v023/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/CosmoBro/BaseConstruction"
+        "repository": "https://get.2sb.org/https://github.com/CosmoBro/BaseConstruction"
     },
     "version": "0.2.3",
     "ksp_version_min": "1.0.0",
@@ -35,7 +35,7 @@
             "install_to": "GameData/ContractPacks"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/CosmoBro/BaseConstruction/releases/download/0.2.3/BaseConstruction0.2.3.zip",
+    "download": "https://get.2sb.org/https://github.com/CosmoBro/BaseConstruction/releases/download/0.2.3/BaseConstruction0.2.3.zip",
     "download_size": 53064,
     "download_hash": {
         "sha1": "644193580FA1F53FEFD199485FFBCCCDFE948DA6",

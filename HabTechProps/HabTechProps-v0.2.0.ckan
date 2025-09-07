@@ -9,8 +9,8 @@
     "ksp_version_max": "1.12.99",
     "license": "CC-BY-NC-ND-4.0",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/benjee10/HabTechProps",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/benjee10/HabTechProps/issues",
+        "repository": "https://get.2sb.org/https://github.com/benjee10/HabTechProps",
+        "bugtracker": "https://get.2sb.org/https://github.com/benjee10/HabTechProps/issues",
         "remote-avc": "https://raw.githubusercontent.com/benjee10/HabTechProps/master/GameData/HabTechProps/Version/HabTechProps.version"
     },
     "tags": [
@@ -24,7 +24,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/benjee10/HabTechProps/releases/download/v0.2.0/HabTechProps_v0.2.0.zip",
+    "download": "https://get.2sb.org/https://github.com/benjee10/HabTechProps/releases/download/v0.2.0/HabTechProps_v0.2.0.zip",
     "download_size": 8155674,
     "download_hash": {
         "sha1": "D25BCF9EAB03825A37A621FBC17DD732BC1E421E",

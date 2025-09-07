@@ -9,14 +9,14 @@
     "license": "CC-BY-NC-ND-4.0",
     "resources": {
         "homepage": "https://KerbalX.com/KXAPI",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Sujimichi/KXAPI",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Sujimichi/KXAPI/issues"
+        "repository": "https://get.2sb.org/https://github.com/Sujimichi/KXAPI",
+        "bugtracker": "https://get.2sb.org/https://github.com/Sujimichi/KXAPI/issues"
     },
     "tags": [
         "plugin",
         "library"
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Sujimichi/KXAPI/releases/download/1.2.0/KXAPI.zip",
+    "download": "https://get.2sb.org/https://github.com/Sujimichi/KXAPI/releases/download/1.2.0/KXAPI.zip",
     "download_size": 101571,
     "download_hash": {
         "sha1": "BE08A1FB0C3BD31006FB73DF8269E86936FF0414",

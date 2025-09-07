@@ -9,7 +9,7 @@
     "license": "Unlicense",
     "resources": {
         "homepage": "https://kerbalism.github.io/Kerbalism",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Kerbalism/Kerbalism"
+        "repository": "https://get.2sb.org/https://github.com/Kerbalism/Kerbalism"
     },
     "version": "3.1",
     "ksp_version_min": "1.5.0",
@@ -76,7 +76,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Kerbalism/Kerbalism/releases/download/3.1/Kerbalism-Core_v3.1_for_KSP1.5.0-1.8.9.zip",
+    "download": "https://get.2sb.org/https://github.com/Kerbalism/Kerbalism/releases/download/3.1/Kerbalism-Core_v3.1_for_KSP1.5.0-1.8.9.zip",
     "download_size": 1429941,
     "download_hash": {
         "sha1": "ECAA07E4377786406A2C33168A491D68AB2CCEF3",

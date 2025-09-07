@@ -11,7 +11,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/177292-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/yalov/CommNetAntennasInfo"
+        "repository": "https://get.2sb.org/https://github.com/yalov/CommNetAntennasInfo"
     },
     "tags": [
         "plugin",
@@ -54,7 +54,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/yalov/CommNetAntennasInfo/releases/download/2.4.0/CommNetAntennasInfo-v2.4.0.zip",
+    "download": "https://get.2sb.org/https://github.com/yalov/CommNetAntennasInfo/releases/download/2.4.0/CommNetAntennasInfo-v2.4.0.zip",
     "download_size": 88629,
     "download_hash": {
         "sha1": "E41F798213D79A2B143945B6210C1F5D2336CEB8",

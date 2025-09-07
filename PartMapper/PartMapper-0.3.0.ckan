@@ -7,8 +7,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/93548",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Sujimichi/KerbalX",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Sujimichi/KerbalX/issues"
+        "repository": "https://get.2sb.org/https://github.com/Sujimichi/KerbalX",
+        "bugtracker": "https://get.2sb.org/https://github.com/Sujimichi/KerbalX/issues"
     },
     "version": "0.3.0",
     "ksp_version": "any",
@@ -22,7 +22,7 @@
             "install_to": "GameRoot"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Sujimichi/KerbalX/releases/download/0.3.0/PartMapper.zip",
+    "download": "https://get.2sb.org/https://github.com/Sujimichi/KerbalX/releases/download/0.3.0/PartMapper.zip",
     "download_size": 1883964,
     "download_hash": {
         "sha1": "24737CFB2B917875B4C71686837E5FBC3BE0CFAB",

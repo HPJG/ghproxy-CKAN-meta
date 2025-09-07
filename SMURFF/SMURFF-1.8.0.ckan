@@ -7,7 +7,7 @@
     "license": "Apache-2.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/117992-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Kerbas-ad-astra/SMURFF"
+        "repository": "https://get.2sb.org/https://github.com/Kerbas-ad-astra/SMURFF"
     },
     "version": "1.8.0",
     "ksp_version_min": "1.4.0",
@@ -59,7 +59,7 @@
             "name": "Workshop"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Kerbas-ad-astra/SMURFF/releases/download/v1.8.0/SMURFF-1.8.0.zip",
+    "download": "https://get.2sb.org/https://github.com/Kerbas-ad-astra/SMURFF/releases/download/v1.8.0/SMURFF-1.8.0.zip",
     "download_size": 20574,
     "download_hash": {
         "sha1": "D92453D97FC701E476C3FA7C04F9C92022DFF6CF",

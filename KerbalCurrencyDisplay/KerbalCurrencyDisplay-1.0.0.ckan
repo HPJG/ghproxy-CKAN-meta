@@ -8,10 +8,10 @@
     "ksp_version": "1.12.5",
     "license": "CC-BY-NC-ND-4.0",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/ks1000sa/KerbalCurrencyDisplay",
+        "homepage": "https://get.2sb.org/https://github.com/ks1000sa/KerbalCurrencyDisplay",
         "spacedock": "https://spacedock.info/mod/3958/Kerbal%20Currency%20Display",
-        "repository": "https://hk.gh-proxy.com/https://github.com/ks1000sa/KerbalCurrencyDisplay",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/ks1000sa/KerbalCurrencyDisplay/issues",
+        "repository": "https://get.2sb.org/https://github.com/ks1000sa/KerbalCurrencyDisplay",
+        "bugtracker": "https://get.2sb.org/https://github.com/ks1000sa/KerbalCurrencyDisplay/issues",
         "x_screenshot": "https://spacedock.info/content/Dobie_168854/Kerbal_Currency_Display/Kerbal_Currency_Display-1755001877.png"
     },
     "tags": [
@@ -22,7 +22,7 @@
         "en-us"
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/ks1000sa/KerbalCurrencyDisplay/releases/download/1.0.0/KerbalCurrencyDisplay.v1.0.0.zip",
+        "https://get.2sb.org/https://github.com/ks1000sa/KerbalCurrencyDisplay/releases/download/1.0.0/KerbalCurrencyDisplay.v1.0.0.zip",
         "https://spacedock.info/mod/3958/Kerbal%20Currency%20Display/download/1.0.0"
     ],
     "download_size": 11289,

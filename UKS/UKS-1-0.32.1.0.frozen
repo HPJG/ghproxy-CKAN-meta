@@ -10,8 +10,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/79588",
-        "repository": "https://hk.gh-proxy.com/https://github.com/BobPalmer/MKS",
-        "license": "https://hk.gh-proxy.com/https://github.com/BobPalmer/MKS/blob/master/license.txt"
+        "repository": "https://get.2sb.org/https://github.com/BobPalmer/MKS",
+        "license": "https://get.2sb.org/https://github.com/BobPalmer/MKS/blob/master/license.txt"
     },
     "version": "1:0.32.1.0",
     "ksp_version_min": "1.0.0",
@@ -62,7 +62,7 @@
             "install_to": "GameData/UmbraSpaceIndustries"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/BobPalmer/MKS/releases/download/0.32.1.0/UKS_0.32.1.0.zip",
+    "download": "https://get.2sb.org/https://github.com/BobPalmer/MKS/releases/download/0.32.1.0/UKS_0.32.1.0.zip",
     "download_size": 32740469,
     "download_hash": {
         "sha1": "BA3D7D1663718F364B9D56D9A4283CE79091B9B6",

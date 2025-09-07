@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/161966-13-kerbal-cctv-with-wifi-camera/",
         "spacedock": "https://spacedock.info/mod/1414/CCTV",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/CCTV",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/CCTV/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/CCTV",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/CCTV/issues",
         "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/CCTV/refs/heads/master/CCTV.version"
     },
     "tags": [
@@ -39,7 +39,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/CCTV/releases/download/1.1.6.7/CCTV-1.1.6.7.zip",
+        "https://get.2sb.org/https://github.com/linuxgurugamer/CCTV/releases/download/1.1.6.7/CCTV-1.1.6.7.zip",
         "https://spacedock.info/mod/1414/CCTV/download/1.1.6.7"
     ],
     "download_size": 931049,

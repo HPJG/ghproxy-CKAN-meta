@@ -9,8 +9,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/122617-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Angel-125/Buffalo",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Angel-125/Buffalo/issues",
+        "repository": "https://get.2sb.org/https://github.com/Angel-125/Buffalo",
+        "bugtracker": "https://get.2sb.org/https://github.com/Angel-125/Buffalo/issues",
         "remote-avc": "https://raw.githubusercontent.com/Angel-125/Buffalo/master/GameData/WildBlueIndustries/Buffalo/Buffalo.version"
     },
     "tags": [
@@ -89,7 +89,7 @@
             "install_to": "Ships"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Angel-125/Buffalo/releases/download/v2.8.1/Buffalo_2_8_1.zip",
+    "download": "https://get.2sb.org/https://github.com/Angel-125/Buffalo/releases/download/v2.8.1/Buffalo_2_8_1.zip",
     "download_size": 35301040,
     "download_hash": {
         "sha1": "A0AEAE920B93AA6E8A1C19978080E6FCF17B8779",

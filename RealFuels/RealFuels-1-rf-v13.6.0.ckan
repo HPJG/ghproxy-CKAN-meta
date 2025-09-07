@@ -16,8 +16,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?showtopic=58236",
-        "repository": "https://hk.gh-proxy.com/https://github.com/NathanKell/ModularFuelSystem",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/NathanKell/ModularFuelSystem/issues",
+        "repository": "https://get.2sb.org/https://github.com/NathanKell/ModularFuelSystem",
+        "bugtracker": "https://get.2sb.org/https://github.com/NathanKell/ModularFuelSystem/issues",
         "metanetkan": "https://raw.githubusercontent.com/NathanKell/ModularFuelSystem/master/NetKAN/RealFuels.netkan",
         "remote-avc": "https://raw.githubusercontent.com/NathanKell/ModularFuelSystem/master/RealFuels/RealFuels.version"
     },
@@ -64,7 +64,7 @@
             "filter": ".DS_Store"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/NathanKell/ModularFuelSystem/releases/download/rf-v13.6.0/RealFuels_v13.6.0.zip",
+    "download": "https://get.2sb.org/https://github.com/NathanKell/ModularFuelSystem/releases/download/rf-v13.6.0/RealFuels_v13.6.0.zip",
     "download_size": 283723,
     "download_hash": {
         "sha1": "F82F2792FCE3E9FB1D91E027A0CCA93CA3C27E59",

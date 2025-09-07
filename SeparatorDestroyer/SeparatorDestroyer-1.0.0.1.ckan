@@ -9,9 +9,9 @@
     "ksp_version_max": "1.7",
     "license": "public-domain",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/Xyphos/KSP_SeparatorDestroyer",
+        "homepage": "https://get.2sb.org/https://github.com/Xyphos/KSP_SeparatorDestroyer",
         "spacedock": "https://spacedock.info/mod/1379/Separator%20Destroyer",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Xyphos/KSP_SeparatorDestroyer"
+        "repository": "https://get.2sb.org/https://github.com/Xyphos/KSP_SeparatorDestroyer"
     },
     "tags": [
         "plugin",

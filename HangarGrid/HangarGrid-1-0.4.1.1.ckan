@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/205069-112x",
         "spacedock": "https://spacedock.info/mod/2872/Hangar%20Grid%20Regridded",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/HangarGrid",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/HangarGrid/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/HangarGrid",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/HangarGrid/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/HangarGrid"
     },
     "tags": [
@@ -31,7 +31,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/HangarGrid/releases/download/0.4.1.1/HangarGrid-1.12.0-0.4.1.1.zip",
+        "https://get.2sb.org/https://github.com/linuxgurugamer/HangarGrid/releases/download/0.4.1.1/HangarGrid-1.12.0-0.4.1.1.zip",
         "https://spacedock.info/mod/2872/Hangar%20Grid%20Regridded/download/0.4.1.1"
     ],
     "download_size": 32520,

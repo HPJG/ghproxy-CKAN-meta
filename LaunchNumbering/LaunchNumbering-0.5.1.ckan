@@ -11,7 +11,7 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/174604-14x-launch-numbering-templated/",
         "spacedock": "https://spacedock.info/mod/201/Launch%20Numbering",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/KSPLaunchNumbering",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/KSPLaunchNumbering",
         "x_screenshot": "https://spacedock.info/content/Damien_The_Unbeliever_986/Launch_Numbering/Launch_Numbering-1455992075.9576774.png"
     },
     "version": "0.5.1",

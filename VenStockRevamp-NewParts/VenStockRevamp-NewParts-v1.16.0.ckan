@@ -13,8 +13,8 @@
     "license": "CC-BY-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/189732-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Kerbas-ad-astra/Stock-Revamp",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Kerbas-ad-astra/Stock-Revamp/issues",
+        "repository": "https://get.2sb.org/https://github.com/Kerbas-ad-astra/Stock-Revamp",
+        "bugtracker": "https://get.2sb.org/https://github.com/Kerbas-ad-astra/Stock-Revamp/issues",
         "remote-avc": "https://raw.githubusercontent.com/Kerbas-ad-astra/Stock-Revamp/master/GameData/VenStockRevamp/VenStockRevamp.version"
     },
     "tags": [
@@ -42,7 +42,7 @@
             "install_to": "GameData/VenStockRevamp"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Kerbas-ad-astra/Stock-Revamp/releases/download/v1.16.0/VenStockRevamp-v1.16.0.zip",
+    "download": "https://get.2sb.org/https://github.com/Kerbas-ad-astra/Stock-Revamp/releases/download/v1.16.0/VenStockRevamp-v1.16.0.zip",
     "download_size": 145971967,
     "download_hash": {
         "sha1": "C943F4E33E2915B9FD1D998203CB38D2D333DE4E",

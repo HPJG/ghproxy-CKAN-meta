@@ -10,8 +10,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/174189-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/yalov/CommunityPartsTitles",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/yalov/CommunityPartsTitles/issues",
+        "repository": "https://get.2sb.org/https://github.com/yalov/CommunityPartsTitles",
+        "bugtracker": "https://get.2sb.org/https://github.com/yalov/CommunityPartsTitles/issues",
         "remote-avc": "https://raw.githubusercontent.com/yalov/CommunityPartsTitles/master/CommunityPartsTitles.version"
     },
     "tags": [
@@ -41,7 +41,7 @@
             "comment": "Install CPTE_category_hide_cck_parts.cfg into Extras/ folder. So it is kind of Extra for Extra."
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/yalov/CommunityPartsTitles/releases/download/0.9.3/CommunityPartsTitles-v0.9.3.zip",
+    "download": "https://get.2sb.org/https://github.com/yalov/CommunityPartsTitles/releases/download/0.9.3/CommunityPartsTitles-v0.9.3.zip",
     "download_size": 179244,
     "download_hash": {
         "sha1": "3CD844A830320CD19B65B21D2A510BE455241F7D",

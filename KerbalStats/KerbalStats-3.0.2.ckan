@@ -10,7 +10,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/89285-14-kerbalstats-v303/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/taniwha-qf/KerbalStats"
+        "repository": "https://get.2sb.org/https://github.com/taniwha-qf/KerbalStats"
     },
     "install": [
         {

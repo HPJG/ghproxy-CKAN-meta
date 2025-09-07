@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/205529-ksp-any-measurizer/",
         "spacedock": "https://spacedock.info/mod/2889/Measurizer",
-        "repository": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/Measurizer",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/Measurizer/issues",
+        "repository": "https://get.2sb.org/https://github.com/JadeOfMaar/Measurizer",
+        "bugtracker": "https://get.2sb.org/https://github.com/JadeOfMaar/Measurizer/issues",
         "x_screenshot": "https://spacedock.info/content/JadeOfMaar_11026/Measurizer/Measurizer-1636224690.png"
     },
     "tags": [
@@ -34,7 +34,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/Measurizer/releases/download/1.1/Measurizer-1.1.0.zip",
+        "https://get.2sb.org/https://github.com/JadeOfMaar/Measurizer/releases/download/1.1/Measurizer-1.1.0.zip",
         "https://spacedock.info/mod/2889/Measurizer/download/1.1"
     ],
     "download_size": 1347705,

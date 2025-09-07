@@ -7,7 +7,7 @@
     "license": "restricted",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/167233-SigmaReplacementsDescriptions/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Sigma88/Sigma-Replacements"
+        "repository": "https://get.2sb.org/https://github.com/Sigma88/Sigma-Replacements"
     },
     "version": "D_v0.2.0",
     "ksp_version": "1.3.1",
@@ -17,7 +17,7 @@
             "install_to": "GameData/Sigma/Replacements"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Sigma88/Sigma-Replacements/releases/download/D_v0.2.0/Sigma-Replacements_Descriptions.v0.2.0.zip",
+    "download": "https://get.2sb.org/https://github.com/Sigma88/Sigma-Replacements/releases/download/D_v0.2.0/Sigma-Replacements_Descriptions.v0.2.0.zip",
     "download_size": 33773,
     "download_hash": {
         "sha1": "B1B7A15B2034BAE23F960E0641CE46B9DAC6FB67",

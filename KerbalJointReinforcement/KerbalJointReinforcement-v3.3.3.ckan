@@ -11,13 +11,13 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/50911-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/ferram4/Kerbal-Joint-Reinforcement/",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/ferram4/Kerbal-Joint-Reinforcement/issues"
+        "repository": "https://get.2sb.org/https://github.com/ferram4/Kerbal-Joint-Reinforcement/",
+        "bugtracker": "https://get.2sb.org/https://github.com/ferram4/Kerbal-Joint-Reinforcement/issues"
     },
     "tags": [
         "physics"
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/ferram4/Kerbal-Joint-Reinforcement/releases/download/v3.3.3/KerbalJointReinforcement_v3.3.3.zip",
+    "download": "https://get.2sb.org/https://github.com/ferram4/Kerbal-Joint-Reinforcement/releases/download/v3.3.3/KerbalJointReinforcement_v3.3.3.zip",
     "download_size": 38779,
     "download_hash": {
         "sha1": "6BD03D65FC670C7918A962C3866E673AD23FB16B",

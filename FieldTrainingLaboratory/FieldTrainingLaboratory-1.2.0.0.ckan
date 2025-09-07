@@ -14,8 +14,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/188841-*/",
         "spacedock": "https://spacedock.info/mod/971/Field%20Training%20Laboratory%20(FTL)%20by%20Efour",
-        "repository": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/FieldTrainingLab",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/FieldTrainingLab/issues",
+        "repository": "https://get.2sb.org/https://github.com/zer0Kerbal/FieldTrainingLab",
+        "bugtracker": "https://get.2sb.org/https://github.com/zer0Kerbal/FieldTrainingLab/issues",
         "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/FieldTrainingLab/master/FieldTrainingLab.version",
         "x_screenshot": "https://spacedock.info/content/Efour_8237/Training_Laboratory/Training_Laboratory-1656473326.png"
     },

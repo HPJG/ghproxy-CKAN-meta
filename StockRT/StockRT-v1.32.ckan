@@ -8,7 +8,7 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/90061-1",
         "spacedock": "https://spacedock.info/mod/113/StockRT",
-        "repository": "https://hk.gh-proxy.com/https://github.com/malahx/StockRT"
+        "repository": "https://get.2sb.org/https://github.com/malahx/StockRT"
     },
     "version": "v1.32",
     "ksp_version_min": "1.1.0",

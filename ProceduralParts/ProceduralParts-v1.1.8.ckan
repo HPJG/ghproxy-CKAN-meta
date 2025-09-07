@@ -6,8 +6,8 @@
     "author": "ItMustBeACamel",
     "license": "CC-BY-SA-3.0",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/Swamp-Ig/ProceduralParts",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Swamp-Ig/ProceduralParts"
+        "homepage": "https://get.2sb.org/https://github.com/Swamp-Ig/ProceduralParts",
+        "repository": "https://get.2sb.org/https://github.com/Swamp-Ig/ProceduralParts"
     },
     "version": "v1.1.8",
     "ksp_version": "1.0.5",
@@ -24,7 +24,7 @@
             "name": "FreedomTex"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Swamp-Ig/ProceduralParts/releases/download/v1.1.8/ProceduralParts-1.1.8.zip",
+    "download": "https://get.2sb.org/https://github.com/Swamp-Ig/ProceduralParts/releases/download/v1.1.8/ProceduralParts-1.1.8.zip",
     "download_size": 5114359,
     "download_hash": {
         "sha1": "605113D43485CA6539E18B41B84EDDF5FE45313C",

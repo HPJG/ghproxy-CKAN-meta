@@ -7,7 +7,7 @@
     "author": "DMagic1",
     "license": "MIT",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/DMagic1/KSP_Contract_Parser"
+        "repository": "https://get.2sb.org/https://github.com/DMagic1/KSP_Contract_Parser"
     },
     "version": "3.0",
     "ksp_version_min": "1.1.2",
@@ -18,7 +18,7 @@
             "install_to": "GameData/DMagicUtilities"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/DMagic1/KSP_Contract_Parser/releases/download/3.0/ContractParser-3.0.zip",
+    "download": "https://get.2sb.org/https://github.com/DMagic1/KSP_Contract_Parser/releases/download/3.0/ContractParser-3.0.zip",
     "download_size": 14744,
     "download_hash": {
         "sha1": "0D7648F1BC70398C7CDB0DC524889BAEE3A09637",

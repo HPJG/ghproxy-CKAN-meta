@@ -7,7 +7,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/154901-122-crew-light-an-automatic-light-manager-11-14-jan-2017/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Li0n-0/CrewLight"
+        "repository": "https://get.2sb.org/https://github.com/Li0n-0/CrewLight"
     },
     "version": "v1.15",
     "ksp_version": "1.4.3",
@@ -16,7 +16,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Li0n-0/CrewLight/releases/download/v1.15/CrewLight-1.15.zip",
+    "download": "https://get.2sb.org/https://github.com/Li0n-0/CrewLight/releases/download/v1.15/CrewLight-1.15.zip",
     "download_size": 68351,
     "download_hash": {
         "sha1": "F5593A95D8AE8729BB437B214EEC7CC6AF9FCA89",

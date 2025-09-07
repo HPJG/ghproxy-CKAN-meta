@@ -11,7 +11,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/161855-13-precise-node-continued-precisely-edit-your-maneuver-nodes/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ksp-precisenode"
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/ksp-precisenode"
     },
     "version": "1.2.9.3",
     "ksp_version_min": "1.5.1",
@@ -27,7 +27,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ksp-precisenode/releases/download/1.2.9.3/PreciseNode-1.2.9.3.zip",
+    "download": "https://get.2sb.org/https://github.com/linuxgurugamer/ksp-precisenode/releases/download/1.2.9.3/PreciseNode-1.2.9.3.zip",
     "download_size": 53730,
     "download_hash": {
         "sha1": "0C2586C214F7D796375E2F4DDDAB4A4CADDBBE47",

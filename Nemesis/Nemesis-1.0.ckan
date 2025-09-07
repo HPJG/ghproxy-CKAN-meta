@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/228339-nemesis-the-cyber-planet-10/",
         "spacedock": "https://spacedock.info/mod/3926/Nemesis",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Datsk133/Nemesis",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Datsk133/Nemesis/issues",
+        "repository": "https://get.2sb.org/https://github.com/Datsk133/Nemesis",
+        "bugtracker": "https://get.2sb.org/https://github.com/Datsk133/Nemesis/issues",
         "x_screenshot": "https://spacedock.info/content/Datsk_137999/Nemesis/Nemesis-1752679226.png"
     },
     "tags": [
@@ -27,7 +27,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/Datsk133/Nemesis/releases/download/1.0/Nemesis.zip",
+        "https://get.2sb.org/https://github.com/Datsk133/Nemesis/releases/download/1.0/Nemesis.zip",
         "https://spacedock.info/mod/3926/Nemesis/download/1.0"
     ],
     "download_size": 5164044,

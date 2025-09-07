@@ -8,7 +8,7 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/161276-130-dmagics-basic-mods-basic-deltav-orbit-and-maneuver-node-evolved-5-29-2017/",
         "spacedock": "https://spacedock.info/mod/1392/Basic%20DeltaV",
-        "repository": "https://hk.gh-proxy.com/https://github.com/DMagic1/KSP_BasicDeltaV",
+        "repository": "https://get.2sb.org/https://github.com/DMagic1/KSP_BasicDeltaV",
         "x_screenshot": "https://spacedock.info/content/DMagic_247/Basic_DeltaV/Basic_DeltaV-1496156359.5027075.png"
     },
     "version": "2.1",

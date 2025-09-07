@@ -13,7 +13,7 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/84938-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/jrodrigv/CameraTools",
+        "repository": "https://get.2sb.org/https://github.com/jrodrigv/CameraTools",
         "x_screenshot": "https://spacedock.info/content/BahamutoD_222/Camera_Tools/Camera_Tools-1456425830.4879806.jpg"
     },
     "tags": [
@@ -24,7 +24,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/jrodrigv/CameraTools/releases/download/v1.13.0/CameraTools.1.13.0_10282019.zip",
+    "download": "https://get.2sb.org/https://github.com/jrodrigv/CameraTools/releases/download/v1.13.0/CameraTools.1.13.0_10282019.zip",
     "download_size": 3504474,
     "download_hash": {
         "sha1": "3F4FC2B4238692362D2008B05A5670B12BFF7F76",

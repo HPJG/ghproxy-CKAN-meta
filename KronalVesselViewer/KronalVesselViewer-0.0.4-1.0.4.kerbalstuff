@@ -6,9 +6,9 @@
     "author": "bigorangemachine",
     "license": "unrestricted",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/bigorangemachine/ksp-kronalutils/releases",
+        "homepage": "https://get.2sb.org/https://github.com/bigorangemachine/ksp-kronalutils/releases",
         "kerbalstuff": "https://kerbalstuff.com/mod/211/Kronal%20Vessel%20Viewer%20(KVV)%20-%20Exploded%20(Orthographic)%20ship%20view",
-        "repository": "https://hk.gh-proxy.com/https://github.com/bigorangemachine/ksp-kronalutils",
+        "repository": "https://get.2sb.org/https://github.com/bigorangemachine/ksp-kronalutils",
         "x_screenshot": "https://kerbalstuff.com/content/bigorangemachine_1843/Kronal_Vessel_Viewer_KVV_-_Exploded_Orthographic_ship_view/Kronal_Vessel_Viewer_KVV_-_Exploded_Orthographic_ship_view.png"
     },
     "version": "0.0.4-1.0.4",

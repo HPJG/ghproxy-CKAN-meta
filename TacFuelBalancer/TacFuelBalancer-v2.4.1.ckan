@@ -7,11 +7,11 @@
     "license": "CC-BY-NC-SA-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/25823-0-25-TAC-Fuel-Balancer-v2-4-1-10Oct",
-        "repository": "https://hk.gh-proxy.com/https://github.com/taraniselsu/TacFuelBalancer"
+        "repository": "https://get.2sb.org/https://github.com/taraniselsu/TacFuelBalancer"
     },
     "version": "v2.4.1",
     "ksp_version": "0.25",
-    "download": "https://hk.gh-proxy.com/https://github.com/taraniselsu/TacFuelBalancer/releases/download/v2.4.1/TacFuelBalancer_2.4.1.5.zip",
+    "download": "https://get.2sb.org/https://github.com/taraniselsu/TacFuelBalancer/releases/download/v2.4.1/TacFuelBalancer_2.4.1.5.zip",
     "download_size": 48225,
     "download_hash": {
         "sha1": "C5558DD96B7A28F2E644AED893527A47D5ED535C",

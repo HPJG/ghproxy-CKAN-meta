@@ -14,9 +14,9 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/191921-*",
         "spacedock": "https://spacedock.info/mod/2347/Stork%20Delivery%20System%20[SDS]",
-        "repository": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/StorkDeliverySystem",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/StorkDeliverySystem/issues",
-        "remote-avc": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/StorkDeliverySystem/raw/master/StorkDeliverySystem.version",
+        "repository": "https://get.2sb.org/https://github.com/zer0Kerbal/StorkDeliverySystem",
+        "bugtracker": "https://get.2sb.org/https://github.com/zer0Kerbal/StorkDeliverySystem/issues",
+        "remote-avc": "https://get.2sb.org/https://github.com/zer0Kerbal/StorkDeliverySystem/raw/master/StorkDeliverySystem.version",
         "x_screenshot": "https://spacedock.info/content/zer0Kerbal_21147/Stork_Delivery_System_SDS/Stork_Delivery_System_SDS-1582612467.3169608.png"
     },
     "tags": [
@@ -57,7 +57,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/StorkDeliverySystem/releases/download/0.0.5.0/StorkDeliverySystem-0.0.5.0.zip",
+        "https://get.2sb.org/https://github.com/zer0Kerbal/StorkDeliverySystem/releases/download/0.0.5.0/StorkDeliverySystem-0.0.5.0.zip",
         "https://spacedock.info/mod/2347/Stork%20Delivery%20System%20%5BSDS%5D/download/0.0.5.0"
     ],
     "download_size": 330641,

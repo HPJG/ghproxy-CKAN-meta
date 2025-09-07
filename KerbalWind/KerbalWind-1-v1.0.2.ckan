@@ -15,8 +15,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/195587-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/RCrockford/KerbalWind",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/RCrockford/KerbalWind/issues",
+        "repository": "https://get.2sb.org/https://github.com/RCrockford/KerbalWind",
+        "bugtracker": "https://get.2sb.org/https://github.com/RCrockford/KerbalWind/issues",
         "remote-avc": "https://raw.githubusercontent.com/RCrockford/KerbalWind/master/GameData/KerbalWind/KerbalWind.version"
     },
     "tags": [
@@ -43,7 +43,7 @@
             "filter": "settings.cfg"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/RCrockford/KerbalWind/releases/download/v1.0.2/KerbalWind.zip",
+    "download": "https://get.2sb.org/https://github.com/RCrockford/KerbalWind/releases/download/v1.0.2/KerbalWind.zip",
     "download_size": 27728,
     "download_hash": {
         "sha1": "D6296282297EEA47B38DA313200E5E06DDCE7F91",

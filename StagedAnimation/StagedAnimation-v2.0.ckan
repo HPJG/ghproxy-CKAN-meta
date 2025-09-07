@@ -13,14 +13,14 @@
     "license": "CC-BY-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/202317-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/StagedAnimation",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-RO/StagedAnimation/issues"
+        "repository": "https://get.2sb.org/https://github.com/KSP-RO/StagedAnimation",
+        "bugtracker": "https://get.2sb.org/https://github.com/KSP-RO/StagedAnimation/issues"
     },
     "tags": [
         "plugin",
         "library"
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/StagedAnimation/releases/download/v2.0/StagedAnimation.zip",
+    "download": "https://get.2sb.org/https://github.com/KSP-RO/StagedAnimation/releases/download/v2.0/StagedAnimation.zip",
     "download_size": 4792,
     "download_hash": {
         "sha1": "B30731DCEDC631E850E50AE18D6FC5D0C658F16A",

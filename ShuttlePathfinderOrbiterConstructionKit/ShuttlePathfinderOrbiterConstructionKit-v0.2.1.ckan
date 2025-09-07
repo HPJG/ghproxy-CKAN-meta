@@ -8,8 +8,8 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/210184-112xwipspock-shuttle-pathfinder-orbiter-construction-kit-stockalike-nuclear-shuttle-pathfinder-from-fam-v010/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/rogerwang86/SPOCK",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/rogerwang86/SPOCK/issues"
+        "repository": "https://get.2sb.org/https://github.com/rogerwang86/SPOCK",
+        "bugtracker": "https://get.2sb.org/https://github.com/rogerwang86/SPOCK/issues"
     },
     "tags": [
         "parts"
@@ -53,7 +53,7 @@
             "as": "SPH"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/rogerwang86/SPOCK/releases/download/v0.2.1/SPOCK-0.2.1.zip",
+    "download": "https://get.2sb.org/https://github.com/rogerwang86/SPOCK/releases/download/v0.2.1/SPOCK-0.2.1.zip",
     "download_size": 81978254,
     "download_hash": {
         "sha1": "2F3A7AE9CD993839AEF6F5FBACFE555DFB9C0F90",

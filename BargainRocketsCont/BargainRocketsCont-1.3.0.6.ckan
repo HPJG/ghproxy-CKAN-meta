@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/158328-12-ba",
         "spacedock": "https://spacedock.info/mod/1291/Bargain%20Rocket%20Parts%20Recycled",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/BargainRocketPartsRecycled",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/BargainRocketPartsRecycled/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/BargainRocketPartsRecycled",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/BargainRocketPartsRecycled/issues",
         "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/BargainRocketPartsRecycled/refs/heads/master/BargainRockets.version",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Bargain_Rocket_Parts_Recycled/Bargain_Rocket_Parts_Recycled-1491015493.8900354.png"
     },
@@ -31,7 +31,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/BargainRocketPartsRecycled/releases/download/1.3.0.6/BargainRockets-1.12.0-1.3.0.6.zip",
+        "https://get.2sb.org/https://github.com/linuxgurugamer/BargainRocketPartsRecycled/releases/download/1.3.0.6/BargainRockets-1.12.0-1.3.0.6.zip",
         "https://spacedock.info/mod/1291/Bargain%20Rocket%20Parts%20Recycled/download/1.3.0.6"
     ],
     "download_size": 5638705,

@@ -6,8 +6,8 @@
     "author": "linuxgurugamer",
     "license": "GPL-3.0",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/Mihara/PartUtilities/wiki",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/PartUtilities"
+        "homepage": "https://get.2sb.org/https://github.com/Mihara/PartUtilities/wiki",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/PartUtilities"
     },
     "version": "0.4.2",
     "ksp_version_min": "1.4.1",
@@ -19,7 +19,7 @@
             "filter": "Agencies"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/PartUtilities/releases/download/0.4.2/JSI-0.4.2.zip",
+    "download": "https://get.2sb.org/https://github.com/linuxgurugamer/PartUtilities/releases/download/0.4.2/JSI-0.4.2.zip",
     "download_size": 50917,
     "download_hash": {
         "sha1": "8660900D887E851A8C545A4EB9E554727398A39C",

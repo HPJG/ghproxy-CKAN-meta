@@ -6,7 +6,7 @@
     "author": "NathanKell",
     "license": "CC-BY-4.0",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/VenVen/Stock-Revamp"
+        "repository": "https://get.2sb.org/https://github.com/VenVen/Stock-Revamp"
     },
     "version": "v1.6.0",
     "ksp_version": "0.90.0",
@@ -15,7 +15,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/VenVen/Stock-Revamp/releases/download/v1.6.0/Stock-Revamp.1.6B.zip",
+    "download": "https://get.2sb.org/https://github.com/VenVen/Stock-Revamp/releases/download/v1.6.0/Stock-Revamp.1.6B.zip",
     "download_size": 27788847,
     "download_hash": {
         "sha1": "B9C55F67333EE2A6E43D1EF6DCF0BD7CDCB208D1",

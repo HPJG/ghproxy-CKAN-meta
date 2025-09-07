@@ -9,7 +9,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/104231",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Crzyrndm/FilterExtension"
+        "repository": "https://get.2sb.org/https://github.com/Crzyrndm/FilterExtension"
     },
     "version": "1.16",
     "ksp_version": "0.90.0",
@@ -24,7 +24,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Crzyrndm/FilterExtension/releases/download/1.16/Filter.Extensions.1.16.zip",
+    "download": "https://get.2sb.org/https://github.com/Crzyrndm/FilterExtension/releases/download/1.16/Filter.Extensions.1.16.zip",
     "download_size": 662020,
     "download_hash": {
         "sha1": "0E1AFA06412921D9B08CB2818D11EA185E8EB7A9",

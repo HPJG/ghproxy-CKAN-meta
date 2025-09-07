@@ -8,8 +8,8 @@
     "license": "CC-BY-NC-ND-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/197024-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Gameslinx/Tessellation",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Gameslinx/Tessellation/issues"
+        "repository": "https://get.2sb.org/https://github.com/Gameslinx/Tessellation",
+        "bugtracker": "https://get.2sb.org/https://github.com/Gameslinx/Tessellation/issues"
     },
     "tags": [
         "config",
@@ -44,7 +44,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Gameslinx/Tessellation/releases/download/2.0.8/Parallax_StockTextures-2.0.8.zip",
+    "download": "https://get.2sb.org/https://github.com/Gameslinx/Tessellation/releases/download/2.0.8/Parallax_StockTextures-2.0.8.zip",
     "download_size": 1849732618,
     "download_hash": {
         "sha1": "5FCCFE06C94B2D42946C9BE6B4651FA63A2650FC",

@@ -10,7 +10,7 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/188482-*",
         "spacedock": "https://spacedock.info/mod/2297/Modular%20Segmented%20SRBs",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ModularSegmentedSRBs"
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/ModularSegmentedSRBs"
     },
     "depends": [
         {

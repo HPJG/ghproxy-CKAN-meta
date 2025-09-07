@@ -8,8 +8,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/97033-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/magico13/Modlets",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/magico13/Modlets/issues"
+        "repository": "https://get.2sb.org/https://github.com/magico13/Modlets",
+        "bugtracker": "https://get.2sb.org/https://github.com/magico13/Modlets/issues"
     },
     "tags": [
         "plugin",
@@ -26,7 +26,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/magico13/Modlets/releases/download/KSP1.4.1/EditorTime_v1.0.6.zip",
+    "download": "https://get.2sb.org/https://github.com/magico13/Modlets/releases/download/KSP1.4.1/EditorTime_v1.0.6.zip",
     "download_size": 15730,
     "download_hash": {
         "sha1": "39577371D172B71BAC2A281172B72449A7312C99",

@@ -11,7 +11,7 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/207937-112x-resource-overview-for-vabsph-and-flight/",
         "spacedock": "https://spacedock.info/mod/3021/Resource%20Overview",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ResourceOverview",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/ResourceOverview",
         "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/ResourceOverview/master/GameData/ResourceOverview/ResourceOverview.version"
     },
     "tags": [
@@ -36,7 +36,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ResourceOverview/releases/download/2.0.2.4/ResourceOverview-1.12.0-2.0.2.4.zip",
+        "https://get.2sb.org/https://github.com/linuxgurugamer/ResourceOverview/releases/download/2.0.2.4/ResourceOverview-1.12.0-2.0.2.4.zip",
         "https://spacedock.info/mod/3021/Resource%20Overview/download/2.0.2.4"
     ],
     "download_size": 29513,

@@ -12,9 +12,9 @@
     "ksp_version_max": "1.9.99",
     "license": "CC-BY-NC-SA-3.0",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/KSP-RO/TacLifeSupport/wiki",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/TacLifeSupport",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-RO/TacLifeSupport/issues"
+        "homepage": "https://get.2sb.org/https://github.com/KSP-RO/TacLifeSupport/wiki",
+        "repository": "https://get.2sb.org/https://github.com/KSP-RO/TacLifeSupport",
+        "bugtracker": "https://get.2sb.org/https://github.com/KSP-RO/TacLifeSupport/issues"
     },
     "tags": [
         "plugin",
@@ -56,7 +56,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/TacLifeSupport/releases/download/V0.15.0.0/TacLifeSupport_V0.15.0.zip",
+    "download": "https://get.2sb.org/https://github.com/KSP-RO/TacLifeSupport/releases/download/V0.15.0.0/TacLifeSupport_V0.15.0.zip",
     "download_size": 5209283,
     "download_hash": {
         "sha1": "87E5B2DFDC499661791CDA016A20BF9E92D99AC7",

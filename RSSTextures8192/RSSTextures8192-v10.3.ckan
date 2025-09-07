@@ -7,7 +7,7 @@
     "license": "CC-BY-NC-SA",
     "release_status": "stable",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RSS-Textures"
+        "repository": "https://get.2sb.org/https://github.com/KSP-RO/RSS-Textures"
     },
     "version": "v10.3",
     "ksp_version": "1.0",
@@ -25,7 +25,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RSS-Textures/releases/download/v10.3/8192.zip",
+    "download": "https://get.2sb.org/https://github.com/KSP-RO/RSS-Textures/releases/download/v10.3/8192.zip",
     "download_size": 513475777,
     "download_hash": {
         "sha1": "37440BD15121E59BD02258E9EAEBABB686BA80E0",

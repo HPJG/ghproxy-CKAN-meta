@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/54284-*",
         "spacedock": "https://spacedock.info/mod/3735/Extraplanetary%20Launchpads",
-        "repository": "https://hk.gh-proxy.com/https://github.com/taniwha/Extraplanetary-Launchpads",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/taniwha/Extraplanetary-Launchpads/issues",
+        "repository": "https://get.2sb.org/https://github.com/taniwha/Extraplanetary-Launchpads",
+        "bugtracker": "https://get.2sb.org/https://github.com/taniwha/Extraplanetary-Launchpads/issues",
         "remote-avc": "http://taniwha.org/~bill/ExtraplanetaryLaunchpads.version"
     },
     "tags": [

@@ -7,7 +7,7 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/170747-131-click-through-blocker/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ClickThroughBlocker"
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/ClickThroughBlocker"
     },
     "version": "0.1.6.7",
     "ksp_version_min": "1.4.1",
@@ -18,7 +18,7 @@
             "find": "000_ClickThroughBlocker"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ClickThroughBlocker/releases/download/0.1.6.7/ClickThroughBlocker-0.1.6.7.zip",
+    "download": "https://get.2sb.org/https://github.com/linuxgurugamer/ClickThroughBlocker/releases/download/0.1.6.7/ClickThroughBlocker-0.1.6.7.zip",
     "download_size": 28354,
     "download_hash": {
         "sha1": "BD65A2260DD231B0E49A84A05F8F6E574F09D816",

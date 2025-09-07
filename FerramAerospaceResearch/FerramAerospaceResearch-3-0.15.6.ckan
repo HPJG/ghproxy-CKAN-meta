@@ -7,7 +7,7 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/19321-/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/ferram4/Ferram-Aerospace-Research"
+        "repository": "https://get.2sb.org/https://github.com/ferram4/Ferram-Aerospace-Research"
     },
     "version": "3:0.15.6",
     "ksp_version": "1.1.0",
@@ -40,7 +40,7 @@
             "comment": "FAR example craft"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/ferram4/Ferram-Aerospace-Research/releases/download/v0.15.6_Jones/FAR_0_15_6_Jones.zip",
+    "download": "https://get.2sb.org/https://github.com/ferram4/Ferram-Aerospace-Research/releases/download/v0.15.6_Jones/FAR_0_15_6_Jones.zip",
     "download_size": 720284,
     "download_hash": {
         "sha1": "F21ABC9D292989EAF810EE51BDBB4042AFBDCC74",

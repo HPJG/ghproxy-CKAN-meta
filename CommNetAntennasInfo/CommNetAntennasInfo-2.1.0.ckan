@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/177292-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/yalov/CommNetAntennasInfo"
+        "repository": "https://get.2sb.org/https://github.com/yalov/CommNetAntennasInfo"
     },
     "version": "2.1.0",
     "ksp_version_min": "1.6.0",
@@ -40,7 +40,7 @@
             "name": "RemoteTech"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/yalov/CommNetAntennasInfo/releases/download/2.1.0/CommNetAntennasInfo-v2.1.0.zip",
+    "download": "https://get.2sb.org/https://github.com/yalov/CommNetAntennasInfo/releases/download/2.1.0/CommNetAntennasInfo-v2.1.0.zip",
     "download_size": 81387,
     "download_hash": {
         "sha1": "A2E020490CC0AD11B282EB2CC0D689BF211382E3",

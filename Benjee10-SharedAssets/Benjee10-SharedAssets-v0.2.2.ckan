@@ -9,8 +9,8 @@
     "ksp_version_max": "1.12.99",
     "license": "restricted",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/benjee10/Benjee10_sharedAssets",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/benjee10/Benjee10_sharedAssets/issues",
+        "repository": "https://get.2sb.org/https://github.com/benjee10/Benjee10_sharedAssets",
+        "bugtracker": "https://get.2sb.org/https://github.com/benjee10/Benjee10_sharedAssets/issues",
         "remote-avc": "https://raw.githubusercontent.com/benjee10/Benjee10_sharedAssets/master/GameData/Benjee10_sharedAssets/Version/Benjee10_sharedAssets.version"
     },
     "tags": [
@@ -27,7 +27,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/benjee10/Benjee10_sharedAssets/releases/download/v0.2.2/Benjee10_sharedAssets_v0.2.2.zip",
+    "download": "https://get.2sb.org/https://github.com/benjee10/Benjee10_sharedAssets/releases/download/v0.2.2/Benjee10_sharedAssets_v0.2.2.zip",
     "download_size": 15068835,
     "download_hash": {
         "sha1": "D5AFD4CEB8443944D0EE2595ADF5ACD686A0AEFA",

@@ -7,7 +7,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/164965-13-space-age-011-2017-08-31-tracking-your-progress/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/GarwelGarwel/SpaceAge"
+        "repository": "https://get.2sb.org/https://github.com/GarwelGarwel/SpaceAge"
     },
     "version": "0.2.7",
     "ksp_version": "1.4.5",
@@ -19,7 +19,7 @@
             "name": "Toolbar"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/GarwelGarwel/SpaceAge/releases/download/0.2.7/SpaceAge_0.2.7.zip",
+    "download": "https://get.2sb.org/https://github.com/GarwelGarwel/SpaceAge/releases/download/0.2.7/SpaceAge_0.2.7.zip",
     "download_size": 36482,
     "download_hash": {
         "sha1": "C1BA8211BFD981C87ED36B35958A960E42308B22",

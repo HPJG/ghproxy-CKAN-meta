@@ -8,9 +8,9 @@
     "ksp_version": "1.2.2",
     "license": "CC-BY-4.0",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/jamesharling/EngineIgniter",
-        "repository": "https://hk.gh-proxy.com/https://github.com/jamesharling/EngineIgniter",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/jamesharling/EngineIgniter/issues"
+        "homepage": "https://get.2sb.org/https://github.com/jamesharling/EngineIgniter",
+        "repository": "https://get.2sb.org/https://github.com/jamesharling/EngineIgniter",
+        "bugtracker": "https://get.2sb.org/https://github.com/jamesharling/EngineIgniter/issues"
     },
     "tags": [
         "plugin"
@@ -26,7 +26,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/jamesharling/EngineIgniter/releases/download/v0.3/EngineIgniter.0.3.zip",
+    "download": "https://get.2sb.org/https://github.com/jamesharling/EngineIgniter/releases/download/v0.3/EngineIgniter.0.3.zip",
     "download_size": 29244,
     "download_hash": {
         "sha1": "BFB00197E7A310446EA4C875BE6E6440DC24E598",

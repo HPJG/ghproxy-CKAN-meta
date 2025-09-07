@@ -7,11 +7,11 @@
     "license": "CC-BY-4.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/158348-122-stationkeeping-precise-synchronous-orbits/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/swilbur/StationKeeping"
+        "repository": "https://get.2sb.org/https://github.com/swilbur/StationKeeping"
     },
     "version": "v1.0.1",
     "ksp_version": "1.2.2",
-    "download": "https://hk.gh-proxy.com/https://github.com/swilbur/StationKeeping/releases/download/v1.0.1/StationKeeping.zip",
+    "download": "https://get.2sb.org/https://github.com/swilbur/StationKeeping/releases/download/v1.0.1/StationKeeping.zip",
     "download_size": 24307,
     "download_hash": {
         "sha1": "0A865FE46E4755ADA2D910175EDB2C49268F5335",

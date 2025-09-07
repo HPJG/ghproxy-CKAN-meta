@@ -10,8 +10,8 @@
     "license": "CC-BY-NC-SA",
     "release_status": "testing",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/iLikeGothMommys/TourismOverhaul",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/iLikeGothMommys/TourismOverhaul/issues",
+        "repository": "https://get.2sb.org/https://github.com/iLikeGothMommys/TourismOverhaul",
+        "bugtracker": "https://get.2sb.org/https://github.com/iLikeGothMommys/TourismOverhaul/issues",
         "remote-avc": "https://raw.githubusercontent.com/iLikeGothMommys/TourismOverhaul/refs/heads/main/ContractPack-TourismOverhaul.version"
     },
     "tags": [
@@ -37,7 +37,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/iLikeGothMommys/TourismOverhaul/releases/download/Release1.2PreRelease/TourismOverhaul1.2.-.Pre-Release.zip",
+    "download": "https://get.2sb.org/https://github.com/iLikeGothMommys/TourismOverhaul/releases/download/Release1.2PreRelease/TourismOverhaul1.2.-.Pre-Release.zip",
     "download_size": 79194,
     "download_hash": {
         "sha256": "33634BA7AEDA03E6735F0C932AE4D5112945A76F8778F5CC1D664776384504AE"

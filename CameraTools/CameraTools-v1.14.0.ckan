@@ -13,15 +13,15 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/84938-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/jrodrigv/CameraTools",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/jrodrigv/CameraTools/issues",
+        "repository": "https://get.2sb.org/https://github.com/jrodrigv/CameraTools",
+        "bugtracker": "https://get.2sb.org/https://github.com/jrodrigv/CameraTools/issues",
         "remote-avc": "https://raw.githubusercontent.com/jrodrigv/CameraTools/master/CameraTools/Distribution/GameData/CameraTools/CameraTools.version",
         "x_screenshot": "https://spacedock.info/content/BahamutoD_222/Camera_Tools/Camera_Tools-1456425830.4879806.jpg"
     },
     "tags": [
         "plugin"
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/jrodrigv/CameraTools/releases/download/v1.14.0/CameraTools.1.14.0_03102020.zip",
+    "download": "https://get.2sb.org/https://github.com/jrodrigv/CameraTools/releases/download/v1.14.0/CameraTools.1.14.0_03102020.zip",
     "download_size": 3534860,
     "download_hash": {
         "sha1": "E17F0225A057DEC9259ADB6308BB80AD5CA6643A",

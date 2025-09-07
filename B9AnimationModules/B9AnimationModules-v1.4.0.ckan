@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/92630",
-        "repository": "https://hk.gh-proxy.com/https://github.com/blowfishpro/B9AnimationModules"
+        "repository": "https://get.2sb.org/https://github.com/blowfishpro/B9AnimationModules"
     },
     "version": "v1.4.0",
     "ksp_version": "1.6.1",
@@ -18,7 +18,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/blowfishpro/B9AnimationModules/releases/download/v1.4.0/B9AnimationModules_v1.4.0.zip",
+    "download": "https://get.2sb.org/https://github.com/blowfishpro/B9AnimationModules/releases/download/v1.4.0/B9AnimationModules_v1.4.0.zip",
     "download_size": 13615,
     "download_hash": {
         "sha1": "D13305CDF2A35D4898D2CCAB8310EBCFF5C3274B",

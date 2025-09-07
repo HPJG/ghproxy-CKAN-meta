@@ -10,9 +10,9 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/164965-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/GarwelGarwel/SpaceAge",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/GarwelGarwel/SpaceAge/issues",
-        "remote-avc": "https://hk.gh-proxy.com/https://github.com/GarwelGarwel/SpaceAge/raw/master/GameData/SpaceAge/SpaceAge.version"
+        "repository": "https://get.2sb.org/https://github.com/GarwelGarwel/SpaceAge",
+        "bugtracker": "https://get.2sb.org/https://github.com/GarwelGarwel/SpaceAge/issues",
+        "remote-avc": "https://get.2sb.org/https://github.com/GarwelGarwel/SpaceAge/raw/master/GameData/SpaceAge/SpaceAge.version"
     },
     "tags": [
         "plugin",
@@ -29,7 +29,7 @@
             "name": "Toolbar"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/GarwelGarwel/SpaceAge/releases/download/v1.3.2/SpaceAge_1.3.2.zip",
+    "download": "https://get.2sb.org/https://github.com/GarwelGarwel/SpaceAge/releases/download/v1.3.2/SpaceAge_1.3.2.zip",
     "download_size": 46551,
     "download_hash": {
         "sha1": "E7FDC7675C1E3C7DC981E3338403AF72931F1995",

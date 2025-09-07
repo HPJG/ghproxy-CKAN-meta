@@ -9,8 +9,8 @@
     "ksp_version_max": "1.8.99",
     "license": "GPL-3.0",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/jrodrigv/BDModularMissileParts/wiki/1.-Building-your-first-Modular-Missile",
-        "repository": "https://hk.gh-proxy.com/https://github.com/jrodrigv/BDModularMissileParts"
+        "homepage": "https://get.2sb.org/https://github.com/jrodrigv/BDModularMissileParts/wiki/1.-Building-your-first-Modular-Missile",
+        "repository": "https://get.2sb.org/https://github.com/jrodrigv/BDModularMissileParts"
     },
     "tags": [
         "parts",
@@ -30,7 +30,7 @@
             "name": "B9-PWings-Fork"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/jrodrigv/BDModularMissileParts/releases/download/v2.0/BDModularMissileParts_2.0_11102019.zip",
+    "download": "https://get.2sb.org/https://github.com/jrodrigv/BDModularMissileParts/releases/download/v2.0/BDModularMissileParts_2.0_11102019.zip",
     "download_size": 2049338,
     "download_hash": {
         "sha1": "CFAB5EBE7A8C07A6B41E5801D7E299F1238F8678",

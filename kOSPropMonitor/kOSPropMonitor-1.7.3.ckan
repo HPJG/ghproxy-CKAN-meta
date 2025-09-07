@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/219659-kospropmonitor-adopted-ksp-112/",
         "spacedock": "https://spacedock.info/mod/3473/kOSPropMonitor-Adopted",
-        "repository": "https://hk.gh-proxy.com/https://github.com/FirstPersonKSP/kOSPropMonitor",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/FirstPersonKSP/kOSPropMonitor/issues",
+        "repository": "https://get.2sb.org/https://github.com/FirstPersonKSP/kOSPropMonitor",
+        "bugtracker": "https://get.2sb.org/https://github.com/FirstPersonKSP/kOSPropMonitor/issues",
         "remote-avc": "https://raw.githubusercontent.com/JonnyOThan/kOSPropMonitor/master/GameData/kPM/kOSPropMonitor.version",
         "x_screenshot": "https://spacedock.info/content/JonnyOThan_33590/kOSPropMonitor-Adopted/kOSPropMonitor-Adopted-1695822754.png"
     },
@@ -41,7 +41,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/FirstPersonKSP/kOSPropMonitor/releases/download/v1.7.3/kOSPropMonitor-1.7.3.0.zip",
+        "https://get.2sb.org/https://github.com/FirstPersonKSP/kOSPropMonitor/releases/download/v1.7.3/kOSPropMonitor-1.7.3.0.zip",
         "https://spacedock.info/mod/3473/kOSPropMonitor-Adopted/download/1.7.3"
     ],
     "download_size": 112762,

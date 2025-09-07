@@ -6,7 +6,7 @@
     "author": "Galileo88",
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/Galileo88/ShipEffectsContinued"
+        "repository": "https://get.2sb.org/https://github.com/Galileo88/ShipEffectsContinued"
     },
     "version": "1.0.8.3",
     "ksp_version_min": "1.2.2",
@@ -17,7 +17,7 @@
             "find": "ShipEffectsContinued"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Galileo88/ShipEffectsContinued/releases/download/1.0.8.3/ShipEffectsContinued.zip",
+    "download": "https://get.2sb.org/https://github.com/Galileo88/ShipEffectsContinued/releases/download/1.0.8.3/ShipEffectsContinued.zip",
     "download_size": 11234669,
     "download_hash": {
         "sha1": "40CCEAC2D0EA7A0F5814477C7ECAF3F5A3C3A968",

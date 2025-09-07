@@ -6,7 +6,7 @@
     "author": "linuxgurugamer",
     "license": "GPL-3.0",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ToolbarControl"
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/ToolbarControl"
     },
     "version": "1:0.1.4.3",
     "ksp_version": "1.3.1",
@@ -21,7 +21,7 @@
             "find": "001_ToolbarControl"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ToolbarControl/releases/download/0.1.4.3/001_ToolbarControl-0.1.4.3.zip",
+    "download": "https://get.2sb.org/https://github.com/linuxgurugamer/ToolbarControl/releases/download/0.1.4.3/001_ToolbarControl-0.1.4.3.zip",
     "download_size": 45995,
     "download_hash": {
         "sha1": "EAD5774EE620A9A7DE9725C7D03AF2F018130AC4",

@@ -5,8 +5,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/85798",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/IRnifty/KerbalMechanics/issues",
-        "repository": "https://hk.gh-proxy.com/https://github.com/IRnifty/KerbalMechanics",
+        "bugtracker": "https://get.2sb.org/https://github.com/IRnifty/KerbalMechanics/issues",
+        "repository": "https://get.2sb.org/https://github.com/IRnifty/KerbalMechanics",
         "kerbalstuff": "https://kerbalstuff.com/mod/48"
     },
     "ksp_version": "1.0",

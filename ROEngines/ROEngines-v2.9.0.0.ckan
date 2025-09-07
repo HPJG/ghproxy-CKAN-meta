@@ -14,8 +14,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://discordapp.com/invite/ZGbR6nv",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ROEngines",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ROEngines/issues",
+        "repository": "https://get.2sb.org/https://github.com/KSP-RO/ROEngines",
+        "bugtracker": "https://get.2sb.org/https://github.com/KSP-RO/ROEngines/issues",
         "remote-avc": "https://raw.githubusercontent.com/KSP-RO/ROEngines/master/GameData/ROEngines/ROEngines.version"
     },
     "tags": [
@@ -76,7 +76,7 @@
             "name": "TweakableEverythingCont"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ROEngines/releases/download/v2.9.0.0/ROEngines-v2.9.0.0.zip",
+    "download": "https://get.2sb.org/https://github.com/KSP-RO/ROEngines/releases/download/v2.9.0.0/ROEngines-v2.9.0.0.zip",
     "download_size": 266207192,
     "download_hash": {
         "sha1": "B15380BD566418E3DF55A523010079826D5B28C0",

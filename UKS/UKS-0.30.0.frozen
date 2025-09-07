@@ -10,8 +10,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/79588-0-25-USI-Kolonization-Systems-%28MKS-OKS%29-%280-21-2%29-2014-10-07",
-        "repository": "https://hk.gh-proxy.com/https://github.com/BobPalmer/MKS",
-        "license": "https://hk.gh-proxy.com/https://github.com/BobPalmer/MKS/blob/master/license.txt"
+        "repository": "https://get.2sb.org/https://github.com/BobPalmer/MKS",
+        "license": "https://get.2sb.org/https://github.com/BobPalmer/MKS/blob/master/license.txt"
     },
     "version": "0.30.0",
     "ksp_version": "1.0",
@@ -62,7 +62,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/BobPalmer/MKS/releases/download/0.30.0/MKS_0.30.0.zip",
+    "download": "https://get.2sb.org/https://github.com/BobPalmer/MKS/releases/download/0.30.0/MKS_0.30.0.zip",
     "download_size": 18979885,
     "download_hash": {
         "sha1": "9201F944493B6BB22A411ABC0D16CFFDE0A0C23C",

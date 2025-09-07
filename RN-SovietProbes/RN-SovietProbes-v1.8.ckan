@@ -7,8 +7,8 @@
     "author": "Raidernick",
     "license": "CC-BY-NC-ND-3.0",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/KSP-RO/SovietProbes",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/SovietProbes"
+        "homepage": "https://get.2sb.org/https://github.com/KSP-RO/SovietProbes",
+        "repository": "https://get.2sb.org/https://github.com/KSP-RO/SovietProbes"
     },
     "version": "v1.8",
     "ksp_version": "1.0.5",
@@ -35,7 +35,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/SovietProbes/releases/download/v1.8/RN_Soviet_Probes_v1.8.zip",
+    "download": "https://get.2sb.org/https://github.com/KSP-RO/SovietProbes/releases/download/v1.8/RN_Soviet_Probes_v1.8.zip",
     "download_size": 21977525,
     "download_hash": {
         "sha1": "E793C13D00AA6CC39758228812626FAB65EC5560",

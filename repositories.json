@@ -2,7 +2,7 @@
     "repositories": [
         {
             "name":      "KSP-default",
-            "uri":       "https://hk.gh-proxy.com/https://github.com/KSP-CKAN/CKAN-meta/archive/master.tar.gz",
+            "uri":       "https://get.2sb.org/https://github.com/KSP-CKAN/CKAN-meta/archive/master.tar.gz",
             "x_mirror":  true,
             "x_comment": "Well-known default CKAN metadata repository for KSP1"
         },
@@ -14,7 +14,7 @@
         },
         {
             "name":      "Kopernicus_BE",
-            "uri":       "https://hk.gh-proxy.com/https://github.com/R-T-B/CKAN-meta-dev-Kopernicus_BE/archive/master.tar.gz",
+            "uri":       "https://get.2sb.org/https://github.com/R-T-B/CKAN-meta-dev-Kopernicus_BE/archive/master.tar.gz",
             "x_mirror":  false,
             "x_comment": "Kopernicus Bleeding Edge beta ckans"
         }

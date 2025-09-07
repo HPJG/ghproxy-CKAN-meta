@@ -9,8 +9,8 @@
     "license": "restricted",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/166865-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Sigma88/Sigma-KerbalDescriptions",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Sigma88/Sigma-KerbalDescriptions/issues"
+        "repository": "https://get.2sb.org/https://github.com/Sigma88/Sigma-KerbalDescriptions",
+        "bugtracker": "https://get.2sb.org/https://github.com/Sigma88/Sigma-KerbalDescriptions/issues"
     },
     "tags": [
         "plugin",
@@ -22,7 +22,7 @@
             "install_to": "GameData/Sigma"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Sigma88/Sigma-KerbalDescriptions/releases/download/v0.1.4/Sigma-KerbalDescriptions.v0.1.4.zip",
+    "download": "https://get.2sb.org/https://github.com/Sigma88/Sigma-KerbalDescriptions/releases/download/v0.1.4/Sigma-KerbalDescriptions.v0.1.4.zip",
     "download_size": 15581,
     "download_hash": {
         "sha1": "6F9F8F57F09F064F531C682B93CF468AAE571247",

@@ -7,7 +7,7 @@
     "license": "restricted",
     "resources": {
         "homepage": "http://snjo.github.io/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/snjo/Firespitter"
+        "repository": "https://get.2sb.org/https://github.com/snjo/Firespitter"
     },
     "version": "v7.6.0",
     "ksp_version_min": "1.2.9",
@@ -26,7 +26,7 @@
             "install_to": "GameData/Firespitter"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/snjo/Firespitter/releases/download/v7.6.0/Firespitter_7.6.0.zip",
+    "download": "https://get.2sb.org/https://github.com/snjo/Firespitter/releases/download/v7.6.0/Firespitter_7.6.0.zip",
     "download_size": 30618849,
     "download_hash": {
         "sha1": "2B84BCB2292A9219BB60460E402E759266D901CE",

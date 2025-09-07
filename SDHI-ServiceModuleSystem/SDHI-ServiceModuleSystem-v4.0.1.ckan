@@ -7,7 +7,7 @@
     "license": "CC-BY-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/48073-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/sumghai/SDHI_ServiceModuleSystem"
+        "repository": "https://get.2sb.org/https://github.com/sumghai/SDHI_ServiceModuleSystem"
     },
     "version": "v4.0.1",
     "ksp_version": "1.6",
@@ -57,7 +57,7 @@
             ]
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/sumghai/SDHI_ServiceModuleSystem/releases/download/4.0.1/ksp_sdhi_sms_v4_0_1.zip",
+    "download": "https://get.2sb.org/https://github.com/sumghai/SDHI_ServiceModuleSystem/releases/download/4.0.1/ksp_sdhi_sms_v4_0_1.zip",
     "download_size": 4416156,
     "download_hash": {
         "sha1": "28131EA2E72B93BB9CF7FC9ECE77745C33E60691",

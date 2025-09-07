@@ -9,8 +9,8 @@
     "license": "CC-BY-SA-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/115734-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Starwaster/HeatPump",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Starwaster/HeatPump/issues"
+        "repository": "https://get.2sb.org/https://github.com/Starwaster/HeatPump",
+        "bugtracker": "https://get.2sb.org/https://github.com/Starwaster/HeatPump/issues"
     },
     "tags": [
         "plugin",
@@ -32,7 +32,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Starwaster/HeatPump/releases/download/v1.3.1/HeatPump_1.3.1.zip",
+    "download": "https://get.2sb.org/https://github.com/Starwaster/HeatPump/releases/download/v1.3.1/HeatPump_1.3.1.zip",
     "download_size": 1091431,
     "download_hash": {
         "sha1": "ADDCEF0C0720FD599FE4AEC020E54D39AE42F0C8",

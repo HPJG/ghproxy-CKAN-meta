@@ -11,8 +11,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/177292-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/yalov/CommNetAntennasInfo",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/yalov/CommNetAntennasInfo/issues",
+        "repository": "https://get.2sb.org/https://github.com/yalov/CommNetAntennasInfo",
+        "bugtracker": "https://get.2sb.org/https://github.com/yalov/CommNetAntennasInfo/issues",
         "remote-avc": "https://raw.githubusercontent.com/yalov/CommNetAntennasInfo/master/CommNetAntennasInfo.version"
     },
     "tags": [
@@ -58,7 +58,7 @@
             "name": "Kerbalism"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/yalov/CommNetAntennasInfo/releases/download/3.1.0/CommNetAntennasInfo-v3.1.0.zip",
+    "download": "https://get.2sb.org/https://github.com/yalov/CommNetAntennasInfo/releases/download/3.1.0/CommNetAntennasInfo-v3.1.0.zip",
     "download_size": 89044,
     "download_hash": {
         "sha1": "DCE947D190E5D5A2BEEA10965770F16155B25977",

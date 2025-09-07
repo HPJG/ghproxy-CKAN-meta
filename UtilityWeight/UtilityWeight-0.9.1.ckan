@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/189536-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/yalov/UtilityWeight"
+        "repository": "https://get.2sb.org/https://github.com/yalov/UtilityWeight"
     },
     "version": "0.9.1",
     "ksp_version_min": "1.4.5",
@@ -27,7 +27,7 @@
             "name": "B9PartSwitch"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/yalov/UtilityWeight/releases/download/0.9.1/UtilityWeight-v0.9.1.zip",
+    "download": "https://get.2sb.org/https://github.com/yalov/UtilityWeight/releases/download/0.9.1/UtilityWeight-v0.9.1.zip",
     "download_size": 213081,
     "download_hash": {
         "sha1": "C6B34D9C94111D7C3D8A7C841BE5C8D5D6E82330",

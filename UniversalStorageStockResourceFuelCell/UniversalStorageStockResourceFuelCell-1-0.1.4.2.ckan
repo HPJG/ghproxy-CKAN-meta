@@ -13,9 +13,9 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/204751-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/UniversalStorageStockResourceFuelCell",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/UniversalStorageStockResourceFuelCell/issues",
-        "discussions": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/UniversalStorageStockResourceFuelCell/discussions",
+        "repository": "https://get.2sb.org/https://github.com/zer0Kerbal/UniversalStorageStockResourceFuelCell",
+        "bugtracker": "https://get.2sb.org/https://github.com/zer0Kerbal/UniversalStorageStockResourceFuelCell/issues",
+        "discussions": "https://get.2sb.org/https://github.com/zer0Kerbal/UniversalStorageStockResourceFuelCell/discussions",
         "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/UniversalStorageStockResourceFuelCell/master/UniversalStorageStockResourceFuelCell.version"
     },
     "tags": [
@@ -41,7 +41,7 @@
             "install_to": "GameData/QuickBASIC"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/UniversalStorageStockResourceFuelCell/releases/download/0.1.4.2/UniversalStorageStockResourceFuelCell-0.1.4.2.zip",
+    "download": "https://get.2sb.org/https://github.com/zer0Kerbal/UniversalStorageStockResourceFuelCell/releases/download/0.1.4.2/UniversalStorageStockResourceFuelCell-0.1.4.2.zip",
     "download_size": 19469,
     "download_hash": {
         "sha1": "CDEA0C064BC5AAFA790A86AB4AC75EC92B2E3544",

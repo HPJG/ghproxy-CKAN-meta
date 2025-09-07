@@ -9,8 +9,8 @@
     "license": "CC0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/119202-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/MrChumley/Kronkus",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/MrChumley/Kronkus/issues"
+        "repository": "https://get.2sb.org/https://github.com/MrChumley/Kronkus",
+        "bugtracker": "https://get.2sb.org/https://github.com/MrChumley/Kronkus/issues"
     },
     "tags": [
         "config",
@@ -46,7 +46,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/MrChumley/Kronkus/releases/download/v1.5/KronkusV1-5.zip",
+    "download": "https://get.2sb.org/https://github.com/MrChumley/Kronkus/releases/download/v1.5/KronkusV1-5.zip",
     "download_size": 36314823,
     "download_hash": {
         "sha1": "A78253D34CEF0042F5A067801E4AB058E34CCE19",

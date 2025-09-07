@@ -7,12 +7,12 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/179920-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/GER-Space/AdvancedTextures"
+        "repository": "https://get.2sb.org/https://github.com/GER-Space/AdvancedTextures"
     },
     "version": "1.4.5.5",
     "ksp_version_min": "1.4.5",
     "ksp_version_max": "1.5.1",
-    "download": "https://hk.gh-proxy.com/https://github.com/GER-Space/AdvancedTextures/releases/download/1.4.5.5/AdvancedTextures-1.4.5.5b.zip",
+    "download": "https://get.2sb.org/https://github.com/GER-Space/AdvancedTextures/releases/download/1.4.5.5/AdvancedTextures-1.4.5.5b.zip",
     "download_size": 11971,
     "download_hash": {
         "sha1": "0CDD2A0BC82698D9D31180F33DD7E41F427B1A31",

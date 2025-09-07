@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/99966",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealismOverhaul"
+        "repository": "https://get.2sb.org/https://github.com/KSP-RO/RealismOverhaul"
     },
     "version": "v7.0.7",
     "ksp_version": "0.90.0",
@@ -37,7 +37,7 @@
             "install_to": "GameData/RealismOverhaul"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealismOverhaul/releases/download/v7.0.7/RealismOverhaul7_0_7a.zip",
+    "download": "https://get.2sb.org/https://github.com/KSP-RO/RealismOverhaul/releases/download/v7.0.7/RealismOverhaul7_0_7a.zip",
     "download_size": 17684387,
     "download_hash": {
         "sha1": "EBCEEE805351A1553DDF21EB2FE9C13544216D49",

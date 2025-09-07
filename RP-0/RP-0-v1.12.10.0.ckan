@@ -11,9 +11,9 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/190040-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RP-0",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RP-0/issues",
-        "manual": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RP-0/wiki",
+        "repository": "https://get.2sb.org/https://github.com/KSP-RO/RP-0",
+        "bugtracker": "https://get.2sb.org/https://github.com/KSP-RO/RP-0/issues",
+        "manual": "https://get.2sb.org/https://github.com/KSP-RO/RP-0/wiki",
         "metanetkan": "https://raw.githubusercontent.com/KSP-RO/RP-0/master/RP-0.netkan",
         "remote-avc": "https://raw.githubusercontent.com/KSP-RO/RP-0/master/GameData/RP-0/RP-1.version"
     },
@@ -239,7 +239,7 @@
             "min_version": "v2.0.0.0"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RP-0/releases/download/v1.12.10.0/RP-1-v1.12.10.0.zip",
+    "download": "https://get.2sb.org/https://github.com/KSP-RO/RP-0/releases/download/v1.12.10.0/RP-1-v1.12.10.0.zip",
     "download_size": 52143637,
     "download_hash": {
         "sha1": "2E0AABC6DA265656E973F8E1C21045561C7040D4",

@@ -6,7 +6,7 @@
     "author": "toadicus",
     "license": "BSD-2-clause",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/toadicus/EVAManager",
+        "repository": "https://get.2sb.org/https://github.com/toadicus/EVAManager",
         "kerbalstuff": "https://kerbalstuff.com/mod/726/EVAManager"
     },
     "version": "3",

@@ -10,8 +10,8 @@
     "license": "Unlicense",
     "resources": {
         "spacedock": "https://spacedock.info/mod/3691/Kerbalism%20Modular%20Science%20(ScienceOnly)",
-        "repository": "https://hk.gh-proxy.com/https://github.com/theJesuit/KerbalismModularScience",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/theJesuit/KerbalismModularScience/issues",
+        "repository": "https://get.2sb.org/https://github.com/theJesuit/KerbalismModularScience",
+        "bugtracker": "https://get.2sb.org/https://github.com/theJesuit/KerbalismModularScience/issues",
         "remote-avc": "https://raw.githubusercontent.com/Kerbalism/Kerbalism/master/GameData/Kerbalism/Kerbalism.version"
     },
     "tags": [

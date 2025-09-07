@@ -10,8 +10,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?showtopic=140541",
-        "repository": "https://hk.gh-proxy.com/https://github.com/blowfishpro/B9PartSwitch",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/blowfishpro/B9PartSwitch/issues",
+        "repository": "https://get.2sb.org/https://github.com/blowfishpro/B9PartSwitch",
+        "bugtracker": "https://get.2sb.org/https://github.com/blowfishpro/B9PartSwitch/issues",
         "metanetkan": "https://raw.githubusercontent.com/blowfishpro/B9PartSwitch/master/NetKAN/B9PartSwitch.netkan"
     },
     "tags": [
@@ -39,7 +39,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/blowfishpro/B9PartSwitch/releases/download/v2.16.0/B9PartSwitch_v2.16.0.zip",
+    "download": "https://get.2sb.org/https://github.com/blowfishpro/B9PartSwitch/releases/download/v2.16.0/B9PartSwitch_v2.16.0.zip",
     "download_size": 94916,
     "download_hash": {
         "sha1": "A8363A7221780AF0B3751B9A871F93C917A89D4F",

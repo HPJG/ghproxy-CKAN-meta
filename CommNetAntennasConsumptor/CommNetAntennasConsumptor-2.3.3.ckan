@@ -11,7 +11,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/177292-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/yalov/CommNetAntennasInfo"
+        "repository": "https://get.2sb.org/https://github.com/yalov/CommNetAntennasInfo"
     },
     "tags": [
         "config",
@@ -42,7 +42,7 @@
             "comment": "Install ModuleGeneratorAntenna.cfg"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/yalov/CommNetAntennasInfo/releases/download/2.3.3/CommNetAntennasInfo-v2.3.3.zip",
+    "download": "https://get.2sb.org/https://github.com/yalov/CommNetAntennasInfo/releases/download/2.3.3/CommNetAntennasInfo-v2.3.3.zip",
     "download_size": 88418,
     "download_hash": {
         "sha1": "80E101F9F8EB1EFB1406B88B31E2C50D00700079",

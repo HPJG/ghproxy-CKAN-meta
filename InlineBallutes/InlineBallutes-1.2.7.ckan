@@ -7,7 +7,7 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/121162-12-inline-ballutes-ib-v127-25102016/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/riocrokite/InlineBallutes"
+        "repository": "https://get.2sb.org/https://github.com/riocrokite/InlineBallutes"
     },
     "version": "1.2.7",
     "ksp_version": "1.2.0",
@@ -28,7 +28,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/riocrokite/InlineBallutes/releases/download/1.2.7/InlineBallutes127.zip",
+    "download": "https://get.2sb.org/https://github.com/riocrokite/InlineBallutes/releases/download/1.2.7/InlineBallutes127.zip",
     "download_size": 1246039,
     "download_hash": {
         "sha1": "05653D48A3F529F0B0D01BD7AE0816B04F967E78",

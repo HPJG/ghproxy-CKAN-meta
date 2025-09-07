@@ -12,9 +12,9 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/149848-kerbal-inventory-system-kis",
         "curse": "https://kerbal.curseforge.com/projects/228561",
-        "repository": "https://hk.gh-proxy.com/https://github.com/ihsoft/KIS",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/ihsoft/KIS/issues",
-        "manual": "https://hk.gh-proxy.com/https://github.com/ihsoft/KIS/raw/master/User%20Guide.pdf",
+        "repository": "https://get.2sb.org/https://github.com/ihsoft/KIS",
+        "bugtracker": "https://get.2sb.org/https://github.com/ihsoft/KIS/issues",
+        "manual": "https://get.2sb.org/https://github.com/ihsoft/KIS/raw/master/User%20Guide.pdf",
         "x_screenshot": "https://media.forgecdn.net/avatars/thumbnails/15/210/120/120/635619081870286480.jpeg"
     },
     "version": "1.18",

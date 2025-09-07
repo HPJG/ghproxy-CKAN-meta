@@ -12,7 +12,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/211676-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/KerbalLaunchVehicles",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/KerbalLaunchVehicles",
         "remote-avc": "http://ksp.spacetux.net/avc/KerbalLaunchVehicles"
     },
     "tags": [
@@ -26,7 +26,7 @@
             "name": "ClickThroughBlocker"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/KerbalLaunchVehicles/releases/download/1.2.0/KerbalLaunchVehicles-1.12.0-1.2.0.zip",
+    "download": "https://get.2sb.org/https://github.com/linuxgurugamer/KerbalLaunchVehicles/releases/download/1.2.0/KerbalLaunchVehicles-1.12.0-1.2.0.zip",
     "download_size": 46568,
     "download_hash": {
         "sha1": "450E105A0697628D8EE59B8807E527FFBCA40BEB",

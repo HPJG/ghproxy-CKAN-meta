@@ -7,8 +7,8 @@
     "author": "Raidernick",
     "license": "CC-BY-NC-ND-3.0",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/KSP-RO/SalyutStations-SoyuzFerries",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/SalyutStations-SoyuzFerries"
+        "homepage": "https://get.2sb.org/https://github.com/KSP-RO/SalyutStations-SoyuzFerries",
+        "repository": "https://get.2sb.org/https://github.com/KSP-RO/SalyutStations-SoyuzFerries"
     },
     "version": "v2.0",
     "ksp_version": "1.0",
@@ -46,7 +46,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/SalyutStations-SoyuzFerries/releases/download/v2.0/RN_SalyutStations_v2.0.zip",
+    "download": "https://get.2sb.org/https://github.com/KSP-RO/SalyutStations-SoyuzFerries/releases/download/v2.0/RN_SalyutStations_v2.0.zip",
     "download_size": 122336146,
     "download_hash": {
         "sha1": "8963BFEBD0CF8438B45F7D9B09F5888252D78B33",

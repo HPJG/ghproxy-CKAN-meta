@@ -10,8 +10,8 @@
     "license": "MIT",
     "resources": {
         "spacedock": "https://spacedock.info/mod/2970/Space%20Dust%20Unbound",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Vexxel/SpaceDustUnbound",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Vexxel/SpaceDustUnbound/issues",
+        "repository": "https://get.2sb.org/https://github.com/Vexxel/SpaceDustUnbound",
+        "bugtracker": "https://get.2sb.org/https://github.com/Vexxel/SpaceDustUnbound/issues",
         "remote-avc": "https://raw.githubusercontent.com:443/Vexxel/SpaceDustUnbound/main/Version/SpaceDustUnbound.version",
         "x_screenshot": "https://spacedock.info/content/Vexxel_76203/SpaceDustUnbound/SpaceDustUnbound-1643969459.png"
     },
@@ -46,7 +46,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/Vexxel/SpaceDustUnbound/releases/download/v1.0.2/SpaceDustUnbound.v1.0.2.zip",
+        "https://get.2sb.org/https://github.com/Vexxel/SpaceDustUnbound/releases/download/v1.0.2/SpaceDustUnbound.v1.0.2.zip",
         "https://spacedock.info/mod/2970/Space%20Dust%20Unbound/download/1.0.2"
     ],
     "download_size": 143260,

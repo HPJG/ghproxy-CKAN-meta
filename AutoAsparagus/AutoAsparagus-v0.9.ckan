@@ -7,8 +7,8 @@
     "license": "Apache-2.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/61238",
-        "repository": "https://hk.gh-proxy.com/https://github.com/henrybauer/AutoAsparagus",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/henrybauer/AutoAsparagus/issues",
+        "repository": "https://get.2sb.org/https://github.com/henrybauer/AutoAsparagus",
+        "bugtracker": "https://get.2sb.org/https://github.com/henrybauer/AutoAsparagus/issues",
         "kerbalstuff": "https://kerbalstuff.com/mod/87/AutoAsparagus"
     },
     "version": "v0.9",

@@ -7,7 +7,7 @@
     "license": "BSD-2-clause",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/64987-14-smokescreen-280-extended-fx-plugin-march-10th-2018/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/sarbian/SmokeScreen",
+        "repository": "https://get.2sb.org/https://github.com/sarbian/SmokeScreen",
         "ci": "https://ksp.sarbian.com/jenkins/job/SmokeScreen/"
     },
     "version": "2.8.3.0",

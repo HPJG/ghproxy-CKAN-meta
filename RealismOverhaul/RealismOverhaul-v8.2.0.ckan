@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/99966",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealismOverhaul"
+        "repository": "https://get.2sb.org/https://github.com/KSP-RO/RealismOverhaul"
     },
     "version": "v8.2.0",
     "ksp_version": "0.90",
@@ -219,7 +219,7 @@
             "comment": "Engine Group Controller, unique to RO."
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealismOverhaul/releases/download/v8.2.0/RealismOverhaul-v8.2.0.zip",
+    "download": "https://get.2sb.org/https://github.com/KSP-RO/RealismOverhaul/releases/download/v8.2.0/RealismOverhaul-v8.2.0.zip",
     "download_size": 17930716,
     "download_hash": {
         "sha1": "40D9D82CF9AEB9C56B2D285F04FE3A423C8CB5AB",

@@ -14,7 +14,7 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/165854-k",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Poodmund/Outer-Planets-Mod",
+        "repository": "https://get.2sb.org/https://github.com/Poodmund/Outer-Planets-Mod",
         "metanetkan": "https://raw.githubusercontent.com/Poodmund/Outer-Planets-Mod/master/CKAN/OPM.netkan"
     },
     "tags": [
@@ -76,7 +76,7 @@
             "comment": "This is the main install for OPM"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Poodmund/Outer-Planets-Mod/releases/download/2.2.5/Outer_Planets_Mod-2.2.5.zip",
+    "download": "https://get.2sb.org/https://github.com/Poodmund/Outer-Planets-Mod/releases/download/2.2.5/Outer_Planets_Mod-2.2.5.zip",
     "download_size": 115909010,
     "download_hash": {
         "sha1": "6D5BA4E4917223CA136860FA422CA8CF92B66EC9",

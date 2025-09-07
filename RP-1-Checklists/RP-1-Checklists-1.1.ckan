@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/227623-112x-rp-1-checklists-requires-kerbalchecklists/",
         "spacedock": "https://spacedock.info/mod/3858/RP-1%20Checklists",
-        "repository": "https://hk.gh-proxy.com/https://github.com/averageksp/RP-1-Checklists",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/averageksp/RP-1-Checklists/issues",
+        "repository": "https://get.2sb.org/https://github.com/averageksp/RP-1-Checklists",
+        "bugtracker": "https://get.2sb.org/https://github.com/averageksp/RP-1-Checklists/issues",
         "x_screenshot": "https://spacedock.info/content/averageksp_154330/RP-1_Checklists/RP-1_Checklists-1744220549.png"
     },
     "tags": [
@@ -32,7 +32,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/averageksp/RP-1-Checklists/releases/download/1.1/RP-1.Checklists.zip",
+        "https://get.2sb.org/https://github.com/averageksp/RP-1-Checklists/releases/download/1.1/RP-1.Checklists.zip",
         "https://spacedock.info/mod/3858/RP-1%20Checklists/download/1.1"
     ],
     "download_size": 2075,

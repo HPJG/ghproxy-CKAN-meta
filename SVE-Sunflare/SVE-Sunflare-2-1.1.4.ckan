@@ -7,7 +7,7 @@
     "license": "CC-BY-NC-SA",
     "release_status": "stable",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/Galileo88/StockVisualEnhancements"
+        "repository": "https://get.2sb.org/https://github.com/Galileo88/StockVisualEnhancements"
     },
     "version": "2:1.1.4",
     "ksp_version": "1.2",
@@ -30,7 +30,7 @@
             "install_to": "GameData/scatterer/config"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Galileo88/StockVisualEnhancements/releases/download/1.1.4/SVE.Scatterer.cfgs.zip",
+    "download": "https://get.2sb.org/https://github.com/Galileo88/StockVisualEnhancements/releases/download/1.1.4/SVE.Scatterer.cfgs.zip",
     "download_size": 35061776,
     "download_hash": {
         "sha1": "BE84ED09109253C6867E597EE807FF1E892E4FCD",

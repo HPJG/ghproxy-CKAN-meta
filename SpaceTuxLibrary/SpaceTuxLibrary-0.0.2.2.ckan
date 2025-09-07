@@ -7,7 +7,7 @@
     "license": "GPL-3.0",
     "resources": {
         "spacedock": "https://spacedock.info/mod/2210/SpaceTux%20Library",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/SpaceTuxLibrary"
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/SpaceTuxLibrary"
     },
     "version": "0.0.2.2",
     "ksp_version": "1.8.0",

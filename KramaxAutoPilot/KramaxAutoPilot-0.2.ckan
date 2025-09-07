@@ -7,7 +7,7 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/135840-1-0-4-Kramax-Autopilot-Course-guidance-and-auto-land-for-spaceplanes",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Kramax/KramaxAutoPilot"
+        "repository": "https://get.2sb.org/https://github.com/Kramax/KramaxAutoPilot"
     },
     "version": "0.2",
     "ksp_version_min": "1.0.4",

@@ -18,8 +18,8 @@
     "license": "restricted",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/205456-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Galileo88/DART-Project",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Galileo88/DART-Project/issues",
+        "repository": "https://get.2sb.org/https://github.com/Galileo88/DART-Project",
+        "bugtracker": "https://get.2sb.org/https://github.com/Galileo88/DART-Project/issues",
         "remote-avc": "https://raw.githubusercontent.com/Galileo88/DART-Project/main/GameData/DART/Version/DART.version"
     },
     "tags": [
@@ -45,7 +45,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Galileo88/DART-Project/releases/download/1.0.0/DART_v1.0.0.zip",
+    "download": "https://get.2sb.org/https://github.com/Galileo88/DART-Project/releases/download/1.0.0/DART_v1.0.0.zip",
     "download_size": 154257543,
     "download_hash": {
         "sha1": "4C11F00E2B322C503F4EE03D627DC08C3BD229D5",

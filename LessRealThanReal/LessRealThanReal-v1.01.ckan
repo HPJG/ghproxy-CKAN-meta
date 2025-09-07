@@ -9,7 +9,7 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/189978-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/pehvbot/LRTR"
+        "repository": "https://get.2sb.org/https://github.com/pehvbot/LRTR"
     },
     "tags": [
         "plugin",
@@ -81,7 +81,7 @@
             ]
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/pehvbot/LRTR/releases/download/v1.01/LRTR-v1.01.zip",
+    "download": "https://get.2sb.org/https://github.com/pehvbot/LRTR/releases/download/v1.01/LRTR-v1.01.zip",
     "download_size": 20295598,
     "download_hash": {
         "sha1": "9F3C0B81C17E8EC4F3CA3BE76128FB57FAE05FEC",

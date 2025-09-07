@@ -12,11 +12,11 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/85834-1",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/QuickMods",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/QuickMods/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/QuickMods",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/QuickMods/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/ZeroMiniAVC"
     },
-    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/QuickMods/releases/download/ZeroMiniAVC-1.1.2.5/ZeroMiniAVC-1.1.2.5.zip",
+    "download": "https://get.2sb.org/https://github.com/linuxgurugamer/QuickMods/releases/download/ZeroMiniAVC-1.1.2.5/ZeroMiniAVC-1.1.2.5.zip",
     "download_size": 23299,
     "download_hash": {
         "sha1": "113EB4F33AC081BF94F9800627377B4808F36AF2",

@@ -14,7 +14,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/200480-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/DarthPointer/RW-Saturatable",
+        "repository": "https://get.2sb.org/https://github.com/DarthPointer/RW-Saturatable",
         "remote-avc": "https://raw.githubusercontent.com/DarthPointer/RW-Saturatable/master/GameData/RW%20Saturatable/SaturatableRW.version"
     },
     "tags": [
@@ -32,7 +32,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/DarthPointer/RW-Saturatable/releases/download/2.1.1/RW-Saturatable2-1-1.zip",
+    "download": "https://get.2sb.org/https://github.com/DarthPointer/RW-Saturatable/releases/download/2.1.1/RW-Saturatable2-1-1.zip",
     "download_size": 15584,
     "download_hash": {
         "sha1": "AE3FE31269F34FBC65E016322E99873009459ECE",

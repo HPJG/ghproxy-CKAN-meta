@@ -10,10 +10,10 @@
     "license": "CC-BY-NC-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/204561-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/bongotastic/Headlines",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/bongotastic/Headlines/issues",
-        "license": "https://hk.gh-proxy.com/https://github.com/bongotastic/Headlines/blob/master/LICENSE.md",
-        "manual": "https://hk.gh-proxy.com/https://github.com/bongotastic/Headlines/wiki"
+        "repository": "https://get.2sb.org/https://github.com/bongotastic/Headlines",
+        "bugtracker": "https://get.2sb.org/https://github.com/bongotastic/Headlines/issues",
+        "license": "https://get.2sb.org/https://github.com/bongotastic/Headlines/blob/master/LICENSE.md",
+        "manual": "https://get.2sb.org/https://github.com/bongotastic/Headlines/wiki"
     },
     "tags": [
         "plugin",
@@ -35,7 +35,7 @@
             "name": "KerbalAlarmClock"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/bongotastic/Headlines/releases/download/v0.5.5-beta/Headlines-v.0.5.5-beta.zip",
+    "download": "https://get.2sb.org/https://github.com/bongotastic/Headlines/releases/download/v0.5.5-beta/Headlines-v.0.5.5-beta.zip",
     "download_size": 69738,
     "download_hash": {
         "sha1": "603D3FB1C6F3D400F27C92E362333D72461DDC71",

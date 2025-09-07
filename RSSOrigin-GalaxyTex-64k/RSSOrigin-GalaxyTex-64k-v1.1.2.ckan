@@ -8,8 +8,8 @@
     "ksp_version": "1.12",
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/CharonSSS/RSS-Origin",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/CharonSSS/RSS-Origin/issues"
+        "repository": "https://get.2sb.org/https://github.com/CharonSSS/RSS-Origin",
+        "bugtracker": "https://get.2sb.org/https://github.com/CharonSSS/RSS-Origin/issues"
     },
     "tags": [
         "graphics"
@@ -41,7 +41,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/CharonSSS/RSS-Origin/releases/download/v1.1.2/RSS-Origin.GalaxyTex64k.zip",
+    "download": "https://get.2sb.org/https://github.com/CharonSSS/RSS-Origin/releases/download/v1.1.2/RSS-Origin.GalaxyTex64k.zip",
     "download_size": 421689003,
     "download_hash": {
         "sha1": "40DE779FD8BE82E56941BBDCD8E9EFE69AB2FB5B",

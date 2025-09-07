@@ -10,7 +10,7 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/150666-12-auto-actions-continued",
-        "repository": "https://hk.gh-proxy.com/https://github.com/formicant/AutoAction"
+        "repository": "https://get.2sb.org/https://github.com/formicant/AutoAction"
     },
     "version": "1.10.4",
     "ksp_version_min": "1.5.0",
@@ -20,7 +20,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/formicant/AutoAction/releases/download/1.10.4/AutoActions1.10.4_ksp1.5.1.zip",
+    "download": "https://get.2sb.org/https://github.com/formicant/AutoAction/releases/download/1.10.4/AutoActions1.10.4_ksp1.5.1.zip",
     "download_size": 18930,
     "download_hash": {
         "sha1": "3FD6FD974E964A893F7D6392B10D62D76527E056",

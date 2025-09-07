@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/160179-12-the-bolt-on-mission-probe-bomp-rerevival-thread/",
         "spacedock": "https://spacedock.info/mod/1354/BOMPs",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/BOMPs",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/BOMPs/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/BOMPs",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/BOMPs/issues",
         "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/BOMPs/refs/heads/master/BOMPs.version",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/BOMPs/BOMPs-1493902399.1295142.png"
     },
@@ -28,7 +28,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/BOMPs/releases/download/1.0.2.2/BOMPs-1.12.0-1.0.2.2.zip",
+        "https://get.2sb.org/https://github.com/linuxgurugamer/BOMPs/releases/download/1.0.2.2/BOMPs-1.12.0-1.0.2.2.zip",
         "https://spacedock.info/mod/1354/BOMPs/download/1.0.2.2"
     ],
     "download_size": 2439180,

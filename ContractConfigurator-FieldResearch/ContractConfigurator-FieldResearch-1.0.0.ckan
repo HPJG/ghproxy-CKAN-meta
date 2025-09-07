@@ -8,8 +8,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/123892",
-        "repository": "https://hk.gh-proxy.com/https://github.com/jrossignol/ContractPack-FieldResearch",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/jrossignol/ContractPack-FieldResearch/issues",
+        "repository": "https://get.2sb.org/https://github.com/jrossignol/ContractPack-FieldResearch",
+        "bugtracker": "https://get.2sb.org/https://github.com/jrossignol/ContractPack-FieldResearch/issues",
         "license": "https://raw.githubusercontent.com/jrossignol/ContractPack-FieldResearch/master/GameData/ContractPacks/FieldResearch/LICENSE.txt"
     },
     "version": "1.0.0",
@@ -37,7 +37,7 @@
             "install_to": "GameData/ContractPacks"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/jrossignol/ContractPack-FieldResearch/releases/download/1.0.0/ContractPack-FieldResearch_1.0.0.zip",
+    "download": "https://get.2sb.org/https://github.com/jrossignol/ContractPack-FieldResearch/releases/download/1.0.0/ContractPack-FieldResearch_1.0.0.zip",
     "download_size": 37118,
     "download_hash": {
         "sha1": "C3AA9B8F593EDFF6FE13E45F836C8A0676F4704D",

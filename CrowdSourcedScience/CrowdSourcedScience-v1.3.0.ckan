@@ -6,11 +6,11 @@
     "author": "DuoDex",
     "license": "CC-BY-NC-4.0",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/DuoDex/CrowdSourcedScience"
+        "repository": "https://get.2sb.org/https://github.com/DuoDex/CrowdSourcedScience"
     },
     "version": "v1.3.0",
     "ksp_version": "0.90",
-    "download": "https://hk.gh-proxy.com/https://github.com/DuoDex/CrowdSourcedScience/releases/download/v1.3.0/CrowdSourcedScience.zip",
+    "download": "https://get.2sb.org/https://github.com/DuoDex/CrowdSourcedScience/releases/download/v1.3.0/CrowdSourcedScience.zip",
     "download_size": 83792,
     "download_hash": {
         "sha1": "032D6E84C5D0D428037E38F90C1273C8DE7910E9",

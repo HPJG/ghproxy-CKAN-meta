@@ -8,7 +8,7 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/154935-*",
         "spacedock": "https://spacedock.info/mod/1162/BetterTimeWarpContinued",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/BetterTimeWarp"
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/BetterTimeWarp"
     },
     "version": "2.3.2",
     "ksp_version_min": "1.2.2",

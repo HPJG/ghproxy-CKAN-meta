@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/169611-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/yalov/SpeedUnitAnnex"
+        "repository": "https://get.2sb.org/https://github.com/yalov/SpeedUnitAnnex"
     },
     "version": "1.2.6",
     "ksp_version_min": "1.4.0",
@@ -21,7 +21,7 @@
             "name": "SpeedUnitDisplay"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/yalov/SpeedUnitAnnex/releases/download/1.2.6/SpeedUnitAnnex-v1.2.6.zip",
+    "download": "https://get.2sb.org/https://github.com/yalov/SpeedUnitAnnex/releases/download/1.2.6/SpeedUnitAnnex-v1.2.6.zip",
     "download_size": 30484,
     "download_hash": {
         "sha1": "74CFBB6B8CA931028ACA813F3880E6C6414CD3F2",

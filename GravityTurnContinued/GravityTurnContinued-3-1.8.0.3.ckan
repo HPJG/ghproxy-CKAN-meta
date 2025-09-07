@@ -13,8 +13,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/192590-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/GravityTurn",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/GravityTurn/issues"
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/GravityTurn",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/GravityTurn/issues"
     },
     "tags": [
         "plugin",
@@ -42,7 +42,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/GravityTurn/releases/download/1.8.0.3/GravityTurn-1.8.0-1.8.0.3.zip",
+    "download": "https://get.2sb.org/https://github.com/linuxgurugamer/GravityTurn/releases/download/1.8.0.3/GravityTurn-1.8.0-1.8.0.3.zip",
     "download_size": 114906,
     "download_hash": {
         "sha1": "1906229915BE7A16B4BE4C4F12A8094838205A01",

@@ -10,9 +10,9 @@
     "license": "restricted",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/199070-1",
-        "repository": "https://hk.gh-proxy.com/https://github.com/post-kerbin-mining-corporation/FarFutureTechnologies",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/post-kerbin-mining-corporation/FarFutureTechnologies/issues",
-        "metanetkan": "https://hk.gh-proxy.com/https://github.com/post-kerbin-mining-corporation/FarFutureTechnologies/raw/master/CKAN/FarFutureTechnologies.netkan",
+        "repository": "https://get.2sb.org/https://github.com/post-kerbin-mining-corporation/FarFutureTechnologies",
+        "bugtracker": "https://get.2sb.org/https://github.com/post-kerbin-mining-corporation/FarFutureTechnologies/issues",
+        "metanetkan": "https://get.2sb.org/https://github.com/post-kerbin-mining-corporation/FarFutureTechnologies/raw/master/CKAN/FarFutureTechnologies.netkan",
         "remote-avc": "https://raw.githubusercontent.com/post-kerbin-mining-corporation/FarFutureTechnologies/master/GameData/FarFutureTechnologies/Versioning/FarFutureTechnologies.version"
     },
     "tags": [
@@ -87,7 +87,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/post-kerbin-mining-corporation/FarFutureTechnologies/releases/download/1.4.1/FarFutureTechnologies_1_4_1.zip",
+    "download": "https://get.2sb.org/https://github.com/post-kerbin-mining-corporation/FarFutureTechnologies/releases/download/1.4.1/FarFutureTechnologies_1_4_1.zip",
     "download_size": 241549747,
     "download_hash": {
         "sha1": "7855DF894B8ED2DF07AD77721E5791B91156914C",

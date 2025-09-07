@@ -13,8 +13,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/200702--kerbal-changelog",
-        "repository": "https://hk.gh-proxy.com/https://github.com/HebaruSan/KerbalChangelog",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/HebaruSan/KerbalChangelog/issues",
+        "repository": "https://get.2sb.org/https://github.com/HebaruSan/KerbalChangelog",
+        "bugtracker": "https://get.2sb.org/https://github.com/HebaruSan/KerbalChangelog/issues",
         "remote-avc": "https://raw.githubusercontent.com/HebaruSan/KerbalChangelog/master/GameData/KerbalChangelog/KerbalChangelog.version"
     },
     "tags": [
@@ -23,7 +23,7 @@
     "localizations": [
         "en-us"
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/HebaruSan/KerbalChangelog/releases/download/v1.4.1/KerbalChangelog.zip",
+    "download": "https://get.2sb.org/https://github.com/HebaruSan/KerbalChangelog/releases/download/v1.4.1/KerbalChangelog.zip",
     "download_size": 17883,
     "download_hash": {
         "sha1": "501DB50E46AFEE2113EEFABDC72F4C9745C8F813",

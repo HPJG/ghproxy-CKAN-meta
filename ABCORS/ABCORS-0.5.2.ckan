@@ -14,8 +14,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/172663-*",
         "spacedock": "https://spacedock.info/mod/1756/ABookCase%20Orbital%20Reference%20System%20Updated",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/abcors",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/abcors/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/abcors",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/abcors/issues",
         "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/abcors/refs/heads/master/ABCORS.version",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/ABookCase_Orbital_Reference_System_Updated/ABookCase_Orbital_Reference_System_Updated-1521457829.4371123.jpg"
     },

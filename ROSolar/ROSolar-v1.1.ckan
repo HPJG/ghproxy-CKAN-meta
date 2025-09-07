@@ -13,8 +13,8 @@
     "license": "CC-BY-SA-4.0",
     "resources": {
         "homepage": "https://discordapp.com/invite/ZGbR6nv",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ROSolar",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ROSolar/issues"
+        "repository": "https://get.2sb.org/https://github.com/KSP-RO/ROSolar",
+        "bugtracker": "https://get.2sb.org/https://github.com/KSP-RO/ROSolar/issues"
     },
     "tags": [
         "parts",
@@ -50,7 +50,7 @@
             "name": "TweakableEverythingCont"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ROSolar/releases/download/v1.1/ROSolar-1.1.zip",
+    "download": "https://get.2sb.org/https://github.com/KSP-RO/ROSolar/releases/download/v1.1/ROSolar-1.1.zip",
     "download_size": 15177923,
     "download_hash": {
         "sha1": "81ABC341457E311432AF399C1B28470B33A412DB",

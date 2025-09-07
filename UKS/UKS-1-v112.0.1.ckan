@@ -11,8 +11,8 @@
     "license": "restricted",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/154587-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/UmbraSpaceIndustries/MKS",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/UmbraSpaceIndustries/MKS/issues",
+        "repository": "https://get.2sb.org/https://github.com/UmbraSpaceIndustries/MKS",
+        "bugtracker": "https://get.2sb.org/https://github.com/UmbraSpaceIndustries/MKS/issues",
         "manual": "https://umbraspaceindustries.github.io/UmbraSpaceIndustries/",
         "remote-avc": "https://raw.githubusercontent.com/UmbraSpaceIndustries/MKS/main/FOR_RELEASE/GameData/UmbraSpaceIndustries/MKS/MKS.version"
     },
@@ -82,7 +82,7 @@
             "install_to": "GameData/UmbraSpaceIndustries"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/UmbraSpaceIndustries/MKS/releases/download/v112.0.1/MKS_112.0.1.zip",
+    "download": "https://get.2sb.org/https://github.com/UmbraSpaceIndustries/MKS/releases/download/v112.0.1/MKS_112.0.1.zip",
     "download_size": 98991935,
     "download_hash": {
         "sha1": "8EB6EA3901FE80D9A5E72558A3E318981F32B639",

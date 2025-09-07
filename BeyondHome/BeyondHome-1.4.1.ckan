@@ -9,7 +9,7 @@
     "license": "restricted",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/182708-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Gameslinx/BeyondHomePlanetMod"
+        "repository": "https://get.2sb.org/https://github.com/Gameslinx/BeyondHomePlanetMod"
     },
     "tags": [
         "config",
@@ -52,7 +52,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Gameslinx/BeyondHomePlanetMod/releases/download/1.4.1/Beyond.Home.1.4.1.zip",
+    "download": "https://get.2sb.org/https://github.com/Gameslinx/BeyondHomePlanetMod/releases/download/1.4.1/Beyond.Home.1.4.1.zip",
     "download_size": 1119501089,
     "download_hash": {
         "sha1": "2843486724D23C2C306B03B066FDC0F2C3429BE9",

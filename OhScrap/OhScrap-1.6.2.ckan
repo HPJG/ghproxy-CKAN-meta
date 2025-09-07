@@ -7,7 +7,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/160854-OhScrap",
-        "repository": "https://hk.gh-proxy.com/https://github.com/severedsolo/OhScrap"
+        "repository": "https://get.2sb.org/https://github.com/severedsolo/OhScrap"
     },
     "version": "1.6.2",
     "ksp_version_min": "1.7.0",
@@ -37,7 +37,7 @@
             "install_to": "GameData/Severedsolo"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/severedsolo/OhScrap/releases/download/1.6.2/OhScrap.zip",
+    "download": "https://get.2sb.org/https://github.com/severedsolo/OhScrap/releases/download/1.6.2/OhScrap.zip",
     "download_size": 43165,
     "download_hash": {
         "sha1": "021F26FD8F54B4FEC15C028B676050143B6112BF",

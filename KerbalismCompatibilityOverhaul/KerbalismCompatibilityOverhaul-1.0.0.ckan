@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/227725-1125-kerbalism-compatibility-overhaul/",
         "spacedock": "https://spacedock.info/mod/3869/Kerbalism%20Compatibility%20Overhaul",
-        "repository": "https://hk.gh-proxy.com/https://github.com/WiggleArms/KerbalismCompatibilityOverhaul",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/WiggleArms/KerbalismCompatibilityOverhaul/issues"
+        "repository": "https://get.2sb.org/https://github.com/WiggleArms/KerbalismCompatibilityOverhaul",
+        "bugtracker": "https://get.2sb.org/https://github.com/WiggleArms/KerbalismCompatibilityOverhaul/issues"
     },
     "tags": [
         "config"
@@ -56,7 +56,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/WiggleArms/KerbalismCompatibilityOverhaul/releases/download/v1.0.0/KerbalismCompatibilityOverhaul.zip",
+        "https://get.2sb.org/https://github.com/WiggleArms/KerbalismCompatibilityOverhaul/releases/download/v1.0.0/KerbalismCompatibilityOverhaul.zip",
         "https://spacedock.info/mod/3869/Kerbalism%20Compatibility%20Overhaul/download/1.0.0"
     ],
     "download_size": 31146,

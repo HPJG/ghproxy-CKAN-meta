@@ -15,8 +15,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/226293-boring-crew-services-stockalike-cst-100-starliner-v100-ksp-v112x/",
         "spacedock": "https://spacedock.info/mod/3757/Boring%20Crew%20Services",
-        "repository": "https://hk.gh-proxy.com/https://github.com/zorg2044/BoringCrewServices",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/zorg2044/BoringCrewServices/issues",
+        "repository": "https://get.2sb.org/https://github.com/zorg2044/BoringCrewServices",
+        "bugtracker": "https://get.2sb.org/https://github.com/zorg2044/BoringCrewServices/issues",
         "x_screenshot": "https://spacedock.info/content/Zorg_30454/Boring_Crew_Services/Boring_Crew_Services-1732199334.png"
     },
     "tags": [
@@ -102,7 +102,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/zorg2044/BoringCrewServices/releases/download/v1.0.0/BoringCrewServices-v1.0.0.zip",
+        "https://get.2sb.org/https://github.com/zorg2044/BoringCrewServices/releases/download/v1.0.0/BoringCrewServices-v1.0.0.zip",
         "https://spacedock.info/mod/3757/Boring%20Crew%20Services/download/v1.0.0"
     ],
     "download_size": 26360888,

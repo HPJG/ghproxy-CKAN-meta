@@ -11,8 +11,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/189536-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/yalov/UtilityWeight",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/yalov/UtilityWeight/issues",
+        "repository": "https://get.2sb.org/https://github.com/yalov/UtilityWeight",
+        "bugtracker": "https://get.2sb.org/https://github.com/yalov/UtilityWeight/issues",
         "remote-avc": "https://raw.githubusercontent.com/yalov/UtilityWeight/master/UtilityWeight.version"
     },
     "tags": [
@@ -32,7 +32,7 @@
             "name": "B9PartSwitch"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/yalov/UtilityWeight/releases/download/1.2.2/UtilityWeight-v1.2.2.zip",
+    "download": "https://get.2sb.org/https://github.com/yalov/UtilityWeight/releases/download/1.2.2/UtilityWeight-v1.2.2.zip",
     "download_size": 216034,
     "download_hash": {
         "sha1": "D985BF3BC592FAF05F7D2A93BE206BA259DA2F48",

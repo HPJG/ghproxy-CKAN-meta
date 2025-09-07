@@ -12,9 +12,9 @@
     "ksp_version_min": "1.12.0",
     "license": "GPL-3.0",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/meirumeiru/DockingPort-Next",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/meirumeiru/DockingPort-Next/issues",
-        "remote-avc": "https://hk.gh-proxy.com/https://github.com/meirumeiru/DockingPort-Next/raw/main/Resources/GameData/DockingPortNext/DockingPortNext.version"
+        "repository": "https://get.2sb.org/https://github.com/meirumeiru/DockingPort-Next",
+        "bugtracker": "https://get.2sb.org/https://github.com/meirumeiru/DockingPort-Next/issues",
+        "remote-avc": "https://get.2sb.org/https://github.com/meirumeiru/DockingPort-Next/raw/main/Resources/GameData/DockingPortNext/DockingPortNext.version"
     },
     "tags": [
         "plugin",
@@ -25,7 +25,7 @@
             "name": "DockingFunctions"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/meirumeiru/DockingPort-Next/releases/download/v1.0.0/DockingPortNext_v1.0.0.zip",
+    "download": "https://get.2sb.org/https://github.com/meirumeiru/DockingPort-Next/releases/download/v1.0.0/DockingPortNext_v1.0.0.zip",
     "download_size": 4139287,
     "download_hash": {
         "sha1": "AFFBF7700D6E62D76695A5362C6AD919831C286A",

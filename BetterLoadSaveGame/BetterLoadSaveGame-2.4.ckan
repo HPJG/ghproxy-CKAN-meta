@@ -10,7 +10,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/162619-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/jefftimlin/BetterLoadSaveGame"
+        "repository": "https://get.2sb.org/https://github.com/jefftimlin/BetterLoadSaveGame"
     },
     "tags": [
         "plugin"
@@ -23,7 +23,7 @@
             "name": "KerbalImprovedSaveSystem"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/jefftimlin/BetterLoadSaveGame/releases/download/2.4/BetterLoadSaveGame_v2.4.zip",
+    "download": "https://get.2sb.org/https://github.com/jefftimlin/BetterLoadSaveGame/releases/download/2.4/BetterLoadSaveGame_v2.4.zip",
     "download_size": 11377,
     "download_hash": {
         "sha1": "E6F59E7DBDDA6393DE8725F25F1E40727870C2F5",

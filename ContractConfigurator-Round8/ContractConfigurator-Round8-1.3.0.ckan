@@ -10,8 +10,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/104231-O",
-        "repository": "https://hk.gh-proxy.com/https://github.com/jrossignol/ContractPack-Round8",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/jrossignol/ContractPack-Round8/issues",
+        "repository": "https://get.2sb.org/https://github.com/jrossignol/ContractPack-Round8",
+        "bugtracker": "https://get.2sb.org/https://github.com/jrossignol/ContractPack-Round8/issues",
         "license": "https://raw.githubusercontent.com/jrossignol/ContractPack-Round8/master/GameData/ContractPacks/Round8/LICENSE.txt"
     },
     "tags": [
@@ -29,7 +29,7 @@
             "install_to": "GameData/ContractPacks"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/jrossignol/ContractPack-Round8/releases/download/1.3.0/ContractPack-Round8_1.3.0.zip",
+    "download": "https://get.2sb.org/https://github.com/jrossignol/ContractPack-Round8/releases/download/1.3.0/ContractPack-Round8_1.3.0.zip",
     "download_size": 12027,
     "download_hash": {
         "sha1": "40C6358A0DE2174AD3E212D5AB97E1B33E749F5D",

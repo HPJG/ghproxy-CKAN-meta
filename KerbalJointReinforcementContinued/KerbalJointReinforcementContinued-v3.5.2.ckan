@@ -13,8 +13,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/184019-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/Kerbal-Joint-Reinforcement-Continued",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-RO/Kerbal-Joint-Reinforcement-Continued/issues",
+        "repository": "https://get.2sb.org/https://github.com/KSP-RO/Kerbal-Joint-Reinforcement-Continued",
+        "bugtracker": "https://get.2sb.org/https://github.com/KSP-RO/Kerbal-Joint-Reinforcement-Continued/issues",
         "remote-avc": "https://raw.githubusercontent.com/KSP-RO/Kerbal-Joint-Reinforcement-Continued/master/GameData/KerbalJointReinforcement/KerbalJointReinforcement.version"
     },
     "tags": [
@@ -35,7 +35,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/Kerbal-Joint-Reinforcement-Continued/releases/download/v3.5.2/Kerbal-Joint-Reinforcement_v3.5.2.zip",
+    "download": "https://get.2sb.org/https://github.com/KSP-RO/Kerbal-Joint-Reinforcement-Continued/releases/download/v3.5.2/Kerbal-Joint-Reinforcement_v3.5.2.zip",
     "download_size": 37316,
     "download_hash": {
         "sha1": "B6BA875384466AA73776D0C96A273D1F4B23BC68",

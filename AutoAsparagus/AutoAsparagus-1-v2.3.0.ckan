@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/55748-105-autoasparagus-v11/",
         "spacedock": "https://spacedock.info/mod/281/AutoAsparagus",
-        "repository": "https://hk.gh-proxy.com/https://github.com/henrybauer/AutoAsparagus",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/henrybauer/AutoAsparagus/issues",
+        "repository": "https://get.2sb.org/https://github.com/henrybauer/AutoAsparagus",
+        "bugtracker": "https://get.2sb.org/https://github.com/henrybauer/AutoAsparagus/issues",
         "x_screenshot": "https://spacedock.info/content/hab136_461/AutoAsparagus/AutoAsparagus-1456506731.7570364.png"
     },
     "tags": [

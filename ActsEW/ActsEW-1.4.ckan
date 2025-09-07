@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/100932",
-        "repository": "https://hk.gh-proxy.com/https://github.com/SirDiazo/ActsEverywhere"
+        "repository": "https://get.2sb.org/https://github.com/SirDiazo/ActsEverywhere"
     },
     "version": "1.4",
     "ksp_version": "1.0",
@@ -23,7 +23,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/SirDiazo/ActsEverywhere/releases/download/1.4/ActionsEverywhere14.zip",
+    "download": "https://get.2sb.org/https://github.com/SirDiazo/ActsEverywhere/releases/download/1.4/ActionsEverywhere14.zip",
     "download_size": 7836,
     "download_hash": {
         "sha1": "9D6C3AAEC08E429AEF4E460E47A090742636731B",

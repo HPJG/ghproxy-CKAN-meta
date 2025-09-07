@@ -10,8 +10,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/208470-112x-night-shift",
-        "repository": "https://hk.gh-proxy.com/https://github.com/coldrifting/NightShift",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/coldrifting/NightShift/issues"
+        "repository": "https://get.2sb.org/https://github.com/coldrifting/NightShift",
+        "bugtracker": "https://get.2sb.org/https://github.com/coldrifting/NightShift/issues"
     },
     "tags": [
         "plugin",
@@ -28,7 +28,7 @@
             "name": "LightsOutRelit"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/coldrifting/NightShift/releases/download/v3.0.0/NightShift-v3.0.0.zip",
+    "download": "https://get.2sb.org/https://github.com/coldrifting/NightShift/releases/download/v3.0.0/NightShift-v3.0.0.zip",
     "download_size": 830244,
     "download_hash": {
         "sha1": "0C28BE29DA4C0A213C4648BE6FD18AED6053951B",

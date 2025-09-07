@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/227837-112x-kerbalism-checklist/",
         "spacedock": "https://spacedock.info/mod/3881/Kerbalism%20Checklist",
-        "repository": "https://hk.gh-proxy.com/https://github.com/averageksp/KerbalismChecklist",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/averageksp/KerbalismChecklist/issues",
+        "repository": "https://get.2sb.org/https://github.com/averageksp/KerbalismChecklist",
+        "bugtracker": "https://get.2sb.org/https://github.com/averageksp/KerbalismChecklist/issues",
         "x_screenshot": "https://spacedock.info/content/averageksp_154330/Kerbalism_Checklist/Kerbalism_Checklist-1747255077.png"
     },
     "tags": [
@@ -26,7 +26,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/averageksp/KerbalismChecklist/releases/download/1.0/KerbalismChecklist.zip",
+        "https://get.2sb.org/https://github.com/averageksp/KerbalismChecklist/releases/download/1.0/KerbalismChecklist.zip",
         "https://spacedock.info/mod/3881/Kerbalism%20Checklist/download/1.0"
     ],
     "download_size": 1891,

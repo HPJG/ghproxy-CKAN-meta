@@ -7,7 +7,7 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/116888",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Crzyrndm/Thermal-Monitor"
+        "repository": "https://get.2sb.org/https://github.com/Crzyrndm/Thermal-Monitor"
     },
     "version": "1.2.0",
     "ksp_version": "1.0.4",
@@ -17,7 +17,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Crzyrndm/Thermal-Monitor/releases/download/1.2/Thermal.Monitor.v1.2.0.zip",
+    "download": "https://get.2sb.org/https://github.com/Crzyrndm/Thermal-Monitor/releases/download/1.2/Thermal.Monitor.v1.2.0.zip",
     "download_size": 3052,
     "download_hash": {
         "sha1": "4D3AA996B5C4DBFAF71568E0456C808EB6F7E71E",

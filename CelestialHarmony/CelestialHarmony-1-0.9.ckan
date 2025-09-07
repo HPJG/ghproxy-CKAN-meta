@@ -7,8 +7,8 @@
     "version": "1:0.9",
     "license": "restricted",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/ProximaCentauri-star/Celestial-Harmony",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/ProximaCentauri-star/Celestial-Harmony/issues"
+        "repository": "https://get.2sb.org/https://github.com/ProximaCentauri-star/Celestial-Harmony",
+        "bugtracker": "https://get.2sb.org/https://github.com/ProximaCentauri-star/Celestial-Harmony/issues"
     },
     "tags": [
         "planet-pack"
@@ -58,7 +58,7 @@
             "name": "BeyondHome"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/ProximaCentauri-star/Celestial-Harmony/releases/download/0.9/CH-0.9.zip",
+    "download": "https://get.2sb.org/https://github.com/ProximaCentauri-star/Celestial-Harmony/releases/download/0.9/CH-0.9.zip",
     "download_size": 643189839,
     "download_hash": {
         "sha1": "A2406603E56607F9E1E0C4111AD441B00B263C90",

@@ -10,8 +10,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/79588",
-        "repository": "https://hk.gh-proxy.com/https://github.com/BobPalmer/MKS",
-        "license": "https://hk.gh-proxy.com/https://github.com/BobPalmer/MKS/blob/master/license.txt"
+        "repository": "https://get.2sb.org/https://github.com/BobPalmer/MKS",
+        "license": "https://get.2sb.org/https://github.com/BobPalmer/MKS/blob/master/license.txt"
     },
     "version": "0.31.10",
     "ksp_version": "1.0",
@@ -58,7 +58,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/BobPalmer/MKS/releases/download/0.31.10/UKS_0.31.10.zip",
+    "download": "https://get.2sb.org/https://github.com/BobPalmer/MKS/releases/download/0.31.10/UKS_0.31.10.zip",
     "download_size": 30950249,
     "download_hash": {
         "sha1": "312BD25C344ECD692D153CA699FECE7810B73E39",

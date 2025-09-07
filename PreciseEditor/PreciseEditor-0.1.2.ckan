@@ -6,12 +6,12 @@
     "author": "jfrouleau",
     "license": "GPL-3.0",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/jfrouleau/PreciseEditor",
-        "repository": "https://hk.gh-proxy.com/https://github.com/jfrouleau/PreciseEditor"
+        "homepage": "https://get.2sb.org/https://github.com/jfrouleau/PreciseEditor",
+        "repository": "https://get.2sb.org/https://github.com/jfrouleau/PreciseEditor"
     },
     "version": "0.1.2",
     "ksp_version": "1.4.5",
-    "download": "https://hk.gh-proxy.com/https://github.com/jfrouleau/PreciseEditor/releases/download/0.1.2/PreciseEditor-0.1.2.zip",
+    "download": "https://get.2sb.org/https://github.com/jfrouleau/PreciseEditor/releases/download/0.1.2/PreciseEditor-0.1.2.zip",
     "download_size": 25100,
     "download_hash": {
         "sha1": "DCAFC8E77B04F9B32CFDE4AA7CA1DA23E4351241",

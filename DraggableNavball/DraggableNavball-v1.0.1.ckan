@@ -8,7 +8,7 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/150992-12-draggable-navball-100/",
         "spacedock": "https://spacedock.info/mod/1024/Draggable%20Navball",
-        "repository": "https://hk.gh-proxy.com/https://github.com/andrew-vant/dragnav"
+        "repository": "https://get.2sb.org/https://github.com/andrew-vant/dragnav"
     },
     "version": "v1.0.1",
     "ksp_version": "1.8.1",

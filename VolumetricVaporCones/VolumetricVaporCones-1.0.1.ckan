@@ -9,8 +9,8 @@
     "license": "MIT",
     "resources": {
         "spacedock": "https://spacedock.info/mod/3814/Volumetric%20Vapor%20Cones",
-        "repository": "https://hk.gh-proxy.com/https://github.com/huj31415/VolumetricVaporCones",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/huj31415/VolumetricVaporCones/issues",
+        "repository": "https://get.2sb.org/https://github.com/huj31415/VolumetricVaporCones",
+        "bugtracker": "https://get.2sb.org/https://github.com/huj31415/VolumetricVaporCones/issues",
         "x_screenshot": "https://spacedock.info/content/hai25_147985/Volumetric_Vapor_Cones/Volumetric_Vapor_Cones-1738816413.png"
     },
     "tags": [
@@ -30,7 +30,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/huj31415/VolumetricVaporCones/releases/download/1.0.1/VolumetricVaporCones-1.0.1.zip",
+        "https://get.2sb.org/https://github.com/huj31415/VolumetricVaporCones/releases/download/1.0.1/VolumetricVaporCones-1.0.1.zip",
         "https://spacedock.info/mod/3814/Volumetric%20Vapor%20Cones/download/1.0.1"
     ],
     "download_size": 2912,

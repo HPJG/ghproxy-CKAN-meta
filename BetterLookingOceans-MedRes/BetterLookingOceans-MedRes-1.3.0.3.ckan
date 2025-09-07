@@ -11,8 +11,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/171638-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Galileo88/Better-Looking-Oceans",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Galileo88/Better-Looking-Oceans/issues"
+        "repository": "https://get.2sb.org/https://github.com/Galileo88/Better-Looking-Oceans",
+        "bugtracker": "https://get.2sb.org/https://github.com/Galileo88/Better-Looking-Oceans/issues"
     },
     "tags": [
         "config",
@@ -40,7 +40,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Galileo88/Better-Looking-Oceans/releases/download/1.3.0.3/BLO_Med.zip",
+    "download": "https://get.2sb.org/https://github.com/Galileo88/Better-Looking-Oceans/releases/download/1.3.0.3/BLO_Med.zip",
     "download_size": 5254794,
     "download_hash": {
         "sha1": "E2B863A28018641AF12CDB51A198EF06F793BAF5",

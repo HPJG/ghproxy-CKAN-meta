@@ -11,7 +11,7 @@
         }
     ],
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/S-C-A-N/SCANsat",
+        "repository": "https://get.2sb.org/https://github.com/S-C-A-N/SCANsat",
         "homepage": "http://forum.kerbalspaceprogram.com/threads/80369",
         "kerbalstuff": "https://kerbalstuff.com/mod/249/SCANsat"
     },

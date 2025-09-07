@@ -8,8 +8,8 @@
     "license": "restricted",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/162949-kerbalized-spacex",
-        "repository": "https://hk.gh-proxy.com/https://github.com/jharri74/Dragon2",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/jharri74/Dragon2/issues"
+        "repository": "https://get.2sb.org/https://github.com/jharri74/Dragon2",
+        "bugtracker": "https://get.2sb.org/https://github.com/jharri74/Dragon2/issues"
     },
     "version": "1.23",
     "depends": [
@@ -31,7 +31,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/jharri74/Dragon2/releases/download/1.23/Dragon2-master.zip",
+    "download": "https://get.2sb.org/https://github.com/jharri74/Dragon2/releases/download/1.23/Dragon2-master.zip",
     "download_size": 25095731,
     "download_hash": {
         "sha1": "3F93675341598BB669D873AB9D00258037D086D9",

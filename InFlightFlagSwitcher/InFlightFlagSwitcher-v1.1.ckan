@@ -10,8 +10,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/151525-121-in-flight-flag-switcher",
-        "repository": "https://hk.gh-proxy.com/https://github.com/adsii1970/InFlightFlagSwitcher",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/adsii1970/InFlightFlagSwitcher/issues"
+        "repository": "https://get.2sb.org/https://github.com/adsii1970/InFlightFlagSwitcher",
+        "bugtracker": "https://get.2sb.org/https://github.com/adsii1970/InFlightFlagSwitcher/issues"
     },
     "version": "v1.1",
     "ksp_version_min": "1.2.0",
@@ -27,7 +27,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/adsii1970/InFlightFlagSwitcher/releases/download/v1.1/InFlightFlagSwitcher.zip",
+    "download": "https://get.2sb.org/https://github.com/adsii1970/InFlightFlagSwitcher/releases/download/v1.1/InFlightFlagSwitcher.zip",
     "download_size": 36451,
     "download_hash": {
         "sha1": "D1FA0DD25E32EDABF6116376B493C9EA73566C61",

@@ -9,7 +9,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/70008",
-        "repository": "https://hk.gh-proxy.com/https://github.com/camlost2/AJE",
+        "repository": "https://get.2sb.org/https://github.com/camlost2/AJE",
         "kerbalstuff": "https://kerbalstuff.com/mod/462/Advanced%20Jet%20Engine"
     },
     "version": "2.2.1",
@@ -41,7 +41,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/camlost2/AJE/releases/download/2.2.1/Advanced_Jet_Engine-2.2.1.zip",
+    "download": "https://get.2sb.org/https://github.com/camlost2/AJE/releases/download/2.2.1/Advanced_Jet_Engine-2.2.1.zip",
     "download_size": 888471,
     "download_hash": {
         "sha1": "C21138D00B2EF32BFEF2576D8957E01A0FBA6CFB",

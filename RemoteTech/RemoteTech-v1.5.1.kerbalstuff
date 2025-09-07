@@ -4,8 +4,8 @@
   "license": "restricted",
   "release_status": "stable",
   "resources": {
-    "repository": "https://hk.gh-proxy.com/https://github.com/RemoteTechnologiesGroup/RemoteTech",
-    "bugtracker": "https://hk.gh-proxy.com/https://github.com/RemoteTechnologiesGroup/RemoteTech/issues",
+    "repository": "https://get.2sb.org/https://github.com/RemoteTechnologiesGroup/RemoteTech",
+    "bugtracker": "https://get.2sb.org/https://github.com/RemoteTechnologiesGroup/RemoteTech/issues",
     "manual": "http://remotetechnologiesgroup.github.io/RemoteTech/",
     "homepage": "http://forum.kerbalspaceprogram.com/threads/83305",
     "kerbalstuff": "https://kerbalstuff.com/mod/134/RemoteTech"

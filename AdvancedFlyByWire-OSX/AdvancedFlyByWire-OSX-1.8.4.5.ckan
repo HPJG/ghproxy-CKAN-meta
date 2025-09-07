@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/175359-*",
         "spacedock": "https://spacedock.info/mod/1878/ABFW%20Revived%20(OSX%20version)",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ksp-advanced-flybywire",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ksp-advanced-flybywire/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/ksp-advanced-flybywire",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/ksp-advanced-flybywire/issues",
         "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/ksp-advanced-flybywire/master/ksp-advanced-flybywire.version",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/ABFW_Revived_OSX_version/ABFW_Revived_OSX_version-1527782505.4308672.png"
     },
@@ -53,7 +53,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ksp-advanced-flybywire/releases/download/1.8.4.5/ksp-advanced-flybywire-1.12.0-1.8.4.5-osx.zip",
+    "download": "https://get.2sb.org/https://github.com/linuxgurugamer/ksp-advanced-flybywire/releases/download/1.8.4.5/ksp-advanced-flybywire-1.12.0-1.8.4.5-osx.zip",
     "download_size": 111854,
     "download_hash": {
         "sha1": "838C46B63FCE88CB5F9413F1E654E5921D4D9516",

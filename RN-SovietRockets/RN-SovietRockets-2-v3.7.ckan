@@ -10,8 +10,8 @@
     "license": "CC-BY-NC-ND-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/79433-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/SovietRockets",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-RO/SovietRockets/issues",
+        "repository": "https://get.2sb.org/https://github.com/KSP-RO/SovietRockets",
+        "bugtracker": "https://get.2sb.org/https://github.com/KSP-RO/SovietRockets/issues",
         "remote-avc": "http://raw.githubusercontent.com/KSP-RO/SovietRockets/master/GameData/RN_Soviet_Rockets/SovietRockets.version"
     },
     "tags": [
@@ -45,7 +45,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/SovietRockets/releases/download/v3.7/RN_Soviet_Rockets_v3.7.zip",
+    "download": "https://get.2sb.org/https://github.com/KSP-RO/SovietRockets/releases/download/v3.7/RN_Soviet_Rockets_v3.7.zip",
     "download_size": 137340009,
     "download_hash": {
         "sha1": "A3516386B40E0D2F7CD1931EF8732886A8240A0E",

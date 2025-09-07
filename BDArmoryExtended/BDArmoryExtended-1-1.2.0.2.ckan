@@ -11,8 +11,8 @@
     "ksp_version_min": "1.9",
     "license": "CC0",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/BrettRyland/BDArmory-Extended",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/BrettRyland/BDArmory-Extended/issues"
+        "repository": "https://get.2sb.org/https://github.com/BrettRyland/BDArmory-Extended",
+        "bugtracker": "https://get.2sb.org/https://github.com/BrettRyland/BDArmory-Extended/issues"
     },
     "tags": [
         "parts",
@@ -29,7 +29,7 @@
             "name": "BDArmory"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/BrettRyland/BDArmory-Extended/releases/download/1.2.0.2/BDArmoryExtended_1.2.zip",
+    "download": "https://get.2sb.org/https://github.com/BrettRyland/BDArmory-Extended/releases/download/1.2.0.2/BDArmoryExtended_1.2.zip",
     "download_size": 25001615,
     "download_hash": {
         "sha1": "E76A6A8646ADF2DD183F53A770B6E4F7B451C693",

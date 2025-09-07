@@ -9,8 +9,8 @@
     "license": "CC-BY-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/170880-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Starwaster/AnimatedDecouplers",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Starwaster/AnimatedDecouplers/issues",
+        "repository": "https://get.2sb.org/https://github.com/Starwaster/AnimatedDecouplers",
+        "bugtracker": "https://get.2sb.org/https://github.com/Starwaster/AnimatedDecouplers/issues",
         "remote-avc": "http://raw.githubusercontent.com/Starwaster/AnimatedDecouplers/master/GameData/AnimatedDecouplers/AnimatedDecouplers.version"
     },
     "tags": [
@@ -31,7 +31,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Starwaster/AnimatedDecouplers/releases/download/v1.5.0/AnimatedDecouplers_v1.5.0.zip",
+    "download": "https://get.2sb.org/https://github.com/Starwaster/AnimatedDecouplers/releases/download/v1.5.0/AnimatedDecouplers_v1.5.0.zip",
     "download_size": 6828,
     "download_hash": {
         "sha1": "F6D0F4E5EB10972D4B14BC393985450C1E945771",

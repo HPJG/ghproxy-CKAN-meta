@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/203952-1122-starship-launch-expansion-v04-beta-august-30/",
         "spacedock": "https://spacedock.info/mod/2814/Starship%20Launch%20Expansion",
-        "repository": "https://hk.gh-proxy.com/https://github.com/SAMCG14/StarshipLaunchExpansion",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/SAMCG14/StarshipLaunchExpansion/issues",
+        "repository": "https://get.2sb.org/https://github.com/SAMCG14/StarshipLaunchExpansion",
+        "bugtracker": "https://get.2sb.org/https://github.com/SAMCG14/StarshipLaunchExpansion/issues",
         "x_screenshot": "https://spacedock.info/content/SAMCG14_64203/Starship_Launch_Expansion_Beta_v0.3/Starship_Launch_Expansion_Beta_v0.3-1630373131.7624993.png"
     },
     "tags": [

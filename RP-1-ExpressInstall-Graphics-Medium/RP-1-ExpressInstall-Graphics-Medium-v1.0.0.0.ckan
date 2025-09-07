@@ -10,9 +10,9 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/190040-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RP-1-ExpressInstall-Graphics",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RP-1-ExpressInstall-Graphics/issues",
-        "metanetkan": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RP-1-ExpressInstall-Graphics/raw/main/RP-1-ExpressInstall-Graphics-Medium.netkan",
+        "repository": "https://get.2sb.org/https://github.com/KSP-RO/RP-1-ExpressInstall-Graphics",
+        "bugtracker": "https://get.2sb.org/https://github.com/KSP-RO/RP-1-ExpressInstall-Graphics/issues",
+        "metanetkan": "https://get.2sb.org/https://github.com/KSP-RO/RP-1-ExpressInstall-Graphics/raw/main/RP-1-ExpressInstall-Graphics-Medium.netkan",
         "remote-avc": "https://raw.githubusercontent.com/KSP-RO/RP-1-ExpressInstall-Graphics/main/RP-1-ExpressInstall-Graphics.version"
     },
     "tags": [
@@ -77,7 +77,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RP-1-ExpressInstall-Graphics/releases/download/v1.0.0.0/Medium.zip",
+    "download": "https://get.2sb.org/https://github.com/KSP-RO/RP-1-ExpressInstall-Graphics/releases/download/v1.0.0.0/Medium.zip",
     "download_size": 1250,
     "download_hash": {
         "sha1": "30BD31307DEBCEB25B11198BA5E4FA73E55E5397",

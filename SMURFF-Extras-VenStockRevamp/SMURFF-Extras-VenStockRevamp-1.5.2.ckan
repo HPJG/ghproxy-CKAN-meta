@@ -7,7 +7,7 @@
     "license": "Apache-2.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/117992-/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Kerbas-ad-astra/SMURFF"
+        "repository": "https://get.2sb.org/https://github.com/Kerbas-ad-astra/SMURFF"
     },
     "version": "1.5.2",
     "ksp_version": "1.1.2",
@@ -29,7 +29,7 @@
             "install_to": "GameData/SMURFF/Extras"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Kerbas-ad-astra/SMURFF/releases/download/v1.5.2/SMURFF-1.5.2.zip",
+    "download": "https://get.2sb.org/https://github.com/Kerbas-ad-astra/SMURFF/releases/download/v1.5.2/SMURFF-1.5.2.zip",
     "download_size": 10570,
     "download_hash": {
         "sha1": "B76904AC519E05B56D0E6FB6B7D89E8BF5A06DB1",

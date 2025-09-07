@@ -14,7 +14,7 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://www.Kerbaltek.com/graphotron",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Ezriilc/KSP-Graphotron",
+        "repository": "https://get.2sb.org/https://github.com/Ezriilc/KSP-Graphotron",
         "remote-avc": "https://raw.githubusercontent.com/Ezriilc/KSP-Graphotron/master/Graphotron.version"
     },
     "tags": [

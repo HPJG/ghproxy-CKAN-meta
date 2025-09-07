@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/162790-13-hanger-extender-release-imminent/",
         "spacedock": "https://spacedock.info/mod/1428/HangarExtender",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/FShangarExtender",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/FShangarExtender/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/FShangarExtender",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/FShangarExtender/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/FShangarExtender",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/HangerExtender/HangerExtender-1498944923.9047995.png"
     },
@@ -35,7 +35,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/FShangarExtender/releases/download/3.6.0.2/FShangarExtender-1.12.0-3.6.0.2.zip",
+        "https://get.2sb.org/https://github.com/linuxgurugamer/FShangarExtender/releases/download/3.6.0.2/FShangarExtender-1.12.0-3.6.0.2.zip",
         "https://spacedock.info/mod/1428/HangarExtender/download/3.6.0.2"
     ],
     "download_size": 27506,

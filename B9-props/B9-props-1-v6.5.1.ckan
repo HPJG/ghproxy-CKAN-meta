@@ -7,7 +7,7 @@
     "license": "CC-BY-NC-SA-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?showtopic=155491",
-        "repository": "https://hk.gh-proxy.com/https://github.com/blowfishpro/B9-Aerospace"
+        "repository": "https://get.2sb.org/https://github.com/blowfishpro/B9-Aerospace"
     },
     "version": "1:v6.5.1",
     "ksp_version_min": "1.4.2",
@@ -35,7 +35,7 @@
             "install_to": "GameData/B9_Aerospace/Props"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/blowfishpro/B9-Aerospace/releases/download/v6.5.1/B9_Aerospace_v6.5.1.zip",
+    "download": "https://get.2sb.org/https://github.com/blowfishpro/B9-Aerospace/releases/download/v6.5.1/B9_Aerospace_v6.5.1.zip",
     "download_size": 79028414,
     "download_hash": {
         "sha1": "EBF10E26511D401FE7DC1EBA57C19A3C429EB164",

@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/80234",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Biotronic/TweakScale"
+        "repository": "https://get.2sb.org/https://github.com/Biotronic/TweakScale"
     },
     "version": "v1.47",
     "ksp_version": "0.25",
@@ -18,7 +18,7 @@
             "min_version": "2.5.1"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Biotronic/TweakScale/releases/download/v1.47/TweakScale_1.47.zip",
+    "download": "https://get.2sb.org/https://github.com/Biotronic/TweakScale/releases/download/v1.47/TweakScale_1.47.zip",
     "download_size": 137876,
     "download_hash": {
         "sha1": "49F7C0541271DE92D3272B0CEEFA33821D6B87E1",

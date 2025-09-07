@@ -11,8 +11,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/177292-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/yalov/CommNetAntennasInfo",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/yalov/CommNetAntennasInfo/issues",
+        "repository": "https://get.2sb.org/https://github.com/yalov/CommNetAntennasInfo",
+        "bugtracker": "https://get.2sb.org/https://github.com/yalov/CommNetAntennasInfo/issues",
         "remote-avc": "https://raw.githubusercontent.com/yalov/CommNetAntennasInfo/master/CommNetAntennasInfo.version"
     },
     "tags": [
@@ -55,7 +55,7 @@
             "name": "RemoteTech"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/yalov/CommNetAntennasInfo/releases/download/3.0.3/CommNetAntennasInfo-v3.0.3.zip",
+    "download": "https://get.2sb.org/https://github.com/yalov/CommNetAntennasInfo/releases/download/3.0.3/CommNetAntennasInfo-v3.0.3.zip",
     "download_size": 88426,
     "download_hash": {
         "sha1": "A10A8D598AA7EC7EF846E3FB8CDEA8D05BBA0D17",

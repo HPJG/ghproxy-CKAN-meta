@@ -7,8 +7,8 @@
     "author": "Raidernick",
     "license": "CC-BY-SA",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/KSP-RO/FASA-RO",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/FASA-RO"
+        "homepage": "https://get.2sb.org/https://github.com/KSP-RO/FASA-RO",
+        "repository": "https://get.2sb.org/https://github.com/KSP-RO/FASA-RO"
     },
     "version": "1:v7.2.1",
     "ksp_version_min": "1.2.0",
@@ -37,7 +37,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/FASA-RO/releases/download/v7.2.1/FASA_v7.2.1.zip",
+    "download": "https://get.2sb.org/https://github.com/KSP-RO/FASA-RO/releases/download/v7.2.1/FASA_v7.2.1.zip",
     "download_size": 93328080,
     "download_hash": {
         "sha1": "807F826E4353E49B0F317157CC7C250E2FEB0E19",

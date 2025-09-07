@@ -9,9 +9,9 @@
     "license": "Unlicense",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/185931-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Starwaster/Kerbal-Occupation-Colors",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Starwaster/Kerbal-Occupation-Colors/issues",
-        "remote-avc": "https://hk.gh-proxy.com/https://github.com/Starwaster/Kerbal-Occupation-Colors/raw/master/GameData/KerbalOccupationColors/KerbalOccupationColors.version"
+        "repository": "https://get.2sb.org/https://github.com/Starwaster/Kerbal-Occupation-Colors",
+        "bugtracker": "https://get.2sb.org/https://github.com/Starwaster/Kerbal-Occupation-Colors/issues",
+        "remote-avc": "https://get.2sb.org/https://github.com/Starwaster/Kerbal-Occupation-Colors/raw/master/GameData/KerbalOccupationColors/KerbalOccupationColors.version"
     },
     "tags": [
         "plugin",
@@ -29,7 +29,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Starwaster/Kerbal-Occupation-Colors/releases/download/v1.2.0.1/KerbalOccupationColors_v1.2.0.1.zip",
+    "download": "https://get.2sb.org/https://github.com/Starwaster/Kerbal-Occupation-Colors/releases/download/v1.2.0.1/KerbalOccupationColors_v1.2.0.1.zip",
     "download_size": 6394,
     "download_hash": {
         "sha1": "DECABF569F4E3B88D01ED87DDBFB469FC6140896",

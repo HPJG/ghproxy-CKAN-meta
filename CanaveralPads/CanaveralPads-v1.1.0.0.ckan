@@ -21,10 +21,10 @@
     "ksp_version_max": "1.12.99",
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/KSP-RO/CanaveralPads/tree/main/GameData/CanaveralPads",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/CanaveralPads",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-RO/CanaveralPads/issues",
-        "remote-avc": "https://hk.gh-proxy.com/https://github.com/KSP-RO/CanaveralPads/raw/main/GameData/CanaveralPads/CanaveralPads.version"
+        "homepage": "https://get.2sb.org/https://github.com/KSP-RO/CanaveralPads/tree/main/GameData/CanaveralPads",
+        "repository": "https://get.2sb.org/https://github.com/KSP-RO/CanaveralPads",
+        "bugtracker": "https://get.2sb.org/https://github.com/KSP-RO/CanaveralPads/issues",
+        "remote-avc": "https://get.2sb.org/https://github.com/KSP-RO/CanaveralPads/raw/main/GameData/CanaveralPads/CanaveralPads.version"
     },
     "tags": [
         "graphics"
@@ -46,7 +46,7 @@
             "suppress_recommendations": true
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/CanaveralPads/releases/download/v1.1.0.0/CanaveralPads-v1.1.0.0.zip",
+    "download": "https://get.2sb.org/https://github.com/KSP-RO/CanaveralPads/releases/download/v1.1.0.0/CanaveralPads-v1.1.0.0.zip",
     "download_size": 53477147,
     "download_hash": {
         "sha1": "CBC3D245E22E0A6DC62F87ED0550FAFCC068CAD7",

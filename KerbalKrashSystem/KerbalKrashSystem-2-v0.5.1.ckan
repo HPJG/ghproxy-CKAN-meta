@@ -8,8 +8,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/129410-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/EnzoMeertens/KerbalKrashSystem",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/EnzoMeertens/KerbalKrashSystem/issues"
+        "repository": "https://get.2sb.org/https://github.com/EnzoMeertens/KerbalKrashSystem",
+        "bugtracker": "https://get.2sb.org/https://github.com/EnzoMeertens/KerbalKrashSystem/issues"
     },
     "tags": [
         "plugin",
@@ -27,7 +27,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/EnzoMeertens/KerbalKrashSystem/releases/download/0.5.1/KerbalKrashSystem_0.5.1_2020-08-05.zip",
+    "download": "https://get.2sb.org/https://github.com/EnzoMeertens/KerbalKrashSystem/releases/download/0.5.1/KerbalKrashSystem_0.5.1_2020-08-05.zip",
     "download_size": 104696,
     "download_hash": {
         "sha1": "58C36816556E5C25E9F33473292BEE74D81A114E",

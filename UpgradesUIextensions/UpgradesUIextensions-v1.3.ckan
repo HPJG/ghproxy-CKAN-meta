@@ -7,11 +7,11 @@
     "license": "Unlicense",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/158081-122-upgradesuiextensions-v10-qol-vabsph-tweaks-for-part-upgrades/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/gotmachine/UpgradesUIExtensions"
+        "repository": "https://get.2sb.org/https://github.com/gotmachine/UpgradesUIExtensions"
     },
     "version": "v1.3",
     "ksp_version": "1.2.2",
-    "download": "https://hk.gh-proxy.com/https://github.com/gotmachine/UpgradesUIExtensions/releases/download/v1.3/UpgradesUIExtensions_v1.3_KSP1.2.2.zip",
+    "download": "https://get.2sb.org/https://github.com/gotmachine/UpgradesUIExtensions/releases/download/v1.3/UpgradesUIExtensions_v1.3_KSP1.2.2.zip",
     "download_size": 26639,
     "download_hash": {
         "sha1": "AA6C429E4EA337FC71F29D83445B409C6427A1B2",

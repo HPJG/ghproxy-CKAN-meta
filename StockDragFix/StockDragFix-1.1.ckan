@@ -9,8 +9,8 @@
     "license": "CC-BY-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/76712-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Starwaster/StockDragFix",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Starwaster/StockDragFix/issues"
+        "repository": "https://get.2sb.org/https://github.com/Starwaster/StockDragFix",
+        "bugtracker": "https://get.2sb.org/https://github.com/Starwaster/StockDragFix/issues"
     },
     "tags": [
         "plugin",
@@ -21,7 +21,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Starwaster/StockDragFix/releases/download/1.1/StockDragFix_1.1.zip",
+    "download": "https://get.2sb.org/https://github.com/Starwaster/StockDragFix/releases/download/1.1/StockDragFix_1.1.zip",
     "download_size": 10299,
     "download_hash": {
         "sha1": "7FF9FB623EC2E7C03DFC534629976D09842E18FA",

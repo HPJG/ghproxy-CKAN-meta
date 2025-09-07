@@ -9,8 +9,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/210985-112x-wacapella-early-sounding-rockets-001-9th-dec-2022/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/harveyt/Wacapella",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/harveyt/Wacapella/issues"
+        "repository": "https://get.2sb.org/https://github.com/harveyt/Wacapella",
+        "bugtracker": "https://get.2sb.org/https://github.com/harveyt/Wacapella/issues"
     },
     "tags": [
         "parts",
@@ -41,7 +41,7 @@
             "name": "SkyhawkScienceSystem"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/harveyt/Wacapella/releases/download/1.0.3/Wacapella-1.0.3.zip",
+    "download": "https://get.2sb.org/https://github.com/harveyt/Wacapella/releases/download/1.0.3/Wacapella-1.0.3.zip",
     "download_size": 9782,
     "download_hash": {
         "sha1": "E551AE6BA6A57289FBAA3635D5267EB583C8D110",

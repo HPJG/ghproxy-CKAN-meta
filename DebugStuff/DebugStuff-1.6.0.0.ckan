@@ -7,7 +7,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/135726-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/sarbian/DebugStuff",
+        "repository": "https://get.2sb.org/https://github.com/sarbian/DebugStuff",
         "ci": "https://ksp.sarbian.com/jenkins/job/DebugStuff"
     },
     "version": "1.6.0.0",

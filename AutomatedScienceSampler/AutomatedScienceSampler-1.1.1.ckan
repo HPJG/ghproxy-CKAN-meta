@@ -10,8 +10,8 @@
     "license": "restricted",
     "resources": {
         "homepage": "http://kerbokatz.github.io/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Xarun/AutomatedScienceSampler",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Xarun/AutomatedScienceSampler/issues"
+        "repository": "https://get.2sb.org/https://github.com/Xarun/AutomatedScienceSampler",
+        "bugtracker": "https://get.2sb.org/https://github.com/Xarun/AutomatedScienceSampler/issues"
     },
     "version": "1.1.1",
     "ksp_version_min": "1.1.0",
@@ -28,7 +28,7 @@
             "install_to": "GameData/KerboKatz"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KerboKatz/AutomatedScienceSampler/releases/download/1.1.1/AutomatedScienceSampler.zip",
+    "download": "https://get.2sb.org/https://github.com/KerboKatz/AutomatedScienceSampler/releases/download/1.1.1/AutomatedScienceSampler.zip",
     "download_size": 135006,
     "download_hash": {
         "sha1": "8B30728A3B3F614CB7DC80B82B42E4A1F2AC36D2",

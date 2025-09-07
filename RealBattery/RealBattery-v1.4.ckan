@@ -7,7 +7,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/151164-121-real-battery-v114/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/blackliner/RealBattery"
+        "repository": "https://get.2sb.org/https://github.com/blackliner/RealBattery"
     },
     "version": "v1.4",
     "ksp_version": "1.4.0",
@@ -24,7 +24,7 @@
             "name": "DynamicBatteryStorage"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/blackliner/RealBattery/releases/download/v1.4/RealBattery.zip",
+    "download": "https://get.2sb.org/https://github.com/blackliner/RealBattery/releases/download/v1.4/RealBattery.zip",
     "download_size": 7304,
     "download_hash": {
         "sha1": "7F918EFF1746634C3071983CB92B459BF751664F",

@@ -8,10 +8,10 @@
     "ksp_version": "1.12.3",
     "license": "MIT",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/allista/AutoLoadGame",
+        "homepage": "https://get.2sb.org/https://github.com/allista/AutoLoadGame",
         "spacedock": "https://spacedock.info/mod/832/AutoLoadGame",
-        "repository": "https://hk.gh-proxy.com/https://github.com/allista/AutoLoadGame",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/allista/AutoLoadGame/issues",
+        "repository": "https://get.2sb.org/https://github.com/allista/AutoLoadGame",
+        "bugtracker": "https://get.2sb.org/https://github.com/allista/AutoLoadGame/issues",
         "remote-avc": "https://raw.githubusercontent.com:443/allista/AutoLoadGame/master/GameData/AutoLoadGame/AutoLoadGame.version",
         "x_screenshot": "https://spacedock.info/content/allista_931/AutoLoadGame/AutoLoadGame-1468044514.625655.png"
     },
@@ -20,7 +20,7 @@
         "convenience"
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/allista/AutoLoadGame/releases/download/v1.0.10.2/AutoLoadGame-v1.0.10.2.zip",
+        "https://get.2sb.org/https://github.com/allista/AutoLoadGame/releases/download/v1.0.10.2/AutoLoadGame-v1.0.10.2.zip",
         "https://spacedock.info/mod/832/AutoLoadGame/download/1.0.10.2"
     ],
     "download_size": 4434,

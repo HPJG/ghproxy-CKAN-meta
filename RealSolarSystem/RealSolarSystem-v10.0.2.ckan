@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/55145",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealSolarSystem"
+        "repository": "https://get.2sb.org/https://github.com/KSP-RO/RealSolarSystem"
     },
     "version": "v10.0.2",
     "ksp_version": "1.0.4",
@@ -43,7 +43,7 @@
             "install_to": "GameData/Kopernicus"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealSolarSystem/releases/download/v10.0.2/RealSolarSystem_v10.0.2.zip",
+    "download": "https://get.2sb.org/https://github.com/KSP-RO/RealSolarSystem/releases/download/v10.0.2/RealSolarSystem_v10.0.2.zip",
     "download_size": 9520053,
     "download_hash": {
         "sha1": "F011B1DBB1B87C2AE28C72CEB517CBCF48BCF424",

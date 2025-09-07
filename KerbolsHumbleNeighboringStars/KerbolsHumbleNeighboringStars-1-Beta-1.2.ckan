@@ -9,8 +9,8 @@
     "license": "restricted",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/207835-*/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/parkerman-com/KHNS",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/parkerman-com/KHNS/issues"
+        "repository": "https://get.2sb.org/https://github.com/parkerman-com/KHNS",
+        "bugtracker": "https://get.2sb.org/https://github.com/parkerman-com/KHNS/issues"
     },
     "tags": [
         "plugin",
@@ -54,7 +54,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/parkerman-com/KHNS/releases/download/Beta-1.2/KHNS_Beta_1.2.zip",
+    "download": "https://get.2sb.org/https://github.com/parkerman-com/KHNS/releases/download/Beta-1.2/KHNS_Beta_1.2.zip",
     "download_size": 481213492,
     "download_hash": {
         "sha1": "F410610A7C8FDEA77EE3B117DA1566A3CEED6B53",

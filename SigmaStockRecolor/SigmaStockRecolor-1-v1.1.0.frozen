@@ -8,7 +8,7 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/112095",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Sigma88/Sigma-EveRecolor"
+        "repository": "https://get.2sb.org/https://github.com/Sigma88/Sigma-EveRecolor"
     },
     "version": "1:v1.1.0",
     "ksp_version": "1.0.5",
@@ -41,7 +41,7 @@
             "install_to": "GameData/Sigma"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Sigma88/Sigma-EveRecolor/releases/download/v1.1.0/Sigma-EveRecolor.v1.1.0.zip",
+    "download": "https://get.2sb.org/https://github.com/Sigma88/Sigma-EveRecolor/releases/download/v1.1.0/Sigma-EveRecolor.v1.1.0.zip",
     "download_size": 1145317,
     "download_hash": {
         "sha1": "825DC0745A0D3BC6FAA41962A5B184AE4D13C62E",

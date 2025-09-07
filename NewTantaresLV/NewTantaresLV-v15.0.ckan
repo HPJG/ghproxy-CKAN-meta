@@ -10,8 +10,8 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/73686-122-tantareslv-stockalike-n1-and-more-1018122016n1/&page=1",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Tantares/TantaresLV",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Tantares/TantaresLV/issues",
+        "repository": "https://get.2sb.org/https://github.com/Tantares/TantaresLV",
+        "bugtracker": "https://get.2sb.org/https://github.com/Tantares/TantaresLV/issues",
         "remote-avc": "https://raw.githubusercontent.com/Tantares/TantaresSP/master/tantaressp.version"
     },
     "tags": [
@@ -49,7 +49,7 @@
             "as": "VAB"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Tantares/TantaresLV/releases/download/v15.0/TantaresLV.zip",
+    "download": "https://get.2sb.org/https://github.com/Tantares/TantaresLV/releases/download/v15.0/TantaresLV.zip",
     "download_size": 70378599,
     "download_hash": {
         "sha1": "1BC1151FB8C9C007E24E44BA715E3BF403131959",

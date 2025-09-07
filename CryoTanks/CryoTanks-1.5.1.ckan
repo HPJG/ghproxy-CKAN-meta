@@ -9,10 +9,10 @@
     "ksp_version_max": "1.9.99",
     "license": "restricted",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/ChrisAdderley/CryoTanks/wiki",
-        "repository": "https://hk.gh-proxy.com/https://github.com/ChrisAdderley/CryoTanks",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/ChrisAdderley/CryoTanks/issues",
-        "metanetkan": "https://hk.gh-proxy.com/https://github.com/ChrisAdderley/CryoTanks/raw/master/CKAN/CryoTanks.netkan"
+        "homepage": "https://get.2sb.org/https://github.com/ChrisAdderley/CryoTanks/wiki",
+        "repository": "https://get.2sb.org/https://github.com/ChrisAdderley/CryoTanks",
+        "bugtracker": "https://get.2sb.org/https://github.com/ChrisAdderley/CryoTanks/issues",
+        "metanetkan": "https://get.2sb.org/https://github.com/ChrisAdderley/CryoTanks/raw/master/CKAN/CryoTanks.netkan"
     },
     "tags": [
         "parts"
@@ -57,7 +57,7 @@
             "filter": "SimpleBoiloff.dll"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/ChrisAdderley/CryoTanks/releases/download/1.5.1/CryoTanks_1_5_1.zip",
+    "download": "https://get.2sb.org/https://github.com/ChrisAdderley/CryoTanks/releases/download/1.5.1/CryoTanks_1_5_1.zip",
     "download_size": 60295294,
     "download_hash": {
         "sha1": "190BA3578E8CB1399028FFFB4909EF4F4AE62002",

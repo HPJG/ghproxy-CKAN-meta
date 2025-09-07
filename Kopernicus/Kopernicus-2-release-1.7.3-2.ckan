@@ -18,7 +18,7 @@
     "license": "LGPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/181547-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Kopernicus/Kopernicus"
+        "repository": "https://get.2sb.org/https://github.com/Kopernicus/Kopernicus"
     },
     "tags": [
         "plugin",
@@ -45,7 +45,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Kopernicus/Kopernicus/releases/download/release-1.7.3-2/Kopernicus-1.7.3-2.zip",
+    "download": "https://get.2sb.org/https://github.com/Kopernicus/Kopernicus/releases/download/release-1.7.3-2/Kopernicus-1.7.3-2.zip",
     "download_size": 362072,
     "download_hash": {
         "sha1": "3B83FB039D50F608F3290A074EBF13A94CA2ADDE",

@@ -7,7 +7,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/108416",
-        "repository": "https://hk.gh-proxy.com/https://github.com/fingerboxes/CrewQueue"
+        "repository": "https://get.2sb.org/https://github.com/fingerboxes/CrewQueue"
     },
     "version": "ksp1.0_release1",
     "ksp_version_min": "1.0.0",
@@ -23,7 +23,7 @@
             "install_to": "GameData/Fingerboxes"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/fingerboxes/CrewQueue/releases/download/ksp1.0_release1/CrewQueue_ksp1.0.2_release1.zip",
+    "download": "https://get.2sb.org/https://github.com/fingerboxes/CrewQueue/releases/download/ksp1.0_release1/CrewQueue_ksp1.0.2_release1.zip",
     "download_size": 67144,
     "download_hash": {
         "sha1": "4621173381BEDF6D110F01A74A3225549C84F347",

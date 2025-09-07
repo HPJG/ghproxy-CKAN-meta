@@ -7,7 +7,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/162619-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/jefftimlin/BetterLoadSaveGame"
+        "repository": "https://get.2sb.org/https://github.com/jefftimlin/BetterLoadSaveGame"
     },
     "version": "2.1",
     "ksp_version": "1.4",
@@ -19,7 +19,7 @@
             "name": "KerbalImprovedSaveSystem"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/jefftimlin/BetterLoadSaveGame/releases/download/2.1/BetterLoadSaveGame_v2.1.zip",
+    "download": "https://get.2sb.org/https://github.com/jefftimlin/BetterLoadSaveGame/releases/download/2.1/BetterLoadSaveGame_v2.1.zip",
     "download_size": 11189,
     "download_hash": {
         "sha1": "32E1849AF4A7599F47B42E6E9887B475685E4AC5",

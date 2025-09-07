@@ -11,7 +11,7 @@
     "license": "MIT",
     "release_status": "testing",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/jthero3/OuterParallax-Continued"
+        "repository": "https://get.2sb.org/https://github.com/jthero3/OuterParallax-Continued"
     },
     "tags": [
         "config",
@@ -47,7 +47,7 @@
             "install_to": "GameData/OuterParallax"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/jthero3/OuterParallax-Continued/releases/download/0.5.6/OuterParallax-MPE_0.5.6.zip",
+    "download": "https://get.2sb.org/https://github.com/jthero3/OuterParallax-Continued/releases/download/0.5.6/OuterParallax-MPE_0.5.6.zip",
     "download_size": 501785722,
     "download_hash": {
         "sha256": "1526AA66A79C4317F7208E892443FB200BE7B1F301FFE6D7555B37937730647B"

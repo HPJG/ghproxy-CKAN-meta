@@ -11,10 +11,10 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/187495-*/",
         "spacedock": "https://spacedock.info/mod/2212/Transparent%20Pods",
-        "repository": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/TransparentPods",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/TransparentPods/issues",
-        "discussions": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/TransparentPods/discussions",
-        "remote-avc": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/TransparentPods/raw/master/TransparentPods.version",
+        "repository": "https://get.2sb.org/https://github.com/zer0Kerbal/TransparentPods",
+        "bugtracker": "https://get.2sb.org/https://github.com/zer0Kerbal/TransparentPods/issues",
+        "discussions": "https://get.2sb.org/https://github.com/zer0Kerbal/TransparentPods/discussions",
+        "remote-avc": "https://get.2sb.org/https://github.com/zer0Kerbal/TransparentPods/raw/master/TransparentPods.version",
         "x_screenshot": "https://spacedock.info/content/zer0Kerbal_21147/Transparent_Pods/Transparent_Pods-1652848957.png"
     },
     "tags": [

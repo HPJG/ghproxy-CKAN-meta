@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/225452-112x-mk2-rebalance-v001/",
         "spacedock": "https://spacedock.info/mod/3661/Mk2%20Rebalance",
-        "repository": "https://hk.gh-proxy.com/https://github.com/CensoredUsername/Mk2Rebalance",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/CensoredUsername/Mk2Rebalance/issues"
+        "repository": "https://get.2sb.org/https://github.com/CensoredUsername/Mk2Rebalance",
+        "bugtracker": "https://get.2sb.org/https://github.com/CensoredUsername/Mk2Rebalance/issues"
     },
     "tags": [
         "config"

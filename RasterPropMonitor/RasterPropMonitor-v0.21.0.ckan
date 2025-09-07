@@ -10,7 +10,7 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/117471",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Mihara/RasterPropMonitor",
+        "repository": "https://get.2sb.org/https://github.com/Mihara/RasterPropMonitor",
         "kerbalstuff": "https://kerbalstuff.com/mod/734/RasterPropMonitor"
     },
     "version": "v0.21.0",

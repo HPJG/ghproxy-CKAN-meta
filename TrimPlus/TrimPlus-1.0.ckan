@@ -7,11 +7,11 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/127318-105-trimplus-key-bindings-for-trim-controls",
-        "repository": "https://hk.gh-proxy.com/https://github.com/ItMustBeACamel/KSP_TrimPlus"
+        "repository": "https://get.2sb.org/https://github.com/ItMustBeACamel/KSP_TrimPlus"
     },
     "version": "1.0",
     "ksp_version": "1.0.5",
-    "download": "https://hk.gh-proxy.com/https://github.com/ItMustBeACamel/KSP_TrimPlus/releases/download/1.0/TrimPlus_1_0.zip",
+    "download": "https://get.2sb.org/https://github.com/ItMustBeACamel/KSP_TrimPlus/releases/download/1.0/TrimPlus_1_0.zip",
     "download_size": 16280,
     "download_hash": {
         "sha1": "073B8D120886ADDD7BCB1780A0D5F5EA6600132D",

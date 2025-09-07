@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/212193-1125-kerbal-space-program-polish-translation-v09-beta/",
         "spacedock": "https://spacedock.info/mod/3251/Polish%20translation%20by%20ReMakee",
-        "repository": "https://hk.gh-proxy.com/https://github.com/MarcinZboralski/PolishTranslation",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/MarcinZboralski/PolishTranslation/issues",
+        "repository": "https://get.2sb.org/https://github.com/MarcinZboralski/PolishTranslation",
+        "bugtracker": "https://get.2sb.org/https://github.com/MarcinZboralski/PolishTranslation/issues",
         "x_screenshot": "https://spacedock.info/content/ReMakee_103429/Polish_translation_by_ReMakee/Polish_translation_by_ReMakee-1677110782.png"
     },
     "tags": [
@@ -28,7 +28,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/MarcinZboralski/PolishTranslation/releases/download/0.931/PolishTranslation.v0.931.zip",
+        "https://get.2sb.org/https://github.com/MarcinZboralski/PolishTranslation/releases/download/0.931/PolishTranslation.v0.931.zip",
         "https://spacedock.info/mod/3251/Polish%20translation%20by%20ReMakee/download/0.931"
     ],
     "download_size": 356153,

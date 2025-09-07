@@ -7,7 +7,7 @@
     "license": "CC-BY-NC-ND-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/98791-105",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/USRockets"
+        "repository": "https://get.2sb.org/https://github.com/KSP-RO/USRockets"
     },
     "version": "v0.7",
     "ksp_version_min": "1.2",
@@ -41,7 +41,7 @@
             "install_to": "Ships"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/USRockets/releases/download/v0.7/RN_US_Rockets_v0.7.zip",
+    "download": "https://get.2sb.org/https://github.com/KSP-RO/USRockets/releases/download/v0.7/RN_US_Rockets_v0.7.zip",
     "download_size": 61635885,
     "download_hash": {
         "sha1": "8AAA4875AAC0753696056615153562B473AFCADC",

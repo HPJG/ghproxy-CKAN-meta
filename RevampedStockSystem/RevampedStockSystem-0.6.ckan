@@ -9,8 +9,8 @@
     "license": "unknown",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/134360-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/GregroxMun/Revamped-Stock-Solar-System",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/GregroxMun/Revamped-Stock-Solar-System/issues"
+        "repository": "https://get.2sb.org/https://github.com/GregroxMun/Revamped-Stock-Solar-System",
+        "bugtracker": "https://get.2sb.org/https://github.com/GregroxMun/Revamped-Stock-Solar-System/issues"
     },
     "tags": [
         "config",
@@ -30,7 +30,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/GregroxMun/Revamped-Stock-Solar-System/releases/download/0.6/RevampedStockSystemv0.6.zip",
+    "download": "https://get.2sb.org/https://github.com/GregroxMun/Revamped-Stock-Solar-System/releases/download/0.6/RevampedStockSystemv0.6.zip",
     "download_size": 170387738,
     "download_hash": {
         "sha1": "6D019A98886FA92D1FEA11FED3F0DE606A10210F",

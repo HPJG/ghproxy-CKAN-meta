@@ -10,8 +10,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/181852-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/SteveBenz/ProgressiveColonizationSystem",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/SteveBenz/ProgressiveColonizationSystem/issues"
+        "repository": "https://get.2sb.org/https://github.com/SteveBenz/ProgressiveColonizationSystem",
+        "bugtracker": "https://get.2sb.org/https://github.com/SteveBenz/ProgressiveColonizationSystem/issues"
     },
     "tags": [
         "plugin",
@@ -44,7 +44,7 @@
             "name": "SpaceTuxLibrary"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/SteveBenz/ProgressiveColonizationSystem/releases/download/v2.1.0/ProgressiveColonizationSystem.zip",
+    "download": "https://get.2sb.org/https://github.com/SteveBenz/ProgressiveColonizationSystem/releases/download/v2.1.0/ProgressiveColonizationSystem.zip",
     "download_size": 8466573,
     "download_hash": {
         "sha1": "317302A7814BBF6C347185AC098EFCD71AF6BF0C",

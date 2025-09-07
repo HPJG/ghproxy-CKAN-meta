@@ -11,10 +11,10 @@
     "ksp_version": "1.12.5",
     "license": "MIT",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/Holoday/ContinuousCollision/releases/",
+        "homepage": "https://get.2sb.org/https://github.com/Holoday/ContinuousCollision/releases/",
         "spacedock": "https://spacedock.info/mod/3067/Continuous%20Collisions",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Holoday/ContinuousCollision",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Holoday/ContinuousCollision/issues",
+        "repository": "https://get.2sb.org/https://github.com/Holoday/ContinuousCollision",
+        "bugtracker": "https://get.2sb.org/https://github.com/Holoday/ContinuousCollision/issues",
         "x_screenshot": "https://spacedock.info/content/Holoday_85388/Continuous_Collisions/Continuous_Collisions-1659491877.png"
     },
     "tags": [

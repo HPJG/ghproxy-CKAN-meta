@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/225891-112x-kerbol-system-renewed-v020",
         "spacedock": "https://spacedock.info/mod/3713/Kerbol%20System%20Renewed",
-        "repository": "https://hk.gh-proxy.com/https://github.com/SirNooblyOP/Kerbol-System-Renewed",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/SirNooblyOP/Kerbol-System-Renewed/issues",
+        "repository": "https://get.2sb.org/https://github.com/SirNooblyOP/Kerbol-System-Renewed",
+        "bugtracker": "https://get.2sb.org/https://github.com/SirNooblyOP/Kerbol-System-Renewed/issues",
         "x_screenshot": "https://spacedock.info/content/Noobly_139530/Kerbol_System_Renewed/Kerbol_System_Renewed-1725918843.png"
     },
     "tags": [
@@ -27,7 +27,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/SirNooblyOP/Kerbol-System-Renewed/releases/download/v0.3.0/Kerbol-System-Renewed-v0.3.0.zip",
+        "https://get.2sb.org/https://github.com/SirNooblyOP/Kerbol-System-Renewed/releases/download/v0.3.0/Kerbol-System-Renewed-v0.3.0.zip",
         "https://spacedock.info/mod/3713/Kerbol%20System%20Renewed/download/0.3.0"
     ],
     "download_size": 5810195,

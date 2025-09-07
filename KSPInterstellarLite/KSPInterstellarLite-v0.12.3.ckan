@@ -10,7 +10,7 @@
     "license": "unrestricted",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/82882-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/confusingbits/KSPInterstellar"
+        "repository": "https://get.2sb.org/https://github.com/confusingbits/KSPInterstellar"
     },
     "version": "v0.12.3",
     "ksp_version": "0.24.2",
@@ -48,7 +48,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/confusingbits/KSPInterstellar/releases/download/v0.12.3/Interstellar.Lite.v0.12.3.zip",
+    "download": "https://get.2sb.org/https://github.com/confusingbits/KSPInterstellar/releases/download/v0.12.3/Interstellar.Lite.v0.12.3.zip",
     "download_size": 54100142,
     "download_hash": {
         "sha1": "503EB897CED30B2C4671C77A8214BEA5ABD5A61C",

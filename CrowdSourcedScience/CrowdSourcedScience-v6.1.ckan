@@ -12,8 +12,8 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/92332-css/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/DuoDex/CrowdSourcedScience",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/DuoDex/CrowdSourcedScience/issues",
+        "repository": "https://get.2sb.org/https://github.com/DuoDex/CrowdSourcedScience",
+        "bugtracker": "https://get.2sb.org/https://github.com/DuoDex/CrowdSourcedScience/issues",
         "metanetkan": "https://raw.githubusercontent.com/DuoDex/CrowdSourcedScience/master/CrowdSourcedScience.netkan",
         "remote-avc": "https://raw.githubusercontent.com/DuoDex/CrowdSourcedScience/master/GameData/CrowdSourcedScience/CrowdSourcedScience.version"
     },
@@ -32,7 +32,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/DuoDex/CrowdSourcedScience/releases/download/v6.1/CrowdSourcedScience-v6.1.zip",
+    "download": "https://get.2sb.org/https://github.com/DuoDex/CrowdSourcedScience/releases/download/v6.1/CrowdSourcedScience-v6.1.zip",
     "download_size": 347808,
     "download_hash": {
         "sha1": "BD37167966F9FDBCA81BCED1196E560C88BA5771",

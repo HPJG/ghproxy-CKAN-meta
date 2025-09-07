@@ -10,8 +10,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/167450-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/shadowmage45/TexturesUnlimited",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/shadowmage45/TexturesUnlimited/issues",
+        "repository": "https://get.2sb.org/https://github.com/shadowmage45/TexturesUnlimited",
+        "bugtracker": "https://get.2sb.org/https://github.com/shadowmage45/TexturesUnlimited/issues",
         "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=532"
     },
     "tags": [
@@ -25,7 +25,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/shadowmage45/TexturesUnlimited/releases/download/1.5.10.25/TexturesUnlimited-1.5.10.25.zip",
+    "download": "https://get.2sb.org/https://github.com/shadowmage45/TexturesUnlimited/releases/download/1.5.10.25/TexturesUnlimited-1.5.10.25.zip",
     "download_size": 10127425,
     "download_hash": {
         "sha1": "48F34F40963AEF44648845C4A179382DCCBBD6B1",

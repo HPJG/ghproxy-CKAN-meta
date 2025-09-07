@@ -14,7 +14,7 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/108704-1",
         "spacedock": "https://spacedock.info/mod/133/Portrait%20Stats",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/KSP-Portrait-Stats",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/KSP-Portrait-Stats",
         "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/KSP-Portrait-Stats/refs/heads/master/PortraitStats.version",
         "x_screenshot": "https://spacedock.info/content/DMagic_247/Portrait_Stats/Portrait_Stats-1455816110.884348.png"
     },
@@ -33,7 +33,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/KSP-Portrait-Stats/releases/download/18.1.0/PortraitStats-1.12.0-18.1.0.zip",
+        "https://get.2sb.org/https://github.com/linuxgurugamer/KSP-Portrait-Stats/releases/download/18.1.0/PortraitStats-1.12.0-18.1.0.zip",
         "https://spacedock.info/mod/133/Portrait%20Stats/download/18.1.0"
     ],
     "download_size": 27922,

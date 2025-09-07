@@ -10,8 +10,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/111642-HotSpot/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Apokee/HotSpot",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Apokee/HotSpot/issues",
+        "repository": "https://get.2sb.org/https://github.com/Apokee/HotSpot",
+        "bugtracker": "https://get.2sb.org/https://github.com/Apokee/HotSpot/issues",
         "metanetkan": "https://raw.githubusercontent.com/Apokee/HotSpot/master/HotSpot.netkan"
     },
     "tags": [
@@ -32,7 +32,7 @@
             "name": "Toolbar"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Apokee/HotSpot/releases/download/v0.8.0/HotSpot-0.8.0.zip",
+    "download": "https://get.2sb.org/https://github.com/Apokee/HotSpot/releases/download/v0.8.0/HotSpot-0.8.0.zip",
     "download_size": 36000,
     "download_hash": {
         "sha1": "736F930C91C428ED28491FC6B79248EE8A2FF604",

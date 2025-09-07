@@ -15,8 +15,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/142594-kerbal-attachment-system-kas/",
         "curse": "https://kerbal.curseforge.com/projects/223900",
-        "repository": "https://hk.gh-proxy.com/https://github.com/ihsoft/KAS",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/ihsoft/KAS/issues",
+        "repository": "https://get.2sb.org/https://github.com/ihsoft/KAS",
+        "bugtracker": "https://get.2sb.org/https://github.com/ihsoft/KAS/issues",
         "x_screenshot": "https://media.forgecdn.net/avatars/thumbnails/17/968/120/120/635672058281519835.png"
     },
     "version": "0.5.7",

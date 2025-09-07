@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/55145",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealSolarSystem"
+        "repository": "https://get.2sb.org/https://github.com/KSP-RO/RealSolarSystem"
     },
     "version": "v11.1.0",
     "ksp_version": "1.1.2",
@@ -41,7 +41,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealSolarSystem/releases/download/v11.1.0/RealSolarSystem_v11.1.0.zip",
+    "download": "https://get.2sb.org/https://github.com/KSP-RO/RealSolarSystem/releases/download/v11.1.0/RealSolarSystem_v11.1.0.zip",
     "download_size": 10115275,
     "download_hash": {
         "sha1": "FF84EF4B75D7563AD7EF56BBDBF9C09E67477B98",

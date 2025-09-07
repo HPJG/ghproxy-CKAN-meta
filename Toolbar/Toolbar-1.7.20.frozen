@@ -12,7 +12,7 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/161857-13-*",
         "spacedock": "https://spacedock.info/mod/2090/Toolbar",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ksp_toolbar"
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/ksp_toolbar"
     },
     "version": "1.7.20",
     "ksp_version_min": "1.7.1",

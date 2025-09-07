@@ -10,9 +10,9 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/197723-1",
-        "repository": "https://hk.gh-proxy.com/https://github.com/post-kerbin-mining-corporation/SpaceDust",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/post-kerbin-mining-corporation/SpaceDust/issues",
-        "metanetkan": "https://hk.gh-proxy.com/https://github.com/post-kerbin-mining-corporation/SpaceDust/raw/master/CKAN/SpaceDust.netkan",
+        "repository": "https://get.2sb.org/https://github.com/post-kerbin-mining-corporation/SpaceDust",
+        "bugtracker": "https://get.2sb.org/https://github.com/post-kerbin-mining-corporation/SpaceDust/issues",
+        "metanetkan": "https://get.2sb.org/https://github.com/post-kerbin-mining-corporation/SpaceDust/raw/master/CKAN/SpaceDust.netkan",
         "remote-avc": "https://raw.githubusercontent.com:443/post-kerbin-mining-corporation/SpaceDust/master/GameData/SpaceDust/Versioning/SpaceDust.version"
     },
     "tags": [
@@ -40,7 +40,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/post-kerbin-mining-corporation/SpaceDust/releases/download/0.5.1/SpaceDust_0_5_1.zip",
+    "download": "https://get.2sb.org/https://github.com/post-kerbin-mining-corporation/SpaceDust/releases/download/0.5.1/SpaceDust_0_5_1.zip",
     "download_size": 10606298,
     "download_hash": {
         "sha1": "5BB060107597852A6EBF3092B4B5C0341E7A3B1E",

@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/149840-discussion-community-category-kit/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/BobPalmer/CommunityCategoryKit"
+        "repository": "https://get.2sb.org/https://github.com/BobPalmer/CommunityCategoryKit"
     },
     "version": "1.2.1",
     "ksp_version_min": "1.2.0",
@@ -19,7 +19,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/BobPalmer/CommunityCategoryKit/releases/download/1.2.1/CCK_1.2.1.zip",
+    "download": "https://get.2sb.org/https://github.com/BobPalmer/CommunityCategoryKit/releases/download/1.2.1/CCK_1.2.1.zip",
     "download_size": 29227,
     "download_hash": {
         "sha1": "0D3A427D61BCC63DD489355F45ED29A41BEC2365",

@@ -16,8 +16,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://discordapp.com/invite/ZGbR6nv",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RSS-CanaveralHD",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RSS-CanaveralHD/issues",
+        "repository": "https://get.2sb.org/https://github.com/KSP-RO/RSS-CanaveralHD",
+        "bugtracker": "https://get.2sb.org/https://github.com/KSP-RO/RSS-CanaveralHD/issues",
         "remote-avc": "https://raw.githubusercontent.com/KSP-RO/RSS-CanaveralHD/master/GameData/RSS-CanaveralHD/RSS-CanaveralHD.version"
     },
     "tags": [
@@ -36,7 +36,7 @@
             "name": "CanaveralPads"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RSS-CanaveralHD/releases/download/v1.0/RSS-CanaveralHD-v1.0.zip",
+    "download": "https://get.2sb.org/https://github.com/KSP-RO/RSS-CanaveralHD/releases/download/v1.0/RSS-CanaveralHD-v1.0.zip",
     "download_size": 42644331,
     "download_hash": {
         "sha1": "0C1BEB859B060869587C9961A3BD7693C293DEC2",

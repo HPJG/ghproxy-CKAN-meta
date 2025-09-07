@@ -9,15 +9,15 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/209927-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/HebaruSan/BuildingBlocker",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/HebaruSan/BuildingBlocker/issues",
+        "repository": "https://get.2sb.org/https://github.com/HebaruSan/BuildingBlocker",
+        "bugtracker": "https://get.2sb.org/https://github.com/HebaruSan/BuildingBlocker/issues",
         "remote-avc": "https://raw.githubusercontent.com/HebaruSan/BuildingBlocker/main/GameData/BuildingBlocker/BuildingBlocker.version"
     },
     "tags": [
         "plugin",
         "buildings"
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/HebaruSan/BuildingBlocker/releases/download/v0.1.0/BuildingBlocker.zip",
+    "download": "https://get.2sb.org/https://github.com/HebaruSan/BuildingBlocker/releases/download/v0.1.0/BuildingBlocker.zip",
     "download_size": 17481,
     "download_hash": {
         "sha1": "6B3813E2D00D81816A172B387D9B8EC1B40638A1",

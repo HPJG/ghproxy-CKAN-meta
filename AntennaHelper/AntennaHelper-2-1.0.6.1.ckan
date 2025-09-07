@@ -6,7 +6,7 @@
     "author": "linuxgurugamer",
     "license": "MIT",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/Antenna-Helper"
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/Antenna-Helper"
     },
     "version": "2:1.0.6.1",
     "ksp_version_min": "1.6.1",
@@ -32,7 +32,7 @@
             "find": "AntennaHelper"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/Antenna-Helper/releases/download/1.0.6.1/AntennaHelper-1.7.2-1.0.6.1.zip",
+    "download": "https://get.2sb.org/https://github.com/linuxgurugamer/Antenna-Helper/releases/download/1.0.6.1/AntennaHelper-1.7.2-1.0.6.1.zip",
     "download_size": 179165,
     "download_hash": {
         "sha1": "ABCE89FE54B8943A9CCF14403525615C5F35ECA2",

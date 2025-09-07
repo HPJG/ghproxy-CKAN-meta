@@ -9,8 +9,8 @@
     "license": "restricted",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/194713-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Angel-125/Mk-33",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Angel-125/Mk-33/issues",
+        "repository": "https://get.2sb.org/https://github.com/Angel-125/Mk-33",
+        "bugtracker": "https://get.2sb.org/https://github.com/Angel-125/Mk-33/issues",
         "remote-avc": "https://raw.githubusercontent.com/Angel-125/Mk-33/master/GameData/WildBlueIndustries/Mk-33/Mk33.version"
     },
     "tags": [
@@ -75,7 +75,7 @@
             "install_to": "Ships"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Angel-125/Mk-33/releases/download/v1.1/Mk-33.zip",
+    "download": "https://get.2sb.org/https://github.com/Angel-125/Mk-33/releases/download/v1.1/Mk-33.zip",
     "download_size": 84780412,
     "download_hash": {
         "sha1": "FF1A79E7163DE52692B5E837A28D9E6592011A5D",

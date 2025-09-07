@@ -6,12 +6,12 @@
     "author": "dyedquartz",
     "license": "MIT",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/dyedquartz/PVFMFlags",
-        "repository": "https://hk.gh-proxy.com/https://github.com/dyedquartz/PVFMFlags"
+        "homepage": "https://get.2sb.org/https://github.com/dyedquartz/PVFMFlags",
+        "repository": "https://get.2sb.org/https://github.com/dyedquartz/PVFMFlags"
     },
     "version": "v1",
     "ksp_version": "any",
-    "download": "https://hk.gh-proxy.com/https://github.com/dyedquartz/PVFMFlags/releases/download/v1/PVFMFlags-v1.zip",
+    "download": "https://get.2sb.org/https://github.com/dyedquartz/PVFMFlags/releases/download/v1/PVFMFlags-v1.zip",
     "download_size": 2122,
     "download_hash": {
         "sha1": "184717299A57C91811983D5E448243168A264949",

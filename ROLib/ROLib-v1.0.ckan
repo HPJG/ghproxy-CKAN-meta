@@ -12,8 +12,8 @@
     "ksp_version_max": "1.9.99",
     "license": "CC-BY-SA-4.0",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ROLibrary",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ROLibrary/issues"
+        "repository": "https://get.2sb.org/https://github.com/KSP-RO/ROLibrary",
+        "bugtracker": "https://get.2sb.org/https://github.com/KSP-RO/ROLibrary/issues"
     },
     "tags": [
         "library",
@@ -52,7 +52,7 @@
             "name": "TweakableEverythingCont"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ROLibrary/releases/download/v1.0/ROLib-1.0.zip",
+    "download": "https://get.2sb.org/https://github.com/KSP-RO/ROLibrary/releases/download/v1.0/ROLib-1.0.zip",
     "download_size": 64109,
     "download_hash": {
         "sha1": "A7BAA881B7E9570ACE5B3FC3E5920B2A773B69A9",

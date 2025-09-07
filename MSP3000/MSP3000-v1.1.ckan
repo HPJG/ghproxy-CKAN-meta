@@ -8,14 +8,14 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/172457-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/TykoTek/Material-Science-Pod",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/TykoTek/Material-Science-Pod/issues"
+        "repository": "https://get.2sb.org/https://github.com/TykoTek/Material-Science-Pod",
+        "bugtracker": "https://get.2sb.org/https://github.com/TykoTek/Material-Science-Pod/issues"
     },
     "tags": [
         "parts",
         "science"
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/TykoTek/Material-Science-Pod/releases/download/v1.1/MaterialSciencePod.zip",
+    "download": "https://get.2sb.org/https://github.com/TykoTek/Material-Science-Pod/releases/download/v1.1/MaterialSciencePod.zip",
     "download_size": 2507353,
     "download_hash": {
         "sha1": "078DB3C2E8D85ABE5A55A6DDCB26647A57E2C1E6",

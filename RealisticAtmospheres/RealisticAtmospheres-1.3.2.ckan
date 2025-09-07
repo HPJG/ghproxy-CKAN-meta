@@ -9,8 +9,8 @@
     "license": "CC-BY-NC-ND-4.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/128858-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/OhioBob/Realistic-Atmospheres",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/OhioBob/Realistic-Atmospheres/issues",
+        "repository": "https://get.2sb.org/https://github.com/OhioBob/Realistic-Atmospheres",
+        "bugtracker": "https://get.2sb.org/https://github.com/OhioBob/Realistic-Atmospheres/issues",
         "remote-avc": "https://raw.githubusercontent.com/OhioBob/Realistic-Atmospheres/master/GameData/RealisticAtmospheres/RealisticAtmospheres.version"
     },
     "tags": [
@@ -31,7 +31,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/OhioBob/Realistic-Atmospheres/releases/download/1.3.2/RealisticAtmospheres_1.3.2.zip",
+    "download": "https://get.2sb.org/https://github.com/OhioBob/Realistic-Atmospheres/releases/download/1.3.2/RealisticAtmospheres_1.3.2.zip",
     "download_size": 5419225,
     "download_hash": {
         "sha1": "53D75FF30F9EB8135311CE79187F6B93DF3154C6",

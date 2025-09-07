@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/114092",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KillAshley/New_Horizons"
+        "repository": "https://get.2sb.org/https://github.com/KillAshley/New_Horizons"
     },
     "version": "1:1.7",
     "ksp_version": "1.0.5",
@@ -58,7 +58,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KillAshley/New_Horizons/releases/download/1.7/New_Horizons_v1.7.zip",
+    "download": "https://get.2sb.org/https://github.com/KillAshley/New_Horizons/releases/download/1.7/New_Horizons_v1.7.zip",
     "download_size": 102610496,
     "download_hash": {
         "sha1": "923BDD7DB8DAF91E7B1938031444F2B4E2F985EC",

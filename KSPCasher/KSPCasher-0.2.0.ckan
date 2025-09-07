@@ -9,12 +9,12 @@
     "license": "CC-BY-4.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/139279-112-kspcasher-cash-economy-rebalance/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/a-stat/kspcasher"
+        "repository": "https://get.2sb.org/https://github.com/a-stat/kspcasher"
     },
     "version": "0.2.0",
     "ksp_version_min": "1.1.0",
     "ksp_version_max": "1.1.2",
-    "download": "https://hk.gh-proxy.com/https://github.com/a-stat/kspcasher/releases/download/0.2.0/KSPCasher_0.2.0.zip",
+    "download": "https://get.2sb.org/https://github.com/a-stat/kspcasher/releases/download/0.2.0/KSPCasher_0.2.0.zip",
     "download_size": 31807,
     "download_hash": {
         "sha1": "46E120C50C819001CF4DEAB7636CCE1250527DB5",

@@ -10,8 +10,8 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "spacedock": "https://spacedock.info/mod/876/AntennaRangePatches",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/AntennaRangePatches",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/AntennaRangePatches/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/AntennaRangePatches",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/AntennaRangePatches/issues",
         "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=229"
     },
     "tags": [

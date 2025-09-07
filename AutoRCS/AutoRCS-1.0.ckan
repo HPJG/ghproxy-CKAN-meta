@@ -9,10 +9,10 @@
     "ksp_version_max": "1.12.3",
     "license": "MIT",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/todi/AutoRCS",
+        "homepage": "https://get.2sb.org/https://github.com/todi/AutoRCS",
         "spacedock": "https://spacedock.info/mod/3134/AutoRCS",
-        "repository": "https://hk.gh-proxy.com/https://github.com/todi/AutoRCS",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/todi/AutoRCS/issues",
+        "repository": "https://get.2sb.org/https://github.com/todi/AutoRCS",
+        "bugtracker": "https://get.2sb.org/https://github.com/todi/AutoRCS/issues",
         "remote-avc": "https://raw.githubusercontent.com/todi/AltimeterAutoHide/master/AltimeterAutoHide.version"
     },
     "tags": [

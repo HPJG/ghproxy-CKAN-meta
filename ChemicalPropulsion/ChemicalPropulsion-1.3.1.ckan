@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/227705-112x-chemical-technologies-a-chemically-based-resource-overhaul/",
         "spacedock": "https://spacedock.info/mod/3866/Chemical%20Propulsion",
-        "repository": "https://hk.gh-proxy.com/https://github.com/CharleRoger/ChemicalPropulsion",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/CharleRoger/ChemicalPropulsion/issues",
+        "repository": "https://get.2sb.org/https://github.com/CharleRoger/ChemicalPropulsion",
+        "bugtracker": "https://get.2sb.org/https://github.com/CharleRoger/ChemicalPropulsion/issues",
         "remote-avc": "https://raw.githubusercontent.com/CharleRoger/ChemicalPropulsion/main/GameData/ChemicalPropulsion/Versioning/ChemicalPropulsion.version",
         "x_screenshot": "https://spacedock.info/content/Charle_Roger_139212/Chemical_Propulsion/Chemical_Propulsion-1751976331.png"
     },
@@ -65,7 +65,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/CharleRoger/ChemicalPropulsion/releases/download/1.3.1/ChemicalPropulsion-1.3.1.zip",
+        "https://get.2sb.org/https://github.com/CharleRoger/ChemicalPropulsion/releases/download/1.3.1/ChemicalPropulsion-1.3.1.zip",
         "https://spacedock.info/mod/3866/Chemical%20Propulsion/download/1.3.1"
     ],
     "download_size": 72724,

@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/158852-12-",
         "spacedock": "https://spacedock.info/mod/1304/Slingshotter%20Reslung",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/KerbalSlingshotter",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/KerbalSlingshotter/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/KerbalSlingshotter",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/KerbalSlingshotter/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/SlingShotter",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Slingshotter_Reslung/Slingshotter_Reslung-1491575309.0833483.png"
     },
@@ -35,7 +35,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/KerbalSlingshotter/releases/download/1.1.8.1/SlingShotter-1.12.0-1.1.8.1.zip",
+        "https://get.2sb.org/https://github.com/linuxgurugamer/KerbalSlingshotter/releases/download/1.1.8.1/SlingShotter-1.12.0-1.1.8.1.zip",
         "https://spacedock.info/mod/1304/Slingshotter%20Reslung/download/1.1.8.1"
     ],
     "download_size": 22023,

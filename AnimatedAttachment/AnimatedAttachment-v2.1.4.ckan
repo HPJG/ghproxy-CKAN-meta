@@ -10,8 +10,8 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/175881-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSPKatten/AnimatedAttachment",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSPKatten/AnimatedAttachment/issues"
+        "repository": "https://get.2sb.org/https://github.com/KSPKatten/AnimatedAttachment",
+        "bugtracker": "https://get.2sb.org/https://github.com/KSPKatten/AnimatedAttachment/issues"
     },
     "tags": [
         "plugin",
@@ -22,7 +22,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSPKatten/AnimatedAttachment/releases/download/v2.1.4/AnimatedAttachment_v2.1.4.zip",
+    "download": "https://get.2sb.org/https://github.com/KSPKatten/AnimatedAttachment/releases/download/v2.1.4/AnimatedAttachment_v2.1.4.zip",
     "download_size": 16724,
     "download_hash": {
         "sha1": "706053A9CDE3F5DB81BAD41C3C4F0EE5F51DE7D2",

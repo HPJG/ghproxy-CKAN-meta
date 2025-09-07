@@ -10,15 +10,15 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/218027-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Tantares/WaterDrinker",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Tantares/WaterDrinker/issues",
+        "repository": "https://get.2sb.org/https://github.com/Tantares/WaterDrinker",
+        "bugtracker": "https://get.2sb.org/https://github.com/Tantares/WaterDrinker/issues",
         "remote-avc": "https://raw.githubusercontent.com/Tantares/WaterDrinker/master/waterdrinker.version"
     },
     "tags": [
         "plugin",
         "parts"
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Tantares/WaterDrinker/releases/download/v0.4/waterdrinker.zip",
+    "download": "https://get.2sb.org/https://github.com/Tantares/WaterDrinker/releases/download/v0.4/waterdrinker.zip",
     "download_size": 3448328,
     "download_hash": {
         "sha1": "CD45BFE884A9B075BC9CAAC31C4CF1E98E974292",

@@ -9,7 +9,7 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/117477-wip-ksp-104-bda-09x-bdarmory-dmp-add-on/",
         "spacedock": "https://spacedock.info/mod/253/BDArmory%20DMP%20Mod",
-        "repository": "https://hk.gh-proxy.com/https://github.com/jediminer543/BDDMP"
+        "repository": "https://get.2sb.org/https://github.com/jediminer543/BDDMP"
     },
     "version": "0.5.2",
     "ksp_version": "1.0.5",

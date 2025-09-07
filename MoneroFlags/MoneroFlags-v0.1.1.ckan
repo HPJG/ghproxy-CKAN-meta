@@ -7,14 +7,14 @@
     "version": "v0.1.1",
     "license": "CC-BY-SA",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/QuickBASIC/MoneroFlags",
-        "repository": "https://hk.gh-proxy.com/https://github.com/QuickBASIC/MoneroFlags",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/QuickBASIC/MoneroFlags/issues"
+        "homepage": "https://get.2sb.org/https://github.com/QuickBASIC/MoneroFlags",
+        "repository": "https://get.2sb.org/https://github.com/QuickBASIC/MoneroFlags",
+        "bugtracker": "https://get.2sb.org/https://github.com/QuickBASIC/MoneroFlags/issues"
     },
     "tags": [
         "flags"
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/QuickBASIC/MoneroFlags/releases/download/v0.1.1/MoneroFlags0.1.1.zip",
+    "download": "https://get.2sb.org/https://github.com/QuickBASIC/MoneroFlags/releases/download/v0.1.1/MoneroFlags0.1.1.zip",
     "download_size": 33740,
     "download_hash": {
         "sha1": "FD28BAD37D2B2477BD117B3C36F07AD0B6A8EE9E",

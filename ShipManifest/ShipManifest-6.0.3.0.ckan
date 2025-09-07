@@ -14,8 +14,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/56643-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/PapaJoesSoup/ShipManifest",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/PapaJoesSoup/ShipManifest/issues",
+        "repository": "https://get.2sb.org/https://github.com/PapaJoesSoup/ShipManifest",
+        "bugtracker": "https://get.2sb.org/https://github.com/PapaJoesSoup/ShipManifest/issues",
         "remote-avc": "https://raw.githubusercontent.com/papajoessoup/ShipManifest/master/Distribution/GameData/ShipManifest/ShipManifest.version"
     },
     "tags": [
@@ -64,7 +64,7 @@
             "as": "SM_CLSInterface.dll"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/PapaJoesSoup/ShipManifest/releases/download/6.0.3.0/ShipManifest-6.0.3.0_20211121195357.zip",
+    "download": "https://get.2sb.org/https://github.com/PapaJoesSoup/ShipManifest/releases/download/6.0.3.0/ShipManifest-6.0.3.0_20211121195357.zip",
     "download_size": 711708,
     "download_hash": {
         "sha1": "AFD01EDCB8427A11EFCB5CA41F62AC6D4FEE3C6A",

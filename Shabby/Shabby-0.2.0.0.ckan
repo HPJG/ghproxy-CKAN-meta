@@ -12,7 +12,7 @@
     "ksp_version_max": "1.12",
     "license": "GPL-3.0",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/taniwha/Shabby",
+        "repository": "https://get.2sb.org/https://github.com/taniwha/Shabby",
         "remote-avc": "https://pileof.rocks/KSP/Shabby.version"
     },
     "tags": [

@@ -10,7 +10,7 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/105821-14x-rasterpropmonitor-still-putting-the-a-in-iva-v0300-14-march-2018/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Mihara/RasterPropMonitor"
+        "repository": "https://get.2sb.org/https://github.com/Mihara/RasterPropMonitor"
     },
     "version": "1:v0.30.2",
     "ksp_version_min": "1.4.0",
@@ -43,7 +43,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Mihara/RasterPropMonitor/releases/download/v0.30.2/RasterPropMonitor.0.30.2.zip",
+    "download": "https://get.2sb.org/https://github.com/Mihara/RasterPropMonitor/releases/download/v0.30.2/RasterPropMonitor.0.30.2.zip",
     "download_size": 1531218,
     "download_hash": {
         "sha1": "9C6EC37DA4BC4E6B0497589CBDF4209531BBE637",

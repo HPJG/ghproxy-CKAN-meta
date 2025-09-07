@@ -12,9 +12,9 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/149848-kerbal-inventory-system-kis",
         "spacedock": "https://spacedock.info/mod/1909/Kerbal%20Inventory%20System%20(KIS)",
-        "repository": "https://hk.gh-proxy.com/https://github.com/ihsoft/KIS",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/ihsoft/KIS/issues",
-        "manual": "https://hk.gh-proxy.com/https://github.com/ihsoft/KIS/raw/master/User%20Guide.pdf",
+        "repository": "https://get.2sb.org/https://github.com/ihsoft/KIS",
+        "bugtracker": "https://get.2sb.org/https://github.com/ihsoft/KIS/issues",
+        "manual": "https://get.2sb.org/https://github.com/ihsoft/KIS/raw/master/User%20Guide.pdf",
         "metanetkan": "https://raw.githubusercontent.com/ihsoft/KIS/master/KIS.netkan",
         "x_screenshot": "https://spacedock.info/content/ihsoft_20222/Kerbal_Inventory_System_KIS/Kerbal_Inventory_System_KIS-1532072779.569956.jpg"
     },

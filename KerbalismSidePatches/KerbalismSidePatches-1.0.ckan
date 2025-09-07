@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/221233-kerbalism-side-patches/",
         "spacedock": "https://spacedock.info/mod/3525/Kerbalism%20Side%20Patches",
-        "repository": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/KerbalismSidePatches",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/KerbalismSidePatches/issues",
+        "repository": "https://get.2sb.org/https://github.com/JadeOfMaar/KerbalismSidePatches",
+        "bugtracker": "https://get.2sb.org/https://github.com/JadeOfMaar/KerbalismSidePatches/issues",
         "x_screenshot": "https://spacedock.info/content/JadeOfMaar_11026/Kerbalism_Side_Patches/Kerbalism_Side_Patches-1702661990.png"
     },
     "tags": [
@@ -27,7 +27,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/KerbalismSidePatches/releases/download/1.0/KerbalismSidePatches-1.0.zip",
+        "https://get.2sb.org/https://github.com/JadeOfMaar/KerbalismSidePatches/releases/download/1.0/KerbalismSidePatches-1.0.zip",
         "https://spacedock.info/mod/3525/Kerbalism%20Side%20Patches/download/1.0"
     ],
     "download_size": 3557,

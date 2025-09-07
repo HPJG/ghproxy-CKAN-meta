@@ -12,8 +12,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/209940-112-kos-astrogator-v010/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/markjfisher/kOS-Astrogator",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/markjfisher/kOS-Astrogator/issues",
+        "repository": "https://get.2sb.org/https://github.com/markjfisher/kOS-Astrogator",
+        "bugtracker": "https://get.2sb.org/https://github.com/markjfisher/kOS-Astrogator/issues",
         "remote-avc": "https://raw.githubusercontent.com/markjfisher/kOS-Astrogator/master/GameData/kOS-Astrogator/kOS-Astrogator.version"
     },
     "tags": [
@@ -36,7 +36,7 @@
             "name": "kOS"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/markjfisher/kOS-Astrogator/releases/download/v0.2.1/kOS-Astrogator.zip",
+    "download": "https://get.2sb.org/https://github.com/markjfisher/kOS-Astrogator/releases/download/v0.2.1/kOS-Astrogator.zip",
     "download_size": 28539,
     "download_hash": {
         "sha1": "0FCC56863B302CAA8A64BDCC3F6D55C8236DA1C4",

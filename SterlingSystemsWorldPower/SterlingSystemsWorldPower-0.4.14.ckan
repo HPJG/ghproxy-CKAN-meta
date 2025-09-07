@@ -10,9 +10,9 @@
     "release_status": "testing",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/219609-*/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/SterlingSystems",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/SterlingSystems/issues",
-        "discussions": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/SterlingSystems/discussions",
+        "repository": "https://get.2sb.org/https://github.com/JadeOfMaar/SterlingSystems",
+        "bugtracker": "https://get.2sb.org/https://github.com/JadeOfMaar/SterlingSystems/issues",
+        "discussions": "https://get.2sb.org/https://github.com/JadeOfMaar/SterlingSystems/discussions",
         "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/SterlingSystems/main/GameData/SterlingSystems/Version/SterlingSystems.version"
     },
     "tags": [
@@ -38,7 +38,7 @@
             "install_to": "GameData/SterlingSystems"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/SterlingSystems/releases/download/0.4.14/SterlingSystems_WorldPower_0.4.14.zip",
+    "download": "https://get.2sb.org/https://github.com/JadeOfMaar/SterlingSystems/releases/download/0.4.14/SterlingSystems_WorldPower_0.4.14.zip",
     "download_size": 34652962,
     "download_hash": {
         "sha256": "2225D89A7EAB2AD7EC95197BAB896C3349BD41EA2A37D70F4DEF1CCF9A270130"

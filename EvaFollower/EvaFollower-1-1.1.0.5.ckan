@@ -7,7 +7,7 @@
     "license": "CC-BY-NC-SA-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/167310-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/EvaFollower"
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/EvaFollower"
     },
     "version": "1:1.1.0.5",
     "ksp_version_min": "1.5.1",
@@ -18,7 +18,7 @@
             "find": "EvaFollower"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/EvaFollower/releases/download/1.1.0.5/EvaFollower-1.1.0.5.zip",
+    "download": "https://get.2sb.org/https://github.com/linuxgurugamer/EvaFollower/releases/download/1.1.0.5/EvaFollower-1.1.0.5.zip",
     "download_size": 52499,
     "download_hash": {
         "sha1": "72F881B56817F146990F4115BD254A05BFEE6551",

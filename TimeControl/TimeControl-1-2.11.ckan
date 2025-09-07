@@ -9,15 +9,15 @@
     "license": "MIT",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/143763-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/ntwest/TimeControl",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/ntwest/TimeControl/issues",
+        "repository": "https://get.2sb.org/https://github.com/ntwest/TimeControl",
+        "bugtracker": "https://get.2sb.org/https://github.com/ntwest/TimeControl/issues",
         "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=310"
     },
     "tags": [
         "plugin",
         "physics"
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/ntwest/TimeControl/releases/download/2.11/TimeControl-2.11.zip",
+    "download": "https://get.2sb.org/https://github.com/ntwest/TimeControl/releases/download/2.11/TimeControl-2.11.zip",
     "download_size": 100471,
     "download_hash": {
         "sha1": "C6C34FAB252DD2D76FAB6C35916A1FC9B71BF5DF",

@@ -14,8 +14,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/202889-1112-fruitkocktail-a-collection-of-mini-life-improvement-mods-with-fruit-based-acronyms-as-names-full-release/",
         "spacedock": "https://spacedock.info/mod/2790/GRAPES",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/FruitKocktail",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/FruitKocktail/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/FruitKocktail",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/FruitKocktail/issues",
         "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/FruitKocktail/main/GRAPES/GRAPES.version"
     },
     "tags": [
@@ -41,7 +41,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/FruitKocktail/releases/download/0.0.0.3/GRAPES-1.0.2.1.zip",
+        "https://get.2sb.org/https://github.com/linuxgurugamer/FruitKocktail/releases/download/0.0.0.3/GRAPES-1.0.2.1.zip",
         "https://spacedock.info/mod/2790/GRAPES/download/1.0.2.1"
     ],
     "download_size": 162611,

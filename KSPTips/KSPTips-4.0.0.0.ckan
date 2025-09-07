@@ -8,8 +8,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/103537",
-        "repository": "https://hk.gh-proxy.com/https://github.com/TriggerAu/KSPTips",
-        "license": "https://hk.gh-proxy.com/https://github.com/TriggerAu/KSPTips/blob/master/LICENSE",
+        "repository": "https://get.2sb.org/https://github.com/TriggerAu/KSPTips",
+        "license": "https://get.2sb.org/https://github.com/TriggerAu/KSPTips/blob/master/LICENSE",
         "kerbalstuff": "https://kerbalstuff.com/mod/416/KSP%20Tips",
         "curse": "http://kerbal.curseforge.com/ksp-mods/226245-ksp-tips",
         "x_screenshot": "https://kerbalstuff.com/content/TriggerAu_1745/KSP_Tips/KSP_Tips.png"

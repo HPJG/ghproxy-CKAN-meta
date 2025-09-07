@@ -9,14 +9,14 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/219271-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/meirumeiru/CameraController-Next",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/meirumeiru/CameraController-Next/issues",
-        "remote-avc": "https://hk.gh-proxy.com/https://github.com/meirumeiru/CameraController-Next/raw/main/Resources/GameData/CameraControllerNext/CameraControllerNext.version"
+        "repository": "https://get.2sb.org/https://github.com/meirumeiru/CameraController-Next",
+        "bugtracker": "https://get.2sb.org/https://github.com/meirumeiru/CameraController-Next/issues",
+        "remote-avc": "https://get.2sb.org/https://github.com/meirumeiru/CameraController-Next/raw/main/Resources/GameData/CameraControllerNext/CameraControllerNext.version"
     },
     "tags": [
         "plugin"
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/meirumeiru/CameraController-Next/releases/download/v1.0.3/CameraControllerNext_v1.0.3.zip",
+    "download": "https://get.2sb.org/https://github.com/meirumeiru/CameraController-Next/releases/download/v1.0.3/CameraControllerNext_v1.0.3.zip",
     "download_size": 8610,
     "download_hash": {
         "sha1": "6F4449EE1823960D66F18C781A129E691DB8C383",

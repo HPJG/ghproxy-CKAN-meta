@@ -24,9 +24,9 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/209092-bdarmory-plus-bda/",
         "spacedock": "https://spacedock.info/mod/2487/BDArmory%20Plus",
-        "repository": "https://hk.gh-proxy.com/https://github.com/BrettRyland/BDArmory",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/BrettRyland/BDArmory/issues",
-        "remote-avc": "https://hk.gh-proxy.com/https://github.com/BrettRyland/BDArmory/raw/master/BDArmory/Distribution/GameData/BDArmory/BDArmory.version",
+        "repository": "https://get.2sb.org/https://github.com/BrettRyland/BDArmory",
+        "bugtracker": "https://get.2sb.org/https://github.com/BrettRyland/BDArmory/issues",
+        "remote-avc": "https://get.2sb.org/https://github.com/BrettRyland/BDArmory/raw/master/BDArmory/Distribution/GameData/BDArmory/BDArmory.version",
         "x_screenshot": "https://spacedock.info/content/josue_43006/BDArmory_Plus/BDArmory_Plus-1658613767.png"
     },
     "tags": [
@@ -73,7 +73,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/BrettRyland/BDArmory/releases/download/v1.7.1.0/BDArmory.1.7.1.0_2024-09-03T22.35.11%2B00.00.zip",
+        "https://get.2sb.org/https://github.com/BrettRyland/BDArmory/releases/download/v1.7.1.0/BDArmory.1.7.1.0_2024-09-03T22.35.11%2B00.00.zip",
         "https://spacedock.info/mod/2487/BDArmory%20Plus/download/1.7.1.0"
     ],
     "download_size": 42849046,

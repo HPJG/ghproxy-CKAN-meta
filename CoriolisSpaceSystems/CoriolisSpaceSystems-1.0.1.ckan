@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/201908-111-bg-coriolis-space-systems-extendible-tethers-more-based-on-the-movie-stowaway-v100-initial-release/",
         "spacedock": "https://spacedock.info/mod/2706/Coriolis%20Space%20Systems",
-        "repository": "https://hk.gh-proxy.com/https://github.com/benjee10/Benjee10_stowaway",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/benjee10/Benjee10_stowaway/issues",
+        "repository": "https://get.2sb.org/https://github.com/benjee10/Benjee10_stowaway",
+        "bugtracker": "https://get.2sb.org/https://github.com/benjee10/Benjee10_stowaway/issues",
         "remote-avc": "https://raw.githubusercontent.com/benjee10/Benjee10_stowaway/master/GameData/Benjee10_stowaway/Version/Benjee10_stowaway.version",
         "x_screenshot": "https://spacedock.info/content/Benjee10_2390/Coriolis_Space_Systems/Coriolis_Space_Systems-1619112037.4802165.jpg"
     },
@@ -49,7 +49,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/benjee10/Benjee10_stowaway/releases/download/v1.0.1/CoriolisSpaceSystems_v1.0.1.zip",
+        "https://get.2sb.org/https://github.com/benjee10/Benjee10_stowaway/releases/download/v1.0.1/CoriolisSpaceSystems_v1.0.1.zip",
         "https://spacedock.info/mod/2706/Coriolis%20Space%20Systems/download/1.0.1"
     ],
     "download_size": 42910736,

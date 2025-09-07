@@ -7,7 +7,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/127138",
-        "repository": "https://hk.gh-proxy.com/https://github.com/CosmoBro/BaseConstruction"
+        "repository": "https://get.2sb.org/https://github.com/CosmoBro/BaseConstruction"
     },
     "version": "0.2.0",
     "ksp_version_min": "1.0.0",
@@ -35,7 +35,7 @@
             "install_to": "GameData/ContractPacks"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/CosmoBro/BaseConstruction/releases/download/0.2.0/BaseConstruction0.2.0.zip",
+    "download": "https://get.2sb.org/https://github.com/CosmoBro/BaseConstruction/releases/download/0.2.0/BaseConstruction0.2.0.zip",
     "download_size": 49146,
     "download_hash": {
         "sha1": "DF3C6DE210472D10AFE1D772FD8FB157C5BA5008",

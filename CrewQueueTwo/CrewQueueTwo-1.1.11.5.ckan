@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/159299-12-crewqueue-crew-rotation-and-vacations/",
         "spacedock": "https://spacedock.info/mod/1324/Crew%20R&R",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/CrewRandR",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/CrewRandR/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/CrewRandR",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/CrewRandR/issues",
         "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/CrewRandR/refs/heads/master/CrewRandR.version"
     },
     "tags": [
@@ -42,7 +42,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/CrewRandR/releases/download/1.1.11.5/CrewRandR-1.12.0-1.1.11.5.zip",
+        "https://get.2sb.org/https://github.com/linuxgurugamer/CrewRandR/releases/download/1.1.11.5/CrewRandR-1.12.0-1.1.11.5.zip",
         "https://spacedock.info/mod/1324/Crew%20R&R/download/1.1.11.5"
     ],
     "download_size": 51633,

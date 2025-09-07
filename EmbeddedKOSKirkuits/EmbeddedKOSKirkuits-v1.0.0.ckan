@@ -10,9 +10,9 @@
     "license": "CC-BY-NC-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/218872-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/rkunze/EmbeddedKOSKirkuits",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/rkunze/EmbeddedKOSKirkuits/issues",
-        "remote-avc": "https://hk.gh-proxy.com/https://github.com/rkunze/EmbeddedKOSKirkuits/raw/main/EmbeddedKOSKirkuits.version"
+        "repository": "https://get.2sb.org/https://github.com/rkunze/EmbeddedKOSKirkuits",
+        "bugtracker": "https://get.2sb.org/https://github.com/rkunze/EmbeddedKOSKirkuits/issues",
+        "remote-avc": "https://get.2sb.org/https://github.com/rkunze/EmbeddedKOSKirkuits/raw/main/EmbeddedKOSKirkuits.version"
     },
     "tags": [
         "config",

@@ -11,8 +11,8 @@
     "license": "CC-BY-NC-ND-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/84250-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/USProbesPack",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-RO/USProbesPack/issues",
+        "repository": "https://get.2sb.org/https://github.com/KSP-RO/USProbesPack",
+        "bugtracker": "https://get.2sb.org/https://github.com/KSP-RO/USProbesPack/issues",
         "remote-avc": "http://raw.githubusercontent.com/KSP-RO/USProbesPack/master/GameData/RN_US_Probes/USProbesPack.version"
     },
     "tags": [
@@ -45,7 +45,7 @@
             "install_to": "Ships"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/USProbesPack/releases/download/v0.79/RN_US_Probes_v0.79.zip",
+    "download": "https://get.2sb.org/https://github.com/KSP-RO/USProbesPack/releases/download/v0.79/RN_US_Probes_v0.79.zip",
     "download_size": 145821393,
     "download_hash": {
         "sha1": "1524CBD296EA8CB4B2A56CF9127633243B95E33A",

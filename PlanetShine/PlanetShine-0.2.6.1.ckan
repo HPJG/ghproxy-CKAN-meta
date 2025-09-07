@@ -10,7 +10,7 @@
     "license": "Apache-2.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/173138-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/PapaJoesSoup/ksp-planetshine"
+        "repository": "https://get.2sb.org/https://github.com/PapaJoesSoup/ksp-planetshine"
     },
     "version": "0.2.6.1",
     "ksp_version_min": "1.4.0",
@@ -27,7 +27,7 @@
             "filter": "Config"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/PapaJoesSoup/ksp-planetshine/releases/download/0.2.6.1/PlanetShine.0.2.6.1_03282018.zip",
+    "download": "https://get.2sb.org/https://github.com/PapaJoesSoup/ksp-planetshine/releases/download/0.2.6.1/PlanetShine.0.2.6.1_03282018.zip",
     "download_size": 23376,
     "download_hash": {
         "sha1": "8C245125E6BF2DC2DCC64FC56C075762B8E18169",

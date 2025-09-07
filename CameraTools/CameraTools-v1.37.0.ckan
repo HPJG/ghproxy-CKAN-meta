@@ -15,8 +15,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/201063-camera-tools-continued-v1150/",
         "spacedock": "https://spacedock.info/mod/2657/Camera%20Tools%20continued",
-        "repository": "https://hk.gh-proxy.com/https://github.com/BrettRyland/CameraTools",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/BrettRyland/CameraTools/issues",
+        "repository": "https://get.2sb.org/https://github.com/BrettRyland/CameraTools",
+        "bugtracker": "https://get.2sb.org/https://github.com/BrettRyland/CameraTools/issues",
         "remote-avc": "https://raw.githubusercontent.com/BrettRyland/CameraTools/master/CameraTools/Distribution/GameData/CameraTools/CameraTools.version"
     },
     "tags": [
@@ -27,7 +27,7 @@
         "zh-cn"
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/BrettRyland/CameraTools/releases/download/v1.37.0/CameraTools.1.37.0.0_2025-07-23T13.06.40%2B00.00.zip",
+        "https://get.2sb.org/https://github.com/BrettRyland/CameraTools/releases/download/v1.37.0/CameraTools.1.37.0.0_2025-07-23T13.06.40%2B00.00.zip",
         "https://spacedock.info/mod/2657/Camera%20Tools%20continued/download/1.37.0"
     ],
     "download_size": 3575844,

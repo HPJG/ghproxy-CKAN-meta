@@ -14,8 +14,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?showtopic=192129",
-        "repository": "https://hk.gh-proxy.com/https://github.com/mwerle/ShipManifest",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/mwerle/ShipManifest/issues"
+        "repository": "https://get.2sb.org/https://github.com/mwerle/ShipManifest",
+        "bugtracker": "https://get.2sb.org/https://github.com/mwerle/ShipManifest/issues"
     },
     "tags": [
         "plugin",
@@ -47,7 +47,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/mwerle/ShipManifest/releases/download/6.0.1.0/ShipManifest-6.0.1.0_20200614201403.zip",
+    "download": "https://get.2sb.org/https://github.com/mwerle/ShipManifest/releases/download/6.0.1.0/ShipManifest-6.0.1.0_20200614201403.zip",
     "download_size": 703646,
     "download_hash": {
         "sha1": "0FF982A4D0FDF5E52E3A302C10341AFED5354508",

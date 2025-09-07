@@ -7,11 +7,11 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/153319-12x-real-time-clock-2-1010-dec-2016/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Li0n-0/Real-Time-Clock-2"
+        "repository": "https://get.2sb.org/https://github.com/Li0n-0/Real-Time-Clock-2"
     },
     "version": "v1.7",
     "ksp_version": "1.4.1",
-    "download": "https://hk.gh-proxy.com/https://github.com/Li0n-0/Real-Time-Clock-2/releases/download/v1.7/RealTimeClock2-1.7.zip",
+    "download": "https://get.2sb.org/https://github.com/Li0n-0/Real-Time-Clock-2/releases/download/v1.7/RealTimeClock2-1.7.zip",
     "download_size": 17776,
     "download_hash": {
         "sha1": "815EBE0762B203A638E0CA6D9D03EBED38862852",

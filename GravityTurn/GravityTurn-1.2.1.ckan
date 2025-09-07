@@ -9,7 +9,7 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/129607-105-gravityturn-version-110-automated-efficient-launches/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/johnfink8/GravityTurn"
+        "repository": "https://get.2sb.org/https://github.com/johnfink8/GravityTurn"
     },
     "version": "1.2.1",
     "ksp_version": "1.0.5",
@@ -19,7 +19,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/johnfink8/GravityTurn/releases/download/1.2.1/GravityTurn.zip",
+    "download": "https://get.2sb.org/https://github.com/johnfink8/GravityTurn/releases/download/1.2.1/GravityTurn.zip",
     "download_size": 58623,
     "download_hash": {
         "sha1": "F574A2D7DFE1DE1C52072416B780CD800CBA2977",

@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/108097",
-        "repository": "https://hk.gh-proxy.com/https://github.com/DBT85/CC-CP-SCANSat"
+        "repository": "https://get.2sb.org/https://github.com/DBT85/CC-CP-SCANSat"
     },
     "version": "v0.5.0",
     "ksp_version_min": "0.90.0",
@@ -28,7 +28,7 @@
             "install_to": "GameData/ContractPacks"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/DBT85/CC-CP-SCANSat/releases/download/v0.5.0/CC-CP-SCANSat-0.5.0.zip",
+    "download": "https://get.2sb.org/https://github.com/DBT85/CC-CP-SCANSat/releases/download/v0.5.0/CC-CP-SCANSat-0.5.0.zip",
     "download_size": 33078,
     "download_hash": {
         "sha1": "B2B8FFDAC3EF89FBACAAD01C1D1D815CF519D932",

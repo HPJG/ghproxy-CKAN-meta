@@ -7,7 +7,7 @@
     "license": "public-domain",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/137931",
-        "repository": "https://hk.gh-proxy.com/https://github.com/SteveheadSpaceAgency/HarderSolarSystem"
+        "repository": "https://get.2sb.org/https://github.com/SteveheadSpaceAgency/HarderSolarSystem"
     },
     "version": "v1.1.1",
     "ksp_version_min": "1.0.0",
@@ -43,7 +43,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/SteveheadSpaceAgency/HarderSolarSystem/releases/download/v1.1.1/HarderSolarSystem_v1.1.1.zip",
+    "download": "https://get.2sb.org/https://github.com/SteveheadSpaceAgency/HarderSolarSystem/releases/download/v1.1.1/HarderSolarSystem_v1.1.1.zip",
     "download_size": 20663,
     "download_hash": {
         "sha1": "D663CDEEE12163EDA43D249D276B89CF3FB98089",

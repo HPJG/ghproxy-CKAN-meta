@@ -10,9 +10,9 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/80225-12-hangar",
         "spacedock": "https://spacedock.info/mod/1000/Hangar",
-        "repository": "https://hk.gh-proxy.com/https://github.com/allista/hangar",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/allista/hangar/issues",
-        "manual": "https://hk.gh-proxy.com/https://github.com/allista/hangar/wiki",
+        "repository": "https://get.2sb.org/https://github.com/allista/hangar",
+        "bugtracker": "https://get.2sb.org/https://github.com/allista/hangar/issues",
+        "manual": "https://get.2sb.org/https://github.com/allista/hangar/wiki",
         "x_screenshot": "https://spacedock.info/content/allista_931/Hangar/Hangar-1476552531.0361087.png"
     },
     "version": "3.1.0",

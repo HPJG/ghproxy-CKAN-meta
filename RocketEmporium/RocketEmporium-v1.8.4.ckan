@@ -10,8 +10,8 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/174748-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSPKatten/RocketEmporium",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSPKatten/RocketEmporium/issues"
+        "repository": "https://get.2sb.org/https://github.com/KSPKatten/RocketEmporium",
+        "bugtracker": "https://get.2sb.org/https://github.com/KSPKatten/RocketEmporium/issues"
     },
     "tags": [
         "parts"
@@ -24,7 +24,7 @@
             "name": "AnimatedAttachment"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSPKatten/RocketEmporium/releases/download/v1.8.4/RocketEmporium_v1.8.4.zip",
+    "download": "https://get.2sb.org/https://github.com/KSPKatten/RocketEmporium/releases/download/v1.8.4/RocketEmporium_v1.8.4.zip",
     "download_size": 3065454,
     "download_hash": {
         "sha1": "F60107B210FAA081C2FE939C539C07E9356CBBF5",

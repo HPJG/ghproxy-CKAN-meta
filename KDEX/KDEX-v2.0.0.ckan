@@ -14,8 +14,8 @@
     "license": "CC-BY-NC-SA-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?showtopic=166619",
-        "repository": "https://hk.gh-proxy.com/https://github.com/mwerle/kdex",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/mwerle/kdex/issues",
+        "repository": "https://get.2sb.org/https://github.com/mwerle/kdex",
+        "bugtracker": "https://get.2sb.org/https://github.com/mwerle/kdex/issues",
         "remote-avc": "https://raw.githubusercontent.com/mwerle/kdex/master/GameData/masTerTorch/kdex.version"
     },
     "tags": [
@@ -33,7 +33,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/mwerle/kdex/releases/download/v2.0.0/kdex-2.0.0.12.zip",
+    "download": "https://get.2sb.org/https://github.com/mwerle/kdex/releases/download/v2.0.0/kdex-2.0.0.12.zip",
     "download_size": 183092,
     "download_hash": {
         "sha1": "F273C8D635FFABBAF9B4C03BC683FB4CBE9BC3A8",

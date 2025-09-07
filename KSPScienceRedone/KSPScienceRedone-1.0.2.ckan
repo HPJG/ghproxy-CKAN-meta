@@ -9,8 +9,8 @@
     "ksp_version_max": "9.99.999",
     "license": "GPL-3.0",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/NexxusDrako313/ksp-science-redone",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/NexxusDrako313/ksp-science-redone/issues"
+        "repository": "https://get.2sb.org/https://github.com/NexxusDrako313/ksp-science-redone",
+        "bugtracker": "https://get.2sb.org/https://github.com/NexxusDrako313/ksp-science-redone/issues"
     },
     "tags": [
         "config",
@@ -29,7 +29,7 @@
             "name": "SETI-RebalanceMaterialsGoo"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/NexxusDrako313/ksp-science-redone/releases/download/1.0.2/KSPScienceRedone-102.zip",
+    "download": "https://get.2sb.org/https://github.com/NexxusDrako313/ksp-science-redone/releases/download/1.0.2/KSPScienceRedone-102.zip",
     "download_size": 13284,
     "download_hash": {
         "sha1": "14483D9E68E21FA27B86E829B0E4B9AEC4BA8799",

@@ -6,13 +6,13 @@
     "author": "severedsolo",
     "license": "MIT",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/severedsolo/KesslerSyndrome",
-        "repository": "https://hk.gh-proxy.com/https://github.com/severedsolo/KesslerSyndrome"
+        "homepage": "https://get.2sb.org/https://github.com/severedsolo/KesslerSyndrome",
+        "repository": "https://get.2sb.org/https://github.com/severedsolo/KesslerSyndrome"
     },
     "version": "1.3.0.2",
     "ksp_version_min": "1.6.0",
     "ksp_version_max": "1.6.99",
-    "download": "https://hk.gh-proxy.com/https://github.com/severedsolo/KesslerSyndrome/releases/download/1.3.0.2/KesslerSyndrome.zip",
+    "download": "https://get.2sb.org/https://github.com/severedsolo/KesslerSyndrome/releases/download/1.3.0.2/KesslerSyndrome.zip",
     "download_size": 9738,
     "download_hash": {
         "sha1": "2DBCD5ECEBE5DFB592AFF75C10FDC8C990E0CF39",

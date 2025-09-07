@@ -9,8 +9,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/228209-kos-computer/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/sinucep/kOS-Computer",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/sinucep/kOS-Computer/issues"
+        "repository": "https://get.2sb.org/https://github.com/sinucep/kOS-Computer",
+        "bugtracker": "https://get.2sb.org/https://github.com/sinucep/kOS-Computer/issues"
     },
     "tags": [
         "config",
@@ -56,7 +56,7 @@
             "install_to": "Ships"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/sinucep/kOS-Computer/releases/download/v1.1.1/kOS-Computer-v1.1.1.zip",
+    "download": "https://get.2sb.org/https://github.com/sinucep/kOS-Computer/releases/download/v1.1.1/kOS-Computer-v1.1.1.zip",
     "download_size": 80397,
     "download_hash": {
         "sha1": "1BC17A3B195DE34BC30304CBE81B15D81F7EB057",

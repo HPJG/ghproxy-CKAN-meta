@@ -6,7 +6,7 @@
     "author": "BahamutoD",
     "license": "CC-BY-SA-3.0",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/BahamutoD/BDAnimationModules"
+        "repository": "https://get.2sb.org/https://github.com/BahamutoD/BDAnimationModules"
     },
     "version": "v0.6.0",
     "ksp_version_min": "1.0.0",
@@ -17,7 +17,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/BahamutoD/BDAnimationModules/releases/download/v0.6.0/BDAnimationModules-v0.6.0b.zip",
+    "download": "https://get.2sb.org/https://github.com/BahamutoD/BDAnimationModules/releases/download/v0.6.0/BDAnimationModules-v0.6.0b.zip",
     "download_size": 26502,
     "download_hash": {
         "sha1": "9C7178EAC1C9B2A2D20A46EC69A8328B414202FF",

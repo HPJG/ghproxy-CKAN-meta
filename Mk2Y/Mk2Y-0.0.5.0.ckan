@@ -14,10 +14,10 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/192095-*",
         "spacedock": "https://spacedock.info/mod/2358/Mk2Y",
-        "repository": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/MK2Y",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/MK2Y/issues",
-        "discussions": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/MK2Y/discussions",
-        "remote-avc": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/Mk2Y/raw/master/Mk2Y.version",
+        "repository": "https://get.2sb.org/https://github.com/zer0Kerbal/MK2Y",
+        "bugtracker": "https://get.2sb.org/https://github.com/zer0Kerbal/MK2Y/issues",
+        "discussions": "https://get.2sb.org/https://github.com/zer0Kerbal/MK2Y/discussions",
+        "remote-avc": "https://get.2sb.org/https://github.com/zer0Kerbal/Mk2Y/raw/master/Mk2Y.version",
         "x_screenshot": "https://spacedock.info/content/zer0Kerbal_21147/Mk2Y/Mk2Y-1583192473.7851026.png"
     },
     "tags": [

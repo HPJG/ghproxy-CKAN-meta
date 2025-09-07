@@ -7,8 +7,8 @@
     "version": "Release",
     "license": "GPL-3.0",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/MyNameIsBorat/KspBuran",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/MyNameIsBorat/KspBuran/issues"
+        "repository": "https://get.2sb.org/https://github.com/MyNameIsBorat/KspBuran",
+        "bugtracker": "https://get.2sb.org/https://github.com/MyNameIsBorat/KspBuran/issues"
     },
     "install": [
         {

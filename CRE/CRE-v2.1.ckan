@@ -8,8 +8,8 @@
     "ksp_version": "1.10",
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/Tantares/CRE",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Tantares/CRE/issues"
+        "repository": "https://get.2sb.org/https://github.com/Tantares/CRE",
+        "bugtracker": "https://get.2sb.org/https://github.com/Tantares/CRE/issues"
     },
     "tags": [
         "parts"
@@ -27,7 +27,7 @@
             "name": "CommunityResourcePack"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Tantares/CRE/releases/download/v2.1/CRE.zip",
+    "download": "https://get.2sb.org/https://github.com/Tantares/CRE/releases/download/v2.1/CRE.zip",
     "download_size": 13692240,
     "download_hash": {
         "sha1": "F1A659CE6983B3415530D06A23A98FC8F075596B",

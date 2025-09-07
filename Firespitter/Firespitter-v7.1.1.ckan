@@ -7,7 +7,7 @@
     "license": "restricted",
     "resources": {
         "homepage": "http://snjo.github.io/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/snjo/Firespitter"
+        "repository": "https://get.2sb.org/https://github.com/snjo/Firespitter"
     },
     "version": "v7.1.1",
     "ksp_version": "1.0.2",
@@ -34,7 +34,7 @@
             "comment": "Firespitter graphics for PartCatalog"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/snjo/Firespitter/releases/download/v7.1.1/Firespitter_7.1.1.zip",
+    "download": "https://get.2sb.org/https://github.com/snjo/Firespitter/releases/download/v7.1.1/Firespitter_7.1.1.zip",
     "download_size": 37440250,
     "download_hash": {
         "sha1": "B3DECBCAA2915682CA211E18A442CE76CC108062",

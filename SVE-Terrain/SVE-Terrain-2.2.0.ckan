@@ -10,8 +10,8 @@
     "license": "CC-BY-NC-ND",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/143828-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Galileo88/Stock-Visual-Terrain",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Galileo88/Stock-Visual-Terrain/issues",
+        "repository": "https://get.2sb.org/https://github.com/Galileo88/Stock-Visual-Terrain",
+        "bugtracker": "https://get.2sb.org/https://github.com/Galileo88/Stock-Visual-Terrain/issues",
         "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=335"
     },
     "tags": [
@@ -37,7 +37,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Galileo88/Stock-Visual-Terrain/releases/download/2.2.0/SVT.v2.2.0.zip",
+    "download": "https://get.2sb.org/https://github.com/Galileo88/Stock-Visual-Terrain/releases/download/2.2.0/SVT.v2.2.0.zip",
     "download_size": 169244311,
     "download_hash": {
         "sha1": "386DB48D6378DC7DED2870383992F31054911B36",

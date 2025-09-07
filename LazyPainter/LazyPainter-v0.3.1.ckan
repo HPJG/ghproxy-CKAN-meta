@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/218294-1125-lazy-painter-alternative-ui-for-textures-unlimited/",
         "spacedock": "https://spacedock.info/mod/3415/Lazy%20Painter",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Halbann/LazyPainter",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Halbann/LazyPainter/issues",
+        "repository": "https://get.2sb.org/https://github.com/Halbann/LazyPainter",
+        "bugtracker": "https://get.2sb.org/https://github.com/Halbann/LazyPainter/issues",
         "remote-avc": "https://raw.githubusercontent.com/Halbann/LazyPainter/master/GameData/LazyPainter/LazyPainter.version",
         "x_screenshot": "https://spacedock.info/content/Halban_103632/Lazy_Painter/Lazy_Painter-1688779104.png"
     },

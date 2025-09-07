@@ -11,7 +11,7 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/174445-151-malahs-quick-mods/",
         "spacedock": "https://spacedock.info/mod/105/QuickExit",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/QuickMods"
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/QuickMods"
     },
     "version": "1:2.2.0.3",
     "ksp_version_min": "1.8.0",

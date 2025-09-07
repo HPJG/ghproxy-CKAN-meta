@@ -14,8 +14,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/175822-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/KerbinSpaceStation",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/KerbinSpaceStation/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/KerbinSpaceStation",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/KerbinSpaceStation/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/BasesandStations"
     },
     "tags": [
@@ -43,7 +43,7 @@
             "install_to": "GameData/ContractPacks"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/KerbinSpaceStation/releases/download/3.7.2.2/BasesandStations-1.8.0-3.7.2.2.zip",
+    "download": "https://get.2sb.org/https://github.com/linuxgurugamer/KerbinSpaceStation/releases/download/3.7.2.2/BasesandStations-1.8.0-3.7.2.2.zip",
     "download_size": 56390,
     "download_hash": {
         "sha1": "2656F5CF2FC04D2FFD18EF653D4A2B25C86E5328",

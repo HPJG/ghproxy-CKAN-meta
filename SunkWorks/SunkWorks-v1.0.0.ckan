@@ -9,8 +9,8 @@
     "license": "restricted",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/202746-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Angel-125/SunkWorks",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Angel-125/SunkWorks/issues",
+        "repository": "https://get.2sb.org/https://github.com/Angel-125/SunkWorks",
+        "bugtracker": "https://get.2sb.org/https://github.com/Angel-125/SunkWorks/issues",
         "remote-avc": "https://raw.githubusercontent.com/Angel-125/SunkWorks/master/ReleaseFolder/GameData/WildBlueIndustries/SunkWorks/SunkWorks.version"
     },
     "tags": [
@@ -37,7 +37,7 @@
             "install_to": "GameData/WildBlueIndustries"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Angel-125/SunkWorks/releases/download/v1.0.0/SunkWorks.zip",
+    "download": "https://get.2sb.org/https://github.com/Angel-125/SunkWorks/releases/download/v1.0.0/SunkWorks.zip",
     "download_size": 39762000,
     "download_hash": {
         "sha1": "B26C2D4E57F58C4E264ADBC8D8DB7385AA3AF7A4",

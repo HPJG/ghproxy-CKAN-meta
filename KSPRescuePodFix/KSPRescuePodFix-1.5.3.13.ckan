@@ -6,7 +6,7 @@
     "author": "shadowmage45",
     "license": "GPL-3.0",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/shadowmage45/KSPRescuePodFix"
+        "repository": "https://get.2sb.org/https://github.com/shadowmage45/KSPRescuePodFix"
     },
     "version": "1.5.3.13",
     "ksp_version_min": "1.6.0",
@@ -22,7 +22,7 @@
             "find": "KSPRescuePodFix"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/shadowmage45/KSPRescuePodFix/releases/download/1.5.3.13/KSPRescuePodFix-1.5.3.13.zip",
+    "download": "https://get.2sb.org/https://github.com/shadowmage45/KSPRescuePodFix/releases/download/1.5.3.13/KSPRescuePodFix-1.5.3.13.zip",
     "download_size": 4082,
     "download_hash": {
         "sha1": "58BF041A8A95EF2F08C2014DDAC581891CA7EDB4",

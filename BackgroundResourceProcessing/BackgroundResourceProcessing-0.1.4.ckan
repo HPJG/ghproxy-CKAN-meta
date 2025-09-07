@@ -11,9 +11,9 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/228375-1125-background-resource-processing/",
         "spacedock": "https://spacedock.info/mod/3934/Background%20Resource%20Processing",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Phantomical/BackgroundResourceProcessing",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Phantomical/BackgroundResourceProcessing/issues",
-        "remote-avc": "https://hk.gh-proxy.com/https://github.com/Phantomical/BackgroundResourceProcessing/releases/latest/download/BackgroundResourceProcessing.version"
+        "repository": "https://get.2sb.org/https://github.com/Phantomical/BackgroundResourceProcessing",
+        "bugtracker": "https://get.2sb.org/https://github.com/Phantomical/BackgroundResourceProcessing/issues",
+        "remote-avc": "https://get.2sb.org/https://github.com/Phantomical/BackgroundResourceProcessing/releases/latest/download/BackgroundResourceProcessing.version"
     },
     "tags": [
         "plugin",
@@ -39,7 +39,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/Phantomical/BackgroundResourceProcessing/releases/download/v0.1.4/BackgroundResourceProcessing.zip",
+        "https://get.2sb.org/https://github.com/Phantomical/BackgroundResourceProcessing/releases/download/v0.1.4/BackgroundResourceProcessing.zip",
         "https://spacedock.info/mod/3934/Background%20Resource%20Processing/download/0.1.4"
     ],
     "download_size": 339948,

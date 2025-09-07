@@ -12,8 +12,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/168456-14-filter-extensions-no-localization/",
         "spacedock": "https://spacedock.info/mod/1972/Filter%20Extensions",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/FilterExtension",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/FilterExtension/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/FilterExtension",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/FilterExtension/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/FilterExtension",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Filter_Extensions/Filter_Extensions-1537624808.6939957.jpg"
     },

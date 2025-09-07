@@ -13,8 +13,8 @@
     "license": "CC-BY-NC-SA-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/151963-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/icedown/KSP-ProbeControlRoom",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/icedown/KSP-ProbeControlRoom/issues"
+        "repository": "https://get.2sb.org/https://github.com/icedown/KSP-ProbeControlRoom",
+        "bugtracker": "https://get.2sb.org/https://github.com/icedown/KSP-ProbeControlRoom/issues"
     },
     "tags": [
         "plugin",
@@ -59,7 +59,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/icedown/KSP-ProbeControlRoom/releases/download/1.2.2.4/ProbeControlRoom-1.2.2.4.zip",
+    "download": "https://get.2sb.org/https://github.com/icedown/KSP-ProbeControlRoom/releases/download/1.2.2.4/ProbeControlRoom-1.2.2.4.zip",
     "download_size": 648882,
     "download_hash": {
         "sha1": "591D2D9DDAD3119E69F6302AB98BC2DCF9BB589C",

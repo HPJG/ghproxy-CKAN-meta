@@ -11,7 +11,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/175400-14-vertical-velocity-controller-redux/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/TWR1"
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/TWR1"
     },
     "version": "1.33.0.1",
     "ksp_version_min": "1.5.1",
@@ -33,7 +33,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/TWR1/releases/download/1.33.0.1/TWR1-1.33.0.1.zip",
+    "download": "https://get.2sb.org/https://github.com/linuxgurugamer/TWR1/releases/download/1.33.0.1/TWR1-1.33.0.1.zip",
     "download_size": 66276,
     "download_hash": {
         "sha1": "14BA62FDEEEED4995CA4AF7163C210DA26DA7A3F",

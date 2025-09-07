@@ -14,8 +14,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/195844-110-112-kopernicus-expansion-continued-er/",
         "spacedock": "https://spacedock.info/mod/3357/Kopernicus%20Expansion%20Continued-er",
-        "repository": "https://hk.gh-proxy.com/https://github.com/VabienArt/KopernicusExpansion-Continueder",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/VabienArt/KopernicusExpansion-Continueder/issues",
+        "repository": "https://get.2sb.org/https://github.com/VabienArt/KopernicusExpansion-Continueder",
+        "bugtracker": "https://get.2sb.org/https://github.com/VabienArt/KopernicusExpansion-Continueder/issues",
         "x_screenshot": "https://spacedock.info/content/vabien_109046/Kopernicus_Expansion_Continued-er/Kopernicus_Expansion_Continued-er-1680980198.png"
     },
     "tags": [
@@ -37,7 +37,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/VabienArt/KopernicusExpansion-Continueder/releases/download/beta9.1.1/KEX.zip",
+        "https://get.2sb.org/https://github.com/VabienArt/KopernicusExpansion-Continueder/releases/download/beta9.1.1/KEX.zip",
         "https://spacedock.info/mod/3357/Kopernicus%20Expansion%20Continued-er/download/Beta9.1.1"
     ],
     "download_size": 336312,

@@ -10,7 +10,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/102771-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/tomforwood/kerbal-impact"
+        "repository": "https://get.2sb.org/https://github.com/tomforwood/kerbal-impact"
     },
     "tags": [
         "plugin",
@@ -19,7 +19,7 @@
     "localizations": [
         "en-us"
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/tomforwood/kerbal-impact/releases/download/v1.6.4/Impact.zip",
+    "download": "https://get.2sb.org/https://github.com/tomforwood/kerbal-impact/releases/download/v1.6.4/Impact.zip",
     "download_size": 2512059,
     "download_hash": {
         "sha1": "B2DF60D038E0BFE0D55C88531774947B8E749910",

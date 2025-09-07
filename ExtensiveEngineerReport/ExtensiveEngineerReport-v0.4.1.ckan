@@ -6,8 +6,8 @@
     "author": "jkoritzinsky",
     "license": "MIT",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/jkoritzinsky/Extensive-Engineer-Report",
-        "repository": "https://hk.gh-proxy.com/https://github.com/jkoritzinsky/Extensive-Engineer-Report"
+        "homepage": "https://get.2sb.org/https://github.com/jkoritzinsky/Extensive-Engineer-Report",
+        "repository": "https://get.2sb.org/https://github.com/jkoritzinsky/Extensive-Engineer-Report"
     },
     "version": "v0.4.1",
     "ksp_version": "1.0.4",
@@ -17,7 +17,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/jkoritzinsky/Extensive-Engineer-Report/releases/download/v0.4.1/Extensive-Engineer-Report-v0.4.1.zip",
+    "download": "https://get.2sb.org/https://github.com/jkoritzinsky/Extensive-Engineer-Report/releases/download/v0.4.1/Extensive-Engineer-Report-v0.4.1.zip",
     "download_size": 19102,
     "download_hash": {
         "sha1": "CF1CFE08751A4178DD6D43C1B0F9309CD017CE1B",

@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/108704-11",
         "spacedock": "https://spacedock.info/mod/553/EVA%20Struts",
-        "repository": "https://hk.gh-proxy.com/https://github.com/DMagic1/KSP_EVA_Struts",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/DMagic1/KSP_EVA_Struts/issues",
+        "repository": "https://get.2sb.org/https://github.com/DMagic1/KSP_EVA_Struts",
+        "bugtracker": "https://get.2sb.org/https://github.com/DMagic1/KSP_EVA_Struts/issues",
         "remote-avc": "https://raw.githubusercontent.com/DMagic1/KSP_EVA_Struts/master/GameData/EVAStruts/EVAStruts.version",
         "x_screenshot": "https://spacedock.info/content/DMagic_247/EVA_Struts/EVA_Struts-1463579773.181096.png"
     },

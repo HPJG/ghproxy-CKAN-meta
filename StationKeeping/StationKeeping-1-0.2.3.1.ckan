@@ -12,8 +12,8 @@
     "license": "CC-BY-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/173518-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/StationKeeping",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/StationKeeping/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/StationKeeping",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/StationKeeping/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/StationKeeping"
     },
     "tags": [
@@ -34,7 +34,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/StationKeeping/releases/download/0.2.3.1/StationKeeping-1.12.0-0.2.3.1.zip",
+    "download": "https://get.2sb.org/https://github.com/linuxgurugamer/StationKeeping/releases/download/0.2.3.1/StationKeeping-1.12.0-0.2.3.1.zip",
     "download_size": 37403,
     "download_hash": {
         "sha1": "1B46E2176F4CA876C6799C314D0F5D855AF6AD8D",

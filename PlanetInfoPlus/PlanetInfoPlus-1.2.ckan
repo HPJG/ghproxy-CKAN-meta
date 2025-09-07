@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/207018-112x-planetinfoplus-v10-better-info-in-the-planetarium-with-configurable-display/",
         "spacedock": "https://spacedock.info/mod/2982/PlanetInfoPlus",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSPSnark/PlanetInfoPlus",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSPSnark/PlanetInfoPlus/issues",
+        "repository": "https://get.2sb.org/https://github.com/KSPSnark/PlanetInfoPlus",
+        "bugtracker": "https://get.2sb.org/https://github.com/KSPSnark/PlanetInfoPlus/issues",
         "x_screenshot": "https://spacedock.info/content/Snark_166/PlanetInfoPlus/PlanetInfoPlus-1645526332.png"
     },
     "tags": [

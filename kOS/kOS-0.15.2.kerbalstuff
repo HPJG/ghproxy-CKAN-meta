@@ -5,7 +5,7 @@
   "release_status": "stable",
   "resources": {
     "manual": "http://ksp-kos.github.io/KOS_DOC/",
-    "repository": "https://hk.gh-proxy.com/https://github.com/KSP-KOS/KOS",
+    "repository": "https://get.2sb.org/https://github.com/KSP-KOS/KOS",
     "homepage": "http://ksp-kos.github.io/KOS_DOC/",
     "kerbalstuff": "https://kerbalstuff.com/mod/86/kOS:%20Scriptable%20Autopilot%20System"
   },

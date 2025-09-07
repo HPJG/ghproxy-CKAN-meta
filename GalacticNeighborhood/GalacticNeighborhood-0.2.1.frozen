@@ -7,7 +7,7 @@
     "license": "restricted",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/116058-wip11-galactic-neighborhood/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Sigma88/Galactic-Neighborhood"
+        "repository": "https://get.2sb.org/https://github.com/Sigma88/Galactic-Neighborhood"
     },
     "version": "0.2.1",
     "ksp_version": "1.1.2",
@@ -28,7 +28,7 @@
             "filter": "[dev_stuff]"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Sigma88/Galactic-Neighborhood/releases/download/v0.2.1/Galactic-Neighborhood.v0.2.1.zip",
+    "download": "https://get.2sb.org/https://github.com/Sigma88/Galactic-Neighborhood/releases/download/v0.2.1/Galactic-Neighborhood.v0.2.1.zip",
     "download_size": 407454,
     "download_hash": {
         "sha1": "ED05270884776D7457CF57654AC8DA98692E8D65",

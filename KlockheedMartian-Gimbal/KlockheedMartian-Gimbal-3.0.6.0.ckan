@@ -10,7 +10,7 @@
     "license": "CC-BY-NC-ND-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/55985",
-        "repository": "https://hk.gh-proxy.com/https://github.com/sarbian/km_Gimbal",
+        "repository": "https://get.2sb.org/https://github.com/sarbian/km_Gimbal",
         "ci": "https://ksp.sarbian.com/jenkins/job/km_Gimbal/"
     },
     "version": "3.0.6.0",

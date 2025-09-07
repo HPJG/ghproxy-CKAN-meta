@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/200044-112x-estrela-dobre-system-v10-a-unique-binary-star-system/",
         "spacedock": "https://spacedock.info/mod/3192/Estrela%20Dobre%20planet%20pack",
-        "repository": "https://hk.gh-proxy.com/https://github.com/JcoolTheShipBuilder/Estrela-Dobre",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/JcoolTheShipBuilder/Estrela-Dobre/issues",
+        "repository": "https://get.2sb.org/https://github.com/JcoolTheShipBuilder/Estrela-Dobre",
+        "bugtracker": "https://get.2sb.org/https://github.com/JcoolTheShipBuilder/Estrela-Dobre/issues",
         "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=553",
         "x_screenshot": "https://spacedock.info/content/JcoolTheShipBuilder_82988/Estrela_Dobre_system_replacer_planet_pack/Estrela_Dobre_system_replacer_planet_pack-1673327981.png"
     },
@@ -33,7 +33,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/JcoolTheShipBuilder/Estrela-Dobre/releases/download/v1.2/EstrelaDobre.zip",
+        "https://get.2sb.org/https://github.com/JcoolTheShipBuilder/Estrela-Dobre/releases/download/v1.2/EstrelaDobre.zip",
         "https://spacedock.info/mod/3192/Estrela%20Dobre%20planet%20pack/download/v1.2"
     ],
     "download_size": 375481678,

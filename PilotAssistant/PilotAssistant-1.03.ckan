@@ -7,7 +7,7 @@
     "ksp_version": "0.90",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/100073",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Crzyrndm/Pilot-Assistant"
+        "repository": "https://get.2sb.org/https://github.com/Crzyrndm/Pilot-Assistant"
     },
     "install": [
         {
@@ -17,7 +17,7 @@
     ],
     "author": "Crzyrndm",
     "version": "1.0.3",
-    "download": "https://hk.gh-proxy.com/https://github.com/Crzyrndm/Pilot-Assistant/releases/download/1.03/Pilot.Assistant.1.0.3.zip",
+    "download": "https://get.2sb.org/https://github.com/Crzyrndm/Pilot-Assistant/releases/download/1.03/Pilot.Assistant.1.0.3.zip",
     "x_generated_by": "netkan",
     "download_size": 22698
 }

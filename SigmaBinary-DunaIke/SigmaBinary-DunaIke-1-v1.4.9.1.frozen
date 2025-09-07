@@ -8,7 +8,7 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/127820",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Sigma88/Sigma-Binary"
+        "repository": "https://get.2sb.org/https://github.com/Sigma88/Sigma-Binary"
     },
     "version": "1:v1.4.9.1",
     "ksp_version": "1.0",
@@ -23,7 +23,7 @@
             "install_to": "GameData/Sigma"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Sigma88/Sigma-Binary/releases/download/v1.4.9.1/SigmaDunaIke.zip",
+    "download": "https://get.2sb.org/https://github.com/Sigma88/Sigma-Binary/releases/download/v1.4.9.1/SigmaDunaIke.zip",
     "download_size": 383,
     "download_hash": {
         "sha1": "12C0C3F88FDAA00B7C3CFBFE6CEC59E65C73E6D4",

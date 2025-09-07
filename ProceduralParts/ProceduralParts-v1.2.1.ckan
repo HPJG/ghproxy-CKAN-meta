@@ -6,8 +6,8 @@
     "author": "NathanKell",
     "license": "CC-BY-SA-3.0",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/Swamp-Ig/ProceduralParts",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Swamp-Ig/ProceduralParts"
+        "homepage": "https://get.2sb.org/https://github.com/Swamp-Ig/ProceduralParts",
+        "repository": "https://get.2sb.org/https://github.com/Swamp-Ig/ProceduralParts"
     },
     "version": "v1.2.1",
     "ksp_version": "1.1.2",
@@ -31,7 +31,7 @@
             "filter": "Source"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Swamp-Ig/ProceduralParts/releases/download/v1.2.1/ProceduralParts-1.2.1.zip",
+    "download": "https://get.2sb.org/https://github.com/Swamp-Ig/ProceduralParts/releases/download/v1.2.1/ProceduralParts-1.2.1.zip",
     "download_size": 2657784,
     "download_hash": {
         "sha1": "375B6DC83B01119B9822BD46B79210C6B842C2C8",

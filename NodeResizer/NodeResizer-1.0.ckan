@@ -7,11 +7,11 @@
     "license": "CC-BY-SA-4.0",
     "release_status": "stable",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/Starwaster/NodeResizer"
+        "repository": "https://get.2sb.org/https://github.com/Starwaster/NodeResizer"
     },
     "version": "1.0",
     "ksp_version": "0.90",
-    "download": "https://hk.gh-proxy.com/https://github.com/Starwaster/NodeResizer/raw/master/ReleaseFiles/NodeResizer.Release.zip",
+    "download": "https://get.2sb.org/https://github.com/Starwaster/NodeResizer/raw/master/ReleaseFiles/NodeResizer.Release.zip",
     "download_size": 8695,
     "download_hash": {
         "sha1": "C431A2126FDD637B704C99CCF4FB0D52829836ED",

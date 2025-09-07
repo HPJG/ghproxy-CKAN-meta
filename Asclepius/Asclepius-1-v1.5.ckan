@@ -9,7 +9,7 @@
     "license": "CC0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/113949-105-asclepius-a-kopernicus-planet-ssto-playground/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/MrChumley/Asclepius"
+        "repository": "https://get.2sb.org/https://github.com/MrChumley/Asclepius"
     },
     "version": "1:v1.5",
     "ksp_version": "1.0.5",
@@ -37,7 +37,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/MrChumley/Asclepius/releases/download/v1.5/Asclepius.1.5.zip",
+    "download": "https://get.2sb.org/https://github.com/MrChumley/Asclepius/releases/download/v1.5/Asclepius.1.5.zip",
     "download_size": 5953435,
     "download_hash": {
         "sha1": "65F8D6FE157FD17F88F5DDA5191EE4B0A2312E9F",

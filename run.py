@@ -5,10 +5,11 @@ import urllib.request
 import urllib.error
 import patoolib
 
-EXCEPT_PATH = [".git", ".mypy_cache"]
+EXCEPT_PATH = [".git", ".mypy_cache", "run.bat"]
 TARGET = "https://github.com/KSP-CKAN/CKAN-meta/archive/master.tar.gz"
-GHPROXY = "https://hk.gh-proxy.com"
+GHPROXY = "https://get.2sb.org"
 SKIP_DOWNLOAD = False
+QUIET = True
 
 
 def delete_other_files():
@@ -30,7 +31,10 @@ def delete_other_files():
     print(f"将删除除 {script_name}，{"，".join(EXCEPT_PATH)} 以外的所有文件和文件夹")
 
     # 询问用户确认
-    confirm = input("确认删除？(y/N)：")
+    if QUIET:
+        confirm = "y"
+    else:
+        confirm = input("确认删除？(y/N)：")
     if confirm.lower() != "y":
         print("操作已取消")
         return
@@ -52,6 +56,7 @@ def delete_other_files():
                     # 删除目录及其内容
                     print(f"删除目录：{item}")
                     shutil.rmtree(item_path)
+                    # os.rmdir(item_path)
                     print(f"已删除目录：{item}")
                     deleted_count += 1
             except Exception as e:
@@ -134,6 +139,7 @@ def final_tidy(tar_filename: str, extract_to: str):
     print("删除临时文件")
     os.remove(tar_filename)
     shutil.rmtree(extract_to)
+    # os.rmdir(extract_to)
 
 
 def main():

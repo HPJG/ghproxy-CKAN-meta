@@ -8,8 +8,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/139335-ksp-112-rss-datetime-formatter-v10/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RSSTimeFormatter",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RSSTimeFormatter/issues"
+        "repository": "https://get.2sb.org/https://github.com/KSP-RO/RSSTimeFormatter",
+        "bugtracker": "https://get.2sb.org/https://github.com/KSP-RO/RSSTimeFormatter/issues"
     },
     "version": "1.4.5.0",
     "ksp_version": "1.4.5",
@@ -19,7 +19,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RSSTimeFormatter/releases/download/1.4.5.0/RSSTimeFormatter_1.4.5.0.zip",
+    "download": "https://get.2sb.org/https://github.com/KSP-RO/RSSTimeFormatter/releases/download/1.4.5.0/RSSTimeFormatter_1.4.5.0.zip",
     "download_size": 6078,
     "download_hash": {
         "sha1": "4BB6C15A68C249A791B0F9ACE99A49F4592AB111",

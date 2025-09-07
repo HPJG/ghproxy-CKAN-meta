@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/139724-surface-mounted-stock-alike-lights-for-self-illumination/",
         "curse": "https://kerbal.curseforge.com/projects/245073",
-        "repository": "https://hk.gh-proxy.com/https://github.com/ihsoft/SurfaceLights",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/ihsoft/SurfaceLights/issues",
+        "repository": "https://get.2sb.org/https://github.com/ihsoft/SurfaceLights",
+        "bugtracker": "https://get.2sb.org/https://github.com/ihsoft/SurfaceLights/issues",
         "x_screenshot": "https://media.forgecdn.net/avatars/thumbnails/40/902/120/120/635987760470055841.png"
     },
     "version": "1.12",

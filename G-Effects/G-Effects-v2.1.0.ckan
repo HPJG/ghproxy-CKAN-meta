@@ -14,8 +14,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/224982-1125-g-effects-reaffected-blackouts-redouts-g-locs-v11/",
         "spacedock": "https://spacedock.info/mod/3612/G-Effects-reaffected",
-        "repository": "https://hk.gh-proxy.com/https://github.com/AMPW-german/G-Effects-Reaffected",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/AMPW-german/G-Effects-Reaffected/issues",
+        "repository": "https://get.2sb.org/https://github.com/AMPW-german/G-Effects-Reaffected",
+        "bugtracker": "https://get.2sb.org/https://github.com/AMPW-german/G-Effects-Reaffected/issues",
         "x_screenshot": "https://spacedock.info/content/AMPW_135698/G-EFFECTS-REAFFECTED/G-EFFECTS-REAFFECTED-1717703952.png"
     },
     "tags": [
@@ -24,7 +24,7 @@
         "crewed"
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/AMPW-german/G-Effects-Reaffected/releases/download/v2.1.0/G-Effects-Reaffected-2.1.0-1.12.5.zip",
+        "https://get.2sb.org/https://github.com/AMPW-german/G-Effects-Reaffected/releases/download/v2.1.0/G-Effects-Reaffected-2.1.0-1.12.5.zip",
         "https://spacedock.info/mod/3612/G-Effects-reaffected/download/v2.1.0"
     ],
     "download_size": 744869,

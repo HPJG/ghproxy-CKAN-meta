@@ -8,7 +8,7 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/134429-105-careermanager/",
         "spacedock": "https://spacedock.info/mod/424/CareerManager",
-        "repository": "https://hk.gh-proxy.com/https://github.com/bananashavings/CareerManager"
+        "repository": "https://get.2sb.org/https://github.com/bananashavings/CareerManager"
     },
     "version": "1.1.0.0",
     "ksp_version_min": "1.0.5",

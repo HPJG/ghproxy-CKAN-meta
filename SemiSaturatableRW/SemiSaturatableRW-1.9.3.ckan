@@ -7,7 +7,7 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/116888",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Crzyrndm/RW-Saturatable"
+        "repository": "https://get.2sb.org/https://github.com/Crzyrndm/RW-Saturatable"
     },
     "version": "1.9.3",
     "ksp_version": "1.0.2",
@@ -17,7 +17,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Crzyrndm/RW-Saturatable/releases/download/1.9.3/Saturatable.RW.v1.9.3.zip",
+    "download": "https://get.2sb.org/https://github.com/Crzyrndm/RW-Saturatable/releases/download/1.9.3/Saturatable.RW.v1.9.3.zip",
     "download_size": 9723,
     "download_hash": {
         "sha1": "42793D810AF30F1EF3ED0C414185D5711343EF14",

@@ -12,7 +12,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/55485-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/sarbian/CrewManifest",
+        "repository": "https://get.2sb.org/https://github.com/sarbian/CrewManifest",
         "ci": "https://ksp.sarbian.com/jenkins/job/CrewManifest/"
     },
     "tags": [

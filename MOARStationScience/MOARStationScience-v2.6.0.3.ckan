@@ -13,7 +13,7 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/200041-110x-111x-moar-station-science-out-of-beta/",
         "spacedock": "https://spacedock.info/mod/2670/MOAR%20Station%20Science",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/StationScience",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/StationScience",
         "remote-avc": "https://raw.githubusercontent.com:443/linuxgurugamer/StationScience/master/Kerbal%20Space%20Program/GameData/StationScience/StationScience.version",
         "x_screenshot": "http://i.imgur.com/63DTlDLl.png"
     },

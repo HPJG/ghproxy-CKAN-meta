@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/227705-112x-chemical-technologies-a-chemically-based-resource-overhaul/",
         "spacedock": "https://spacedock.info/mod/3867/Chemical%20Exotics",
-        "repository": "https://hk.gh-proxy.com/https://github.com/CharleRoger/ChemicalExotics",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/CharleRoger/ChemicalExotics/issues",
+        "repository": "https://get.2sb.org/https://github.com/CharleRoger/ChemicalExotics",
+        "bugtracker": "https://get.2sb.org/https://github.com/CharleRoger/ChemicalExotics/issues",
         "remote-avc": "https://raw.githubusercontent.com/CharleRoger/ChemicalExotics/main/GameData/ChemicalExotics/Versioning/ChemicalExotics.version"
     },
     "tags": [
@@ -43,7 +43,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/CharleRoger/ChemicalExotics/releases/download/1.1.0/ChemicalExotics-1.1.0.zip",
+        "https://get.2sb.org/https://github.com/CharleRoger/ChemicalExotics/releases/download/1.1.0/ChemicalExotics-1.1.0.zip",
         "https://spacedock.info/mod/3867/Chemical%20Exotics/download/1.1.0"
     ],
     "download_size": 21338,

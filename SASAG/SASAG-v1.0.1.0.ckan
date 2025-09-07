@@ -6,9 +6,9 @@
     "author": "Xyphos",
     "license": "public-domain",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/Xyphos/KSP_SASAG/wiki",
+        "homepage": "https://get.2sb.org/https://github.com/Xyphos/KSP_SASAG/wiki",
         "spacedock": "https://spacedock.info/mod/1380/SASAG",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Xyphos/KSP_SASAG/"
+        "repository": "https://get.2sb.org/https://github.com/Xyphos/KSP_SASAG/"
     },
     "version": "v1.0.1.0",
     "ksp_version": "1.7.2",

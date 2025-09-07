@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/170781-143-decoupler-shroud/",
         "spacedock": "https://spacedock.info/mod/1692/Decoupler%20Shroud",
-        "repository": "https://hk.gh-proxy.com/https://github.com/nav0t/DecouplerShroud",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/nav0t/DecouplerShroud/issues"
+        "repository": "https://get.2sb.org/https://github.com/nav0t/DecouplerShroud",
+        "bugtracker": "https://get.2sb.org/https://github.com/nav0t/DecouplerShroud/issues"
     },
     "tags": [
         "plugin"

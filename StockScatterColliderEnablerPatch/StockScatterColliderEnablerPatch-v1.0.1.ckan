@@ -12,8 +12,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/195127-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Poodmund/Stock-Scatter-Collider-Enabler-Patch",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Poodmund/Stock-Scatter-Collider-Enabler-Patch/issues",
+        "repository": "https://get.2sb.org/https://github.com/Poodmund/Stock-Scatter-Collider-Enabler-Patch",
+        "bugtracker": "https://get.2sb.org/https://github.com/Poodmund/Stock-Scatter-Collider-Enabler-Patch/issues",
         "metanetkan": "https://raw.githubusercontent.com/Poodmund/Stock-Scatter-Collider-Enabler-Patch/master/CKAN/SSCEP.netkan",
         "remote-avc": "https://raw.githubusercontent.com/Poodmund/Stock-Scatter-Collider-Enabler-Patch/master/GameData/SSCEP/SSCEP.version"
     },
@@ -43,7 +43,7 @@
             "comment": "This is the main install for SSCEP"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Poodmund/Stock-Scatter-Collider-Enabler-Patch/releases/download/v1.0.1/Stock-Scatter-Collider-Enabler-Patch_v1.0.1.zip",
+    "download": "https://get.2sb.org/https://github.com/Poodmund/Stock-Scatter-Collider-Enabler-Patch/releases/download/v1.0.1/Stock-Scatter-Collider-Enabler-Patch_v1.0.1.zip",
     "download_size": 1280,
     "download_hash": {
         "sha1": "14953A328A9230A999CA577B8EE3E9BE14B0F504",

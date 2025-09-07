@@ -12,8 +12,8 @@
     "ksp_version_max": "1.12.99",
     "license": "MIT",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSPModdingLibs/HarmonyKSP",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSPModdingLibs/HarmonyKSP/issues",
+        "repository": "https://get.2sb.org/https://github.com/KSPModdingLibs/HarmonyKSP",
+        "bugtracker": "https://get.2sb.org/https://github.com/KSPModdingLibs/HarmonyKSP/issues",
         "remote-avc": "https://raw.githubusercontent.com/HarmonyKSP/HarmonyKSP/main/GameData/000_Harmony/Harmony.version"
     },
     "tags": [
@@ -30,7 +30,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSPModdingLibs/HarmonyKSP/releases/download/2.0.4.0/HarmonyKSP_2.0.4.0_for_KSP1.8%2B.zip",
+    "download": "https://get.2sb.org/https://github.com/KSPModdingLibs/HarmonyKSP/releases/download/2.0.4.0/HarmonyKSP_2.0.4.0_for_KSP1.8%2B.zip",
     "download_size": 314317,
     "download_hash": {
         "sha1": "9C488CF91B4F63BD6CD4124156F1061F049EDC07",

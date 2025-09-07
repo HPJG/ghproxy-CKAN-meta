@@ -7,7 +7,7 @@
     "license": "restricted",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/121597-alpha-project-orion-nuclear-pulse-engine/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/UmbraSpaceIndustries/NuclearRockets"
+        "repository": "https://get.2sb.org/https://github.com/UmbraSpaceIndustries/NuclearRockets"
     },
     "version": "0.3.4.0",
     "ksp_version_min": "1.2.0",
@@ -31,7 +31,7 @@
             "install_to": "GameData/UmbraSpaceIndustries"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/UmbraSpaceIndustries/NuclearRockets/releases/download/0.3.4.0/Orion_0.3.4.0.zip",
+    "download": "https://get.2sb.org/https://github.com/UmbraSpaceIndustries/NuclearRockets/releases/download/0.3.4.0/Orion_0.3.4.0.zip",
     "download_size": 8619474,
     "download_hash": {
         "sha1": "E60564067E0593864E9442F727C2908B438DC314",

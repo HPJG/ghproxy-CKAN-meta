@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/186959-*",
         "spacedock": "https://spacedock.info/mod/2197/BurstAtomicThrustModule",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/BurstAtomicThrustModule/",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/BurstAtomicThrustModule/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/BurstAtomicThrustModule/",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/BurstAtomicThrustModule/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/BurstAtomicThrustModule"
     },
     "tags": [
@@ -24,7 +24,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/BurstAtomicThrustModule/releases/download/0.1.0.3/BurstAtomicThrustModule-1.12.0-0.1.0.3.zip",
+    "download": "https://get.2sb.org/https://github.com/linuxgurugamer/BurstAtomicThrustModule/releases/download/0.1.0.3/BurstAtomicThrustModule-1.12.0-0.1.0.3.zip",
     "download_size": 12333,
     "download_hash": {
         "sha1": "7BD5AE72E41F3D287342CBA69DC89E72699CA977",

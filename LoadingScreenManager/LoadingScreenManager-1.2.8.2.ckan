@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/162397-130-loading-screen-manager/",
         "spacedock": "https://spacedock.info/mod/1422/LoadingScreenManager",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/KSPLoadingScreenManager",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/KSPLoadingScreenManager/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/KSPLoadingScreenManager",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/KSPLoadingScreenManager/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/LoadingScreenManager"
     },
     "tags": [
@@ -25,7 +25,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/KSPLoadingScreenManager/releases/download/1.2.8.2/LoadingScreenManager-1.12.0-1.2.8.2.zip",
+        "https://get.2sb.org/https://github.com/linuxgurugamer/KSPLoadingScreenManager/releases/download/1.2.8.2/LoadingScreenManager-1.12.0-1.2.8.2.zip",
         "https://spacedock.info/mod/1422/LoadingScreenManager/download/1.2.8.2"
     ],
     "download_size": 50235,

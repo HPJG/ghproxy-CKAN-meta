@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/143085-contract-filter-continued/",
         "spacedock": "https://spacedock.info/mod/820/Contract%20Filter%20Continued",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ContractFilterContinued",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ContractFilterContinued/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/ContractFilterContinued",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/ContractFilterContinued/issues",
         "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=313"
     },
     "tags": [

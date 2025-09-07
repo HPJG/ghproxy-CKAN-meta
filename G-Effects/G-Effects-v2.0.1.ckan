@@ -11,15 +11,15 @@
     "version": "v2.0.1",
     "license": "GPL-3.0",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/AMPW-german/G-Effects-Reaffected",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/AMPW-german/G-Effects-Reaffected/issues"
+        "repository": "https://get.2sb.org/https://github.com/AMPW-german/G-Effects-Reaffected",
+        "bugtracker": "https://get.2sb.org/https://github.com/AMPW-german/G-Effects-Reaffected/issues"
     },
     "tags": [
         "plugin",
         "first-person",
         "crewed"
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/AMPW-german/G-Effects-Reaffected/releases/download/v2.0.1/G-Effects-Reaffected-2.0.1-1.12.5.zip",
+    "download": "https://get.2sb.org/https://github.com/AMPW-german/G-Effects-Reaffected/releases/download/v2.0.1/G-Effects-Reaffected-2.0.1-1.12.5.zip",
     "download_size": 744769,
     "download_hash": {
         "sha1": "5D021FA529A22603028277FBBA7C227BB32EB048",

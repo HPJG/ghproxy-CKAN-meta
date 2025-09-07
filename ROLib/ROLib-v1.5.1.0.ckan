@@ -12,8 +12,8 @@
     "ksp_version_max": "1.12.99",
     "license": "CC-BY-SA-4.0",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ROLibrary",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ROLibrary/issues",
+        "repository": "https://get.2sb.org/https://github.com/KSP-RO/ROLibrary",
+        "bugtracker": "https://get.2sb.org/https://github.com/KSP-RO/ROLibrary/issues",
         "remote-avc": "https://raw.githubusercontent.com/KSP-RO/ROLibrary/master/GameData/ROLib/ROLib.version"
     },
     "tags": [
@@ -50,7 +50,7 @@
             "name": "TweakableEverythingCont"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ROLibrary/releases/download/v1.5.1.0/ROLib-v1.5.1.0.zip",
+    "download": "https://get.2sb.org/https://github.com/KSP-RO/ROLibrary/releases/download/v1.5.1.0/ROLib-v1.5.1.0.zip",
     "download_size": 77873,
     "download_hash": {
         "sha1": "98A0B834628B57A1984E58B96A0B85AC31A8D65B",

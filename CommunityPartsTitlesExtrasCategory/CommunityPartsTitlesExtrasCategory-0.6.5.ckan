@@ -10,8 +10,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/174189-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/yalov/CommunityPartsTitles",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/yalov/CommunityPartsTitles/issues"
+        "repository": "https://get.2sb.org/https://github.com/yalov/CommunityPartsTitles",
+        "bugtracker": "https://get.2sb.org/https://github.com/yalov/CommunityPartsTitles/issues"
     },
     "tags": [
         "config",
@@ -41,7 +41,7 @@
             "comment": "Extras folder without the category_hide_cck.cfg. There is CommunityPartsTitlesExtrasNoDup for it"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/yalov/CommunityPartsTitles/releases/download/0.6.5/CommunityPartsTitles-v0.6.5.zip",
+    "download": "https://get.2sb.org/https://github.com/yalov/CommunityPartsTitles/releases/download/0.6.5/CommunityPartsTitles-v0.6.5.zip",
     "download_size": 154134,
     "download_hash": {
         "sha1": "CC507DB08048842690D5A797541248EC09F832D6",

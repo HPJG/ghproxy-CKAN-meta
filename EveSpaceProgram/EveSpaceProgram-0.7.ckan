@@ -10,7 +10,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/130318-alien-space-programs",
-        "repository": "https://hk.gh-proxy.com/https://github.com/GregroxMun/Alien-Space-Programs"
+        "repository": "https://get.2sb.org/https://github.com/GregroxMun/Alien-Space-Programs"
     },
     "version": "0.7",
     "ksp_version": "1.0.5",
@@ -30,7 +30,7 @@
             "name": "AlienSpaceProgram"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/GregroxMun/Alien-Space-Programs/releases/download/0.7/EveSpaceProgram0.7.zip",
+    "download": "https://get.2sb.org/https://github.com/GregroxMun/Alien-Space-Programs/releases/download/0.7/EveSpaceProgram0.7.zip",
     "download_size": 1937778,
     "download_hash": {
         "sha1": "B9896A7A0C39A007970C30BD616DBFBB866B70E3",

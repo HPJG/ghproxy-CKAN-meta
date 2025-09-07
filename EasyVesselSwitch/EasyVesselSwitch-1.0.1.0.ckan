@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/141180-easy-vessel-switch-evs/",
         "curse": "https://kerbal.curseforge.com/projects/245805",
-        "repository": "https://hk.gh-proxy.com/https://github.com/ihsoft/EasyVesselSwitch",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/ihsoft/EasyVesselSwitch/issues",
+        "repository": "https://get.2sb.org/https://github.com/ihsoft/EasyVesselSwitch",
+        "bugtracker": "https://get.2sb.org/https://github.com/ihsoft/EasyVesselSwitch/issues",
         "x_screenshot": "https://media.forgecdn.net/avatars/thumbnails/42/203/120/120/636006100400447117.jpeg"
     },
     "version": "1.0.1.0",

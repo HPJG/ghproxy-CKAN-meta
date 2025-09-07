@@ -11,9 +11,9 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/169048-131-telemagic",
         "spacedock": "https://spacedock.info/mod/1627/Telemagic",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Hotel26/Telemagic",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Hotel26/Telemagic/issues",
-        "remote-avc": "https://hk.gh-proxy.com/https://github.com/Hotel26/Telemagic/raw/master/Telemagic/Telemagic.version"
+        "repository": "https://get.2sb.org/https://github.com/Hotel26/Telemagic",
+        "bugtracker": "https://get.2sb.org/https://github.com/Hotel26/Telemagic/issues",
+        "remote-avc": "https://get.2sb.org/https://github.com/Hotel26/Telemagic/raw/master/Telemagic/Telemagic.version"
     },
     "tags": [
         "plugin"

@@ -7,7 +7,7 @@
     "license": "CC-BY-SA",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/54954",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Starwaster/DeadlyReentry"
+        "repository": "https://get.2sb.org/https://github.com/Starwaster/DeadlyReentry"
     },
     "version": "v7.3.3",
     "ksp_version": "1.0.5",
@@ -23,7 +23,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Starwaster/DeadlyReentry/releases/download/v7.3.3/DeadlyReentry_v7.3.3.zip",
+    "download": "https://get.2sb.org/https://github.com/Starwaster/DeadlyReentry/releases/download/v7.3.3/DeadlyReentry_v7.3.3.zip",
     "download_size": 789629,
     "download_hash": {
         "sha1": "188B72F7386C0E554E8098BD8DB603F9E33D8642",

@@ -8,7 +8,7 @@
     "license": "CC-BY-NC-ND-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/93389",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/USProbesPack"
+        "repository": "https://get.2sb.org/https://github.com/KSP-RO/USProbesPack"
     },
     "version": "v0.53",
     "ksp_version_min": "1.1.1",
@@ -40,7 +40,7 @@
             "install_to": "Ships"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/USProbesPack/releases/download/v0.53/RN_US_Probes_v0.53.zip",
+    "download": "https://get.2sb.org/https://github.com/KSP-RO/USProbesPack/releases/download/v0.53/RN_US_Probes_v0.53.zip",
     "download_size": 90134718,
     "download_hash": {
         "sha1": "9AFF7D58C726A64E18C4094DDAAA09C156342343",

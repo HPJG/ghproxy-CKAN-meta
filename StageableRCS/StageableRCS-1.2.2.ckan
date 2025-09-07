@@ -14,8 +14,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/176365-131-144-srcs-stageable-rcs/",
         "spacedock": "https://spacedock.info/mod/1900/SRCS%20-%20Stageable%20RCS",
-        "repository": "https://hk.gh-proxy.com/https://github.com/kurgut/SRCS-Stageable-RCS",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/kurgut/SRCS-Stageable-RCS/issues",
+        "repository": "https://get.2sb.org/https://github.com/kurgut/SRCS-Stageable-RCS",
+        "bugtracker": "https://get.2sb.org/https://github.com/kurgut/SRCS-Stageable-RCS/issues",
         "remote-avc": "https://raw.githubusercontent.com/kurgut/SRCS-Stageable-RCS/main/GameData/SRCS/SRCS.version",
         "x_screenshot": "https://spacedock.info/content/Kurgut_20777/SRCS_-_Stageable_RCS/SRCS_-_Stageable_RCS-1530621507.4310377.png"
     },
@@ -41,7 +41,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/kurgut/SRCS-Stageable-RCS/releases/download/1.2.2/SRCS-StageableRCS.1.2.2.zip",
+        "https://get.2sb.org/https://github.com/kurgut/SRCS-Stageable-RCS/releases/download/1.2.2/SRCS-StageableRCS.1.2.2.zip",
         "https://spacedock.info/mod/1900/SRCS%20-%20Stageable%20RCS/download/1.2.2"
     ],
     "download_size": 1876,

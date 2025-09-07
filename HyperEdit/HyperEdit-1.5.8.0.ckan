@@ -16,8 +16,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://www.Kerbaltek.com/hyperedit",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Ezriilc/HyperEdit",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Ezriilc/HyperEdit/issues",
+        "repository": "https://get.2sb.org/https://github.com/Ezriilc/HyperEdit",
+        "bugtracker": "https://get.2sb.org/https://github.com/Ezriilc/HyperEdit/issues",
         "remote-avc": "https://raw.githubusercontent.com/Ezriilc/HyperEdit/master/HyperEdit.version"
     },
     "tags": [

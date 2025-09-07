@@ -12,7 +12,7 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/191914-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ModActions",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/ModActions",
         "remote-avc": "http://ksp.spacetux.net/avc/ModActions"
     },
     "tags": [
@@ -36,7 +36,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ModActions/releases/download/1.7.0.2/ModActions-1.12.0-1.7.0.2.zip",
+    "download": "https://get.2sb.org/https://github.com/linuxgurugamer/ModActions/releases/download/1.7.0.2/ModActions-1.12.0-1.7.0.2.zip",
     "download_size": 65242,
     "download_hash": {
         "sha1": "87DDBC09FBA9EA6194CAEC9CDAAFCDBCAA46B710",

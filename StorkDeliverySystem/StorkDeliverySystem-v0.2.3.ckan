@@ -7,7 +7,7 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/112526",
-        "repository": "https://hk.gh-proxy.com/https://github.com/riocrokite/StorkDeliverySystem"
+        "repository": "https://get.2sb.org/https://github.com/riocrokite/StorkDeliverySystem"
     },
     "version": "v0.2.3",
     "ksp_version": "1.0.2",
@@ -22,7 +22,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/riocrokite/StorkDeliverySystem/releases/download/v0.2.3/Stork.0.2.3.zip",
+    "download": "https://get.2sb.org/https://github.com/riocrokite/StorkDeliverySystem/releases/download/v0.2.3/Stork.0.2.3.zip",
     "download_size": 458252,
     "download_hash": {
         "sha1": "FDBADF3BFCB140CE736B8840D66A3ED11667DBA1",

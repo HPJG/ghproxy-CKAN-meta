@@ -8,8 +8,8 @@
     "ksp_version": "any",
     "license": "LGPL-3.0",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/blade1981m/BladeTweaks",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/blade1981m/BladeTweaks/issues"
+        "repository": "https://get.2sb.org/https://github.com/blade1981m/BladeTweaks",
+        "bugtracker": "https://get.2sb.org/https://github.com/blade1981m/BladeTweaks/issues"
     },
     "tags": [
         "config"
@@ -33,7 +33,7 @@
             "name": "MechJeb2"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/blade1981m/BladeTweaks/releases/download/1.2.0/BladeTweaks.1.2.0.zip",
+    "download": "https://get.2sb.org/https://github.com/blade1981m/BladeTweaks/releases/download/1.2.0/BladeTweaks.1.2.0.zip",
     "download_size": 24535,
     "download_hash": {
         "sha1": "57EEAD4DB8F9CBDF2C66BAE120DB1C7CFE7356E6",

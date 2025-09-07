@@ -7,7 +7,7 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/92011",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Will565/IFI-Life-Support"
+        "repository": "https://get.2sb.org/https://github.com/Will565/IFI-Life-Support"
     },
     "version": "v2.80",
     "ksp_version": "1.0",
@@ -23,7 +23,7 @@
             "filter_regexp": "ModuleManager.*dll$"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Will565/IFI-Life-Support/releases/download/v2.80/IFILifesupportPlugin28.zip",
+    "download": "https://get.2sb.org/https://github.com/Will565/IFI-Life-Support/releases/download/v2.80/IFILifesupportPlugin28.zip",
     "download_size": 5552300,
     "download_hash": {
         "sha1": "A3029C57A9DE69EE06C3B3EBAB210D2592B01219",

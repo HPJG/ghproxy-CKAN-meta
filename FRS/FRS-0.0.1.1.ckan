@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/214198-112x-frs-funds-rep-science/",
         "spacedock": "https://spacedock.info/mod/3293/FRS",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/FRS",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/FRS/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/FRS",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/FRS/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/FRS",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/FRS/FRS-1677766200.png"
     },
@@ -39,7 +39,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/FRS/releases/download/0.0.1.1/FRS-1.12.0-0.0.1.1.zip",
+        "https://get.2sb.org/https://github.com/linuxgurugamer/FRS/releases/download/0.0.1.1/FRS-1.12.0-0.0.1.1.zip",
         "https://spacedock.info/mod/3293/FRS/download/0.0.1.1"
     ],
     "download_size": 38590,

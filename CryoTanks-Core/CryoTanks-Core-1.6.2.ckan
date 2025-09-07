@@ -9,10 +9,10 @@
     "ksp_version_max": "1.12.99",
     "license": "MIT",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/post-kerbin-mining-corporation/CryoTanks/wiki",
-        "repository": "https://hk.gh-proxy.com/https://github.com/post-kerbin-mining-corporation/CryoTanks",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/post-kerbin-mining-corporation/CryoTanks/issues",
-        "metanetkan": "https://hk.gh-proxy.com/https://github.com/post-kerbin-mining-corporation/CryoTanks/raw/master/CKAN/CryoTanks-Core.netkan",
+        "homepage": "https://get.2sb.org/https://github.com/post-kerbin-mining-corporation/CryoTanks/wiki",
+        "repository": "https://get.2sb.org/https://github.com/post-kerbin-mining-corporation/CryoTanks",
+        "bugtracker": "https://get.2sb.org/https://github.com/post-kerbin-mining-corporation/CryoTanks/issues",
+        "metanetkan": "https://get.2sb.org/https://github.com/post-kerbin-mining-corporation/CryoTanks/raw/master/CKAN/CryoTanks-Core.netkan",
         "remote-avc": "https://raw.githubusercontent.com/post-kerbin-mining-corporation/CryoTanks/master/GameData/CryoTanks/Versioning/CryoTanks.version"
     },
     "tags": [
@@ -29,7 +29,7 @@
             "install_to": "GameData/CryoTanks/Plugins"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/post-kerbin-mining-corporation/CryoTanks/releases/download/1.6.2/CryoTanks_1_6_2.zip",
+    "download": "https://get.2sb.org/https://github.com/post-kerbin-mining-corporation/CryoTanks/releases/download/1.6.2/CryoTanks_1_6_2.zip",
     "download_size": 60303019,
     "download_hash": {
         "sha1": "FF2C177192961C5EC590CEAB285E9D2FE7BEA309",

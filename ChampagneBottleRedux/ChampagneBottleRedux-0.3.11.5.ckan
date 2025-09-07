@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/138349-champagne-bottle-redux/",
         "spacedock": "https://spacedock.info/mod/613/Champagne%20Bottle%20Redux",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ChampagneBottleRedux",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ChampagneBottleRedux/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/ChampagneBottleRedux",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/ChampagneBottleRedux/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/ChampagneBottle",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Champagne_Bottle_Redux/Champagne_Bottle_Redux-1507555067.0730748.png"
     },
@@ -43,7 +43,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ChampagneBottleRedux/releases/download/0.3.11.5/ChampagneBottle-1.12.0-0.3.11.5.zip",
+        "https://get.2sb.org/https://github.com/linuxgurugamer/ChampagneBottleRedux/releases/download/0.3.11.5/ChampagneBottle-1.12.0-0.3.11.5.zip",
         "https://spacedock.info/mod/613/Champagne%20Bottle%20Redux/download/0.3.11.5"
     ],
     "download_size": 39487,

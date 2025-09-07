@@ -10,14 +10,14 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/173015-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSPKatten/Chrononaut",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSPKatten/Chrononaut/issues",
+        "repository": "https://get.2sb.org/https://github.com/KSPKatten/Chrononaut",
+        "bugtracker": "https://get.2sb.org/https://github.com/KSPKatten/Chrononaut/issues",
         "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=565"
     },
     "tags": [
         "plugin"
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSPKatten/Chrononaut/releases/download/v0.4.2/Chrononaut_v0.4.2.zip",
+    "download": "https://get.2sb.org/https://github.com/KSPKatten/Chrononaut/releases/download/v0.4.2/Chrononaut_v0.4.2.zip",
     "download_size": 15418,
     "download_hash": {
         "sha1": "3C95E9711B3B942AC962D9FC7B3B1C7FB53EBC74",

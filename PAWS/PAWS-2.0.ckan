@@ -10,7 +10,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/163711-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/severedsolo/PAWS"
+        "repository": "https://get.2sb.org/https://github.com/severedsolo/PAWS"
     },
     "tags": [
         "plugin"
@@ -20,7 +20,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/severedsolo/PAWS/releases/download/2.0/PAWS.zip",
+    "download": "https://get.2sb.org/https://github.com/severedsolo/PAWS/releases/download/2.0/PAWS.zip",
     "download_size": 8563,
     "download_hash": {
         "sha1": "BD6352B57FC2B408702FE85F384FD96BD4550E62",

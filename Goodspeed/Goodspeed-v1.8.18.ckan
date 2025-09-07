@@ -7,7 +7,7 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/137489-11-gpospeedfuelpump-continued/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/henrybauer/GPOSpeedPump",
+        "repository": "https://get.2sb.org/https://github.com/henrybauer/GPOSpeedPump",
         "x_screenshot": "https://spacedock.info/content/hab136_461/GPOSpeedFuelPump/GPOSpeedFuelPump-1461173729.569611.png"
     },
     "version": "v1.8.18",
@@ -24,7 +24,7 @@
             "filter": "sourcecode"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/henrybauer/GPOSpeedPump/releases/download/v1.8.18/GPOSpeedFuelPump-v1.8.18.zip",
+    "download": "https://get.2sb.org/https://github.com/henrybauer/GPOSpeedPump/releases/download/v1.8.18/GPOSpeedFuelPump-v1.8.18.zip",
     "download_size": 11825,
     "download_hash": {
         "sha1": "513D847C59CEA61D3991C3D8D371F6DFB7FC7073",

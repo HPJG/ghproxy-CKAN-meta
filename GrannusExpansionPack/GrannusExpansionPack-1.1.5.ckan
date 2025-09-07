@@ -9,8 +9,8 @@
     "license": "CC-BY-NC-ND",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/169664-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/OhioBob/Grannus-Expansion-Pack",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/OhioBob/Grannus-Expansion-Pack/issues"
+        "repository": "https://get.2sb.org/https://github.com/OhioBob/Grannus-Expansion-Pack",
+        "bugtracker": "https://get.2sb.org/https://github.com/OhioBob/Grannus-Expansion-Pack/issues"
     },
     "tags": [
         "config",
@@ -82,7 +82,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/OhioBob/Grannus-Expansion-Pack/releases/download/1.1.5/GrannusExpansionPack_1.1.5.zip",
+    "download": "https://get.2sb.org/https://github.com/OhioBob/Grannus-Expansion-Pack/releases/download/1.1.5/GrannusExpansionPack_1.1.5.zip",
     "download_size": 319914538,
     "download_hash": {
         "sha1": "EE89FB377B0D7B01C4F27AC0F7A044C6FCCF2C59",

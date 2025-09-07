@@ -14,8 +14,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/188343-173-crew-light-relit/",
         "spacedock": "https://spacedock.info/mod/2236/Crew%20Light%20Relit",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/CrewLight",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/CrewLight/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/CrewLight",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/CrewLight/issues",
         "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/CrewLight/master/GameData/CrewLight/CrewLight.version"
     },
     "tags": [

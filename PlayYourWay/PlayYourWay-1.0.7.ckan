@@ -7,7 +7,7 @@
     "license": "public-domain",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/152877-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Galileo88/PlayYourWay"
+        "repository": "https://get.2sb.org/https://github.com/Galileo88/PlayYourWay"
     },
     "version": "1.0.7",
     "ksp_version_min": "1.2.1",
@@ -22,7 +22,7 @@
             "name": "ContractConfigurator"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Galileo88/PlayYourWay/releases/download/1.0.7/PlayYourWay.1.0.7.zip",
+    "download": "https://get.2sb.org/https://github.com/Galileo88/PlayYourWay/releases/download/1.0.7/PlayYourWay.1.0.7.zip",
     "download_size": 7457,
     "download_hash": {
         "sha1": "B37EF403F00CD3725EAE2FC802B5BBEECB064D16",

@@ -11,7 +11,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/179652-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-DDR/Terras-Ignotas"
+        "repository": "https://get.2sb.org/https://github.com/KSP-DDR/Terras-Ignotas"
     },
     "version": "0.1.1",
     "ksp_version": "1.5.1",
@@ -40,7 +40,7 @@
             ]
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSP-DDR/Terras-Ignotas/releases/download/0.1.1/TerrasIgnotas_Full_0.1.1.zip",
+    "download": "https://get.2sb.org/https://github.com/KSP-DDR/Terras-Ignotas/releases/download/0.1.1/TerrasIgnotas_Full_0.1.1.zip",
     "download_size": 34327215,
     "download_hash": {
         "sha1": "4E05D368D36CB991DB5854FFF3EFF216B2D852A8",

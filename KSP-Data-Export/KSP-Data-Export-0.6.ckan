@@ -9,10 +9,10 @@
     "ksp_version_max": "1.12.5",
     "license": "MIT",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/user-attachments/assets/58645219-bdbd-4f5d-8722-afbabfa870b1",
+        "homepage": "https://get.2sb.org/https://github.com/user-attachments/assets/58645219-bdbd-4f5d-8722-afbabfa870b1",
         "spacedock": "https://spacedock.info/mod/2711/KSP%20Data%20Export",
-        "repository": "https://hk.gh-proxy.com/https://github.com/kna27/ksp-data-export",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/kna27/ksp-data-export/issues"
+        "repository": "https://get.2sb.org/https://github.com/kna27/ksp-data-export",
+        "bugtracker": "https://get.2sb.org/https://github.com/kna27/ksp-data-export/issues"
     },
     "tags": [
         "plugin",
@@ -26,7 +26,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/kna27/ksp-data-export/releases/download/v0.6/GameData.zip",
+        "https://get.2sb.org/https://github.com/kna27/ksp-data-export/releases/download/v0.6/GameData.zip",
         "https://spacedock.info/mod/2711/KSP%20Data%20Export/download/0.6"
     ],
     "download_size": 14708,

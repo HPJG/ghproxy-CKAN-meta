@@ -10,9 +10,9 @@
     "license": "GPL-3.0",
     "resources": {
         "spacedock": "https://spacedock.info/mod/3919/FireflyAPI",
-        "repository": "https://hk.gh-proxy.com/https://github.com/M1rageDev/FireflyAPI",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/M1rageDev/FireflyAPI/issues",
-        "remote-avc": "https://hk.gh-proxy.com/https://github.com/M1rageDev/FireflyAPI/releases/latest/download/FireflyAPI.version",
+        "repository": "https://get.2sb.org/https://github.com/M1rageDev/FireflyAPI",
+        "bugtracker": "https://get.2sb.org/https://github.com/M1rageDev/FireflyAPI/issues",
+        "remote-avc": "https://get.2sb.org/https://github.com/M1rageDev/FireflyAPI/releases/latest/download/FireflyAPI.version",
         "x_screenshot": "https://spacedock.info/content/MirageDev_142617/FireflyAPI/FireflyAPI-1751475727.png"
     },
     "tags": [
@@ -25,7 +25,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/M1rageDev/FireflyAPI/releases/download/1.0.0.0/FireflyAPI-1.0.0.0.zip",
+        "https://get.2sb.org/https://github.com/M1rageDev/FireflyAPI/releases/download/1.0.0.0/FireflyAPI-1.0.0.0.zip",
         "https://spacedock.info/mod/3919/FireflyAPI/download/1.0.0.0"
     ],
     "download_size": 17573,

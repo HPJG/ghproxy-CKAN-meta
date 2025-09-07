@@ -7,7 +7,7 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/18230",
-        "repository": "https://hk.gh-proxy.com/https://github.com/CYBUTEK/KerbalEngineer"
+        "repository": "https://get.2sb.org/https://github.com/CYBUTEK/KerbalEngineer"
     },
     "version": "1.0.19.3",
     "ksp_version": "1.0.5",
@@ -17,7 +17,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/CYBUTEK/KerbalEngineer/releases/download/1.0.19.3/KerbalEngineer-1.0.19.3.zip",
+    "download": "https://get.2sb.org/https://github.com/CYBUTEK/KerbalEngineer/releases/download/1.0.19.3/KerbalEngineer-1.0.19.3.zip",
     "download_size": 1028834,
     "download_hash": {
         "sha1": "801A25C5712C5FB198483A966C910EF74EEDCA75",

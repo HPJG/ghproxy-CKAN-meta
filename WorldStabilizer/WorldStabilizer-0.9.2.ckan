@@ -8,7 +8,7 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/169206-131-worldstabilizer-bugfix-for-vessels-bouncing-on-scene-load/",
         "spacedock": "https://spacedock.info/mod/1632/WorldStabilizer",
-        "repository": "https://hk.gh-proxy.com/https://github.com/whale2/WorldStabilizer"
+        "repository": "https://get.2sb.org/https://github.com/whale2/WorldStabilizer"
     },
     "version": "0.9.2",
     "ksp_version": "1.4.3",

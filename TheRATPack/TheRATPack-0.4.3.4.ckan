@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/178083-14x-",
         "spacedock": "https://spacedock.info/mod/1963/The%20RAT%20Pack",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/RATPack",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/RATPack/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/RATPack",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/RATPack/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/RATPack",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/The_RAT_Pack/The_RAT_Pack-1536178218.69219.png"
     },
@@ -39,7 +39,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/RATPack/releases/download/0.4.3.4/RATPack-1.12.0-0.4.3.4.zip",
+        "https://get.2sb.org/https://github.com/linuxgurugamer/RATPack/releases/download/0.4.3.4/RATPack-1.12.0-0.4.3.4.zip",
         "https://spacedock.info/mod/1963/The%20RAT%20Pack/download/0.4.3.4"
     ],
     "download_size": 202474,

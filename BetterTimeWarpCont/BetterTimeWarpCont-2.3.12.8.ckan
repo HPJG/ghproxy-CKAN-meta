@@ -13,8 +13,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/154935-*",
         "spacedock": "https://spacedock.info/mod/1162/BetterTimeWarpContinued",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/BetterTimeWarpContinued",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/BetterTimeWarpContinued/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/BetterTimeWarpContinued",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/BetterTimeWarpContinued/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/BetterTimeWarp",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/BetterTimeWarpContinued/BetterTimeWarpContinued-1488337554.886011.png"
     },
@@ -36,7 +36,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/BetterTimeWarpContinued/releases/download/2.3.12.8/BetterTimeWarp-1.12.0-2.3.12.8.zip",
+    "download": "https://get.2sb.org/https://github.com/linuxgurugamer/BetterTimeWarpContinued/releases/download/2.3.12.8/BetterTimeWarp-1.12.0-2.3.12.8.zip",
     "download_size": 24595,
     "download_hash": {
         "sha1": "61934DD71C68C12C36B437564C8D30E0B66A92CD",

@@ -10,8 +10,8 @@
     "license": "restricted",
     "resources": {
         "homepage": "http://kerbokatz.github.io/#CraftHistory",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KerboKatz/CraftHistory",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KerboKatz/CraftHistory/issues"
+        "repository": "https://get.2sb.org/https://github.com/KerboKatz/CraftHistory",
+        "bugtracker": "https://get.2sb.org/https://github.com/KerboKatz/CraftHistory/issues"
     },
     "version": "2.0.3",
     "ksp_version_min": "1.2.0",
@@ -28,7 +28,7 @@
             "install_to": "GameData/KerboKatz"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KerboKatz/CraftHistory/releases/download/2.0.3/CraftHistory.zip",
+    "download": "https://get.2sb.org/https://github.com/KerboKatz/CraftHistory/releases/download/2.0.3/CraftHistory.zip",
     "download_size": 125896,
     "download_hash": {
         "sha1": "2F7F4E6887A9339451F2E5AC47409C2376D9D4D1",

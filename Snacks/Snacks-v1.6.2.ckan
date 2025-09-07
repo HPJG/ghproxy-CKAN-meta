@@ -10,7 +10,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/81929-105-snacks-kerbal-simplified-life-support",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Angel-125/Snacks"
+        "repository": "https://get.2sb.org/https://github.com/Angel-125/Snacks"
     },
     "version": "v1.6.2",
     "ksp_version": "1.2.2",
@@ -19,7 +19,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Angel-125/Snacks/releases/download/v1.6.2/Snacks_1_6_2.zip",
+    "download": "https://get.2sb.org/https://github.com/Angel-125/Snacks/releases/download/v1.6.2/Snacks_1_6_2.zip",
     "download_size": 1525980,
     "download_hash": {
         "sha1": "261271896CD13ED4F936AC2954FD66358DC03227",

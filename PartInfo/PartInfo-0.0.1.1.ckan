@@ -6,7 +6,7 @@
     "author": "linuxgurugamer",
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/PartInfo"
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/PartInfo"
     },
     "version": "0.0.1.1",
     "ksp_version": "1.4.5",
@@ -21,7 +21,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/PartInfo/releases/download/0.0.1.1/PartInfo-1.4.5-0.0.1.1.zip",
+    "download": "https://get.2sb.org/https://github.com/linuxgurugamer/PartInfo/releases/download/0.0.1.1/PartInfo-1.4.5-0.0.1.1.zip",
     "download_size": 26426,
     "download_hash": {
         "sha1": "C17EFC5804BF36E94077B1A309B1E84021D3F317",

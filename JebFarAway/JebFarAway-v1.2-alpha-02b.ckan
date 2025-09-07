@@ -8,8 +8,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/223852-jfa-jeb-far-away-1125-alpha-11/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/D4RKN3R/JFA",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/D4RKN3R/JFA/issues"
+        "repository": "https://get.2sb.org/https://github.com/D4RKN3R/JFA",
+        "bugtracker": "https://get.2sb.org/https://github.com/D4RKN3R/JFA/issues"
     },
     "tags": [
         "config",
@@ -29,7 +29,7 @@
             "name": "KopernicusExpansion"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/D4RKN3R/JFA/releases/download/v1.2-alpha-02b/JebFixedUp.zip",
+    "download": "https://get.2sb.org/https://github.com/D4RKN3R/JFA/releases/download/v1.2-alpha-02b/JebFixedUp.zip",
     "download_size": 144130216,
     "download_hash": {
         "sha1": "95BB00AEAA2C5615BB2DCF215B9E0CFA9BD2B3A7",

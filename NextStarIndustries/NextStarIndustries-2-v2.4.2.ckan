@@ -9,10 +9,10 @@
     "ksp_version_max": "1.10.99",
     "license": "CC-BY-SA-2.0",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/NextStarIndustries/Next-Star-Industries",
+        "homepage": "https://get.2sb.org/https://github.com/NextStarIndustries/Next-Star-Industries",
         "spacedock": "https://spacedock.info/mod/2506/Next%20Star%20Industries",
-        "repository": "https://hk.gh-proxy.com/https://github.com/NextStarIndustries/Next-Star-Industries",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/NextStarIndustries/Next-Star-Industries/issues",
+        "repository": "https://get.2sb.org/https://github.com/NextStarIndustries/Next-Star-Industries",
+        "bugtracker": "https://get.2sb.org/https://github.com/NextStarIndustries/Next-Star-Industries/issues",
         "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=552",
         "x_screenshot": "https://spacedock.info/content/Next_Star_Industries_13277/Next_Star_Industries/Next_Star_Industries-1602732135.3310738.png"
     },

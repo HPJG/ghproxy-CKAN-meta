@@ -9,7 +9,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/127793-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/MrChumley/Spud"
+        "repository": "https://get.2sb.org/https://github.com/MrChumley/Spud"
     },
     "version": "1:0.2",
     "ksp_version": "1.0.5",
@@ -29,7 +29,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/MrChumley/Spud/releases/download/0.2/Spud.0.2.zip",
+    "download": "https://get.2sb.org/https://github.com/MrChumley/Spud/releases/download/0.2/Spud.0.2.zip",
     "download_size": 6685994,
     "download_hash": {
         "sha1": "4F7A02E399892E02B7AC8A1F4C2005568E4AB626",

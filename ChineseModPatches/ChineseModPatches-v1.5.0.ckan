@@ -9,9 +9,9 @@
     "ksp_version_max": "1.12.99",
     "license": "CC-BY-4.0",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/tinygrox/KSP_Chinese_Patches",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/tinygrox/KSP_Chinese_Patches/issues",
-        "discussions": "https://hk.gh-proxy.com/https://github.com/tinygrox/KSP_Chinese_Patches/discussions",
+        "repository": "https://get.2sb.org/https://github.com/tinygrox/KSP_Chinese_Patches",
+        "bugtracker": "https://get.2sb.org/https://github.com/tinygrox/KSP_Chinese_Patches/issues",
+        "discussions": "https://get.2sb.org/https://github.com/tinygrox/KSP_Chinese_Patches/discussions",
         "remote-avc": "https://raw.githubusercontent.com:443/tinygrox/KSP_Chinese_Patches/main/GameData/0000Tinygrox_CNPatches/ModCNPatches.version"
     },
     "tags": [
@@ -106,7 +106,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/tinygrox/KSP_Chinese_Patches/releases/download/v1.5.0/KSP_Chinese_Patches_1.5.0.zip",
+    "download": "https://get.2sb.org/https://github.com/tinygrox/KSP_Chinese_Patches/releases/download/v1.5.0/KSP_Chinese_Patches_1.5.0.zip",
     "download_size": 12086637,
     "download_hash": {
         "sha1": "D9844DBC0E176D5B1D4B17148B8B2300390CBCC6",

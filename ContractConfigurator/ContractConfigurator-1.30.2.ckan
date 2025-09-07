@@ -12,10 +12,10 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/91625--",
-        "repository": "https://hk.gh-proxy.com/https://github.com/jrossignol/ContractConfigurator",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/jrossignol/ContractConfigurator/issues",
+        "repository": "https://get.2sb.org/https://github.com/jrossignol/ContractConfigurator",
+        "bugtracker": "https://get.2sb.org/https://github.com/jrossignol/ContractConfigurator/issues",
         "license": "https://raw.githubusercontent.com/jrossignol/ContractConfigurator/master/LICENSE.txt",
-        "manual": "https://hk.gh-proxy.com/https://github.com/jrossignol/ContractConfigurator/wiki",
+        "manual": "https://get.2sb.org/https://github.com/jrossignol/ContractConfigurator/wiki",
         "metanetkan": "https://raw.githubusercontent.com/jrossignol/ContractConfigurator/master/ContractConfigurator.netkan"
     },
     "tags": [
@@ -37,7 +37,7 @@
             "name": "ContractsWindowPlus"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/jrossignol/ContractConfigurator/releases/download/1.30.2/ContractConfigurator_1.30.2.zip",
+    "download": "https://get.2sb.org/https://github.com/jrossignol/ContractConfigurator/releases/download/1.30.2/ContractConfigurator_1.30.2.zip",
     "download_size": 563961,
     "download_hash": {
         "sha1": "A6FD1CF1AF1CFAFCAE78D8C117061B3973210815",

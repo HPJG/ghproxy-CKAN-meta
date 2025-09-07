@@ -10,8 +10,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/177292-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/yalov/CommNetAntennasExtension",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/yalov/CommNetAntennasExtension/issues",
+        "repository": "https://get.2sb.org/https://github.com/yalov/CommNetAntennasExtension",
+        "bugtracker": "https://get.2sb.org/https://github.com/yalov/CommNetAntennasExtension/issues",
         "remote-avc": "https://raw.githubusercontent.com/yalov/CommNetAntennasExtension/master/CommNetAntennasExtension.version"
     },
     "tags": [
@@ -57,7 +57,7 @@
             "name": "RemoteTech"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/yalov/CommNetAntennasExtension/releases/download/2.1.9/CommNetAntennasExtension-v2.1.9.zip",
+    "download": "https://get.2sb.org/https://github.com/yalov/CommNetAntennasExtension/releases/download/2.1.9/CommNetAntennasExtension-v2.1.9.zip",
     "download_size": 539927,
     "download_hash": {
         "sha1": "2CA409538A3EE4B48DB6CAC0C04F38C8BBA177AB",

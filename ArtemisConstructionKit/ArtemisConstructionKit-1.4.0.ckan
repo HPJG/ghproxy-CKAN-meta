@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/209546-112x-artemis-construction-kit-stockalike-orion-spacecraft-v100/",
         "spacedock": "https://spacedock.info/mod/3098/Artemis%20Construction%20Kit",
-        "repository": "https://hk.gh-proxy.com/https://github.com/benjee10/Benjee10_Orion",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/benjee10/Benjee10_Orion/issues",
+        "repository": "https://get.2sb.org/https://github.com/benjee10/Benjee10_Orion",
+        "bugtracker": "https://get.2sb.org/https://github.com/benjee10/Benjee10_Orion/issues",
         "x_screenshot": "https://spacedock.info/content/Benjee10_2390/Artemis_Construction_Kit/Artemis_Construction_Kit-1661718611.jpg"
     },
     "tags": [
@@ -70,7 +70,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/benjee10/Benjee10_Orion/releases/download/v1.4.0/Benjee10_Orion_v1.4.0.zip",
+        "https://get.2sb.org/https://github.com/benjee10/Benjee10_Orion/releases/download/v1.4.0/Benjee10_Orion_v1.4.0.zip",
         "https://spacedock.info/mod/3098/Artemis%20Construction%20Kit/download/1.4.0"
     ],
     "download_size": 116953262,

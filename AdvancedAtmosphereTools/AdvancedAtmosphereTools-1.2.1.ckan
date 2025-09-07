@@ -10,9 +10,9 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/224649-112x-advanced-atmosphere-tools-v100/",
         "spacedock": "https://spacedock.info/mod/3597/Advanced%20Atmosphere%20Tools",
-        "repository": "https://hk.gh-proxy.com/https://github.com/CashnipLeaf/AdvancedAtmosphereTools",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/CashnipLeaf/AdvancedAtmosphereTools/issues",
-        "manual": "https://hk.gh-proxy.com/https://github.com/CashnipLeaf/AdvancedAtmosphereTools/wiki",
+        "repository": "https://get.2sb.org/https://github.com/CashnipLeaf/AdvancedAtmosphereTools",
+        "bugtracker": "https://get.2sb.org/https://github.com/CashnipLeaf/AdvancedAtmosphereTools/issues",
+        "manual": "https://get.2sb.org/https://github.com/CashnipLeaf/AdvancedAtmosphereTools/wiki",
         "x_screenshot": "https://spacedock.info/content/CashnipLeaf_131134/Modular_Climate__Weather_Systems/Modular_Climate__Weather_Systems-1714508414.png"
     },
     "tags": [
@@ -63,7 +63,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/CashnipLeaf/AdvancedAtmosphereTools/releases/download/v1.2.1/AdvancedAtmosphereTools_v1_2_1.zip",
+        "https://get.2sb.org/https://github.com/CashnipLeaf/AdvancedAtmosphereTools/releases/download/v1.2.1/AdvancedAtmosphereTools_v1_2_1.zip",
         "https://spacedock.info/mod/3597/Advanced%20Atmosphere%20Tools/download/1.2.1"
     ],
     "download_size": 48753,

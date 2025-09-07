@@ -12,8 +12,8 @@
     "license": "restricted",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/117236-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Crzyrndm/ProceduralWings",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Crzyrndm/ProceduralWings/issues"
+        "repository": "https://get.2sb.org/https://github.com/Crzyrndm/ProceduralWings",
+        "bugtracker": "https://get.2sb.org/https://github.com/Crzyrndm/ProceduralWings/issues"
     },
     "tags": [
         "plugin",
@@ -24,7 +24,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Crzyrndm/ProceduralWings/releases/download/0.12.2/GameData.zip",
+    "download": "https://get.2sb.org/https://github.com/Crzyrndm/ProceduralWings/releases/download/0.12.2/GameData.zip",
     "download_size": 1300650,
     "download_hash": {
         "sha1": "03A96F4EEB581C456D38C775818D111E05C54064",

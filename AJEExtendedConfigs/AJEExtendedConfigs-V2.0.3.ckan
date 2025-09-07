@@ -6,7 +6,7 @@
     "author": "seanyoung247",
     "license": "GPL-3.0",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/seanyoung247/AJEExtended"
+        "repository": "https://get.2sb.org/https://github.com/seanyoung247/AJEExtended"
     },
     "version": "V2.0.3",
     "depends": [
@@ -26,7 +26,7 @@
             ]
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/seanyoung247/AJEExtended/releases/download/V2.0.3/AJEExtendedV203.zip",
+    "download": "https://get.2sb.org/https://github.com/seanyoung247/AJEExtended/releases/download/V2.0.3/AJEExtendedV203.zip",
     "download_size": 428946,
     "download_hash": {
         "sha1": "4996582CA65AC3C16F5963464EFAA16F8CE98E2A",

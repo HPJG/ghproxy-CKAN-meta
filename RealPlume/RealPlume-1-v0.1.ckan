@@ -7,8 +7,8 @@
     "license": "CC-BY-NC-SA",
     "release_status": "stable",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealPlume/wiki",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealPlume"
+        "homepage": "https://get.2sb.org/https://github.com/KSP-RO/RealPlume/wiki",
+        "repository": "https://get.2sb.org/https://github.com/KSP-RO/RealPlume"
     },
     "version": "1:v0.1",
     "ksp_version_min": "1.0.2",
@@ -35,7 +35,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealPlume/releases/download/v0.1/RealPlume_v0.1a.zip",
+    "download": "https://get.2sb.org/https://github.com/KSP-RO/RealPlume/releases/download/v0.1/RealPlume_v0.1a.zip",
     "download_size": 12201272,
     "download_hash": {
         "sha1": "FCB676737FA970D15EB09E37C1EBAE5AF7B8B143",

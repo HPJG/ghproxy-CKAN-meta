@@ -12,7 +12,7 @@
     "ksp_version_max": "1.12.99",
     "license": "LGPL-3.0",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSPModStewards/B9PartSwitch",
+        "repository": "https://get.2sb.org/https://github.com/KSPModStewards/B9PartSwitch",
         "remote-avc": "https://raw.githubusercontent.com/KSPModStewards/B9PartSwitch/refs/heads/master/B9PartSwitch.version"
     },
     "tags": [
@@ -37,7 +37,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSPModStewards/B9PartSwitch/releases/download/v2.21.0/B9PartSwitch-1.12.0-2.21.0.zip",
+    "download": "https://get.2sb.org/https://github.com/KSPModStewards/B9PartSwitch/releases/download/v2.21.0/B9PartSwitch-1.12.0-2.21.0.zip",
     "download_size": 122795,
     "download_hash": {
         "sha1": "A4E1EC28FE910E5AA39615F9685915D3D4F5ABF5",

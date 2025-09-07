@@ -9,8 +9,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/164448-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Angel-125/BARIS",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Angel-125/BARIS/issues",
+        "repository": "https://get.2sb.org/https://github.com/Angel-125/BARIS",
+        "bugtracker": "https://get.2sb.org/https://github.com/Angel-125/BARIS/issues",
         "remote-avc": "https://raw.githubusercontent.com/Angel-125/BARIS/master/GameData/WildBlueIndustries/000BARIS/BARIS.version"
     },
     "tags": [
@@ -43,7 +43,7 @@
             ]
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Angel-125/BARIS/releases/download/v1.11.0/BARIS.zip",
+    "download": "https://get.2sb.org/https://github.com/Angel-125/BARIS/releases/download/v1.11.0/BARIS.zip",
     "download_size": 36722411,
     "download_hash": {
         "sha1": "65A3F48DDDE63FA9A9381DB8B5DE82920C0DE123",

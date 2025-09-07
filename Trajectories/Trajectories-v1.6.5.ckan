@@ -8,7 +8,7 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/94368-105-trajectories-v145-2015-12-05-atmospheric-predictions/",
         "spacedock": "https://spacedock.info/mod/396/Trajectories",
-        "repository": "https://hk.gh-proxy.com/https://github.com/neuoy/KSPTrajectories"
+        "repository": "https://get.2sb.org/https://github.com/neuoy/KSPTrajectories"
     },
     "version": "v1.6.5",
     "ksp_version": "1.2.0",

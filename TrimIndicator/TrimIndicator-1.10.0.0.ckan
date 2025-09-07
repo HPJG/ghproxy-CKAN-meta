@@ -10,14 +10,14 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/164522-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/formicant/TrimIndicator",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/formicant/TrimIndicator/issues"
+        "repository": "https://get.2sb.org/https://github.com/formicant/TrimIndicator",
+        "bugtracker": "https://get.2sb.org/https://github.com/formicant/TrimIndicator/issues"
     },
     "tags": [
         "plugin",
         "information"
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/formicant/TrimIndicator/releases/download/1.10.0.0/TrimIndicator-1.10.0.0.zip",
+    "download": "https://get.2sb.org/https://github.com/formicant/TrimIndicator/releases/download/1.10.0.0/TrimIndicator-1.10.0.0.zip",
     "download_size": 5244,
     "download_hash": {
         "sha1": "B31A377B01AB1AF6A9BE31B8BFA96D5FC56F371E",

@@ -11,8 +11,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/98666--",
-        "repository": "https://hk.gh-proxy.com/https://github.com/jrossignol/ContractPack-AnomalySurveyor",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/jrossignol/ContractPack-AnomalySurveyor/issues",
+        "repository": "https://get.2sb.org/https://github.com/jrossignol/ContractPack-AnomalySurveyor",
+        "bugtracker": "https://get.2sb.org/https://github.com/jrossignol/ContractPack-AnomalySurveyor/issues",
         "license": "https://raw.githubusercontent.com/jrossignol/ContractPack-AnomalySurveyor/master/GameData/ContractPacks/AnomalySurveyor/LICENSE.txt",
         "metanetkan": "https://raw.githubusercontent.com/jrossignol/ContractPack-AnomalySurveyor/master/ContractConfigurator-AnomalySurveyor.netkan"
     },
@@ -45,7 +45,7 @@
             "install_to": "GameData/ContractPacks"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/jrossignol/ContractPack-AnomalySurveyor/releases/download/1.7.1/ContractPack-AnomalySurveyor_1.7.1.zip",
+    "download": "https://get.2sb.org/https://github.com/jrossignol/ContractPack-AnomalySurveyor/releases/download/1.7.1/ContractPack-AnomalySurveyor_1.7.1.zip",
     "download_size": 434270,
     "download_hash": {
         "sha1": "764F19F9E33037576100D7902CC2EB5BB83C9CA0",

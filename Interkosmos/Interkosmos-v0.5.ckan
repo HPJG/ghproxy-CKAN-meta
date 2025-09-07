@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/185337-1125-interkosmos-05-science-parts/",
         "spacedock": "https://spacedock.info/mod/2163/Interkosmos",
-        "repository": "https://hk.gh-proxy.com/https://github.com/AstroWell/Interkosmos",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/AstroWell/Interkosmos/issues",
+        "repository": "https://get.2sb.org/https://github.com/AstroWell/Interkosmos",
+        "bugtracker": "https://get.2sb.org/https://github.com/AstroWell/Interkosmos/issues",
         "x_screenshot": "https://spacedock.info/content/Well_7448/Interkosmos/Interkosmos-1560170675.4871478.jpg"
     },
     "tags": [
@@ -28,7 +28,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/AstroWell/Interkosmos/releases/download/v0.5/Interkosmos.0.5.zip",
+        "https://get.2sb.org/https://github.com/AstroWell/Interkosmos/releases/download/v0.5/Interkosmos.0.5.zip",
         "https://spacedock.info/mod/2163/Interkosmos/download/v0.5"
     ],
     "download_size": 958259,

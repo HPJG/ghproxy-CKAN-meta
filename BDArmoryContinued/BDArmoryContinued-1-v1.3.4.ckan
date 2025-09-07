@@ -15,9 +15,9 @@
     "license": "CC-BY-SA-2.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/184167-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/PapaJoesSoup/BDArmory",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/PapaJoesSoup/BDArmory/issues",
-        "remote-avc": "https://hk.gh-proxy.com/https://github.com/PapaJoesSoup/BDArmory/raw/master/BDArmory/Distribution/GameData/BDArmory/BDArmory.version",
+        "repository": "https://get.2sb.org/https://github.com/PapaJoesSoup/BDArmory",
+        "bugtracker": "https://get.2sb.org/https://github.com/PapaJoesSoup/BDArmory/issues",
+        "remote-avc": "https://get.2sb.org/https://github.com/PapaJoesSoup/BDArmory/raw/master/BDArmory/Distribution/GameData/BDArmory/BDArmory.version",
         "x_screenshot": "https://spacedock.info/content/Papa_Joe_926/BDArmoryContinued/BDArmoryContinued-1470103192.4904277.png"
     },
     "tags": [
@@ -68,7 +68,7 @@
             "as": "SPH"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/PapaJoesSoup/BDArmory/releases/download/v1.3.4/BDArmory.1.3.4.0_04092020.zip",
+    "download": "https://get.2sb.org/https://github.com/PapaJoesSoup/BDArmory/releases/download/v1.3.4/BDArmory.1.3.4.0_04092020.zip",
     "download_size": 53033753,
     "download_hash": {
         "sha1": "8AC0E59BF5EA2C7F2084524F87315772FDF4707E",

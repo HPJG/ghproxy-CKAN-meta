@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/226008-1125-window-change-the-default-fov/",
         "spacedock": "https://spacedock.info/mod/3722/Window",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Halbann/Window",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Halbann/Window/issues",
+        "repository": "https://get.2sb.org/https://github.com/Halbann/Window",
+        "bugtracker": "https://get.2sb.org/https://github.com/Halbann/Window/issues",
         "remote-avc": "https://raw.githubusercontent.com/Halbann/Window/main/GameData/Window/Window.version",
         "x_screenshot": "https://spacedock.info/content/Halban_103632/Window/Window-1727211928.jpg"
     },
@@ -26,7 +26,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/Halbann/Window/releases/download/1.0.1/Window-1.0.1.zip",
+        "https://get.2sb.org/https://github.com/Halbann/Window/releases/download/1.0.1/Window-1.0.1.zip",
         "https://spacedock.info/mod/3722/Window/download/1.0.1"
     ],
     "download_size": 12642,

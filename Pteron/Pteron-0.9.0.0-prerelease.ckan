@@ -11,9 +11,9 @@
     "release_status": "testing",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/192742-*/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/Pteron",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/Pteron/issues",
-        "discussions": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/Pteron/discussions",
+        "repository": "https://get.2sb.org/https://github.com/zer0Kerbal/Pteron",
+        "bugtracker": "https://get.2sb.org/https://github.com/zer0Kerbal/Pteron/issues",
+        "discussions": "https://get.2sb.org/https://github.com/zer0Kerbal/Pteron/discussions",
         "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/Pteron/master/Pteron.version"
     },
     "tags": [
@@ -53,7 +53,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/Pteron/releases/download/0.9.0.0-prerelease/Pteron-0.9.0.0-prerelease.zip",
+    "download": "https://get.2sb.org/https://github.com/zer0Kerbal/Pteron/releases/download/0.9.0.0-prerelease/Pteron-0.9.0.0-prerelease.zip",
     "download_size": 1937692,
     "download_hash": {
         "sha256": "E21B59D53836D59891D8C1BF729723F8603168B8625C4FBBFE87AB2FFDF38984"

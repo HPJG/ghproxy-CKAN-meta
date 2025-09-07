@@ -12,7 +12,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/149604-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Angel-125/Snacks"
+        "repository": "https://get.2sb.org/https://github.com/Angel-125/Snacks"
     },
     "tags": [
         "plugin",
@@ -29,7 +29,7 @@
             "find": "WildBlueIndustries"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Angel-125/Snacks/releases/download/v1.25.0/Snacks_1_25_0.zip",
+    "download": "https://get.2sb.org/https://github.com/Angel-125/Snacks/releases/download/v1.25.0/Snacks_1_25_0.zip",
     "download_size": 2200840,
     "download_hash": {
         "sha1": "39C01E5A5B9BCB35FE78104B0F2526D11255A7CD",

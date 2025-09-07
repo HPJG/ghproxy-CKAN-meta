@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/226459-nirssonkermancameras-v100/",
         "spacedock": "https://spacedock.info/mod/3791/NirssonKermansCameras",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Oprissmian/NirssonKermansCameras",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Oprissmian/NirssonKermansCameras/issues"
+        "repository": "https://get.2sb.org/https://github.com/Oprissmian/NirssonKermansCameras",
+        "bugtracker": "https://get.2sb.org/https://github.com/Oprissmian/NirssonKermansCameras/issues"
     },
     "tags": [
         "parts"
@@ -26,7 +26,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/Oprissmian/NirssonKermansCameras/releases/download/v1.0.1/NKMPS-1.0.1.zip",
+        "https://get.2sb.org/https://github.com/Oprissmian/NirssonKermansCameras/releases/download/v1.0.1/NKMPS-1.0.1.zip",
         "https://spacedock.info/mod/3791/NirssonKermansCameras/download/1.0.1"
     ],
     "download_size": 136865,

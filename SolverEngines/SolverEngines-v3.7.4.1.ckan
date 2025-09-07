@@ -21,7 +21,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/110746-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/SolverEngines"
+        "repository": "https://get.2sb.org/https://github.com/KSP-RO/SolverEngines"
     },
     "tags": [
         "plugin",
@@ -37,7 +37,7 @@
             ]
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/SolverEngines/releases/download/v3.7.4.1/SolverEngines_v3.7.4.1.zip",
+    "download": "https://get.2sb.org/https://github.com/KSP-RO/SolverEngines/releases/download/v3.7.4.1/SolverEngines_v3.7.4.1.zip",
     "download_size": 39724,
     "download_hash": {
         "sha1": "7A9004FC5DCD2EC72816A865F710F1A784E68A70",

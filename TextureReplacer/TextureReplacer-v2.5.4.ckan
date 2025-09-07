@@ -11,11 +11,11 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/107471",
-        "repository": "https://hk.gh-proxy.com/https://github.com/RangeMachine/TextureReplacer"
+        "repository": "https://get.2sb.org/https://github.com/RangeMachine/TextureReplacer"
     },
     "version": "v2.5.4",
     "ksp_version": "1.2.2",
-    "download": "https://hk.gh-proxy.com/https://github.com/RangeMachine/TextureReplacer/releases/download/v2.5.4/TextureReplacer.zip",
+    "download": "https://get.2sb.org/https://github.com/RangeMachine/TextureReplacer/releases/download/v2.5.4/TextureReplacer.zip",
     "download_size": 49665,
     "download_hash": {
         "sha1": "BD1E32FE8D4C9C4368F8166A46223A49E97F2341",

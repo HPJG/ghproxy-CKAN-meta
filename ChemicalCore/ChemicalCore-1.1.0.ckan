@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/227705-112x-chemical-technologies-a-chemically-based-resource-overhaul/",
         "spacedock": "https://spacedock.info/mod/3865/Chemical%20Core",
-        "repository": "https://hk.gh-proxy.com/https://github.com/CharleRoger/ChemicalCore",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/CharleRoger/ChemicalCore/issues",
+        "repository": "https://get.2sb.org/https://github.com/CharleRoger/ChemicalCore",
+        "bugtracker": "https://get.2sb.org/https://github.com/CharleRoger/ChemicalCore/issues",
         "remote-avc": "https://raw.githubusercontent.com/CharleRoger/ChemicalCore/main/GameData/ChemicalCore/Versioning/ChemicalCore.version"
     },
     "tags": [
@@ -37,7 +37,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/CharleRoger/ChemicalCore/releases/download/1.1.0/ChemicalCore-1.1.0.zip",
+        "https://get.2sb.org/https://github.com/CharleRoger/ChemicalCore/releases/download/1.1.0/ChemicalCore-1.1.0.zip",
         "https://spacedock.info/mod/3865/Chemical%20Core/download/1.1.0"
     ],
     "download_size": 350089,

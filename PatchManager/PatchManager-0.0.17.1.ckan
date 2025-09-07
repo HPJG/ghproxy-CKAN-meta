@@ -9,8 +9,8 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/163072-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/PatchManager",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/PatchManager/issues"
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/PatchManager",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/PatchManager/issues"
     },
     "tags": [
         "plugin",
@@ -39,7 +39,7 @@
             "find": "PatchManager"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/PatchManager/releases/download/0.0.17.1/PatchManager-1.8.0-0.0.17.1.zip",
+    "download": "https://get.2sb.org/https://github.com/linuxgurugamer/PatchManager/releases/download/0.0.17.1/PatchManager-1.8.0-0.0.17.1.zip",
     "download_size": 53320,
     "download_hash": {
         "sha1": "30CEF8D7C9B4473C0B3FC9863DACD7B2151C66FF",

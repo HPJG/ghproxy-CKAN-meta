@@ -6,12 +6,12 @@
     "author": "severedsolo",
     "license": "MIT",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/severedsolo/EarnYourStripes",
-        "repository": "https://hk.gh-proxy.com/https://github.com/severedsolo/EarnYourStripes"
+        "homepage": "https://get.2sb.org/https://github.com/severedsolo/EarnYourStripes",
+        "repository": "https://get.2sb.org/https://github.com/severedsolo/EarnYourStripes"
     },
     "version": "1.4.0",
     "ksp_version": "1.4.1",
-    "download": "https://hk.gh-proxy.com/https://github.com/severedsolo/EarnYourStripes/releases/download/1.4.0/EarnYourStipes1.4.0.zip",
+    "download": "https://get.2sb.org/https://github.com/severedsolo/EarnYourStripes/releases/download/1.4.0/EarnYourStipes1.4.0.zip",
     "download_size": 8262,
     "download_hash": {
         "sha1": "3121E95DDB31029E90BDCA47F0B1EEAFA7C218CE",

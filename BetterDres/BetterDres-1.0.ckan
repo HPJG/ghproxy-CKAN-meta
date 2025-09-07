@@ -8,8 +8,8 @@
     "license": "restricted",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/228146-112x-proximas-better-dres-v10/#comment-4467641",
-        "repository": "https://hk.gh-proxy.com/https://github.com/ProximaCentauri-star/Proxima-s-Better-Dres",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/ProximaCentauri-star/Proxima-s-Better-Dres/issues"
+        "repository": "https://get.2sb.org/https://github.com/ProximaCentauri-star/Proxima-s-Better-Dres",
+        "bugtracker": "https://get.2sb.org/https://github.com/ProximaCentauri-star/Proxima-s-Better-Dres/issues"
     },
     "tags": [
         "planet-pack",
@@ -31,7 +31,7 @@
             "name": "CelestialHarmony"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/ProximaCentauri-star/Proxima-s-Better-Dres/releases/download/1.0/BetterDres-1.0.zip",
+    "download": "https://get.2sb.org/https://github.com/ProximaCentauri-star/Proxima-s-Better-Dres/releases/download/1.0/BetterDres-1.0.zip",
     "download_size": 70376419,
     "download_hash": {
         "sha1": "53511F9C8F5AA8D7E63271A984D60A07A4775B99",

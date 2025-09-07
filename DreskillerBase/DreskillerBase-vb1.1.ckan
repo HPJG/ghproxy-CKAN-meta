@@ -8,8 +8,8 @@
     "license": "CC-BY-NC-ND-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/199396-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/RJVB09/Dreskiller-Base",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/RJVB09/Dreskiller-Base/issues"
+        "repository": "https://get.2sb.org/https://github.com/RJVB09/Dreskiller-Base",
+        "bugtracker": "https://get.2sb.org/https://github.com/RJVB09/Dreskiller-Base/issues"
     },
     "tags": [
         "planet-pack"
@@ -63,7 +63,7 @@
             ]
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/RJVB09/Dreskiller-Base/releases/download/vb1.1/Dreskiller.Base.vb1.1.zip",
+    "download": "https://get.2sb.org/https://github.com/RJVB09/Dreskiller-Base/releases/download/vb1.1/Dreskiller.Base.vb1.1.zip",
     "download_size": 330702311,
     "download_hash": {
         "sha1": "2A0448E71098646B0556CB8EF2D1D86BF5D87BE4",

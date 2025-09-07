@@ -10,9 +10,9 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/209148-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/yalov/DeployableInventory",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/yalov/DeployableInventory/issues",
-        "discussions": "https://hk.gh-proxy.com/https://github.com/yalov/DeployableInventory/discussions",
+        "repository": "https://get.2sb.org/https://github.com/yalov/DeployableInventory",
+        "bugtracker": "https://get.2sb.org/https://github.com/yalov/DeployableInventory/issues",
+        "discussions": "https://get.2sb.org/https://github.com/yalov/DeployableInventory/discussions",
         "remote-avc": "https://raw.githubusercontent.com/yalov/DeployableInventory/master/DeployableInventory.version"
     },
     "tags": [
@@ -36,7 +36,7 @@
             "name": "KSP-PartVolume"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/yalov/DeployableInventory/releases/download/0.9.5/DeployableInventory-v0.9.5.zip",
+    "download": "https://get.2sb.org/https://github.com/yalov/DeployableInventory/releases/download/0.9.5/DeployableInventory-v0.9.5.zip",
     "download_size": 486102,
     "download_hash": {
         "sha1": "13AEFC280E0A2C727E832F3F0BD86D3F204F5983",

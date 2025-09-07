@@ -8,7 +8,7 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/151470-121-image-viewer-continued/",
         "spacedock": "https://spacedock.info/mod/1037/Image%20Viewer%20Continued",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ksp-img_viewer"
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/ksp-img_viewer"
     },
     "version": "0.0.3",
     "ksp_version_min": "1.2.0",

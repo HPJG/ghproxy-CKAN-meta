@@ -8,10 +8,10 @@
     "ksp_version": "1.12.5",
     "license": "MIT",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/atmosphericbeats/atmosphericbeats_eveconfig_ksrss",
+        "homepage": "https://get.2sb.org/https://github.com/atmosphericbeats/atmosphericbeats_eveconfig_ksrss",
         "spacedock": "https://spacedock.info/mod/3343/AtmosphericBeats%20KSRSS%20config%20for%20EVE%20Volumetrics%20",
-        "repository": "https://hk.gh-proxy.com/https://github.com/atmosphericbeats/atmosphericbeats_eveconfig_ksrss",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/atmosphericbeats/atmosphericbeats_eveconfig_ksrss/issues",
+        "repository": "https://get.2sb.org/https://github.com/atmosphericbeats/atmosphericbeats_eveconfig_ksrss",
+        "bugtracker": "https://get.2sb.org/https://github.com/atmosphericbeats/atmosphericbeats_eveconfig_ksrss/issues",
         "x_screenshot": "https://spacedock.info/content/AtmosphericBeats_107561/AtmosphericBeats_KSRSS_config_for_EVE_Volumetrics/AtmosphericBeats_KSRSS_config_for_EVE_Volumetrics-1704882303.png"
     },
     "tags": [
@@ -30,7 +30,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/atmosphericbeats/atmosphericbeats_eveconfig_ksrss/releases/download/v2.0/atmosphericbeats_ksrss_v2_evev4.zip",
+        "https://get.2sb.org/https://github.com/atmosphericbeats/atmosphericbeats_eveconfig_ksrss/releases/download/v2.0/atmosphericbeats_ksrss_v2_evev4.zip",
         "https://spacedock.info/mod/3343/AtmosphericBeats%20KSRSS%20config%20for%20EVE%20Volumetrics%20/download/2.0"
     ],
     "download_size": 11471,

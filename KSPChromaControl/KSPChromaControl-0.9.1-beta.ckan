@@ -6,12 +6,12 @@
     "author": "cguckes",
     "license": "GPL-3.0",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/cguckes/ksp-chroma",
-        "repository": "https://hk.gh-proxy.com/https://github.com/cguckes/ksp-chroma"
+        "homepage": "https://get.2sb.org/https://github.com/cguckes/ksp-chroma",
+        "repository": "https://get.2sb.org/https://github.com/cguckes/ksp-chroma"
     },
     "version": "0.9.1-beta",
     "ksp_version": "1.1.0",
-    "download": "https://hk.gh-proxy.com/https://github.com/cguckes/ksp-chroma/releases/download/0.9.1-beta/KSPChromaControl.zip",
+    "download": "https://get.2sb.org/https://github.com/cguckes/ksp-chroma/releases/download/0.9.1-beta/KSPChromaControl.zip",
     "download_size": 47536,
     "download_hash": {
         "sha1": "3F0472E11E1D183027871E4954FA1C26A1D6CF41",

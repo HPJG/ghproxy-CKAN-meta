@@ -10,8 +10,8 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/197141-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/ValiZockt/SmartDockingAid",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/ValiZockt/SmartDockingAid/issues"
+        "repository": "https://get.2sb.org/https://github.com/ValiZockt/SmartDockingAid",
+        "bugtracker": "https://get.2sb.org/https://github.com/ValiZockt/SmartDockingAid/issues"
     },
     "tags": [
         "plugin",
@@ -22,7 +22,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/ValiZockt/SmartDockingAid/releases/download/v1.0.0/SmartDockingAid-v1.0.0.zip",
+    "download": "https://get.2sb.org/https://github.com/ValiZockt/SmartDockingAid/releases/download/v1.0.0/SmartDockingAid-v1.0.0.zip",
     "download_size": 11698,
     "download_hash": {
         "sha1": "D02FF5D5FC04EAFEA57DD36DDD766600FAB1EA0F",

@@ -1,6 +1,6 @@
 {
     "spec_version": 1,
-    "comment": "abstract source: https://hk.gh-proxy.com/https://github.com/OakTree42/KSI-Hiring/blob/master/ReadME.txt",
+    "comment": "abstract source: https://get.2sb.org/https://github.com/OakTree42/KSI-Hiring/blob/master/ReadME.txt",
     "identifier": "KSIPlacementServices",
     "name": "KSI - Placement Services",
     "abstract": "This mod overwrites part of the Astronaut Complex with a new hiring platform. This mod is BETA at best.",
@@ -9,7 +9,7 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/123707-1-0-2-KSI-Astronaut-Complex-Overhaul",
         "kerbalstuff": "https://kerbalstuff.com/mod/871/KSI%20-%20Placement%20Services",
-        "repository": "https://hk.gh-proxy.com/https://github.com/OakTree42/KSI-Hiring",
+        "repository": "https://get.2sb.org/https://github.com/OakTree42/KSI-Hiring",
         "x_screenshot": "https://kerbalstuff.com/content/OakTree42_11113/KSI_-_Placement_Services/KSI_-_Placement_Services-1433178342.3902013.jpg"
     },
     "version": "0.1.7",

@@ -8,7 +8,7 @@
     "ksp_version": "1.4",
     "license": "MIT",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/malkuth1974/KustomKerbals"
+        "repository": "https://get.2sb.org/https://github.com/malkuth1974/KustomKerbals"
     },
     "tags": [
         "plugin",
@@ -21,7 +21,7 @@
             "filter": ".DS_Store"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/malkuth1974/KustomKerbals/releases/download/1.0.0/KustomKerbals.zip",
+    "download": "https://get.2sb.org/https://github.com/malkuth1974/KustomKerbals/releases/download/1.0.0/KustomKerbals.zip",
     "download_size": 12224,
     "download_hash": {
         "sha1": "C625B3B3B27F2498DD34CDDCC6EC4018A6FFBA66",

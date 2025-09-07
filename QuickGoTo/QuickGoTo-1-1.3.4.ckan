@@ -11,7 +11,7 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/85834-1",
         "spacedock": "https://spacedock.info/mod/102/QuickGoTo",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/QuickMods"
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/QuickMods"
     },
     "version": "1:1.3.4",
     "ksp_version_min": "1.4.1",

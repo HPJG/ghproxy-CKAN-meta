@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/95022",
-        "repository": "https://hk.gh-proxy.com/https://github.com/AlexanderDzhoganov/ksp-advanced-flybywire",
+        "repository": "https://get.2sb.org/https://github.com/AlexanderDzhoganov/ksp-advanced-flybywire",
         "kerbalstuff": "https://kerbalstuff.com/mod/232/Advanced%20Fly-By-Wire"
     },
     "version": "1.4.2",
@@ -29,7 +29,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/AlexanderDzhoganov/ksp-advanced-flybywire/raw/master/builds/ksp-advanced-flybywire_v1.4.2_linux.zip",
+    "download": "https://get.2sb.org/https://github.com/AlexanderDzhoganov/ksp-advanced-flybywire/raw/master/builds/ksp-advanced-flybywire_v1.4.2_linux.zip",
     "download_size": 845436,
     "download_hash": {
         "sha1": "0E025D2A63EE56E39A24AC02E4286CBA7B5AB9C6",

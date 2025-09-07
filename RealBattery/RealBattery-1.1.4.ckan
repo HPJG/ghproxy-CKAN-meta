@@ -7,7 +7,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/151164-121-real-battery-v114/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/blackliner/RealBattery"
+        "repository": "https://get.2sb.org/https://github.com/blackliner/RealBattery"
     },
     "version": "1.1.4",
     "ksp_version": "1.2.1",
@@ -19,7 +19,7 @@
             "name": "CommunityResourcePack"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/blackliner/RealBattery/releases/download/1.1.4/RealBattery.zip",
+    "download": "https://get.2sb.org/https://github.com/blackliner/RealBattery/releases/download/1.1.4/RealBattery.zip",
     "download_size": 7979,
     "download_hash": {
         "sha1": "D80CAED8C3239021D20F85F71A3C6C241E7706A8",

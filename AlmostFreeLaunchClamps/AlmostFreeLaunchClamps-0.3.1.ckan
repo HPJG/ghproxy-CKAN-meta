@@ -13,8 +13,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/209241-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/yalov/FreeLaunchClamps",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/yalov/FreeLaunchClamps/issues",
+        "repository": "https://get.2sb.org/https://github.com/yalov/FreeLaunchClamps",
+        "bugtracker": "https://get.2sb.org/https://github.com/yalov/FreeLaunchClamps/issues",
         "remote-avc": "https://raw.githubusercontent.com/yalov/FreeLaunchClamps/master/FreeLaunchClamps.version"
     },
     "tags": [
@@ -54,7 +54,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/yalov/FreeLaunchClamps/releases/download/0.3.1/FreeLaunchClamps-v0.3.1.zip",
+    "download": "https://get.2sb.org/https://github.com/yalov/FreeLaunchClamps/releases/download/0.3.1/FreeLaunchClamps-v0.3.1.zip",
     "download_size": 65531,
     "download_hash": {
         "sha1": "B1460B603F85E4D65EFB2738C8A1A70D1935061B",

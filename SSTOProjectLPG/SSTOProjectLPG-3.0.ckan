@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://spacedock.info/mod/2417/SSTO%2520Project",
         "spacedock": "https://spacedock.info/mod/3022/Ultimate%20Part%20Converter%20(formerly%20SSTO%20Project%20LPG)",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Monniasza/SSTO-Project",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Monniasza/SSTO-Project/issues"
+        "repository": "https://get.2sb.org/https://github.com/Monniasza/SSTO-Project",
+        "bugtracker": "https://get.2sb.org/https://github.com/Monniasza/SSTO-Project/issues"
     },
     "tags": [
         "config"

@@ -7,7 +7,7 @@
     "license": "CC-BY-NC-4.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/133545-10x-kerbin-side-gap/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Keniamin/KerbinSideGAP"
+        "repository": "https://get.2sb.org/https://github.com/Keniamin/KerbinSideGAP"
     },
     "version": "2.2",
     "depends": [
@@ -39,7 +39,7 @@
             "install_to": "GameData/KerbalScienceFoundation/NavInstruments/Runways"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Keniamin/KerbinSideGAP/releases/download/2.2/KerbinSideGAP-2.2.zip",
+    "download": "https://get.2sb.org/https://github.com/Keniamin/KerbinSideGAP/releases/download/2.2/KerbinSideGAP-2.2.zip",
     "download_size": 169880,
     "download_hash": {
         "sha1": "C3D7D6941671C9786818FD247752A87C56763C3D",

@@ -7,7 +7,7 @@
     "license": "CC-BY-NC-ND",
     "release_status": "stable",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/Galileo88/Better-Looking-Oceans"
+        "repository": "https://get.2sb.org/https://github.com/Galileo88/Better-Looking-Oceans"
     },
     "version": "1.2",
     "ksp_version": "1.3.1",
@@ -30,7 +30,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Galileo88/Better-Looking-Oceans/releases/download/1.2/BLO_Med.zip",
+    "download": "https://get.2sb.org/https://github.com/Galileo88/Better-Looking-Oceans/releases/download/1.2/BLO_Med.zip",
     "download_size": 5273700,
     "download_hash": {
         "sha1": "6D74D9BC327840F165A1B9CFC6D46C0B9E90B8FB",

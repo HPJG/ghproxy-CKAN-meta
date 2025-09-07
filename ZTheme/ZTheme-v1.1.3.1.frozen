@@ -8,11 +8,11 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/217396-ztheme/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/zapSNH/ZTheme",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/zapSNH/ZTheme/issues",
-        "discussions": "https://hk.gh-proxy.com/https://github.com/zapSNH/ZTheme/discussions"
+        "repository": "https://get.2sb.org/https://github.com/zapSNH/ZTheme",
+        "bugtracker": "https://get.2sb.org/https://github.com/zapSNH/ZTheme/issues",
+        "discussions": "https://get.2sb.org/https://github.com/zapSNH/ZTheme/discussions"
     },
-    "download": "https://hk.gh-proxy.com/https://github.com/zapSNH/ZTheme/releases/download/v1.1.3.1/ZTheme-v113-1.zip",
+    "download": "https://get.2sb.org/https://github.com/zapSNH/ZTheme/releases/download/v1.1.3.1/ZTheme-v113-1.zip",
     "download_size": 1844475,
     "download_hash": {
         "sha1": "4B55AD78E49C6395CA9451B76686917D566B7BDF",

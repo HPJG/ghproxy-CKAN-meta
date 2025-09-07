@@ -12,9 +12,9 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/138848-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Aelfhe1m/Historian-Expanded",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Aelfhe1m/Historian-Expanded/issues",
-        "remote-avc": "https://hk.gh-proxy.com/https://github.com/Aelfhe1m/Historian-Expanded/raw/master/GameData/Historian/Historian.version"
+        "repository": "https://get.2sb.org/https://github.com/Aelfhe1m/Historian-Expanded",
+        "bugtracker": "https://get.2sb.org/https://github.com/Aelfhe1m/Historian-Expanded/issues",
+        "remote-avc": "https://get.2sb.org/https://github.com/Aelfhe1m/Historian-Expanded/raw/master/GameData/Historian/Historian.version"
     },
     "tags": [
         "plugin"
@@ -37,7 +37,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Aelfhe1m/Historian-Expanded/releases/download/1.8.0/Historian-1.8.0.zip",
+    "download": "https://get.2sb.org/https://github.com/Aelfhe1m/Historian-Expanded/releases/download/1.8.0/Historian-1.8.0.zip",
     "download_size": 63165,
     "download_hash": {
         "sha1": "79B5C2140D0C02713064DBE0E974643776FCB0E0",

@@ -11,10 +11,10 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/192360-*/",
         "spacedock": "https://spacedock.info/mod/2364/OhScrap!%20(OHS)%20by%20severedsolo",
-        "repository": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/OhScrap",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/OhScrap/issues",
-        "discussions": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/OhScrap/discussions",
-        "remote-avc": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/OhScrap/raw/master/OhScrap.version",
+        "repository": "https://get.2sb.org/https://github.com/zer0Kerbal/OhScrap",
+        "bugtracker": "https://get.2sb.org/https://github.com/zer0Kerbal/OhScrap/issues",
+        "discussions": "https://get.2sb.org/https://github.com/zer0Kerbal/OhScrap/discussions",
+        "remote-avc": "https://get.2sb.org/https://github.com/zer0Kerbal/OhScrap/raw/master/OhScrap.version",
         "x_screenshot": "https://spacedock.info/content/zer0Kerbal_21147/OhScrap_OHS_by_severedsolo/OhScrap_OHS_by_severedsolo-1672293811.png"
     },
     "tags": [

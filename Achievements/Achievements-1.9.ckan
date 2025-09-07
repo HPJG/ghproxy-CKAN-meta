@@ -7,7 +7,7 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/101801-Achievements-1-7-0-Earn-145-achievements-while-playing-(KSP-25)-(12-2-14)",
-        "repository": "https://hk.gh-proxy.com/https://github.com/malkuth1974/Achievements"
+        "repository": "https://get.2sb.org/https://github.com/malkuth1974/Achievements"
     },
     "version": "1.9",
     "ksp_version": "1.1.0",
@@ -17,7 +17,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/malkuth1974/Achievements/releases/download/1.9/KSPAchievements.zip",
+    "download": "https://get.2sb.org/https://github.com/malkuth1974/Achievements/releases/download/1.9/KSPAchievements.zip",
     "download_size": 621048,
     "download_hash": {
         "sha1": "7DA4E8801686936D2114401FB2617215CAC726CC",

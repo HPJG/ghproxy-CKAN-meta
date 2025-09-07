@@ -8,8 +8,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/89055",
-        "repository": "https://hk.gh-proxy.com/https://github.com/cwc/kTunes",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/cwc/kTunes/issues",
+        "repository": "https://get.2sb.org/https://github.com/cwc/kTunes",
+        "bugtracker": "https://get.2sb.org/https://github.com/cwc/kTunes/issues",
         "curse": "http://www.curse.com/ksp-mods/kerbal/222945-ktunes"
     },
     "version": "1.2",

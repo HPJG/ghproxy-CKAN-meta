@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/227614-1125smart-vessel-renamer-110-fully-customizable-and-automatic-smart-vessel-renamer-no-more-vessels-with-the-same-name-09-april-2025/",
         "spacedock": "https://spacedock.info/mod/3857/Smart%20Vessel%20Renamer",
-        "repository": "https://hk.gh-proxy.com/https://github.com/matteo-passeri/KSP-1.12.5-MOD___Smart-Vessel-Renamer",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/matteo-passeri/KSP-1.12.5-MOD___Smart-Vessel-Renamer/issues",
+        "repository": "https://get.2sb.org/https://github.com/matteo-passeri/KSP-1.12.5-MOD___Smart-Vessel-Renamer",
+        "bugtracker": "https://get.2sb.org/https://github.com/matteo-passeri/KSP-1.12.5-MOD___Smart-Vessel-Renamer/issues",
         "x_screenshot": "https://spacedock.info/content/sparrow84_156124/Auto_Vessel_Renamer/Auto_Vessel_Renamer-1744201486.png"
     },
     "tags": [
@@ -31,7 +31,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/matteo-passeri/KSP-1.12.5-MOD___Smart-Vessel-Renamer/releases/download/1.1.1/SmartVesselRenamer-1.1.1.zip",
+        "https://get.2sb.org/https://github.com/matteo-passeri/KSP-1.12.5-MOD___Smart-Vessel-Renamer/releases/download/1.1.1/SmartVesselRenamer-1.1.1.zip",
         "https://spacedock.info/mod/3857/Smart%20Vessel%20Renamer/download/1.1.1"
     ],
     "download_size": 27687,

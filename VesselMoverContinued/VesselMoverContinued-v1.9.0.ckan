@@ -14,8 +14,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/183963-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/jrodrigv/VesselMover",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/jrodrigv/VesselMover/issues"
+        "repository": "https://get.2sb.org/https://github.com/jrodrigv/VesselMover",
+        "bugtracker": "https://get.2sb.org/https://github.com/jrodrigv/VesselMover/issues"
     },
     "tags": [
         "plugin",
@@ -40,7 +40,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/jrodrigv/VesselMover/releases/download/v1.9.0/VesselMover.1.9.0.0_02172020.zip",
+    "download": "https://get.2sb.org/https://github.com/jrodrigv/VesselMover/releases/download/v1.9.0/VesselMover.1.9.0.0_02172020.zip",
     "download_size": 94208,
     "download_hash": {
         "sha1": "22C0F5E7B06B6B6C80478E4826187476FAC862DE",

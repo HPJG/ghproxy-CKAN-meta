@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/212128-112x-psi-wedge-094-apr-07-2023/",
         "spacedock": "https://spacedock.info/mod/3567/Psi%20Wedge",
-        "repository": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/PsiWedge",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/PsiWedge/issues",
+        "repository": "https://get.2sb.org/https://github.com/JadeOfMaar/PsiWedge",
+        "bugtracker": "https://get.2sb.org/https://github.com/JadeOfMaar/PsiWedge/issues",
         "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/PsiWedge/main/GameData/PsiWedge/Version/PsiWedge.version",
         "x_screenshot": "https://spacedock.info/content/JadeOfMaar_11026/Psi_Wedge/Psi_Wedge-1708618497.png"
     },
@@ -63,7 +63,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/PsiWedge/releases/download/0.9.5.1/PsiWedge-0.9.5.1.zip",
+        "https://get.2sb.org/https://github.com/JadeOfMaar/PsiWedge/releases/download/0.9.5.1/PsiWedge-0.9.5.1.zip",
         "https://spacedock.info/mod/3567/Psi%20Wedge/download/0.9.5.1"
     ],
     "download_size": 4039853,

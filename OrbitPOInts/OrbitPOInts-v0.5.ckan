@@ -9,10 +9,10 @@
     "ksp_version_max": "1.12.99",
     "license": "BSD-3-clause",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/StrikeForceZero/KSP-OrbitPOInts",
+        "homepage": "https://get.2sb.org/https://github.com/StrikeForceZero/KSP-OrbitPOInts",
         "spacedock": "https://spacedock.info/mod/3466/OrbitPOInts",
-        "repository": "https://hk.gh-proxy.com/https://github.com/StrikeForceZero/KSP-OrbitPOInts",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/StrikeForceZero/KSP-OrbitPOInts/issues",
+        "repository": "https://get.2sb.org/https://github.com/StrikeForceZero/KSP-OrbitPOInts",
+        "bugtracker": "https://get.2sb.org/https://github.com/StrikeForceZero/KSP-OrbitPOInts/issues",
         "remote-avc": "https://raw.githubusercontent.com:443/StrikeForceZero/KSP-OrbitPOInts/master/GameData/OrbitPOInts/OrbitPOInts.version",
         "x_screenshot": "https://spacedock.info/content/StrikeForceZero_123285/OrbitPOInts/OrbitPOInts-1695268142.png"
     },

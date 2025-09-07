@@ -7,7 +7,7 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/141697-laserdist-a-distance-measuring-laser-part-for-kos/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Dunbaratu/LaserDist"
+        "repository": "https://get.2sb.org/https://github.com/Dunbaratu/LaserDist"
     },
     "version": "v1.0.0",
     "ksp_version": "1.2.2",
@@ -18,7 +18,7 @@
             "comment": "LaserDist was intended to give distance data to kOS scripts."
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Dunbaratu/LaserDist/releases/download/v1.0.0/LaserDist.zip",
+    "download": "https://get.2sb.org/https://github.com/Dunbaratu/LaserDist/releases/download/v1.0.0/LaserDist.zip",
     "download_size": 104034,
     "download_hash": {
         "sha1": "F564DFB2D8C1735D84ADD84B7CE644CCA181A4A7",

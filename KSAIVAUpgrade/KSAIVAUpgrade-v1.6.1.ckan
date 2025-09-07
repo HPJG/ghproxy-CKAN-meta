@@ -13,9 +13,9 @@
     "license": "CC-BY-SA-2.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/208598-ksa-iva-upgrade-adopted-mk1-stock-parts/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/JonnyOThan/KSA-IVA-Upgrade",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/JonnyOThan/KSA-IVA-Upgrade/issues",
-        "license": "https://hk.gh-proxy.com/https://github.com/JonnyOThan/KSA-IVA-Upgrade/blob/main/LICENSE",
+        "repository": "https://get.2sb.org/https://github.com/JonnyOThan/KSA-IVA-Upgrade",
+        "bugtracker": "https://get.2sb.org/https://github.com/JonnyOThan/KSA-IVA-Upgrade/issues",
+        "license": "https://get.2sb.org/https://github.com/JonnyOThan/KSA-IVA-Upgrade/blob/main/LICENSE",
         "remote-avc": "https://raw.githubusercontent.com/JonnyOThan/KSA-IVA-Upgrade/main/GameData/KSA/IVAUpgrade/KSA_IVAUpgrade.version",
         "x_screenshot": "https://i.imgur.com/MkfyOsO.png"
     },
@@ -63,7 +63,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/JonnyOThan/KSA-IVA-Upgrade/releases/download/v1.6.1/KSA-IVA-Upgrade-v1.6.1.zip",
+    "download": "https://get.2sb.org/https://github.com/JonnyOThan/KSA-IVA-Upgrade/releases/download/v1.6.1/KSA-IVA-Upgrade-v1.6.1.zip",
     "download_size": 39420,
     "download_hash": {
         "sha1": "F099AAD80C082BE5619E09BFE0CA23F6151967A3",

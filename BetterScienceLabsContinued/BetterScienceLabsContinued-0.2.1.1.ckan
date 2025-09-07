@@ -12,8 +12,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/112754-*",
         "spacedock": "https://spacedock.info/mod/45/Better%20Science%20Labs%20Continued",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/BetterScienceLabsContinued",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/BetterScienceLabsContinued/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/BetterScienceLabsContinued",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/BetterScienceLabsContinued/issues",
         "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/BetterScienceLabsContinued/refs/heads/master/BetterScienceLabsContinued.version"
     },
     "tags": [
@@ -42,7 +42,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/BetterScienceLabsContinued/releases/download/0.2.1.1/BetterScienceLabsContinued-1.12.0-0.2.1.1.zip",
+    "download": "https://get.2sb.org/https://github.com/linuxgurugamer/BetterScienceLabsContinued/releases/download/0.2.1.1/BetterScienceLabsContinued-1.12.0-0.2.1.1.zip",
     "download_size": 2207339,
     "download_hash": {
         "sha1": "1D576A514701C93C1A4671CF83EA99243D2000A2",

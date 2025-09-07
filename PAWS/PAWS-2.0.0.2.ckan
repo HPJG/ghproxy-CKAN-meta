@@ -10,8 +10,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/163711-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/severedsolo/PAWS",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/severedsolo/PAWS/issues",
+        "repository": "https://get.2sb.org/https://github.com/severedsolo/PAWS",
+        "bugtracker": "https://get.2sb.org/https://github.com/severedsolo/PAWS/issues",
         "remote-avc": "https://raw.githubusercontent.com:443/severedsolo/PAWS/master/bin/Release/GameData/PAWS/PAWS.version"
     },
     "tags": [
@@ -22,7 +22,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/severedsolo/PAWS/releases/download/2.0.0.2/PAWS.zip",
+    "download": "https://get.2sb.org/https://github.com/severedsolo/PAWS/releases/download/2.0.0.2/PAWS.zip",
     "download_size": 8587,
     "download_hash": {
         "sha1": "0879D5AACC254516668526BA826BE8CDB98F51F0",

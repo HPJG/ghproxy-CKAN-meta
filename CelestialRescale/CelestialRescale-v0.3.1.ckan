@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/223641-ksp-1125-celestial-rescale-v013-rescale-the-stock-system/",
         "spacedock": "https://spacedock.info/mod/3559/Celestial%20Rescale",
-        "repository": "https://hk.gh-proxy.com/https://github.com/SpaceNerd24/Celestial-Rescale",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/SpaceNerd24/Celestial-Rescale/issues",
+        "repository": "https://get.2sb.org/https://github.com/SpaceNerd24/Celestial-Rescale",
+        "bugtracker": "https://get.2sb.org/https://github.com/SpaceNerd24/Celestial-Rescale/issues",
         "x_screenshot": "https://spacedock.info/content/SpaceNerd032_119195/Celestial_Rescale/Celestial_Rescale-1707771971.png"
     },
     "tags": [
@@ -25,7 +25,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/SpaceNerd24/Celestial-Rescale/releases/download/v0.3.1/CelestialRescale-v0.3.1.zip",
+        "https://get.2sb.org/https://github.com/SpaceNerd24/Celestial-Rescale/releases/download/v0.3.1/CelestialRescale-v0.3.1.zip",
         "https://spacedock.info/mod/3559/Celestial%20Rescale/download/v0.3.1"
     ],
     "download_size": 12238,

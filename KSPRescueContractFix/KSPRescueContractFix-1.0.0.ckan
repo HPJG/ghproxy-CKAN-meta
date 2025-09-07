@@ -11,7 +11,7 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/199680-111x-ksp-rescue-contract-fix-v100-2021-01-17/",
         "spacedock": "https://spacedock.info/mod/2622/KSP%20Rescue%20Contract%20Fix",
-        "repository": "https://hk.gh-proxy.com/https://github.com/storance/KSPRescueContractFix",
+        "repository": "https://get.2sb.org/https://github.com/storance/KSPRescueContractFix",
         "remote-avc": "https://raw.githubusercontent.com/storance/KSPRescueContractFix/master/GameData/KSPRescueContractFix/KSPRescueContractFix.version"
     },
     "tags": [

@@ -13,7 +13,7 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/105821-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Mihara/RasterPropMonitor"
+        "repository": "https://get.2sb.org/https://github.com/Mihara/RasterPropMonitor"
     },
     "tags": [
         "config",
@@ -47,7 +47,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Mihara/RasterPropMonitor/releases/download/v0.30.6/RasterPropMonitor.0.30.6.zip",
+    "download": "https://get.2sb.org/https://github.com/Mihara/RasterPropMonitor/releases/download/v0.30.6/RasterPropMonitor.0.30.6.zip",
     "download_size": 1531244,
     "download_hash": {
         "sha1": "DEF48F6FC3EC22B52C05549F8665316264C3010A",

@@ -6,8 +6,8 @@
     "author": "ChrisAdderley",
     "license": "MIT",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/ChrisAdderley/CryoTanks/wiki",
-        "repository": "https://hk.gh-proxy.com/https://github.com/ChrisAdderley/CryoTanks"
+        "homepage": "https://get.2sb.org/https://github.com/ChrisAdderley/CryoTanks/wiki",
+        "repository": "https://get.2sb.org/https://github.com/ChrisAdderley/CryoTanks"
     },
     "version": "1.1.4",
     "ksp_version_min": "1.7.0",
@@ -23,7 +23,7 @@
             "install_to": "GameData/CryoTanks/Plugins"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/ChrisAdderley/CryoTanks/releases/download/1.1.4/CryoTanks_1_1_4.zip",
+    "download": "https://get.2sb.org/https://github.com/ChrisAdderley/CryoTanks/releases/download/1.1.4/CryoTanks_1_1_4.zip",
     "download_size": 49594969,
     "download_hash": {
         "sha1": "5EE8ED7FE2DEE96EB26738DFD1C7D66ACCD7EB5A",

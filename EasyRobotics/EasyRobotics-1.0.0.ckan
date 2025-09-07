@@ -9,8 +9,8 @@
     "ksp_version_max": "1.12.5",
     "license": "MIT",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSPModStewards/EasyRobotics",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSPModStewards/EasyRobotics/issues",
+        "repository": "https://get.2sb.org/https://github.com/KSPModStewards/EasyRobotics",
+        "bugtracker": "https://get.2sb.org/https://github.com/KSPModStewards/EasyRobotics/issues",
         "remote-avc": "https://raw.githubusercontent.com/gotmachine/EasyRobotics/master/GameData/EasyRobotics/EasyRobotics.version"
     },
     "tags": [
@@ -33,7 +33,7 @@
             "name": "MissingRobotics"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSPModStewards/EasyRobotics/releases/download/1.0.0/EasyRobotics_1.0.0.zip",
+    "download": "https://get.2sb.org/https://github.com/KSPModStewards/EasyRobotics/releases/download/1.0.0/EasyRobotics_1.0.0.zip",
     "download_size": 91560,
     "download_hash": {
         "sha1": "6030F957B8D948AFB77B9A747C1EEF031C962E8E",

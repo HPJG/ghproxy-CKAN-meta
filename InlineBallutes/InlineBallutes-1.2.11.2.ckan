@@ -12,8 +12,8 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/173733-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/InlineBallutes",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/InlineBallutes/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/InlineBallutes",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/InlineBallutes/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/InlineBallutes"
     },
     "tags": [
@@ -38,7 +38,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/InlineBallutes/releases/download/1.2.11.2/InlineBallutes-1.8.0-1.2.11.2.zip",
+    "download": "https://get.2sb.org/https://github.com/linuxgurugamer/InlineBallutes/releases/download/1.2.11.2/InlineBallutes-1.8.0-1.2.11.2.zip",
     "download_size": 1267150,
     "download_hash": {
         "sha1": "385673AA30EA7D5BE1D0333F444BB95CB3F7627C",

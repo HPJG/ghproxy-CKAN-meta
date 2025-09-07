@@ -10,8 +10,8 @@
     ],
     "license": "CC-BY-SA-2.0",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/raidernick/BDAnimationModules",
-        "repository": "https://hk.gh-proxy.com/https://github.com/raidernick/BDAnimationModules"
+        "homepage": "https://get.2sb.org/https://github.com/raidernick/BDAnimationModules",
+        "repository": "https://get.2sb.org/https://github.com/raidernick/BDAnimationModules"
     },
     "version": "1:v0.6.5.6",
     "ksp_version_min": "1.6.0",
@@ -22,7 +22,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/raidernick/BDAnimationModules/releases/download/v0.6.5.6/BDanim_v0.6.5.6.zip",
+    "download": "https://get.2sb.org/https://github.com/raidernick/BDAnimationModules/releases/download/v0.6.5.6/BDanim_v0.6.5.6.zip",
     "download_size": 126655,
     "download_hash": {
         "sha1": "5C5614653A5C4047CF76D8F942B7437F3DD14741",

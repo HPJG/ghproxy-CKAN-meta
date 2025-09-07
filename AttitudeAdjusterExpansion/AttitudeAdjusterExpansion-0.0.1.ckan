@@ -10,8 +10,8 @@
     "license": "CC-BY-NC-ND",
     "resources": {
         "spacedock": "https://spacedock.info/mod/3850/Attitude%20Adjuster%20Expansion",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/AttitudeAdjusterExpansion",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/AttitudeAdjusterExpansion/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/AttitudeAdjusterExpansion",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/AttitudeAdjusterExpansion/issues",
         "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/AttitudeAdjusterExpansion/refs/heads/main/AttitudeAdjusterExpansion.version"
     },
     "tags": [
@@ -31,7 +31,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/AttitudeAdjusterExpansion/releases/download/0.0.1/AttitudeAdjusterExpansion-1.12.0-0.0.1.zip",
+        "https://get.2sb.org/https://github.com/linuxgurugamer/AttitudeAdjusterExpansion/releases/download/0.0.1/AttitudeAdjusterExpansion-1.12.0-0.0.1.zip",
         "https://spacedock.info/mod/3850/Attitude%20Adjuster%20Expansion/download/0.0.1"
     ],
     "download_size": 1232,

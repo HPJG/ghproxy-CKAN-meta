@@ -16,10 +16,10 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/184187-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ProceduralFairings",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ProceduralFairings/issues",
+        "repository": "https://get.2sb.org/https://github.com/KSP-RO/ProceduralFairings",
+        "bugtracker": "https://get.2sb.org/https://github.com/KSP-RO/ProceduralFairings/issues",
         "metanetkan": "https://raw.githubusercontent.com/KSP-RO/ProceduralFairings/master/ProceduralFairings.netkan",
-        "remote-avc": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ProceduralFairings/raw/master/GameData/ProceduralFairings/ProceduralFairings.version"
+        "remote-avc": "https://get.2sb.org/https://github.com/KSP-RO/ProceduralFairings/raw/master/GameData/ProceduralFairings/ProceduralFairings.version"
     },
     "tags": [
         "parts"
@@ -40,7 +40,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ProceduralFairings/releases/download/v6.1/ProceduralFairings-6.1.zip",
+    "download": "https://get.2sb.org/https://github.com/KSP-RO/ProceduralFairings/releases/download/v6.1/ProceduralFairings-6.1.zip",
     "download_size": 9090589,
     "download_hash": {
         "sha1": "135E10B2EE1F2A1FECC77743510ECBF2BCFF5DAB",

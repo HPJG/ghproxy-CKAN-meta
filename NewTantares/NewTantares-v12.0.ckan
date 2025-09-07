@@ -7,7 +7,7 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/73686-Tantares",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Tantares/Tantares"
+        "repository": "https://get.2sb.org/https://github.com/Tantares/Tantares"
     },
     "version": "v12.0",
     "ksp_version_min": "1.4.0",
@@ -28,7 +28,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Tantares/Tantares/releases/download/v12.0/Tantares.zip",
+    "download": "https://get.2sb.org/https://github.com/Tantares/Tantares/releases/download/v12.0/Tantares.zip",
     "download_size": 21022155,
     "download_hash": {
         "sha1": "39F26D712EB748D4D3F89ACA54B3C291680440A1",

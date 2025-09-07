@@ -7,7 +7,7 @@
     "license": "Unlicense",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/158344-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/jrodrigv/PhysicsRangeExtender"
+        "repository": "https://get.2sb.org/https://github.com/jrodrigv/PhysicsRangeExtender"
     },
     "version": "1.9.0",
     "ksp_version_min": "1.6.0",
@@ -17,7 +17,7 @@
             "name": "KerbalJointReinforcement"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/jrodrigv/PhysicsRangeExtender/releases/download/1.9.0/PhysicsRangeExtender.1.9_12262018.zip",
+    "download": "https://get.2sb.org/https://github.com/jrodrigv/PhysicsRangeExtender/releases/download/1.9.0/PhysicsRangeExtender.1.9_12262018.zip",
     "download_size": 17392,
     "download_hash": {
         "sha1": "0E24271F88D27781560574361FC1A57705010853",

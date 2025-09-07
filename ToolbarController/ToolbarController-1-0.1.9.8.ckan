@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/169509-141-toolbar-controller-for-modders/",
         "spacedock": "https://spacedock.info/mod/1931/ToolbarController",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ToolbarControl",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ToolbarControl/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/ToolbarControl",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/ToolbarControl/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/ToolbarControl"
     },
     "tags": [

@@ -9,9 +9,9 @@
     "ksp_version_max": "1.4.99",
     "license": "MIT",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/QuickBASIC/ISRUThanksButNoTanks",
-        "repository": "https://hk.gh-proxy.com/https://github.com/QuickBASIC/ISRUThanksButNoTanks",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/QuickBASIC/ISRUThanksButNoTanks/issues"
+        "homepage": "https://get.2sb.org/https://github.com/QuickBASIC/ISRUThanksButNoTanks",
+        "repository": "https://get.2sb.org/https://github.com/QuickBASIC/ISRUThanksButNoTanks",
+        "bugtracker": "https://get.2sb.org/https://github.com/QuickBASIC/ISRUThanksButNoTanks/issues"
     },
     "tags": [
         "config",
@@ -28,7 +28,7 @@
             "find_regexp": "ISRUThanksButNoTanks.*"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/QuickBASIC/ISRUThanksButNoTanks/releases/download/v1.4.1/ISRUThanksButNoTanks_v1.4.1.zip",
+    "download": "https://get.2sb.org/https://github.com/QuickBASIC/ISRUThanksButNoTanks/releases/download/v1.4.1/ISRUThanksButNoTanks_v1.4.1.zip",
     "download_size": 2385,
     "download_hash": {
         "sha1": "7E5002E92130BED37EE410A15BAEBD390EC4EFBE",

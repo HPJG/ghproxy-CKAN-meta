@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/104231",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Crzyrndm/FilterExtension"
+        "repository": "https://get.2sb.org/https://github.com/Crzyrndm/FilterExtension"
     },
     "version": "2.7.4.2",
     "ksp_version": "1.2.1",
@@ -34,7 +34,7 @@
             ]
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Crzyrndm/FilterExtension/releases/download/2.7.4.2/Filter.Extensions.v2.7.4.2.zip",
+    "download": "https://get.2sb.org/https://github.com/Crzyrndm/FilterExtension/releases/download/2.7.4.2/Filter.Extensions.v2.7.4.2.zip",
     "download_size": 542064,
     "download_hash": {
         "sha1": "F7383E0A4C85663F4C109181F4590A4A10E940EE",

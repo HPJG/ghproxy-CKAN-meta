@@ -7,7 +7,7 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/87463-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Kowgan/ksp_cheat_sheets"
+        "repository": "https://get.2sb.org/https://github.com/Kowgan/ksp_cheat_sheets"
     },
     "tags": [
         "config",
@@ -23,7 +23,7 @@
             "find_matches_files": true
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Kowgan/ksp_cheat_sheets/releases/download/v2.6.0/Community.Delta-V.Maps.2.6.0.zip",
+    "download": "https://get.2sb.org/https://github.com/Kowgan/ksp_cheat_sheets/releases/download/v2.6.0/Community.Delta-V.Maps.2.6.0.zip",
     "download_size": 1356938,
     "download_hash": {
         "sha1": "9B840725DC87713EE6B7A219801F0A7AC172044D",

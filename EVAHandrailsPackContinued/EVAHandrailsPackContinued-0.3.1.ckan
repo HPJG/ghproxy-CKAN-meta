@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/158708-12-nebula-eva-handrails-continued/",
         "spacedock": "https://spacedock.info/mod/49/EVA%20Handrails%20Continued",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/EVAHandrailsPack",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/EVAHandrailsPack/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/EVAHandrailsPack",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/EVAHandrailsPack/issues",
         "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/EVAHandrailsPack/refs/heads/master/EVAHandrailsPackContinued.version",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/EVA_Handrails_Continued/EVA_Handrails_Continued-1478004467.1139538.jpg"
     },
@@ -49,7 +49,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/EVAHandrailsPack/releases/download/0.3.1/EVAHandrailsPackContinued-1.12.0-0.3.1.zip",
+        "https://get.2sb.org/https://github.com/linuxgurugamer/EVAHandrailsPack/releases/download/0.3.1/EVAHandrailsPackContinued-1.12.0-0.3.1.zip",
         "https://spacedock.info/mod/49/EVA%20Handrails%20Continued/download/0.3.1"
     ],
     "download_size": 122110,

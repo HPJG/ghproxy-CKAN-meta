@@ -11,11 +11,11 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/92290",
-        "repository": "https://hk.gh-proxy.com/https://github.com/NathanKell/ModuleRCSFX"
+        "repository": "https://get.2sb.org/https://github.com/NathanKell/ModuleRCSFX"
     },
     "version": "v3.3",
     "ksp_version": "0.25",
-    "download": "https://hk.gh-proxy.com/https://github.com/NathanKell/ModuleRCSFX/releases/download/v3.3/ModuleRCSFX_v3.3.zip",
+    "download": "https://get.2sb.org/https://github.com/NathanKell/ModuleRCSFX/releases/download/v3.3/ModuleRCSFX_v3.3.zip",
     "download_size": 5598,
     "download_hash": {
         "sha1": "CA4924CF393A143402D67B2CCEAB8A82D006BE98",

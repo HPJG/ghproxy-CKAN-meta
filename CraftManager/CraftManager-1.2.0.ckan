@@ -10,8 +10,8 @@
     "license": "CC-BY-4.0",
     "resources": {
         "homepage": "https://KerbalX.com/CraftManager",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Sujimichi/CraftManager",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Sujimichi/CraftManager/issues"
+        "repository": "https://get.2sb.org/https://github.com/Sujimichi/CraftManager",
+        "bugtracker": "https://get.2sb.org/https://github.com/Sujimichi/CraftManager/issues"
     },
     "tags": [
         "plugin"
@@ -21,7 +21,7 @@
             "name": "KXAPI"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Sujimichi/CraftManager/releases/download/1.2.0/CraftManager.zip",
+    "download": "https://get.2sb.org/https://github.com/Sujimichi/CraftManager/releases/download/1.2.0/CraftManager.zip",
     "download_size": 268325,
     "download_hash": {
         "sha1": "77B0821B93393AB78A50E7C71ECFE4EF3FF99206",

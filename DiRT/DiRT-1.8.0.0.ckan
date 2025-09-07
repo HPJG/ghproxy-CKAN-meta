@@ -10,8 +10,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/172055-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/cydonian-monk/KSP-DiRT",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/cydonian-monk/KSP-DiRT/issues",
+        "repository": "https://get.2sb.org/https://github.com/cydonian-monk/KSP-DiRT",
+        "bugtracker": "https://get.2sb.org/https://github.com/cydonian-monk/KSP-DiRT/issues",
         "remote-avc": "https://raw.githubusercontent.com/cydonian-monk/KSP-DiRT/master/GameData/DiRT/DiRT.version"
     },
     "tags": [
@@ -35,7 +35,7 @@
             ]
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/cydonian-monk/KSP-DiRT/releases/download/1.8.0.0/DiRT_1.8.0.0.zip",
+    "download": "https://get.2sb.org/https://github.com/cydonian-monk/KSP-DiRT/releases/download/1.8.0.0/DiRT_1.8.0.0.zip",
     "download_size": 20602,
     "download_hash": {
         "sha1": "F7E4422D518D5639D74F9EDADEEF456C65FFF821",

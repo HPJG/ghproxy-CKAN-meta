@@ -8,10 +8,10 @@
     "ksp_version": "1.12.5",
     "license": "CC-BY",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/tylerraiz/CrewVessels",
+        "homepage": "https://get.2sb.org/https://github.com/tylerraiz/CrewVessels",
         "spacedock": "https://spacedock.info/mod/3696/Crew%20Vessels",
-        "repository": "https://hk.gh-proxy.com/https://github.com/tylerraiz/CrewVessels",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/tylerraiz/CrewVessels/issues"
+        "repository": "https://get.2sb.org/https://github.com/tylerraiz/CrewVessels",
+        "bugtracker": "https://get.2sb.org/https://github.com/tylerraiz/CrewVessels/issues"
     },
     "tags": [
         "parts",
@@ -30,7 +30,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/tylerraiz/CrewVessels/releases/download/0.2.2/CrewVessels0.2.2.zip",
+        "https://get.2sb.org/https://github.com/tylerraiz/CrewVessels/releases/download/0.2.2/CrewVessels0.2.2.zip",
         "https://spacedock.info/mod/3696/Crew%20Vessels/download/0.2.2"
     ],
     "download_size": 70138995,

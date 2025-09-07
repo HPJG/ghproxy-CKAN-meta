@@ -7,11 +7,11 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/77565-BetterTimeWarp",
-        "repository": "https://hk.gh-proxy.com/https://github.com/HappyFaceIndustries/BetterTimeWarp"
+        "repository": "https://get.2sb.org/https://github.com/HappyFaceIndustries/BetterTimeWarp"
     },
     "version": "2.2",
     "ksp_version": "1.0.5",
-    "download": "https://hk.gh-proxy.com/https://github.com/HappyFaceIndustries/BetterTimeWarp/releases/download/2.2/BetterTimeWarp.v2.2.0.0.zip",
+    "download": "https://get.2sb.org/https://github.com/HappyFaceIndustries/BetterTimeWarp/releases/download/2.2/BetterTimeWarp.v2.2.0.0.zip",
     "download_size": 14705,
     "download_hash": {
         "sha1": "8807358C0E4CFE5E229BF2EC7EFC096B49024A66",

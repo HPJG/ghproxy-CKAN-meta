@@ -11,11 +11,11 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/16801-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/MOARdV/AviationLights"
+        "repository": "https://get.2sb.org/https://github.com/MOARdV/AviationLights"
     },
     "version": "v3.10",
     "ksp_version": "1.2",
-    "download": "https://hk.gh-proxy.com/https://github.com/MOARdV/AviationLights/releases/download/v3.10/AviationLights-3.10.zip",
+    "download": "https://get.2sb.org/https://github.com/MOARdV/AviationLights/releases/download/v3.10/AviationLights-3.10.zip",
     "download_size": 293621,
     "download_hash": {
         "sha1": "355DD09609B65B72221A9288896F66642095D7FA",

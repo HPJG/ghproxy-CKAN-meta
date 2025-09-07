@@ -12,8 +12,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/119211-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/StollD/KopernicusExpansion-Continued",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/StollD/KopernicusExpansion-Continued/issues"
+        "repository": "https://get.2sb.org/https://github.com/StollD/KopernicusExpansion-Continued",
+        "bugtracker": "https://get.2sb.org/https://github.com/StollD/KopernicusExpansion-Continued/issues"
     },
     "tags": [
         "plugin"
@@ -29,7 +29,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/StollD/KopernicusExpansion-Continued/releases/download/release-1.7.1-5/KEX-VertexHeightDeformity-1.7.1-5.zip",
+    "download": "https://get.2sb.org/https://github.com/StollD/KopernicusExpansion-Continued/releases/download/release-1.7.1-5/KEX-VertexHeightDeformity-1.7.1-5.zip",
     "download_size": 4030,
     "download_hash": {
         "sha1": "7F4A42C794E2E7E56D68B9B0482A004E62A476CE",

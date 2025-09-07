@@ -9,8 +9,8 @@
     "license": "CC0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/113949-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/MrChumley/FarOut",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/MrChumley/FarOut/issues"
+        "repository": "https://get.2sb.org/https://github.com/MrChumley/FarOut",
+        "bugtracker": "https://get.2sb.org/https://github.com/MrChumley/FarOut/issues"
     },
     "tags": [
         "config",
@@ -42,7 +42,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/MrChumley/FarOut/releases/download/v3.0/FarOutV3.zip",
+    "download": "https://get.2sb.org/https://github.com/MrChumley/FarOut/releases/download/v3.0/FarOutV3.zip",
     "download_size": 367370,
     "download_hash": {
         "sha1": "687FCE89B2FEADE39AF46FF3D89ED0E266C14E65",

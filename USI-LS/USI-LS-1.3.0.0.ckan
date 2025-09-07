@@ -11,8 +11,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://umbraspaceindustries.github.io/UmbraSpaceIndustries/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/UmbraSpaceIndustries/USI-LS",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/UmbraSpaceIndustries/USI-LS/issues",
+        "repository": "https://get.2sb.org/https://github.com/UmbraSpaceIndustries/USI-LS",
+        "bugtracker": "https://get.2sb.org/https://github.com/UmbraSpaceIndustries/USI-LS/issues",
         "metanetkan": "https://raw.githubusercontent.com/BobPalmer/CKAN/master/USI-LS.netkan"
     },
     "tags": [
@@ -52,7 +52,7 @@
             "install_to": "GameData/UmbraSpaceIndustries"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/UmbraSpaceIndustries/USI-LS/releases/download/1.3.0.0/USI-LS_1.3.0.0.zip",
+    "download": "https://get.2sb.org/https://github.com/UmbraSpaceIndustries/USI-LS/releases/download/1.3.0.0/USI-LS_1.3.0.0.zip",
     "download_size": 4318692,
     "download_hash": {
         "sha1": "B564FB54926AE56156402F0C80A0B1B6C07A7B0A",

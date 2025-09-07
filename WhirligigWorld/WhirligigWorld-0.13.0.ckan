@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/166563-02-nov232017-whirligig-world-a-unique-homeworld-in-an-alien-solar-system/",
         "spacedock": "https://spacedock.info/mod/1805/Whirligig%20World",
-        "repository": "https://hk.gh-proxy.com/https://github.com/WhirligigGirl/Whirligig-World",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/WhirligigGirl/Whirligig-World/issues",
+        "repository": "https://get.2sb.org/https://github.com/WhirligigGirl/Whirligig-World",
+        "bugtracker": "https://get.2sb.org/https://github.com/WhirligigGirl/Whirligig-World/issues",
         "x_screenshot": "https://spacedock.info/content/GregroxMun_214/Whirligig_World/Whirligig_World-1540759719.3524895.png"
     },
     "tags": [
@@ -71,7 +71,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/WhirligigGirl/Whirligig-World/releases/download/0.13.0/WhirligigWorld_0.13.0.zip",
+        "https://get.2sb.org/https://github.com/WhirligigGirl/Whirligig-World/releases/download/0.13.0/WhirligigWorld_0.13.0.zip",
         "https://spacedock.info/mod/1805/Whirligig%20World/download/0.13.0"
     ],
     "download_size": 430090014,

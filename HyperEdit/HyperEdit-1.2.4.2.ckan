@@ -13,7 +13,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://www.kerbaltek.com/hyperedit",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Ezriilc/HyperEdit"
+        "repository": "https://get.2sb.org/https://github.com/Ezriilc/HyperEdit"
     },
     "version": "1.2.4.2",
     "ksp_version_min": "0.21.1",

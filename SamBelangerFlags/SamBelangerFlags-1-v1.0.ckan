@@ -9,7 +9,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://sambelanger.wixsite.com/sambelanger",
-        "repository": "https://hk.gh-proxy.com/https://github.com/SamBelanger/SamBelangerFlags"
+        "repository": "https://get.2sb.org/https://github.com/SamBelanger/SamBelangerFlags"
     },
     "tags": [
         "flags"

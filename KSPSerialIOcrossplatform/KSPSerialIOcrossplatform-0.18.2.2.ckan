@@ -7,7 +7,7 @@
     "license": "CC-BY",
     "resources": {
         "spacedock": "https://spacedock.info/mod/850/KSP%20Serial%20IO%20(cross%20platform)",
-        "repository": "https://hk.gh-proxy.com/https://github.com/phardy/KSPSerialIO"
+        "repository": "https://get.2sb.org/https://github.com/phardy/KSPSerialIO"
     },
     "version": "0.18.2.2",
     "ksp_version": "1.1.3",

@@ -8,7 +8,7 @@
     "ksp_version_min": "1.8.0",
     "license": "GPL-3.0",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/KSP-WarpDrive",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/KSP-WarpDrive",
         "remote-avc": "http://ksp.spacetux.net/avc/WarpDrive"
     },
     "tags": [
@@ -28,7 +28,7 @@
             "name": "KSPInterstellarExtended"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/KSP-WarpDrive/releases/download/0.9.3/WarpDrive-1.8.0-0.9.3.zip",
+    "download": "https://get.2sb.org/https://github.com/linuxgurugamer/KSP-WarpDrive/releases/download/0.9.3/WarpDrive-1.8.0-0.9.3.zip",
     "download_size": 5688340,
     "download_hash": {
         "sha1": "46E3B2648E454222D3E8994666E0D73D793D70D5",

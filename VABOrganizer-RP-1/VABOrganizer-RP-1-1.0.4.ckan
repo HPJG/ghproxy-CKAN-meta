@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/226604-1125-vab-organizer-rp-1-configs-v10/",
         "spacedock": "https://spacedock.info/mod/3801/VAB%20Organizer-RP-1%20Configs",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Cruesoe/VABOrganizer-RP-1-Configs",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Cruesoe/VABOrganizer-RP-1-Configs/issues",
+        "repository": "https://get.2sb.org/https://github.com/Cruesoe/VABOrganizer-RP-1-Configs",
+        "bugtracker": "https://get.2sb.org/https://github.com/Cruesoe/VABOrganizer-RP-1-Configs/issues",
         "x_screenshot": "https://spacedock.info/content/Cruesoe_51729/VABOrganizer-RP-1_Configs/VABOrganizer-RP-1_Configs-1736610160.png"
     },
     "tags": [
@@ -46,7 +46,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/Cruesoe/VABOrganizer-RP-1-Configs/releases/download/1.0.4/VABOrganizer-RP-1.Configs.1.0.4.zip",
+        "https://get.2sb.org/https://github.com/Cruesoe/VABOrganizer-RP-1-Configs/releases/download/1.0.4/VABOrganizer-RP-1.Configs.1.0.4.zip",
         "https://spacedock.info/mod/3801/VAB%20Organizer-RP-1%20Configs/download/1.0.4"
     ],
     "download_size": 16514,

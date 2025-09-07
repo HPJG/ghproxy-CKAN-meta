@@ -7,7 +7,7 @@
     "license": "restricted",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/167233-SigmaReplacementsNavigation/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Sigma88/Sigma-Replacements"
+        "repository": "https://get.2sb.org/https://github.com/Sigma88/Sigma-Replacements"
     },
     "version": "N_v0.2.0",
     "ksp_version": "1.3.1",
@@ -17,7 +17,7 @@
             "install_to": "GameData/Sigma/Replacements"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Sigma88/Sigma-Replacements/releases/download/N_v0.2.0/Sigma-Replacements_Navigation.v0.2.0.zip",
+    "download": "https://get.2sb.org/https://github.com/Sigma88/Sigma-Replacements/releases/download/N_v0.2.0/Sigma-Replacements_Navigation.v0.2.0.zip",
     "download_size": 36918,
     "download_hash": {
         "sha1": "245EC584863AC32F8D9B1498CB7854148D2D8ACD",

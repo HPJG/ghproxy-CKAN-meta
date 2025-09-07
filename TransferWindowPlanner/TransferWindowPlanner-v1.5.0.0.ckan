@@ -7,8 +7,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/84005-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/TriggerAu/TransferWindowPlanner",
-        "license": "https://hk.gh-proxy.com/https://github.com/TriggerAu/TransferWindowPlanner/blob/master/LICENSE",
+        "repository": "https://get.2sb.org/https://github.com/TriggerAu/TransferWindowPlanner",
+        "license": "https://get.2sb.org/https://github.com/TriggerAu/TransferWindowPlanner/blob/master/LICENSE",
         "manual": "http://triggerau.github.io/TransferWindowPlanner/",
         "curse": "http://kerbal.curseforge.com/projects/transfer-window-planner"
     },
@@ -26,7 +26,7 @@
             "install_to": "GameData/TriggerTech"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/TriggerAu/TransferWindowPlanner/releases/download/v1.5.0.0/TransferWindowPlanner_1.5.0.0.zip",
+    "download": "https://get.2sb.org/https://github.com/TriggerAu/TransferWindowPlanner/releases/download/v1.5.0.0/TransferWindowPlanner_1.5.0.0.zip",
     "download_size": 95561,
     "download_hash": {
         "sha1": "4E1776DCC387F474A6D730185491FF780D058F6A",

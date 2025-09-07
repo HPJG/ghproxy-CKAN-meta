@@ -7,8 +7,8 @@
     "version": "v1.2",
     "license": "CC-BY-ND",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/pastelmari/KerbolSystemExpansion",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/pastelmari/KerbolSystemExpansion/issues"
+        "repository": "https://get.2sb.org/https://github.com/pastelmari/KerbolSystemExpansion",
+        "bugtracker": "https://get.2sb.org/https://github.com/pastelmari/KerbolSystemExpansion/issues"
     },
     "tags": [
         "config",
@@ -48,7 +48,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/pastelmari/KerbolSystemExpansion/releases/download/v1.2/GameData.zip",
+    "download": "https://get.2sb.org/https://github.com/pastelmari/KerbolSystemExpansion/releases/download/v1.2/GameData.zip",
     "download_size": 1304698953,
     "download_hash": {
         "sha1": "F896F926C782C349D2B0689586B10E92454036F0",

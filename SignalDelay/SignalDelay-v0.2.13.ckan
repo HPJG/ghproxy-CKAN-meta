@@ -10,9 +10,9 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/166584-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/GarwelGarwel/SignalDelay",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/GarwelGarwel/SignalDelay/issues",
-        "remote-avc": "https://hk.gh-proxy.com/https://github.com/GarwelGarwel/SignalDelay/raw/master/GameData/SignalDelay/SignalDelay.version"
+        "repository": "https://get.2sb.org/https://github.com/GarwelGarwel/SignalDelay",
+        "bugtracker": "https://get.2sb.org/https://github.com/GarwelGarwel/SignalDelay/issues",
+        "remote-avc": "https://get.2sb.org/https://github.com/GarwelGarwel/SignalDelay/raw/master/GameData/SignalDelay/SignalDelay.version"
     },
     "tags": [
         "plugin",
@@ -33,7 +33,7 @@
             "name": "Toolbar"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/GarwelGarwel/SignalDelay/releases/download/v0.2.13/SignalDelay_0.2.13.zip",
+    "download": "https://get.2sb.org/https://github.com/GarwelGarwel/SignalDelay/releases/download/v0.2.13/SignalDelay_0.2.13.zip",
     "download_size": 27122,
     "download_hash": {
         "sha1": "C2C8B226DAEA91FC6498049443D911C37A4898DC",

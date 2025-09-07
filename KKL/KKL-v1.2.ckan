@@ -9,8 +9,8 @@
     "license": "LGPL-2.1",
     "release_status": "stable",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/craidler/KerbalKustomzLtd",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/craidler/KerbalKustomzLtd/issues"
+        "repository": "https://get.2sb.org/https://github.com/craidler/KerbalKustomzLtd",
+        "bugtracker": "https://get.2sb.org/https://github.com/craidler/KerbalKustomzLtd/issues"
     },
     "tags": [
         "config",
@@ -119,7 +119,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/craidler/KerbalKustomzLtd/releases/download/v1.2/KKL.zip",
+    "download": "https://get.2sb.org/https://github.com/craidler/KerbalKustomzLtd/releases/download/v1.2/KKL.zip",
     "download_size": 1798,
     "download_hash": {
         "sha1": "C7409169935559BE9E4B4A52328D70297BAAEA72",

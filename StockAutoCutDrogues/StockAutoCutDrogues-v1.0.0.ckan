@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/226347-112x-stockautocutdrogues-v100-01dec2024/",
         "spacedock": "https://spacedock.info/mod/3773/StockAutoCutDrogues",
-        "repository": "https://hk.gh-proxy.com/https://github.com/SofieBrink/StockAutoCutDrogues",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/SofieBrink/StockAutoCutDrogues/issues",
+        "repository": "https://get.2sb.org/https://github.com/SofieBrink/StockAutoCutDrogues",
+        "bugtracker": "https://get.2sb.org/https://github.com/SofieBrink/StockAutoCutDrogues/issues",
         "remote-avc": "https://raw.githubusercontent.com:443/SofieBrink/StockAutoCutDrogues/main/GameData/StockAutoCutDrogues/Versioning/StockAutoCutDrogues.version",
         "x_screenshot": "https://spacedock.info/content/sofiebrink_30923/StockAutoCutDrogues/StockAutoCutDrogues-1732988114.png"
     },
@@ -46,7 +46,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/SofieBrink/StockAutoCutDrogues/releases/download/v1.0.0/StockAutoCutDrogues-v1.0.0.zip",
+        "https://get.2sb.org/https://github.com/SofieBrink/StockAutoCutDrogues/releases/download/v1.0.0/StockAutoCutDrogues-v1.0.0.zip",
         "https://spacedock.info/mod/3773/StockAutoCutDrogues/download/v1.0.0"
     ],
     "download_size": 3891,

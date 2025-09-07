@@ -6,8 +6,8 @@
     "author": "linuxgurugamer",
     "license": "CC-BY-SA-4.0",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ContractFilterContinued",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ContractFilterContinued"
+        "homepage": "https://get.2sb.org/https://github.com/linuxgurugamer/ContractFilterContinued",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/ContractFilterContinued"
     },
     "version": "0.1.0.4",
     "ksp_version": "1.1.2",
@@ -22,7 +22,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ContractFilterContinued/releases/download/0.1.0.4/ContractFilterContinued-0.1.0.4.zip",
+    "download": "https://get.2sb.org/https://github.com/linuxgurugamer/ContractFilterContinued/releases/download/0.1.0.4/ContractFilterContinued-0.1.0.4.zip",
     "download_size": 43615,
     "download_hash": {
         "sha1": "E3BFC3CB4B0EECE27C1E1E9DB02CD8CF08D7CBDB",

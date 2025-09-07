@@ -11,9 +11,9 @@
     "ksp_version_min": "1.8.0",
     "license": "BSD-2-clause",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/KerbalRenamer",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-RO/KerbalRenamer/issues",
-        "remote-avc": "https://hk.gh-proxy.com/https://github.com/KSP-RO/KerbalRenamer/raw/master/GameData/KerbalRenamer/KerbalRenamer.version"
+        "repository": "https://get.2sb.org/https://github.com/KSP-RO/KerbalRenamer",
+        "bugtracker": "https://get.2sb.org/https://github.com/KSP-RO/KerbalRenamer/issues",
+        "remote-avc": "https://get.2sb.org/https://github.com/KSP-RO/KerbalRenamer/raw/master/GameData/KerbalRenamer/KerbalRenamer.version"
     },
     "tags": [
         "plugin",
@@ -25,7 +25,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/KerbalRenamer/releases/download/v1.4.0/KerbalRenamer_1.4.0.zip",
+    "download": "https://get.2sb.org/https://github.com/KSP-RO/KerbalRenamer/releases/download/v1.4.0/KerbalRenamer_1.4.0.zip",
     "download_size": 11449,
     "download_hash": {
         "sha1": "AB36E6CFB127DC350F6E51E528BC0327313D1D50",

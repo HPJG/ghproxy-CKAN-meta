@@ -12,7 +12,7 @@
     "ksp_version_max": "1.12.99",
     "license": "CC-BY-NC-ND-4.0",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/Capkirk123/ROEngines-Extended",
+        "repository": "https://get.2sb.org/https://github.com/Capkirk123/ROEngines-Extended",
         "remote-avc": "https://raw.githubusercontent.com/Capkirk123/ROEngines-Extended/master/Gamedata/ROEnginesExtended/ROEnginesExtended.version"
     },
     "tags": [
@@ -49,7 +49,7 @@
             "name": "TweakableEverythingCont"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Capkirk123/ROEngines-Extended/releases/download/2.2.0/ROEnginesExtended-v2.2.0.zip",
+    "download": "https://get.2sb.org/https://github.com/Capkirk123/ROEngines-Extended/releases/download/2.2.0/ROEnginesExtended-v2.2.0.zip",
     "download_size": 24332835,
     "download_hash": {
         "sha1": "6BEB8C6655C30E70B44D8F2437DC6A196436189F",

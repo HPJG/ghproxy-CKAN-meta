@@ -13,9 +13,9 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/204752-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/KerbalInventorySystemNoFun",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/KerbalInventorySystemNoFun/issues",
-        "discussions": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/KerbalInventorySystemNoFun/discussions",
+        "repository": "https://get.2sb.org/https://github.com/zer0Kerbal/KerbalInventorySystemNoFun",
+        "bugtracker": "https://get.2sb.org/https://github.com/zer0Kerbal/KerbalInventorySystemNoFun/issues",
+        "discussions": "https://get.2sb.org/https://github.com/zer0Kerbal/KerbalInventorySystemNoFun/discussions",
         "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/KerbalInventorySystemNoFun/master/KerbalInventorySystemNoFun.version"
     },
     "tags": [
@@ -40,7 +40,7 @@
             "install_to": "GameData/QuickBASIC"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/KerbalInventorySystemNoFun/releases/download/0.1.11.0/KerbalInventorySystemNoFun-0.1.11.0.zip",
+    "download": "https://get.2sb.org/https://github.com/zer0Kerbal/KerbalInventorySystemNoFun/releases/download/0.1.11.0/KerbalInventorySystemNoFun-0.1.11.0.zip",
     "download_size": 18574,
     "download_hash": {
         "sha1": "30684D5AC6C70BEC40BAEFDFA1E0005DDC780DB8",

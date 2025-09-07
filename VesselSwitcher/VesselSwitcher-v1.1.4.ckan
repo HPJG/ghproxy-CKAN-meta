@@ -12,8 +12,8 @@
     "ksp_version": "1.2.2",
     "license": "MIT",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/PapaJoesSoup/BDALoadedVesselSwitcher",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/PapaJoesSoup/BDALoadedVesselSwitcher/issues"
+        "repository": "https://get.2sb.org/https://github.com/PapaJoesSoup/BDALoadedVesselSwitcher",
+        "bugtracker": "https://get.2sb.org/https://github.com/PapaJoesSoup/BDALoadedVesselSwitcher/issues"
     },
     "tags": [
         "plugin",
@@ -30,7 +30,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/PapaJoesSoup/BDALoadedVesselSwitcher/releases/download/v1.1.4/BDALoadedVesselSwitcher.1.1.4.0_01032017.zip",
+    "download": "https://get.2sb.org/https://github.com/PapaJoesSoup/BDALoadedVesselSwitcher/releases/download/v1.1.4/BDALoadedVesselSwitcher.1.1.4.0_01032017.zip",
     "download_size": 6277,
     "download_hash": {
         "sha1": "9B07D5C4B5EEDB57C6B067DC9AF76FE2F00A310D",

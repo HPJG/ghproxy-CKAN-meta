@@ -6,7 +6,7 @@
     "author": "RP-0 Group",
     "license": "CC-BY-4.0",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RP-0"
+        "repository": "https://get.2sb.org/https://github.com/KSP-RO/RP-0"
     },
     "version": "v0.04",
     "ksp_version": "0.90",
@@ -53,7 +53,7 @@
             "min_version": "v2.0.0.0"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RP-0/releases/download/v0.04/RP-0-v0.04.zip",
+    "download": "https://get.2sb.org/https://github.com/KSP-RO/RP-0/releases/download/v0.04/RP-0-v0.04.zip",
     "download_size": 13480,
     "download_hash": {
         "sha1": "79549DB325F27F9AD60F413339BF50229A84EFCB",

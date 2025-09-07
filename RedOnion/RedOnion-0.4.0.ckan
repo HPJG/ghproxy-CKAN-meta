@@ -11,7 +11,7 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/183050-wipexperimental-release-redonion-unrestricted-in-game-scripting-with-repl-and-live-editing-with-intellisense-lua-and-a-custom-jsruby-like-language-implemented/",
         "spacedock": "https://spacedock.info/mod/2116/Red%20Onion",
-        "repository": "https://hk.gh-proxy.com/https://github.com/evandisoft/RedOnion"
+        "repository": "https://get.2sb.org/https://github.com/evandisoft/RedOnion"
     },
     "version": "0.4.0",
     "ksp_version": "1.8.1",

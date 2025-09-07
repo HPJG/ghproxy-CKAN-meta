@@ -7,7 +7,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/161790-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/severedsolo/EarnYourStripes"
+        "repository": "https://get.2sb.org/https://github.com/severedsolo/EarnYourStripes"
     },
     "version": "2.2",
     "ksp_version_min": "1.7.1",
@@ -20,7 +20,7 @@
             "name": "FlightTracker"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/severedsolo/EarnYourStripes/releases/download/2.2/EarnYourStripes.zip",
+    "download": "https://get.2sb.org/https://github.com/severedsolo/EarnYourStripes/releases/download/2.2/EarnYourStripes.zip",
     "download_size": 16568,
     "download_hash": {
         "sha1": "75A393A58083DC2CD15EF9B937CE920E5FA15319",

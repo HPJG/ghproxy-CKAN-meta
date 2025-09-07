@@ -7,7 +7,7 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/174189-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/yalov/CommunityPartsTitles"
+        "repository": "https://get.2sb.org/https://github.com/yalov/CommunityPartsTitles"
     },
     "version": "0.3.4",
     "ksp_version_min": "1.6.0",
@@ -139,7 +139,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/yalov/CommunityPartsTitles/releases/download/0.3.4/CommunityPartsTitles-v0.3.4.zip",
+    "download": "https://get.2sb.org/https://github.com/yalov/CommunityPartsTitles/releases/download/0.3.4/CommunityPartsTitles-v0.3.4.zip",
     "download_size": 111899,
     "download_hash": {
         "sha1": "2CA2DA7BF286821BB919190D1C530315C5D259CE",

@@ -8,10 +8,10 @@
     "ksp_version_min": "1.8",
     "license": "GPL-2.0",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/HyperFunOriginal/LudicrousPartsMod/",
+        "homepage": "https://get.2sb.org/https://github.com/HyperFunOriginal/LudicrousPartsMod/",
         "spacedock": "https://spacedock.info/mod/3108/LudicrousParts",
-        "repository": "https://hk.gh-proxy.com/https://github.com/HyperFunOriginal/LudicrousPartsMod",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/HyperFunOriginal/LudicrousPartsMod/issues",
+        "repository": "https://get.2sb.org/https://github.com/HyperFunOriginal/LudicrousPartsMod",
+        "bugtracker": "https://get.2sb.org/https://github.com/HyperFunOriginal/LudicrousPartsMod/issues",
         "x_screenshot": "https://spacedock.info/content/Hyper_Fun_30907/LudicrousParts/LudicrousParts-1662211998.png"
     },
     "tags": [

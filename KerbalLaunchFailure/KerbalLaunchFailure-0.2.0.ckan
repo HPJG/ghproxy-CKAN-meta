@@ -7,7 +7,7 @@
     "license": "GPL-2.0",
     "resources": {
         "spacedock": "https://spacedock.info/mod/989/Kerbal%20Launch%20Failure",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ksp-KerbalLaunchFailure"
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/ksp-KerbalLaunchFailure"
     },
     "version": "0.2.0",
     "ksp_version": "1.2.0",

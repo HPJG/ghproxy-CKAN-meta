@@ -15,9 +15,9 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/223692-1125-tweakscalerescaled-scale-your-parts-in-the-editor/",
         "spacedock": "https://spacedock.info/mod/3514/TweakScale%20Rescaled",
-        "repository": "https://hk.gh-proxy.com/https://github.com/JonnyOThan/TweakScale",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/JonnyOThan/TweakScale/issues",
-        "remote-avc": "https://hk.gh-proxy.com/https://github.com/JonnyOThan/TweakScale/releases/latest/download/TweakScale.version",
+        "repository": "https://get.2sb.org/https://github.com/JonnyOThan/TweakScale",
+        "bugtracker": "https://get.2sb.org/https://github.com/JonnyOThan/TweakScale/issues",
+        "remote-avc": "https://get.2sb.org/https://github.com/JonnyOThan/TweakScale/releases/latest/download/TweakScale.version",
         "x_screenshot": "https://spacedock.info/content/JonnyOThan_33590/TweakScale_Rescaled/TweakScale_Rescaled-1707076072.png"
     },
     "tags": [
@@ -68,7 +68,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/JonnyOThan/TweakScale/releases/download/3.2.4/TweakScaleRescaled-3.2.4.zip",
+        "https://get.2sb.org/https://github.com/JonnyOThan/TweakScale/releases/download/3.2.4/TweakScaleRescaled-3.2.4.zip",
         "https://spacedock.info/mod/3514/TweakScale%20Rescaled/download/3.2.4"
     ],
     "download_size": 162419,

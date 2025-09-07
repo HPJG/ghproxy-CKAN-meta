@@ -10,8 +10,8 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/189978-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/pehvbot/LRKerbalism",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/pehvbot/LRKerbalism/issues",
+        "repository": "https://get.2sb.org/https://github.com/pehvbot/LRKerbalism",
+        "bugtracker": "https://get.2sb.org/https://github.com/pehvbot/LRKerbalism/issues",
         "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=559"
     },
     "tags": [
@@ -56,7 +56,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/pehvbot/LRKerbalism/releases/download/v0.8.1/LRKerbalism-v0.8.1.zip",
+    "download": "https://get.2sb.org/https://github.com/pehvbot/LRKerbalism/releases/download/v0.8.1/LRKerbalism-v0.8.1.zip",
     "download_size": 14744271,
     "download_hash": {
         "sha1": "CA109FA0B1A304E33F054AA695BBC45781409536",

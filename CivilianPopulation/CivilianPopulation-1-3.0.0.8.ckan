@@ -13,8 +13,8 @@
     "license": "CC-BY-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/191409-*/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/CivilianPopulation",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/CivilianPopulation/issues"
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/CivilianPopulation",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/CivilianPopulation/issues"
     },
     "tags": [
         "config",
@@ -35,7 +35,7 @@
             "name": "ClickThroughBlocker"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/CivilianPopulation/releases/download/3.0.0.8/CivilianPopulation-3.0.0.8.zip",
+    "download": "https://get.2sb.org/https://github.com/linuxgurugamer/CivilianPopulation/releases/download/3.0.0.8/CivilianPopulation-3.0.0.8.zip",
     "download_size": 18862965,
     "download_hash": {
         "sha1": "C9D30074A489E09EBA5016184B6CD8970579E7D0",

@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/80277",
-        "repository": "https://hk.gh-proxy.com/https://github.com/DaMichel/KerbalFlightIndicators"
+        "repository": "https://get.2sb.org/https://github.com/DaMichel/KerbalFlightIndicators"
     },
     "version": "R8",
     "ksp_version": "0.25",
@@ -17,7 +17,7 @@
             "name": "Toolbar"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/DaMichel/KerbalFlightIndicators/releases/download/R8/KerbalFlightIndicatorsR8.zip",
+    "download": "https://get.2sb.org/https://github.com/DaMichel/KerbalFlightIndicators/releases/download/R8/KerbalFlightIndicatorsR8.zip",
     "download_size": 18487,
     "download_hash": {
         "sha1": "036006579BDF672B9ACA978D666B97E1654ADE05",

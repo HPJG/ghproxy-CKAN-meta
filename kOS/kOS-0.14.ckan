@@ -9,7 +9,7 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/68089-0-23-kOS-Scriptable-Autopilot-System-v0-11-2-13",
         "manual": "http://ksp-kos.github.io/KOS_DOC/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-KOS/KOS"
+        "repository": "https://get.2sb.org/https://github.com/KSP-KOS/KOS"
     },
     "version": "0.14",
     "ksp_version": "0.24.2",
@@ -19,7 +19,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSP-KOS/KOS/releases/download/v0.14/kOS.v14.zip",
+    "download": "https://get.2sb.org/https://github.com/KSP-KOS/KOS/releases/download/v0.14/kOS.v14.zip",
     "download_size": 2445771,
     "download_hash": {
         "sha1": "C5A224AC4397770C0B19B4A6417F6C5052191608",

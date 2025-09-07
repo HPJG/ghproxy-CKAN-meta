@@ -6,9 +6,9 @@
     "author": "JPLRepo",
     "license": "restricted",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/KSP-RO/TacLifeSupport/wiki",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/TacLifeSupport",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-RO/TacLifeSupport/issues"
+        "homepage": "https://get.2sb.org/https://github.com/KSP-RO/TacLifeSupport/wiki",
+        "repository": "https://get.2sb.org/https://github.com/KSP-RO/TacLifeSupport",
+        "bugtracker": "https://get.2sb.org/https://github.com/KSP-RO/TacLifeSupport/issues"
     },
     "version": "v0.13.9.0",
     "ksp_version": "1.4.1",
@@ -18,7 +18,7 @@
             "install_to": "GameData/REPOSoftTech"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/TacLifeSupport/releases/download/v0.13.9.0/TacLifeSupport_V0.13.9.zip",
+    "download": "https://get.2sb.org/https://github.com/KSP-RO/TacLifeSupport/releases/download/v0.13.9.0/TacLifeSupport_V0.13.9.zip",
     "download_size": 5192545,
     "download_hash": {
         "sha1": "79E09D01D314BD69692DC5A41E5AD9342F7989C6",

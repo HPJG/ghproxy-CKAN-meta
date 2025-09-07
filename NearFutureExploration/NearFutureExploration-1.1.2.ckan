@@ -10,9 +10,9 @@
     "license": "restricted",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/155465-18x-near-future-technologies-18-updates-november-6th/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/post-kerbin-mining-corporation/NearFutureExploration",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/post-kerbin-mining-corporation/NearFutureExploration/issues",
-        "metanetkan": "https://hk.gh-proxy.com/https://github.com/post-kerbin-mining-corporation/NearFutureExploration/raw/master/CKAN/NearFutureExploration.netkan",
+        "repository": "https://get.2sb.org/https://github.com/post-kerbin-mining-corporation/NearFutureExploration",
+        "bugtracker": "https://get.2sb.org/https://github.com/post-kerbin-mining-corporation/NearFutureExploration/issues",
+        "metanetkan": "https://get.2sb.org/https://github.com/post-kerbin-mining-corporation/NearFutureExploration/raw/master/CKAN/NearFutureExploration.netkan",
         "remote-avc": "https://raw.githubusercontent.com/post-kerbin-mining-corporation/NearFutureExploration/master/GameData/NearFutureExploration/Versioning/NearFutureExploration.version"
     },
     "tags": [
@@ -66,7 +66,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/post-kerbin-mining-corporation/NearFutureExploration/releases/download/1.1.2/NearFutureExploration_1_1_2.zip",
+    "download": "https://get.2sb.org/https://github.com/post-kerbin-mining-corporation/NearFutureExploration/releases/download/1.1.2/NearFutureExploration_1_1_2.zip",
     "download_size": 42380528,
     "download_hash": {
         "sha1": "6552A551F76E344D7889171D0F8C4751000EC433",

@@ -6,7 +6,7 @@
     "author": "NathanKell",
     "license": "CC-BY-3.0",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/Swamp-Ig/ProceduralParts"
+        "repository": "https://get.2sb.org/https://github.com/Swamp-Ig/ProceduralParts"
     },
     "version": "v0.9.20",
     "ksp_version": "0.25.0",
@@ -18,7 +18,7 @@
             "name": "FreedomTex"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Swamp-Ig/ProceduralParts/releases/download/v0.9.20/ProceduralParts-0.9.20.zip",
+    "download": "https://get.2sb.org/https://github.com/Swamp-Ig/ProceduralParts/releases/download/v0.9.20/ProceduralParts-0.9.20.zip",
     "download_size": 7403194,
     "download_hash": {
         "sha1": "BF80A90C30B7456E0D5CF744ABAD76517B48A3E3",

@@ -10,8 +10,8 @@
     "license": "CC-BY-NC-ND-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/132194-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RNMisc",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RNMisc/issues",
+        "repository": "https://get.2sb.org/https://github.com/KSP-RO/RNMisc",
+        "bugtracker": "https://get.2sb.org/https://github.com/KSP-RO/RNMisc/issues",
         "remote-avc": "http://raw.githubusercontent.com/KSP-RO/RNMisc/master/GameData/RN_Misc/RNMisc.version"
     },
     "tags": [
@@ -28,7 +28,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RNMisc/releases/download/v1.6/RN_Misc_v1.6.zip",
+    "download": "https://get.2sb.org/https://github.com/KSP-RO/RNMisc/releases/download/v1.6/RN_Misc_v1.6.zip",
     "download_size": 17592223,
     "download_hash": {
         "sha1": "D72334EEB31CBE94C7E774DF199685C67CC5299F",

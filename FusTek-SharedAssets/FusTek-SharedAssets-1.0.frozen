@@ -8,7 +8,7 @@
     "license": "CC-BY-SA-4.0",
     "release_status": "stable",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/sumghai/FusTek_SharedAssets"
+        "repository": "https://get.2sb.org/https://github.com/sumghai/FusTek_SharedAssets"
     },
     "tags": [
         "agency"
@@ -21,7 +21,7 @@
             "install_to": "GameData/FusTek"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/sumghai/FusTek_SharedAssets/releases/download/1.0/FusTek_SharedAssets-1.0.zip",
+    "download": "https://get.2sb.org/https://github.com/sumghai/FusTek_SharedAssets/releases/download/1.0/FusTek_SharedAssets-1.0.zip",
     "download_size": 6880,
     "download_hash": {
         "sha1": "AA89BF5C73311E40EDA0CAF0DEE8583963A5E01B",

@@ -13,7 +13,7 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/144775-113-bdarmory-continued-v01110-prerelease-28-jul-2016/",
         "spacedock": "https://spacedock.info/mod/867/BDArmoryContinued",
-        "repository": "https://hk.gh-proxy.com/https://github.com/PapaJoesSoup/BDArmory",
+        "repository": "https://get.2sb.org/https://github.com/PapaJoesSoup/BDArmory",
         "x_screenshot": "https://spacedock.info/content/Papa_Joe_926/BDArmoryContinued/BDArmoryContinued-1470103192.4904277.png"
     },
     "version": "v0.11.1.6",
@@ -33,7 +33,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/PapaJoesSoup/BDArmory/releases/download/v0.11.1.6/BDArmory.0.11.1.6_11082016.zip",
+    "download": "https://get.2sb.org/https://github.com/PapaJoesSoup/BDArmory/releases/download/v0.11.1.6/BDArmory.0.11.1.6_11082016.zip",
     "download_size": 56963257,
     "download_hash": {
         "sha1": "1FAF4D51283E34A6C2CBF6B3360A82BA6C2307B6",

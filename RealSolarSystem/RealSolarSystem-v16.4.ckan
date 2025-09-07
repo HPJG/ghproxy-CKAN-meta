@@ -16,7 +16,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/177216-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealSolarSystem"
+        "repository": "https://get.2sb.org/https://github.com/KSP-RO/RealSolarSystem"
     },
     "tags": [
         "planet-pack",
@@ -56,7 +56,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/RealSolarSystem/releases/download/v16.4/RealSolarSystem_v16.4.zip",
+    "download": "https://get.2sb.org/https://github.com/KSP-RO/RealSolarSystem/releases/download/v16.4/RealSolarSystem_v16.4.zip",
     "download_size": 2109414,
     "download_hash": {
         "sha1": "0888C1DE87BA4C7BB3BB9E5AF28716929D575A8E",

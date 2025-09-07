@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/228123-112x-alcoholic-aeronautics-ethanol-engines-inspired-by-historical-rockets/",
         "spacedock": "https://spacedock.info/mod/3910/Alcoholic%20Aeronautics",
-        "repository": "https://hk.gh-proxy.com/https://github.com/CharleRoger/AlcoholicAeronautics",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/CharleRoger/AlcoholicAeronautics/issues",
+        "repository": "https://get.2sb.org/https://github.com/CharleRoger/AlcoholicAeronautics",
+        "bugtracker": "https://get.2sb.org/https://github.com/CharleRoger/AlcoholicAeronautics/issues",
         "remote-avc": "https://raw.githubusercontent.com/CharleRoger/AlcoholicAeronautics/main/GameData/AlcoholicAeronautics/Versioning/AlcoholicAeronautics.version",
         "x_screenshot": "https://spacedock.info/content/Charle_Roger_139212/Alcoholic_Aeronautics/Alcoholic_Aeronautics-1750089452.png"
     },
@@ -36,7 +36,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/CharleRoger/AlcoholicAeronautics/releases/download/1.0.0/AlcoholicAeronautics-1.0.0.zip",
+        "https://get.2sb.org/https://github.com/CharleRoger/AlcoholicAeronautics/releases/download/1.0.0/AlcoholicAeronautics-1.0.0.zip",
         "https://spacedock.info/mod/3910/Alcoholic%20Aeronautics/download/1.0.0"
     ],
     "download_size": 18477910,

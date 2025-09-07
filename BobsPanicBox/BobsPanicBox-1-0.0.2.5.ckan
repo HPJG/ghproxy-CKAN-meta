@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/176073-14-bobs-panic-box-beta-now-available/&tab=comments#comment-3402795",
         "spacedock": "https://spacedock.info/mod/1894/Bob's%20Panic%20Box",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/BobsPanicBox",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/BobsPanicBox/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/BobsPanicBox",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/BobsPanicBox/issues",
         "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/BobsPanicBox/refs/heads/master/BobsPanicBox.version",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Bobs_Panic_Box/Bobs_Panic_Box-1529932018.4543815.png"
     },
@@ -43,7 +43,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/BobsPanicBox/releases/download/0.0.2.5/BobsPanicBox-1.12.0-0.0.2.5.zip",
+        "https://get.2sb.org/https://github.com/linuxgurugamer/BobsPanicBox/releases/download/0.0.2.5/BobsPanicBox-1.12.0-0.0.2.5.zip",
         "https://spacedock.info/mod/1894/Bob's%20Panic%20Box/download/0.0.2.5"
     ],
     "download_size": 41902,

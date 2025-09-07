@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/198535-110x-commonwealth-aeronautics-blue-steel-10/",
         "spacedock": "https://spacedock.info/mod/2583/Commonwealth%20Aeronautics%20-%20Blue%20Steel",
-        "repository": "https://hk.gh-proxy.com/https://github.com/AstroWell/BlueSteel",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/AstroWell/BlueSteel/issues",
+        "repository": "https://get.2sb.org/https://github.com/AstroWell/BlueSteel",
+        "bugtracker": "https://get.2sb.org/https://github.com/AstroWell/BlueSteel/issues",
         "x_screenshot": "https://spacedock.info/content/Well_7448/Commonwealth_Aeronautics_-_Blue_Steel/Commonwealth_Aeronautics_-_Blue_Steel-1607164912.5031676.jpg"
     },
     "tags": [
@@ -39,7 +39,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/AstroWell/BlueSteel/releases/download/v1.3/BlueSteel_1.3.zip",
+        "https://get.2sb.org/https://github.com/AstroWell/BlueSteel/releases/download/v1.3/BlueSteel_1.3.zip",
         "https://spacedock.info/mod/2583/Commonwealth%20Aeronautics%20-%20Blue%20Steel/download/1.3"
     ],
     "download_size": 11229707,

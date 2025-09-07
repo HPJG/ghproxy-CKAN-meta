@@ -13,7 +13,7 @@
     "license": "CC-BY-SA",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/50296-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Starwaster/DeadlyReentry"
+        "repository": "https://get.2sb.org/https://github.com/Starwaster/DeadlyReentry"
     },
     "tags": [
         "plugin",
@@ -33,7 +33,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Starwaster/DeadlyReentry/releases/download/v7.7.4/DeadlyReentry_v7.7.4.zip",
+    "download": "https://get.2sb.org/https://github.com/Starwaster/DeadlyReentry/releases/download/v7.7.4/DeadlyReentry_v7.7.4.zip",
     "download_size": 865113,
     "download_hash": {
         "sha1": "907AF4289E3C1D773314BA3202C196049B87D5C0",

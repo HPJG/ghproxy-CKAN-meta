@@ -10,8 +10,8 @@
     "license": "CC-BY-NC-SA",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/142336-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/pap1723/HalfRSS",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/pap1723/HalfRSS/issues"
+        "repository": "https://get.2sb.org/https://github.com/pap1723/HalfRSS",
+        "bugtracker": "https://get.2sb.org/https://github.com/pap1723/HalfRSS/issues"
     },
     "tags": [
         "config",
@@ -42,7 +42,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/pap1723/HalfRSS/releases/download/1.7/HalfRSS-v17.zip",
+    "download": "https://get.2sb.org/https://github.com/pap1723/HalfRSS/releases/download/1.7/HalfRSS-v17.zip",
     "download_size": 1533370,
     "download_hash": {
         "sha1": "676C3397B508A9808F7074210D37B53B2E4E64BE",

@@ -16,7 +16,7 @@
     "license": "LGPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/140580-Kopernicus",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Kopernicus/Kopernicus"
+        "repository": "https://get.2sb.org/https://github.com/Kopernicus/Kopernicus"
     },
     "version": "2:release-1.4.2-1",
     "ksp_version": "1.4.2",
@@ -41,7 +41,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Kopernicus/Kopernicus/releases/download/release-1.4.2-1/Kopernicus-1.4.2-1.zip",
+    "download": "https://get.2sb.org/https://github.com/Kopernicus/Kopernicus/releases/download/release-1.4.2-1/Kopernicus-1.4.2-1.zip",
     "download_size": 341497,
     "download_hash": {
         "sha1": "EC122A1FD26E63FCEA27A9FD06A6A7757A95A358",

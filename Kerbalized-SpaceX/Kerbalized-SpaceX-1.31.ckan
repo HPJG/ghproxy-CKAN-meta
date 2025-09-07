@@ -9,8 +9,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/162949-kerbalized-spacex",
         "spacedock": "https://spacedock.info/mod/1477/Kerbalized%20SpaceX",
-        "repository": "https://hk.gh-proxy.com/https://github.com/jharri74/Dragon2",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/jharri74/Dragon2/issues",
+        "repository": "https://get.2sb.org/https://github.com/jharri74/Dragon2",
+        "bugtracker": "https://get.2sb.org/https://github.com/jharri74/Dragon2/issues",
         "x_screenshot": "https://spacedock.info/content/jharri74_14062/Kerbalized_SpaceX/Kerbalized_SpaceX-1514206951.5759296.png"
     },
     "version": "1.31",

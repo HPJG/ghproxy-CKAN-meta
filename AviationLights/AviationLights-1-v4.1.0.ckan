@@ -14,8 +14,8 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/173305-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/MOARdV/AviationLights",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/MOARdV/AviationLights/issues"
+        "repository": "https://get.2sb.org/https://github.com/MOARdV/AviationLights",
+        "bugtracker": "https://get.2sb.org/https://github.com/MOARdV/AviationLights/issues"
     },
     "tags": [
         "plugin",
@@ -27,7 +27,7 @@
         "fr-fr",
         "zh-cn"
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/MOARdV/AviationLights/releases/download/v4.1.0/AviationLights-4.1.0.zip",
+    "download": "https://get.2sb.org/https://github.com/MOARdV/AviationLights/releases/download/v4.1.0/AviationLights-4.1.0.zip",
     "download_size": 214002,
     "download_hash": {
         "sha1": "7FEEDA0FCA6B42C60C935937DAAC63BCBEC4B26D",

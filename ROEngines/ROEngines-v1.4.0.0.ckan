@@ -10,7 +10,7 @@
     "license": "CC-BY-NC-ND",
     "release_status": "stable",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ROEngines",
+        "repository": "https://get.2sb.org/https://github.com/KSP-RO/ROEngines",
         "metanetkan": "https://raw.githubusercontent.com/KSP-RO/ROEngines/master/ROEngines.netkan"
     },
     "tags": [
@@ -70,7 +70,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ROEngines/releases/download/v1.4.0.0/ROEngines-v1.4.0.0.zip",
+    "download": "https://get.2sb.org/https://github.com/KSP-RO/ROEngines/releases/download/v1.4.0.0/ROEngines-v1.4.0.0.zip",
     "download_size": 64864514,
     "download_hash": {
         "sha1": "3B6FBB2978B71DAB7D6B5B9772A357A8885282AC",

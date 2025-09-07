@@ -25,11 +25,11 @@
     }
   ],
   "resources": {
-    "repository": "https://hk.gh-proxy.com/https://github.com/MOARdV/DistantObject"
+    "repository": "https://get.2sb.org/https://github.com/MOARdV/DistantObject"
   },
   "author": "MOARdV",
   "version": "v1.4.1",
-  "download": "https://hk.gh-proxy.com/https://github.com/MOARdV/DistantObject/releases/download/v1.4.1/DistantObject_1.4.1.zip",
+  "download": "https://get.2sb.org/https://github.com/MOARdV/DistantObject/releases/download/v1.4.1/DistantObject_1.4.1.zip",
   "x_generated_by": "netkan",
   "download_size": 34245
 }

@@ -10,7 +10,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/184488-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ModuleSequentialAnimateGeneric"
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/ModuleSequentialAnimateGeneric"
     },
     "version": "0.0.0.3",
     "ksp_version_min": "1.7.2",
@@ -20,7 +20,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ModuleSequentialAnimateGeneric/releases/download/0.0.0.3/ModuleSequentialAnimateGeneric-1.7.2-0.0.0.3.zip",
+    "download": "https://get.2sb.org/https://github.com/linuxgurugamer/ModuleSequentialAnimateGeneric/releases/download/0.0.0.3/ModuleSequentialAnimateGeneric-1.7.2-0.0.0.3.zip",
     "download_size": 29154,
     "download_hash": {
         "sha1": "5C28A8852D965DDE08819E4D85F090D6ED00BCF4",

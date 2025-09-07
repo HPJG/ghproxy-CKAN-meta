@@ -14,9 +14,9 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://discordapp.com/invite/ZGbR6nv",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ROCapsules",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ROCapsules/issues",
-        "metanetkan": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ROCapsules/raw/master/ROCapsules.netkan",
+        "repository": "https://get.2sb.org/https://github.com/KSP-RO/ROCapsules",
+        "bugtracker": "https://get.2sb.org/https://github.com/KSP-RO/ROCapsules/issues",
+        "metanetkan": "https://get.2sb.org/https://github.com/KSP-RO/ROCapsules/raw/master/ROCapsules.netkan",
         "remote-avc": "https://raw.githubusercontent.com/KSP-RO/ROCapsules/master/GameData/ROCapsules/ROCapsules.version"
     },
     "tags": [
@@ -100,7 +100,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/ROCapsules/releases/download/v2.6.0.1/ROCapsules-v2.6.0.1.zip",
+    "download": "https://get.2sb.org/https://github.com/KSP-RO/ROCapsules/releases/download/v2.6.0.1/ROCapsules-v2.6.0.1.zip",
     "download_size": 263007563,
     "download_hash": {
         "sha1": "D10E77CA0542717F7C53D7F5E36CED2A546F7412",

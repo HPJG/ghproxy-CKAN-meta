@@ -11,8 +11,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://umbraspaceindustries.github.io/UmbraSpaceIndustries/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/UmbraSpaceIndustries/USI_Core",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/UmbraSpaceIndustries/USI_Core/issues",
+        "repository": "https://get.2sb.org/https://github.com/UmbraSpaceIndustries/USI_Core",
+        "bugtracker": "https://get.2sb.org/https://github.com/UmbraSpaceIndustries/USI_Core/issues",
         "metanetkan": "https://raw.githubusercontent.com/UmbraSpaceIndustries/CKAN/master/USI-Core.netkan",
         "remote-avc": "https://raw.githubusercontent.com/BobPalmer/USI_Core/master/FOR_RELEASE/GameData/UmbraSpaceIndustries/USICore.version"
     },
@@ -55,7 +55,7 @@
             ]
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/UmbraSpaceIndustries/USI_Core/releases/download/1.4.0/USICore_1.4.0.0.zip",
+    "download": "https://get.2sb.org/https://github.com/UmbraSpaceIndustries/USI_Core/releases/download/1.4.0/USICore_1.4.0.0.zip",
     "download_size": 10578058,
     "download_hash": {
         "sha1": "42A6AF44E0A7ADB426D398B63CB97377271440B7",

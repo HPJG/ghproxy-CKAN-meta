@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/190993-ksp-17-18-kipard-skylon-v10-jan-13-2020/",
         "spacedock": "https://spacedock.info/mod/2309/Kipard%20Skylon",
-        "repository": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/KipardSkylon",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/KipardSkylon/issues",
+        "repository": "https://get.2sb.org/https://github.com/JadeOfMaar/KipardSkylon",
+        "bugtracker": "https://get.2sb.org/https://github.com/JadeOfMaar/KipardSkylon/issues",
         "remote-avc": "https://raw.githubusercontent.com:443/JadeOfMaar/KipardSkylon/master/GameData/KipardSkylon/Version/KipardSkylon.version",
         "x_screenshot": "https://spacedock.info/content/JadeOfMaar_11026/Kipard_Skylon/Kipard_Skylon-1578896613.8562105.png"
     },
@@ -34,7 +34,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/JadeOfMaar/KipardSkylon/releases/download/1.3.0/KipardSkylon-1.3.0.zip",
+        "https://get.2sb.org/https://github.com/JadeOfMaar/KipardSkylon/releases/download/1.3.0/KipardSkylon-1.3.0.zip",
         "https://spacedock.info/mod/2309/Kipard%20Skylon/download/1.3.0"
     ],
     "download_size": 6755755,

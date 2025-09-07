@@ -14,8 +14,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/174445-151-malahs-quick-mods/",
         "spacedock": "https://spacedock.info/mod/784/QuickFineControl",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/QuickMods",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/QuickMods/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/QuickMods",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/QuickMods/issues",
         "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/QuickMods/refs/heads/master/QuickFineControl/QuickFineControl.version"
     },
     "tags": [
@@ -29,7 +29,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/QuickMods/releases/download/1.4.0.15/QuickFineControl-1.1.0.9.zip",
+        "https://get.2sb.org/https://github.com/linuxgurugamer/QuickMods/releases/download/1.4.0.15/QuickFineControl-1.1.0.9.zip",
         "https://spacedock.info/mod/784/QuickFineControl/download/1.1.0.9"
     ],
     "download_size": 19538,

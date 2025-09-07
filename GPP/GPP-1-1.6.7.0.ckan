@@ -10,8 +10,8 @@
     "license": "CC-BY-NC-ND",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/152136-galileos-planet-pack/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Galileo88/Galileos-Planet-Pack",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Galileo88/Galileos-Planet-Pack/issues",
+        "repository": "https://get.2sb.org/https://github.com/Galileo88/Galileos-Planet-Pack",
+        "bugtracker": "https://get.2sb.org/https://github.com/Galileo88/Galileos-Planet-Pack/issues",
         "remote-avc": "https://raw.githubusercontent.com/Galileo88/Galileos-Planet-Pack/master/GameData/GPP/Version/GalileosPlanetPack.version"
     },
     "tags": [
@@ -131,7 +131,7 @@
             "comment": "This correctly installs Final Frontier for GPP"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Galileo88/Galileos-Planet-Pack/releases/download/1.6.7.0/Galileos-Planet-Pack-1.6.7.0.zip",
+    "download": "https://get.2sb.org/https://github.com/Galileo88/Galileos-Planet-Pack/releases/download/1.6.7.0/Galileos-Planet-Pack-1.6.7.0.zip",
     "download_size": 349842206,
     "download_hash": {
         "sha1": "9EEB58CC68E8463064A517935A01148D44080E89",

@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/146110-181-krakenscience-09-2019-10-19/",
         "spacedock": "https://spacedock.info/mod/905/KrakenScience",
-        "repository": "https://hk.gh-proxy.com/https://github.com/AstroWell/KrakenScience",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/AstroWell/KrakenScience/issues",
+        "repository": "https://get.2sb.org/https://github.com/AstroWell/KrakenScience",
+        "bugtracker": "https://get.2sb.org/https://github.com/AstroWell/KrakenScience/issues",
         "x_screenshot": "https://spacedock.info/content/Well_7448/KrakenScience/KrakenScience-1471524523.7837543.jpg"
     },
     "tags": [
@@ -26,7 +26,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/AstroWell/KrakenScience/releases/download/v1.0/KrakenScience-1.0.zip",
+        "https://get.2sb.org/https://github.com/AstroWell/KrakenScience/releases/download/v1.0/KrakenScience-1.0.zip",
         "https://spacedock.info/mod/905/KrakenScience/download/1.0"
     ],
     "download_size": 3688228,

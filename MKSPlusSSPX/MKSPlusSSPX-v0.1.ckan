@@ -9,8 +9,8 @@
     "license": "GPL-3.0",
     "resources": {
         "spacedock": "https://spacedock.info/mod/3539/MKSPlusSSPX",
-        "repository": "https://hk.gh-proxy.com/https://github.com/MildlyFootwear/MKSPlusSSPX",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/MildlyFootwear/MKSPlusSSPX/issues"
+        "repository": "https://get.2sb.org/https://github.com/MildlyFootwear/MKSPlusSSPX",
+        "bugtracker": "https://get.2sb.org/https://github.com/MildlyFootwear/MKSPlusSSPX/issues"
     },
     "tags": [
         "crewed",

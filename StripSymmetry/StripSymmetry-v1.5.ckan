@@ -8,12 +8,12 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/80654",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Biotronic/StripSymmetry"
+        "repository": "https://get.2sb.org/https://github.com/Biotronic/StripSymmetry"
     },
     "version": "v1.5",
     "ksp_version_min": "0.25",
     "ksp_version_max": "0.90",
-    "download": "https://hk.gh-proxy.com/https://github.com/Biotronic/StripSymmetry/releases/download/v1.5/StripSymmetry_1.5.zip",
+    "download": "https://get.2sb.org/https://github.com/Biotronic/StripSymmetry/releases/download/v1.5/StripSymmetry_1.5.zip",
     "download_size": 15001,
     "download_hash": {
         "sha1": "F6321FB21CA1EDED72E5C9882AD21E0810DE649A",

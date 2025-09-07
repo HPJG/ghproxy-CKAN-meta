@@ -9,8 +9,8 @@
     "ksp_version_max": "1.12.99",
     "license": "CC-BY-NC-SA",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ModuleAnimateDualGenerics",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ModuleAnimateDualGenerics/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/ModuleAnimateDualGenerics",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/ModuleAnimateDualGenerics/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/ModuleAnimateDualGenerics"
     },
     "tags": [
@@ -23,7 +23,7 @@
             "filter_regexp": "\\.mdb$"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ModuleAnimateDualGenerics/releases/download/0.0.1.5/ModuleAnimateDualGenerics-1.12.0-0.0.1.5.zip",
+    "download": "https://get.2sb.org/https://github.com/linuxgurugamer/ModuleAnimateDualGenerics/releases/download/0.0.1.5/ModuleAnimateDualGenerics-1.12.0-0.0.1.5.zip",
     "download_size": 16496,
     "download_hash": {
         "sha1": "67B07FBAB6B3429F1893A0236403A3FC3EC56FF7",

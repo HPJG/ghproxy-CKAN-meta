@@ -11,8 +11,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/169611-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/yalov/SpeedUnitAnnex",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/yalov/SpeedUnitAnnex/issues",
+        "repository": "https://get.2sb.org/https://github.com/yalov/SpeedUnitAnnex",
+        "bugtracker": "https://get.2sb.org/https://github.com/yalov/SpeedUnitAnnex/issues",
         "remote-avc": "https://raw.githubusercontent.com/yalov/SpeedUnitAnnex/master/SpeedUnitAnnex.version"
     },
     "tags": [
@@ -38,7 +38,7 @@
             "name": "SpeedUnitDisplay"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/yalov/SpeedUnitAnnex/releases/download/1.4.1.1/SpeedUnitAnnex-v1.4.1.1.zip",
+    "download": "https://get.2sb.org/https://github.com/yalov/SpeedUnitAnnex/releases/download/1.4.1.1/SpeedUnitAnnex-v1.4.1.1.zip",
     "download_size": 37144,
     "download_hash": {
         "sha1": "B6028614B10B698A4D8843C3C7088D4A19E26D8A",

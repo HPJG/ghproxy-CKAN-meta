@@ -13,8 +13,8 @@
     "license": "restricted",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/52931-0",
-        "repository": "https://hk.gh-proxy.com/https://github.com/ChrisViral/RealChute",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/ChrisViral/RealChute/issues",
+        "repository": "https://get.2sb.org/https://github.com/ChrisViral/RealChute",
+        "bugtracker": "https://get.2sb.org/https://github.com/ChrisViral/RealChute/issues",
         "remote-avc": "https://raw.githubusercontent.com/ChrisViral/RealChute/master/Output/GameData/RealChute/RealChute.version"
     },
     "tags": [
@@ -36,7 +36,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/ChrisViral/RealChute/releases/download/v1.4.9.0/RealChute_v1.4.9.0.zip",
+    "download": "https://get.2sb.org/https://github.com/ChrisViral/RealChute/releases/download/v1.4.9.0/RealChute_v1.4.9.0.zip",
     "download_size": 2676171,
     "download_hash": {
         "sha1": "FBBE376F06675413A9E2C8714148207671A960B0",

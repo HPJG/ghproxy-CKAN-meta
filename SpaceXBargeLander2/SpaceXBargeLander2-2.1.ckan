@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/210023-spacex-barge-lander-2/",
         "spacedock": "https://spacedock.info/mod/3133/SpaceX%20Barge%20Lander%202",
-        "repository": "https://hk.gh-proxy.com/https://github.com/StarshipSLS/SpaceXBarge",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/StarshipSLS/SpaceXBarge/issues",
+        "repository": "https://get.2sb.org/https://github.com/StarshipSLS/SpaceXBarge",
+        "bugtracker": "https://get.2sb.org/https://github.com/StarshipSLS/SpaceXBarge/issues",
         "x_screenshot": "https://spacedock.info/content/starshipsls_80141/SpaceX_Barge_Lander_2/SpaceX_Barge_Lander_2-1665161995.png"
     },
     "tags": [

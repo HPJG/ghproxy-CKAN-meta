@@ -14,7 +14,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/83356-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/sawyerap/MapResourceOverlay"
+        "repository": "https://get.2sb.org/https://github.com/sawyerap/MapResourceOverlay"
     },
     "tags": [
         "plugin",
@@ -37,7 +37,7 @@
             "name": "SCANsat"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/sawyerap/MapResourceOverlay/releases/download/0.2.9/MapResourceOverlay.0.2.9.zip",
+    "download": "https://get.2sb.org/https://github.com/sawyerap/MapResourceOverlay/releases/download/0.2.9/MapResourceOverlay.0.2.9.zip",
     "download_size": 60127,
     "download_hash": {
         "sha1": "6E705267EA357ACD63F5A1BDDCA0219C907C87F9",

@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/76320",
-        "repository": "https://hk.gh-proxy.com/https://github.com/SirDiazo/LandingHeight"
+        "repository": "https://get.2sb.org/https://github.com/SirDiazo/LandingHeight"
     },
     "version": "2.0",
     "ksp_version_min": "1.2",
@@ -19,7 +19,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/SirDiazo/LandingHeight/releases/download/2.0/LandingHeight20.zip",
+    "download": "https://get.2sb.org/https://github.com/SirDiazo/LandingHeight/releases/download/2.0/LandingHeight20.zip",
     "download_size": 5374,
     "download_hash": {
         "sha1": "2BA074DB7EE477ABBCC8B24C2D8BBB8DE1CBF757",

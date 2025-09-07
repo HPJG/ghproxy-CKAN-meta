@@ -10,7 +10,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/182372-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/severedsolo/FlightTracker"
+        "repository": "https://get.2sb.org/https://github.com/severedsolo/FlightTracker"
     },
     "tags": [
         "plugin",
@@ -22,7 +22,7 @@
             "name": "KerbalChangelog"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/severedsolo/FlightTracker/releases/download/2.0/FlightTracker.zip",
+    "download": "https://get.2sb.org/https://github.com/severedsolo/FlightTracker/releases/download/2.0/FlightTracker.zip",
     "download_size": 7185,
     "download_hash": {
         "sha1": "1261F06CF87A776A203309F459A979A6E7CE95E7",

@@ -7,7 +7,7 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/169509-141-toolbar-controller-for-modders/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ToolbarControl"
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/ToolbarControl"
     },
     "version": "1:0.1.6.2",
     "ksp_version_min": "1.4.1",
@@ -23,7 +23,7 @@
             "find": "001_ToolbarControl"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ToolbarControl/releases/download/0.1.6.2/001_ToolbarControl-0.1.6.2.zip",
+    "download": "https://get.2sb.org/https://github.com/linuxgurugamer/ToolbarControl/releases/download/0.1.6.2/001_ToolbarControl-0.1.6.2.zip",
     "download_size": 106312,
     "download_hash": {
         "sha1": "9D4061A28E7514CB8E55C811FAD0E567692B3989",

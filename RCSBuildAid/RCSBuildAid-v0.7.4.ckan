@@ -6,9 +6,9 @@
     "resources":
     {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/35996",
-        "manual": "https://hk.gh-proxy.com/https://github.com/m4v/RCSBuildAid/blob/master/README.asciidoc",
-        "repository": "https://hk.gh-proxy.com/https://github.com/m4v/RCSBuildAid",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/m4v/RCSBuildAid/issues"
+        "manual": "https://get.2sb.org/https://github.com/m4v/RCSBuildAid/blob/master/README.asciidoc",
+        "repository": "https://get.2sb.org/https://github.com/m4v/RCSBuildAid",
+        "bugtracker": "https://get.2sb.org/https://github.com/m4v/RCSBuildAid/issues"
     },
     "name": "RCS Build Aid",
     "license": "LGPL-3.0",

@@ -9,8 +9,8 @@
     "license": "CC-BY-NC-ND-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/203753-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/jcyuan06/Kcalbeloh-System",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/jcyuan06/Kcalbeloh-System/issues"
+        "repository": "https://get.2sb.org/https://github.com/jcyuan06/Kcalbeloh-System",
+        "bugtracker": "https://get.2sb.org/https://github.com/jcyuan06/Kcalbeloh-System/issues"
     },
     "tags": [
         "planet-pack"
@@ -51,7 +51,7 @@
             "name": "Scatterer"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/jcyuan06/Kcalbeloh-System/releases/download/v1.1.6/Kcalbeloh.System.v1.1.6.zip",
+    "download": "https://get.2sb.org/https://github.com/jcyuan06/Kcalbeloh-System/releases/download/v1.1.6/Kcalbeloh.System.v1.1.6.zip",
     "download_size": 633936,
     "download_hash": {
         "sha1": "8F67A96709D6635C24BE4CA69F8E126C3E017C37",

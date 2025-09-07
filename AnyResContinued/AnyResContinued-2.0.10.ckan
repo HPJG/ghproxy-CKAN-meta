@@ -11,7 +11,7 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/170160-131-anyres-continued-change-your-screen-resolution-on-the-fly/",
         "spacedock": "https://spacedock.info/mod/1681/AnyRes%20Continued",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/AnyRes",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/AnyRes",
         "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/AnyRes/master/AnyRes.version",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/AnyRes_Continued/AnyRes_Continued-1517085590.1798694.png"
     },
@@ -40,7 +40,7 @@
             ]
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/AnyRes/releases/download/2.0.10/AnyRes-1.12.0-2.0.10.zip",
+    "download": "https://get.2sb.org/https://github.com/linuxgurugamer/AnyRes/releases/download/2.0.10/AnyRes-1.12.0-2.0.10.zip",
     "download_size": 24118,
     "download_hash": {
         "sha1": "7FFCB271DA9DA46FC5415D3F31BE608000671CE5",

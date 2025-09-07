@@ -8,8 +8,8 @@
     "license": "restricted",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/226204-112x-celestial-harmony-v10-wip/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/ProximaCentauri-star/Celestial-Harmony",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/ProximaCentauri-star/Celestial-Harmony/issues"
+        "repository": "https://get.2sb.org/https://github.com/ProximaCentauri-star/Celestial-Harmony",
+        "bugtracker": "https://get.2sb.org/https://github.com/ProximaCentauri-star/Celestial-Harmony/issues"
     },
     "tags": [
         "planet-pack"
@@ -42,7 +42,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/ProximaCentauri-star/Celestial-Harmony/releases/download/1.0.4/_Chaos.zip",
+    "download": "https://get.2sb.org/https://github.com/ProximaCentauri-star/Celestial-Harmony/releases/download/1.0.4/_Chaos.zip",
     "download_size": 1898714507,
     "download_hash": {
         "sha1": "4A7F576EC7BE4D4248274C5B81AABFF11AAC819A",

@@ -10,7 +10,7 @@
     "license": "CC-BY-NC-SA-3.0",
     "release_status": "stable",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/TacLifeSupport"
+        "repository": "https://get.2sb.org/https://github.com/KSP-RO/TacLifeSupport"
     },
     "version": "v0.11.3",
     "ksp_version_max": "1.1.3",
@@ -35,7 +35,7 @@
             "install_to": "GameData/ThunderAerospace/TacLifeSupport/PluginData/TacLifeSupport"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/TacLifeSupport/releases/download/v0.11.3/TacLifeSupport_0.11.3.0.zip",
+    "download": "https://get.2sb.org/https://github.com/KSP-RO/TacLifeSupport/releases/download/v0.11.3/TacLifeSupport_0.11.3.0.zip",
     "download_size": 6000123,
     "download_hash": {
         "sha1": "D25F9C0582D2881C68BDF7B1D28C919374A86F81",

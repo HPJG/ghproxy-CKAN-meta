@@ -13,9 +13,9 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/192212-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSPModStewards/TUFX",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSPModStewards/TUFX/issues",
-        "discussions": "https://hk.gh-proxy.com/https://github.com/KSPModStewards/TUFX/discussions",
+        "repository": "https://get.2sb.org/https://github.com/KSPModStewards/TUFX",
+        "bugtracker": "https://get.2sb.org/https://github.com/KSPModStewards/TUFX/issues",
+        "discussions": "https://get.2sb.org/https://github.com/KSPModStewards/TUFX/discussions",
         "remote-avc": "https://raw.githubusercontent.com/KSPModStewards/TUFX/main/GameData/TUFX/TexturesUnlimitedFX.version"
     },
     "tags": [
@@ -41,7 +41,7 @@
             "name": "KerbalChangelog"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSPModStewards/TUFX/releases/download/1.1.0/TUFX-1.1.0.zip",
+    "download": "https://get.2sb.org/https://github.com/KSPModStewards/TUFX/releases/download/1.1.0/TUFX-1.1.0.zip",
     "download_size": 32752162,
     "download_hash": {
         "sha1": "F3944752726BF229A5DCB1D695024759759EF928",

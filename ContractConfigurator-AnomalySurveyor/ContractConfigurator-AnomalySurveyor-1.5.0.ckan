@@ -8,8 +8,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/109471",
-        "repository": "https://hk.gh-proxy.com/https://github.com/jrossignol/ContractPack-AnomalySurveyor",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/jrossignol/ContractPack-AnomalySurveyor/issues",
+        "repository": "https://get.2sb.org/https://github.com/jrossignol/ContractPack-AnomalySurveyor",
+        "bugtracker": "https://get.2sb.org/https://github.com/jrossignol/ContractPack-AnomalySurveyor/issues",
         "license": "https://raw.githubusercontent.com/jrossignol/ContractPack-AnomalySurveyor/master/GameData/ContractPacks/AnomalySurveyor/LICENSE.txt"
     },
     "version": "1.5.0",
@@ -37,7 +37,7 @@
             "install_to": "GameData/ContractPacks"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/jrossignol/ContractPack-AnomalySurveyor/releases/download/1.5.0/ContractPack-AnomalySurveyor.zip",
+    "download": "https://get.2sb.org/https://github.com/jrossignol/ContractPack-AnomalySurveyor/releases/download/1.5.0/ContractPack-AnomalySurveyor.zip",
     "download_size": 450298,
     "download_hash": {
         "sha1": "A951D2A79EFDD96F6B888A6BFA3BF565CAC62F22",

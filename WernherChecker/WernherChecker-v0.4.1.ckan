@@ -8,8 +8,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/63591",
         "spacedock": "https://spacedock.info/mod/648/WernherChecker",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Magion/WernherChecker",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Magion/WernherChecker/issues",
+        "repository": "https://get.2sb.org/https://github.com/Magion/WernherChecker",
+        "bugtracker": "https://get.2sb.org/https://github.com/Magion/WernherChecker/issues",
         "x_screenshot": "https://spacedock.info/content/Magion_3897/WernherChecker/WernherChecker-1462382404.2798154.png"
     },
     "version": "v0.4.1",

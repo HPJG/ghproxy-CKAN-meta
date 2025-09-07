@@ -6,11 +6,11 @@
     "author": "ClawKSP",
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/ClawKSP/KSP-Stock-Bug-Fix-Modules"
+        "repository": "https://get.2sb.org/https://github.com/ClawKSP/KSP-Stock-Bug-Fix-Modules"
     },
     "version": "v0.1.7d",
     "ksp_version": "0.90",
-    "download": "https://hk.gh-proxy.com/https://github.com/ClawKSP/KSP-Stock-Bug-Fix-Modules/releases/download/v0.1.7d/StockBugFixModules.v0.1.7d.zip",
+    "download": "https://get.2sb.org/https://github.com/ClawKSP/KSP-Stock-Bug-Fix-Modules/releases/download/v0.1.7d/StockBugFixModules.v0.1.7d.zip",
     "download_size": 28074,
     "download_hash": {
         "sha1": "6CC58987988974840AACF96A8B5089A52DFA0A1C",

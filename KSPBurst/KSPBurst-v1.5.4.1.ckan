@@ -10,8 +10,8 @@
     "license": "unknown",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/201112-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSPModdingLibs/KSPBurst",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSPModdingLibs/KSPBurst/issues",
+        "repository": "https://get.2sb.org/https://github.com/KSPModdingLibs/KSPBurst",
+        "bugtracker": "https://get.2sb.org/https://github.com/KSPModdingLibs/KSPBurst/issues",
         "remote-avc": "https://raw.githubusercontent.com/KSPModdingLibs/KSPBurst/master/GameData/000_KSPBurst/KSPBurst.version"
     },
     "tags": [
@@ -26,7 +26,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSPModdingLibs/KSPBurst/releases/download/v1.5.4.1/KSPBurst_1.5.4.1.zip",
+    "download": "https://get.2sb.org/https://github.com/KSPModdingLibs/KSPBurst/releases/download/v1.5.4.1/KSPBurst_1.5.4.1.zip",
     "download_size": 314980544,
     "download_hash": {
         "sha1": "99DE485245F2BB5B2DF4B60D880F849976C17DBB",

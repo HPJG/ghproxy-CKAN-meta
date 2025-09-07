@@ -7,7 +7,7 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/138848-112-historian-expanded/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Aelfhe1m/Historian-Expanded"
+        "repository": "https://get.2sb.org/https://github.com/Aelfhe1m/Historian-Expanded"
     },
     "version": "v.1.2.4",
     "ksp_version": "1.1",
@@ -25,7 +25,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Aelfhe1m/Historian-Expanded/releases/download/v.1.2.4/Historian-1.2.4b.zip",
+    "download": "https://get.2sb.org/https://github.com/Aelfhe1m/Historian-Expanded/releases/download/v.1.2.4/Historian-1.2.4b.zip",
     "download_size": 75019,
     "download_hash": {
         "sha1": "59080F99AD034854E76B3787F49E5FF56E175DBE",

@@ -7,11 +7,11 @@
     "license": "CC-BY-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/174596-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Sujimichi/CraftManager"
+        "repository": "https://get.2sb.org/https://github.com/Sujimichi/CraftManager"
     },
     "version": "1.0.1",
     "ksp_version": "1.3",
-    "download": "https://hk.gh-proxy.com/https://github.com/Sujimichi/CraftManager/releases/download/1.0.1/CraftManager.zip",
+    "download": "https://get.2sb.org/https://github.com/Sujimichi/CraftManager/releases/download/1.0.1/CraftManager.zip",
     "download_size": 272495,
     "download_hash": {
         "sha1": "E67648917FF0A393F5D0DF0975D318AFF781AF4D",

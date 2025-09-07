@@ -9,8 +9,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/137197-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/cguckes/ksp-chroma",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/cguckes/ksp-chroma/issues"
+        "repository": "https://get.2sb.org/https://github.com/cguckes/ksp-chroma",
+        "bugtracker": "https://get.2sb.org/https://github.com/cguckes/ksp-chroma/issues"
     },
     "tags": [
         "plugin",
@@ -22,7 +22,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/cguckes/ksp-chroma/releases/download/v1.3/KSP-Chroma-Control.zip",
+    "download": "https://get.2sb.org/https://github.com/cguckes/ksp-chroma/releases/download/v1.3/KSP-Chroma-Control.zip",
     "download_size": 53096,
     "download_hash": {
         "sha1": "931D9A1E4F36E981CEB95D21D351A819A4BF841D",

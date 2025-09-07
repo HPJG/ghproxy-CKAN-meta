@@ -7,7 +7,7 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/183393-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/yalov/KVASS"
+        "repository": "https://get.2sb.org/https://github.com/yalov/KVASS"
     },
     "version": "0.11.0",
     "ksp_version_min": "1.4.5",
@@ -36,7 +36,7 @@
             "name": "KerbalConstructionTime"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/yalov/KVASS/releases/download/0.11.0/KVASS-v0.11.0.zip",
+    "download": "https://get.2sb.org/https://github.com/yalov/KVASS/releases/download/0.11.0/KVASS-v0.11.0.zip",
     "download_size": 35994,
     "download_hash": {
         "sha1": "F8AC22772D5DEAD2EDB485EB2479D94E5A19613A",

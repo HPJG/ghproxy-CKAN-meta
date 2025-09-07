@@ -11,8 +11,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/200375-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/HebaruSan/PlanningNode",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/HebaruSan/PlanningNode/issues",
+        "repository": "https://get.2sb.org/https://github.com/HebaruSan/PlanningNode",
+        "bugtracker": "https://get.2sb.org/https://github.com/HebaruSan/PlanningNode/issues",
         "remote-avc": "https://raw.githubusercontent.com/HebaruSan/PlanningNode/master/GameData/PlanningNode/PlanningNode.version"
     },
     "tags": [
@@ -31,7 +31,7 @@
             "name": "LoadingTipsPlus"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/HebaruSan/PlanningNode/releases/download/v0.1.4/PlanningNode.zip",
+    "download": "https://get.2sb.org/https://github.com/HebaruSan/PlanningNode/releases/download/v0.1.4/PlanningNode.zip",
     "download_size": 60805,
     "download_hash": {
         "sha1": "B89CDD0130D35AB68EF9360458BEDC0ECDE3628A",

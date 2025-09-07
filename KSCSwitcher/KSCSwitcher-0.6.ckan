@@ -7,7 +7,7 @@
     "license": "BSD-2-clause",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/117893",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/KSCSwitcher"
+        "repository": "https://get.2sb.org/https://github.com/KSP-RO/KSCSwitcher"
     },
     "version": "0.6",
     "ksp_version": "1.1",
@@ -17,7 +17,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/KSCSwitcher/releases/download/0.6/KSC_Switcher-0.6.zip",
+    "download": "https://get.2sb.org/https://github.com/KSP-RO/KSCSwitcher/releases/download/0.6/KSC_Switcher-0.6.zip",
     "download_size": 28565,
     "download_hash": {
         "sha1": "D1BF821E936310C4183B7DF8F2E1EEF527B78D98",

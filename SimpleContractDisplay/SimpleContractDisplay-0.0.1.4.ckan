@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/206386-112x-simple-contract-display/",
         "spacedock": "https://spacedock.info/mod/2948/Simple%20Contract%20Display",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/SimpleContractDisplay",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/SimpleContractDisplay/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/SimpleContractDisplay",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/SimpleContractDisplay/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/SimpleContractDisplay",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Simple_Contract_Display/Simple_Contract_Display-1642035050.png"
     },
@@ -41,7 +41,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/SimpleContractDisplay/releases/download/0.0.1.4/SimpleContractDisplay-1.12.0-0.0.1.4.zip",
+        "https://get.2sb.org/https://github.com/linuxgurugamer/SimpleContractDisplay/releases/download/0.0.1.4/SimpleContractDisplay-1.12.0-0.0.1.4.zip",
         "https://spacedock.info/mod/2948/Simple%20Contract%20Display/download/0.0.1.4"
     ],
     "download_size": 72766,

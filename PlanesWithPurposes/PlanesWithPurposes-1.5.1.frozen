@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/224389-112x-planes-with-purposes-continued-pwp/#comment-4378612",
         "spacedock": "https://spacedock.info/mod/2601/Planes%20With%20Purposes",
-        "repository": "https://hk.gh-proxy.com/https://github.com/TudorAerospace/PWP",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/TudorAerospace/PWP/issues",
+        "repository": "https://get.2sb.org/https://github.com/TudorAerospace/PWP",
+        "bugtracker": "https://get.2sb.org/https://github.com/TudorAerospace/PWP/issues",
         "x_screenshot": "https://spacedock.info/content/Tudor_51927/Planes_With_Purposes/Planes_With_Purposes-1609314388.2805192.png"
     },
     "tags": [
@@ -34,7 +34,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/TudorAerospace/PWP/releases/download/1.5.1/PWP.1.5.1.zip",
+        "https://get.2sb.org/https://github.com/TudorAerospace/PWP/releases/download/1.5.1/PWP.1.5.1.zip",
         "https://spacedock.info/mod/2601/Planes%20With%20Purposes/download/1.5.1"
     ],
     "download_size": 212453,

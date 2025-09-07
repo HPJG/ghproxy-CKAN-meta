@@ -8,8 +8,8 @@
     "license": "MIT",
     "release_status": "stable",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/TriggerAu/AlternateResourcePanel",
-        "license": "https://hk.gh-proxy.com/https://github.com/TriggerAu/AlternateResourcePanel/blob/master/LICENSE"
+        "repository": "https://get.2sb.org/https://github.com/TriggerAu/AlternateResourcePanel",
+        "license": "https://get.2sb.org/https://github.com/TriggerAu/AlternateResourcePanel/blob/master/LICENSE"
     },
     "version": "v2.7.4.0",
     "ksp_version": "any",
@@ -19,7 +19,7 @@
             "install_to": "GameData/TriggerTech"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/TriggerAu/AlternateResourcePanel/releases/download/v2.7.4.0/KSPAlternateResourcePanel_2.7.4.0.zip",
+    "download": "https://get.2sb.org/https://github.com/TriggerAu/AlternateResourcePanel/releases/download/v2.7.4.0/KSPAlternateResourcePanel_2.7.4.0.zip",
     "download_size": 302308,
     "download_hash": {
         "sha1": "5724FA8812E2B4A56768C85C6A222D189DCEB6F8",

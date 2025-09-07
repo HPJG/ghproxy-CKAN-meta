@@ -7,8 +7,8 @@
     "version": "1.1",
     "license": "GPL-3.0",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/aspctt/BLEAK",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/aspctt/BLEAK/issues"
+        "repository": "https://get.2sb.org/https://github.com/aspctt/BLEAK",
+        "bugtracker": "https://get.2sb.org/https://github.com/aspctt/BLEAK/issues"
     },
     "tags": [
         "config",
@@ -19,7 +19,7 @@
             "name": "TUFX"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/aspctt/BLEAK/releases/download/1.1/BLEAK-1.1.zip",
+    "download": "https://get.2sb.org/https://github.com/aspctt/BLEAK/releases/download/1.1/BLEAK-1.1.zip",
     "download_size": 2184,
     "download_hash": {
         "sha1": "144E36ED5B2A6E03605A08474BE86F1EEC2D24AB",

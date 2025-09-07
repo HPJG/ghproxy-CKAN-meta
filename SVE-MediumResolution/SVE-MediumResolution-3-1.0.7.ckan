@@ -9,7 +9,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/143288-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Galileo88/StockVisualEnhancements"
+        "repository": "https://get.2sb.org/https://github.com/Galileo88/StockVisualEnhancements"
     },
     "version": "3:1.0.7",
     "ksp_version_min": "1.2",
@@ -32,7 +32,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Galileo88/StockVisualEnhancements/releases/download/1.0.7/SVE_MedResTextures.zip",
+    "download": "https://get.2sb.org/https://github.com/Galileo88/StockVisualEnhancements/releases/download/1.0.7/SVE_MedResTextures.zip",
     "download_size": 51692814,
     "download_hash": {
         "sha1": "F69B6E222DDD004224DA105750747DA6D64A66B1",

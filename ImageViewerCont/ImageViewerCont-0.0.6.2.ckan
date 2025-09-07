@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/151470-121-image-viewer-continued/",
         "spacedock": "https://spacedock.info/mod/1037/Image%20Viewer%20Continued",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ksp-img_viewer",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ksp-img_viewer/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/ksp-img_viewer",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/ksp-img_viewer/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/ImageViewerCont",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Image_Viewer_Continued/Image_Viewer_Continued-1486669877.0698829.png"
     },
@@ -34,7 +34,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ksp-img_viewer/releases/download/0.0.6.2/Image_Viewer_Continued-0.0.6.2.zip",
+        "https://get.2sb.org/https://github.com/linuxgurugamer/ksp-img_viewer/releases/download/0.0.6.2/Image_Viewer_Continued-0.0.6.2.zip",
         "https://spacedock.info/mod/1037/Image%20Viewer%20Continued/download/0.0.6.2"
     ],
     "download_size": 104142,

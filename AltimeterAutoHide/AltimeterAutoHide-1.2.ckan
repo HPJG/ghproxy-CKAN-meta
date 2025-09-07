@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/197164-1101-altimeterautohide-v10/",
         "spacedock": "https://spacedock.info/mod/2541/AltimeterAutoHide",
-        "repository": "https://hk.gh-proxy.com/https://github.com/todi/AltimeterAutoHide",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/todi/AltimeterAutoHide/issues"
+        "repository": "https://get.2sb.org/https://github.com/todi/AltimeterAutoHide",
+        "bugtracker": "https://get.2sb.org/https://github.com/todi/AltimeterAutoHide/issues"
     },
     "tags": [
         "plugin",

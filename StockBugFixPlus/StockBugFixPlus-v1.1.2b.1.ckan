@@ -7,7 +7,7 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/87737-/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/ClawKSP/KSP-Stock-Bug-Fix-Modules"
+        "repository": "https://get.2sb.org/https://github.com/ClawKSP/KSP-Stock-Bug-Fix-Modules"
     },
     "version": "v1.1.2b.1",
     "ksp_version": "1.1.2",
@@ -19,7 +19,7 @@
             "name": "StockPlus"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/ClawKSP/KSP-Stock-Bug-Fix-Modules/releases/download/v1.1.2b.1/StockBugFixPlus.v1.1.2b.1.zip",
+    "download": "https://get.2sb.org/https://github.com/ClawKSP/KSP-Stock-Bug-Fix-Modules/releases/download/v1.1.2b.1/StockBugFixPlus.v1.1.2b.1.zip",
     "download_size": 39235,
     "download_hash": {
         "sha1": "2BCA8CE5E477CC8CECA2B263697757370934E532",

@@ -6,11 +6,11 @@
     "author": "jinks",
     "license": "GPL-3.0",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/jinks/targetron"
+        "repository": "https://get.2sb.org/https://github.com/jinks/targetron"
     },
     "version": "v1.4.2",
     "ksp_version": "0.90",
-    "download": "https://hk.gh-proxy.com/https://github.com/jinks/targetron/releases/download/v1.4.2/Targetron_1.4.2.zip",
+    "download": "https://get.2sb.org/https://github.com/jinks/targetron/releases/download/v1.4.2/Targetron_1.4.2.zip",
     "download_size": 46127,
     "download_hash": {
         "sha1": "3D1BBDFB9C5F9CE75DFB94E09D5496CDE4F356DE",

@@ -8,8 +8,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/90954-105-safechute-v180-continued/",
         "spacedock": "https://spacedock.info/mod/280/SafeChute",
-        "repository": "https://hk.gh-proxy.com/https://github.com/henrybauer/SafeChute",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/henrybauer/SafeChute/issues"
+        "repository": "https://get.2sb.org/https://github.com/henrybauer/SafeChute",
+        "bugtracker": "https://get.2sb.org/https://github.com/henrybauer/SafeChute/issues"
     },
     "version": "v2.1.11",
     "ksp_version_min": "1.4.1",

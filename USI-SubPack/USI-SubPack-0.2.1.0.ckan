@@ -7,7 +7,7 @@
     "license": "restricted",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/128491-wip-otter-submersible-usi-submarine-parts/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/BobPalmer/SubPack"
+        "repository": "https://get.2sb.org/https://github.com/BobPalmer/SubPack"
     },
     "version": "0.2.1.0",
     "ksp_version": "1.2.0",
@@ -30,7 +30,7 @@
             "install_to": "GameData/UmbraSpaceIndustries"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/BobPalmer/SubPack/releases/download/0.2.1.0/SubPack_0.2.1.0.zip",
+    "download": "https://get.2sb.org/https://github.com/BobPalmer/SubPack/releases/download/0.2.1.0/SubPack_0.2.1.0.zip",
     "download_size": 4532625,
     "download_hash": {
         "sha1": "81BEC9BCACC2BA551062221EFA833A9883801CFE",

@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/178733-14x-action-group-manager-renewed/",
         "spacedock": "https://spacedock.info/mod/1976/Action%20Group%20Manager%20Renewed",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ActionGroupManager/",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ActionGroupManager/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/ActionGroupManager/",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/ActionGroupManager/issues",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Action_Group_Manager_Renewed/Action_Group_Manager_Renewed-1562530514.3111498.png"
     },
     "tags": [
@@ -38,7 +38,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ActionGroupManager/releases/download/2.2.6.1/ActionGroupManager-1.8.0-2.2.6.1.zip",
+    "download": "https://get.2sb.org/https://github.com/linuxgurugamer/ActionGroupManager/releases/download/2.2.6.1/ActionGroupManager-1.8.0-2.2.6.1.zip",
     "download_size": 91437,
     "download_hash": {
         "sha1": "25DEA9C70F11C7EC88BCC11EF776F6B4F958A077",

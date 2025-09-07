@@ -13,8 +13,8 @@
     "license": "CC-BY-NC-ND-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/184880-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Galileo88/JNSQ",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Galileo88/JNSQ/issues",
+        "repository": "https://get.2sb.org/https://github.com/Galileo88/JNSQ",
+        "bugtracker": "https://get.2sb.org/https://github.com/Galileo88/JNSQ/issues",
         "remote-avc": "https://raw.githubusercontent.com/Galileo88/JNSQ/master/GameData/JNSQ/Version/JNSQ.version"
     },
     "tags": [
@@ -40,7 +40,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Galileo88/JNSQ/releases/download/0.10.2/JNSQ.0.10.2.zip",
+    "download": "https://get.2sb.org/https://github.com/Galileo88/JNSQ/releases/download/0.10.2/JNSQ.0.10.2.zip",
     "download_size": 2046110130,
     "download_hash": {
         "sha1": "174A112588399590A22E1AA4EC2FED04E2691871",

@@ -14,8 +14,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?showtopic=192129",
-        "repository": "https://hk.gh-proxy.com/https://github.com/mwerle/ShipManifest",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/mwerle/ShipManifest/issues",
+        "repository": "https://get.2sb.org/https://github.com/mwerle/ShipManifest",
+        "bugtracker": "https://get.2sb.org/https://github.com/mwerle/ShipManifest/issues",
         "remote-avc": "https://raw.githubusercontent.com/mwerle/ShipManifest/master/Distribution/GameData/ShipManifest/ShipManifest.version"
     },
     "tags": [
@@ -49,7 +49,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/mwerle/ShipManifest/releases/download/6.0.2.0/ShipManifest-6.0.2.0_20201230085422.zip",
+    "download": "https://get.2sb.org/https://github.com/mwerle/ShipManifest/releases/download/6.0.2.0/ShipManifest-6.0.2.0_20201230085422.zip",
     "download_size": 709131,
     "download_hash": {
         "sha1": "A242EE2AB43FCEB013643020F2B18E98F00038AF",

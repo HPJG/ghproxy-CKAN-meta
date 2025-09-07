@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/112328-11-deepfreeze-continued",
         "spacedock": "https://spacedock.info/mod/142/DeepFreeze%20Continued...",
-        "repository": "https://hk.gh-proxy.com/https://github.com/JPLRepo/DeepFreeze",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/JPLRepo/DeepFreeze/issues",
+        "repository": "https://get.2sb.org/https://github.com/JPLRepo/DeepFreeze",
+        "bugtracker": "https://get.2sb.org/https://github.com/JPLRepo/DeepFreeze/issues",
         "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=183",
         "x_screenshot": "https://spacedock.info/content/Jplrepo_405/DeepFreeze_Continued/DeepFreeze_Continued-1455815976.3129282.png"
     },
@@ -81,7 +81,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/JPLRepo/DeepFreeze/releases/download/v0.31.0.0/DeepFreeze_V0.31.0.0.zip",
+        "https://get.2sb.org/https://github.com/JPLRepo/DeepFreeze/releases/download/v0.31.0.0/DeepFreeze_V0.31.0.0.zip",
         "https://spacedock.info/mod/142/DeepFreeze%20Continued.../download/V0.31.0.0"
     ],
     "download_size": 23063324,

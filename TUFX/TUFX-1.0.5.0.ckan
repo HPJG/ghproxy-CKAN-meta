@@ -13,8 +13,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/192212-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/shadowmage45/TUFX",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/shadowmage45/TUFX/issues",
+        "repository": "https://get.2sb.org/https://github.com/shadowmage45/TUFX",
+        "bugtracker": "https://get.2sb.org/https://github.com/shadowmage45/TUFX/issues",
         "remote-avc": "https://raw.githubusercontent.com/shadowmage45/TUFX/master/GameData/TUFX/TexturesUnlimitedFX.version"
     },
     "tags": [
@@ -29,7 +29,7 @@
             "name": "Shabby"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/shadowmage45/TUFX/releases/download/1.0.5.0/TUFX-1.0.5.0.zip",
+    "download": "https://get.2sb.org/https://github.com/shadowmage45/TUFX/releases/download/1.0.5.0/TUFX-1.0.5.0.zip",
     "download_size": 32408276,
     "download_hash": {
         "sha1": "F851847E54CFF87DAB4043980DF38A8E49FE399A",

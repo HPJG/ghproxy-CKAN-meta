@@ -7,7 +7,7 @@
     "license": "CC-BY-NC-SA-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/96670-105-ubiozur-welding-ltd-continued",
-        "repository": "https://hk.gh-proxy.com/https://github.com/UbioWeldingLtd/UbioWeldContinued"
+        "repository": "https://get.2sb.org/https://github.com/UbioWeldingLtd/UbioWeldContinued"
     },
     "version": "2.4.3",
     "ksp_version_min": "1.2.0",
@@ -18,7 +18,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/UbioWeldingLtd/UbioWeldContinued/releases/download/2.4.3/UbioWeldContinued-2.4.3.zip",
+    "download": "https://get.2sb.org/https://github.com/UbioWeldingLtd/UbioWeldContinued/releases/download/2.4.3/UbioWeldContinued-2.4.3.zip",
     "download_size": 76089,
     "download_hash": {
         "sha1": "43CC8EBE5D82ED3048245E313BC91F3551CBCCC0",

@@ -8,11 +8,11 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/80277",
-        "repository": "https://hk.gh-proxy.com/https://github.com/DaMichel/KerbalFlightIndicators"
+        "repository": "https://get.2sb.org/https://github.com/DaMichel/KerbalFlightIndicators"
     },
     "version": "R14-KSP1.2-compat",
     "ksp_version": "1.1",
-    "download": "https://hk.gh-proxy.com/https://github.com/DaMichel/KerbalFlightIndicators/releases/download/R14-KSP1.2-compat/KerbalFlightIndicatorsR14.zip",
+    "download": "https://get.2sb.org/https://github.com/DaMichel/KerbalFlightIndicators/releases/download/R14-KSP1.2-compat/KerbalFlightIndicatorsR14.zip",
     "download_size": 29861,
     "download_hash": {
         "sha1": "CF493C83DB2600A4B4C4B93BEA257CC6963ED647",

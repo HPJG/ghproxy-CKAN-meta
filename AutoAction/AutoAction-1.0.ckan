@@ -7,7 +7,7 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/101994",
-        "repository": "https://hk.gh-proxy.com/https://github.com/SirDiazo/AutoAction"
+        "repository": "https://get.2sb.org/https://github.com/SirDiazo/AutoAction"
     },
     "version": "1.0",
     "ksp_version": "0.25",
@@ -21,7 +21,7 @@
             "name": "Toolbar"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/SirDiazo/AutoAction/releases/download/1.0/AutoActions10.zip",
+    "download": "https://get.2sb.org/https://github.com/SirDiazo/AutoAction/releases/download/1.0/AutoActions10.zip",
     "download_size": 15333,
     "download_hash": {
         "sha1": "AD3D688238AA9F3D52CCB232B33DCC2E99159264",

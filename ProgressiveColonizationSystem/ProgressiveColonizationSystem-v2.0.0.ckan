@@ -10,7 +10,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/181852-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/SteveBenz/ProgressiveColonizationSystem"
+        "repository": "https://get.2sb.org/https://github.com/SteveBenz/ProgressiveColonizationSystem"
     },
     "tags": [
         "plugin",
@@ -37,7 +37,7 @@
             "name": "StationPartsExpansionRedux"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/SteveBenz/ProgressiveColonizationSystem/releases/download/v2.0.0/ProgressiveColonizationSystem.zip",
+    "download": "https://get.2sb.org/https://github.com/SteveBenz/ProgressiveColonizationSystem/releases/download/v2.0.0/ProgressiveColonizationSystem.zip",
     "download_size": 2429740,
     "download_hash": {
         "sha1": "194D7C30AF6B54960A97EB17C5E569E2DA23771F",

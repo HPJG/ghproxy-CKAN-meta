@@ -13,8 +13,8 @@
     "license": "CC-BY-NC-SA-4.0",
     "release_status": "testing",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/zorg2044/BoringCrewServices",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/zorg2044/BoringCrewServices/issues",
+        "repository": "https://get.2sb.org/https://github.com/zorg2044/BoringCrewServices",
+        "bugtracker": "https://get.2sb.org/https://github.com/zorg2044/BoringCrewServices/issues",
         "remote-avc": "https://raw.githubusercontent.com:443/zorg2044/BoringCrewServices/main/GameData/BoringCrewServices/Versioning/BoringCrewServices.version"
     },
     "tags": [
@@ -105,7 +105,7 @@
             "as": "VAB"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/zorg2044/BoringCrewServices/releases/download/v1.2.0-b1/BoringCrewServices-v1.2.0-b1.zip",
+    "download": "https://get.2sb.org/https://github.com/zorg2044/BoringCrewServices/releases/download/v1.2.0-b1/BoringCrewServices-v1.2.0-b1.zip",
     "download_size": 39911106,
     "download_hash": {
         "sha256": "0014B33EBE4A4AD18A520F4B1266744FCC3961982B5E947ED3E37D45C7FBBE2B"

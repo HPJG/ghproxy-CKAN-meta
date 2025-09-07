@@ -9,8 +9,8 @@
     ],
     "license": "MIT",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/brama0309/AustrianSpaceAgency",
-        "repository": "https://hk.gh-proxy.com/https://github.com/brama0309/AustrianSpaceAgency"
+        "homepage": "https://get.2sb.org/https://github.com/brama0309/AustrianSpaceAgency",
+        "repository": "https://get.2sb.org/https://github.com/brama0309/AustrianSpaceAgency"
     },
     "tags": [
         "flags"
@@ -32,7 +32,7 @@
             "install_to": "GameData/TextureReplacer/Suits"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/brama0309/AustrianSpaceAgency/releases/download/1.1.1/AustrianSpaceAgency-1.1.1.zip",
+    "download": "https://get.2sb.org/https://github.com/brama0309/AustrianSpaceAgency/releases/download/1.1.1/AustrianSpaceAgency-1.1.1.zip",
     "download_size": 2126428,
     "download_hash": {
         "sha1": "A4F28ED799423E98306A001CDC47EB7EB80B580A",

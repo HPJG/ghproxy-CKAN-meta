@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/80842",
-        "repository": "https://hk.gh-proxy.com/https://github.com/DaMichel/KerbalFlightData"
+        "repository": "https://get.2sb.org/https://github.com/DaMichel/KerbalFlightData"
     },
     "version": "R22",
     "ksp_version": "1.2",
@@ -17,7 +17,7 @@
             "name": "FerramAerospaceResearch"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/DaMichel/KerbalFlightData/releases/download/R22/KerbalFlightDataR22.zip",
+    "download": "https://get.2sb.org/https://github.com/DaMichel/KerbalFlightData/releases/download/R22/KerbalFlightDataR22.zip",
     "download_size": 25694,
     "download_hash": {
         "sha1": "AAA4D20A4F1A1658F1AEACDD1CEB119D5F2D8602",

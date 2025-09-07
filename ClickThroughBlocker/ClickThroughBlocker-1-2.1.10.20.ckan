@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/170747-131-click-through-blocker/",
         "spacedock": "https://spacedock.info/mod/1689/Click%20Through%20Blocker",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ClickThroughBlocker",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ClickThroughBlocker/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/ClickThroughBlocker",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/ClickThroughBlocker/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/ClickThroughBlocker"
     },
     "tags": [

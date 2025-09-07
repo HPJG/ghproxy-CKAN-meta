@@ -10,8 +10,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/200375-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/HebaruSan/PlanningNode",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/HebaruSan/PlanningNode/issues",
+        "repository": "https://get.2sb.org/https://github.com/HebaruSan/PlanningNode",
+        "bugtracker": "https://get.2sb.org/https://github.com/HebaruSan/PlanningNode/issues",
         "remote-avc": "https://raw.githubusercontent.com/HebaruSan/PlanningNode/master/GameData/PlanningNode/PlanningNode.version"
     },
     "tags": [
@@ -38,7 +38,7 @@
             "name": "ManeuverNodeEvolved"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/HebaruSan/PlanningNode/releases/download/v0.1.0/PlanningNode.zip",
+    "download": "https://get.2sb.org/https://github.com/HebaruSan/PlanningNode/releases/download/v0.1.0/PlanningNode.zip",
     "download_size": 41789,
     "download_hash": {
         "sha1": "3A7CB4FE32CFE4A22069918109F6C6C6A0C28959",

@@ -6,7 +6,7 @@
     "author": "Galileo88",
     "license": "CC-BY-NC-ND",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/Galileo88/SSRSSContinued"
+        "repository": "https://get.2sb.org/https://github.com/Galileo88/SSRSSContinued"
     },
     "version": "v0.0.2.2",
     "ksp_version": "1.2.2",
@@ -24,7 +24,7 @@
             "find": "SSRSS"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Galileo88/SSRSSContinued/releases/download/v0.0.2.2/SSRSS.v0.0.2.2.zip",
+    "download": "https://get.2sb.org/https://github.com/Galileo88/SSRSSContinued/releases/download/v0.0.2.2/SSRSS.v0.0.2.2.zip",
     "download_size": 239413301,
     "download_hash": {
         "sha1": "9765E51057B600665589DF4B9397377D2C3DFE34",

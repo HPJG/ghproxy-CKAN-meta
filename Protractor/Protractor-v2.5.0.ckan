@@ -6,7 +6,7 @@
     "author": "RealGrep",
     "license": "GPL-3.0",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/RealGrep/Protractor"
+        "repository": "https://get.2sb.org/https://github.com/RealGrep/Protractor"
     },
     "version": "v2.5.0",
     "ksp_version": "1.0.0",
@@ -16,7 +16,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/RealGrep/protractor/releases/download/v2.5.0/ProtractorContinued-v2.5.0.zip",
+    "download": "https://get.2sb.org/https://github.com/RealGrep/protractor/releases/download/v2.5.0/ProtractorContinued-v2.5.0.zip",
     "download_size": 67835,
     "download_hash": {
         "sha1": "1017B73456E4C5D21A2928D26D733D92BBFDB6CF",

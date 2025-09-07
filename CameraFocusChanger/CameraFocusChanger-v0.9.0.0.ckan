@@ -7,7 +7,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/136086",
-        "repository": "https://hk.gh-proxy.com/https://github.com/zentarul/camerafocuschanger"
+        "repository": "https://get.2sb.org/https://github.com/zentarul/camerafocuschanger"
     },
     "version": "v0.9.0.0",
     "ksp_version_min": "1.1.0",
@@ -17,7 +17,7 @@
             "name": "KSP-AVC"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/zentarul/camerafocuschanger/releases/download/v0.9.0.0/CameraFocusChanger.zip",
+    "download": "https://get.2sb.org/https://github.com/zentarul/camerafocuschanger/releases/download/v0.9.0.0/CameraFocusChanger.zip",
     "download_size": 4490,
     "download_hash": {
         "sha1": "F052DDA679B5DBF5246DFA3D73F12A7DD880C579",

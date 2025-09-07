@@ -7,7 +7,7 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/42624-0-90-PWB-Fuel-Balancer-v0-1-(25th-February-2015)",
-        "repository": "https://hk.gh-proxy.com/https://github.com/codepoetpbowden/PWBFuelBalancer",
+        "repository": "https://get.2sb.org/https://github.com/codepoetpbowden/PWBFuelBalancer",
         "kerbalstuff": "https://kerbalstuff.com/mod/614/PWB%20Fuel%20Balancer"
     },
     "version": "0.1.1",

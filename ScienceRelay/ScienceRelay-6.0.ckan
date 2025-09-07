@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/108704-1",
         "spacedock": "https://spacedock.info/mod/988/Science%20Relay",
-        "repository": "https://hk.gh-proxy.com/https://github.com/DMagic1/KSP_Science_Relay",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/DMagic1/KSP_Science_Relay/issues",
+        "repository": "https://get.2sb.org/https://github.com/DMagic1/KSP_Science_Relay",
+        "bugtracker": "https://get.2sb.org/https://github.com/DMagic1/KSP_Science_Relay/issues",
         "remote-avc": "https://raw.githubusercontent.com/DMagic1/KSP_Science_Relay/master/GameData/ScienceRelay/ScienceRelay.version",
         "x_screenshot": "https://spacedock.info/content/DMagic_247/Science_Relay/Science_Relay-1476395012.2065744.png"
     },

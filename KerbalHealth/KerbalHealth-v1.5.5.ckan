@@ -10,8 +10,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/155313-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/GarwelGarwel/KerbalHealth",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/GarwelGarwel/KerbalHealth/issues",
+        "repository": "https://get.2sb.org/https://github.com/GarwelGarwel/KerbalHealth",
+        "bugtracker": "https://get.2sb.org/https://github.com/GarwelGarwel/KerbalHealth/issues",
         "remote-avc": "https://raw.githubusercontent.com:443/GarwelGarwel/KerbalHealth/master/GameData/KerbalHealth/KerbalHealth.version"
     },
     "tags": [
@@ -41,7 +41,7 @@
             "name": "UKS"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/GarwelGarwel/KerbalHealth/releases/download/v1.5.5/KerbalHealth_1.5.5.zip",
+    "download": "https://get.2sb.org/https://github.com/GarwelGarwel/KerbalHealth/releases/download/v1.5.5/KerbalHealth_1.5.5.zip",
     "download_size": 123861,
     "download_hash": {
         "sha1": "6123E36FE882F5007EB08985ADAEA9FD29ABE7A8",

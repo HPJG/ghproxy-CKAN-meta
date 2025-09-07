@@ -15,8 +15,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/155382-16x-surface-experiment-pack-deployable-science-for-kiskas-v27-13jan19/",
         "spacedock": "https://spacedock.info/mod/318/Surface%20Experiment%20Pack",
-        "repository": "https://hk.gh-proxy.com/https://github.com/CobaltWolf/Surface-Experiment-Pack",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/CobaltWolf/Surface-Experiment-Pack/issues",
+        "repository": "https://get.2sb.org/https://github.com/CobaltWolf/Surface-Experiment-Pack",
+        "bugtracker": "https://get.2sb.org/https://github.com/CobaltWolf/Surface-Experiment-Pack/issues",
         "remote-avc": "https://raw.githubusercontent.com/CobaltWolf/Surface-Experiment-Pack/master/GameData/SurfaceExperimentPackage/SurfaceExperimentPackage.version",
         "x_screenshot": "https://spacedock.info/content/AlbertKermin_1290/Surface_Experiment_Pack/Surface_Experiment_Pack-1456786410.472347.png"
     },

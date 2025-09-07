@@ -8,8 +8,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/24786",
-        "repository": "https://hk.gh-proxy.com/https://github.com/TriggerAu/KerbalAlarmClock",
-        "license": "https://hk.gh-proxy.com/https://github.com/TriggerAu/KerbalAlarmClock/blob/master/LICENSE",
+        "repository": "https://get.2sb.org/https://github.com/TriggerAu/KerbalAlarmClock",
+        "license": "https://get.2sb.org/https://github.com/TriggerAu/KerbalAlarmClock/blob/master/LICENSE",
         "manual": "http://triggerau.github.io/KerbalAlarmClock/",
         "curse": "http://kerbal.curseforge.com/ksp-mods/220289-kerbal-alarm-clock"
     },
@@ -27,7 +27,7 @@
             "install_to": "GameData/TriggerTech"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/TriggerAu/KerbalAlarmClock/releases/download/v3.7.0.0/KerbalAlarmClock_3.7.0.0.zip",
+    "download": "https://get.2sb.org/https://github.com/TriggerAu/KerbalAlarmClock/releases/download/v3.7.0.0/KerbalAlarmClock_3.7.0.0.zip",
     "download_size": 1412104,
     "download_hash": {
         "sha1": "F3D18B44DC98E1C830A1FC28222A27BB156C924A",

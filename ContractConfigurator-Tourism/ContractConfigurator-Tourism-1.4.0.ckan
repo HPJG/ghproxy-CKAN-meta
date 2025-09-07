@@ -8,8 +8,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/102372-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/jrossignol/ContractPack-Tourism",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/jrossignol/ContractPack-Tourism/issues",
+        "repository": "https://get.2sb.org/https://github.com/jrossignol/ContractPack-Tourism",
+        "bugtracker": "https://get.2sb.org/https://github.com/jrossignol/ContractPack-Tourism/issues",
         "license": "https://raw.githubusercontent.com/jrossignol/ContractPack-Tourism/master/GameData/ContractPacks/Tourism/LICENSE.txt"
     },
     "version": "1.4.0",
@@ -33,7 +33,7 @@
             "install_to": "GameData/ContractPacks"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/jrossignol/ContractPack-Tourism/releases/download/1.4.0/ContractPack-Tourism_1.4.0.zip",
+    "download": "https://get.2sb.org/https://github.com/jrossignol/ContractPack-Tourism/releases/download/1.4.0/ContractPack-Tourism_1.4.0.zip",
     "download_size": 43541,
     "download_hash": {
         "sha1": "80D0C9767F31F1A192F20FC9463FB9669C889219",

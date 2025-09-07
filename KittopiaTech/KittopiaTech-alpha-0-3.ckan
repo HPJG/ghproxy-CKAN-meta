@@ -14,7 +14,7 @@
     "license": "LGPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/129186",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Kopernicus/KittopiaTech"
+        "repository": "https://get.2sb.org/https://github.com/Kopernicus/KittopiaTech"
     },
     "version": "alpha-0-3",
     "ksp_version": "1.0.5",
@@ -30,7 +30,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Kopernicus/KittopiaTech/releases/download/alpha-0-3/KittopiaTech.0.3.zip",
+    "download": "https://get.2sb.org/https://github.com/Kopernicus/KittopiaTech/releases/download/alpha-0-3/KittopiaTech.0.3.zip",
     "download_size": 35665,
     "download_hash": {
         "sha1": "55D365DF3A6633F349A59FFE093CB3448272CFEE",

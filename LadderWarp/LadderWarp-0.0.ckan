@@ -10,8 +10,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/195824-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/DarthPointer/LadderWarp",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/DarthPointer/LadderWarp/issues",
+        "repository": "https://get.2sb.org/https://github.com/DarthPointer/LadderWarp",
+        "bugtracker": "https://get.2sb.org/https://github.com/DarthPointer/LadderWarp/issues",
         "remote-avc": "https://raw.githubusercontent.com/DarthPointer/LadderWarp/master/GameData/LadderWarp/LadderWarp.version"
     },
     "tags": [
@@ -22,7 +22,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/DarthPointer/LadderWarp/releases/download/0.0/LadderWarp0-0.zip",
+    "download": "https://get.2sb.org/https://github.com/DarthPointer/LadderWarp/releases/download/0.0/LadderWarp0-0.zip",
     "download_size": 3705,
     "download_hash": {
         "sha1": "281F98C6BA9AA4D44C289889BF6CE0AC039AE24B",

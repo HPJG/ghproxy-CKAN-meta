@@ -14,8 +14,8 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/155056-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/shadowmage45/KerbalFoundries2",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/shadowmage45/KerbalFoundries2/issues",
+        "repository": "https://get.2sb.org/https://github.com/shadowmage45/KerbalFoundries2",
+        "bugtracker": "https://get.2sb.org/https://github.com/shadowmage45/KerbalFoundries2/issues",
         "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=430"
     },
     "tags": [
@@ -47,7 +47,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/shadowmage45/KerbalFoundries2/releases/download/2.4.8.18/KerbalFoundries-2.4.8.18.zip",
+    "download": "https://get.2sb.org/https://github.com/shadowmage45/KerbalFoundries2/releases/download/2.4.8.18/KerbalFoundries-2.4.8.18.zip",
     "download_size": 56904537,
     "download_hash": {
         "sha1": "15DB2E6035E4051DE838FEA308EA3AB09F8CCB6E",

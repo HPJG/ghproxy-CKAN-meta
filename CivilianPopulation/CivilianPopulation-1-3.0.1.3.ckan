@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/191409-18x-19x-civilian-population/",
         "spacedock": "https://spacedock.info/mod/2560/CivilianPopulationModernized",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/CivilianPopulation",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/CivilianPopulation/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/CivilianPopulation",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/CivilianPopulation/issues",
         "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/CivilianPopulation/refs/heads/master/CivilianPopulation.version",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/CivilianPopulationModernized/CivilianPopulationModernized-1604513334.4672391.png"
     },
@@ -36,7 +36,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/CivilianPopulation/releases/download/3.0.1.3/CivilianPopulationModernized-3.0.1.3.zip",
+        "https://get.2sb.org/https://github.com/linuxgurugamer/CivilianPopulation/releases/download/3.0.1.3/CivilianPopulationModernized-3.0.1.3.zip",
         "https://spacedock.info/mod/2560/CivilianPopulationModernized/download/3.0.1.3"
     ],
     "download_size": 18969467,

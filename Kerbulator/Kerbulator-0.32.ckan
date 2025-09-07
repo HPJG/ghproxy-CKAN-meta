@@ -6,11 +6,11 @@
     "author": "wmvanvliet",
     "license": "GPL-3.0",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/wmvanvliet/Kerbulator"
+        "repository": "https://get.2sb.org/https://github.com/wmvanvliet/Kerbulator"
     },
     "version": "0.32",
     "ksp_version": "1.0.2",
-    "download": "https://hk.gh-proxy.com/https://github.com/wmvanvliet/Kerbulator/releases/download/0.32/Kerbulator-0.32.zip",
+    "download": "https://get.2sb.org/https://github.com/wmvanvliet/Kerbulator/releases/download/0.32/Kerbulator-0.32.zip",
     "download_size": 569083,
     "download_hash": {
         "sha1": "55626FCBB20C7808CAB2B44492C83574EA0A93EB",

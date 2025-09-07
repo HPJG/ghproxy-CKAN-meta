@@ -7,7 +7,7 @@
     "license": "restricted",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/126548-/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Sigma88/Sigma-Dimensions"
+        "repository": "https://get.2sb.org/https://github.com/Sigma88/Sigma-Dimensions"
     },
     "version": "0.4.3",
     "ksp_version": "1.0.5",
@@ -27,7 +27,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Sigma88/Sigma-Dimensions/releases/download/v0.4.3/Sigma-Dimensions.v0.4.3.zip",
+    "download": "https://get.2sb.org/https://github.com/Sigma88/Sigma-Dimensions/releases/download/v0.4.3/Sigma-Dimensions.v0.4.3.zip",
     "download_size": 94349,
     "download_hash": {
         "sha1": "CDACC802A11125730FE5393A0CA7D6C2B0B40A07",

@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/227886-112x-kerbalism-3x-kerbalism-lab-experiments-expanded-continued/",
         "spacedock": "https://spacedock.info/mod/3883/Kerbalism%20Lab%20Experiments%20Expanded%20(Continued)",
-        "repository": "https://hk.gh-proxy.com/https://github.com/johnabsher/KerbalismLabExperimentsExpandedContinued",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/johnabsher/KerbalismLabExperimentsExpandedContinued/issues",
+        "repository": "https://get.2sb.org/https://github.com/johnabsher/KerbalismLabExperimentsExpandedContinued",
+        "bugtracker": "https://get.2sb.org/https://github.com/johnabsher/KerbalismLabExperimentsExpandedContinued/issues",
         "x_screenshot": "https://spacedock.info/content/AtomicRocketBooster_158932/Kerbalism_Lab_Experiments_Expanded_Continued/Kerbalism_Lab_Experiments_Expanded_Continued-1746890548.png"
     },
     "tags": [
@@ -53,7 +53,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/johnabsher/KerbalismLabExperimentsExpandedContinued/releases/download/v1.0.0/KerbalismLabExperimentsExpandedContinued.zip",
+        "https://get.2sb.org/https://github.com/johnabsher/KerbalismLabExperimentsExpandedContinued/releases/download/v1.0.0/KerbalismLabExperimentsExpandedContinued.zip",
         "https://spacedock.info/mod/3883/Kerbalism%20Lab%20Experiments%20Expanded%20(Continued)/download/1.0.0"
     ],
     "download_size": 88459,

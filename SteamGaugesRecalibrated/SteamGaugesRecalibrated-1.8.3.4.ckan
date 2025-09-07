@@ -11,7 +11,7 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/197605-18x-19x-110x-steam-gauges-recalibrated/",
         "spacedock": "https://spacedock.info/mod/2550/Steam%20Gauges%20Recalibrated",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/SteamGaugesRecalibrated",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/SteamGaugesRecalibrated",
         "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/SteamGaugesRecalibrated/master/SteamGaugesRecalibrated.version",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Steam_Gauges_Recalibrated/Steam_Gauges_Recalibrated-1603398001.1224365.png"
     },
@@ -37,7 +37,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/SteamGaugesRecalibrated/releases/download/1.8.3.4/SteamGaugesRecalibrated-1.12.0-1.8.3.4.zip",
+        "https://get.2sb.org/https://github.com/linuxgurugamer/SteamGaugesRecalibrated/releases/download/1.8.3.4/SteamGaugesRecalibrated-1.12.0-1.8.3.4.zip",
         "https://spacedock.info/mod/2550/Steam%20Gauges%20Recalibrated/download/1.8.3.4"
     ],
     "download_size": 5073992,

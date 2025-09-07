@@ -43,7 +43,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Galileo88/OPM_Galileo/releases/download/1.2.4/OPM_Galileo.v1.2.4.zip",
+    "download": "https://get.2sb.org/https://github.com/Galileo88/OPM_Galileo/releases/download/1.2.4/OPM_Galileo.v1.2.4.zip",
     "download_size": 122386712,
     "download_hash": {
         "sha1": "6850979009DF9FE1252D2AAE010A2FF964677347",

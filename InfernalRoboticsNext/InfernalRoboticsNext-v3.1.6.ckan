@@ -15,8 +15,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/184787-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/meirumeiru/InfernalRobotics",
-        "remote-avc": "https://hk.gh-proxy.com/https://github.com/meirumeiru/InfernalRobotics/raw/develop/Resources/GameData/MagicSmokeIndustries/InfernalRobotics.version"
+        "repository": "https://get.2sb.org/https://github.com/meirumeiru/InfernalRobotics",
+        "remote-avc": "https://get.2sb.org/https://github.com/meirumeiru/InfernalRobotics/raw/develop/Resources/GameData/MagicSmokeIndustries/InfernalRobotics.version"
     },
     "tags": [
         "parts",
@@ -53,7 +53,7 @@
             "filter": "Scale_Redist.dll"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/meirumeiru/InfernalRobotics/releases/download/v3.1.6/InfernalRobotics_v3.1.6.zip",
+    "download": "https://get.2sb.org/https://github.com/meirumeiru/InfernalRobotics/releases/download/v3.1.6/InfernalRobotics_v3.1.6.zip",
     "download_size": 3093693,
     "download_hash": {
         "sha1": "BC6858B81024AA7EC6E9CB906B1B3C40CA3D220E",

@@ -12,8 +12,8 @@
     "license": "restricted",
     "resources": {
         "homepage": "http://kerbokatz.github.io/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KerboKatz/SmallUtilities",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KerboKatz/SmallUtilities/issues"
+        "repository": "https://get.2sb.org/https://github.com/KerboKatz/SmallUtilities",
+        "bugtracker": "https://get.2sb.org/https://github.com/KerboKatz/SmallUtilities/issues"
     },
     "tags": [
         "plugin",
@@ -36,7 +36,7 @@
             "install_to": "GameData/KerboKatz/SmallUtilities"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KerboKatz/SmallUtilities/releases/download/1.5.4-KSP1.8/SmallUtilities.DestroyAll.zip",
+    "download": "https://get.2sb.org/https://github.com/KerboKatz/SmallUtilities/releases/download/1.5.4-KSP1.8/SmallUtilities.DestroyAll.zip",
     "download_size": 77514,
     "download_hash": {
         "sha1": "8FB6C822D246BA3CCA3539F280E4881F157B5637",

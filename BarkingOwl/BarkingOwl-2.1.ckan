@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/225489-1125-barking-owl-bureau-pbr-texturing-and-tu-configs-for-bdb-21-july-20th-2024/",
         "spacedock": "https://spacedock.info/mod/3665/Barking%20Owl%20Bureau",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Bellabong/Barking-Owl-Bureau",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Bellabong/Barking-Owl-Bureau/issues",
+        "repository": "https://get.2sb.org/https://github.com/Bellabong/Barking-Owl-Bureau",
+        "bugtracker": "https://get.2sb.org/https://github.com/Bellabong/Barking-Owl-Bureau/issues",
         "x_screenshot": "https://spacedock.info/content/Bellabong_137903/Barking_Owl_Bureau/Barking_Owl_Bureau-1721466929.png"
     },
     "tags": [
@@ -48,7 +48,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/Bellabong/Barking-Owl-Bureau/releases/download/2.1/BarkingOwl2.1.zip",
+        "https://get.2sb.org/https://github.com/Bellabong/Barking-Owl-Bureau/releases/download/2.1/BarkingOwl2.1.zip",
         "https://spacedock.info/mod/3665/Barking%20Owl%20Bureau/download/2.1"
     ],
     "download_size": 132225649,

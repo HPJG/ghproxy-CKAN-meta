@@ -6,7 +6,7 @@
     "author": "linuxgurugamer",
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/InlineBallutes"
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/InlineBallutes"
     },
     "version": "1.2.9.4",
     "ksp_version_min": "1.0.5",
@@ -28,7 +28,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/InlineBallutes/releases/download/1.2.9.4/InlineBallutes-1.2.9.4.zip",
+    "download": "https://get.2sb.org/https://github.com/linuxgurugamer/InlineBallutes/releases/download/1.2.9.4/InlineBallutes-1.2.9.4.zip",
     "download_size": 1263783,
     "download_hash": {
         "sha1": "0CBFA13B2E6744B8CB56385796C896E07EBA189C",

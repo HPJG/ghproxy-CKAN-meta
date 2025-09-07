@@ -7,7 +7,7 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/116064",
-        "repository": "https://hk.gh-proxy.com/https://github.com/MagicSmokeIndustries/InfernalRobotics"
+        "repository": "https://get.2sb.org/https://github.com/MagicSmokeIndustries/InfernalRobotics"
     },
     "version": "v2.0.2",
     "ksp_version": "1.1.2",
@@ -35,7 +35,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/MagicSmokeIndustries/InfernalRobotics/releases/download/2.0.2/IR-2.0.2-Final-Core.zip",
+    "download": "https://get.2sb.org/https://github.com/MagicSmokeIndustries/InfernalRobotics/releases/download/2.0.2/IR-2.0.2-Final-Core.zip",
     "download_size": 294314,
     "download_hash": {
         "sha1": "E13D092C94C7426E50EFC47278C639CEDD1B4B72",

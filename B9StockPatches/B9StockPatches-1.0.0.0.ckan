@@ -11,9 +11,9 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/190870-*/",
         "spacedock": "https://spacedock.info/mod/2374/B9%20Stock%20Patches%20(B9SP)",
-        "repository": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/B9StockPatches",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/B9StockPatches/issues",
-        "discussions": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/B9StockPatches/discussions",
+        "repository": "https://get.2sb.org/https://github.com/zer0Kerbal/B9StockPatches",
+        "bugtracker": "https://get.2sb.org/https://github.com/zer0Kerbal/B9StockPatches/issues",
+        "discussions": "https://get.2sb.org/https://github.com/zer0Kerbal/B9StockPatches/discussions",
         "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/B9StockPatches/master/B9StockPatches.version",
         "x_screenshot": "https://spacedock.info/content/zer0Kerbal_21147/B9_Stock_Patches/B9_Stock_Patches-1585289714.5641556.jpg"
     },
@@ -37,7 +37,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/B9StockPatches/releases/download/1.0.0.0/B9StockPatches-1.0.0.0.zip",
+        "https://get.2sb.org/https://github.com/zer0Kerbal/B9StockPatches/releases/download/1.0.0.0/B9StockPatches-1.0.0.0.zip",
         "https://spacedock.info/mod/2374/B9%20Stock%20Patches%20(B9SP)/download/1.0.0.0"
     ],
     "download_size": 16845,

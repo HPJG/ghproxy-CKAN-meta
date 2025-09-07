@@ -14,7 +14,7 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/182683-*/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Flupster/KSP-X-Science"
+        "repository": "https://get.2sb.org/https://github.com/Flupster/KSP-X-Science"
     },
     "tags": [
         "plugin",
@@ -27,7 +27,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Flupster/KSP-X-Science/releases/download/5.24/x.Science.5.24.zip",
+    "download": "https://get.2sb.org/https://github.com/Flupster/KSP-X-Science/releases/download/5.24/x.Science.5.24.zip",
     "download_size": 134492,
     "download_hash": {
         "sha1": "652509C9A8DC71BBB4F53E5E0365B9675DD7BFAF",

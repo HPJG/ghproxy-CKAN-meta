@@ -10,8 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/227437-custom-overlay/",
         "spacedock": "https://spacedock.info/mod/3847/Custom%20Overlay",
-        "repository": "https://hk.gh-proxy.com/https://github.com/AMPW-german/CustomOverlay",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/AMPW-german/CustomOverlay/issues",
+        "repository": "https://get.2sb.org/https://github.com/AMPW-german/CustomOverlay",
+        "bugtracker": "https://get.2sb.org/https://github.com/AMPW-german/CustomOverlay/issues",
         "x_screenshot": "https://spacedock.info/content/AMPW_135698/Custom_Overlay/Custom_Overlay-1742846738.png"
     },
     "tags": [
@@ -31,7 +31,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/AMPW-german/CustomOverlay/releases/download/v1.1.2/CustomOverlay.zip",
+        "https://get.2sb.org/https://github.com/AMPW-german/CustomOverlay/releases/download/v1.1.2/CustomOverlay.zip",
         "https://spacedock.info/mod/3847/Custom%20Overlay/download/1.1.2"
     ],
     "download_size": 76015,

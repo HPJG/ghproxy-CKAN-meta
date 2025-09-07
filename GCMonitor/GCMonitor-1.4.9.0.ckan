@@ -9,7 +9,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/83821-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/sarbian/GCMonitor",
+        "repository": "https://get.2sb.org/https://github.com/sarbian/GCMonitor",
         "ci": "https://ksp.sarbian.com/jenkins/job/GCMonitor/",
         "remote-avc": "https://ksp.sarbian.com/jenkins/job/GCMonitor/19/artifact/GCMonitor/GCMonitor.version"
     },

@@ -7,8 +7,8 @@
     "version": "v0.3.6",
     "license": "MIT",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/Globul-Art/RSS_Adapter",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Globul-Art/RSS_Adapter/issues"
+        "repository": "https://get.2sb.org/https://github.com/Globul-Art/RSS_Adapter",
+        "bugtracker": "https://get.2sb.org/https://github.com/Globul-Art/RSS_Adapter/issues"
     },
     "tags": [
         "config",
@@ -64,7 +64,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Globul-Art/RSS_Adapter/releases/download/v0.3.6/RSS_Adapter.0.3.6.zip",
+    "download": "https://get.2sb.org/https://github.com/Globul-Art/RSS_Adapter/releases/download/v0.3.6/RSS_Adapter.0.3.6.zip",
     "download_size": 190692,
     "download_hash": {
         "sha1": "196571825AABC633D7C12515F832C442CE321F81",

@@ -7,7 +7,7 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/176073-14-bob",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/BobsPanicBox"
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/BobsPanicBox"
     },
     "version": "0.0.1.6",
     "ksp_version_min": "1.4.3",
@@ -34,7 +34,7 @@
             "find": "BobsPanicBox"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/BobsPanicBox/releases/download/0.0.1.6/BobsPanicBox-0.0.1.6.zip",
+    "download": "https://get.2sb.org/https://github.com/linuxgurugamer/BobsPanicBox/releases/download/0.0.1.6/BobsPanicBox-0.0.1.6.zip",
     "download_size": 55664,
     "download_hash": {
         "sha1": "09C41F18C1374C0240A943591BC3FF76F58267F7",

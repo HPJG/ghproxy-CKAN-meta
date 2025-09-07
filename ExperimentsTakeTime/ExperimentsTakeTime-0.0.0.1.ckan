@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/208414-112x-experiments-take-time/#comment-4139854",
         "spacedock": "https://spacedock.info/mod/3033/ExperimentsTakeTime",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ExperimentsTakeTime",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ExperimentsTakeTime/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/ExperimentsTakeTime",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/ExperimentsTakeTime/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/ExperimentsTakeTime"
     },
     "tags": [

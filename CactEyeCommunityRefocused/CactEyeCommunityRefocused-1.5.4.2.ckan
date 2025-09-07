@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/198257-112x-cacteye-2-refocused/",
         "spacedock": "https://spacedock.info/mod/2930/CactEye-2%20Orbital%20Telescope%20Refocused",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/CactEye-2",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/CactEye-2/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/CactEye-2",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/CactEye-2/issues",
         "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/CactEye-2/refs/heads/master/CactEyeCommunityRefocused.version"
     },
     "tags": [
@@ -55,7 +55,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/CactEye-2/releases/download/1.5.4.2/CactEyeCommunityRefocused-1.12.0-1.5.4.2.zip",
+        "https://get.2sb.org/https://github.com/linuxgurugamer/CactEye-2/releases/download/1.5.4.2/CactEyeCommunityRefocused-1.12.0-1.5.4.2.zip",
         "https://spacedock.info/mod/2930/CactEye-2%20Orbital%20Telescope%20Refocused/download/1.5.4.2"
     ],
     "download_size": 7780302,

@@ -10,8 +10,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/204309-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Tantares/GemstoneLV",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Tantares/GemstoneLV/issues",
+        "repository": "https://get.2sb.org/https://github.com/Tantares/GemstoneLV",
+        "bugtracker": "https://get.2sb.org/https://github.com/Tantares/GemstoneLV/issues",
         "remote-avc": "https://raw.githubusercontent.com/Tantares/GemstoneLV/main/gemstonelv.version"
     },
     "tags": [
@@ -42,7 +42,7 @@
             "as": "VAB"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Tantares/GemstoneLV/releases/download/v1.0/GemstoneLV.zip",
+    "download": "https://get.2sb.org/https://github.com/Tantares/GemstoneLV/releases/download/v1.0/GemstoneLV.zip",
     "download_size": 12030847,
     "download_hash": {
         "sha1": "16DD791E81763CFE5B6E045B8363156DDC5197E5",

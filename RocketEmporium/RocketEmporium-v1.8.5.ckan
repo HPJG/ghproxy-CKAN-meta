@@ -10,8 +10,8 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/174748-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/johanedab/RocketEmporium",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/johanedab/RocketEmporium/issues",
+        "repository": "https://get.2sb.org/https://github.com/johanedab/RocketEmporium",
+        "bugtracker": "https://get.2sb.org/https://github.com/johanedab/RocketEmporium/issues",
         "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=574"
     },
     "tags": [
@@ -41,7 +41,7 @@
             ]
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/johanedab/RocketEmporium/releases/download/v1.8.5/RocketEmporium_v1.8.5.zip",
+    "download": "https://get.2sb.org/https://github.com/johanedab/RocketEmporium/releases/download/v1.8.5/RocketEmporium_v1.8.5.zip",
     "download_size": 6345237,
     "download_hash": {
         "sha1": "5AEBC496A55A36A52859389673939323E282DEE5",

@@ -14,8 +14,8 @@
     "license": "CC-BY-SA-2.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/184167-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/jrodrigv/BDAMultiplayer",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/jrodrigv/BDAMultiplayer/issues"
+        "repository": "https://get.2sb.org/https://github.com/jrodrigv/BDAMultiplayer",
+        "bugtracker": "https://get.2sb.org/https://github.com/jrodrigv/BDAMultiplayer/issues"
     },
     "tags": [
         "plugin",
@@ -58,7 +58,7 @@
             "as": "SPH"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/jrodrigv/BDAMultiplayer/releases/download/0.5/BDAMultiplayer_finalRelease.zip",
+    "download": "https://get.2sb.org/https://github.com/jrodrigv/BDAMultiplayer/releases/download/0.5/BDAMultiplayer_finalRelease.zip",
     "download_size": 53051704,
     "download_hash": {
         "sha1": "74C455F755BE95B9F73E0ED2E1770D83A254F4D2",

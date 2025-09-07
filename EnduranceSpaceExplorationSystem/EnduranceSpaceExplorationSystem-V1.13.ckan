@@ -10,8 +10,8 @@
     "license": "CC-BY-NC-4.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/133590-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/JPLRepo/Endurance",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/JPLRepo/Endurance/issues",
+        "repository": "https://get.2sb.org/https://github.com/JPLRepo/Endurance",
+        "bugtracker": "https://get.2sb.org/https://github.com/JPLRepo/Endurance/issues",
         "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=258"
     },
     "tags": [
@@ -59,7 +59,7 @@
             ]
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/JPLRepo/Endurance/releases/download/V1.13/Endurance_V1.13.0.0.zip",
+    "download": "https://get.2sb.org/https://github.com/JPLRepo/Endurance/releases/download/V1.13/Endurance_V1.13.0.0.zip",
     "download_size": 14525472,
     "download_hash": {
         "sha1": "61FE9CBC5C60365F338F543DE84A4C3D83CF7B7E",

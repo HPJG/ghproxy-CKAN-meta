@@ -10,8 +10,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/174189-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/yalov/CommunityPartsTitles",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/yalov/CommunityPartsTitles/issues",
+        "repository": "https://get.2sb.org/https://github.com/yalov/CommunityPartsTitles",
+        "bugtracker": "https://get.2sb.org/https://github.com/yalov/CommunityPartsTitles/issues",
         "remote-avc": "https://raw.githubusercontent.com/yalov/CommunityPartsTitles/master/GameData/002_CommunityPartsTitles/CommunityPartsTitles.version"
     },
     "tags": [
@@ -205,7 +205,7 @@
             "comment": "Exclude Extras/ folder. There are CommunityPartsTitlesExtrasCategory and CommunityPartsTitlesExtrasNoCCKDup for it"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/yalov/CommunityPartsTitles/releases/download/0.6.7/CommunityPartsTitles-v0.6.7.zip",
+    "download": "https://get.2sb.org/https://github.com/yalov/CommunityPartsTitles/releases/download/0.6.7/CommunityPartsTitles-v0.6.7.zip",
     "download_size": 155397,
     "download_hash": {
         "sha1": "DFEEFC7DB49A7D3A1020CE762EA23A2BA0B87A9F",

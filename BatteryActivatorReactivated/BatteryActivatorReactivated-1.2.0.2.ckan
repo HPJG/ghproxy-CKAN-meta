@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/197788-18x-19x-110x-battery-activator-reactivated/",
         "spacedock": "https://spacedock.info/mod/2553/BatteryActivatorReactivated",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/BatteryActivator",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/BatteryActivator/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/BatteryActivator",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/BatteryActivator/issues",
         "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/BatteryActivator/refs/heads/main/BatteryActivator.version",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/BatteryActivatorReactivated/BatteryActivatorReactivated-1603981465.7235832.jpg"
     },
@@ -27,7 +27,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/BatteryActivator/releases/download/1.2.0.2/BatteryActivatorReactivated-1.2.0.2.zip",
+        "https://get.2sb.org/https://github.com/linuxgurugamer/BatteryActivator/releases/download/1.2.0.2/BatteryActivatorReactivated-1.2.0.2.zip",
         "https://spacedock.info/mod/2553/BatteryActivatorReactivated/download/1.2.0.2"
     ],
     "download_size": 20623,

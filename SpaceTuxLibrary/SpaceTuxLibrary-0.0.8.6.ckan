@@ -10,8 +10,8 @@
     "license": "GPL-3.0",
     "resources": {
         "spacedock": "https://spacedock.info/mod/2210/SpaceTux%20Library",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/SpaceTuxLibrary",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/SpaceTuxLibrary/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/SpaceTuxLibrary",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/SpaceTuxLibrary/issues",
         "remote-avc": "http://ksp.spacetux.net/avc/SpaceTuxLibrary"
     },
     "tags": [
@@ -33,7 +33,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/SpaceTuxLibrary/releases/download/0.0.8.6/SpaceTuxLibrary-1.12.0-0.0.8.6.zip",
+        "https://get.2sb.org/https://github.com/linuxgurugamer/SpaceTuxLibrary/releases/download/0.0.8.6/SpaceTuxLibrary-1.12.0-0.0.8.6.zip",
         "https://spacedock.info/mod/2210/SpaceTux%20Library/download/0.0.8.6"
     ],
     "download_size": 497053,

@@ -7,8 +7,8 @@
     "author": "Raidernick",
     "license": "CC-BY-NC-ND-3.0",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/KSP-RO/Skylab",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/Skylab"
+        "homepage": "https://get.2sb.org/https://github.com/KSP-RO/Skylab",
+        "repository": "https://get.2sb.org/https://github.com/KSP-RO/Skylab"
     },
     "version": "v1.2",
     "ksp_version": "1.0.5",
@@ -23,7 +23,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/Skylab/releases/download/v1.2/RN_Skylab_v1.2.zip",
+    "download": "https://get.2sb.org/https://github.com/KSP-RO/Skylab/releases/download/v1.2/RN_Skylab_v1.2.zip",
     "download_size": 7566187,
     "download_hash": {
         "sha1": "291CFC93C3656F312EA7E110DA287038D3A23F52",

@@ -9,8 +9,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/116789-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Kerbas-ad-astra/CommNet-Relays",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Kerbas-ad-astra/CommNet-Relays/issues",
+        "repository": "https://get.2sb.org/https://github.com/Kerbas-ad-astra/CommNet-Relays",
+        "bugtracker": "https://get.2sb.org/https://github.com/Kerbas-ad-astra/CommNet-Relays/issues",
         "remote-avc": "https://raw.githubusercontent.com/Kerbas-ad-astra/CommNet-Relays/master/GameData/ContractPacks/CommNetRelays/CommNetRelays.version"
     },
     "tags": [
@@ -35,7 +35,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Kerbas-ad-astra/CommNet-Relays/releases/download/v2.1.0/CommNetRelays-v2.1.0.zip",
+    "download": "https://get.2sb.org/https://github.com/Kerbas-ad-astra/CommNet-Relays/releases/download/v2.1.0/CommNetRelays-v2.1.0.zip",
     "download_size": 48977,
     "download_hash": {
         "sha1": "6D5A51068FCDDEB73C49F057621220C6D614563C",

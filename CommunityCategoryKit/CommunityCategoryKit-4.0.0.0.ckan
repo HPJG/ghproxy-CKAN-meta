@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://umbraspaceindustries.github.io/UmbraSpaceIndustries/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/BobPalmer/CommunityCategoryKit"
+        "repository": "https://get.2sb.org/https://github.com/BobPalmer/CommunityCategoryKit"
     },
     "version": "4.0.0.0",
     "ksp_version_min": "1.5.0",
@@ -19,7 +19,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/BobPalmer/CommunityCategoryKit/releases/download/4.0.0.0/CCK_4.0.0.0.zip",
+    "download": "https://get.2sb.org/https://github.com/BobPalmer/CommunityCategoryKit/releases/download/4.0.0.0/CCK_4.0.0.0.zip",
     "download_size": 118870,
     "download_hash": {
         "sha1": "EFEE475499E86E4593143B4E2EA6F92A06CEC8E2",

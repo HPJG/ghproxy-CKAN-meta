@@ -8,7 +8,7 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/175512-14-rla-reborn/",
         "spacedock": "https://spacedock.info/mod/1880/RLA%20Reborn",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/RLA_Reborn"
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/RLA_Reborn"
     },
     "version": "0.15.0.0",
     "ksp_version_min": "1.2.0",

@@ -8,7 +8,7 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/127378-/",
         "spacedock": "https://spacedock.info/mod/48/Editor%20Extensions%20Redux",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/EditorExtensionsRedux"
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/EditorExtensionsRedux"
     },
     "version": "3.2.5",
     "ksp_version_min": "1.1.0",

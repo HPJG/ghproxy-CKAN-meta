@@ -7,7 +7,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/55905",
-        "repository": "https://hk.gh-proxy.com/https://github.com/rbray89/EnvironmentalVisualEnhancements"
+        "repository": "https://get.2sb.org/https://github.com/rbray89/EnvironmentalVisualEnhancements"
     },
     "version": "1:EVE-1.05-4",
     "ksp_version": "1.0.5",
@@ -27,7 +27,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/rbray89/EnvironmentalVisualEnhancements/releases/download/EVE-1.05-4/x86-EVE-Release.zip",
+    "download": "https://get.2sb.org/https://github.com/rbray89/EnvironmentalVisualEnhancements/releases/download/EVE-1.05-4/x86-EVE-Release.zip",
     "download_size": 5929127,
     "download_hash": {
         "sha1": "CAD7FAE5DA004185828F3ADD76A58635364856C3",

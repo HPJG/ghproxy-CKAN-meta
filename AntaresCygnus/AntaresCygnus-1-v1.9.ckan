@@ -14,8 +14,8 @@
     "license": "CC-BY-NC-ND-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/111292-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/Antares-Cygnus",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-RO/Antares-Cygnus/issues",
+        "repository": "https://get.2sb.org/https://github.com/KSP-RO/Antares-Cygnus",
+        "bugtracker": "https://get.2sb.org/https://github.com/KSP-RO/Antares-Cygnus/issues",
         "remote-avc": "http://raw.githubusercontent.com/KSP-RO/Antares-Cygnus/master/GameData/KK_Antares/Antares-Cygnus.version"
     },
     "tags": [
@@ -40,7 +40,7 @@
             "install_to": "Ships"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/Antares-Cygnus/releases/download/v1.9/RN_KK_Antares_Cygnus_v1.9.zip",
+    "download": "https://get.2sb.org/https://github.com/KSP-RO/Antares-Cygnus/releases/download/v1.9/RN_KK_Antares_Cygnus_v1.9.zip",
     "download_size": 12881429,
     "download_hash": {
         "sha1": "6941808306AE65D215BFE3AC975BA057355D9F5E",

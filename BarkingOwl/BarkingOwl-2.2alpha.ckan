@@ -8,8 +8,8 @@
     "license": "CC-BY-NC-SA",
     "release_status": "testing",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/Bellabong/Barking-Owl-Bureau",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Bellabong/Barking-Owl-Bureau/issues"
+        "repository": "https://get.2sb.org/https://github.com/Bellabong/Barking-Owl-Bureau",
+        "bugtracker": "https://get.2sb.org/https://github.com/Bellabong/Barking-Owl-Bureau/issues"
     },
     "tags": [
         "config",
@@ -44,7 +44,7 @@
             "name": "BluedogDB"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Bellabong/Barking-Owl-Bureau/releases/download/2.2alpha/BarkingOwl2.2alpha.zip",
+    "download": "https://get.2sb.org/https://github.com/Bellabong/Barking-Owl-Bureau/releases/download/2.2alpha/BarkingOwl2.2alpha.zip",
     "download_size": 78593043,
     "download_hash": {
         "sha256": "8D93691507944A4142BD4661BC5C261F8630A7C96AF40F143D08DBFEB3A1E78A"

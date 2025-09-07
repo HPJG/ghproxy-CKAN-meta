@@ -10,14 +10,14 @@
     "license": "BSD-2-clause",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/169087-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/radistmorse/KSPAdjustableModPanel",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/radistmorse/KSPAdjustableModPanel/issues"
+        "repository": "https://get.2sb.org/https://github.com/radistmorse/KSPAdjustableModPanel",
+        "bugtracker": "https://get.2sb.org/https://github.com/radistmorse/KSPAdjustableModPanel/issues"
     },
     "tags": [
         "plugin",
         "convenience"
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/radistmorse/KSPAdjustableModPanel/releases/download/1.5.4/AdjustableModPanel.zip",
+    "download": "https://get.2sb.org/https://github.com/radistmorse/KSPAdjustableModPanel/releases/download/1.5.4/AdjustableModPanel.zip",
     "download_size": 18409,
     "download_hash": {
         "sha1": "37933AD7F6FECDA0C154F4D5604C0981F18E5A24",

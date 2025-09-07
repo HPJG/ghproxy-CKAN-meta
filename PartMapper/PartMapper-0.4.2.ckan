@@ -7,8 +7,8 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/150441-140-kerbalx-mod-upload-to-kerbalx-direct-from-ksp/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Sujimichi/KerbalX",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Sujimichi/KerbalX/issues"
+        "repository": "https://get.2sb.org/https://github.com/Sujimichi/KerbalX",
+        "bugtracker": "https://get.2sb.org/https://github.com/Sujimichi/KerbalX/issues"
     },
     "tags": [
         "plugin",
@@ -26,7 +26,7 @@
             "install_to": "GameRoot"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Sujimichi/KerbalX/releases/download/0.4.2/PartMapper.zip",
+    "download": "https://get.2sb.org/https://github.com/Sujimichi/KerbalX/releases/download/0.4.2/PartMapper.zip",
     "download_size": 2364774,
     "download_hash": {
         "sha1": "B427EC1C84C94C0CB252C2BF36263519B31A7593",

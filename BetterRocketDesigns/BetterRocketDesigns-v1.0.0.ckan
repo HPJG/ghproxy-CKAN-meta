@@ -8,8 +8,8 @@
     "ksp_version": "1.12.5",
     "license": "LGPL-3.0",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/Bloodsucker/ksp-better-rocket-designs",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Bloodsucker/ksp-better-rocket-designs/issues",
+        "repository": "https://get.2sb.org/https://github.com/Bloodsucker/ksp-better-rocket-designs",
+        "bugtracker": "https://get.2sb.org/https://github.com/Bloodsucker/ksp-better-rocket-designs/issues",
         "x_screenshot": "https://raw.githubusercontent.com/Bloodsucker/ksp-better-rocket-designs/develop/res/save-as.png"
     },
     "tags": [
@@ -22,7 +22,7 @@
             "name": "ClickThroughBlocker"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Bloodsucker/ksp-better-rocket-designs/releases/download/v1.0.0/BetterRocketDesigns-v1.0.0.zip",
+    "download": "https://get.2sb.org/https://github.com/Bloodsucker/ksp-better-rocket-designs/releases/download/v1.0.0/BetterRocketDesigns-v1.0.0.zip",
     "download_size": 17123,
     "download_hash": {
         "sha1": "2C161074E21D931D7B717130573291A893075DBE",

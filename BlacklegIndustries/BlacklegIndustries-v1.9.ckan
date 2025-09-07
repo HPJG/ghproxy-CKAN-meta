@@ -7,7 +7,7 @@
     "license": "CC0",
     "resources": {
         "homepage": "https://www.blackleg.es",
-        "repository": "https://hk.gh-proxy.com/https://github.com/blackleg/blackleg-industries"
+        "repository": "https://get.2sb.org/https://github.com/blackleg/blackleg-industries"
     },
     "version": "v1.9",
     "ksp_version": "1.0.5",
@@ -28,7 +28,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/blackleg/blackleg-industries/releases/download/v1.9/blackind.zip",
+    "download": "https://get.2sb.org/https://github.com/blackleg/blackleg-industries/releases/download/v1.9/blackind.zip",
     "download_size": 4000733,
     "download_hash": {
         "sha1": "2569AD5B87A9E08C8BFC9E5DD92171E0C867A4BE",

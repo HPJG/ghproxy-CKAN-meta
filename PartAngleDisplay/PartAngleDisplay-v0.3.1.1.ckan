@@ -7,7 +7,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/73551-110-part-angle-display-including-seamless-highly-accurate-rotation-v0311",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Gerry1135/PartAngleDisplay"
+        "repository": "https://get.2sb.org/https://github.com/Gerry1135/PartAngleDisplay"
     },
     "version": "v0.3.1.1",
     "ksp_version": "1.1.0",
@@ -16,7 +16,7 @@
             "name": "Toolbar"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Gerry1135/PartAngleDisplay/releases/download/v0.3.1.1/PartAngleDisplay_0.3.1.1.zip",
+    "download": "https://get.2sb.org/https://github.com/Gerry1135/PartAngleDisplay/releases/download/v0.3.1.1/PartAngleDisplay_0.3.1.1.zip",
     "download_size": 17665,
     "download_hash": {
         "sha1": "BC36A042769705EA59DE1510332838E00E2F3B30",

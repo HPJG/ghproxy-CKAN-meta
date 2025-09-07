@@ -8,9 +8,9 @@
     ],
     "license": "MIT",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/allista/AT_Utils",
-        "repository": "https://hk.gh-proxy.com/https://github.com/allista/AT_Utils",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/allista/AT_Utils/issues"
+        "homepage": "https://get.2sb.org/https://github.com/allista/AT_Utils",
+        "repository": "https://get.2sb.org/https://github.com/allista/AT_Utils",
+        "bugtracker": "https://get.2sb.org/https://github.com/allista/AT_Utils/issues"
     },
     "version": "v1.6.0.1",
     "ksp_version": "1.4.5",
@@ -25,7 +25,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/allista/AT_Utils/releases/download/v1.6.0.1/AT_Utils-1.6.0.1.zip",
+    "download": "https://get.2sb.org/https://github.com/allista/AT_Utils/releases/download/v1.6.0.1/AT_Utils-1.6.0.1.zip",
     "download_size": 168575,
     "download_hash": {
         "sha1": "E72839B287C7AB01EAF364F16CF106F9A13DF69A",

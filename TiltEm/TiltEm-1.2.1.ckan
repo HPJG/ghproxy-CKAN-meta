@@ -7,7 +7,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/179281-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/LunaMultiplayer/TiltEm"
+        "repository": "https://get.2sb.org/https://github.com/LunaMultiplayer/TiltEm"
     },
     "version": "1.2.1",
     "ksp_version": "1.7",
@@ -28,7 +28,7 @@
             "name": "Kopernicus"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/LunaMultiplayer/TiltEm/releases/download/1.2.1/TiltEm-1.2.1-Release.zip",
+    "download": "https://get.2sb.org/https://github.com/LunaMultiplayer/TiltEm/releases/download/1.2.1/TiltEm-1.2.1-Release.zip",
     "download_size": 64197,
     "download_hash": {
         "sha1": "C248625D86AF73257AECDDEA8B2482E83CF8D7E0",

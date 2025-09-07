@@ -8,10 +8,10 @@
     "ksp_version": "1.10.1",
     "license": "public-domain",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/Xyphos/KSP_SASAG/wiki",
+        "homepage": "https://get.2sb.org/https://github.com/Xyphos/KSP_SASAG/wiki",
         "spacedock": "https://spacedock.info/mod/1380/SASAG",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Xyphos/KSP_SASAG",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Xyphos/KSP_SASAG/issues"
+        "repository": "https://get.2sb.org/https://github.com/Xyphos/KSP_SASAG",
+        "bugtracker": "https://get.2sb.org/https://github.com/Xyphos/KSP_SASAG/issues"
     },
     "tags": [
         "plugin",

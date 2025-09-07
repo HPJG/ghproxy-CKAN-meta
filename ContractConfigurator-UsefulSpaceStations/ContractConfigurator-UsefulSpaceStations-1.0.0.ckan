@@ -7,7 +7,7 @@
     "license": "CC-BY-SA-4.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/113642",
-        "repository": "https://hk.gh-proxy.com/https://github.com/severedsolo/UsefulSpaceStations"
+        "repository": "https://get.2sb.org/https://github.com/severedsolo/UsefulSpaceStations"
     },
     "version": "1.0.0",
     "ksp_version_min": "1.0.2",
@@ -32,7 +32,7 @@
             "install_to": "GameData/ContractPacks"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/severedsolo/UsefulSpaceStations/releases/download/1.0.1/UsefulSpaceStations1.0.1.zip",
+    "download": "https://get.2sb.org/https://github.com/severedsolo/UsefulSpaceStations/releases/download/1.0.1/UsefulSpaceStations1.0.1.zip",
     "download_size": 72872,
     "download_hash": {
         "sha1": "7AE1B50317DE97A0BE891CF891EFF25B5F03BA9E",

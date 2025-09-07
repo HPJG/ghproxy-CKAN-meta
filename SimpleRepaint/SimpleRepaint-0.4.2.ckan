@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/204419-18x-112x-simplerepaint-universal-simple-and-lightweight-parts-recoloring/",
         "spacedock": "https://spacedock.info/mod/2820/Simple%20Repaint",
-        "repository": "https://hk.gh-proxy.com/https://github.com/judicator/SimpleRepaint",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/judicator/SimpleRepaint/issues",
+        "repository": "https://get.2sb.org/https://github.com/judicator/SimpleRepaint",
+        "bugtracker": "https://get.2sb.org/https://github.com/judicator/SimpleRepaint/issues",
         "remote-avc": "https://raw.githubusercontent.com/judicator/SimpleRepaint/master/GameData/SimpleRepaint/SimpleRepaint.version",
         "x_screenshot": "https://spacedock.info/content/rocketscientist_63967/Simple_Repaint/Simple_Repaint-1628425408.8953385.png"
     },
@@ -35,7 +35,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/judicator/SimpleRepaint/releases/download/0.4.2/SimpleRepaint_0.4.2.zip",
+        "https://get.2sb.org/https://github.com/judicator/SimpleRepaint/releases/download/0.4.2/SimpleRepaint_0.4.2.zip",
         "https://spacedock.info/mod/2820/Simple%20Repaint/download/0.4.2"
     ],
     "download_size": 170287,

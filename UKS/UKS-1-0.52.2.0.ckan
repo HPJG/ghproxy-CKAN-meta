@@ -9,7 +9,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/154587-122-modular-kolonization-system-mks/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/UmbraSpaceIndustries/MKS"
+        "repository": "https://get.2sb.org/https://github.com/UmbraSpaceIndustries/MKS"
     },
     "version": "1:0.52.2.0",
     "ksp_version_min": "1.2.9",
@@ -72,7 +72,7 @@
             "install_to": "GameData/UmbraSpaceIndustries"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/UmbraSpaceIndustries/MKS/releases/download/0.52.2.0/MKS_0.52.2.0.zip",
+    "download": "https://get.2sb.org/https://github.com/UmbraSpaceIndustries/MKS/releases/download/0.52.2.0/MKS_0.52.2.0.zip",
     "download_size": 46818338,
     "download_hash": {
         "sha1": "23F05962D742BF5C71FC6C80E52A9ADF5A58987D",

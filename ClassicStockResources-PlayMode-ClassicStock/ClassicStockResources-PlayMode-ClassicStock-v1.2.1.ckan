@@ -8,9 +8,9 @@
     "ksp_version_min": "1.8.0",
     "license": "GPL-3.0",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/Angel-125/ClassicStockResources",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Angel-125/ClassicStockResources",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Angel-125/ClassicStockResources/issues",
+        "homepage": "https://get.2sb.org/https://github.com/Angel-125/ClassicStockResources",
+        "repository": "https://get.2sb.org/https://github.com/Angel-125/ClassicStockResources",
+        "bugtracker": "https://get.2sb.org/https://github.com/Angel-125/ClassicStockResources/issues",
         "remote-avc": "https://raw.githubusercontent.com/Angel-125/MOLE/master/GameData/WildBlueIndustries/ClassicStockResources/ClassicStockResources.version"
     },
     "tags": [
@@ -50,7 +50,7 @@
             "install_to": "GameData/WildBlueIndustries/ClassicStockResources"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Angel-125/ClassicStockResources/releases/download/v1.2.1/ClassicStockResources.zip",
+    "download": "https://get.2sb.org/https://github.com/Angel-125/ClassicStockResources/releases/download/v1.2.1/ClassicStockResources.zip",
     "download_size": 38229,
     "download_hash": {
         "sha1": "45A99712C048A651C8328D1D099F57F1AF719835",

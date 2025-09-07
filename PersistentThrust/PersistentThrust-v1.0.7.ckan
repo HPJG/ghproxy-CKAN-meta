@@ -7,7 +7,7 @@
     "license": "open-source",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/133735",
-        "repository": "https://hk.gh-proxy.com/https://github.com/bld/PersistentThrust"
+        "repository": "https://get.2sb.org/https://github.com/bld/PersistentThrust"
     },
     "version": "v1.0.7",
     "ksp_version": "1.2",
@@ -27,7 +27,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/bld/PersistentThrust/releases/download/v1.0.7/PersistentThrust.v1.0.7.zip",
+    "download": "https://get.2sb.org/https://github.com/bld/PersistentThrust/releases/download/v1.0.7/PersistentThrust.v1.0.7.zip",
     "download_size": 2259438,
     "download_hash": {
         "sha1": "053DB62F21FD17DACD13BAA91428C84FEB71F92F",

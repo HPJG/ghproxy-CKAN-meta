@@ -3,8 +3,8 @@
     "identifier": "ThrottleControlledAvionics",
     "x_netkan_license_ok": true,
     "resources": {
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/qfeys/ThrottleControlledAvionics/issues",
-        "repository": "https://hk.gh-proxy.com/https://github.com/qfeys/ThrottleControlledAvionics",
+        "bugtracker": "https://get.2sb.org/https://github.com/qfeys/ThrottleControlledAvionics/issues",
+        "repository": "https://get.2sb.org/https://github.com/qfeys/ThrottleControlledAvionics",
         "kerbalstuff": "https://kerbalstuff.com/mod/510/Throttle%20Controlled%20Avionics%20-%20Continued",
         "homepage": "http://forum.kerbalspaceprogram.com/threads/107802"
     },

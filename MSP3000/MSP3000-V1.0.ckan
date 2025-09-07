@@ -7,7 +7,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/172457-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/TykoTek/Material-Science-Pod"
+        "repository": "https://get.2sb.org/https://github.com/TykoTek/Material-Science-Pod"
     },
     "version": "V1.0",
     "depends": [
@@ -15,7 +15,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/TykoTek/Material-Science-Pod/releases/download/V1.0/MaterialSciencePod.zip",
+    "download": "https://get.2sb.org/https://github.com/TykoTek/Material-Science-Pod/releases/download/V1.0/MaterialSciencePod.zip",
     "download_size": 2507154,
     "download_hash": {
         "sha1": "51947625308E5D80A56C8A45CA330CE3AD8716EE",

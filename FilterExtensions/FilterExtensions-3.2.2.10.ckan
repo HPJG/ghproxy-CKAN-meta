@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/168456-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/FilterExtension"
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/FilterExtension"
     },
     "version": "3.2.2.10",
     "ksp_version_min": "1.5.1",
@@ -35,7 +35,7 @@
             ]
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/FilterExtension/releases/download/3.2.2.10/FilterExtension-3.2.2.10.zip",
+    "download": "https://get.2sb.org/https://github.com/linuxgurugamer/FilterExtension/releases/download/3.2.2.10/FilterExtension-3.2.2.10.zip",
     "download_size": 787881,
     "download_hash": {
         "sha1": "341F6195FE88685C52960F4A02F8174CE2C52AD9",

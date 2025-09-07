@@ -11,7 +11,7 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/117236-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/jrodrigv/B9-PWings-Fork"
+        "repository": "https://get.2sb.org/https://github.com/jrodrigv/B9-PWings-Fork"
     },
     "version": "1:0.50",
     "ksp_version_min": "1.4.0",
@@ -27,7 +27,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/jrodrigv/B9-PWings-Fork/releases/download/v0.50/B9-PWings-Fork.0.50_04082018.zip",
+    "download": "https://get.2sb.org/https://github.com/jrodrigv/B9-PWings-Fork/releases/download/v0.50/B9-PWings-Fork.0.50_04082018.zip",
     "download_size": 3824528,
     "download_hash": {
         "sha1": "4786D3E3659E4F67B300531BF220C2119164C736",

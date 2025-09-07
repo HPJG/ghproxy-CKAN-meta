@@ -8,9 +8,9 @@
     "ksp_version_min": "1.9",
     "license": "restricted",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/WyattPetula/Precursors",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/WyattPetula/Precursors/issues",
-        "discussions": "https://hk.gh-proxy.com/https://github.com/WyattPetula/Precursors/discussions"
+        "repository": "https://get.2sb.org/https://github.com/WyattPetula/Precursors",
+        "bugtracker": "https://get.2sb.org/https://github.com/WyattPetula/Precursors/issues",
+        "discussions": "https://get.2sb.org/https://github.com/WyattPetula/Precursors/discussions"
     },
     "tags": [
         "config",
@@ -35,7 +35,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/WyattPetula/Precursors/releases/download/v1.8.0/Precursors_1.8.0.zip",
+    "download": "https://get.2sb.org/https://github.com/WyattPetula/Precursors/releases/download/v1.8.0/Precursors_1.8.0.zip",
     "download_size": 1373656196,
     "download_hash": {
         "sha1": "46E92FE235BD3F93C47A1A7F5497296933912DAB",

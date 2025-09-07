@@ -11,8 +11,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/143288-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Galileo88/StockVisualEnhancements",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Galileo88/StockVisualEnhancements/issues"
+        "repository": "https://get.2sb.org/https://github.com/Galileo88/StockVisualEnhancements",
+        "bugtracker": "https://get.2sb.org/https://github.com/Galileo88/StockVisualEnhancements/issues"
     },
     "tags": [
         "config",
@@ -41,7 +41,7 @@
             "filter": "Sunflares"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Galileo88/StockVisualEnhancements/releases/download/1.1.6/SVE_Scatterer.zip",
+    "download": "https://get.2sb.org/https://github.com/Galileo88/StockVisualEnhancements/releases/download/1.1.6/SVE_Scatterer.zip",
     "download_size": 47188672,
     "download_hash": {
         "sha1": "C75A78089B73474408A6E373924CCA456C7D0C1E",

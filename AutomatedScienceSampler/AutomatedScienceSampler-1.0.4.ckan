@@ -10,8 +10,8 @@
     "license": "restricted",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/95531-11-automatedsciencesampler-v100-20042016/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Xarun/AutomatedScienceSampler",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Xarun/AutomatedScienceSampler/issues"
+        "repository": "https://get.2sb.org/https://github.com/Xarun/AutomatedScienceSampler",
+        "bugtracker": "https://get.2sb.org/https://github.com/Xarun/AutomatedScienceSampler/issues"
     },
     "version": "1.0.4",
     "ksp_version": "1.1.0",
@@ -26,7 +26,7 @@
             "install_to": "GameData/KerboKatz"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Xarun/AutomatedScienceSampler/releases/download/1.0.4/AutomatedScienceSampler.zip",
+    "download": "https://get.2sb.org/https://github.com/Xarun/AutomatedScienceSampler/releases/download/1.0.4/AutomatedScienceSampler.zip",
     "download_size": 193883,
     "download_hash": {
         "sha1": "C7676BF5C7A3827DA05EED20B36E97C6A8DB0FAD",

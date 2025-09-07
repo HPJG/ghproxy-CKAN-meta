@@ -8,7 +8,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/124391-1-02-Heat-Control-Manage-your-ship-s-heat!?p=1997251#post1997251",
-        "repository": "https://hk.gh-proxy.com/https://github.com/ChrisAdderley/HeatControl",
+        "repository": "https://get.2sb.org/https://github.com/ChrisAdderley/HeatControl",
         "kerbalstuff": "https://kerbalstuff.com/mod/890/Heat%20Control"
     },
     "version": "0.2.0",

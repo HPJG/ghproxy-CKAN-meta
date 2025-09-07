@@ -10,9 +10,9 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/122020-131mostly-functional-141-bluedog-design-bureau-stockalike-saturn-apollo-and-more-v142-%D0%B0%D1%82%D0%BB%D0%B0%D1%81-1feb2018/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/CobaltWolf/Bluedog-Design-Bureau",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/CobaltWolf/Bluedog-Design-Bureau/issues",
-        "remote-avc": "https://hk.gh-proxy.com/https://github.com/CobaltWolf/Bluedog-Design-Bureau/raw/master/Gamedata/Bluedog_DB/Versioning/Bluedog_DB.version"
+        "repository": "https://get.2sb.org/https://github.com/CobaltWolf/Bluedog-Design-Bureau",
+        "bugtracker": "https://get.2sb.org/https://github.com/CobaltWolf/Bluedog-Design-Bureau/issues",
+        "remote-avc": "https://get.2sb.org/https://github.com/CobaltWolf/Bluedog-Design-Bureau/raw/master/Gamedata/Bluedog_DB/Versioning/Bluedog_DB.version"
     },
     "tags": [
         "parts"
@@ -129,7 +129,7 @@
             ]
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/CobaltWolf/Bluedog-Design-Bureau/releases/download/v1.13.0/Bluedog-Design-Bureau-1.13.0.zip",
+    "download": "https://get.2sb.org/https://github.com/CobaltWolf/Bluedog-Design-Bureau/releases/download/v1.13.0/Bluedog-Design-Bureau-1.13.0.zip",
     "download_size": 859456201,
     "download_hash": {
         "sha1": "1E40D1E81171DA6E47A1D19B892EBF84048BC0BA",

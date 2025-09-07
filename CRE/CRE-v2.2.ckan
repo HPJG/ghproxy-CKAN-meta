@@ -9,8 +9,8 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/177388-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Tantares/CRE",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Tantares/CRE/issues"
+        "repository": "https://get.2sb.org/https://github.com/Tantares/CRE",
+        "bugtracker": "https://get.2sb.org/https://github.com/Tantares/CRE/issues"
     },
     "tags": [
         "parts"
@@ -28,7 +28,7 @@
             "name": "CommunityResourcePack"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Tantares/CRE/releases/download/v2.2/CRE.zip",
+    "download": "https://get.2sb.org/https://github.com/Tantares/CRE/releases/download/v2.2/CRE.zip",
     "download_size": 13737196,
     "download_hash": {
         "sha1": "D4DE02C9EDAA347B1A3619E2C8BF145070CB39C0",

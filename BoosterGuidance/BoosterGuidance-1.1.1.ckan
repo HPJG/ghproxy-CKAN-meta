@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/198760-181-1101-boostguidance-v101/",
         "spacedock": "https://spacedock.info/mod/2587/BoosterGuidance",
-        "repository": "https://hk.gh-proxy.com/https://github.com/oyster-catcher/BoosterGuidance",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/oyster-catcher/BoosterGuidance/issues"
+        "repository": "https://get.2sb.org/https://github.com/oyster-catcher/BoosterGuidance",
+        "bugtracker": "https://get.2sb.org/https://github.com/oyster-catcher/BoosterGuidance/issues"
     },
     "tags": [
         "plugin",

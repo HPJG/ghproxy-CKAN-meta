@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/116979-*",
         "spacedock": "https://spacedock.info/mod/43/Automated%20Screenshots%20&%20Saves",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/AutomatedScreenshots",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/AutomatedScreenshots/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/AutomatedScreenshots",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/AutomatedScreenshots/issues",
         "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/AutomatedScreenshots/refs/heads/master/automatedscreenshots.version",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Automated_Screenshots__Saves/Automated_Screenshots__Saves-1456622044.5102704.png"
     },
@@ -34,7 +34,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/AutomatedScreenshots/releases/download/0.8.5.8/automatedscreenshots-1.12.0-0.8.5.8.zip",
+    "download": "https://get.2sb.org/https://github.com/linuxgurugamer/AutomatedScreenshots/releases/download/0.8.5.8/automatedscreenshots-1.12.0-0.8.5.8.zip",
     "download_size": 49620,
     "download_hash": {
         "sha1": "8B361547170E67BE0391336E6C93A9BDADACB3B5",

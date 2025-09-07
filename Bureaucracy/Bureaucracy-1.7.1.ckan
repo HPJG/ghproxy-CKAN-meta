@@ -13,8 +13,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/191192-112x-bureaucracy-monthly-budgets-reimagined-17-01072024-under-new-management/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/R-T-B/Bureaucracy",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/R-T-B/Bureaucracy/issues",
+        "repository": "https://get.2sb.org/https://github.com/R-T-B/Bureaucracy",
+        "bugtracker": "https://get.2sb.org/https://github.com/R-T-B/Bureaucracy/issues",
         "remote-avc": "https://raw.githubusercontent.com:443/R-T-B/Bureaucracy/master/GameData/Bureaucracy/Bureaucracy.version"
     },
     "tags": [
@@ -51,7 +51,7 @@
             "name": "SpaceProgramFunding"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/R-T-B/Bureaucracy/releases/download/1.7.1/Bureaucracy.zip",
+    "download": "https://get.2sb.org/https://github.com/R-T-B/Bureaucracy/releases/download/1.7.1/Bureaucracy.zip",
     "download_size": 1505477,
     "download_hash": {
         "sha1": "CAE8B7C6B4EDE87E35AFA03E36AE3EA7EB09AC94",

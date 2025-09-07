@@ -9,9 +9,9 @@
     "ksp_version_max": "1.12",
     "license": "GPL-3.0",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSPModdingLibs/Shabby",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSPModdingLibs/Shabby/issues",
-        "remote-avc": "https://hk.gh-proxy.com/https://github.com/KSPModdingLibs/Shabby/releases/latest/download/Shabby.version"
+        "repository": "https://get.2sb.org/https://github.com/KSPModdingLibs/Shabby",
+        "bugtracker": "https://get.2sb.org/https://github.com/KSPModdingLibs/Shabby/issues",
+        "remote-avc": "https://get.2sb.org/https://github.com/KSPModdingLibs/Shabby/releases/latest/download/Shabby.version"
     },
     "tags": [
         "library",
@@ -22,7 +22,7 @@
             "name": "Harmony2"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSPModdingLibs/Shabby/releases/download/0.4.0/Shabby-0.4.0.zip",
+    "download": "https://get.2sb.org/https://github.com/KSPModdingLibs/Shabby/releases/download/0.4.0/Shabby-0.4.0.zip",
     "download_size": 33295,
     "download_hash": {
         "sha1": "379F6D89CE9A3C562056764C73BD3E51DC1BB8BE",

@@ -11,8 +11,8 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/99043-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/KSP-RO/TestFlight",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/KSP-RO/TestFlight/issues"
+        "repository": "https://get.2sb.org/https://github.com/KSP-RO/TestFlight",
+        "bugtracker": "https://get.2sb.org/https://github.com/KSP-RO/TestFlight/issues"
     },
     "version": "1.10.0.0",
     "ksp_version": "1.6.1",
@@ -37,7 +37,7 @@
             ]
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/KSP-RO/TestFlight/releases/download/1.10.0.0/TestFlightCore-1.10.0.0.zip",
+    "download": "https://get.2sb.org/https://github.com/KSP-RO/TestFlight/releases/download/1.10.0.0/TestFlightCore-1.10.0.0.zip",
     "download_size": 119474,
     "download_hash": {
         "sha1": "8389013A452477FC639F6D70F884C94FE0317D39",

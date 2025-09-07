@@ -11,7 +11,7 @@
     "release_status": "stable",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/161857-13-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ksp_toolbar"
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/ksp_toolbar"
     },
     "version": "1.7.13.0",
     "ksp_version_min": "1.2.0",
@@ -22,7 +22,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/ksp_toolbar/releases/download/1.7.13.0/Toolbar-1.7.13.zip",
+    "download": "https://get.2sb.org/https://github.com/linuxgurugamer/ksp_toolbar/releases/download/1.7.13.0/Toolbar-1.7.13.zip",
     "download_size": 77684,
     "download_hash": {
         "sha1": "987C3E6D543FBB8F558B76863EB768DF02ED04EB",

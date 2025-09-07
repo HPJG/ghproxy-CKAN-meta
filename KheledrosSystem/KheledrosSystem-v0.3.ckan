@@ -7,8 +7,8 @@
     "version": "v0.3",
     "license": "CC-BY-SA-4.0",
     "resources": {
-        "repository": "https://hk.gh-proxy.com/https://github.com/plantman-dev/Kheledros-System",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/plantman-dev/Kheledros-System/issues"
+        "repository": "https://get.2sb.org/https://github.com/plantman-dev/Kheledros-System",
+        "bugtracker": "https://get.2sb.org/https://github.com/plantman-dev/Kheledros-System/issues"
     },
     "tags": [
         "config",
@@ -28,7 +28,7 @@
             "name": "VertexColorMapEmissive"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/plantman-dev/Kheledros-System/releases/download/v0.3/KheledrosSystem.zip",
+    "download": "https://get.2sb.org/https://github.com/plantman-dev/Kheledros-System/releases/download/v0.3/KheledrosSystem.zip",
     "download_size": 1072825996,
     "download_hash": {
         "sha1": "2046A1991142E0591838BAA1145BC817A1C42FCF",

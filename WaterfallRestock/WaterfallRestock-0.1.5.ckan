@@ -10,9 +10,9 @@
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/196309-wip-waterfall-a-framework-for-continuous-mesh-driven-engine-effects-dec-19/",
-        "repository": "https://hk.gh-proxy.com/https://github.com/post-kerbin-mining-corporation/WaterfallRestock",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/post-kerbin-mining-corporation/WaterfallRestock/issues",
-        "metanetkan": "https://hk.gh-proxy.com/https://github.com/post-kerbin-mining-corporation/WaterfallRestock/raw/master/CKAN/WaterfallRestock.netkan",
+        "repository": "https://get.2sb.org/https://github.com/post-kerbin-mining-corporation/WaterfallRestock",
+        "bugtracker": "https://get.2sb.org/https://github.com/post-kerbin-mining-corporation/WaterfallRestock/issues",
+        "metanetkan": "https://get.2sb.org/https://github.com/post-kerbin-mining-corporation/WaterfallRestock/raw/master/CKAN/WaterfallRestock.netkan",
         "remote-avc": "https://raw.githubusercontent.com/post-kerbin-mining-corporation/WaterfallRestock/master/GameData/WaterfallRestock/Versioning/WaterfallRestock.version"
     },
     "tags": [
@@ -36,7 +36,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/post-kerbin-mining-corporation/WaterfallRestock/releases/download/0.1.5/WaterfallRestock_0_1_5.zip",
+    "download": "https://get.2sb.org/https://github.com/post-kerbin-mining-corporation/WaterfallRestock/releases/download/0.1.5/WaterfallRestock_0_1_5.zip",
     "download_size": 19752938,
     "download_hash": {
         "sha1": "0D386439636BD0EF07996E7F0A3AA3DD9D94E4E4",

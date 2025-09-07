@@ -12,7 +12,7 @@
     "license": "CC-BY-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/162204-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/rleroy/CivilianPopulation"
+        "repository": "https://get.2sb.org/https://github.com/rleroy/CivilianPopulation"
     },
     "tags": [
         "config",
@@ -24,7 +24,7 @@
             "name": "CommunityResourcePack"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/rleroy/CivilianPopulation/releases/download/2.1.2/ksp-civilian-population-mod-2.1.2.zip",
+    "download": "https://get.2sb.org/https://github.com/rleroy/CivilianPopulation/releases/download/2.1.2/ksp-civilian-population-mod-2.1.2.zip",
     "download_size": 14762257,
     "download_hash": {
         "sha1": "E8C0C887E168DB8BED5400A3F9246905661097DD",

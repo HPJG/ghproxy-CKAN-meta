@@ -7,7 +7,7 @@
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/117753-ScreenMessageHider",
-        "repository": "https://hk.gh-proxy.com/https://github.com/HappyFaceIndustries/ScreenMessageHider"
+        "repository": "https://get.2sb.org/https://github.com/HappyFaceIndustries/ScreenMessageHider"
     },
     "version": "1.2",
     "ksp_version": "1.0.5",
@@ -17,7 +17,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/HappyFaceIndustries/ScreenMessageHider/releases/download/1.2/ScreenMessageHider.v1.2.zip",
+    "download": "https://get.2sb.org/https://github.com/HappyFaceIndustries/ScreenMessageHider/releases/download/1.2/ScreenMessageHider.v1.2.zip",
     "download_size": 2515,
     "download_hash": {
         "sha1": "0872149BCC1A21CB207B77F43C6D57CA90DA2F5C",

@@ -14,9 +14,9 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/192938-*/",
         "spacedock": "https://spacedock.info/mod/833/Kaboom!%20(BOOM)%20by%20rushnash37",
-        "repository": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/Kaboom",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/Kaboom/issues",
-        "discussions": "https://hk.gh-proxy.com/https://github.com/zer0Kerbal/Kaboom/discussions",
+        "repository": "https://get.2sb.org/https://github.com/zer0Kerbal/Kaboom",
+        "bugtracker": "https://get.2sb.org/https://github.com/zer0Kerbal/Kaboom/issues",
+        "discussions": "https://get.2sb.org/https://github.com/zer0Kerbal/Kaboom/discussions",
         "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/Kaboom/master/Kaboom.version",
         "x_screenshot": "https://spacedock.info/content/russnash37_6425/Kaboom/Kaboom-1671087996.png"
     },

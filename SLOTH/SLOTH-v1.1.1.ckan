@@ -8,9 +8,9 @@
     "license": "restricted",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/186546-*",
-        "repository": "https://hk.gh-proxy.com/https://github.com/Angel-125/SLOTH",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/Angel-125/SLOTH/issues",
-        "remote-avc": "https://hk.gh-proxy.com/https://github.com/Angel-125/SLOTH/raw/master/GameData/WildBlueIndustries/SLOTH/Sloth.version"
+        "repository": "https://get.2sb.org/https://github.com/Angel-125/SLOTH",
+        "bugtracker": "https://get.2sb.org/https://github.com/Angel-125/SLOTH/issues",
+        "remote-avc": "https://get.2sb.org/https://github.com/Angel-125/SLOTH/raw/master/GameData/WildBlueIndustries/SLOTH/Sloth.version"
     },
     "tags": [
         "parts"
@@ -39,7 +39,7 @@
             "install_to": "Ships"
         }
     ],
-    "download": "https://hk.gh-proxy.com/https://github.com/Angel-125/SLOTH/releases/download/v1.1.1/SLOTH_1_1_1.zip",
+    "download": "https://get.2sb.org/https://github.com/Angel-125/SLOTH/releases/download/v1.1.1/SLOTH_1_1_1.zip",
     "download_size": 1882283,
     "download_hash": {
         "sha1": "012372CDB1D06F2F3D13D0BF688A76E71D4FCB20",

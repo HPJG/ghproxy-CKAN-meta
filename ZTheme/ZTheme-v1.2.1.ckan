@@ -11,11 +11,11 @@
     "ksp_version": "1.12",
     "license": "restricted",
     "resources": {
-        "homepage": "https://hk.gh-proxy.com/https://github.com/zapSNH/ZTheme",
+        "homepage": "https://get.2sb.org/https://github.com/zapSNH/ZTheme",
         "spacedock": "https://spacedock.info/mod/3396/ZTheme",
-        "repository": "https://hk.gh-proxy.com/https://github.com/zapSNH/ZTheme",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/zapSNH/ZTheme/issues",
-        "discussions": "https://hk.gh-proxy.com/https://github.com/zapSNH/ZTheme/discussions",
+        "repository": "https://get.2sb.org/https://github.com/zapSNH/ZTheme",
+        "bugtracker": "https://get.2sb.org/https://github.com/zapSNH/ZTheme/issues",
+        "discussions": "https://get.2sb.org/https://github.com/zapSNH/ZTheme/discussions",
         "x_screenshot": "https://spacedock.info/content/zapsnh_113802/ZTheme/ZTheme-1740665780.png"
     },
     "tags": [
@@ -32,7 +32,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/zapSNH/ZTheme/releases/download/v1.2.1/ZTheme_v121.zip",
+        "https://get.2sb.org/https://github.com/zapSNH/ZTheme/releases/download/v1.2.1/ZTheme_v121.zip",
         "https://spacedock.info/mod/3396/ZTheme/download/v1.2.1"
     ],
     "download_size": 1823113,

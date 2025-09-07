@@ -11,15 +11,15 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/186521-*",
         "spacedock": "https://spacedock.info/mod/2190/HeapPadder",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/HeapPadder",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/HeapPadder/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/HeapPadder",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/HeapPadder/issues",
         "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/HeapPadder/refs/heads/master/HeapPadder.version"
     },
     "tags": [
         "plugin"
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/HeapPadder/releases/download/0.0.2.5/HeapPadder-1.12.0-0.0.2.5.zip",
+        "https://get.2sb.org/https://github.com/linuxgurugamer/HeapPadder/releases/download/0.0.2.5/HeapPadder-1.12.0-0.0.2.5.zip",
         "https://spacedock.info/mod/2190/HeapPadder/download/0.0.2.5"
     ],
     "download_size": 14969,

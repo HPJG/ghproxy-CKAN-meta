@@ -14,8 +14,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/209418-112x-kerbal-crew-manifest/",
         "spacedock": "https://spacedock.info/mod/3097/CrewManifest",
-        "repository": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/CrewManifest",
-        "bugtracker": "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/CrewManifest/issues",
+        "repository": "https://get.2sb.org/https://github.com/linuxgurugamer/CrewManifest",
+        "bugtracker": "https://get.2sb.org/https://github.com/linuxgurugamer/CrewManifest/issues",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/CrewManifest/CrewManifest-1661612670.png"
     },
     "tags": [
@@ -41,7 +41,7 @@
         }
     ],
     "download": [
-        "https://hk.gh-proxy.com/https://github.com/linuxgurugamer/CrewManifest/releases/download/6.5.1/CrewManifest-1.12.0-6.5.1.zip",
+        "https://get.2sb.org/https://github.com/linuxgurugamer/CrewManifest/releases/download/6.5.1/CrewManifest-1.12.0-6.5.1.zip",
         "https://spacedock.info/mod/3097/CrewManifest/download/6.5.1"
     ],
     "download_size": 26323,
